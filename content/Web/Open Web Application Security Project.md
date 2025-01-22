@@ -1,0 +1,9 @@
+---
+tags:
+  - security
+  - web
+aliases:
+  - OWASP
+---
+A organization responsible for web standards and web auditing to reduce security risks across [[The Internet]].
+![[Open Web Application Security Project-20240802040318713.webp]]

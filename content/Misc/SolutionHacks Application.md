@@ -1,0 +1,12 @@
+---
+tags:
+  - jobs
+---
+# Why do you want to attend
+Im looking to attend industry events where I can find mentors and attend talks held by those that have experience in security and Dev-sec-ops aswell as develop projects for my portfolio. I am most excited to attend  workshops, with my main passions being in security and automation. If given the opportunity, i'd try to learn more about data science and data-mining aswell as machine-learning technologies. I keep up with tech news on the daily and would love to talk about where the industry is headed with other attendants.
+Software-wise, I would like to use this opportunity to try making something ambitious. Every other hackathon, I would just make a reactJS application with a simple flask backend connected with postgres + some AI model. These past few weeks, I have been learning C++ and Go and I really want to apply those skills to make complex desktop apps I can feel proud of.
+# Tell us about a past experience that you are passionate about. How do you hope to apply this to your project at SolutionHacks? 
+I really enjoy the intersection between low-level systems and software security. Personally I try to play as many CTFs as I can targetting specifically the reverse-code engineering challenges. If I were to make a project, It would have to be going for security or low-level awards and would either be something creative (In CTRL+HACK_DEL our team made a creative hello world program) or some software to be used as a security tool.
+# Which of the 17 United Nations Sustainable Development Goals are you most interested in? 
+The goal I believe is most important is goal 16 - the goal for countries to promote peace and maintain non-corrupt and reliable government institutions. The policies that come to enact social change depend on the government's priorities. For the UN to have any authority, the countries that are allied must be able to work together to achieve a sense of peace, and currently the world is escalating to violence.
+To be honest, many SDG goals are not being fufilled and SDG 16 is one of them. https://dashboards.sdgindex.org/map/goals/SDG16 . The Nordic countries do well because their public sector is very transparent and they treat people in a humane way. Other countries either do not have the economic stability to allow for humane conditions or have a government that does not prioritize peace.

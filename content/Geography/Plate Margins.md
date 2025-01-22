@@ -1,0 +1,10 @@
+---
+tags:
+  - geography
+---
+# Types
+- [[Transform Margins]]
+- [[Convergent Margins]]
+- [[Divergent Margins]]
+- [[Active Margin]]
+- [[Passive Margins]]

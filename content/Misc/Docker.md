@@ -1,0 +1,62 @@
+---
+tags:
+  - virtualization
+---
+Tool that creates lightweight environments called containers for app deployment. Docker is great at creating isolated spaces for your applications to run on while also providing them with OS level dependencies.
+Great for:
+- [[Microservices]]
+# Concepts
+- [[Containers]]
+- [[Pod]]
+- [[Dockerfile]]
+- [[Docker Node]]
+# Installation
+1. `sudo pacman -S docker`
+2. `sudo systemctl enable docker.service & sudo systemctl start docker.service` 
+3. `sudo systemctl start docker.socket`
+# Using Docker
+### Build Container
+```
+docker build -t <tagname> .
+```
+`-t` signifies the tag name. you can name this whatever you want
+`.` indicates that the `Dockerfile` is within this directory. you can change this to be the directory name that has `Dockerfile` if its not in cwd
+Use `docker images` to view all created images.
+![[Pasted image 20240701222113.png]]
+### Buildx Container
+`sudo pacman -S docker-buildx`
+```
+docker build -t <tagname> .
+```
+### Run Container
+```
+docker run -d -p 1024:1024 <tagname>
+```
+`-d` run in detached mode so it runs as a daemon process
+`-p` signifies what host and what port it is running on
+running `docker ps` will show that the image is running
+![[Docker-20240702022105020.webp]]
+`nc 127.0.0.1 1024` will connect to the container
+```
+docker run -d -p 1024:1024 -t <tagID>
+```
+![[Docker-20240910011418210.webp]]
+```
+docker run -it --privileged <tagname>
+```
+![[Docker-20240915002345746.webp]]
+### Stop Container
+`docker container stop <id>`
+![[Docker-20240702022538807.webp]]
+### Delete Image
+Use `docker images` to list all images then,
+`docker rmi -f <id>`
+![[Docker-20240720180345801.webp]]
+### Open Container In App
+![[Docker-20240910012146560.webp]]
+1. `docker ps` and note down the container ID
+2. `docker exec -it <containerid> <app>`
+	1. useful to make `<app>` be `/bin/sh` or `python`
+# Practical Use Cases
+- Make a docker compose file which automates the process of creating gitlab servers
+- You can use docker like a linux server where you SSH into

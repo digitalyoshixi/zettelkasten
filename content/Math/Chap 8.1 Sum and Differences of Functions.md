@@ -1,0 +1,5 @@
+---
+tags:
+  - math
+---
+- [[Superposition Principle]]

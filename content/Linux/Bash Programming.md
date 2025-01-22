@@ -1,0 +1,26 @@
+---
+tags:
+  - bash
+  - linux
+  - programming
+aliases:
+  - Shell Scripting
+  - Bash Scripting
+---
+- File has `.sh` file extension 
+- All bash scripts must start with the [[shebang]]: `#!/bin/sh` to run the bash shell
+- scripts are ran like: 
+	- `sh thefile.sh`
+	- `./thefile.sh` if the sh file has `chmod a+x` permissions
+- SYNTAX MATTERS
+# Things u can do
+Literally you have access to your entire OS with user privileges(you can even go root)
+- [[Bash Printing]]
+- [[Bash Comments]]
+- [[Bash Variables]] 
+- [[Bash User Inputs]]
+- [[Bash Arguments]]
+
+# Bash script into command
+Just add your directory to the path
+[[Aliases]]

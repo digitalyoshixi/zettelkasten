@@ -1,0 +1,28 @@
+---
+tags:
+  - networking
+---
+### Icons used In the book
+- Printer: Fax or directly connect to it with computer and print something out
+- PC/Laptop: general purpose computers
+- [[Server]]: computers used for the purpose of storing data
+- Phone: hooked in with the telephone network to allow for telecommunications
+- [[IP Phone]]: I assume they are using VoIP(Voice over IP). They are hooked to the internet to allow voice over internet, rather than the traditional telephone network
+- [[Router]]: device that allows the connected LAN to connect to the internet wired or wirelessly
+- [[Switch]]: device that creates a LAN with all connected devices
+- Frame Relay Switch: used to create WAN. Not very popular but extremely simple to configure
+- Cable [[Modem]]: device that allows us the connect our LAN to the internet. Must be wired
+- [[Access Point]]: wireless method of connecting LAN devices. Also allows extension of wireless coverage to allow better signal over the building.
+- ASA: cisco specific firewall. Adaptive security appliance
+- DSLAM: Digital Subscriber line access multiplexer. Network device used by ISP. Takes all the signals from each DSL, runs it in its multiplexer(MUX) which combines all signals into one
+- [[Wide Area Network]] Switch: specialized switch used primarily for wide area networks. Its not a specific device, but rather a role of the switch. Though, it is expected that this switch be atleast fitted with tons of ports for the occasion, or be layer3 to allow wireless
+- CSU/DSU: Channel service unit/Data service unit. Equivalent to a modem
+- Hub: uses ethernet connections to link computers together. Very similar to a switch, but they operate on different OSI layers. Switches > hubs for the most part
+- PIX [[Firewall]]: type of firewall DUH. Private Internet eXchange. Nobody uses this anymore
+- [[Bridge]]: method of connecting 2 seperate networks as if they were the same network. Can be wired or wireless
+- Layer3 Switch: specialized switch for use in layer 3 network layer
+- Network cloud: a black box for whatever we don’t need to know for the moment
+- [[RJ-45]] connection: wired connection. Cable is copper or fibre, idk
+- Serial line: special RS-232 cable for network connection between computers. Antiquated, just use ethernet instead
+- Virtual circuit: assumption of transmission over the internet
+- Ethernet WAN: again, special name. Just ethernet used specifically for WAN, maybe longer cables I gather

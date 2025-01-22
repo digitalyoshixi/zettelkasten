@@ -1,0 +1,6 @@
+---
+tags:
+  - math
+  - linalg
+---
+$$e^{i \theta} = \cos \theta  + i \sin \theta$$

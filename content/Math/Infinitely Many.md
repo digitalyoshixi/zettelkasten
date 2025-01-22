@@ -1,0 +1,4 @@
+---
+tags:
+  - discrete_math
+---

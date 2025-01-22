@@ -1,0 +1,22 @@
+---
+tags:
+  - hardware
+---
+# Ports
+- [[High-Definition Multimedia Interface]]
+- [[DisplayPort]]
+- [[Universal Serial Bus]]
+- [[Sony&Phillips Digital Interface]]
+- [[Digital Visual Interface]]
+- [[Video Graphics Array]]
+- [[mini-DIN|PS2]]
+- [[RJ-45]]
+- [[Phone Connector|Audio Jack]]
+- [[Power Supply Port]]
+- [[Secure Digital Card]]
+- [[Thunderbolt]]
+- [[Lightning Cable]] 
+- [[Serial Cable]]
+- [[Universal Serial Bus|USB]]
+- [[HDBaseT]]
+- [[MicroHDMI]]

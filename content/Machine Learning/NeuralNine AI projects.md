@@ -1,0 +1,19 @@
+---
+tags:
+  - books
+  - neural_networks
+  - machine_learning
+  - machine_learning
+  - data_science
+  - python
+---
+- [[NeuralNine MNIST]]
+- [[NeuralNine Shakespeare]]
+- [[NeuralNine Image Classification]]
+- [[NeuralNine Sentiment Analysis]]
+- [[NeuralNine Face Recognition]]
+- [[NeuralNine Fingerprints]]
+- [[NeuralNine AI Chatbot]]
+- [[NeuralNine Live Object Detection]]
+- [[NeuralNine Camera Classifier]]
+- [[NeuralNine Discord Chatbot]]

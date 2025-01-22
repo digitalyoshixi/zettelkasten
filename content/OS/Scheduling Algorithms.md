@@ -1,0 +1,6 @@
+there are several algorithms we use to dictate our [[Scheduling Criteria]]
+- [[First Come First Serve(FCFS)]]
+- [[Shortest Job First(SJF)]]
+- [[Priority Scheduling]]
+- [[Round Robin(RR)]]
+- [[Multilevel Queue]]

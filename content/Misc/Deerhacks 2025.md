@@ -1,0 +1,21 @@
+---
+tags:
+  - hackathons
+---
+# Applicaiton
+### Why To Take Part in DeerHacks
+I would like to participate in DeerHacks to accrue a wealth of experience from mentors and other participants in the fields of blockchain and security. I go to hackathons usually to have an excuse to try out new technologies and build projects. I usually have a lot of fun at MLH affiliated hackathons which is why I wanted to apply to Deerhacks, also I quite like UTM's campus. Networking is also a big reason as to why I want to come. I love talking about tech with people, sharing what I know and learning from others aswell. At my last hackathon at UoftHacks 12, another team beside us built a brain computer interface device for monitoring brain frequencies and gave me pointers as to how to start my own BCI related projects. Its really awesome, to be honest I wouldn't have known such things existed. I remember that Terrahacks aswell some group made a shitcoin project where you could trade flower tokens and I remember that being really cool aswell. Well, it was mostly cool at that time since I'd never seen a blockchain project before. I'd like to come to deerhacks to teach what I know about cybersecurity and web-dev aswell as learn about other cool projects.
+### Past Project Proud Of
+Im really proud of the project that im working on right now which is an esolang interpreter for a esoteric language im making called germspeak. Its very early in the production cycle right now and I have to often ask my professors for help and clarifications of these concepts. But I am really proud of it, even if its not finished because I enjoy working with low-level software. Its also a really cool project in my opinion to create parsers and bytecode representations from scratch and I've learned a lot.
+I also really enjoyed working on our project Room.IT for AWS's Hack the Student Life hackathon specifically the planning and system's design part. AWS's toolings in general capture the creative part of the mind, and piecing each service together to make a fully functional app is incredibly satisfying. I remember we ended up including ~10 technologies in total for our final tech stack, it felt brilliant.
+Not project related, but I am really proud of my CTF team. I lead and play in a CTF team with a group of 8 friends every weekend (weekends when im not at hackathons), usually tackling reverse engineering and web challenges. We are #8 in canada for the 2025 season, and have been playing and learning consistently throughout all of 2024. Its really great seeing the personal growth of not being able to solve any challenges to solving 2-3 a competition (im still pretty beginner).
+Software dev and security are personal passions of mine and learning is its own reward
+
+### Future Technology That Impacts Our Future
+For some brief period of time I was really pumped about serverless architecture and AWS lambda functions replacing traditional high-compute servers. Lambda is indeed powerful, but it seems like servers currently cannot be replaced entirely, at-least not when the pricing is this bad.
+
+When it comes to security news, there OSINT CV software. From a privacy standpoint, having the ability to recognize a person and learn everything about their online presence is really terrifying. Phishing and whaling scams utilize general shotgun approaches to land their targets, with main red flags being generality.
+
+Large language models are indeed interesting, but the mark for when AGI is here is still quite far away. Its based in the nature of how they work, with them mainly being prediction models that have no real grasp of concepts as they appear. o3 is cool and all but its not any smarter, atleast in the epistemological sense of reasoning than any other model, it just knows more training data (atleast thats how I see it, I am not a data scientist). o3 is arbitrary pattern matching first, It may easily fall prey to the overfitting problem. it cannot solve simple visual puzzles that humans can.
+
+Funnily enough, I am spending a lot more of my time learning about old-tech. I love systems programming and all things UNIX. I was thinking of leading a LAMP stack workshop for our university just because I still feel its pretty important to know the foundations of what made the web possible.

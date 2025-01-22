@@ -1,0 +1,1 @@
+OS are designed to run on any class of machines and open any sites. To generate a site, the process known as SYSGEN is used. SYSGEN must know what CPU is used, how much memory is available, what devices are used and what OS options are.

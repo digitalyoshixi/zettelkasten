@@ -1,0 +1,9 @@
+---
+tags:
+  - programming
+aliases:
+  - Call-by-need
+  - Lazy Loading
+---
+An [[Evaluation Strategies|Evaluation Strategy]] which delays the evaluation of an expression until the value is needed.
+It avoids repeated evaluations through the use of sharing between threads.

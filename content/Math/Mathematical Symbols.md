@@ -1,0 +1,25 @@
+---
+tags:
+  - math
+---
+- $\in$ - element of the set
+- $\not\in$ - not an element of the set
+- $\subset$ - a subset of the set
+- $\subseteq$ - a subset of the set, can allow the possibility that both sets are exactly the same
+- $\cup$ - set union
+- $\cap$ - set [[Intersection]] 
+- $\emptyset$ - empty set {}
+- $N$ - [[Natural Number]]
+- $Z$ - [[Integer]]
+- $Q$ - [[Rational Number]]
+- $R$ - [[Real Number]]
+- $C$ - [[Complex Number]]
+- $O$ - Odd number
+- $E$ - Even number
+- $\implies$ - [[Conditional Statement]] If $P \implies Q$, then if $P$ is true, $Q$ is true
+- $\Longleftrightarrow$ - [[Biconditional Statement]] Both $P \implies Q$ and $Q \implies P$ must be true
+- $\forall$ - For all
+- $\exists$ - There exists
+- $\wedge$ - And
+- $\vee$ - Or. Evaluated last
+- $\neg$ - Not . True -> False and False -> True. Evaluated first

@@ -1,0 +1,6 @@
+---
+tags:
+  - networking
+aliases:
+  - TTL
+---

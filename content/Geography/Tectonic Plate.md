@@ -1,0 +1,19 @@
+---
+tags:
+  - geography
+---
+Plates that can shift
+![[Plate Tectonics-20250107143418664.webp]]
+Something hot causes a split between a plate, moving mantle down into the earth
+# History
+- [[Abraham Ortelius]]'s discovery of an atlas
+- [[Niagara Gorge]]
+# Plates
+- [[North American Plate]]
+- [[Antarctic Plate]]
+- [[Juan de Fuca Plate]]
+- [[Sundra Plate]]
+# Plate Boundaries
+- [[Convergent Plates]]
+- [[Divergent Plates]]
+- [[Transform Plates]]

@@ -1,0 +1,24 @@
+---
+tags:
+  - security
+---
+# Domains
+- Computer Security
+- Network security
+- Vulnerability Management
+- Cryptography
+- Malware analysis
+- Application Security
+- Identity and Access Management
+- Operating System Security
+- Digital Forensics/OSINT
+- Data Security
+- Intrusion Testing
+- Cloud Security
+- Wireless Network Security
+- Threat Monitoring and Detection
+- Physical and Social Security
+- Cyber Risk Management
+- Compliance and Security Standards
+- Critical Infrastructure Security
+- Financial Transaction Security

@@ -1,0 +1,31 @@
+---
+tags:
+  - windows
+  - win32api
+---
+# Table of Contents
+```table-of-contents
+```
+# Win32 API
+The windows API is weird because of window's insistence on backwards compatibility.
+# VSCode Project Configuration
+- Solution > Properties > Platform > All Platforms
+- Solution > Properties > Configuration Properties > Advanced > Character Set > Use Multi Byte Character Set
+- Solution > Properties > Linker > System > Subsystem > Windows
+# Concepts
+- [[windows.h]]
+- [[Win32 API Naming Conventions]]
+- [[Instance Handle|HInstance]]
+- [[Long Strings]]
+- [[Handle Device Context|HDC]]
+- [[Graphics Device Interface|GDI]]
+### Quick Startup
+http://www.winprog.org/tutorial/start.html
+- [[Win32 API Boilerplate Program]]
+- [[Win32 API Simplest Program]]
+# Useful Functions
+- [[WinMain()]]
+- [[MessageBox()]]
+- [[VirtualAlloc]]
+- [[VirtualFree]]
+- [[CreateWindow]]

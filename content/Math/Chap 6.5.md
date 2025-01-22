@@ -1,0 +1,6 @@
+---
+tags:
+  - math
+---
+- [[Logarithm Scales]]
+
