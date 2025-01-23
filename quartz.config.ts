@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "digitalyoshixi@github.io/zettelkasten",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
