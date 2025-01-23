@@ -24,5 +24,6 @@ Convert: $\int _{0}^3 (x-5)\, dx$
 - Given $[a,b] = [0,3]$
 - $f(x) = x-5$
 Then,
+
 - we have $\triangle x \frac{(b-a)}{n}$
 - $x_{i}^* = a+n \triangle x$
