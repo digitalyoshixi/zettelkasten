@@ -43,187 +43,73 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Subspace.md",
+                "file": "Math/Linear Independence.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subspace"
+              "title": "Linear Independence"
             }
           },
           {
-            "id": "9efd9416673daaa2",
+            "id": "1f831f2053d8990a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homogenous Systems.md",
+                "file": "Daily/2025-01-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homogenous Systems"
+              "title": "2025-01-24"
             }
           },
           {
-            "id": "d0041bfcee0a7af5",
+            "id": "ae116ba2377ad01c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "Math/Linear Independence.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Algebra"
+              "title": "Linear Independence"
             }
           },
           {
-            "id": "53fe51c45418b842",
+            "id": "6eb054f84393285a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "Daily/2025-01-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Algebra"
+              "title": "2025-01-24"
             }
           },
           {
-            "id": "099f34bba8d606bd",
+            "id": "e9689e834f26adeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elimination Algorithm.md",
+                "file": "Math/Linear Independence.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elimination Algorithm"
-            }
-          },
-          {
-            "id": "ed9976d2bd81e123",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Echelon Form.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Echelon Form"
-            }
-          },
-          {
-            "id": "e495457628010fac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Augmented Matrix.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Augmented Matrix"
-            }
-          },
-          {
-            "id": "b599a60f1c1e2801",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-01-24 12.41.14.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-24 12.41.14.excalidraw"
-            }
-          },
-          {
-            "id": "c98787e58104a437",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-01-24 12.34.03.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-24 12.34.03.excalidraw"
-            }
-          },
-          {
-            "id": "3f4127c2252507cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Echelon Form.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Echelon Form"
-            }
-          },
-          {
-            "id": "c904ef600b47d399",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/LaTex.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LaTex"
-            }
-          },
-          {
-            "id": "119f5f34b5a2656c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Row Operations Preserve Solution Sets of Linear Systems Theorem.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Row Operations Preserve Solution Sets of Linear Systems Theorem"
-            }
-          },
-          {
-            "id": "562cd1a097433d62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homogenous Systems.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Homogenous Systems"
+              "title": "Linear Independence"
             }
           },
           {
@@ -242,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -398,10 +284,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Augmented Matrix.md"
+                "file": "Math/Linear Independence.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Augmented Matrix"
+              "title": "Outline of Linear Independence"
             }
           }
         ]
@@ -424,45 +310,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e495457628010fac",
+  "active": "e9689e834f26adeb",
   "lastOpenFiles": [
     "Daily/2025-01-24.md",
-    "Augmented Matrix.md",
-    "Echelon Form.md",
-    "Basic and Free Variables.md",
-    "Excalidraw/Drawing 2025-01-24 12.41.14.excalidraw.md",
-    "Every Linear System Has A Row-Echelon Form Theorem.md",
-    "Excalidraw/Drawing 2025-01-24 12.34.03.excalidraw.md",
-    "Physics/System Of Equations.md",
-    "Elimination Algorithm.md",
-    "Math/Linear Algebra.md",
-    "Row Operations Example.md",
-    "Math/LaTex.md",
-    "Homogenous Systems.md",
-    "Row Operations Preserve Solution Sets of Linear Systems Theorem.md",
-    "Trivial.md",
-    "Non-trivial vectors.md",
-    "Homogeneous System Trivial Solution Theorem Proof.md",
-    "Represent Subspace as Span.md",
-    "Math/Subspace.md",
+    "conflict-files-obsidian-git.md",
     "Math/Linear Independence.md",
+    "Augmented Matrix.md",
+    "Trivial.md",
+    "Represent Subspace as Span.md",
+    "Homogenous Systems.md",
+    "Math/Spanning Set.md",
+    "Math/Linear Independence Equivalence Theorems.md",
+    "Math/Rules of Inference.md",
+    "Proper Subset.md",
     "Daily/2025-01-23.md",
     "Math/Definite Integral.md",
-    "Math/Sum of Cubic Series.md",
-    "Math/Sigma Notation.md",
-    "Math/Sum of Quadratic Series.md",
-    "Math/Sum of Linear Series.md",
+    "Proving Indefinite Integral Property 2.md",
+    "Programming/Yaml.md",
+    "Philosophy/St Petersburg Paradox.md",
+    "Philosophy/Rational Credence.md",
+    "Philosophy/Pasted image 20250123132636.png",
+    "Philosophy/Pasted image 20250123132311.png",
+    "Philosophy/Pasted image 20250123115010.png",
+    "Philosophy/Pasted image 20250123114821.png",
+    "Philosophy/Pasted image 20250123114533.png",
+    "Philosophy/Pasted image 20250123114521.png",
+    "Philosophy/Expected Utility.md",
+    "Philosophy/Doxastic Logic.md",
+    "Philosophy/Dominance Reasoning.md",
+    "Philosophy/Decision Theory.md",
+    "Philosophy/Decision Problem.md",
+    "Philosophy/Belief and Credence.md",
+    "Pascal's Wager Arbitrary Weighting Objection.md",
+    "Non-Almighty God.md",
+    "Math/Integral of x.md",
     "Math/Symmetric Matrix-20250117161555118.webp",
     "Web/ngrok-20250118075157639.webp",
     "Geography/Hotspot Tracks-20250121212738784.webp",
     "Books/A Course in Linear Algebra.pdf",
     "Math/Darboux Integral-20250116195902393.webp",
-    "Math/Babylonial Square Root Method-20250122165811213.webp",
-    "Geography/Divergent Margins-20250121213718661.webp",
-    "Geography/Convergent Margins-20250121213653786.webp",
-    "Math/Transform Margins-20250121213626879.webp",
-    "Geography/Active Margin-20250121212457495.webp",
-    "Physics/Isostasy-20250121212022134.webp",
     "Esotericism",
     "Geography",
     "pixel-banner-images",
