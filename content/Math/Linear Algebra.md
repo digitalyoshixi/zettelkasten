@@ -55,6 +55,7 @@ https://www.mathmatize.com/c/1451/
 - [[Redundant Vector]]
 - [[Linear Dependence|Linear Independent]]
 - [[Standard Basis]]
+- [[Linear Equation]]
 ### Complex Numbers
 - [[Complex Number]]
 - [[Complex to Real Mapping]]
