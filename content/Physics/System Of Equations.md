@@ -8,3 +8,5 @@ To get the answer, you can graph each equation out and then find the point of in
 Or you can determine it algebraically with Elimination methods.
 # Tooling
 - [[Casio 991Cw System of Equations Solver]]
+# Concepts
+- [[Homogenous Systems]]

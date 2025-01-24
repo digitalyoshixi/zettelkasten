@@ -43,13 +43,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "Math/Subspace.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Algebra"
+              "title": "Subspace"
+            }
+          },
+          {
+            "id": "9efd9416673daaa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/System Of Equations.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System Of Equations"
+            }
+          },
+          {
+            "id": "562cd1a097433d62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homogenous Systems.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Homogenous Systems"
             }
           },
           {
@@ -68,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -224,10 +254,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Linear Algebra.md"
+                "file": "Homogenous Systems.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Linear Algebra"
+              "title": "Outline of Homogenous Systems"
             }
           }
         ]
@@ -250,10 +280,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e8d8d9027afd887",
+  "active": "562cd1a097433d62",
   "lastOpenFiles": [
-    "Math/Linear Independence.md",
+    "Physics/System Of Equations.md",
+    "Homogenous Systems.md",
+    "Represent Subspace as Span.md",
+    "Math/Subspace.md",
     "Math/Linear Algebra.md",
+    "Math/Linear Independence.md",
     "Daily/2025-01-24.md",
     "Daily/2025-01-23.md",
     "Math/Definite Integral.md",
@@ -274,10 +308,6 @@
     "Philosophy/Utility.md",
     "Misc/UoftHacks12.md",
     "Linux/Unixtime.md",
-    "Philosophy/True Belief.md",
-    "Math/Trapezoid Riemann Sum.md",
-    "Geography/Transform Plates.md",
-    "Math/Trace Zero Matrices.md",
     "Math/Symmetric Matrix-20250117161555118.webp",
     "Web/ngrok-20250118075157639.webp",
     "Geography/Hotspot Tracks-20250121212738784.webp",

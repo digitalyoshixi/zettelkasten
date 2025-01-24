@@ -22,6 +22,7 @@ Or
 - [[Proving Subspace Theorem]]
 - [[Subspace Intersection Theorem]]
 - [[Sets for R^n are Subspaces for R^n Corrolary]]
+- [[Represent Subspace as Span]]
 # Subspace Operations
 - [[Sum of Subspaces]]
 - [[Subspace Addition Span Union]]
