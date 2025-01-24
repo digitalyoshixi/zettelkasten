@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Linear Independence Equivalence Theorems.md",
+                "file": "Math/Spanning Set.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Independence Equivalence Theorems"
+              "title": "Spanning Set"
             }
           },
           {
@@ -239,10 +239,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Linear Independence Equivalence Theorems.md"
+                "file": "Math/Spanning Set.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Linear Independence Equivalence Theorems"
+              "title": "Outline of Spanning Set"
             }
           }
         ]
@@ -267,8 +267,8 @@
   },
   "active": "1f831f2053d8990a",
   "lastOpenFiles": [
-    "Math/Rules of Inference.md",
     "Math/Linear Independence Equivalence Theorems.md",
+    "Math/Rules of Inference.md",
     "Math/Linear Independence.md",
     "Proper Subset.md",
     "Daily/2025-01-24.md",
