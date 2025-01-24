@@ -1,6 +1,8 @@
 ---
 tags:
   - physics
+aliases:
+  - Linear System
 ---
 A system of equations is when you have multiple equations with several unknowns.
 ![[System Of Equations-20240226162934219.webp]]
