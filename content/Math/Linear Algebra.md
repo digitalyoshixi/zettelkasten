@@ -23,6 +23,8 @@ There will be eight (8) questions covering:
 8. Row Echelon Form
 
 Each question will be worth ten marks. Some questions have sub-parts.
+# Declaring Absence
+https://forms.office.com/pages/responsepage.aspx?id=JsKqeAMvTUuQN7RtVsVSEOqLCEyVYJ9Enr38oilz4yRUM1A3VFkyODUzTDJYSUkyMlI1UFk4UEZIOC4u&route=shorturl
 # Concepts
 - [[Algebra]]
 - [[Binary Operations]]
