@@ -1,0 +1,1 @@
+{"path":"Python Error-20241011141413297.webp","text":">>> 'My shoe size is ' + 8.5 Traceback (most recent call last): Python Shell, prompt 20, line 1 builtins.TypeError: must be str, not float","libVersion":"0.3.2","langs":"eng"}

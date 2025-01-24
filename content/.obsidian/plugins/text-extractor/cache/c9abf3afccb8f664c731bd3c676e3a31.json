@@ -1,0 +1,1 @@
+{"path":"Programming/LLVM getelementptr-20250101040426000.webp","text":"Manipulating pointers T @a_gv = global [6 x i8] zeroinitializer nnnnunnn %new_ptr = getelementptr [6 x i8], [6 x i8]* Qn_l R lzl2l 221212017 - “Offset by 1 elements of the base type”","libVersion":"0.3.2","langs":"eng"}

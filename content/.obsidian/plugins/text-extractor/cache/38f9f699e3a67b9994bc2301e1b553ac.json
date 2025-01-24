@@ -1,0 +1,1 @@
+{"path":"Networking/Sender Policy Framework-20240730165052393.webp","text":"; SPF TXT records ; owner class ttl TXT “attribute-name=attribute value” professormesser.com. 300 IN TXT \"v=spfl include:mailgun.org ~all”","libVersion":"0.3.2","langs":"eng"}

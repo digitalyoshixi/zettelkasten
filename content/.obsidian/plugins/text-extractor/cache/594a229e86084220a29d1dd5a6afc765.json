@@ -1,0 +1,1 @@
+{"path":"Linux/NixOS Home Manager-20240828015450835.webp","text":"{ pkgs, 1ib, inputs, ... }: { imports = [ [ = . /hardware-configuration.nix inputs.home-manager.nixosModules.default i; I","libVersion":"0.3.2","langs":"eng"}

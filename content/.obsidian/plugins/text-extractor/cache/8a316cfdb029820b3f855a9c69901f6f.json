@@ -1,0 +1,1 @@
+{"path":"SQL Insert-20241003040401034.webp","text":"INSERT INTO table_name (columnl, column2, column3, ...) VALUES (valuel, value2, value3, ...); INSERT INTO table_name VALUES (valuel, value2, value3, ...);","libVersion":"0.3.2","langs":"eng"}

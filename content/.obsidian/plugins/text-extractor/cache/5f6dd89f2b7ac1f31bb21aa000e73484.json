@@ -1,0 +1,1 @@
+{"path":"Security/angr Binary Object-20240715011054023.webp","text":">>> obj.sections <Regions: [<Unnamed | offset 0x0, vaddr 0x0, size 0x0>, <.interp | offser 0x238, vaddr 0x400238, size Oxic>, <.note.ABI-tag | offset 0x254, vaddr 0x400254, size 0x20>, ...etc","libVersion":"0.3.2","langs":"eng"}

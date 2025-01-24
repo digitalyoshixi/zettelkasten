@@ -1,0 +1,1 @@
+{"path":"puts-20250108010405476.webp","text":"0x0000000000400623 <+102>: mov edi,ox400701 0x0000000000400628 <+107>: call 0x400480 <puts@plt> -","libVersion":"0.3.2","langs":"eng"}

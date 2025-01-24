@@ -1,0 +1,1 @@
+{"path":"Networking/Static IP-20240211043423576.webp","text":"# The primary network interface auto enp0s3 iface enp0s3 inet static address 192.168.2.26 netmask 255.255.255.0 FELGITEIVIN & Vs T I § dns-nameservers 192.168.2.5 192.168.2.6","libVersion":"0.3.2","langs":"eng"}

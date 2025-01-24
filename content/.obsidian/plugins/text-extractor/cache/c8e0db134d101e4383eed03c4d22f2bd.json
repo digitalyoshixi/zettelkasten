@@ -1,0 +1,1 @@
+{"path":"Networking/IPv6-20240717161910725.webp","text":"As an example of something that is not all zeroes: fe80:0000:0000:0000: 34cb: 9850:4868:9d2c Which is properly “\"reduced” to: fe80: :34cb:9850:4868:9d2c","libVersion":"0.3.2","langs":"eng"}

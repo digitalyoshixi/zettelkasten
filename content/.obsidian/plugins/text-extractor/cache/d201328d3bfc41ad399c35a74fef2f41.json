@@ -1,0 +1,1 @@
+{"path":"Linux/Nix Function-20240828013602024.webp","text":"S IE [o]y AETETT let myfunc = { a ? 160, b, }: a + b; e - NS myfunc { b = 15; }","libVersion":"0.3.2","langs":"eng"}

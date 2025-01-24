@@ -1,0 +1,1 @@
+{"path":"Windows/Windows ps-20240715173746720.webp","text":"mike@server:~$ ps aux USER PID %CPU %MEM VSZ RSS TTY STAT START TIME COMMAND root 1 0.0 0.2 33968 4416 ? Ss 11:08 0:00 /sbin/init","libVersion":"0.3.2","langs":"eng"}

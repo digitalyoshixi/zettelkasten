@@ -1,0 +1,1 @@
+{"path":"Programming/JavaScript/ReactJS Effects-20240918033315760.webp","text":"useEffect(() => { fetchData().then(data => { // use data here D) 30D","libVersion":"0.3.2","langs":"eng"}

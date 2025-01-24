@@ -1,0 +1,1 @@
+{"path":"JavaScript/ReactJS Error Boundaries-20240918034542226.webp","text":"import { ErrorBoundary } from 'react-error-boundary\" function Fallback({ error }) { return ( 0 <div role=\"alert\"> =———— <p>No user provided: </p> <pre>{error.message}</pre> </div> ¥ =T <ErrorBoundary FallbackComponent={Fallback}> <App /> </ErrorBoundary>","libVersion":"0.3.2","langs":"eng"}

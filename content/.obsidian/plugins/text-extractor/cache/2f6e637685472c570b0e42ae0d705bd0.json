@@ -1,0 +1,1 @@
+{"path":"Programming/Visual Basic-20240827015916566.webp","text":"1 Module HelloWorld 2 Sub Main() 3 MsgBox(\"Hello, World!\") 4 End Sub 5 End Module","libVersion":"0.3.2","langs":"eng"}

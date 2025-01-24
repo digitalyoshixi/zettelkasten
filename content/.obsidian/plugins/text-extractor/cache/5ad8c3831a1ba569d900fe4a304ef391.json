@@ -1,0 +1,1 @@
+{"path":"Linux/Nix Function-20240828012644421.webp","text":"Expression AETET let myfunc = a: b: (a + 1) * b; myfuncUnwrapped = myfunc 3; 28 in - myfuncUnwrapped 7","libVersion":"0.3.2","langs":"eng"}

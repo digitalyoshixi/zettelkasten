@@ -1,0 +1,1 @@
+{"path":"LLVM getelementptr-20250101040714681.webp","text":"Manipulating pointers - . elements of the i @a_gv = global [6 x i8] zeroinitializer | nnnnnnnn %new_ptr = getelementptr [6 x i8], [6 x i8]* @a_gv, i32 @ F““ﬂg“n“ %elem_pt = getelementptr [6 x i8], [6 x i8]* @a_gv, i32 @, i32 2 Get the 2\" element from the current aggregate: [6xi8]","libVersion":"0.3.2","langs":"eng"}

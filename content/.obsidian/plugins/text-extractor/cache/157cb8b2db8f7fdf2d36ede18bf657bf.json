@@ -1,0 +1,1 @@
+{"path":"Programming/Function Closures-20250107002659705.webp","text":"<7php | 1 1 $data = \"PHP is cool!\"; ! const data = \"JS is cool!\"; . 1 — function printData() { : function printData() { print($data); | console. log(data); } 1 ¥ 1 printData(); : printData(); 1 S 1 1 > Undefined variable: data > JS is cool!","libVersion":"0.3.2","langs":"eng"}

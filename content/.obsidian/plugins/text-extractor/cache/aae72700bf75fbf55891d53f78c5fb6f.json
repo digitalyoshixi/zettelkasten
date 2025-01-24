@@ -1,0 +1,1 @@
+{"path":"Web/Kubernetes-20240802032253100.webp","text":"L — | Master Node Worker Node ———— | .4 Key Value Store (ETCD) a € > ‘[ Controller { J P N y Optional Add-ons < > | Scheduler Network Proxy o) developer R (Kube-Proxy) . Worker Node @ = & () -’ e o CA=AY w 7 | 2 Network Proxy < Users (Kube-Proxy) Optional Add-ons (Ul, DNS..)","libVersion":"0.3.2","langs":"eng"}

@@ -1,0 +1,303 @@
+{
+  "main": {
+    "id": "fb6a009f86803265",
+    "type": "split",
+    "children": [
+      {
+        "id": "0afa67c0847cd0e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9c0c4aa827182e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Prime Factorization.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prime Factorization"
+            }
+          },
+          {
+            "id": "3f8dc3d94996ccc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Definite Integral.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Definite Integral"
+            }
+          },
+          {
+            "id": "9e8d8d9027afd887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2025-01-23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-23"
+            }
+          },
+          {
+            "id": "c8a1e2717000183c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Sum of Constant Series.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sum of Constant Series"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7fe81a7cd305c29f",
+    "type": "split",
+    "children": [
+      {
+        "id": "552da023986cfb11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "370243e6e9bb2cd5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "533f08d074014a36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:cisco",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e278ea3b24a137e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "185959b17d35909b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "477d07ad77c7ddfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "265f8a883b559bf8",
+        "type": "tabs",
+        "dimension": 49.82993197278912,
+        "children": [
+          {
+            "id": "ad5ed4cb12b64912",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "233d134d2c2d8d57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web/JavaScript.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for JavaScript"
+            }
+          },
+          {
+            "id": "10cf72139dcfe946",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Web/JavaScript.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from JavaScript"
+            }
+          },
+          {
+            "id": "c7df18d6b44f2fc6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f1db98ad787b6664",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      },
+      {
+        "id": "342d37c89b3a60a8",
+        "type": "tabs",
+        "dimension": 50.17006802721088,
+        "children": [
+          {
+            "id": "40a4d8ce3d5b0f8e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2025-01-23.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-01-23"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9e8d8d9027afd887",
+  "lastOpenFiles": [
+    "Math/Definite Integral.md",
+    "Proving Indefinite Integral Property 2.md",
+    "Proper Subset.md",
+    "Programming/Yaml.md",
+    "Philosophy/St Petersburg Paradox.md",
+    "Philosophy/Rational Credence.md",
+    "Philosophy/Pasted image 20250123132636.png",
+    "Philosophy/Pasted image 20250123132311.png",
+    "Philosophy/Pasted image 20250123115010.png",
+    "Philosophy/Pasted image 20250123114821.png",
+    "Philosophy/Pasted image 20250123114533.png",
+    "Philosophy/Pasted image 20250123114521.png",
+    "Philosophy/Expected Utility.md",
+    "Philosophy/Doxastic Logic.md",
+    "Philosophy/Dominance Reasoning.md",
+    "Philosophy/Decision Theory.md",
+    "Philosophy/Decision Problem.md",
+    "Philosophy/Belief and Credence.md",
+    "Pascal's Wager Arbitrary Weighting Objection.md",
+    "Non-Almighty God.md",
+    "Math/Integral of x.md",
+    "Math/Indefinite Integral.md",
+    "Daily/2025-01-23.md",
+    "Misc/Unthether AI Cover Letter.md",
+    "Math/Sum of Cubic Series.md",
+    "Math/Sigma Notation.md",
+    "Math/Sum of Quadratic Series.md",
+    "Math/Sum of Linear Series.md",
+    "Math/Sum of Constant Series.md",
+    "Math/Riemann Sums.md",
+    "Math/Definite Integral Riemann Sum Definition.md",
+    "Daily/2025-01-22.md",
+    "Math/Symmetric Matrix-20250117161555118.webp",
+    "Web/ngrok-20250118075157639.webp",
+    "Geography/Hotspot Tracks-20250121212738784.webp",
+    "Books/A Course in Linear Algebra.pdf",
+    "Math/Darboux Integral-20250116195902393.webp",
+    "Esotericism",
+    "Geography",
+    "pixel-banner-images",
+    "Daily",
+    "Rust",
+    "~syncthing~QMK Linux Installation.md.tmp",
+    "Health",
+    "Python/Python Unit Test",
+    "Productivity",
+    "Untitled.canvas"
+  ]
+}

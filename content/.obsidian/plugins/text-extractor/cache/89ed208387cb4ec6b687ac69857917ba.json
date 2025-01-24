@@ -1,0 +1,1 @@
+{"path":"Rust Macro-20241201060556316.webp","text":"fn main() { println! (\"{}\", \"Hello there!\"); } fn main() { TEY-I oo R Ko R K118 ST o R (=) io::stdout() .Llock() .write all(b\"Hello there!\\n\") .unwrap(); }","libVersion":"0.3.2","langs":"eng"}

@@ -1,0 +1,1 @@
+{"path":"Security/angr Binary Object-20240715024339552.webp","text":">>> obj.find_section_containing(obj.entry) <.text | offset 0x580, vaddr 0x400580, size 0x338>","libVersion":"0.3.2","langs":"eng"}

@@ -1,0 +1,1 @@
+{"path":"Linux/ZSH-20240713021119433.webp","text":"ZSH_THEME_PROMPT_RETURNCODE_PREFIX=\"%{$fg_bold[red]%}\" L ZSH_THEME_GIT_PROMPT_PREFIX=\" $fg[white]< %{$fg_bold[yellow]%}\" r","libVersion":"0.3.2","langs":"eng"}

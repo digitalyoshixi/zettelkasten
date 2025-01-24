@@ -1,0 +1,1 @@
+{"path":"Malware/angr Binary Object-20240715024315023.webp","text":">>> obj.find_segment_containing(obj.entry) <ELFSegment memsize=0xa74, filesize=0xa74, vaddr=0x400000, flags=0x5, offset=0x0>","libVersion":"0.3.2","langs":"eng"}

@@ -1,0 +1,1 @@
+{"path":"AWS Amplify-20241129053043830.webp","text":"indexjs U & pagetsxM @ p > & page.tsx > ... inpo mage o) I A T=D4 mage. P import Amplify from 'aws-amplify'; 3 Import awsExports from '../src/aws-exports'; 5 export default function Home() { 6 return ( 7 i <div> 8 </div> El e 10 ) 5","libVersion":"0.3.2","langs":"eng"}

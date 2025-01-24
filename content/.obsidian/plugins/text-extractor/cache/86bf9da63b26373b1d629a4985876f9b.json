@@ -1,0 +1,1 @@
+{"path":"Malware/ELF32_Phdr-20240715010740630.webp","text":"struct E1f64_Phdr { (38R IRST I H (38T GV IR g BT EH E1f64_Off p_offset; E1f64_Addr p_vaddr; (38T S EL T E1f64_Xword p_filesz; E1f64_Xword p_memsz; ) E1f64_Xword p_align; H","libVersion":"0.3.2","langs":"eng"}

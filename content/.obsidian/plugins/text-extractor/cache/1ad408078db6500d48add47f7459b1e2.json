@@ -1,0 +1,1 @@
+{"path":"Linux/NixOS Home Manager-20240828004519279.webp","text":"# Nix0S option environment.systemPackages = [ pkgs.home-manager 1;","libVersion":"0.3.2","langs":"eng"}

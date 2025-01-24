@@ -1,0 +1,1 @@
+{"path":"ReactJS Portals-20240918034247087.webp","text":"1. use createPortal function divs \\ <p>I'm in the parent div.</p> {createPortal( 2. pass component —_— L <p>I'm in the document body</p>, / document.body 3. Pick HTML element )} where it should go </div>","libVersion":"0.3.2","langs":"eng"}

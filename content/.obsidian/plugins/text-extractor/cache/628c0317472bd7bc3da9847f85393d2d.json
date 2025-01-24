@@ -1,0 +1,1 @@
+{"path":"ReactJS Controlled Components-20240918032047669.webp","text":"function ControlledInput() { const setValue] = useState('\") ] Steps return ( cinput 1. user types, setValue called value={value} 2. state updated /onChange:{(e) => setValue(e.target.value)) 3. input reads from state > ) } \\/ great pattern to use","libVersion":"0.3.2","langs":"eng"}

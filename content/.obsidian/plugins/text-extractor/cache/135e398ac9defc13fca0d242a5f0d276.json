@@ -1,0 +1,1 @@
+{"path":"Linux/NixOS-20240827211429359.webp","text":"environment.systemPackages = with pkgs; [ 17","libVersion":"0.3.2","langs":"eng"}

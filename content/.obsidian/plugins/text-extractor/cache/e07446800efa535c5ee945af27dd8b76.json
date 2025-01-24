@@ -1,0 +1,1 @@
+{"path":"Python/Python os Popen-20240912174831600.webp","text":"Python 3.12.5 (main, Aug 9 2024, 08:20:41) [GCC 14.2.1 20240805] on linux Type \"help”, \"copyright”, \"credits\" or \"license\" for more information. >>> import os >>> os.popen(\"whoami”) <os._wrap_close object at 0x75e46d3bc170> >>> os.popen(\"whoami”).read() 'yoshixi\\n' B | s","libVersion":"0.3.2","langs":"eng"}

@@ -1,0 +1,1 @@
+{"path":"Rust Macro-20241201060556316.webp","text":"fn main() { println! (\"{}\", \"Hello there!\"); } fn main() { use std::io::{self, Write}; io::stdout() .Llock() .write all(b\"Hello there!\\n\") .unwrap(); }","libVersion":"0.3.2","langs":"eng"}

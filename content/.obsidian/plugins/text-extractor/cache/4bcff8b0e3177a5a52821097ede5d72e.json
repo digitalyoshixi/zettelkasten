@@ -1,0 +1,1 @@
+{"path":"Programming/Pasted image 20230906212739.png","text":"1 filename = r\"C:\\Users\\Digit\\Downloads\\pi_million_digits.txt\" 2 with open(filename, 'r') as f: 1 ‘Lines = f.readlines() 4 print(Lines)|","libVersion":"0.3.2","langs":"eng"}

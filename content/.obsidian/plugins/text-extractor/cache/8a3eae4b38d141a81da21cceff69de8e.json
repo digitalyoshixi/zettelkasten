@@ -1,0 +1,1 @@
+{"path":"Malware/angr Loaded Object-20240718213527669.webp","text":"In [3]: proj.loader.all_pe_objects out[31: [<PE Object UnpackME.exe, maps [0x400000:0x43c00b]>]","libVersion":"0.3.2","langs":"eng"}

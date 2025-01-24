@@ -1,0 +1,1 @@
+{"path":"IT/Master Boot Record-20240703014236462.webp","text":"1.The master boot record 2.The partition table tells looks for a partition with the master boot record an operating system. where to look. Master boot record code Partition table","libVersion":"0.3.2","langs":"eng"}

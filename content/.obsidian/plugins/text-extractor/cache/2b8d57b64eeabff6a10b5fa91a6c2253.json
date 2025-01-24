@@ -1,0 +1,1 @@
+{"path":"Linux/NixOS Configurations-20240828021058787.webp","text":"/etc/nixos/ B flake.nix B flake.lock = hosts/ = default/ B configuration.nix B hardware-configuration.nix B home.nix = workmachine/ B configuration.nix B hardware-configuration.nix B home.nix","libVersion":"0.3.2","langs":"eng"}

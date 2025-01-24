@@ -1,0 +1,1 @@
+{"path":"Clang-20241228215430190.webp","text":"optimizer (opt) v .c file --> AST --> LLVM IR --> assembly parser lowering backend (llc) e T e / Clang Frontend (R} .","libVersion":"0.3.2","langs":"eng"}

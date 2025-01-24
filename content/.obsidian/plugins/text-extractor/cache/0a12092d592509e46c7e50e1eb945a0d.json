@@ -1,0 +1,1 @@
+{"path":"Programming/Java/Pasted image 20231211141726.png","text":"class Animal{ public boolean fur; public void eat(){ System.out.printin(“eating...\"); } } class Dog extends Animal{ public String breed; public void bark(){ System.out.printin(\"barking...\"); } }","libVersion":"0.3.2","langs":"eng"}

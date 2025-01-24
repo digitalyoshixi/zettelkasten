@@ -1,0 +1,1 @@
+{"path":"Java/Pasted image 20231129144713.png","text":"Fraction java 1 public class Fraction { 2 public int num; 3 public int den; 1 5 public Fraction (){} //this is a constructor (ignore for now) 6 7 public void denominator() { 8 System.out.println( den ); 9 } 10 }","libVersion":"0.3.2","langs":"eng"}

@@ -1,0 +1,1 @@
+{"path":"JavaScript/ReactJS Component-20240920005517313.webp","text":"class welcome extends React.Component { render() { return <hl>Hello, {this.props.name}</h1>; } }","libVersion":"0.3.2","langs":"eng"}

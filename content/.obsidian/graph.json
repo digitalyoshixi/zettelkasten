@@ -1,0 +1,177 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#os  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#networking  ",
+      "color": {
+        "a": 1,
+        "rgb": 5766938
+      }
+    },
+    {
+      "query": "tag:#assembly  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#cpp  ",
+      "color": {
+        "a": 1,
+        "rgb": 14771455
+      }
+    },
+    {
+      "query": "tag:#c  ",
+      "color": {
+        "a": 1,
+        "rgb": 14771455
+      }
+    },
+    {
+      "query": "tag:#rust  ",
+      "color": {
+        "a": 1,
+        "rgb": 14771425
+      }
+    },
+    {
+      "query": "tag:#ML  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#math  ",
+      "color": {
+        "a": 1,
+        "rgb": 6574280
+      }
+    },
+    {
+      "query": "tag:#physics",
+      "color": {
+        "a": 1,
+        "rgb": 6574280
+      }
+    },
+    {
+      "query": "tag:#security  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#philosophy  ",
+      "color": {
+        "a": 1,
+        "rgb": 16770626
+      }
+    },
+    {
+      "query": "tag:#windows  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#linux",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#business  ",
+      "color": {
+        "a": 1,
+        "rgb": 2995255
+      }
+    },
+    {
+      "query": "tag:#economy  ",
+      "color": {
+        "a": 1,
+        "rgb": 2995255
+      }
+    },
+    {
+      "query": "tag:#hardware  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701152
+      }
+    },
+    {
+      "query": "tag:#reverse_engineering  ",
+      "color": {
+        "a": 1,
+        "rgb": 11854162
+      }
+    },
+    {
+      "query": "tag:#web  ",
+      "color": {
+        "a": 1,
+        "rgb": 15301654
+      }
+    },
+    {
+      "query": "tag:#cloud  ",
+      "color": {
+        "a": 1,
+        "rgb": 15501075
+      }
+    },
+    {
+      "query": "tag:#javascript  ",
+      "color": {
+        "a": 1,
+        "rgb": 15496984
+      }
+    },
+    {
+      "query": "tag:#python  ",
+      "color": {
+        "a": 1,
+        "rgb": 16491206
+      }
+    },
+    {
+      "query": "tag:#java  ",
+      "color": {
+        "a": 1,
+        "rgb": 16757745
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.514394223555889,
+  "repelStrength": 10.9480495123781,
+  "linkStrength": 1,
+  "linkDistance": 231,
+  "scale": 0.044484469820184364,
+  "close": false
+}

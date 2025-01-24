@@ -1,0 +1,1 @@
+{"path":"Linux/NixOS Configurations-20240828022009206.webp","text":"/etc/nixos/ B flake.nix IR A LG T = modules/ = nixos/ B nvidia.nix Cl G CRNENEC L = terminals/ B default.nix B kitty.nix B alacritty.nix = hosts/ = default/ B configuration.nix B hardware-configuration.nix B home.nix","libVersion":"0.3.2","langs":"eng"}

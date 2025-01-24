@@ -1,0 +1,1 @@
+{"path":"Linux/Lazy Nvim-20240830011112335.webp","text":"| require(\"lazy\").setup({ S ) \"bluz71/vim-nightfly—-guicolor\", g priority = 1000, —— make sure to load this before all the other . —— load the colorscheme here ] vim.cmd( [[colorscheme nightflyl]) ] end, S 1)","libVersion":"0.3.2","langs":"eng"}
