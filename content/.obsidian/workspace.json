@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Proving Linear Independence.md",
+                "file": "Daily/2025-01-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proving Linear Independence"
+              "title": "2025-01-24"
             }
           },
           {
@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-01-24.md",
+                "file": "Augmented Matrix.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-24"
+              "title": "Augmented Matrix"
             }
           },
           {
@@ -125,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -281,10 +281,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Proving Linear Independence.md"
+                "file": "Augmented Matrix.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Proving Linear Independence"
+              "title": "Outline of Augmented Matrix"
             }
           }
         ]
@@ -307,16 +307,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e8d8d9027afd887",
+  "active": "1f831f2053d8990a",
   "lastOpenFiles": [
-    "Math/Linear Independence.md",
     "Daily/2025-01-24.md",
+    "Math/Proving Linear Independence.md",
+    "Math/Linear Independence.md",
     "Excalidraw/Drawing 2025-01-24 12.41.14.excalidraw.md",
     "Homogenous Systems.md",
     "Basic and Free Variables.md",
     "Augmented Matrix.md",
     "Non-Almighty God.md",
-    "Math/Proving Linear Independence.md",
     "conflict-files-obsidian-git.md",
     "Trivial.md",
     "Represent Subspace as Span.md",
