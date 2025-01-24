@@ -4,6 +4,7 @@ tags:
   - books
 aliases:
   - MATA22
+  - LinAlg
 ---
 # Notes
 - Can drop one homework
@@ -41,6 +42,8 @@ https://forms.office.com/pages/responsepage.aspx?id=JsKqeAMvTUuQN7RtVsVSEOqLCEyV
 - [[Matrix]]
 - [[Linear System]]
 - [[Augmented Matrix]]
+- [[Echelon Form]]
+- [[Elimination Algorithm]]
 ### Subspaces
 - [[Subset]]
 - [[Fields]]

@@ -1,5 +1,0 @@
----
-tags:
-  - linalg
-  - math
----

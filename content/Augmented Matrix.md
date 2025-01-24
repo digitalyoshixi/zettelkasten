@@ -2,8 +2,7 @@
 tags:
   - math
   - linalg
-aliases:
-  - Row-Eschelon Form
+aliases: []
 ---
 An alternate way to write [[System Of Equations]] where the coefficients are in the left and the expected result is on the right side
 $$
@@ -48,7 +47,7 @@ x_{i1} & x_{i2} & \dots & x_{in}  & b_{i}\\ \\
 x_{k1} & x_{k2} & \dots & x_{kn}  & b_{k}\\ \\
 \end{array}\right]
 
-\xrightarrow{\lambda R_{j} \to R_{j}}
+\xrightarrow{\lambda R_{i} + R_{j} \to R_{j}}
 
 \left[\begin{array}{cccc|c}
 x_{11} & x_{12} & \dots & x_{1n}  & b_{1}\\ \\
@@ -67,18 +66,24 @@ x_{11} & x_{12} & \dots & x_{1n}  & b_{1}\\ \\
 \vdots\\
 x_{j1} & x_{j2} & \dots & x_{jn}  & b_{j}\\ \\
 \vdots\\
+x_{i1} & x_{i2} & \dots & x_{in}  & b_{i}\\ \\
+\vdots\\
 x_{k1} & x_{k2} & \dots & x_{kn}  & b_{k}\\ \\
 \end{array}\right]
 
-\xrightarrow{\lambda R_{j} \to R_{j}}
+
+\xrightarrow{R_{i} \leftrightarrow  R_{j}}
 
 \left[\begin{array}{cccc|c}
 x_{11} & x_{12} & \dots & x_{1n}  & b_{1}\\ \\
+\vdots\\
+x_{i1} & x_{i2} & \dots & x_{in}  & b_{i}\\ \\
 \vdots\\
 x_{j1} & x_{j2} & \dots & x_{jn}  & b_{j}\\ \\
 \vdots\\
 x_{k1} & x_{k2} & \dots & x_{kn}  & b_{k}\\ \\
 \end{array}\right]
+
 $$
 # Theorems
 - [[Row Operations Preserve Solution Sets of Linear Systems Theorem]]
