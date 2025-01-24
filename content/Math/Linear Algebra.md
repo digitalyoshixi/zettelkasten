@@ -40,6 +40,7 @@ https://forms.office.com/pages/responsepage.aspx?id=JsKqeAMvTUuQN7RtVsVSEOqLCEyV
 - [[Tuple]]
 - [[Matrix]]
 - [[Linear System]]
+- [[Augmented Matrix]]
 ### Subspaces
 - [[Subset]]
 - [[Fields]]
