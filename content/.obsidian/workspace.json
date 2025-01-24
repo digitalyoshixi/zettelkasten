@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Augmented Matrix.md",
+                "file": "Daily/2025-01-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Augmented Matrix"
+              "title": "2025-01-24"
             }
           },
           {
@@ -122,6 +122,16 @@
               },
               "icon": "lucide-file",
               "title": "Sum of Constant Series"
+            }
+          },
+          {
+            "id": "e755bee5a1f71e3c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -281,10 +291,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Augmented Matrix.md"
+                "file": "Daily/2025-01-24.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Augmented Matrix"
+              "title": "Outline of 2025-01-24"
             }
           }
         ]
@@ -309,13 +319,14 @@
   },
   "active": "1f831f2053d8990a",
   "lastOpenFiles": [
+    "Augmented Matrix.md",
+    "Math/Linear Independence.md",
+    "Math/Sum of Constant Series.md",
     "Daily/2025-01-24.md",
     "Math/Proving Linear Independence.md",
-    "Math/Linear Independence.md",
     "Excalidraw/Drawing 2025-01-24 12.41.14.excalidraw.md",
     "Homogenous Systems.md",
     "Basic and Free Variables.md",
-    "Augmented Matrix.md",
     "Non-Almighty God.md",
     "conflict-files-obsidian-git.md",
     "Trivial.md",
@@ -340,7 +351,6 @@
     "Philosophy/Doxastic Logic.md",
     "Philosophy/Dominance Reasoning.md",
     "Philosophy/Decision Theory.md",
-    "Philosophy/Decision Problem.md",
     "Math/Symmetric Matrix-20250117161555118.webp",
     "Web/ngrok-20250118075157639.webp",
     "Geography/Hotspot Tracks-20250121212738784.webp",

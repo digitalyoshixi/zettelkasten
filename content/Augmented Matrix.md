@@ -52,7 +52,7 @@ x_{k1} & x_{k2} & \dots & x_{kn}  & b_{k}\\ \\
 \left[\begin{array}{cccc|c}
 x_{11} & x_{12} & \dots & x_{1n}  & b_{1}\\ \\
 \vdots\\
-\lambda x_{i1} + x{ji} & \lambda x_{i2} + x_{j2} & \dots & x_{in}  & b_{j}\\ \\
+\lambda x_{i1} + x{ji} & \lambda x_{i2} + x_{j2} & \dots & x_{in}  & b_{i} \lambda b_{j}\\ \\
 \vdots\\
 x_{i1} & x_{i2} & \dots & x_{in}  & b_{i}\\ \\
 \vdots\\
