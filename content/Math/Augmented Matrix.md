@@ -4,7 +4,9 @@ tags:
   - linalg
 aliases: []
 ---
-An alternate way to write [[System Of Equations]] where the coefficients are in the left and the expected result is on the right side
+An alternate way to write [[System Of Equations]] where:
+- Coefficients matrix are on the left 
+- Expected constant matrix is on the right side
 $$
 \left[\begin{array}{ccc|c}
 a_{11} & a_{12}\dots & a_{1k} & b_{1} \\
@@ -14,7 +16,7 @@ a_{n1} & a_{n2}\dots & a_{nk} & b_{n} \\ \\
 \end{array}\right]
 $$
 # Augmented Subroutine Row Operations
-### $\lambda R_{j} \to R_{j}$
+### $\lambda R_{j} \to R_{j}$ (Multiplying by non-zero constant)
 $$
 \left[\begin{array}{cccc|c}
 x_{11} & x_{12} & \dots & x_{1n}  & b_{1}\\ \\
