@@ -1,1 +1,0 @@
-{"path":"Malware/angr Block-20240714172410065.webp","text":">>> block = proj.factory.block(proj.entry) # 1ift a block of code from the program’s entry <Block for 0x401670, 42 bytes>","libVersion":"0.3.2","langs":"eng"}

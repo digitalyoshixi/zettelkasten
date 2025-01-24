@@ -1,1 +1,0 @@
-{"path":"Malware/angr Loaded Object-20240718220047256.webp","text":">>> stremp = proj . loader. find_symbol('strcmp') >>> strcmp <Symbol \"strcmp” in libc.so.6 at 0x1089cd0>","libVersion":"0.3.2","langs":"eng"}

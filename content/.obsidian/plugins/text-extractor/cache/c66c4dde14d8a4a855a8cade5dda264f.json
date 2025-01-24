@@ -1,1 +1,0 @@
-{"path":"Java/Pasted image 20231115175650.png","text":"Scanner fileInput = new Scanner( new File(\"randInt.txt\") ); string userName = fileIngfft.nextLine () ; fileInput.close() ;","libVersion":"0.3.2","langs":"eng"}

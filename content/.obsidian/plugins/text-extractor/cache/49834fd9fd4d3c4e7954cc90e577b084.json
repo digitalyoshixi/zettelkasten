@@ -1,1 +1,0 @@
-{"path":"C/Static Name Collision Avoidance-20240131220349744.webp","text":"#include <stdio.h> int compute(void); int main() { printf(\"%d %d\\n\", a, compute()); } b.c int compute(void) { }","libVersion":"0.3.2","langs":"eng"}

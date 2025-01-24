@@ -1,1 +1,0 @@
-{"path":"Malware/angr Binary Object-20240715024442133.webp","text":">>> addr = obj.plt[‘strcmp’] >>> addr 0x400550","libVersion":"0.3.2","langs":"eng"}

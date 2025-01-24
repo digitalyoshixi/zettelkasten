@@ -1,1 +1,0 @@
-{"path":"Linux/NixOS OpenGL Installation-20241029040459178.webp","text":"# Enable sound with pipewire. sound.enable = true; SYToX 0] e A VA o of s B =Y o -1 o N T of ol V- services.pipewire = { enable = true; alsa.enable = true; Y Y- BTV oY o Lo] ph i 74 2 i ol of V[ -3 pulse.enable = true; jack.enable = true; 35","libVersion":"0.3.2","langs":"eng"}

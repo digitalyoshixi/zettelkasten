@@ -1,1 +1,0 @@
-{"path":"Java/Pasted image 20230913145315.png","text":"Selection Statements - Shorthand If...Else(Ternary Operator) Syntax | variable = (condition) ? expressionTrue : expressionFalse; Example int time = 20; String result = (time < 18) ? \"Good day.\" : \"Good evening.\"; System.out.println(result);","libVersion":"0.3.2","langs":"eng"}

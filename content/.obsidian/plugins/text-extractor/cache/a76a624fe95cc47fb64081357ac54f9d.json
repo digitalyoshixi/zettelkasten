@@ -1,1 +1,0 @@
-{"path":"IT/Process-20240705205701521.webp","text":") ps -a PID TTY TIME CHD 521 ttyl 00:00:00 startx 536 ttyl 00:00:00 xinit 537 ttyl 00:02:35 Xorg 544 ttyl 00:00:23 awesome 548 ttyl 00:00:02 flameshot 549 ttyl 00:00:00 syncthing 558 ttyl 00:00:14 syncthing 12422 pts/0 00:00:80 fish 12436 pts/0 00:00:00 ps e","libVersion":"0.3.2","langs":"eng"}

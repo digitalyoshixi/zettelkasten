@@ -1,1 +1,0 @@
-{"path":"CTFs/ImaginaryCTF 2024 Rust-20240722022240148.webp","text":"mov rsi, rax shld rsi, rdi, 0x3d sar rax, 0x3","libVersion":"0.3.2","langs":"eng"}

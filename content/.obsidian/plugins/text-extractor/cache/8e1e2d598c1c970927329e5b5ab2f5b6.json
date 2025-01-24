@@ -1,1 +1,0 @@
-{"path":"CTFs/ImaginaryCTF 2024 Rust-20240722020324303.webp","text":"mov rcx, QWORD PTR [rsp+0x58] mov rax, QWORD PTR [rsp+0x60] shld rax, rcx, 0x5 mov QWORD PTR [rsp+0x38], rax shl rcx, 0x5","libVersion":"0.3.2","langs":"eng"}

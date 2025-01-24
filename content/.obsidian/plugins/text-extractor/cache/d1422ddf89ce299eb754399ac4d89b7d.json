@@ -1,1 +1,0 @@
-{"path":"Security/Advanced Encryption Standard-20240410022002624.webp","text":"4. Mix Columns — Goal is to diffuse information. For each column, there is an expression for how to combine its Ybytes to get a new value for each byte A s evaluated first, then B, then €, then D. subseauent bytes are dependent on the previous byte's value","libVersion":"0.3.2","langs":"eng"}

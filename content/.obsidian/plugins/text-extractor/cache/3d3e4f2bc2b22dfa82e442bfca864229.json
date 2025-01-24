@@ -1,1 +1,0 @@
-{"path":"CTFs/ImaginaryCTF 2024 Rust-20240722023159848.webp","text":"1 msg = input(\"Enter message: \") 2 key = int(input(\"Enter key in hex: \"), 16) R | 4 5 for c in [ord(x) for x in msg]: 6 encrypted = (c << 2) A key a encrypted += 0x539 8 encrypted = ~encrypted 9 output..append(encrypted) 10 11 print(output)","libVersion":"0.3.2","langs":"eng"}

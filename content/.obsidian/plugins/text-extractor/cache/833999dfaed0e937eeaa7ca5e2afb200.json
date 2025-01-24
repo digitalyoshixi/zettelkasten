@@ -1,1 +1,0 @@
-{"path":"Networking/Pasted image 20230910185226.png","text":"80 00 20 7A IF 3E 8 00 20 20 3A AE 08 00 1P, ARP, etc. 00 20 20 3A Destination MAC Address Source MAC Address EtherType Payload CRC Checksum MAC Header 1PVa Type = 0800 Data (18 bytes) 1PV Type = 86DD)| (46 - 1500 bytes) (@ bytes) Ethernet Type Il Frame (6410 1518 bytes)","libVersion":"0.3.2","langs":"eng"}

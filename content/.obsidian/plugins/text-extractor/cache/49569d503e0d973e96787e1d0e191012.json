@@ -1,1 +1,0 @@
-{"path":"Bottom-Up Parsing-20250101215453678.webp","text":"Bottom up approach: S S A B A/K\\\\ A a a b ¢ d e S = aABe Decision: = aAde When to reduce. = aAbcde = aabcde (Right most Derivation) - In reverse.","libVersion":"0.3.2","langs":"eng"}

@@ -1,1 +1,0 @@
-{"path":"Malware/angr Binary Object-20240715011037286.webp","text":">>> obj.segnents <Regions: [<ELFSegment memsize=0xa7d, filesize=0xa74, vaddr=0x400000, flags=0x5, offset=0x0>, <ELFSegment memsize=0x238, filesize=0x228, vaddr=0x600e28, flags=0x6, offset=0xe2t","libVersion":"0.3.2","langs":"eng"}

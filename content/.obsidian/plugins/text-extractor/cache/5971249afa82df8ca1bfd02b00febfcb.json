@@ -1,1 +1,0 @@
-{"path":"LLVM getelementptr-20250101040134572.webp","text":"Manipulating pointers nnﬂnnﬂﬂn %new_ptr = getelementptr 132, i32* Xbase, i32 @ C “Offset by O elements of the base type”","libVersion":"0.3.2","langs":"eng"}

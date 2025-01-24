@@ -1,1 +1,0 @@
-{"path":"ReactJS Component-20240920005510039.webp","text":"function Welcome(props) { return <hi>Hello, {props.name}</h1>; }","libVersion":"0.3.2","langs":"eng"}

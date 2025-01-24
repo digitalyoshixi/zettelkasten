@@ -1,1 +1,0 @@
-{"path":"Security/Portable Executable-20240331004423182.webp","text":"typedef struct _IMAGE_FILE_HEADER { | worD Machine; | WORD Number0fSections; | DWORD TimeDateStamp; | DWORD PointerToSymbolTable; | DWORD NumberOfSymbols; ! WORD Size0fOptionalHeader; | WORD Characteristics; } IMAGE_FILE_HEADER, *PIMAGE_FILE_HEADER;","libVersion":"0.3.2","langs":"eng"}

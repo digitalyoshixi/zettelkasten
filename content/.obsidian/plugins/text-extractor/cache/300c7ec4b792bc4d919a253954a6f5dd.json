@@ -1,1 +1,0 @@
-{"path":"Java/Java Native Interface-20231007214401783.webp","text":"public class JniMainApp { private native void hello(); Iy","libVersion":"0.3.2","langs":"eng"}

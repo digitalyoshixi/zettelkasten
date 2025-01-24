@@ -1,1 +1,0 @@
-{"path":"Python/Pasted image 20230903131239.png","text":"int fiben (int n){ If (n==0) {return 0;} if (n==1) {return 1;} Return fiben(n-1) + fiben(n-2); } Int main() {prin&f (“3d”, £ibon(3)) ;}","libVersion":"0.3.2","langs":"eng"}

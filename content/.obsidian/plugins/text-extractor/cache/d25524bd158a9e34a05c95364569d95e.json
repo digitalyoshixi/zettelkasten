@@ -1,1 +1,0 @@
-{"path":"Programming/JavaScript/ReactJS Refs-20240918033620007.webp","text":"const ref = useRef() /’ et “reference” o DOM element <input ref={ref} /> Gasssw) 3 ref.current.focus() focus an input","libVersion":"0.3.2","langs":"eng"}

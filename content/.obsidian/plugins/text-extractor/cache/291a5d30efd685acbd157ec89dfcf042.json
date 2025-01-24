@@ -1,1 +1,0 @@
-{"path":"Security/angr SimState-20240714174720083.webp","text":">>> state.mem[proj.entry].int.resolved # interpret the memory at the entry point as a C int <BV32 0x8949ed31>","libVersion":"0.3.2","langs":"eng"}

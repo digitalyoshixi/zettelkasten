@@ -1,1 +1,0 @@
-{"path":"Linux/disk free-20240821145054239.webp","text":"professorakali:~$ df -h Filesystem Size Used Avail Use% Mounted on udev 3.96 0 3.96 0% /dev tmpfs 796M 1.1M 795M 1% /run /dev/sdal [P IT Y[ & [ X b tmpfs 3.96 36M 3.96 1% /dev/shm tmpfs 5.0M 9 5.0M 0% /run/lock tmpfs 3.96 0 3.96 0% fs/cgroup tmpfs 796M 16K 796M Merhooa","libVersion":"0.3.2","langs":"eng"}

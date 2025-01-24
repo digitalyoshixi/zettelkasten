@@ -1,1 +1,0 @@
-{"path":"Web/Curl-20241004034547712.webp","text":"[:(23:55:09)——> curl -I http://127.0.0.1:5000/hello HTTP/1.1 200 OK Server: Werkzeug/3.0.4 Python/3.12.6 Date: Fri, 04 Oct 2024 03:45:21 GMT Content-Type: text/html; charset=utf-8 Content-Length: 5 Connection: close p","libVersion":"0.3.2","langs":"eng"}

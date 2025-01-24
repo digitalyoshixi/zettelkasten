@@ -1,1 +1,0 @@
-{"path":"Linux/Nix Function-20240828012840381.webp","text":"S IEEE [o]y AETETT let myfunc = a: b: (a + 1) * b; myfuncUnwrapped = myfunc 3; PAS in - A RCTa [V aVTar=To o1=To M/","libVersion":"0.3.2","langs":"eng"}

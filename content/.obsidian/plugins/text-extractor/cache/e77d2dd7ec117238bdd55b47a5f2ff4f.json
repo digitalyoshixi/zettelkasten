@@ -1,1 +1,0 @@
-{"path":"Malware/angr Loaded Object-20240714164056060.webp","text":">>> proj.loader.shared_objects # may look a little different for you! {'1d-1inux-x86-64.50.2\": <ELF Object 1d-2.24.so, maps [0x2000000:0x2227167]>, '1ibc.so0.6': <ELF Object 1libc-2.24.so, maps [0x1000000:0x13c699f]>}","libVersion":"0.3.2","langs":"eng"}

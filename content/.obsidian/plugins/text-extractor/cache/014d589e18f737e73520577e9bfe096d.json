@@ -1,1 +1,0 @@
-{"path":"Web/SQL Select-20241003040502356.webp","text":"SELECT columnl, column2, ... FROM table_name; SELECT DISTINCT columnl, column2, ... FROM table_name; SELECT columnl, column2, ... FROM table_name ORDER BY columnl, column2, ... ASC|DESC; SELECT column_name(s) FROM table_name WHERE condition LIMIT number;","libVersion":"0.3.2","langs":"eng"}

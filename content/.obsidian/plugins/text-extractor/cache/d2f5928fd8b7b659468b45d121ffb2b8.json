@@ -1,1 +1,0 @@
-{"path":"Malware/angr Loaded Object-20240718213009724.webp","text":">>> proj.loader . shared_objects { 'fauxware': <ELF Object fauxware, maps [0x400000:0x60105f1>, *libc.50.6': <ELF Object libc-2.23.s0, maps [0x1000000:0x13c999f1>, *1d-1inux-x86-64.50.2\" : <ELF Object 1d-2.23.50, maps [0x2000000:0x22271671> }","libVersion":"0.3.2","langs":"eng"}

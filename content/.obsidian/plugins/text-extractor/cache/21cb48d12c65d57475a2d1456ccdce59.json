@@ -1,1 +1,0 @@
-{"path":"Malware/Executable and Linkable Format-20240714222225795.webp","text":"struct E1f64_Shdr { E1f64_Word sh_name; ELf64_Word sh_type; ELf64_Xword sh_flags; ELf64_Addr sh_addr; ELf64_Off sh_offset; ELf64_Xword sh_size; E1f64_Word sh_link; E1f64_Word sh_info; ELf64_Xword sh_addralign; E1f64_Xword sh_entsize; b","libVersion":"0.3.2","langs":"eng"}

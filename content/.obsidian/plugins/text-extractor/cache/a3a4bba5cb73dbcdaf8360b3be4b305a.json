@@ -1,1 +1,0 @@
-{"path":"Programming/C/Static Name Collision Avoidance-20240131220317474.webp","text":"ac #include <stdio.h> int compute(void); int main() 1 a-1; printf(\"%d %d\\n\", a, compute()); Teturn 0; 3} b.c: int compute(void) 1 a-o; return a; ¥","libVersion":"0.3.2","langs":"eng"}

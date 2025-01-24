@@ -1,1 +1,0 @@
-{"path":"Linux/NixOS Home Manager-20240828020436416.webp","text":"S LCER ST S, o { imports = [ > ./hardware-configuration.nix inputs.home-manager.nixosModules.default 7 I","libVersion":"0.3.2","langs":"eng"}

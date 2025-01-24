@@ -1,1 +1,0 @@
-{"path":"ReactJS Purity-20240918032935589.webp","text":"let count = 0 uiaanllh-o function Cup() { / count = count + 1 return <h2>Cup {count}</h2> } <Cup /> // 2 (wrong output) <«Cup />// 4","libVersion":"0.3.2","langs":"eng"}

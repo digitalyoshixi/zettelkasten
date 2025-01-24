@@ -1,1 +1,0 @@
-{"path":"SQL Join-20241003040601812.webp","text":"INNER JOIN CROSS JOIN SELECT Orders.OrderID, Customers.CustomerName, Orders.OrderDate FROM Orders INNER JOIN Customers ON Orders.CustomerID=Customers.CustomerID; LEFT JOIN RIGHT JOIN","libVersion":"0.3.2","langs":"eng"}

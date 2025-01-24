@@ -1,1 +1,0 @@
-{"path":"Java/Pasted image 20231211143652.png","text":"class Animal{ public boolean fur; public void eat(){ System.out.printin(“eating...\"); } } class Dog extends Animal{ public String breed; @Override public void eat()( System.out.printin(\"slurp...\"); } public void bark(){ System.out.printin(\"barking...\"); }","libVersion":"0.3.2","langs":"eng"}

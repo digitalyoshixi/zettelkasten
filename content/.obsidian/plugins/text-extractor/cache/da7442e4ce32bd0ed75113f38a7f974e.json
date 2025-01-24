@@ -1,1 +1,0 @@
-{"path":"Cypher-20241129041111356.webp","text":"[ [1]1]3 RELATIONSHIP NODE [ [ S MATCH (:Human {name:\"Bob\"})-[:LOVES]—=(whom) RETURN whom Human whom name: Bob","libVersion":"0.3.2","langs":"eng"}
