@@ -12,3 +12,8 @@ A [[System Of Equations]] is in echelon form (EF) if the following 3 conditions 
 3. $j(i) < j(i+1)$ whenever rows $i$ and $i+1$ have non-zero entites ("Echelon/staircase pattern")
 Note: Condition 2 causes the leading terms to form a staircase from top-left to bottom right
 # Examples
+
+# Concepts
+- [[Every Linear System Has A Row-Echelon Form Theorem]]
+- [[Elimination Algorithm]]
+- [[Basic and Free Variables]]

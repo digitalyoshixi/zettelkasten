@@ -9,4 +9,6 @@ Intuitively, the echelon form is the simplest form equivalent to the original sy
 **There is exactly one echelon form for a given linear system**
 ![[Drawing 2025-01-24 12.34.03.excalidraw]]
 There are many methods to get this row-echelon form.
-- [[Eli]]
+- [[Elimination Algorithm]]
+- [[Bariess Algorithm]]
+- [[Strassen's Algorithm]]
