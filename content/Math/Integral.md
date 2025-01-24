@@ -15,7 +15,6 @@ $f(x) dx$
 - Does not have a range
 - Most integrals are indefinite
 - There is always a $+\ c$ constant
-### [[Darboux Sum]]
 ### Other
 - [[Squeeze Theorem]]
 - [[Improper Integral]]

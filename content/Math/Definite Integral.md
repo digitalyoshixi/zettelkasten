@@ -26,3 +26,5 @@ Given $a,b \in R, a < b$, $f(x)$ and $g(x)$ are integrable on $[a,b]$
 6. $\forall c \in (a,b), \int_{a}^{b} f(x) \, dx = \int_{a}^{c} f(x) \, dx+ \int_{c}^{b} f(x) \, dx$ [[Union Interval Property]]
 ### Proofs
 - [[Proving Definite Integral Property 2]]
+# Helpful Formulas
+- [[Integral of x]]

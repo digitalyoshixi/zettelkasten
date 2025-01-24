@@ -3,8 +3,12 @@ tags:
   - philosophy
   - epistemology
 ---
-A representation of how much you value something based off a utility function.
+A degree of how much you value something based off a [[Utility Function]]
 
-Decision theory states that [[Utility Functions]] measure this utility based off expected payoff of an action.
+[[Decision Theory]] states that [[Utility Function]] measure this utility based off expected payoff of an action.
 
 Any rational individual must choose that action that maximizes expected utility
+# Concepts
+- [[Expected Utility]]
+- [[Decision Problem]]
+- [[Decision Theory]]

@@ -3,7 +3,9 @@ tags:
   - math
   - calculus
 ---
-The properties of [[Sigma Notation]]
+The properties of [[Sigma Notation]] that include the:
+- Additive property
+- Constant multiple property
 ### Distributive
 $$\sum_{k=1}^{n}(a_{k} + b_{k}) = \sum_{k=1}^{n}(a_{k}) + \sum_{k=1}^{n}(b_{k})$$
 ### Constant Multiple

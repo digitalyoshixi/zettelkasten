@@ -12,3 +12,5 @@ $S$ is a subset of $R^4$ where $S = \{(x,y,z,w) \in R^4;x-w=3\}$
 Examples of vectors in $S$ include:
 - $(1,2,3,-2)$
 - $(6,6,6,6)$
+# Types
+- [[Proper Subset]]

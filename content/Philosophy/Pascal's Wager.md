@@ -6,5 +6,12 @@ tags:
   - logic
 ---
 A argument for the belief in [[God]].
+1. There is infinite gain by believing in god
+2. If god does not exist, then you lose a finite amount
 
-1. There is more to gain by believing in god than not.
+![[Pasted image 20250123132636.png]]
+# Objections
+- [[St Petersburg Paradox]]
+- [[Atheism]]
+- [[Non-Almighty God]]
+- [[Pascal's Wager Arbitrary Weighting Objection]]

@@ -6,8 +6,10 @@ tags:
 Any set $F$ that has the properties of:
 - [[Addition]]
 - [[Multiplication]]
-- [[Division]]
-- [[Subtraction]]
+- [[Additive Inverse]]
+- [[Additive Identity]]
+- [[Multiplicative Inverse]]
+- [[Multiplicative Identity]]
 # Examples
 - [[Real Number]]
 - [[Rational Number]]
