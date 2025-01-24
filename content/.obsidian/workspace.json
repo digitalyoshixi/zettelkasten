@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Spanning Set.md",
+                "file": "Daily/2025-01-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spanning Set"
+              "title": "2025-01-24"
             }
           },
           {
@@ -239,10 +239,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Spanning Set.md"
+                "file": "Daily/2025-01-24.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Spanning Set"
+              "title": "Outline of 2025-01-24"
             }
           }
         ]
@@ -267,6 +267,7 @@
   },
   "active": "1f831f2053d8990a",
   "lastOpenFiles": [
+    "Math/Spanning Set.md",
     "Math/Linear Independence Equivalence Theorems.md",
     "Math/Rules of Inference.md",
     "Math/Linear Independence.md",
@@ -298,7 +299,6 @@
     "Math/Sum of Cubic Series.md",
     "Math/Sigma Notation.md",
     "Math/Sum of Quadratic Series.md",
-    "Math/Sum of Linear Series.md",
     "Math/Symmetric Matrix-20250117161555118.webp",
     "Web/ngrok-20250118075157639.webp",
     "Geography/Hotspot Tracks-20250121212738784.webp",
