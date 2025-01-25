@@ -4,6 +4,7 @@ tags:
   - linalg
 aliases:
   - indep
+  - Linearly Independent
 ---
 # Linear Independence
 If there are no constants for a set of vectors that allows any linear combination to sum up to 0.

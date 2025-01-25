@@ -58,6 +58,7 @@ https://www.mathmatize.com/c/1451/
 - [[Basis]]
 - [[Standard Basis]]
 - [[Linear Equation]]
+- [[Invariance Theorem]]
 ### Complex Numbers
 - [[Complex Number]]
 - [[Complex to Real Mapping]]
