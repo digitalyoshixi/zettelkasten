@@ -37,7 +37,7 @@ x_{k1} & x_{k2} & \dots & x_{kn}  & b_{k}\\ \\
 \end{array}\right]
 $$
 
-### $\lambda R_{i}+R_{j} \to R_{j}$
+### $\lambda R_{i}+R_{j} \to R_{j}$ (Adding a multiple of another row)
 $$
 \left[\begin{array}{cccc|c}
 x_{11} & x_{12} & \dots & x_{1n}  & b_{1}\\ \\
@@ -61,7 +61,7 @@ x_{i1} & x_{i2} & \dots & x_{in}  & b_{i}\\ \\
 x_{k1} & x_{k2} & \dots & x_{kn}  & b_{k}\\ \\
 \end{array}\right]
 $$
-### $R_{i} \leftrightarrow R_{j}$
+### $R_{i} \leftrightarrow R_{j}$ (Swapping rows)
 $$
 \left[\begin{array}{cccc|c}
 x_{11} & x_{12} & \dots & x_{1n}  & b_{1}\\ \\
