@@ -46,6 +46,7 @@ https://www.mathmatize.com/c/1451/
 - [[Augmented Matrix]]
 - [[Echelon Form]]
 - [[Elimination Algorithm]]
+- [[Column Vectors]]
 ### Subspaces
 - [[Subset]]
 - [[Fields]]
@@ -54,6 +55,7 @@ https://www.mathmatize.com/c/1451/
 - [[Subspace]]
 - [[Redundant Vector]]
 - [[Linear Dependence|Linear Independent]]
+- [[Basis]]
 - [[Standard Basis]]
 - [[Linear Equation]]
 ### Complex Numbers
