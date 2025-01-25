@@ -47,6 +47,7 @@ https://www.mathmatize.com/c/1451/
 - [[Echelon Form]]
 - [[Elimination Algorithm]]
 - [[Column Vectors]]
+- [[Normal Vector]]
 ### Subspaces
 - [[Subset]]
 - [[Fields]]
