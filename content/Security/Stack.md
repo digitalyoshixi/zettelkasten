@@ -5,7 +5,10 @@ tags:
 ---
 *The stack grows up negatively*
 https://www.youtube.com/watch?v=CRTR5ljBjPM
-Organized memory where program data resides. ALL data is stored in the stack excluding those that are in registers(will eventually go to the stack).
+Organized memory where program data resides. Stores:
+- Local variables of the active function
+- Return address pointer
+- Local variables of the caller function and its caller function, so on so forth
 # Stack Frame
 Portion created between ebp and esp
 ![[Stack-20231217010052509.webp]]
