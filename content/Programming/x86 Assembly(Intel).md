@@ -4,15 +4,16 @@ tags:
   - assembly
 ---
 # [[C]] Boilerplate Decompilation
-```x86
+```c
 push rbp // push the main function to stack
 mov rbp,rsp // sets up new stack frame for main function
 sub rsp,0x10 // Allocate 16 bytes of stack space for local variables
 mov DWORD PTR [rbp-0x4],edi // stores first argument 'argc' onto stack
 mov QWORD pTR [rbp-0x10],rsi // stores second argument `argv` onto stack
-...user-defined C code
+mov %fs:0x28,%rax // stack smashing prevention
+
 ...
-...
+
 mov    eax,0x0 // return 0;
 leave // pops old frame pointer off stack
 ret // returns to main's initial address
