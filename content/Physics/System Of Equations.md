@@ -15,4 +15,4 @@ Or you can determine it algebraically with Elimination methods.
 - [[Inconsistent System of Equations]]
 - [[Back Propagation]]
 - [[Gaussian Algorithm]]
-- [[System of Equations ]]
+- [[System of Equations Solutions Theorem]]
