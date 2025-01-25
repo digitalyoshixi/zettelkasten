@@ -12,3 +12,4 @@ Or you can determine it algebraically with Elimination methods.
 - [[Casio 991Cw System of Equations Solver]]
 # Concepts
 - [[Homogenous Systems]]
+- [[Inconsistent System of Equations]]
