@@ -13,3 +13,4 @@ Or you can determine it algebraically with Elimination methods.
 # Concepts
 - [[Homogenous Systems]]
 - [[Inconsistent System of Equations]]
+- [[Back Propagation]]
