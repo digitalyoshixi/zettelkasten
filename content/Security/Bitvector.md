@@ -11,7 +11,8 @@ Python bitvectors are a better way of representing integers fitting wordsizes.
 # Bitvector
 ![[Bitvector-20240714174955629.webp|429]]
 Bitvector objects are integers. 
-written in binary (or hex if you have imported `monkeyhex`).
+- By default represented in binary
+- [[monkeyhex]] allows for hex representation
 # Attributes
 ### bv.length
 Returns how wide the bitvector is in bits
