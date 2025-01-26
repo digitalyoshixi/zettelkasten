@@ -1,4 +1,5 @@
 ---
+banner: "[[index-20250126201742078.webp]]"
 title: Hi, this is my knowledgebase
 ---
 Here are a wide variety of unsorted and sorted notes from courses books and stuff i find online.
