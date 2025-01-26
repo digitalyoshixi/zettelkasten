@@ -4,6 +4,7 @@ tags:
   - assembly
 ---
 Very temporary storage for data often used for quick computations between variables. 
+
 Register data is often saved into more permanent memory like the:
 - [[Stack]]
 - [[Heap]]
