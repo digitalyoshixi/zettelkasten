@@ -2,4 +2,4 @@
 tags:
   - os
 ---
-A [[Regi]]
+A [[Register]] used for:

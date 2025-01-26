@@ -18,7 +18,6 @@ Register data is often saved into more permanent memory like the:
 - [[rsi]]
 - [[rdi]]
 - [[rip]]
-
 ### Registry sizes
 [Registers - SkullSecurity](https://wiki.skullsecurity.org/index.php/Registers)
 ![[Registers-20240714174204220.webp]]
