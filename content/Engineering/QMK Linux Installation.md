@@ -14,3 +14,6 @@ tags:
 4. Go to the directory. For example: `/home/david/qmk_firmware/keyboards/foostan/cornelius/keymaps/yoshixi`
 5. edit `keymap.c` with a keymap layout from here: https://keymapdb.com/?keyCount=1-34 or create your own here: https://config.qmk.fm/#/foostan/cornelius/LAYOUT
 6. Then, `qmk compile`
+# Creating Firmware From QMK Configurator
+1. Download the json file from qmk configurator
+2. run `qmk json2c keymap.json`
