@@ -3,6 +3,10 @@ tags:
   - os
   - assembly
 ---
+Very temporary storage for data often used for quick computations between variables. 
+Register data is often saved into more permanent memory like the:
+- [[Stack]]
+- [[Heap]]
 # Registers
 - [[rax]]
 - [[rbx]]
@@ -13,25 +17,12 @@ tags:
 - [[rsi]]
 - [[rip]]
 
-| register | use-case                      |
-| -------- | ----------------------------- |
-| rax      | - math<br>- return values     |
-| rbx      | - base index<br>- arrays      |
-| rcx      | - counter                     |
-| rdx      | - math                        |
-| rbp      | - base pointer                |
-| rsp      | - stack pointer               |
-| rsi/rdi  | - memory transfer             |
-| rip      | - current instruction pointer |
-
-Very temporary storage for data. Usually used for quick computations between variables in processes like multiplication. Save the results into more permanent memory locations like RAM or cache.
 ### Registry sizes
 [Registers - SkullSecurity](https://wiki.skullsecurity.org/index.php/Registers)
-
 ![[Registers-20240714174204220.webp]]
-rax. rbx will act similarly to eax, ebx respectively. 
-esi,edi,ebp,esp are either 32bit or 16bit. This is because memory addresses **cannot** be 8bit.
-
+- `r__` means 64-bit
+- `e__` means 32-bit
+- `__` means 16-bit
+- `_h`/`_l` means 8-bit, higher bits or lower bits respectively. Often used for [[ASCII]], where you only need 8-bits
 Example:
 ![[Registers-20240714174232040.webp]]
-For some data types like [[ASCII]], all you need is 8 bits. Grabbing the entire register will just feed you extra garbage and halt execution time and RAM.
