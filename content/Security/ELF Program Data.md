@@ -9,3 +9,4 @@ Data can be stored in:
 - **.bss** - for uninitialized globals
 - [[Stack]] - for local variables
 - [[Heap]] - for shared local variables
+

@@ -19,6 +19,10 @@ leave // pops old frame pointer off stack
 ret // returns to main's initial address
 ```
 # Opcodes
+- [[x86 Intel mov]]
+- [[x86 Intel lea]]
+- [[x86 Intel jmp]]
+- [[x86 Intel nop]]
 
 | operation               | Intel Syntax  | pseudo demo                                                 |
 | ----------------------- | ------------- | ----------------------------------------------------------- |
