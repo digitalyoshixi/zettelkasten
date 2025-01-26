@@ -5,4 +5,8 @@ aliases:
   - Load Effective Address
 ---
 `lea dest, src`
-Moves the address of the src and moves it into dest.
+Used to store pointers to addresses in memory.
+Moves the address of src into dest.
+# Example
+`lea rax, [rip+0x20040]`
+- rax will then take on the value of that address
