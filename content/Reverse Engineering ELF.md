@@ -1,9 +1,9 @@
 ---
 tags:
   - reverse_engineering
+  - linux
 ---
-First check the filetype `file ./filename`  
-# [[Executable and Linkable Format|ELF]] 
+# Reverse Engineering Process
 1. `file`
 	1. Determine architecture
 	2. Determine if [[Stripped Binary]]
@@ -22,5 +22,8 @@ First check the filetype `file ./filename`
 8. [[Symbolic Execution]]
 9. [[Ghidra]]
 10. https://ide.kaitai.io/
-# [[Portable Executable|PE]]
-1. [[Ghidra]]
+# Concepts
+- [[Executable and Linkable Format|ELF]]
+- [[Register]]
+- [[Stack]]
+- [[Heap]]

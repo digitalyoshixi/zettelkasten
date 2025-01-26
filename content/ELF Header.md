@@ -1,0 +1,28 @@
+---
+tags:
+  - linux
+  - reverse_engineering
+---
+Contains generatl information about the binary.
+- e_indent: Array of 16 bytes containing identification flags about the file
+	- El_MAG0-3: ELF [[Magic Numbers]]
+	- El_CLASS: File class
+	- El_DATA: File's data encoding/encryption
+	- El-VERSION: File's version
+	- El_OSABI: [[Operating System|OS]]/[[Application Binary Interface|ABI]] identification
+	- El_ABIVERSION [[Application Binary Interface|ABI]] version
+	- El_PAD: Start of padding bytes
+	- El_NIDENT: size of ei_ident
+- e_type: Type of executable
+- e_machine: File's architecture
+- e_version: Object file version
+- e_entry: Entry point of application
+- e_phoff: File offset of the Program Header Table
+- e_shoff: File offset of Section Header Table
+- e_flags: Processor-specific flags associated with the file
+- e_ehsize: ELF header size
+- e_phentsize: Program Header entry size in the Program Header Table
+- e_phnum: Number of Program Headers
+- e_shentsize: Section Header entry size in Section Header Table
+- e_shnum: Number of [[ELF Section]] headers
+- e_shstrndx: Index in the Section Header Table Denoting Section dedicated to Hold Section names
