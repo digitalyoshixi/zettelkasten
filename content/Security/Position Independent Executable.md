@@ -6,4 +6,4 @@ aliases:
   - PIC
   - Position Independent Code
 ---
-Code that runs properly regardless of where in memory it is loaded
+Code that runs properly regardless of where in memory it is loaded.
