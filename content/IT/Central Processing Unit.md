@@ -14,7 +14,7 @@ Every piece of hardware, including the motherboard depend on the CPU architectur
 # How it works
 ### [[External Data Bus]] 
 Used to transmit CPU data to peripheral devices
-### [[Registers]]
+### [[Register]]
 Used to perform logic operations. Depending on the CPU architecture the register can be 8 - 64bit. 32bit has eax, 64bit has rax. The most basic CPU has 4 registers ax, bx, cx, dx
 ### [[x86 Assembly|Assembly]]
 Other devices use [[External Data Bus|EDB]] to sen machine codes which are assembly language to instruct the CPU what to do to the registers. This is again, binary data, but they are given mnemonics like `mov eax, ebx` which moves the value of `ebx` into `eax` in x86 assembly.

@@ -2,7 +2,7 @@
 tags:
   - reverse_engineering
 ---
-map of all the state's [[Registers]]
+map of all the state's [[Register]]
 All registers are returned as a python [[Bitvector]]
 # Modifying Registers
 ```python

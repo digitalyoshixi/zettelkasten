@@ -3,7 +3,15 @@ tags:
   - os
   - assembly
 ---
-# 32-bit registers
+# Registers
+- [[rax]]
+- [[rbx]]
+- [[rcx]]
+- [[rdx]]
+- [[rbp]]
+- [[rsp]]
+- [[rsi]]
+- [[rip]]
 
 | register | use-case                      |
 | -------- | ----------------------------- |
