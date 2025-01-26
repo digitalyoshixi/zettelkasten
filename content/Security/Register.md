@@ -16,6 +16,7 @@ Register data is often saved into more permanent memory like the:
 - [[rbp]]
 - [[rsp]]
 - [[rsi]]
+- [[rdi]]
 - [[rip]]
 
 ### Registry sizes
