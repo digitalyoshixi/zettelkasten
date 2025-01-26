@@ -36,9 +36,9 @@ Needed on linktime, but irrelevant on runtime.
 each section is a [[ELF32_Shdr]] 
 Sections include:
 - **.text**: code
-- **.data**: initialized data
-- **.rodata**: initialized read-only data
-- **.bss**: uninitialized data
+- **.data**: initialized global data
+- **.rodata**: initialized read-only data for [[C Macros|C Constants]]
+- **.bss**: uninitialized global data
 - **.plt**: procedure linkage table ([[Import Address Table|IAT]] equivalent)
 - **.got**: GOT entries dedicated to dynamically linked global variables
 - **.got.plt**: got entries dedicated to dynamically linked fuctions
