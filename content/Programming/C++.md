@@ -32,7 +32,7 @@ Alternatively, you can use automated build tools such as `make` or `build2`, how
 # Common C++ Problems
 - [[C++ Common C++ Problems]]
 # Nomenclature
-- [[Statements]]
+- [[Programming/Statements]]
 - [[Compile-time]]
 - [[Runtime]]
 - [[Identifiers]]

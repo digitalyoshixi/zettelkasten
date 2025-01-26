@@ -23,5 +23,5 @@ Operations are evaluated left to right, except for exponentiation and conditiona
 | ()          | parenthesis                                                                 |
 | **          | exponent                                                                    |
 | +x, -x      | unary plus, unary minus                                                     |
-| *, /, //, % | multiplication, division, [[Python/Integer Division]], [[Python Modulo Operation]] |
+| *, /, //, % | multiplication, division, [[Integer Division 1]], [[Python Modulo Operation]] |
 | +, -        | addition, subtraction                                                       |

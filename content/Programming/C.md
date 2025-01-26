@@ -36,7 +36,7 @@ From these, you can make an
 - [[C Command Line Arguments]]
 ### Datatypes & Special Datatypes
 - [[C Datatypes]]
-- [[Python/Integer Division]]
+- [[Integer Division 1]]
 - [[End of File|EOF]]
 - [[C Strings]]
 - [[C Typecasting]]

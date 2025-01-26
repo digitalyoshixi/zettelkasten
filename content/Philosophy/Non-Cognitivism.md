@@ -7,7 +7,7 @@ aliases:
   - Emotivism
 ---
 The view that [[First Order Morality]] sentences are **not** [[Truth-Aptness|Truth Apt]]
-Specifically, it is saying that [[Statements]] cannot themselves be interpreted as [[Statements]], but rather they are similar to [[Questions]] and [[Commands]].
+Specifically, it is saying that [[Philosophy/Statements]] cannot themselves be interpreted as [[Philosophy/Statements]], but rather they are similar to [[Questions]] and [[Commands]].
 Every sentence is used to express & reveal an attitude.
 Thereby, they prove that there are no [[Truth-Aptness|Truth Apt]] [[Proposition|Propositions]] at all, and therefore nothing can be considered [[Knowledge]].
 The point of [[Moral Language]] is to then non-verbally express your attitudes.

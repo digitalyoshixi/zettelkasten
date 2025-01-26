@@ -15,7 +15,7 @@ Networking diagrams often represent Ethernet as lines. Just simple lines.
 
 ### Ethernet Forwarding
 ethernet forwarding can be broken down into 4 steps::
-1. Our own computer [[Networking/Encapsulation]] the packet inside an [[Ethernet Frame]] 
+1. Our own computer [[Network/Encapsulation]] the packet inside an [[Ethernet Frame]] 
 2. The packet is physically transmitted through electricity over Ethernet cabling
 3. Router physically receives the electrical signal and re-creates the encapsulated packet through decoding the electrical signals
 4. Router decapsulates the packet from the [[Ethernet Frame]]

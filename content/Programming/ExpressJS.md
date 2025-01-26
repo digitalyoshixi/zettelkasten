@@ -3,7 +3,7 @@ tags:
   - javascript
   - express
 ---
-A backend framework for [[JavaScript/NodeJS]] backends.
+A backend framework for [[NodeJS]] backends.
 Used to make http endpoints.
 # Installation
 `npm install express`

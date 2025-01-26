@@ -3,11 +3,11 @@ tags:
   - OOP
 ---
 # Advantages of OOP
-- [[Java/Encapsulation]]
+- [[Programming/Encapsulation]]
 - [[Inheritance]]
 - [[Polymorphism]]
 
-# [[Java/Encapsulation]]
+# [[Programming/Encapsulation]]
 - [[Java Classes]]
 - [[Java Objects]]
 - [[Public Classes]]

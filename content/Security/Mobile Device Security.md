@@ -10,7 +10,7 @@ tags:
 - [[Mobile Device Management Policies|MDM]]
 - [[Mobile Application Management|MAM]]
 - [[Profile Security Requirement]]
-- [[Networking/Network Access Control|NAC]]
+- [[Network Access Control|NAC]]
 - [[Multifactor Authentication|MFA]]
 - [[Anti-Malware Software]]
 - [[App Permission Scanner]]

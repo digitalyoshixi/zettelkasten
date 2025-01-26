@@ -21,7 +21,7 @@ const uri = "<connection string you copied>"
 // Example: const uri = "mongodb+srv://${mongo_username}:${mongo_password}@cluster0.jae3r.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 ```
-# Installation [[JavaScript/NodeJS]]
+# Installation [[NodeJS]]
 `npm install mongodb`
 # Concepts
 - [[Mongoose]]
