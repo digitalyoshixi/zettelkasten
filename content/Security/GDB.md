@@ -45,4 +45,5 @@ https://users.ece.utexas.edu/~adnan/gdb-refcard.pdf
 - [[GDB Finding main()]]
 - [[Pwndbg]]
 - [[GEF]]
+- [[PEDA]]
 - [[GDB Dumping Memory Addr]]
