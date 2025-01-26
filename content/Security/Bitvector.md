@@ -10,7 +10,8 @@ Python bitvectors are a better way of representing integers fitting wordsizes.
 [[z3]] uses bitvectors for constraint finding
 # Bitvector
 ![[Bitvector-20240714174955629.webp|429]]
-Bitvector objects are integers written in binary (or hex if you have imported `monkeyhex`).
+Bitvector objects are integers. 
+written in binary (or hex if you have imported `monkeyhex`).
 # Attributes
 ### bv.length
 Returns how wide the bitvector is in bits
