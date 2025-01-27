@@ -4,6 +4,8 @@ tags:
 aliases:
   - MATA37
 ---
+# Examinations
+- You do not need to check [[Fundamental Theorem of Calculus|FToC]] hypothesis
 # Concepts
 - [[Sigma Notation]]
 - [[Signed Area]]
