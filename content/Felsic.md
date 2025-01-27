@@ -6,4 +6,4 @@ Any material that has:
 - [[Feldspar]]
 - [[Silca]]
 
-Commonly found at [[Stratovolcanoes]]
+Commonly found at [[Stratovolcanoes]]**

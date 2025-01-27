@@ -1,6 +1,5 @@
 ---
-tags:
-  - personal
+tags: []
 ---
 # Tell Us About Yourself
 I touched computers when I was 10 and taught myself programming making video games. Later on in highschool, I was introduced to linux, and it was only after that, that I got really into IT. And so these days, whenever im not doing course work, I spend a lot of time learning and preparing for ctfs, I teach myself lower level concepts, since those are what I find more interesting. Just the pure foundations of computing like how assembly works and the whole idea of esolangs.

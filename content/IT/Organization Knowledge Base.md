@@ -1,7 +1,6 @@
 ---
 tags:
   - business
-  - pkm
 ---
 A business' repository for sharing knowledge about certain problems or documents relevant to the projects.
 Usually organizations use:

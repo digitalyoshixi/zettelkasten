@@ -1,6 +1,6 @@
 ---
 tags:
   - physics
-  - linear_momentum
+  - physics
 ---
 ![[Relative Cannonball Problems-20240327223644887.webp]]

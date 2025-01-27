@@ -1,6 +1,6 @@
 ---
 tags:
-  - 0xInfection
+  - reverse_engineering
   - GDB
 ---
 ### Part 36 gdb haxoring

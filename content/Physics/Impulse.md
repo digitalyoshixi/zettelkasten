@@ -1,7 +1,7 @@
 ---
 tags:
   - physics
-  - linear_momentum
+  - physics
 ---
 # Table of Contents
 ```table-of-contents

@@ -1,6 +1,6 @@
 ---
 tags:
-  - 0xInfection
+  - reverse_engineering
   - GDB
 ---
 ### Part 39 fuck with the eip

@@ -1,7 +1,7 @@
 ---
 tags:
   - philosophy
-  - 0xInfection
+  - reverse_engineering
 ---
 A very profound quote was mentioned in this article:
 https://0xinfection.github.io/reversing/pages/part-7-transistors-and-memory.html
