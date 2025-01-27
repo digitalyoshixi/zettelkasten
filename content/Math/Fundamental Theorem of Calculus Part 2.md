@@ -1,6 +1,8 @@
 ---
 tags:
   - calculus
+aliases:
+  - Functions Defined by Integrals
 ---
 # Theorem
 1. If $a,b \in \mathbb{R}$, $a<b$
