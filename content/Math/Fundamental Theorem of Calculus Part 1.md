@@ -2,9 +2,15 @@
 tags:
   - math
   - calculus
-aliases:
-  - Continuity Implies Integrable
+aliases: []
 ---
-A function $f(x)$ is [[Definite Integral Riemann Sum Definition|Integrable]] on a closed interval $[a,b]$ if:
-- $f(x)$ is continuous on $[a,b]$
-- $f(x)$ has a finite # of [[Jump Discontinuities]] on $[a,b]$ (Derived from [[Definite Integral]])
+# Theorem
+- Let $a,b \in R$, $a<b$
+- If $f$ is cont on $[a,b]$
+- $F$ is any [[Antiderivative]] of $f$ on $[a,b]$
+Then,
+$$\int_{a}^{b} f(x) \, dx = F(x) |_{b}^{a}=F(b)-F(a)$$
+# FTOC Part 1 Proof
+- [[Fundamental Theorem of Calculus Part 1 Proof]]
+# Corrolaries
+- [[Continuity Implies Integrable]]
