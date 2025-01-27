@@ -1,6 +1,6 @@
 ---
 tags:
-  - x64dbg
+  - reverse_engineering
   - debugging
 ---
 ![[x64dbg Strings References-20231228212957386.webp]]

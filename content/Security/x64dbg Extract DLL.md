@@ -1,6 +1,6 @@
 ---
 tags:
-  - x64dbg
+  - reverse_engineering
   - debugging
 ---
 1. Step past the point where the DLL is loaded in, keep stepping before the DLL is released. 

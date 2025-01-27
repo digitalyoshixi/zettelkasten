@@ -1,6 +1,6 @@
 ---
 tags:
-  - x64dbg
+  - reverse_engineering
   - reverse_engineering
   - debugging
 ---

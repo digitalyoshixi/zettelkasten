@@ -2,7 +2,7 @@
 tags:
   - books
   - reverse_engineering
-  - 0xInfection
+  - reverse_engineering
 ---
 [https://0xinfection.github.io/reversing/](https://0xinfection.github.io/reversing/pages/) Take things slow. One must have great respect for computers to become great. Be patient and persevere
 

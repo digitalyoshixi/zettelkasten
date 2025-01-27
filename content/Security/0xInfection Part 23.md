@@ -1,6 +1,6 @@
 ---
 tags:
-  - 0xInfection
+  - reverse_engineering
   - GDB
 ---
 We are very familiar with gdb now. The process is as we know, gdb -q [filename], b _start, r, disas.

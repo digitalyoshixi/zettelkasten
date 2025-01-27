@@ -1,7 +1,7 @@
 ---
 tags:
   - physics
-  - linear_momentum
+  - physics
 aliases:
   - Momentum
   - Momenta
