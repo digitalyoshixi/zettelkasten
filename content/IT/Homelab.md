@@ -9,7 +9,7 @@ This is the map of my homelab:
 # Old Ass Desktop
 - [[Proxmox]] for virtualizing all services
 - [[Bitwarden]] for password management
-- [[Samba]] for SMB
+- [[Samba]] for SMB (Look into if a proxmox win10 vm can share its print capabilities)
 - [[Wireguard]] for VPN access
 - [[Jellyfin]] for watching shows
 - [[nginx]] for opening the server to the internet
