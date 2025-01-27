@@ -14,3 +14,4 @@ This is the map of my homelab:
 - [[Jellyfin]] for watching shows
 - [[nginx]] for opening the server to the internet
 - [[Nextcloud]] for file-sync
+- [[Redundant Array of Independent Disks|RAID]] support

@@ -3,7 +3,7 @@ tags:
   - math
   - calculus
 ---
-### Upper Riemann Sum
+### Upper Riemann Sum $U(f,P)$
 ![[Riemann Sums-20250109224321449.webp]]
 To guarantee your sum always over-approximates
 $$\sum_{i=1}^nf(M_{i})\triangle x$$
