@@ -18,3 +18,5 @@ aliases:
 - [[Riemann Sums]]
 - [[Darboux Sum]]
 - [[Proving Non-Integrable]]
+- [[Fundamental Theorem of Calculus|FToC]]
+- [[Area Accumulation Function]]
