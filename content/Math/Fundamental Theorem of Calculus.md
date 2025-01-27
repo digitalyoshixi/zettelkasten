@@ -3,7 +3,7 @@ tags:
   - math
   - calculus
 aliases:
-  - FTC
+  - FToC
 ---
 # Parts
 - [[Fundamental Theorem of Calculus Part 1]]

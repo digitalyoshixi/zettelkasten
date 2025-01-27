@@ -9,7 +9,7 @@ $f(x) dx$
 ### [[Definite Integral]]
 - There is a definite range
 - You are trying to evaluate an integral
-- $\int_{b}^a  \, f(x) dx = F(b)-F(a)$
+- $\int_{b}^a  \, f(x) dx = F(b)-F(a)$ (by [[Fundamental Theorem of Calculus|FToC]])
 - There is no $+\ c$ constant
 ### [[Indefinite Integral]]
 - Does not have a range
