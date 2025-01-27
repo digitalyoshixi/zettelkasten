@@ -22,7 +22,7 @@ Given $a,b \in R, a < b$, $f(x)$ and $g(x)$ are integrable on $[a,b]$
 2. If $f+g$ is integrable on $[a,b]$, then $\int _{a}^b [f(x) + g(x)] \, dx- \int _{a}^b f(x)\, dx = \int _{a}^b g(x)\, dx$
 3. $\forall c \in R, \int _{a}^b cf(x)\, dx = c \int _{a}^b f(x) \, dx \implies$ $cf(x)$ is integrable on $[a,b]$
 4. $\int _{a}^a f(x)\, dx = 0$
-5. $\int_{a}^{b} f(x) \, dx = \int_{b}^{a} f(x) \, dx$
+5. $\int_{a}^{b} f(x) \, dx = -\int_{b}^{a} f(x) \, dx$
 6. $\forall c \in (a,b), \int_{a}^{b} f(x) \, dx = \int_{a}^{c} f(x) \, dx+ \int_{c}^{b} f(x) \, dx$ [[Union Interval Property]]
 ### Proofs
 - [[Proving Definite Integral Property 2]]
