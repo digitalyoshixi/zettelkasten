@@ -9,3 +9,5 @@ tags:
 3. Then, $\forall x \in [a,b], F'(x) = f(x)$ by defn of [[Antiderivative]]
 4. Consider $\int_{a}^{b} f(x) \, dx$
 5. $= \lim_{ n \to \infty }\sum_{i=1}^{n}f(x_{i}^{*})\triangle x$
+6. Since $F'(x) = f(x)$, $F(x)$ is [[Differentiability|Differentiable]] on $[a,b]$
+7. 
