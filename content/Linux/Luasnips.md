@@ -71,7 +71,14 @@ return {
     condition = math,
     snippetType = "autosnippet"
   }, {
-    t("\\sum_{k=1}^{n}")
+    t("\\sum_{i=1}^{n}")
+  }),
+  s({
+    trig = "int",
+    condition = math,
+    snippetType = "autosnippet"
+  }, {
+    t("\\int_{a}^{b}f(x)dx")
   }),
   s({
     trig = "tri",
@@ -288,11 +295,39 @@ return {
     t("\\dots"),
   }),
   s({
-    trig = "subset",
+    trig = "<=",
     condition = math,
     snippetType = "autosnippet"
   }, {
-    t("\\subset"),
+    t("\\leq"),
+  }),
+  s({
+    trig = ">=",
+    condition = math,
+    snippetType = "autosnippet"
+  }, {
+    t("\\geq"),
+  }),
+  s({
+    trig = "pi",
+    condition = math,
+    snippetType = "autosnippet"
+  }, {
+    t("\\pi"),
+  }),
+  s({
+    trig = "RR",
+    condition = math,
+    snippetType = "autosnippet"
+  }, {
+    t("\\mathbb{R}"),
+  }),
+  s({
+    trig = "FF",
+    condition = math,
+    snippetType = "autosnippet"
+  }, {
+    t("\\mathbb{F}"),
   }),
   s({
     trig = "set",
@@ -304,11 +339,31 @@ return {
     t("\\}"),
   }),
   s({
+    trig = "partition",
+    condition = math,
+    snippetType = "autosnippet"
+  }, {
+    t("P = \\{ x_i^*\\}^n_{i=0}"),
+  }),
+  s({
     trig = "riepart",
     condition = math,
     snippetType = "autosnippet"
   }, {
     t("P  = \\{ x_i\\}_{i=0}^n"),
+  }),
+  s({
+    trig = "subset",
+    condition = math,
+    snippetType = "autosnippet"
+  }, {
+    t("\\subset"),
+  }),
+  s({
+    trig = "align",
+    snippetType = "autosnippet"
+  }, {
+    t({"\\begin{align*}", "\\text{(1) } & \\text{} & \\text{}", "\\end{align*}"}),
   }),
   s({
     trig = "RR",
