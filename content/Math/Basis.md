@@ -9,3 +9,5 @@ The basis $X$ for $U$ is a set such that:
 # Converting Spanning Sets into Basis
 ![[Basis-20250125163814752.webp]]
 - Remove all dependent columns
+# Basis Vector Notation
+$bas$
