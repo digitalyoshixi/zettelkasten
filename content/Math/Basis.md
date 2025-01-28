@@ -10,4 +10,5 @@ The basis $X$ for $U$ is a set such that:
 ![[Basis-20250125163814752.webp]]
 - Remove all dependent columns
 # Basis Vector Notation
-$bas$
+$e_{n}$ where $n$ is the basis vector in question.
+$e_{1} = (1,0,\dots ,0)$
