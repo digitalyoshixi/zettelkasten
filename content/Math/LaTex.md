@@ -41,3 +41,12 @@ x_{j1} & x_{j2} & \dots & x_{jn}  & b_{j}\\ \\
 x_{k1} & x_{k2} & \dots & x_{kn}  & b_{k}\\ \\
 \end{array}\right]
 ```
+### [[Piecewise Functions]]
+```latex
+\[ f(x) = \begin{cases} 
+          0 & x\leq 0 \\
+          \frac{100-x}{100} & 0\leq x\leq 100 \\
+          0 & 100\leq x 
+       \end{cases}
+\]
+```

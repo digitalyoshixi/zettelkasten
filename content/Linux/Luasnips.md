@@ -287,6 +287,57 @@ return {
   }, {
     t("\\dots"),
   }),
+  s({
+    trig = "subset",
+    condition = math,
+    snippetType = "autosnippet"
+  }, {
+    t("\\subset"),
+  }),
+  s({
+    trig = "set",
+    condition = math,
+    snippetType = "autosnippet"
+  }, {
+    t("\\{"),
+    i(1),
+    t("\\}"),
+  }),
+  s({
+    trig = "riepart",
+    condition = math,
+    snippetType = "autosnippet"
+  }, {
+    t("P  = \\{ x_i\\}_{i=0}^n"),
+  }),
+  s({
+    trig = "RR",
+    condition = math,
+    snippetType = "autosnippet"
+  }, {
+    t("\\mathbb{R}"),
+  }),
+  s({
+    trig = "ZZ",
+    condition = math,
+    snippetType = "autosnippet"
+  }, {
+    t("\\mathbb{Z}"),
+  }),
+  s({
+    trig = "FF",
+    condition = math,
+    snippetType = "autosnippet"
+  }, {
+    t("\\mathbb{F}"),
+  }),
+  s({
+    trig = "QQ",
+    condition = math,
+    snippetType = "autosnippet"
+  }, {
+    t("\\mathbb{Q}"),
+  }),
 
 }
 ```
