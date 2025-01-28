@@ -28,3 +28,4 @@ Where $1<l\leq n$
 - [[Sum of Linear Series]]
 - [[Sum of Quadratic Series]]
 - [[Sum of Cubic Series]]
+- [[Sum of Exponential Series]]
