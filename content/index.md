@@ -16,3 +16,4 @@ Here is another cool quartz vault that I found:
 # Current Learning
 - [[Reverse Engineering ELF]]
 - [[Interpreter]]
+- [[Chaos Magick]]
