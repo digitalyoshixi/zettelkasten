@@ -1,0 +1,6 @@
+---
+tags:
+  - philosophy
+  - epistemology
+---
+T
