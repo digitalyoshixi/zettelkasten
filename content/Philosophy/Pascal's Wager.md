@@ -15,3 +15,4 @@ A argument for the belief in [[God]].
 - [[Atheism]]
 - [[Non-Almighty God]]
 - [[Pascal's Wager Arbitrary Weighting Objection]]
+- [[Alternate Gods]]

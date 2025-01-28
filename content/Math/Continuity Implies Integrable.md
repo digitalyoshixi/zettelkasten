@@ -1,6 +1,8 @@
 ---
 tags:
   - calculus
+aliases:
+  - Continuity Implies Integrability
 ---
 A function $f(x)$ is [[Definite Integral Riemann Sum Definition|Integrable]] on a closed interval $[a,b]$ if:
 - $f(x)$ is continuous on $[a,b]$
