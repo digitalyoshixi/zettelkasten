@@ -48,6 +48,7 @@ https://www.mathmatize.com/c/1451/
 - [[Elimination Algorithm]]
 - [[Column Vectors]]
 - [[Normal Vector]]
+- [[Affine Sets]]
 ### Subspaces
 - [[Subset]]
 - [[Fields]]

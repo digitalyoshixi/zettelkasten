@@ -6,6 +6,15 @@ tags:
 A [[System Of Equations]] is homogeneous if all its constants are zero $(\hat{0} \in \mathbb{F})$.
 
 Example:
+
+$$
+\[ f(x) = \begin{cases} 
+          0 & x\leq 0 \\
+          \frac{100-x}{100} & 0\leq x\leq 100 \\
+          0 & 100\leq x 
+       \end{cases}
+\]
+$$
 $$
 \lbrace
 \begin{align} \\
@@ -15,6 +24,7 @@ $$
 \end{align}
 $$
 There is always 1 or infinitely many solutions to this
-# Trivial Solution Theorem
-The homogenous system in $k$ variables always admits the trivial solution of $0 = (\hat{0}, \hat{0}, \dots ,\hat{0}) \in \mathbb{F}^{k}$
-- [[Homogeneous System Trivial Solution Theorem Proof]]
+# Theorems
+- [[Homogenous System Trivial Solution Theorem]]
+- [[Homogenous Non-Trivial Solution Theorem]]
+- [[Homogenous Equals Zero Solution Theorem]]
