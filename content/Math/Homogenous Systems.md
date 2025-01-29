@@ -27,3 +27,4 @@ There is always 1 or infinitely many solutions to this
 # Theorems
 - [[Homogenous System Trivial Solution Theorem]]
 - [[Homogenous Non-Trivial Solution Theorem]]
+- [[Homogenous Equals Zero Solution Theorem]]
