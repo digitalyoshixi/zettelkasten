@@ -1,15 +1,12 @@
 ---
 tags:
   - math
+  - linalg
 ---
 The the smallest set that contains all [[Linear Combination]] of vectors in the [[Subspace]] $X$.
 A subset $S \subset V$ is a spanning set if:
 - $V = span(S)$
-Look at
-Denoted as $span\{ \vec{x_{1}}  , \dots, \vec{x_{k}}\}$ or $span(X) = \{ a_{1}x_{1} +a_{k} \vec{x_{k}};a_{1} \dots a_{k} \in R\}$
-- Span of X is a [[Subspace]] itself as its [[Linear Combination|Closed Under Linear Combinations]] and should have the 0 vector.
-- $X \subset span(X)$ (Refer to [[Subset]])
-You write a span $span(\{ (1,0), (0,1) \})$ as $\{ x(1,0) + y(0,1)  : x,y \in R\}$
+Look at: [[Span]]
 # Examples
 ### Element of Set
 $U = span \{ [1,0,0] , [0,0,1] \}$
