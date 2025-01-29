@@ -4,4 +4,4 @@ tags:
 aliases:
   - std::move
 ---
-Moves 
+Moves some address space into another address space
