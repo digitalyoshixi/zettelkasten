@@ -393,6 +393,12 @@ return {
   }, {
     t("\\mathbb{Q}"),
   }),
-
+  s({
+    trig = "neq",
+    condition = math,
+    snippetType = "autosnippet"
+  }, {
+    t("\\neq"),
+  }),
 }
 ```
