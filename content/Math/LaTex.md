@@ -41,7 +41,8 @@ x_{j1} & x_{j2} & \dots & x_{jn}  & b_{j}\\ \\
 x_{k1} & x_{k2} & \dots & x_{kn}  & b_{k}\\ \\
 \end{array}\right]
 ```
-### [[Piecewise Functions]]
+### [[Piecewise Functions]]/System Of Equations
+```latex
 ```latex
 \[ f(x) = \begin{cases} 
           0 & x\leq 0 \\
