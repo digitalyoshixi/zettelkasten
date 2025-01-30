@@ -18,3 +18,6 @@ aliases:
 - [[Solipsism]]
 - [[Free Will]]
 - [[Conceptual Analysis]]
+- [[Rationality]]
+- [[Faith]]
+- [[Mind]]
