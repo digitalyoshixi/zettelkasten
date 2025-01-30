@@ -15,3 +15,6 @@ Additionally:
 The more risk you put, the more faith you have.
 # Faith to protect against misleading evidence
 Since faith exists despite counter evidence, having some faith is great for allowing you to reach your goals when misleading evidence arises.
+# Concepts
+- [[No Bad Faith]]
+- [[Rational Per]]
