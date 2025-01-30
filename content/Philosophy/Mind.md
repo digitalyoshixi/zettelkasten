@@ -4,7 +4,7 @@ tags:
   - epistemology
 ---
 The mind means two tings:
-1. Having [[Conciousness|Concious]] mental states
+1. Having [[Consciousness|Concious]] mental states
 2. Having representational mental states
 # Problems
 - [[Argument By Analogy]]
