@@ -2,7 +2,8 @@
 tags:
   - math
   - calculus
-aliases: []
+aliases:
+  - FToC Part 1
 ---
 # Theorem
 - Let $a,b \in R$, $a<b$
