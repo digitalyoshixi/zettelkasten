@@ -3,6 +3,7 @@ tags:
   - calculus
 aliases:
   - Functions Defined by Integrals
+  - FToC Part 2
 ---
 # Theorem
 1. If $a,b \in \mathbb{R}$, $a<b$
@@ -13,7 +14,7 @@ Then:
 - $F(x)$ is differentiable on $(a,b)$
 - $\forall x \in [a,b], F'(x) = f(x)$
 	- Endpoint derivatives are one-sided
-
-
+# Proof
+- [[FToC Part 2 Proof]]
 # Examples
 - [[Derivatives of Functions Defined by Integrals]]
