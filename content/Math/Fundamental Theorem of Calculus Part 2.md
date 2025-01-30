@@ -15,3 +15,5 @@ Then:
 	- Endpoint derivatives are one-sided
 
 
+# Examples
+- [[Derivatives of Functions Defined by Integrals]]
