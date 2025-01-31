@@ -11,7 +11,7 @@ tags:
 1. Suppose $S \cup \{\vec{x}\}$ is linearly independent
 2. For sake of contradiction, assume $\vec{x} = span(S)$
 3. Then, this gives $\vec{x} = a_1\vec{v}_1 + \dots + a_n\vec{v}_n \in span(S)$
-4. $\Rightarrow \vec{x} - a_1\vec{v}_1 - \dots - a_n\vec{v}_n = \vec{0}$
+4. $\Rightarrow \vec{x} - a_1\vec{v}_1 - \dots - a_n\vec{v}_n = \vec{0}$  
 5. This shows that $S \cup \{ \vec{x} \}$ has a linear dependence, contradicting that $S \cup \{ \vec{x} \}$ is linearly independent as $\vec{0} \in S \cup \{ \vec{x} \}$ means its dependent.
 6. Therefore, $\vec{x} \not\in span(S)$
 ### Proving $\Leftarrow$
