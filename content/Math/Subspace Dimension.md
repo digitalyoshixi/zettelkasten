@@ -10,3 +10,5 @@ If you have a subspace $S$ of $m$ vectors and $k = dim(U)$
 - If $m > k$, $S$ is linearly dependent
 - If $m < k$, then $S$ does not span $U$
 ![[Subspace Dimension-20250125165243786.webp]]
+# Concepts
+- [[The Dimension Bound Theorem]]
