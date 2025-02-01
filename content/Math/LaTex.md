@@ -36,7 +36,7 @@ tags:
 \left[\begin{array}{cc|c}
 a & b  & 0\\ \\
 \vdots\\
-x_{k1} & x_{k2} & \dots & x_{kn}  & b_{k}\\ \\
+c & d & 0\\ \\
 \end{array}\right]
 ```
 ### [[Piecewise Functions]]/System Of Equations
