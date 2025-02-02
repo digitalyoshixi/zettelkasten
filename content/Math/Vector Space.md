@@ -3,7 +3,7 @@ tags:
   - linalg
   - math
 ---
-A vector space $V$ is a set of vectors that has:
+A vector space $V$ is a set of vectors that has closure under:
 - [[Vector Addition]]
 - [[Vector Scalar Multiplication]]
 And both operations follows the 8 axioms:
