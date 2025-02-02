@@ -33,8 +33,13 @@ upload files to remote repository
 download changes from github or another repository-
 - `git pull` pull from main branch
 ### log
-See all changeIDs within a repo
+See all commit hashes within a repo
 - `git log`
+### checkout
+Reverts to a previous change
+- `git checkout <commithash>`
+### branch
+`git branch`
 ### diff <somechangeID\>
 See the changes in the file at a given changeID.
 you can use [[Gitk]] to track and see all changes in the file 
