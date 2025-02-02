@@ -39,7 +39,7 @@ See all commit hashes within a repo
 Reverts to a previous change
 - `git checkout <commithash>`
 ### branch
-`git branch`
+- `git branch <new-branch-name>`
 ### diff <somechangeID\>
 See the changes in the file at a given changeID.
 you can use [[Gitk]] to track and see all changes in the file 
