@@ -14,5 +14,5 @@ Or you can determine it algebraically with Elimination methods.
 - [[Homogenous Systems]]
 - [[Inconsistent System of Equations]]
 - [[Back Propagation]]
-- [[Gaussian Algorithm]]
+- [[Gaussian Elimination]]
 - [[System of Equations Solutions Theorem]]
