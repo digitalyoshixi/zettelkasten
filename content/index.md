@@ -17,4 +17,3 @@ Here is another cool quartz vault that I found:
 - [[Reverse Engineering ELF]]
 - [[Interpreter]]
 - [[Chaos Magick]]
-Is tis changed?
