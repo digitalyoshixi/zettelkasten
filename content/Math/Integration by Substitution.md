@@ -12,6 +12,7 @@ Proof: [[Substitution Rule Definite Integral Form Proof]]
 ### [[Indefinite Integral]]
 - If $f(x),g(x)$ and $f(g(x))g'(x)$ are [[Continuity|Continuous]] on their domains
 - Then. $\int f(g(x))g'(x) \, dx = \int f(u) \, du$
+- Where $u = g(x)$ and $g'(x) = du$
 ### Example
 $d$
 ### Practical uses
