@@ -10,7 +10,11 @@ A high-performance language designed to be used for a website's backend.
 # Concepts
 - [[Go Functions]]
 - [[Go Variables]]
+- [[Go Constants]]
 - [[Go Datatypes]]
+- [[Go Arrays]]
+- [[Go Slices]]
+- [[Go fmt]]
 # Boilerplate
 ```go
 package main  
