@@ -27,3 +27,5 @@ def get_item(item_id : int) -> str:
 	item = items[item_id]
 	return item
 ```
+To run, do `uvicorn <file>:app --reload`
+![[FastAPI-20250203012610611.webp]]
