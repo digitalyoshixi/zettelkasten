@@ -4,7 +4,7 @@ tags:
   - math
 ---
 # Polar Form
-For a given complex number in the form: $z = a + ib$
+For a given complex number in the form: $z = a + bi$
 $z = re^{i \theta}$
 Where:
 - $r = |z|$ (See [[Complex Number Modulus]])
