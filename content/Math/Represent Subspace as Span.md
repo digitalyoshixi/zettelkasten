@@ -19,7 +19,7 @@ By subtracting (1) from (2)
 $$
 \lbrace
 \begin{align*}
- \text{y+2z0} & \text{(1)} \\
+ \text{y+2z=0} & \text{(1)} \\
  \text{x+y+z=0} & \text{(2)} \\
 \end{align*}
 $$
