@@ -19,3 +19,5 @@ c & d \\
 
 # Types
 - [[Trace Zero Matrices]]
+# Contrast
+- [[Skew Symmetric Matrix]]
