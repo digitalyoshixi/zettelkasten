@@ -30,23 +30,30 @@ Respond with:
 Hypothetical questions
 - What would you do if a client complained about a product
 Respond with:
-- [[PEC Method]]
+- [[DAE Method]]
 - [[STARR]]
 ### Motivational/Open
 Broad questions that give you a chance to highlight your personal values
 - Why did you choose your major?
 - How do you define successs?
 Respond with:
-- [[PEC]]
+- [[PEC Method]]
+- [[STARR]]
 ### Negative/Trap
 These are questions that aim to reveal a candidates weaknesses and ability to self reflect
 - What is your greatest weakness
 - What is one thing you would change about yourself
+Respond with:
+- [[Sandwich Method]]
 ### Accomplishment oriented
 Focus on the candidates past
 - What accomplishment are you most proud of?
+Respond with:
+- [[PEC Method]]
 ### Technical
 Used to gauge technical profficiency
 - How do you perform a [[Bisection Method|Binary Search]]
-
+Respond with:
+- [[DAE Method]]
+- [[ACE Method]]
 
