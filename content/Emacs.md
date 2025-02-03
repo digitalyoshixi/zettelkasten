@@ -26,3 +26,5 @@ Move to end of line
 Move to end of line. [[Iterative Process]]
 ### `M-e`
 Move to end of line. [[Iterative Process]]
+### `C-g`
+Used to go to a command, and it will fix things
