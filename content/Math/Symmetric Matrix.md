@@ -16,7 +16,6 @@ c & d \\
 
 
 : a,b,c,d \in R, b = c\}$$
-
 # Types
 - [[Trace Zero Matrices]]
 # Contrast
