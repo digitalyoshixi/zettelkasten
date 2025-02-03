@@ -22,6 +22,7 @@ There will be eight (8) questions covering:
 6. Linear independence
 7. Subspaces
 8. Row Echelon Form
+9. Complex Numbers
 
 Each question will be worth ten marks. Some questions have sub-parts.
 # Declaring Absence/Regrade
