@@ -15,6 +15,12 @@ A high-performance language designed to be used for a website's backend.
 - [[Go Arrays]]
 - [[Go Slices]]
 - [[Go fmt]]
+- [[Go copy]]
+- [[Go len]]
+- [[Go cap]]
+- [[Go Conditional Statements]]
+- [[Go Switch Statement]]
+- [[Go For Loop]]
 # Boilerplate
 ```go
 package main  
