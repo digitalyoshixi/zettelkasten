@@ -16,3 +16,4 @@ A argument for the belief in [[God]].
 - [[Non-Almighty God]]
 - [[Pascal's Wager Arbitrary Weighting Objection]]
 - [[Alternate Gods]]
+- [[Infinite Pascal Wager]]
