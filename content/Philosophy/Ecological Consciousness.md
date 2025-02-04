@@ -11,3 +11,5 @@ It appears that:
 - [[Slug]]
 - [[Oyster]]
 do not have [[Consciousness]]
+# Inquiry Hurdle
+No animals have ever asked a question, how do they appear to gain knowledge?
