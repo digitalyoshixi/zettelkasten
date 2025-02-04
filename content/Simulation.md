@@ -14,6 +14,6 @@ Given:
 The fraction of all observers with human-like experiences that like in simulations is:
 $$f_{sim} = \frac{piNH}{p iNH + H}$$
 Then, at least on of thje following must be true:
-- $p \sim 0$
-- $i \sim 0$
-- $f_{sim} \sim 1$
+- $p \sim 0$ (There are close to zero human-level civiliations that reach a [[Post-human Stage]])
+- $i \sim 0$ (There are close to zero post-human level civilaitions interested in running ancestor simulations)
+- $f_{sim} \sim 1$ (The fraction of people with our kind of experiences living in a simulation are close to one)
