@@ -2,4 +2,4 @@
 tags:
   - philosophy
 ---
-Mental states can [[Supervenience]]
+Mental states can [[Supervenience|Supervene]] physical [[Substrate]]
