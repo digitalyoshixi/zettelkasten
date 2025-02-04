@@ -1,12 +1,7 @@
 ---
 tags:
   - math
-aliases:
-  - Power Rule
-  - Sum Rule
-  - Quotient Rule
-  - Product Rule
-  - Chain Rule
+aliases: []
 ---
 # Table Of Contents 
 ```table-of-contents
