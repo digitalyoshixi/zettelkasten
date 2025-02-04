@@ -1,8 +1,9 @@
 ---
+banner: "[[Chinese Room-20250204162954319.webp]]"
 tags:
   - philosophy
 ---
-A thought experiment to disprove [[Software Brain]] theory.
+A thought experiment to disprove [[Software Brain]]/[[Strong AI]] theory.
 
 - You are in a room and are required to translate english to chinese.
 - You have a dictionary

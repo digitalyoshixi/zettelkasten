@@ -6,7 +6,7 @@ tags:
 The mind means two things:
 1. Having [[Consciousness|Concious]] mental states
 2. Having representational mental states
-# Problems
+# Topics
 - [[Argument By Analogy]]
 - [[No Other Minds]]
 - [[Unviewable Mind]]
