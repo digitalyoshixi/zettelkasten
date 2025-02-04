@@ -11,3 +11,4 @@ The mind means two things:
 - [[No Other Minds]]
 - [[Unviewable Mind]]
 - [[Software Brain]]
+- [[Chinese Room]]
