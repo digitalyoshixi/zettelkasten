@@ -1,7 +1,8 @@
 ---
 tags:
   - philosophy
-aliases: []
+  - epistemology
+aliases:
 ---
 An [[Artificial Intelligence]] in which:
 - The [[Brain]] is a [[Computer]]
