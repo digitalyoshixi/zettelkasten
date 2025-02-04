@@ -17,5 +17,7 @@ char mystr3[60];
 mystr3 = "penis";
 ```
 Yes, strings have a special initialization specifically for them which is `""`, how special!
-# Methods
-- [[strlen]]
+# [[C string.h]]
+- [[Programming/strlen()|strlen()]]
+- [[strcpy()]]
+- [[strcmp()]]

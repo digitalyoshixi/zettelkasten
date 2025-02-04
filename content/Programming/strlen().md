@@ -11,3 +11,7 @@ char str1[] = "hihihie";
 
     printf("%d\n", strleng);
 ```
+# Parameters
+A single string value. either variable or direct value.
+# Returns
+integer of the length of a string
