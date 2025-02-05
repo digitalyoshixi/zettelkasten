@@ -7,3 +7,5 @@ tags:
 Consider:
 - [[Transformer]]
 - [[Rectifier]]
+- [[Filter]]
+- [[Amplifier]]
