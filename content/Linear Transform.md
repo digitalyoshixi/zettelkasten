@@ -14,3 +14,6 @@ $$T(a \boxdot v) = a \odot T(v)$$
 - [[Linear Transformations Preserve Addition and Scaling]]
 # Applications
 - [[Proving A Function Is Linear]]
+# Concepts
+- [[Zero Transformation]]
+- [[Identity Transformation]]
