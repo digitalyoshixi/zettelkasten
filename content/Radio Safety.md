@@ -1,0 +1,13 @@
+---
+tags:
+  - radio
+  - physics
+  - electricity
+---
+- As little as $20mA$ can be lethal
+- Minimum voltage dangerous to humans in $30V$
+- Always turn off power before working on a [[Transmitter]]. Never touch live wires
+- High voltage can burn
+- All equipment and you should be grounded to the earth
+- [[Radio]] operating at 1200 MHz or above can burn. Dont stand in front of high-power antennas
+- Ground your [[Antenna]] to prevent [[Lightning]] damage

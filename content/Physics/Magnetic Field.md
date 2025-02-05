@@ -20,7 +20,7 @@ Fingers is direction of magnetic field
 # Magnetic Polarity
 To determine which side of the magnet is positive(North) and which is negative(South).
 ![[Magnetic Fields-20240529140356486.webp]]
-### Right Hand Rule (Solenoid)
+### Right Hand Rule [[Solenoid]]
 ![[Magnetic Fields-20240529134751582.webp]]
 Thumb in direction of magnetic north
 Fingers in direction of [[Conventional Current]]
