@@ -1,6 +1,8 @@
 ---
 tags:
   - philosophy
+aliases:
+  - Post-human
 ---
 A post-human simulation is one which has acquired most technological capabilities possible in our [[Physics|Physical World]].
 # Capabilities
