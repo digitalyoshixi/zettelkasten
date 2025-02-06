@@ -7,3 +7,4 @@ We view having thoughts and senses as having the corresponding electrical and ch
 # Schools of thought
 - [[Physicalism]]
 - [[Dualism]]
+- [[Dual Aspect Theory]]

@@ -10,3 +10,5 @@ The state of having awareness of the internal and external world.
 - [[Developmental Consciousness]]
 - [[Medical Consciousness]]
 - [[Technological Consciousness]]
+- [[Self-Consciousness]]
+- [[Unconsciousness]]
