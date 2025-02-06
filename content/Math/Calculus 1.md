@@ -17,4 +17,4 @@ tags:
 # Notations
 - [[Sigma Notation]]
 # Extra
-- [[Trig Inverse Function Derivatives]]
+- [[Derivative of Trig Inverse Functions]]

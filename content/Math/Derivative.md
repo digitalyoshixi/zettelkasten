@@ -54,6 +54,6 @@ These are all theorems.
 - [[Derivative of Cosecant Function]]
 - [[Derivative of Secant Function]]
 - [[Derivative of Cotangent Function]]
-- [[Trig Inverse Function Derivatives]]
+- [[Derivative of Trig Inverse Functions]]
 - [[Inverse Function Theorem|Derivative of Inverse Function]]
 - [[Derivative of Function to a Function Power]]
