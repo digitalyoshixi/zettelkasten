@@ -5,7 +5,7 @@ tags:
 Describes how an algorithm performs as its input size grows infinitely large.
 ![[big-o-chart-3693586841.png]]
 # Complexities (Ranked)
-1. [[Constant  Time]]
+1. [[Constant Time]]
 2. [[Logarithmic Time]]
 3. [[Superlinear Time]]
 4. [[Linear Time]]
