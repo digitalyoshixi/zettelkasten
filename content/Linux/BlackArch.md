@@ -39,4 +39,3 @@ This will download a strap.sh on your local computer.
 
 You can now install from the blackarch repo.
 `sudo pacman -S dirbuster`
-
