@@ -7,8 +7,7 @@ aliases:
 An [[Artificial Intelligence]] in which:
 - The [[Brain]] is a [[Computer]]
 - The [[Mind]] is a [[Program]]
-Thus, there is nothing essentially biological about the mind
+Thus, there is nothing essentially biological about the mind. The mind takes on [[Substrate Independence]].
 And, any physical system that can implement the right kind of structure to host this mind is the [[Brain]].
-
 # Counter Arguments
 - [[Chinese Room]]
