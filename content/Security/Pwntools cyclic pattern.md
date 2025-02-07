@@ -3,7 +3,7 @@ tags:
   - binary_exploitation
   - security
 ---
-A stream of bytes that can be queried such that a substring of 4-bytes has a unique location.
+Can be used to generate [[Cyclical Strings]] 
 ```python
 pwn.cyclic(128) # return a bytes object of 128 bytes
 ```
