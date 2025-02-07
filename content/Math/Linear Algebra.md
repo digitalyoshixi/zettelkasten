@@ -64,7 +64,7 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - [[Basis]]
 - [[Standard Basis]]
 - [[Linear Equation]]
-- [[Invariance Theorem]]
+- [[All Bases are Same Size Theorem|Invariance Theorem]]
 ### Complex Numbers
 - [[Complex Number]]
 - [[Complex to Real Mapping]]
