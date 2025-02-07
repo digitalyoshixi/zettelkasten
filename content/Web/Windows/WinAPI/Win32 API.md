@@ -3,10 +3,6 @@ tags:
   - windows
   - win32api
 ---
-# Table of Contents
-```table-of-contents
-```
-# Win32 API
 The windows API is weird because of window's insistence on backwards compatibility.
 # VSCode Project Configuration
 - Solution > Properties > Platform > All Platforms
@@ -29,3 +25,5 @@ http://www.winprog.org/tutorial/start.html
 - [[VirtualAlloc]]
 - [[VirtualFree]]
 - [[CreateWindow]]
+# Guides
+- https://github.com/7etsuo/windows-api-function-cheatsheets
