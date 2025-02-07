@@ -12,6 +12,10 @@ The basis $X$ for $U$ is a set such that:
 # Basis Vector Notation
 $e_{n}$ where $n$ is the basis vector in question.
 $e_{1} = (1,0,\dots ,0)$
+# Using Greek Letters to represent bases
+- $\alpha$
+- $\beta$
+- $\gamma$
 # Concepts
 - [[Basis by Unique Representation Theorem]]
 - [[Multiple Basis for a Single Vector Space]]

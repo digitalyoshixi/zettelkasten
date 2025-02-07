@@ -3,17 +3,26 @@ tags:
   - math
 aliases:
   - Linear Transformation
+  - Linear Map
+  - Linear Function
+  - Standard Matrix
 ---
 Suppose $(V,\boxplus,\boxdot)$ and $(W,\oplus, \odot)$
 are vector spaces.
-A linear transformation / map / function of $T : V\to W$ s.t
-$$T(v \boxplus v) = T(u)\oplus T(v) $$
-$$T(a \boxdot v) = a \odot T(v)$$
-# Theorem
+A linear transformation function of $T : V\to W$ is a function that follows the principles of:
+- additivity $\forall u,v \in V, T(v \boxplus v) = T(u)\oplus T(v)$
+- homogeneity $\forall v \in V, \forall a \in \mathbb{F},  T(a \boxdot v) = a \odot T(v)$
+# Theorems
 - [[Linear Transformations Preserve Additive Identities]]
 - [[Linear Transformations Preserve Addition and Scaling]]
+- [[Linear Maps Determined by Their Actions on A Basis]]
+- [[Linear Transformation Characterized by Finite Number of Scalars]]
 # Applications
 - [[Proving A Function Is Linear]]
 # Concepts
 - [[Zero Transformation]]
 - [[Identity Transformation]]
+- [[Vector Rotation]]
+- [[Vector Projection 1]]
+- [[Matrix Representation of Linear Transformation]]
+- [[Matrix Representation of Linear Rotation]]

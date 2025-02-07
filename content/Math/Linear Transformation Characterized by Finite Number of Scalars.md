@@ -19,3 +19,4 @@ $\implies T(v_{1}) = a_{11}\overrightarrow{w_{1}} + .. + a_{1k}\overrightarrow{w
 $\vdots$
 $T(v_{n}) = a_{n1} \overrightarrow{w_{1}} + \dots + a_{nk}\overrightarrow{w_{k}}$
 then, there are $nk = dim(V) * dim(W)$ amount of coefficients with determine the map $T : V\to W$.
+
