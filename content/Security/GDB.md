@@ -43,6 +43,7 @@ https://users.ece.utexas.edu/~adnan/gdb-refcard.pdf
 # Other
 - [[GDB Typecasting]]
 - [[GDB Finding main()]]
+- [[GDB starti]]
 - [[Pwndbg]]
 - [[GEF]]
 - [[PEDA]]
