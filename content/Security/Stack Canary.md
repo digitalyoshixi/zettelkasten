@@ -4,4 +4,5 @@ tags:
   - binary_exploitation
 ---
 Security measure to prevent [[Buffer Overflow]] attacks.
-They are random values placed between local variables and the return address on the stack
+
+They are random values placed right before the return address on the stack that is checked before every return call to check for tampering.
