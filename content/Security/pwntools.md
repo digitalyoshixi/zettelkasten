@@ -10,3 +10,4 @@ A python exploitation framework for reconassaince and exploiting binaries.
 - [[Pwntools GDB]]
 - [[Pwntools cyclic pattern]]
 - [[Pwntools Address to Byte Representation]]
+- [[Pwntools Byte to Address Representation]]
