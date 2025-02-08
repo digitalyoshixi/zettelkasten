@@ -60,7 +60,7 @@ Wireshark can be used to obtain packets
 
 Command injection is only possible if an input allows linux commands to be run through. Since linux commands can pipe, && and ; to allow multiple commands on one line, we can leverage this to run any command we want. This allows us to also write scripts. By using [echo “sometext” > sometext.py] and then ./sometext.py then we can perform havoc
 
-### [[Cross site request forgery(CSRF)]]:
+### [[Cross Site Request Forgery]]:
 
 Changing a url to already pre-include form information. There are 3 main conditions that must be in place.
 
