@@ -11,5 +11,5 @@ This is to avoid predictable memory reading to leak undesired information.
 # Workarounds
 - Leak the addresses that you require
 - Use forks to brute force
-- Brute force the page offset as most program sections are off by some offset
+- [[Overwriting Page Offsets]] 
 

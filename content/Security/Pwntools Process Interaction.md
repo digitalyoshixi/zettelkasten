@@ -6,7 +6,7 @@ tags:
 ---
 ```python
 import pwn 
-r = pwn.process("./buffer_overflow")
+r = pwn.process("./buffer_overflow", aslr=True)
 r.send(b"A"*24)
 print(r.readall())
 ```
