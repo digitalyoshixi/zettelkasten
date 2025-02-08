@@ -3,8 +3,6 @@ tags:
   - binary_exploitation
 ---
 Byte data to be loaded into a program and executed as a [[Payload]].
--
-
 
 # Injection Into A Code Cave
 1. In a patching software like [[x64dbg]], allow somewhere to jump to a codecave
