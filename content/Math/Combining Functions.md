@@ -7,7 +7,7 @@ tags:
 ```
 # Il do this later
 - [[Superposition Principle]]
-- [[Product and Quotient Functions]]
+- [[Quotient Functions]]
 - [[Composite Functions]]
 - [[Combined Function Inequalities]]
 - [[Graphing Combined Functions]]

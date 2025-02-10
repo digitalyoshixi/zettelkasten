@@ -24,8 +24,8 @@ This is a circle with a radius of 1 and centered at (0,0).
 # Advanced
 - [[Integration by Substitution]]
 - [[Integration by Parity]]
-- [[Integration by Palrts]]
-- [[Integration by Fraction Decomposition]]
+- [[Integration by Parts]]
+- [[Integration by Partial Fraction Decomposition]]
 - [[Integration by Trigonometric Identities]]
 # Useful Resources
 ### Useful Identities

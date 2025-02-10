@@ -2,5 +2,5 @@
 tags:
   - math
 ---
-- [[Product and Quotient Functions]]
-
+- [[Quotient Functions]]
+- [[Product Functions]]
