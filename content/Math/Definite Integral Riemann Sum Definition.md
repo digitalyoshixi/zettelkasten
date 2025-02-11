@@ -7,8 +7,7 @@ aliases: []
 - Let $a,b \in R$
 - Let $a < b$
 - Let $[a,b] \subset dom(f)$
-- Let $P = \{x_{i}\}_{i=0}^n$ be $a$
-- Create a [[Riemann Partition]] of $[a,b]$
+- Let $P = \{x_{i}\}_{i=0}^n$ be arbitrary [[Riemann Partition]] of $[a,b]$
 **A function is integrable if:**
 $$\int_{a}^b f(x) \, dx = \lim_{ n \to \infty } \sum_{i=1}^nf(x_{i}*)\triangle x, \forall x_{i}^* \in [x_{1}\dots x_{i}]$$
 For Right-Riemann Sum:
