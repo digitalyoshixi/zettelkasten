@@ -13,8 +13,8 @@ Given:
 - $i$: fraction of posthuman civilizations interested in running ancestor simulations
 The fraction of all observers with human-like experiences that like in simulations is:
 $$f_{sim} = \frac{piNH}{p iNH + H}$$
-Then, at least on of thje following must be true:
+Then, at least on of the following must be true:
 - $p \sim 0$ (There are close to zero human-level civilizations that reach a [[Limits of Computation|Post Human State]])
-	- No technological feasiblity
+	- No technological feasibility
 - $i \sim 0$ (There are close to zero post-human level civilizations interested in running ancestor simulations)
 - $f_{sim} \sim 1$ (The fraction of people with our kind of experiences living in a simulation are close to one)
