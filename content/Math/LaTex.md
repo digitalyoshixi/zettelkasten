@@ -41,7 +41,6 @@ c & d & 0\\ \\
 ```
 ### [[Piecewise Functions]]/System Of Equations
 ```latex
-```latex
 \[ f(x) = \begin{cases} 
           0 & x\leq 0 \\
           \frac{100-x}{100} & 0\leq x\leq 100 \\
