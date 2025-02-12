@@ -20,31 +20,37 @@ tags:
 ```
 # Tags
 ### `begin{align}`
-```tex
+$$
 \begin{align*}
-	\text{}\\
-	\text{}\\
-	\text{}\\
+	\text{a}\\
+	\text{b}\\
+	\text{c}\\
 \end{align*}
-```
+$$
 ### `indent`
 ```tex
 \indent
 ```
 ### [[Augmented Matrix]]
-```latex
+$$
 \left[\begin{array}{cc|c}
-a & b  & 0\\ \\
+a & b  & 0\\
 \vdots\\
-c & d & 0\\ \\
+c & d & 0\\
 \end{array}\right]
-```
+$$
+### [[Vectors]]
+$$
+\left[\begin{array}{ccc}
+a_{11} & \dots & a_{1n} \\
+\vdots\\
+a_{k1} & \dots & a_{kn} \\
+\end{array}\right]
+$$
 ### [[Piecewise Functions]]/System Of Equations
-```latex
-\[ f(x) = \begin{cases} 
+$$
+f(x) = \begin{cases} 
           0 & x\leq 0 \\
-          \frac{100-x}{100} & 0\leq x\leq 100 \\
-          0 & 100\leq x 
+          0 & x > 0
        \end{cases}
-\]
-```
+$$

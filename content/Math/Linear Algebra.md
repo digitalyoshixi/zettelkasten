@@ -53,6 +53,8 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - [[Column Vectors]]
 - [[Normal Vector]]
 - [[Affine Sets]]
+- [[Coordinate Vector]]
+- [[Matrix Vector Multiplication]]
 ### Subspaces
 - [[Subset]]
 - [[Fields]]
