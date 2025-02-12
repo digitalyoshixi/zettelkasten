@@ -21,3 +21,4 @@ aliases:
 - [[Rationality]]
 - [[Faith]]
 - [[Mind]]
+- [[Simulation]]
