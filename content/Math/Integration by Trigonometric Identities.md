@@ -1,6 +1,8 @@
 ---
 tags:
   - calculus
+aliases:
+  - Integration by Trigonometric Substitution
 ---
 Different Trigonometric functions requires different substitutions. You will then use [[Integration by Substitution]] to solve.
 # Examples
