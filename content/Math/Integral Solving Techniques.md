@@ -27,11 +27,5 @@ This is a circle with a radius of 1 and centered at (0,0).
 - [[Integration by Parts]]
 - [[Integration by Partial Fraction Decomposition]]
 - [[Integration by Trigonometric Identities]]
-# Useful Resources
-### Useful Identities
-- $\cos^{2}(x)= \frac{1+\cos(2x)}{2}$ derived from [[Double Angle Identity]]
-- $\sin^{2}(x) = \frac{1-\cos(2x)}{2}$ derived from [[Double Angle Identity]]
-- $\sin x \cos x = \frac{\sin(2x)}{2}$ derived from [[Double Angle Identity]]
-- $b^{x} = e^{\ln(b)x}$ derived from [[Logarithms]]
-### Integral Table
+# Integral Table
 - [[Basic Integral Table]]

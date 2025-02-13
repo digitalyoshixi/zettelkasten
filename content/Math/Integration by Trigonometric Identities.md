@@ -4,8 +4,15 @@ tags:
 aliases:
   - Integration by Trigonometric Substitution
 ---
-A process to integrate where you:
-- 
+A process to integrate when you have one of the following expressions in the integrand: 
+- $\sqrt{ a^{2}-x^{2} }$
+- $\sqrt{ a^{2} +x^{2}}$
+- $\sqrt{ x^{2}+a^{2} }$
+Where: $a \in \mathbb{R}$
+When you have these, you are able to use the [[Trig Identities]] to get the following implications:
+- $\sqrt{ a^{2}-x^{2} }$. Choosing$x=a \sin \theta$ where $\theta \in [-\frac{\pi}{2}, \frac{\pi}{2}]$ give us $= a\cos \theta$
+- $\sqrt{ a^2 +x^{2}}$. Choosing $x = a\tan \theta$ where $\theta \in$
+
 # Examples
 ### Wrong Example
 $\int \cos^3 x\, dx$
