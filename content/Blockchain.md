@@ -6,3 +6,6 @@ A shared ledger that is designed to be:
 - Write-only
 - Verified by [[Democracy]]
 - Decentralized
+# Utilizations
+- [[Decentralized App|dApp]]
+- [[Cryptocurrency]]
