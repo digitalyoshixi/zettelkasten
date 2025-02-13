@@ -47,5 +47,5 @@ Find the integral of: $$\int \frac{x}{(x-1)(x-2)^{2}}\, dx$$
 3. $x=2 \implies C =  2$
 4. $x=1 \implies A =  1$
 5. $x=3 \implies B = -1$
-6. Then, $$=\ln(\frac{|x-1|}{|x-2|}) + \frac{2}{x-2}+c$$
+6. Then, $$=\ln(\frac{|x-1|}{|x-2|}) - \frac{2}{x-2}+c$$
 Note we used [[Integration by Substitution]] for this one aswell.
