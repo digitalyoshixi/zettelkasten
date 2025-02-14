@@ -16,10 +16,11 @@ pragma solidity ^0.5.0;
 2. Compile the contract with `truffle compile`
 3. Define a migration in the `/migrations` folder
 4. Ensure `truffle-config.js` is properly defined
-5. Migrate with `truffle migrate`
+5. Migrate with `truffle migrate --reset`
 # Concepts
 - [[Solidity Contract]]
 - [[Solidity Migration]]
 - [[Solidity Struct]]
+- [[Solidity Map]]
 - [[truffle-config.js]]
 - [[truffle console]]

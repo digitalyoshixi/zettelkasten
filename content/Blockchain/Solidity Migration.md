@@ -2,6 +2,7 @@
 tags:
   - blockchain
   - programming
+  - solidity
 ---
 Migrations are required when you want to add a new [[Solidity Contract]] to the blockchain.
 This is because you would be modifying the state of the blockchain.

@@ -2,11 +2,14 @@
 tags:
   - blockchain
   - programming
+  - solidity
 ---
 ```c
-   struct task {
+struct Task {
         uint id;
         string content;
         bool completed;
-   }
+}
+// creation
+Task mytask = Task(1,"hi",false);
 ```
