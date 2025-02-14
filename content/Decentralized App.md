@@ -8,3 +8,6 @@ This is application built to have all its data stored on the [[Blockchain]]. Ope
 # Development Platforms
 - [[Ethereum]]
 - [[Midnight]]
+
+# Use Case
+- [[Decentralized Finance]]
