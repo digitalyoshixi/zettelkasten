@@ -12,6 +12,8 @@ If we take its derivative, we get:
 $\frac{d}{dx}[p]$
 $= \frac{d}{dx}[a_{0}+a_{1}\mathbf{x}+ a_{2}x^{2}+ a_{3}x^{3}]$
 $= 0 + a_{1} + a_{2}*2x + a_{3} * 3x^{2}$
+$\in span\{ D(x), D(x^{2}), D(x^{3}) \}$
+$=span\{ 1,2x,3x^{2} \}$
 # Example
 Where $D$ is the differentiation function, find a basis for the image $D : P_{3}(\mathbb{R}) \to P_{2}(\mathbb{R})$
 ### Soln

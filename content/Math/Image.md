@@ -9,3 +9,5 @@ $$Image(T) = \{ w \in W: w = T(v) \text{ for some } v \in V \}$$
 # Theorems
 - [[Image is a Subspace]]
 - [[Image and Columns Procedure 1]]
+- [[Rank Nullity Theorem]]
+- [[Bases for Images and Kernel Procedure 2]]
