@@ -5,9 +5,9 @@ tags:
 ---
 - If $V, W$ are finite dimensional vector spaces
 - With $dim(V) = n$
-- Then, there exists a basis $V = span \{  u_{1}, \dots,u_{k}, v_{k+1}, \dots, v_{n}\}$ s.t: 
+- If $V = span \{  u_{1}, \dots,u_{k}, v_{k+1}, \dots, v_{n}\}$ s.t: 
 	- $ker(T) = span\{ u_{1},\dots,u_{k} \}$
-	- $Image(T) = span\{ T(v_{k+1}),\dots,T(v_{n}) \}$
+- Then: $Image(T) = span\{ T(v_{k+1}),\dots,T(v_{n}) \}$
 # Proof
 1. Pick a basis for $ker(T) = \{ u_{1},\dots,u_{k} \}$
 2. We know that $V$ is finitely dimensional, and that $dim(V) = n$
