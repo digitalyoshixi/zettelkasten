@@ -5,7 +5,7 @@ tags:
 A shared ledger that is designed to be:
 - Write-only
 - Decentralized
-# Utilizations
+# Utilization
 - [[Decentralized App|dApp]]
 - [[Cryptocurrency]]
 # Concepts
