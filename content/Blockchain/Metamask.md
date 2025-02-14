@@ -3,7 +3,8 @@ tags:
   - blockchain
 ---
 A web browser for [[Web3]].
-
+# Frontend Logic For Metamask
+- [[Metamask Frontend Logic]]
 # Adding New User
 1. Go to [[Ganache]] console and copy the first private key
 2. Create a new user in metamask and input the private key
