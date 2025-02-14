@@ -4,8 +4,13 @@ tags:
 ---
 A shared ledger that is designed to be:
 - Write-only
-- Verified by [[Democracy]]
 - Decentralized
 # Utilizations
 - [[Decentralized App|dApp]]
 - [[Cryptocurrency]]
+# Concepts
+- [[Proof of Work]]
+- [[Proof of Stake]]
+- [[Proof of Elapsed Time]]
+- [[Smart Contract]]
+- [[Scalability Trilemma]]
