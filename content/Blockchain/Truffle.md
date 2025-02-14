@@ -11,3 +11,7 @@ npm i -g truffle@5.0.2
 ```
 truffle init
 ```
+### Initialization with Truffle Box
+```
+truffle unbox react
+```
