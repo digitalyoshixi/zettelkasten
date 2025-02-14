@@ -1,9 +1,9 @@
 ---
 tags:
+  - math
   - calculus
 ---
-Different Trigonometric functions requires different substitutions. You will then use [[Integration by Substitution]] to solve.
-# Examples
+Integrating by using trig identities. I dont know if this is a real technique.
 ### Wrong Example
 $\int \cos^3 x\, dx$
 $u=\cos x$

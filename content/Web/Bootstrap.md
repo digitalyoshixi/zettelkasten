@@ -3,7 +3,7 @@ tags:
   - web
 ---
 ![[Bootstrap-20240802035534721.webp|169]]
-A [[Cascading Style Sheet|CSS]] framework that offers pre-designed components and CSS snippets that speed up the development process
+A [[Cascading Style Sheet|CSS]] framework that offers pre-designed components and CSS snippets that speed up the development process. Developed by [[Twitter]]
 ![[Bootstrap-20240802035604016.webp]]
 # Installation
 
