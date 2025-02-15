@@ -19,6 +19,7 @@ Creates a .git folder for a completely new repo
 ### clone
 Grabs an already created repository
 - `git clone https://github.com/digitalyoshixi/Calculus12.git`
+- `git clone git clone -b <branch> <remote_repo>
 ### add
 Adding some files to the repository
 - `git add .` adds all files
