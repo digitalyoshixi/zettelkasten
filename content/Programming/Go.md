@@ -26,9 +26,11 @@ A high-performance language designed to be used for a website's backend.
 # Boilerplate
 ```go
 package main  
-import ("fmt")  
+import "fmt"  
   
 func main() {  
   fmt.Println("Hello World!")  
 }
 ```
+# Running
+`go run main.go`
