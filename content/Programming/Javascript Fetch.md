@@ -6,9 +6,7 @@ A way to send requests using [[JavaScript]].
 # Sending JSON Data
 ```js
 const data = {
-  title: "Hello World",
-  body: "My POST request",
-  userId: 900
+  url: "Hello World",
 };
 
 fetch("https://jsonplaceholder.typicode.com/posts", {

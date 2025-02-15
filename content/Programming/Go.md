@@ -14,6 +14,7 @@ A high-performance language designed to be used for a website's backend.
 - [[Go Datatypes]]
 - [[Go Arrays]]
 - [[Go Slices]]
+- [[Go string]]
 - [[Go fmt]]
 - [[Go Libraries]]
 - [[Go copy]]
