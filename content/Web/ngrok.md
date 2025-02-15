@@ -11,3 +11,5 @@ Opening your application to the internet
 ### Opening a Tunnel
 1. `ngrok http http://localhost:5000`
 
+# Updating Agent
+`sudo ngrok update`

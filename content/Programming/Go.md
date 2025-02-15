@@ -27,6 +27,7 @@ A high-performance language designed to be used for a website's backend.
 - [[Go Map]]
 - [[Go HTTP Server]]
 - [[Go JSON]]
+- [[Go CORS]]
 # Boilerplate
 ```go
 package main  
