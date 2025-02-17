@@ -12,8 +12,6 @@ a feature in machine learning Is an individual measurable characteristic of a ob
 
 For example, in image labeling features usually include patterns, colors, and shapes that are present in images, something like fur, feathers, or, a lower-level version such as pixel values.
 
-  
-
 ### Target
 
 The 100% true information. The values that you want to reach. Could be the training data.
