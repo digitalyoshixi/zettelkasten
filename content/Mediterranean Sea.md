@@ -2,4 +2,4 @@
 tags:
   - geography
 ---
-A ocean
+A ocean basin that is consistently facing [[Oceanic to Continental Crust Convergence]], making it shrink.

@@ -7,7 +7,6 @@ Formed when:
 - [[Rock Decompression Melting]]
 - Rock is heated
 - [[Rock Flux Melting]]
-
 # Silca Content
-- Higher silca magma is more [[Viscosity|Viscous]]
-- Lower silca magma is less [[Viscosity|Viscous]]
+- Higher/Intermediate silca magma ([[Felsic]]) is more [[Viscosity|Viscous]] and explosive
+- Lower silca ([[Mafic]]) magma is less [[Viscosity|Viscous]]
