@@ -5,34 +5,18 @@ tags:
   - data_science
 ---
 Matplotlib is how we plot our devious plots. Mostly in the form of functions.
-
-**Import matplotlib.pyplot as plt**
-
-plt is the standard alias
-
-  
-
-### Drawing
-
-for matplotlib to draw us our function, we need to give it the x and y values first. Define a range of x and put it into a y value funciton then input into matplotlib
-
-![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2ivhd_tmp_d2961be3965e8c0.png)
-
-my y function is just x^2 so it will be a parabola. To run these into matplot, just do plt.plot(x,y) and then show the graph using plt.show()
-
-![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2ivhd_tmp_35e9473174a56d18.png)
-
-  
-
-We can also plot multiple graphs on the same axis. Just do another plot with a different function.
-
-![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2ivhd_tmp_7e0d178f7f669e41.png)
-
-Now on run, it looks like this:
-
-![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2ivhd_tmp_428128db9e0e0970.png)
-
-  
+# Installation
+```python
+import matplotlib.pyplot as plt
+```
+# Simple Plot
+```python
+import matplotlib.pyplot as plt
+x = range(100)
+y = range(100)
+plt.plot(x,y)
+plot.show()
+```
 
 ### fun feature of color
 

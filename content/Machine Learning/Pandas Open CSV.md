@@ -2,9 +2,15 @@
 tags:
   - python
   - data_science
+aliases:
+  - Pandas Write CSV
 ---
 ```python
 import pandas as pd 
+# reading to csv
 df = pandas.read_csv("data.csv")
-print(df.head(5))
+smaller = df.head(10000)
+print(smaller-)
+# Writing csv
+smaller.to_csv("pruned.csv")
 ```
