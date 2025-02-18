@@ -3,7 +3,10 @@ tags:
   - geography
 ---
 A ridge that is formed by plates converging near the equator in a process known as [[Sea Floor Spreading]].
-Often offset by a [[Transform Fault]]
+
+Often offset by a [[Transform Fault]].
+# Alternating [[Magnetic Reversal|Magnetic Polarity]]
+![[Sea Floor Spreading-20250218230304019.webp|364]]
 # List
 - [[Mid-Atlantic Ridge]]
 - [[Iceland]]

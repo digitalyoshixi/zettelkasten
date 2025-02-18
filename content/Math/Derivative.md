@@ -57,3 +57,5 @@ These are all theorems.
 - [[Derivative of Trig Inverse Functions]]
 - [[Inverse Function Theorem|Derivative of Inverse Function]]
 - [[Derivative of Function to a Function Power]]
+- [[Derivative of Hyperbolic Functions]]
+- [[Derivative of Inverse Hyperbolic Functions]]
