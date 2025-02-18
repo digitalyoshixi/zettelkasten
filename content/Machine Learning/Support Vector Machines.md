@@ -5,7 +5,6 @@ tags:
 aliases:
   - SVM
 ---
-
 A [[Classification Model]] that attempts to find the [[Hyperplane]] that best separates data points while maximizing margins between classes.
 
 # [[Sci-kit Learn]] Code Snippet
