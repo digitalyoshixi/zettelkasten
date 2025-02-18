@@ -12,3 +12,6 @@ Formations created by the seperation of plates.
 - [[Falling Ash]]
 - [[Airborne Particulate Ash]]
 - [[Pyroclastic Flow]]
+- [[Lahar]]
+- [[Volcanic Gases]]
+- [[Acid Rain]]
