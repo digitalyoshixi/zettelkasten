@@ -11,3 +11,5 @@ Crust that leads to solid land.
 High in:
 - [[Feldspar]]
 - [[SIlca]]
+# Activity
+- [[Continental to Continental Crust Convergence]]
