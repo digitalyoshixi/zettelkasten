@@ -26,13 +26,16 @@ At this point in time, I started waking up pretty damn late. Like 12pm midday
 2. Running the model, we got a output that seemed really bad. It was classifying 95% of the testing data as class 2.
 3. A hint was given on the discord that we should be using feature classifcation ![[DS3 Datathon Devlog-20250219185949845.webp]]
 4. Created an excalidraw canvas to outline which mushrooms have which key features so that we have a better understanding of which mushrooms have which features
-5. I also used stegonline, to see if it could better make out some details as the images for category 1 and category 3 are very noisy
+   ![[DS3 Datathon Devlog-20250219210732359.webp]]
+https://excalidraw.com/#json=DOyZdcKVawY2DGbX2nlpV,H6whZTYreGNEgTQDCk6q5w
+1. I also used stegonline, to see if it could better make out some details as the images for category 1 and category 3 are very noisy
    ![[DS3 Datathon Devlog-20250219190943239.webp]]
 6. Also, turning images into grayscale helps define details a lot nicer.
    ![[DS3 Datathon Devlog-20250219192535513.webp]]
 7. Gaussian blur was suggested, I do like this idea since it makes detail more clear, but we have to make sure that it does not over-blur
    ![[DS3 Datathon Devlog-20250219193122292.webp]]
-8. There is a way to get features with [[OpenCV]], here is our code:
+8. There is a way to get features with [[OpenCV]], here is our code. We get stuff like this:
+   ![[DS3 Datathon Devlog-20250219210554882.webp]]
 ```python
 import pandas as pd
 import numpy as np
@@ -79,4 +82,71 @@ for i, row in df_train.iterrows():
 print(row["path"])
 preprocess_image(row["path"])
 ```
-1. We also tried using [[Oriented Fast and Rotated BRIEF]]
+1. We also tried using [[Oriented Fast and Rotated BRIEF]], but it seems like it finds features that are irrelevant
+![[DS3 Datathon Devlog-20250219210529992.webp]]
+With this code:
+```python
+import cv2
+
+import numpy as np
+
+import pandas as pd
+
+import os
+
+from tqdm import tqdm
+
+from sklearn.preprocessing import LabelEncoder
+
+import tensorflow as tf
+
+from tensorflow import keras
+
+from keras._tf_keras.keras.preprocessing.image import ImageDataGenerator, load_img, img_to_array
+
+from sklearn.model_selection import train_test_split
+
+  
+
+# Load training and test data
+
+df_train = pd.read_csv("fungi_train.csv")
+
+  
+
+# Initialize ORB detector
+
+orb = cv2.ORB_create(nfeatures=20)
+
+def extract_orb_features(image_path):
+
+"""Extract ORB keypoints and descriptors from an image."""
+
+img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
+
+if img is None:
+
+return None, None
+
+keypoints, descriptors = orb.detectAndCompute(img, None)
+
+# Draw keypoints on the image
+
+return cv2.drawKeypoints(img, keypoints, None, color=(0, 255, 0), flags=cv2.DRAW_MATCHES_FLAGS_DRAW_RICH_KEYPOINTS)
+
+# Display the image with keypoints
+
+  
+
+counter = 0
+
+# Compute ORB features for training images
+
+for row in tqdm(df_train.itertuples(), total=len(df_train), desc="Extracting ORB Features"):
+
+img_with_keypoints = extract_orb_features(row.Path)
+
+cv2.imwrite("orbedges/features" + str(counter) + ".png", img_with_keypoints)
+
+counter += 1
+```
