@@ -11,3 +11,5 @@ A release of pent up energy near a [[Fault]] plane, which is called the focus, f
 - [[Megathrust Earthquake]]
 - [[Aftershock]]
 - [[Liquefaction]]
+- [[Primary Waves|P waves]]
+- [[Secondary Waves|S Waves]]

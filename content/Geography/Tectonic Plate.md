@@ -1,7 +1,13 @@
 ---
 tags:
   - geography
+aliases:
+  - Lithosphere
 ---
+A mechanical layer of the [[Planet Earth]] that lies at the top-most layer of the earth.
+- Includes the continental and oceanic [[Crust]]
+
+![[Lithosphere-20250121144104180.webp|374]]
 Plates that can shift
 ![[Plate Tectonics-20250107143418664.webp]]
 Something hot causes a split between a plate, moving mantle down into the earth

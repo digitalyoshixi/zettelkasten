@@ -7,4 +7,6 @@ tags:
 # Layout
 - [[Mantle]]
 - [[Lithosphere]]
+- [[Astenosphere]]
+- [[Crust]]
 - [[Earth's Core]]
