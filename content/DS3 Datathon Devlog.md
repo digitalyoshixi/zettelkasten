@@ -26,3 +26,9 @@ At this point in time, I started waking up pretty damn late. Like 12pm midday
 2. Running the model, we got a output that seemed really bad. It was classifying 95% of the testing data as class 2.
 3. A hint was given on the discord that we should be using feature classifcation ![[DS3 Datathon Devlog-20250219185949845.webp]]
 4. Created an excalidraw canvas to outline which mushrooms have which key features so that we have a better understanding of which mushrooms have which features
+5. I also used stegonline, to see if it could better make out some details as the images for category 1 and category 3 are very noisy
+   ![[DS3 Datathon Devlog-20250219190943239.webp]]
+6. Also, turning images into grayscale helps define details a lot nicer.
+   ![[DS3 Datathon Devlog-20250219192535513.webp]]
+7. Gaussian blur was suggested, I do like this idea since it makes detail more clear, but we have to make sure that it does not over-blur
+   ![[DS3 Datathon Devlog-20250219193122292.webp]]
