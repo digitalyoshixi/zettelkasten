@@ -18,3 +18,6 @@ Something hot causes a split between a plate, moving mantle down into the earth
 - [[Convergent Plates]]
 - [[Divergent Plates]]
 - [[Transform Plates]]
+# Lifecycle
+- [[Mid-Oceanic Ridge]]
+- [[Subduction]]
