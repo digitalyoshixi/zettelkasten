@@ -15,9 +15,9 @@ Something hot causes a split between a plate, moving mantle down into the earth
 - [[Juan de Fuca Plate]]
 - [[Sundra Plate]]
 # Plate Boundaries
-- [[Convergent Plates]]
-- [[Divergent Plates]]
-- [[Transform Plates]]
+- [[Sea Floor Spreading|Divergent Margin]]
+- [[Subduction|Convergent Margin]]
+- [[Transform Margins]]
 # Lifecycle
 - [[Mid-Oceanic Ridge]]
 - [[Subduction]]

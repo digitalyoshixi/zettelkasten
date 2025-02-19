@@ -3,6 +3,7 @@ tags:
   - geography
 aliases:
   - Divergent Margin
+  - Divergent Boundaries
 ---
 A phenomenon that allows creation of [[Tectonic Plate]].
 Magma is erupted onto the seafloor at [[Mid-Oceanic Ridge]] as two-plates moving in opposite directions.
