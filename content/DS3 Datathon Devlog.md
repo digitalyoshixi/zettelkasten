@@ -32,3 +32,51 @@ At this point in time, I started waking up pretty damn late. Like 12pm midday
    ![[DS3 Datathon Devlog-20250219192535513.webp]]
 7. Gaussian blur was suggested, I do like this idea since it makes detail more clear, but we have to make sure that it does not over-blur
    ![[DS3 Datathon Devlog-20250219193122292.webp]]
+8. There is a way to get features with [[OpenCV]], here is our code:
+```python
+import pandas as pd
+import numpy as np
+import cv2 # added for image preprocessing
+from keras._tf_keras.keras.preprocessing.image import imagedatagenerator, load_img, img_to_array
+from tqdm import tqdm # for progress bar
+from sklearn.utils.class_weight import compute_class_weight
+from sklearn.metrics import classification_report, confusion_matrix
+import seaborn as sns
+import matplotlib.pyplot as plt
+from sklearn.preprocessing import labelencoder
+
+def preprocess_image(image_path):
+"""loads and preprocesses an image: converting to grayscale, resizing, normalizing, and applying edge detection."""
+
+img = cv2.imread(image_path, cv2.imread_grayscale) # load image in grayscale
+
+img = cv2.resize(img, (224, 224)) # resize image
+
+# apply contrast limited adaptive histogram equalization (clahe)
+
+clahe = cv2.createclahe(cliplimit=2.0, tilegridsize=(8, 8))
+
+img = clahe.apply(img)
+
+# apply gaussian blur to reduce noise
+
+img = cv2.gaussianblur(img, (3, 3), 0)
+  
+# extract edges using canny edge detection
+edges = cv2.canny(img, threshold1=100, threshold2=200)
+
+cv2.imwrite("test/testimg" + str(i) + ".png", img)
+
+cv2.imwrite("test/edgeimg" + str(i) + ".png", edges)
+
+
+# load training data
+df_train = pd.read_csv("fungi_train.csv")
+
+# preprocess all images
+
+for i, row in df_train.iterrows():
+print(row["path"])
+preprocess_image(row["path"])
+```
+1. We also tried using [[Oriented Fast and Rotated BRIEF]]
