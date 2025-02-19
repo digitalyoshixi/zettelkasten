@@ -6,5 +6,5 @@ tags:
 - [[Transform Margins]]
 - [[Convergent Margins]]
 - [[Divergent Margins]]
-- [[Active Margin]]
+- [[Active Margins]]
 - [[Passive Margins]]
