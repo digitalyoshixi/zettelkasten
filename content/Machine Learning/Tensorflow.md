@@ -1,11 +1,15 @@
 ---
 tags:
-  - neural_networks
-  - machine_learning
   - machine_learning
   - python
+  - neural_networks
 ---
-tensorflow is a neural network framework.
-
-### installation
+Tensorflow is a neural network framework.
+# Installation
 **`pip install tensorflow==2.12.*`** 
+# Boilerplate Tensorflow
+```python
+import sys
+```
+# Concepts
+- [[]]
