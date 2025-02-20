@@ -150,3 +150,15 @@ cv2.imwrite("orbedges/features" + str(counter) + ".png", img_with_keypoints)
 
 counter += 1
 ```
+# Day 4 - Fungi Preprocessing Again
+1. I tried a new script, this one will filter out the darkest parts of the image. I also used a generous amount of [[Gaussian Blur]] to denoise.
+2. A read the research paper on this topic linked on the kaggle. https://arxiv.org/pdf/2109.07322.
+	1. The best performing model was:
+		1. [[ResNet50]] with transfer learning
+		2. [[InceptionV3]] without transfer learning
+	2. They used preprocessing techniques that removed images which were irrelevant in content
+	   - Those with black-lens contour
+	     ![[DS3 Datathon Devlog-20250220210009647.webp]]
+	   - Those that have no fungal spores
+	     ![[DS3 Datathon Devlog-20250220210037634.webp]]
+	   - 
