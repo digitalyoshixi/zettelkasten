@@ -161,4 +161,305 @@ counter += 1
 	     ![[DS3 Datathon Devlog-20250220210009647.webp]]
 	   - Those that have no fungal spores
 	     ![[DS3 Datathon Devlog-20250220210037634.webp]]
-	   - 
+3. I made a script to MANUALLY sort each image.
+```python
+import pandas as pd
+
+import numpy as np
+
+import cv2
+
+from PIL import Image, ImageTk # Import PIL for PNG support
+
+from keras._tf_keras.keras.preprocessing.image import ImageDataGenerator, load_img, img_to_array
+
+from sklearn.utils.class_weight import compute_class_weight
+
+from sklearn.metrics import classification_report, confusion_matrix
+
+import seaborn as sns
+
+import matplotlib.pyplot as plt
+
+from sklearn.preprocessing import LabelEncoder
+
+import tkinter as tk
+
+  
+
+def highmask(image, weight):
+
+# Calculate threshold
+
+flattened_image = image.flatten()
+
+flattened_image.sort()
+
+  
+
+threshold_value = max(flattened_image) - (max(flattened_image) - min(flattened_image)) * weight
+
+# Apply threshold
+
+ret, thresholded = cv2.threshold(image, threshold_value, 255, cv2.THRESH_BINARY)
+
+# Apply mask to original image
+
+masked_image = cv2.bitwise_and(image, image, mask=thresholded)
+
+return masked_image
+
+  
+
+def contrastadd(image):
+
+clahe = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(8, 8))
+
+return clahe.apply(image)
+
+  
+  
+
+def canny_edge(image, lower, upper):
+
+tight = cv2.Canny(image, lower, upper)
+
+# show the output Canny edge maps
+
+return tight
+
+  
+
+def gaussian_blur(image, weight):
+
+return cv2.GaussianBlur(image, (weight, weight), 0)
+
+  
+
+def preprocess_image(image_path, imgclass):
+
+img = cv2.imread(image_path) # Load image in rgb
+
+img = cv2.GaussianBlur(img, (3, 3), 0)
+
+img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY) # Convert image into grayscale
+
+if imgclass == 0:
+
+img = contrastadd(img)
+
+img = highmask(img, 0.5)
+
+img = gaussian_blur(img, 5)
+
+img = highmask(img, 0.5)
+
+return img
+
+elif imgclass == 1:
+
+# edge detection
+
+img = contrastadd(img)
+
+img = highmask(img, 0.8)
+
+# remove the artifacts
+
+img = gaussian_blur(img, 5)
+
+img = highmask(img, 0.8)
+
+img = gaussian_blur(img, 5)
+
+img = highmask(img, 0.7)
+
+img = gaussian_blur(img, 5)
+
+img = highmask(img, 0.4)
+
+img = gaussian_blur(img, 5)
+
+img = highmask(img, 0.4)
+
+  
+
+return img
+
+elif imgclass == 2:
+
+img = contrastadd(img)
+
+img = highmask(img,0.5)
+
+img = gaussian_blur(img, 5)
+
+img = highmask(img,0.5)
+
+return img
+
+elif imgclass == 3:
+
+# edge detection
+
+img = contrastadd(img)
+
+img = highmask(img, 0.8)
+
+# remove the artifacts
+
+img = gaussian_blur(img, 5)
+
+img = highmask(img, 0.8)
+
+img = gaussian_blur(img, 5)
+
+img = highmask(img, 0.7)
+
+img = gaussian_blur(img, 5)
+
+img = highmask(img, 0.4)
+
+img = gaussian_blur(img, 5)
+
+img = highmask(img, 0.4)
+
+return img
+
+elif imgclass == 4:
+
+img = contrastadd(img)
+
+img = highmask(img, 0.5)
+
+img = gaussian_blur(img, 5)
+
+img = highmask(img, 0.5)
+
+return img
+
+else:
+
+img = contrastadd(img)
+
+img = highmask(img, 0.5)
+
+img = gaussian_blur(img, 5)
+
+img = highmask(img, 0.5)
+
+return img
+
+  
+  
+
+# Load training data
+
+df_train = pd.read_csv("fungi_train.csv")
+
+df_test = pd.read_csv("fungi_test.csv")
+
+  
+  
+
+currentImgPath = ""
+
+  
+
+def tossfunc(window):
+
+kill_list.append(currentImgPath)
+
+window.destroy()
+
+def keepfunc(window):
+
+window.destroy()
+
+  
+
+def showandask():
+
+window = tk.Tk()
+
+label = tk.Label(window, text=f"current path: {currentImgPath}")
+
+label.grid(column=0, row=1)
+
+img1 = ImageTk.PhotoImage(Image.open("original.jpg"))
+
+btna = tk.Button(window, image=img1, command=None)
+
+btna.grid(column=0,row=0)
+
+img2 = ImageTk.PhotoImage(Image.open("gaussian_img.jpg"))
+
+btnb = tk.Button(window, image=img2, command=None)
+
+btnb.grid(column=1,row=0)
+
+img3 = ImageTk.PhotoImage(Image.open("bnw_img.jpg"))
+
+btnb = tk.Button(window, image=img3, command=None)
+
+btnb.grid(column=2,row=0)
+
+img4 = ImageTk.PhotoImage(Image.open("high_img.jpg"))
+
+btnb = tk.Button(window, image=img4, command=None)
+
+btnb.grid(column=3,row=0)
+
+img5 = ImageTk.PhotoImage(Image.open("preprocessed_img.jpg"))
+
+btnc = tk.Button(window, image=img5, command=None)
+
+btnc.grid(column=4,row=0)
+
+keep = tk.Button(window, text="keep", command=lambda: keepfunc(window))
+
+keep.grid(column=0, row=2)
+
+toss = tk.Button(window, text="toss", command=lambda : tossfunc(window))
+
+toss.grid(column=1, row=2)
+
+window.mainloop()
+
+  
+  
+
+kill_list = []
+
+for i, row in df_train.iterrows():
+
+print(row["Path"])
+
+currentImgPath = row["Path"]
+
+original_img = cv2.imread(row["Path"])
+
+gaussian_img = gaussian_blur(original_img, 3)
+
+bnw_img = contrastadd(cv2.cvtColor(gaussian_img, cv2.COLOR_BGR2GRAY))
+
+high_img = highmask(bnw_img, 0.8)
+
+preprocessed_img = preprocess_image(row["Path"], row["ClassId"])
+
+cv2.imwrite("original.jpg", original_img)
+
+cv2.imwrite("gaussian_img.jpg", gaussian_img)
+
+cv2.imwrite("bnw_img.jpg", bnw_img)
+
+cv2.imwrite("high_img.jpg", bnw_img)
+
+cv2.imwrite("preprocessed_img.jpg", preprocessed_img)
+
+showandask()
+
+print(f"kill_list: {kill_list}")
+
+# tkinter prompt
+```
