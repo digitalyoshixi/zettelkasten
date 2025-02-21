@@ -6,17 +6,13 @@ tags:
   - data_science
 ---
 # Theory
-a neural network consists of multiple layers of neurons.
+A neural network consists of multiple layers of neurons.
 
 ![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2ivlf_tmp_6814aae2bc5d3614.png)
 
-the first layer of neurons is called the input layer for the training data, testing data
-
-the last layer is the output layer, what we expect as the output: a number a classification, prediciton, and more
-
-the layers in between are hidden layers that add complexity and sophistication to the model
-
-  
+- First layer is called the input layer for the training and testing data
+- Last layer is the output layer, what we expect as the output: a number a classification, prediction, and more
+- Layers in between are hidden layers that add complexity and sophistication to the model
 
 the network part is that every neuron of one layer is connected to every neuron of the other layer.
 

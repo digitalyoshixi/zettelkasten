@@ -3,6 +3,6 @@ tags:
   - geography
 ---
 # Hazards
-- [[Volcanos]]
+- [[Volcanoes]]
 - [[Earthquakes]]
 - [[Tsunamis]]

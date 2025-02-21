@@ -30,3 +30,7 @@ This is a circle with a radius of 1 and centered at (0,0).
 - [[Integration by Trigonometric Identities]]
 # Integral Table
 - [[Basic Integral Table]]
+# Integral Rules
+- [[Reverse Product Rule]]
+- [[Reverse Quotient Rule]]
+- [[Reverse Chain Rule]]

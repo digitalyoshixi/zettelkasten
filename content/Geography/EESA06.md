@@ -38,3 +38,4 @@ aliases:
 - [[Geomagnetism]]
 - [[Seismology]]
 - [[Plate Margins]]
+- [[Convergent Boundaries]]

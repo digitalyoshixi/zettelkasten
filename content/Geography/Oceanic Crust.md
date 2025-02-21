@@ -11,3 +11,12 @@ Basaltic, usually near mid-ocean ridges and [[Subduction Zones]].
 High in:
 - Magnesium
 - Iron
+# Activities
+- [[Oceanic to Oceanic Crust Convergence]]
+- [[Oceanic to Continental Crust Convergence]]
+# Onion Model
+![[Crust-20250221015847907.webp]]
+- [[Pillow Lava]]
+- [[Dikes|Sheeted Dikes]]
+- [[Layered Gabbro]]
+- [[Mohorovicic Discontinuity]]

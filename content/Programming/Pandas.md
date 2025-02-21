@@ -15,3 +15,4 @@ import pandas as pd
 - [[Pandas Data Frames]]
 - [[Pandas Statistics]]
 - [[Pandas Open CSV]]
+- [[Pandas Column Names]]
