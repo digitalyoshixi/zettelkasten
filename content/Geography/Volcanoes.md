@@ -16,3 +16,4 @@ Formations created by the seperation of plates.
 - [[Lahar]]
 - [[Volcanic Gases]]
 - [[Acid Rain]]
+- [[Jokulhlaups]]
