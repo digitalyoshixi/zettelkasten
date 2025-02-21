@@ -1,6 +1,8 @@
 ---
 tags:
   - geography
+aliases:
+  - Arc Volcano
 ---
 Tall volcanoes
 - Steeply sloping
