@@ -13,3 +13,4 @@ A [[Computer Vision]] python library used for:
 `pip install opencv-contrib-python`
 # Concepts
 - [[OpenCV Python Read Image]]
+- [[OpenCV Python Save Image]]
