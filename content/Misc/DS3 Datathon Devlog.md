@@ -463,3 +463,8 @@ print(f"kill_list: {kill_list}")
 
 # tkinter prompt
 ```
+# Day 5 - Fungi Last Time
+1. Using canny edge detection with the highest-color mask
+![[DS3 Datathon Devlog-20250221190019457.webp|397]]
+2. Using it with SIFT feature matching:
+   ![[DS3 Datathon Devlog-20250221185955032.webp|380]]
