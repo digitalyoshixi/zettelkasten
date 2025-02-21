@@ -8,6 +8,5 @@ layers of the earths surface caused by the cooling of earths magma.
 Crust varies on density. Oceanic crust is lower density and hotter, continental crust is denser and cooler.
 - [[Oceanic Crust]]
 - [[Continental Crust]]
-
 # Concepts
 - [[Heat Flow]]
