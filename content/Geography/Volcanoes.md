@@ -7,6 +7,7 @@ Formations created by the seperation of plates.
 - [[Stratovolcanoes]]
 - [[Shield Volcanoes]]
 # Concepts
+- [[Volcano Formation]]
 - [[Magma]]
 - [[Lateral Blast]]
 - [[Falling Ash]]

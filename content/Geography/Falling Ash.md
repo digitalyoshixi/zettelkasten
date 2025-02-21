@@ -4,5 +4,5 @@ tags:
 aliases:
   - Tephra
 ---
-Silca-rich ash that is emitted after [[Volcanos]] erupt.
+Silca-rich ash that is emitted after [[Volcanoes]] erupt.
 Harmful to humans
