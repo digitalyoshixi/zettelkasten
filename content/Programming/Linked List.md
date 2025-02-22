@@ -13,9 +13,11 @@ typedef struct node{
 	int data;
 	struct node *next;
 }node;
-
 ```
 ### Double Linked List
 Points to forward node and behind node
 ### Circular Linked List
 Last element is linked to first element. Thus no pointer points to NULL
+# Guides
+- [[C Linked List Traversal]]
+- [[C Linked List Deletion]]
