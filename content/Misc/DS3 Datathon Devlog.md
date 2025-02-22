@@ -470,4 +470,37 @@ print(f"kill_list: {kill_list}")
    ![[DS3 Datathon Devlog-20250221185955032.webp|380]]
 3. I then ran it through the [[VGG16]] model, ensuring that the same layer is cloned 3 times as VGG16 requires a RGB image.
 4. I spent a few hours installing cuda for tensorflow...
-5. 
+
+# Final Day
+1. We got like 8th place
+### Car Eval Solutions
+##### model.fit spammers
+1. model.fit spammers reviewed the data making histograms for every class
+2. They tested 5 models:
+	1. Logistic regression
+	2. Decision tree
+	3. KNN
+	4. Random forest
+	5. XGBoost
+3. They found XGBoost had the best accuracy
+4. They used n-estimators at 200 and got accuracy of 0.9928
+##### Outliers
+1. They used random forest
+2. Check for outliers 
+3. Read each to check the datatype for each
+4. Check for class imbalance, the data is more biased to unacc
+5. Made distributions for each feature
+6. Encoded the categorical features
+	1. ordinal encoding for num doors, etc
+	2. OneHotEncoder for luggage
+7. Random forest classifier, used cause its general
+8. 
+### Classifying Accidents Solutions
+##### model.fit spammers
+1. They used XGBoost
+2. They dropped the columns ID, street, city, country, zipcode, county, weather timestamp, airport code
+3. They didnt use n-estimators, default is 100
+### Fungi Predictor
+##### model.fit spammers
+1. Ran gaussian denoise with 1.0 sigma value
+2. They used mobilenet V2
