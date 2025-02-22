@@ -12,3 +12,6 @@ An array will have its full allocated area highlighted
 # Function
 ![[C Memory Model-20250222001444550.webp]]
 A function that returns will always have an allocated return value
+# Structs
+![[C Memory Model-20250222010529523.webp]]
+A struct will only occupy one address

@@ -468,3 +468,6 @@ print(f"kill_list: {kill_list}")
 ![[DS3 Datathon Devlog-20250221190019457.webp|397]]
 2. Using it with SIFT feature matching:
    ![[DS3 Datathon Devlog-20250221185955032.webp|380]]
+3. I then ran it through the [[VGG16]] model, ensuring that the same layer is cloned 3 times as VGG16 requires a RGB image.
+4. I spent a few hours installing cuda for tensorflow...
+5. 

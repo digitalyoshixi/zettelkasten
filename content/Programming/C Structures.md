@@ -3,9 +3,11 @@ tags:
   - c
 aliases:
   - Struct
+  - Compound Datatypes
+  - CDT
 ---
 A user defined datatype that allows you to combine several datatypes.
-They are like [[C++ Objects]] but they do not have methods
+They are passed by value.
 # Template
 ```c
 struct structure_tag{
