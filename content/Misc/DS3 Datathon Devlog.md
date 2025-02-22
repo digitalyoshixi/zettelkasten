@@ -493,14 +493,37 @@ print(f"kill_list: {kill_list}")
 6. Encoded the categorical features
 	1. ordinal encoding for num doors, etc
 	2. OneHotEncoder for luggage
-7. Random forest classifier, used cause its general
-8. 
+7. Random forest classifier, used cause its general. 200 n-estimators
+##### SGD
+1. HistGradientBoostingClassifier was used
+2. Tested for each split, they all got over 90% accuracy
+3. Ordinal encoding for the data points
 ### Classifying Accidents Solutions
 ##### model.fit spammers
 1. They used XGBoost
 2. They dropped the columns ID, street, city, country, zipcode, county, weather timestamp, airport code
 3. They didnt use n-estimators, default is 100
+##### Outliers
+1. Dropped 5% missing, then tried dropping 20% missin
+2. They found the mean or mode depending on categorical/numerical variable
+3. 126 categories -> 8 categories for weather, since there is so much
+4. Boxplot to identify outliers. Keep only the 95% percentile
+5. Aggregate similar features like traffic & light, turn it into one category
+##### SGD
+1. Graphed the long at lat, and saw most of them were at united states. lots of accidents at the US
+2. Drop the columns that seemed uselesslike ID, Zipcode, Weather timestamp, State, Airport Code, Country
+3. Drop the highly correlated columns like startlat, startlng, windchill, they are very similar to other features
+4. Classify numerical and categorical features
+5. XGBoost model
 ### Fungi Predictor
 ##### model.fit spammers
 1. Ran gaussian denoise with 1.0 sigma value
 2. They used mobilenet V2
+##### SGD
+1. Used pytorch
+2. Denoising autoencoder with different denoising for each class. 
+	1. Class 0 - weak noise, gaussian filter will do
+	2. Class 1,3 - heavy noise, its uniform noise however, denoise with uniform noise. They know this is true because they simulated the noise in the testing dataset by adding a uniform noise, and it looked similar to the input data
+	3. They used the testing data and noised it back to compare it to existing training data. 
+	4. Did a train test split of 80:20
+	5. Used simpleCNN model
