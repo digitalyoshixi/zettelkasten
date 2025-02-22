@@ -8,7 +8,6 @@ The conversions that make sense are:
 - int <-> float
 - int <-> bool
 Automatic typecasting occurs in [[C Binary Operator Typecasting]]
-
 # Explicit Typecasting
 If you have 2 datatypes. `c` and `i`, an explicit typecast of `c = i` will:
 - Make the right operand the same type as the left operand
