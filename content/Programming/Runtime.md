@@ -8,4 +8,3 @@ Variables and instantiated, and the program is loaded into memory to be ran legi
 # Variance in Runtime Speed
 - Computer hardware variance
 - [[Programming Language]] variance
-- 
