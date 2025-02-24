@@ -10,4 +10,6 @@ https://github.com/mandiant/flare-floss
 A tool to obfuscate strings.
 Made by FLARE obviously!
 # ELF
-`/bin/floss --format sc64 ./filename`
+```
+floss --format sc64 ./filename
+```
