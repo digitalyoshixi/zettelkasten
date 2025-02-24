@@ -18,3 +18,6 @@ Formations created by the seperation of plates.
 - [[Volcanic Gases]]
 - [[Acid Rain]]
 - [[Jokulhlaups]]
+- [[Stromboli Eruption]]
+- [[Plinian Eruption]]
+- [[Volcanic Bombs]]
