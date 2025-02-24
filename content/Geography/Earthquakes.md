@@ -8,6 +8,8 @@ A form of [[Natural Disasters|Natural Disaster]] caused at [[Fault|Faults]] wher
 A release of pent up energy near a [[Fault]] plane, which is called the focus, felt above ground directly above the focus which is called the [[Epicenter]]
 # Concepts
 - [[Megathrust Earthquake]]
+- [[Shallow Focus Earthquake]]
+- [[Deep Focus Earthquake]]
 - [[Aftershock]]
 - [[Liquefaction]]
 - [[Primary Waves|P waves]]
