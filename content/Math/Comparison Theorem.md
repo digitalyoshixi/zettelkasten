@@ -14,4 +14,6 @@ A theorem to easier determine if a [[Improper Integral]] converges or diverges.
 	2. And, we also know that $\int_{a}^{b}g(x)dx$ converges
 	3. Then, $\int_{a}^{b}f(x)dx$ also converges
 4. Divergent case:
-	1. 
+	1. If $\forall x \in [a,b], 0 \leq h(x) \leq f(x)$
+	2. And, we know that $\int_{a}^{b}h(x)dx$ diverges
+	3. Then, $\int_{a}^{b}f(x)dx$ also diverges
