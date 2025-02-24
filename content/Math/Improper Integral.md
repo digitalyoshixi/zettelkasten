@@ -34,3 +34,11 @@ Therefore, the integral converges to $\frac{1}{12}$
 6. $=(\frac{u^{2}}{2}) + C = \frac{(\ln(x))^{2}}{2} + C$
 7. Thus, $F(5) - F(A) = \frac{1}{2}(\ln(5)^{2} - \ln(A)^{2})$
 8. $= -\infty$, thus the limit does not exist and diverges
+### Example 3 for Type 1 and Type 2
+1. $\int_{-1}^{1}x^{-2}dx$
+2. $= \int_{1}^{0}x^{-2}dx + \int_{0}^{1}x^{-2}dx$
+3. $= \lim_{ A \to 0^{-}}\int_{-1}^{A}x^{-2}dx + \lim_{ B \to \infty }\int_{B}^{1}x^{-2}dx$
+4. Note that the second part with $B$ diverges, and that the first part converges, then the entire integral diverges
+### Example 3 that requires [[Comparison Theorem]]
+1. $\int_{1}^{\infty}\frac{\cos^{5}(3x^{2}+1)+1}{(x^{2}+x^{7}+1)^{2}}dx$
+2. Solve with [[Comparison Theorem]]

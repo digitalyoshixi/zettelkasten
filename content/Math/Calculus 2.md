@@ -20,5 +20,6 @@ aliases:
 - [[Proving Non-Integrable]]
 - [[Fundamental Theorem of Calculus|FToC]]
 - [[Area Accumulation Function]]
+- [[Comparison Theorem]]
 # Office Hours
 ![[Calculus 2-20250211035011054.webp]]
