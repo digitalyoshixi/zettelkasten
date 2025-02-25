@@ -50,5 +50,7 @@ You just need to write clearly about your own opinions and a proper argument
 # Good Sources
 - Philosophy Compass
 - Stanford Encyclopedia of Philosophy
+- Simon Fraser University: Writing a philosophy paper
+- UTM philosophy writing resources
 # Fluffing word-count:
 - Add more than one example
