@@ -4,7 +4,7 @@ tags:
 ---
 # Integration By Parts (The Worst Technique)
 Differentiate a function that is the product of 2 simpler functions. It is an [[Iterative Process]]
-$\int u'v \, dx= uv - \int uv' \, dx$
+$\int uv' \, dx= uv - \int u'v \, dx$
 or
 $\int u\,dv = uv - \int v\,du$
 Where:
