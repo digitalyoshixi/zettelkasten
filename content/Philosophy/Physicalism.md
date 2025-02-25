@@ -2,5 +2,9 @@
 tags:
   - philosophy
 ---
-Everything is dependent on physical phenomena in [[Physics]].
-Ethics, the human mind, god - if they exist can be explained by natural sciences.
+Everything is dependent and can be explained by physical phenomena in [[Physics]].
+- [[Ethics]]
+- [[Mind]]
+- [[God]]
+- [[Phenomenology]]
+Can all be explained by the natural sciences

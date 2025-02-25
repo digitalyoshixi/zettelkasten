@@ -9,4 +9,4 @@ tags:
 
 # Subjectivity
 Phenomenal facts are always subjective.
-The facts about what it is like to undergo experiences are understa
+- The facts about experiences are only understandable only by those with the relevant capabilities
