@@ -8,7 +8,7 @@ Most of the time it is base 2
 O(8) -> 3 as an example.
 less lines for every value.
 # Example
-- [[Bisection Method|Binary Search]]
+- [[Binary Search|Binary Search]]
 - [[Binary Search Tree]]
 ### Example Program
 ```java
