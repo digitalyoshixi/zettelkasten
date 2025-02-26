@@ -12,3 +12,5 @@ If you have a subspace $S$ of $m$ vectors and $k = dim(U)$
 # Concepts
 - [[The Dimension Bound Theorem]]
 - [[Subspace Finite Dimensional Vector Space Lemma]]
+- [[Dimension and Injectivity Theorem]]
+- [[Dimension and Surjectivity Theorem]]
