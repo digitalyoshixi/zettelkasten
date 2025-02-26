@@ -4,4 +4,4 @@ tags:
 aliases:
   - SEIR
 ---
-A model for modeling [[Epidemic]]
+A model for modeling [[Epidemics]]

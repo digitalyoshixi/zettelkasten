@@ -9,6 +9,7 @@ O(8) -> 3 as an example.
 less lines for every value.
 # Example
 - [[Bisection Method|Binary Search]]
+- [[Binary Search Tree]]
 ### Example Program
 ```java
 public int reverseLog(int n){
