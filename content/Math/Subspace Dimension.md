@@ -11,3 +11,4 @@ If you have a subspace $S$ of $m$ vectors and $k = dim(U)$
 ![[Subspace Dimension-20250125165243786.webp]]
 # Concepts
 - [[The Dimension Bound Theorem]]
+- [[Subspace Finite Dimensional Vector Space Lemma]]
