@@ -2,15 +2,8 @@
 tags:
   - math
 ---
-# Table of Contents
-```table-of-contents
-```
-# Identity
 An identity is something valid for **ALL** values of x.
 They can **ALL** be proved.
-
-If they cannot be proved, show a counter example by subbing in a value for x
-
 # List of Identities (\*) are important ones
 - [[Transformation Identities]]
 - [[Even and Odd Identities]] *
