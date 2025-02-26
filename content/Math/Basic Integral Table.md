@@ -8,4 +8,3 @@ tags:
 - $\sin^{2}(x) = \frac{1-\cos(2x)}{2}$ derived from [[Double Angle Identity]]
 - $\sin x \cos x = \frac{\sin(2x)}{2}$ derived from [[Double Angle Identity]]
 - $b^{x} = e^{\ln(b)x}$ derived from [[Logarithms]]
-- 
