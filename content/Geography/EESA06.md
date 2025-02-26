@@ -39,3 +39,7 @@ aliases:
 - [[Seismology]]
 - [[Plate Margins]]
 - [[Convergent Boundaries]]
+- [[Rock Cycle]]
+	- [[Sedimentary Rock]]
+	- [[Igneous Rock]]
+	- [[Metamorphic Rock]]

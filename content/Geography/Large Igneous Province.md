@@ -4,7 +4,7 @@ tags:
 aliases:
   - LIP
 ---
-A phenomena that results in excessive [[Igneous]] rocks:
+A phenomena that results in excessive [[Igneous Rock]] rocks:
 - [[Dikes]]
 - [[Falling Ash|Tephra]] deposits
 - Sills
