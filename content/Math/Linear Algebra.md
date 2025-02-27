@@ -50,7 +50,7 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - [[Augmented Matrix]]
 - [[Echelon Form]]
 - [[Elimination Algorithm]]
-- [[Column Vectors]]
+- [[Column Vector]]
 - [[Normal Vector]]
 - [[Affine Sets]]
 - [[Coordinate Vector]]

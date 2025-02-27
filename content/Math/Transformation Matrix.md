@@ -2,7 +2,11 @@
 tags:
   - math
   - linalg
+aliases:
+  - Matrix Representation of Linear Transformation
 ---
+A way of representing [[Linear Transform|Linear Map]] as a matrix.
+# Theorem
 Let $V,W$ be finite dimensional vector spaces with $dim(V) = n$ and $dim(W) = k$.
 Fix bases $\alpha = \{  v_{1} , \dots, v_{n}\}$ and $\beta = \{  w_{1} , \dots ,w_{2}\}$
 With $V - span(\alpha)$, $W = span(\beta)$

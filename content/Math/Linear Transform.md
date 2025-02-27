@@ -16,7 +16,7 @@ A linear transformation function of $T : V\to W$ is a function that follows the 
 ### Implications
 This has the further effect of:
 - Ensuring all lines are lines (No linear transformation should multiply variables together)
-- Ensuring the origin remains at the same position
+- Ensuring the origin remains at the same position ($T(\overrightarrow{0}) = \overrightarrow{0}$ always)
 # Theorems
 - [[Linear Transformations Preserve Additive Identities]]
 - [[Linear Transformations Preserve Addition and Scaling]]
@@ -25,10 +25,11 @@ This has the further effect of:
 # Applications
 - [[Proving A Function Is Linear]]
 # Concepts
+- [[Matrix Transformation]]
 - [[Zero Transformation]]
 - [[Identity Transformation]]
 - [[Vector Rotation]]
 - [[Vector Projection 1]]
-- [[Matrix Representation of Linear Transformation]]
+- [[Transformation Matrix]]
 - [[Matrix Representation of Linear Rotation]]
 - [[Set of All Linear Transformations Linear Combinations]]
