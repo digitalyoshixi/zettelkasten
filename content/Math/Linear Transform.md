@@ -9,13 +9,13 @@ aliases:
 ---
 A function T that maps vectors from [[Vector Space]] V into another [[Vector Space]] W given by a transformation.
 # Definition
-Suppose $(V,\boxplus,\boxdot)$ and $(W,\oplus, \odot)$
-are vector spaces.
-A linear transformation function of $T : V\to W$ is a function that follows the principles of:
-- additivity $\forall u,v \in V, T(v \boxplus v) = T(u)\oplus T(v)$
-- homogeneity $\forall v \in V, \forall a \in \mathbb{F},  T(a \boxdot v) = a \odot T(v)$
+- Suppose $(V,\boxplus,\boxdot)$ and $(W,\oplus, \odot)$ are vector spaces.
+A linear transformation function of $T : V\to W$ is a function that follows the axioms:
+- Additivity $\forall u,v \in V, T(v \boxplus v) = T(u)\oplus T(v)$
+- Multiplicative $\forall v \in V, \forall a \in \mathbb{F},  T(a \boxdot v) = a \odot T(v)$
+### Implications
 This has the further effect of:
-- Ensuring all lines are lines
+- Ensuring all lines are lines (No linear transformation should multiply variables together)
 - Ensuring the origin remains at the same position
 # Theorems
 - [[Linear Transformations Preserve Additive Identities]]
