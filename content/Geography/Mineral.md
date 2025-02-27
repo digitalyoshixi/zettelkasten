@@ -5,6 +5,10 @@ tags:
 An inorganic crystaline solid. Found inside [[Rock]]
 # Types
 - [[Silicate Minerals]]
+- [[Carbonite Minerals]]
+- [[Dolomite Minerals]]
+- [[Evaporate Minerals]]
+- [[Metallic Minerals]]
 # Identifying Minerals
 - Rock shape
 - Color, Not always consistent
