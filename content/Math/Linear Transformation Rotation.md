@@ -50,7 +50,7 @@ $$
 ##### Reflection of $y=-x$
 $$
 \left[\begin{array}{cc}
-0 & 1\\
-1 & 0\\
+0 & -1\\
+-1 & 0\\
 \end{array}\right]
 $$

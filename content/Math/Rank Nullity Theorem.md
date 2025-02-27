@@ -7,6 +7,7 @@ aliases:
 ---
 - If $V,W$ are finite dimensional vector spaces and $T : V\to W$ is linear
 - Then: $dim(ker(T))+dim(Image(T)) = dim(V)$
+- or, $dim(V) = nullity(T) + rank(T)$
 # Proof
 1. Refer to the proof of [[Bases for Images and Kernel Procedure 2]]
 2. Then, we need to show $\{ T(v_{k+1}),\dots,T(v_{n}) \}$ is a basis
