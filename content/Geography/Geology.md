@@ -8,3 +8,15 @@ The study of:
 - Petroleum
 - Metals
 - Groundwater
+# Rocks
+- [[Limestone]]
+- [[Quartz]]
+- [[Schist]]
+- [[Shale]]
+- [[Skarn]]
+- [[Graphite]]
+- [[Talc]]
+- [[Rhyolite]]
+- [[Granite]]
+- [[Obsidian]]
+- [[Mica]]
