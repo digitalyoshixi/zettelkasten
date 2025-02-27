@@ -3,9 +3,6 @@ aliases:
 tags:
   - math
 ---
-# Table Of Contents
-```table-of-contents
-```
 # $\lim_{x\to a}f(x) = L$
 Its a notation to signify the y value that you get when you x approaches a value.
 The value of f(x) can be made arbitrarily close to L by choosing x sufficiently close to a but not equal to A
@@ -90,3 +87,4 @@ $L = \pm\infty \ \ OR \ \ f(x) = \pm\infty$
 # Additional Concepts
 - [[Limits Formalized Proof]]
 - [[Limits Does Not Exist]]
+- [[Order Limit Law]]

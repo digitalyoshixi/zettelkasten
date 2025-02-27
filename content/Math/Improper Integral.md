@@ -42,3 +42,6 @@ Therefore, the integral converges to $\frac{1}{12}$
 ### Example 3 that requires [[Comparison Theorem]]
 1. $\int_{1}^{\infty}\frac{\cos^{5}(3x^{2}+1)+1}{(x^{2}+x^{7}+1)^{2}}dx$
 2. Solve with [[Comparison Theorem]]
+# Concepts
+- [[Comparison Theorem]]
+	- [[Comparison Theorem Convergent Case Proof]]

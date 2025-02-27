@@ -6,6 +6,8 @@ aliases:
 ---
 # Examinations
 - You do not need to check [[Fundamental Theorem of Calculus|FToC]] hypothesis
+# MATA37 Midterm Information
+- 
 # Concepts
 - [[Sigma Notation]]
 - [[Signed Area]]
