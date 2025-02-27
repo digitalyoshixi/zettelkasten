@@ -12,3 +12,4 @@ $$Image(T) = \{ w \in W: w = T(v) \text{ for some } v \in V \}$$
 - [[Rank Nullity Theorem]]
 - [[Bases for Images and Kernel Procedure 2]]
 - [[Image and Surjectivity Theorem]]
+- [[Computing Images]]
