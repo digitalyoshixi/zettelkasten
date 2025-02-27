@@ -21,5 +21,8 @@ aliases:
 - [[Fundamental Theorem of Calculus|FToC]]
 - [[Area Accumulation Function]]
 - [[Comparison Theorem]]
+- [[Completing The Square]]
 # Office Hours
 ![[Calculus 2-20250211035011054.webp]]
+# Evans's Notes
+https://drive.google.com/drive/folders/1QfOrgu7baxtyTTiHw4kJxJ4WvAo_Cc0h
