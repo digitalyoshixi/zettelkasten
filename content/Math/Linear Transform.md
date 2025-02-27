@@ -5,7 +5,6 @@ aliases:
   - Linear Transformation
   - Linear Map
   - Linear Function
-  - Standard Matrix
 ---
 A function T that maps vectors from [[Vector Space]] V into another [[Vector Space]] W given by a transformation.
 # Definition
@@ -33,3 +32,4 @@ This has the further effect of:
 - [[Transformation Matrix]]
 - [[Matrix Representation of Linear Rotation]]
 - [[Set of All Linear Transformations Linear Combinations]]
+- [[Standard Matrix]]

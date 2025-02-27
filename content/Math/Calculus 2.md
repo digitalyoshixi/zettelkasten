@@ -7,7 +7,14 @@ aliases:
 # Examinations
 - You do not need to check [[Fundamental Theorem of Calculus|FToC]] hypothesis
 # MATA37 Midterm Information
-- 
+- Week 1-6 content
+- Some true and false questions
+	- Computation questions, trivia questions
+	- See if you can find a counterexample first
+### Review
+- [ ] Practice Midterm
+- [ ] Extra exercises week 1-6
+- [ ] Assignment week 1-6
 # Concepts
 - [[Sigma Notation]]
 - [[Signed Area]]
