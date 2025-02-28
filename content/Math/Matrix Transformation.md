@@ -3,7 +3,7 @@ tags:
   - math
   - linalg
 ---
-A matrix transformation is a process that converts a [[Column Vector]] into the output of a [[Linear Transform|Linear Map]].
+A matrix transformation is a process that finds $T(\overrightarrow{v})$ from a given converts a [[Column Vector]] $\overrightarrow{v}$
 # Theorem
 1. Given Linear map $T(x) : R^{n} \to R^{m}$
 2. Given column vector $x$ of $n$ size
