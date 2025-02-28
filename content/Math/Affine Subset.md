@@ -9,3 +9,4 @@ This is an affine set represented by $(0,b) + span \{ (1,m) \}$
 # Theorems
 - [[Solution sets of Linear Systems Theorem]]
 - [[Solution Sets of Linear Systems and Kernel Theorem]]
+- [[Representing Solutions as Affine Subsets]]
