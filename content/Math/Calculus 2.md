@@ -17,6 +17,8 @@ aliases:
 - [ ] Assignment week 1-6
 ### To Remember
 - [[Pythagorean Identities]]
+- [[Reduction Identity]]
+- [[Double Angle Identity]]
 - Dont forget to keep the $|\cdot|$ in $\ln|x|$ for integral of  $\frac{1}{x}$
 # Concepts
 - [[Sigma Notation]]
