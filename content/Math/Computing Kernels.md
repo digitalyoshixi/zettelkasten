@@ -4,9 +4,8 @@ tags:
   - linalg
 ---
 The kernel is the set of inputs for $T : V\to W$ that result in $\overrightarrow{0}$ as the output.
-1. Convert the [[Matrix Transformation]] into [[Augmented Matrix]] form
-2. Reduce to [[Echelon Form|REF]]
-3. Find the values 
+1. Find the [[Matrix Transformation]] $A$
+2. Solve for the [[Column Vector]]s $x$ in $Ax = \overrightarrow{0}$
 # Example 2
 Compute kernel of the transformation:
 - $T_{1} : \mathbb{R}^{3} \to \mathbb{R}^{3}$ projection to x-axis
