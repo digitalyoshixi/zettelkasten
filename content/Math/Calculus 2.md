@@ -15,6 +15,9 @@ aliases:
 - [ ] Practice Midterm
 - [ ] Extra exercises week 1-6
 - [ ] Assignment week 1-6
+### To Remember
+- [[Pythagorean Identities]]
+- Dont forget to keep the $|\cdot|$ in $\ln|x|$ for integral of  $\frac{1}{x}$
 # Concepts
 - [[Sigma Notation]]
 - [[Signed Area]]
