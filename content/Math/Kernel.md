@@ -14,3 +14,4 @@ $ker(T) = \{ v \in V:T(v) = 0w \}$
 # Concepts
 - [[Computing Kernels]]
 - [[Kernels in Coordinates]]
+- [[Solution Sets of Linear Systems and Kernel Theorem]]

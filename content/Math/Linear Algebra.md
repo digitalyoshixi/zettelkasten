@@ -52,7 +52,7 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - [[Elimination Algorithm]]
 - [[Column Vector]]
 - [[Normal Vector]]
-- [[Affine Sets]]
+- [[Affine Subset]]
 - [[Coordinate Vector]]
 - [[Matrix Vector Multiplication]]
 ### Subspaces
