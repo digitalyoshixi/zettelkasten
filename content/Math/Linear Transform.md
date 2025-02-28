@@ -34,3 +34,4 @@ This has the further effect of:
 - [[Matrix Representation of Linear Rotation]]
 - [[Set of All Linear Transformations Linear Combinations]]
 - [[Standard Matrix]]
+- [[Linear Map Composition]]

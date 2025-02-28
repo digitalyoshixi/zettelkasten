@@ -23,3 +23,5 @@ Then, $(T+S)R = TR+SR$
 [[Linear Map Composition Distributive Proof]]
 # Theorems
 - [[Composition of Linear Maps is Linear]]
+- [[Kernels Images and Compositions Theorem]]
+- [[Matrix Multiplication]]
