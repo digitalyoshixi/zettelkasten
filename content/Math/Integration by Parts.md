@@ -2,7 +2,10 @@
 tags:
   - calculus
 ---
-# Integration By Parts (The Worst Technique)
+Integration technique often used for integrating:
+- [[Inverse Function]]
+- [[Product Functions]]
+# Integration By Parts
 Differentiate a function that is the product of 2 simpler functions. It is an [[Iterative Process]]
 $\int uv' = uv - \int u'v$
 or
@@ -30,4 +33,3 @@ Determine $\int x\sin x \, dx$
 9. $u = -\cos x$, $v'=1$
 10. $uv - \int uv' \, dx = -x\cos x - \int (-\cos x) \, dx$
 11. Now solve, $\int x\sin x \, dx= -x\cos x+\sin x+c$
-# Integration by Parts Example

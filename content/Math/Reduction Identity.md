@@ -9,4 +9,5 @@ Formulas to reduce the power of a expression involving cos and sin
 $\sin^2(x)=\frac{1-\cos(2x)}{2}$
 $\cos^2(x)=\frac{1+\cos(2x)}{2}$
 $\tan^2(x)=\frac{1-\cos(2x)}{1+\cos(2x)}$
+$$\sin x \cos x = \frac{\sin(2x)}{2}$$
 
