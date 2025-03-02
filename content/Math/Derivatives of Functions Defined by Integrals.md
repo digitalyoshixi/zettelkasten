@@ -3,6 +3,7 @@ tags:
   - math
   - calculus
 ---
+# Principle
 # Example
 Consider $g(x) = \int_{\sin(x)}^{\cos(x)} \tan^{-1}(t) dt$
 Find $g'(x)$

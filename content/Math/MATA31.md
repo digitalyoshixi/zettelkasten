@@ -5,7 +5,6 @@ tags:
 aliases:
   - Calculus 1
 ---
-- Prove $\lim_{ h \to 0 }(\frac{e^h-1}{h}=1$
 # Exam Tips
 - Write down the rules you use during simplification
 - Think about what level of the course the question is to determine how much justification you need to give every question (for week 6 and above, you don't need to prove by inequality)

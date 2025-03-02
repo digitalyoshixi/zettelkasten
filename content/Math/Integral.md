@@ -21,3 +21,5 @@ $f(x) dx$
 # Extra
 - [[Integral Solving Techniques]]
 - [[Basic Integral Table]]
+# Specific Integrals
+- [[Integral of tan(x)]]

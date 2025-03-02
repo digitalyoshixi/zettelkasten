@@ -3,14 +3,17 @@ tags:
   - math
   - linalg
 ---
-# Example
+The kernel is the set of inputs for $T : V\to W$ that result in $\overrightarrow{0}$ as the output.
+1. Find the [[Matrix Transformation]] $A$
+2. Solve for the [[Column Vector]]s $x$ in $Ax = \overrightarrow{0}$
+# Example 2
 Compute kernel of the transformation:
 - $T_{1} : \mathbb{R}^{3} \to \mathbb{R}^{3}$ projection to x-axis
 ### Soln
 - Example $T_{1}$
 - In coordinates it is: $T_{1}(x,y,z) = (0,0,z)$
 ![[Computing Kernels-20250212145430070.webp]]
-# Example 2
+# Example 3
 - $T_{2} : \mathbb{R}^{2} \to \mathbb{R}^{2}$ rotation to $\theta = \frac{\pi}{2}$
 ### Soln
 - Example $T_{2}$

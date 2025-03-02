@@ -52,7 +52,7 @@ Respond with:
 - [[PEC Method]]
 ### Technical
 Used to gauge technical profficiency
-- How do you perform a [[Bisection Method|Binary Search]]
+- How do you perform a [[Binary Search|Binary Search]]
 Respond with:
 - [[DAE Method]]
 - [[ACE Method]]

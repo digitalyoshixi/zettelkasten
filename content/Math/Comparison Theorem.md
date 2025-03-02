@@ -17,3 +17,5 @@ A theorem to easier determine if a [[Improper Integral]] converges or diverges.
 	1. If $\forall x \in [a,b], 0 \leq h(x) \leq f(x)$
 	2. And, we know that $\int_{a}^{b}h(x)dx$ diverges
 	3. Then, $\int_{a}^{b}f(x)dx$ also diverges
+# Proofs
+- [[Comparison Theorem Convergent Case Proof]]

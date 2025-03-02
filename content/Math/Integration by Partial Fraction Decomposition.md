@@ -2,6 +2,8 @@
 tags:
   - math
   - calculus
+aliases:
+  - PFD
 ---
 An [[Integral Solving Techniques|Integration Technique]] used to rewrite [[Proper Rational Function|Proper Rational Functions]] into equivalent partial fractions.
 # Process

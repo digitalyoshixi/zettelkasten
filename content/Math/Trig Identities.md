@@ -2,15 +2,8 @@
 tags:
   - math
 ---
-# Table of Contents
-```table-of-contents
-```
-# Identity
 An identity is something valid for **ALL** values of x.
 They can **ALL** be proved.
-
-If they cannot be proved, show a counter example by subbing in a value for x
-
 # List of Identities (\*) are important ones
 - [[Transformation Identities]]
 - [[Even and Odd Identities]] *
@@ -22,6 +15,7 @@ If they cannot be proved, show a counter example by subbing in a value for x
 - [[Half Angle Identity]] *
 - [[Sum to Product]]
 - [[Product to Sum]]
+- [[Power Reducing Identity]]
 # Practical Identity Use
 - [[Random Angle to Co-Function or Supp-Function Identity]]
 - [[Equivalent Ratio Problem Solving Procedure]] <-- Good for understanding Co-Function

@@ -16,9 +16,10 @@ https://users.ece.utexas.edu/~adnan/gdb-refcard.pdf
 **break fn**: set breakpoint at function(requires [[Debugging Symbol Tables]])
 **delete N**: delete breakpoint Ns
 **info**
-- **registers**: gets info of registers
+- **registers**: getst info of registers
 - **break**: gets all breakpoints
 - **frame**: info about current frame
+- **locals**: info about all variables in current function
 **run(r) arg1 arg2**: run til next breakpoint or error
 **f**: run til current function is finished
 **step(s)**: run next line of program(step)

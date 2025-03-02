@@ -5,18 +5,18 @@ aliases:
   - Linear Transformation
   - Linear Map
   - Linear Function
-  - Standard Matrix
 ---
 A function T that maps vectors from [[Vector Space]] V into another [[Vector Space]] W given by a transformation.
+
 # Definition
-Suppose $(V,\boxplus,\boxdot)$ and $(W,\oplus, \odot)$
-are vector spaces.
-A linear transformation function of $T : V\to W$ is a function that follows the principles of:
-- additivity $\forall u,v \in V, T(v \boxplus v) = T(u)\oplus T(v)$
-- homogeneity $\forall v \in V, \forall a \in \mathbb{F},  T(a \boxdot v) = a \odot T(v)$
+- Suppose $(V,\boxplus,\boxdot)$ and $(W,\oplus, \odot)$ are vector spaces.
+A linear transformation function of $T : V\to W$ is a function that follows the axioms:
+- Additivity $\forall u,v \in V, T(v \boxplus v) = T(u)\oplus T(v)$
+- Multiplicative $\forall v \in V, \forall a \in \mathbb{F},  T(a \boxdot v) = a \odot T(v)$
+### Implications
 This has the further effect of:
-- Ensuring all lines are lines
-- Ensuring the origin remains at the same position
+- Ensuring all lines are lines (No linear transformation should multiply variables together)
+- Ensuring the origin remains at the same position ($T(\overrightarrow{0}) = \overrightarrow{0}$ always)
 # Theorems
 - [[Linear Transformations Preserve Additive Identities]]
 - [[Linear Transformations Preserve Addition and Scaling]]
@@ -25,10 +25,13 @@ This has the further effect of:
 # Applications
 - [[Proving A Function Is Linear]]
 # Concepts
+- [[Matrix Transformation]]
 - [[Zero Transformation]]
 - [[Identity Transformation]]
-- [[Vector Rotation]]
-- [[Vector Projection 1]]
-- [[Matrix Representation of Linear Transformation]]
+- [[Linear Transformation Rotation]]
+- [[Linear Map Projection]]
+- [[Transformation Matrix]]
 - [[Matrix Representation of Linear Rotation]]
 - [[Set of All Linear Transformations Linear Combinations]]
+- [[Standard Matrix]]
+- [[Linear Map Composition]]

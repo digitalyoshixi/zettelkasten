@@ -3,7 +3,7 @@ tags:
   - math
   - linalg
 ---
-Recall that [[Vector Rotation]] is:
+Recall that [[Linear Transformation Rotation]] is:
 $$R_{\theta}(x,y) = (x\cos(\theta) - y\sin(\theta) , y\cos(\theta) + x\sin(\theta))$$
 We calculate $R_{e}$ on the standard basis:
 $R_{\theta} = (1,0) = (\cos(\theta), \sin(\theta))$

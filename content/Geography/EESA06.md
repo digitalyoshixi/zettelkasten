@@ -10,6 +10,8 @@ aliases:
 - Allows Cheat-sheet double sided
 - Modules only have one attempt
 - Remember General Dates
+# Other Notes
+https://drive.google.com/drive/folders/1YCI4HqDXE309sfMq2NZdV89ssu3IFjqU
 # Concepts
 - [[Planet Earth]]
 - [[Continental Drift]]
@@ -39,3 +41,7 @@ aliases:
 - [[Seismology]]
 - [[Plate Margins]]
 - [[Convergent Boundaries]]
+- [[Rock Cycle]]
+	- [[Sedimentary Rock]]
+	- [[Igneous Rock]]
+	- [[Metamorphic Rock]]

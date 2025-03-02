@@ -10,21 +10,14 @@ aliases:
 - Can drop one homework
 - Can drop one quiz
 - https://www.mathmatize.com/c/1451/
-# Term Test 1
-The term test will take place on Monday February 3rd from 7 to 9pm.  
-There will be eight (8) questions covering:
-
-1. Vector Space Axioms
-2. Proofs and Counter-Examples
-3. Spans
-4. Equality of Sets
-5. Direct Proofs
-6. Linear independence
-7. Subspaces
-8. Row Echelon Form
-9. Complex Numbers
-
-Each question will be worth ten marks. Some questions have sub-parts.
+# Term Test 2
+1. Matrix of a linear transformation
+2. Dimension
+3. Rank-nullity
+4. Kernel and image
+5. Direct sums of subspaces
+6. Matrix-vector products
+7. Injective and surjective maps
 # Declaring Absence/Regrade
 https://forms.office.com/pages/responsepage.aspx?id=JsKqeAMvTUuQN7RtVsVSEOqLCEyVYJ9Enr38oilz4yRUM1A3VFkyODUzTDJYSUkyMlI1UFk4UEZIOC4u&route=shorturl
 # Mathematize
@@ -50,9 +43,9 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - [[Augmented Matrix]]
 - [[Echelon Form]]
 - [[Elimination Algorithm]]
-- [[Column Vectors]]
+- [[Column Vector]]
 - [[Normal Vector]]
-- [[Affine Sets]]
+- [[Affine Subset]]
 - [[Coordinate Vector]]
 - [[Matrix Vector Multiplication]]
 ### Subspaces
@@ -79,3 +72,4 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - [[Linear Transform|Linear Transformation]]
 	- [[Identity Transformation]]
 	- [[Zero Transformation]]
+- [[Matrix Transformation]]
