@@ -9,7 +9,7 @@ An article on [[Epistemology]] written by [[Thomas Nagel]].
 # Nagel's Core Argument
 ```standardform
 P1: To explain something objectively is to explain it in such a  way that abstracts away from points of view
-P2: to be concious, you require a point of view
+P2: To be conscious, you require a point of view
 -- Disj Syllog --
 IC: An explanation of conciousness cannot abstract from  a point of view
 C: Therefore, conciousness cannot be explained objectively
