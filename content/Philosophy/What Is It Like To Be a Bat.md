@@ -1,6 +1,7 @@
 ---
 tags:
   - philosophy
+  - books
 ---
 An article on [[Epistemology]] written by [[Thomas Nagel]].
 # Central Ideas

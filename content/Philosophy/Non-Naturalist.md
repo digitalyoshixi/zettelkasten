@@ -4,6 +4,7 @@ tags:
   - philosophy
 aliases:
   - Supernaturalism
+  - Supernatural
 ---
 A subdomain of [[Moral Realism]] that believes [[Moral Facts]] come from non-natural sources.
 [[Non-Naturalist|Non-Naturalists]] use mathematics and [[God]] as counter arguments to [[Naturalism]]
