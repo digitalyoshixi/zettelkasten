@@ -1,6 +1,6 @@
 ---
 tags:
-  - OOP
+  - programming
   - java
 ---
 a way to describe how your class utilizes objects

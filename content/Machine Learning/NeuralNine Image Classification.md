@@ -1,10 +1,10 @@
 ---
 tags:
-  - NeuralNine
+  - machine_learning
   - machine_learning
   - machine_learning
   - python
-  - neural_networks
+  - machine_learning
 ---
 
 To build a image classification neural network, you use a convolutional neural networks. Convolutional neural networks are the type of neural networks that you use when dealing with image data, audio data, or just generally to find patterns in data.

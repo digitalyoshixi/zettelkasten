@@ -1,6 +1,6 @@
 ---
 tags:
-  - OOP
+  - programming
 ---
 The idea is we can make a subclass that inherits attributes and methods from a parent class
 

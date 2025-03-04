@@ -1,7 +1,7 @@
 ---
 tags:
   - llvm
-  - compiling
+  - compilers
 ---
 These are expressions in the form of:
 - `a + b`

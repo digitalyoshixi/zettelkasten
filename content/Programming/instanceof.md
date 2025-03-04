@@ -1,6 +1,6 @@
 ---
 tags:
-  - OOP
+  - programming
 ---
 ```java
 Person p;

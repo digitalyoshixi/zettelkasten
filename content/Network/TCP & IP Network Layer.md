@@ -1,8 +1,8 @@
 ---
 tags:
   - networking
-  - networking_model
-  - network_layer
+  - networking
+  - networking
 aliases:
   - Network Layer
 ---

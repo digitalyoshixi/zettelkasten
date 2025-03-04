@@ -1,7 +1,7 @@
 ---
 tags:
   - linux
-  - Arch
+  - arch
 ---
 yay is the package manager for the AUR unofficial, dangerous user repository.
 https://itsfoss.com/install-yay-arch-linux/

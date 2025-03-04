@@ -2,8 +2,8 @@
 tags:
   - web
   - networking
-  - network_layer
-  - networking_model
+  - networking
+  - networking
 aliases:
   - IP
 ---

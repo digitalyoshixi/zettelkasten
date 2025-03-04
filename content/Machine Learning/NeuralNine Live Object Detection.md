@@ -3,8 +3,8 @@ tags:
   - python
   - machine_learning
   - machine_learning
-  - NeuralNine
-  - neural_networks
+  - machine_learning
+  - machine_learning
 ---
 [https://www.youtube.com/watch?v=lE9eZ-FGwoE&list=PL7yh-TELLS1G9mmnBN3ZSY8hYgJ5kBOg-&index=17](https://www.youtube.com/watch?v=lE9eZ-FGwoE&list=PL7yh-TELLS1G9mmnBN3ZSY8hYgJ5kBOg-&index=17)
 

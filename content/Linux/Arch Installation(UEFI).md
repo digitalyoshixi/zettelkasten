@@ -1,6 +1,6 @@
 ---
 tags:
-  - Arch
+  - arch
   - linux
 ---
 https://www.youtube.com/watch?v=PQgyW10xD8s

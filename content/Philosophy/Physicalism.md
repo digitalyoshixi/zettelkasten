@@ -2,9 +2,12 @@
 tags:
   - philosophy
 ---
-Everything is dependent and can be explained by physical phenomena in [[Physics]].
+Everything [[Supervenience|Supervenes]] and can be explained by [[Physics|Physical]] Facts.
 - [[Ethics]]
 - [[Mind]]
 - [[God]]
 - [[Phenomenology]]
 Can all be explained by the natural sciences
+# Contrast
+- [[Dualism]]
+- [[Dual Aspect Theory]]

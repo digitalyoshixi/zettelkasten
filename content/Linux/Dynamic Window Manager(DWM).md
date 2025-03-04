@@ -1,6 +1,6 @@
 ---
 tags:
-  - Arch
+  - arch
   - linux
   - ricing
 ---

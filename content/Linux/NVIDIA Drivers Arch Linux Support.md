@@ -1,6 +1,6 @@
 ---
 tags:
-  - Arch
+  - arch
 ---
 # Installation
 https://github.com/korvahannu/arch-nvidia-drivers-installation-guide

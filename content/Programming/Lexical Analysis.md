@@ -1,6 +1,6 @@
 ---
 tags:
-  - compiling
+  - compilers
   - llvm
 ---
 The process of taking apart a input into its [[Terminals]] and [[Non-terminals]] tokens.

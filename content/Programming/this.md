@@ -1,6 +1,6 @@
 ---
 tags:
-  - OOP
+  - programming
 ---
 this is a keyword in java
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - compiling
+  - compilers
   - llvm
 aliases:
   - Primary Expression Parsing

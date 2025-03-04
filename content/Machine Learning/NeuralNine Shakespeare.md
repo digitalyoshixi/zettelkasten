@@ -1,7 +1,7 @@
 ---
 tags:
-  - neural_networks
-  - NeuralNine
+  - machine_learning
+  - machine_learning
   - machine_learning
   - machine_learning
   - python

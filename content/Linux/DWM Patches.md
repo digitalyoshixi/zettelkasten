@@ -1,7 +1,7 @@
 ---
 tags:
   - linux
-  - Arch
+  - arch
   - ricing
 ---
 following this tut:

@@ -1,7 +1,7 @@
 ---
 tags:
   - books
-  - neural_networks
+  - machine_learning
   - machine_learning
   - machine_learning
   - data_science

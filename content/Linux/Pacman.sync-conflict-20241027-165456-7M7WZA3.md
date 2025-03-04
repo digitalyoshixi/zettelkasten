@@ -1,6 +1,6 @@
 ---
 tags:
-  - Arch
+  - arch
 ---
 The arch linux package manager
 

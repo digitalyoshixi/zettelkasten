@@ -1,6 +1,6 @@
 ---
 tags:
-  - compiling
+  - compilers
 ---
 Searches for identical sub-expressions and replaces them with a variable holding the computed value.
 ![[Common Subexpression Elimination-20250101030057202.webp]]

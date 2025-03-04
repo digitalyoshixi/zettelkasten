@@ -1,6 +1,6 @@
 ---
 tags:
-  - compiling
+  - compilers
 ---
 A undefined behavior value that takes on every value at once.
 These are usually garbage values that are returned at undefined behavior.

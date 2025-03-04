@@ -2,7 +2,7 @@
 tags:
   - machine_learning
   - machine_learning
-  - neural_networks
+  - machine_learning
 ---
 Machine learning is having data, feeding it into the ML model, and then the machine knows what to do. It can be like feeding the model a bunch of images of cats, a bunch of images of dogs and telling it which are the cats, which are the dogs. Then, if we feed the computer an image it has never seen before, it will recognize immediately that this is either a cat or a dog. There is no human telling the AI specific characteristics of a cat, like a cat has pointy ears and a outstretched tail, the AI just recognizes patterns on its own.
 

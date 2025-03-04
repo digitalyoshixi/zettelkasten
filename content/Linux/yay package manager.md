@@ -1,6 +1,6 @@
 ---
 tags:
-  - Arch
+  - arch
 ---
 # Installation
 1. `sudo pacman -Syu`

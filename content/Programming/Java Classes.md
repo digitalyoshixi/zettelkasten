@@ -1,6 +1,6 @@
 ---
 tags:
-  - OOP
+  - programming
 ---
 A class is essentially a blueprint for you to
 

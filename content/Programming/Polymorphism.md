@@ -1,6 +1,6 @@
 ---
 tags:
-  - OOP
+  - programming
 ---
 Ability of an object to take many forms.
 Commonly occurs when a parent class reference is used to refer to a child class object

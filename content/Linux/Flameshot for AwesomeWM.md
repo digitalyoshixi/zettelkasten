@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - ricing
-  - Arch
+  - arch
 ---
 1. `sudo pacman -S flameshot`
 2. edit ~/.config/awesome/rc.lua

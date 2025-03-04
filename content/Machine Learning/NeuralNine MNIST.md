@@ -1,10 +1,10 @@
 ---
 tags:
-  - neural_networks
+  - machine_learning
   - machine_learning
   - machine_learning
   - python
-  - NeuralNine
+  - machine_learning
 ---
 Yea we are going to make an ai to read hand-written digits.
 

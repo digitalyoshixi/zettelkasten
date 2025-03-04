@@ -1,7 +1,7 @@
 ---
 tags:
   - web
-  - application_layer
+  - networking
   - networking
 aliases:
   - HTTP

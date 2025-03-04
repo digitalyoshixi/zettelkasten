@@ -1,6 +1,6 @@
 ---
 tags:
-  - OOP
+  - programming
 ---
 static makes everything shared.
 

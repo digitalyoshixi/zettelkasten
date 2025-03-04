@@ -1,6 +1,6 @@
 ---
 tags:
-  - OOP
+  - programming
 ---
 The constructor method is ran at the start of instantiation
 

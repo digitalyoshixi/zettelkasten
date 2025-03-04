@@ -1,7 +1,7 @@
 ---
 tags:
   - c
-  - compiling
+  - compilers
 ---
 The gnu compiler for languages like:
 - [[C]]

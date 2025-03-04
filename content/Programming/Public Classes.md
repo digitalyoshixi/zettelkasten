@@ -1,6 +1,6 @@
 ---
 tags:
-  - OOP
+  - programming
 ---
 ![[Pasted image 20231129144713.png]]
 YOU REALLY SHOULD NOT MAKE YOUR CLASSES PUBLIC!

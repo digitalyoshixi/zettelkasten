@@ -1,8 +1,8 @@
 ---
 tags:
   - networking
-  - network_layer
-  - physical_layer
+  - networking
+  - networking
 aliases:
   - Physical Layer
 ---

@@ -1,7 +1,7 @@
 ---
 tags:
   - networking
-  - networking_model
+  - networking
 ---
 The TCP/IP model defines and references a large collection of protocols that allow computers to communicate through [[Network Messages]]
 

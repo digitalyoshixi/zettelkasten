@@ -1,7 +1,7 @@
 ---
 tags:
   - networking
-  - networking_model
+  - networking
 aliases:
   - Open System Interconnections
 ---

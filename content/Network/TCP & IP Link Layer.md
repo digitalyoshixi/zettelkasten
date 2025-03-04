@@ -2,7 +2,7 @@
 tags:
   - networking
   - link_layer
-  - networking_model
+  - networking
 aliases:
   - Link Layer
 ---

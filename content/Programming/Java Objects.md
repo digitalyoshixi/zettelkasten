@@ -1,6 +1,6 @@
 ---
 tags:
-  - OOP
+  - programming
 ---
 Objects are created when you instantiate a [[Java Classes]]
 

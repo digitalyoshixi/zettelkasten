@@ -1,6 +1,6 @@
 ---
 tags:
-  - Arch
+  - arch
 ---
 # Install .pacman file
 `sudo pacman -U file.pacman`

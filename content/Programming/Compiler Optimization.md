@@ -1,7 +1,7 @@
 ---
 tags:
   - os
-  - compiling
+  - compilers
 ---
 # Techniques
 - [[Dead Code Elimination]]

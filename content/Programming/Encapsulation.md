@@ -1,6 +1,6 @@
 ---
 tags:
-  - OOP
+  - programming
 ---
 Its just a concept.
 The idea of combining data and methods together in an object.

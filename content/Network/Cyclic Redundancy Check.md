@@ -1,7 +1,7 @@
 ---
 tags:
   - networking
-  - physical_layer
+  - networking
 aliases:
   - CRC
   - CRC Checksum

@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - cpp
-  - boilerplate
+  - programming
 ---
 The most basic structure of the programs you will write
 

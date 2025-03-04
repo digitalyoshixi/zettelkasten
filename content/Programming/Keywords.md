@@ -1,7 +1,7 @@
 ---
 tags:
   - programming
-  - compiling
+  - compilers
 aliases:
   - Reserved Keywords
 ---

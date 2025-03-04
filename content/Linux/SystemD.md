@@ -1,6 +1,6 @@
 ---
 tags:
-  - Arch
+  - arch
   - os
 aliases:
   - systemctl

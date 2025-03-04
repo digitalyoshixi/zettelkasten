@@ -1,6 +1,6 @@
 ---
 tags:
-  - Arch
+  - arch
   - ricing
 ---
 A [[Wayland]] based tiling window manager.

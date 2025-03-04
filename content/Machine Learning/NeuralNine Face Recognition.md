@@ -3,8 +3,8 @@ tags:
   - python
   - machine_learning
   - machine_learning
-  - NeuralNine
-  - neural_networks
+  - machine_learning
+  - machine_learning
 ---
 We want to attribute a png of somebody’s face to a entity, and when you give a video feed of somebody else’s face, they will not be flagged as the same entity as the first face.
 

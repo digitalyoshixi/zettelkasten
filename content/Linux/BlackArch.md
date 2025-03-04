@@ -1,6 +1,6 @@
 ---
 tags:
-  - Arch
+  - arch
   - redteam
 ---
 THE BEST linux distribution for HACKING

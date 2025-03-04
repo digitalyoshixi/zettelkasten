@@ -1,8 +1,8 @@
 ---
 tags:
   - networking
-  - networking_model
-  - application_layer
+  - networking
+  - networking
 aliases:
   - Application Layer
 ---

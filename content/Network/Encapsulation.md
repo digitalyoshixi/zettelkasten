@@ -2,7 +2,7 @@
 tags:
   - data_layer
   - networking
-  - network_layer
+  - networking
 ---
 Transmission based on [[Network Messages]]
 In order for higher level protocols to be able to understand some of the data given, headers(and sometimes trailers) need to be given from each respective layer.

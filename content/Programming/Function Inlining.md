@@ -1,6 +1,6 @@
 ---
 tags:
-  - compiling
+  - compilers
 aliases:
   - Inline Expansion
 ---

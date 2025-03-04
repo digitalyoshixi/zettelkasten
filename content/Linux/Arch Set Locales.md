@@ -1,6 +1,6 @@
 ---
 tags:
-  - Arch
+  - arch
   - linux
 ---
 1. Ensure the `/etc/locale.conf` is:

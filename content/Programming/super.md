@@ -1,6 +1,6 @@
 ---
 tags:
-  - OOP
+  - programming
 ---
 super() <- use parent's constructor
 super(arguments) <- use parent's constructor

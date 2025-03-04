@@ -2,7 +2,7 @@
 tags:
   - machine_learning
   - python
-  - neural_networks
+  - machine_learning
 ---
 Tensorflow is a neural network framework.
 # Installation

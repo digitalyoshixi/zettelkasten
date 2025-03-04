@@ -1,6 +1,6 @@
 ---
 tags:
   - programming
-  - compiling
+  - compilers
 ---
 A high-level [[Intermediate Representation|IR]] langauge for [[C++]].

@@ -1,6 +1,6 @@
 ---
 tags:
-  - OOP
+  - programming
 ---
 # Advantages of OOP
 - [[Programming/Encapsulation]]

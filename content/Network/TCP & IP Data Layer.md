@@ -1,7 +1,7 @@
 ---
 tags:
   - networking
-  - network_layer
+  - networking
   - data_layer
 aliases:
   - Data Layer
