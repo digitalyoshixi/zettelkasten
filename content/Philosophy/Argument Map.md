@@ -21,4 +21,4 @@ Usually required if your argument is 5-10 nodes.
 Even thought killing is wrong and john did kill Joe, what John did was morally permissible. Further, he was protecting his siblings from harm.
 ![[Drawing 2025-01-21 12.19.44.excalidraw]]
 # Software
-- https://app.mindmup.com/map/new/1737479493617
+https://www.mindmup.com/tutorials/argument-visualization.html?orig=/
