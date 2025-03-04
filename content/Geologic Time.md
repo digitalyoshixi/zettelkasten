@@ -1,0 +1,11 @@
+---
+tags:
+  - geography
+---
+- [[Hadean]] - 4.5 Ga
+- [[Archean]] - 4 Ga
+- [[Proterozoic]] - 2.5 Ga
+- [[Phanerozoic]] - 540 Ma
+- [[Paleozoic]] - 540 Ma
+- [[Mezozoic]] - 252 Ma
+- [[Cenozoic]] - 66 Ma
