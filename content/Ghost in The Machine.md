@@ -2,4 +2,4 @@
 tags:
   - philosophy
 ---
-A critique against [[Dualism]]
+A critique against [[Dualism]] raised by [[Gilbert Ryle]]
