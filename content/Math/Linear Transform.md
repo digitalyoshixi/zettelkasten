@@ -26,11 +26,11 @@ This has the further effect of:
 - [[Proving A Transformation Is Linear]]
 # Concepts
 - [[Matrix Transformation]]
+- [[Transformation Matrix]]
 - [[Zero Transformation]]
 - [[Identity Transformation]]
 - [[Linear Transformation Rotation]]
 - [[Linear Map Projection]]
-- [[Transformation Matrix]]
 - [[Matrix Representation of Linear Rotation]]
 - [[Set of All Linear Transformations Linear Combinations]]
 - [[Standard Matrix]]
