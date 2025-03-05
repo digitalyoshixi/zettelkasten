@@ -18,4 +18,11 @@ Thus, we have proved $S$ is both injective and surjective
 ### Proving $\Longleftarrow$
 Suppose  $S$ is injective and surjective
 If $S(v) = w$, then we define $T(w) = v$.
-Note that $T(w)$ exists and is well-defined as $$
+- For this $T(w) = v$ to exist, it needs to be well defined. 
+	- Note $T$ is defined for all $w \in W$ as every $w \in W$ is an output of $S$ ($T(w) = v$ for all $w \in W$) by [[Surjective Functions|Surjectivity]]
+	- Note that $T$ is a function because every $w \in W$ is the output of a UNIQUE $v \in V$. If we had $S(v_{1}) = S(v_{2}) = w \implies v_{1} = v_{2}$ by [[Injective Functions|Injectivity]] of $S$
+- Therefore, $T$ is well defined for all $w \in W$ and $T(w)$ is unique for each $w \in W$
+Check that $T(w)$ is the inverse
+- $T(S(v)) = T(w) = v$
+- $S(T(w)) = S(v) = w$
+Thus, $T(w)$ is the inverse of $S$ by defn of inverse

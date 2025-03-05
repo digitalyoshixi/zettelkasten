@@ -35,3 +35,4 @@ This has the further effect of:
 - [[Set of All Linear Transformations Linear Combinations]]
 - [[Standard Matrix]]
 - [[Linear Map Composition]]
+- [[Linear Map Inverse]]
