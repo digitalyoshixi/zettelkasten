@@ -89,4 +89,5 @@ x_{k1} & x_{k2} & \dots & x_{kn}  & b_{k}\\ \\
 $$
 # Theorems
 - [[Row Operations Preserve Solution Sets of Linear Systems Theorem]]
-- [[Row Operations Example]]
+# Concepts
+- [[Row Operations as Matrices]]

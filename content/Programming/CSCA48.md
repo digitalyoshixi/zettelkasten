@@ -8,3 +8,5 @@ tags:
 - 50% final exam
 - 20% midterm
 - Not code heavy
+# Office Hours
+https://docs.google.com/spreadsheets/d/1Jz_ZC6N8LVWmq4U2VVkWjIjo7OyzDwNCrgZzoO8iCsg/edit?gid=0#gid=0

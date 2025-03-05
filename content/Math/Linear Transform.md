@@ -23,15 +23,16 @@ This has the further effect of:
 - [[Linear Maps Determined by Their Actions on A Basis]]
 - [[Linear Transformation Characterized by Finite Number of Scalars]]
 # Applications
-- [[Proving A Function Is Linear]]
+- [[Proving A Transformation Is Linear]]
 # Concepts
 - [[Matrix Transformation]]
+- [[Transformation Matrix]]
 - [[Zero Transformation]]
 - [[Identity Transformation]]
 - [[Linear Transformation Rotation]]
 - [[Linear Map Projection]]
-- [[Transformation Matrix]]
 - [[Matrix Representation of Linear Rotation]]
 - [[Set of All Linear Transformations Linear Combinations]]
 - [[Standard Matrix]]
 - [[Linear Map Composition]]
+- [[Linear Map Inverse]]
