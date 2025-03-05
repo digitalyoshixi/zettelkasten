@@ -73,3 +73,4 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 	- [[Identity Transformation]]
 	- [[Zero Transformation]]
 - [[Matrix Transformation]]
+- [[Linear Transformation Inverse]]
