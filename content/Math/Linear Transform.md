@@ -23,7 +23,7 @@ This has the further effect of:
 - [[Linear Maps Determined by Their Actions on A Basis]]
 - [[Linear Transformation Characterized by Finite Number of Scalars]]
 # Applications
-- [[Proving A Function Is Linear]]
+- [[Proving A Transformation Is Linear]]
 # Concepts
 - [[Matrix Transformation]]
 - [[Zero Transformation]]
