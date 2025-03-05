@@ -23,3 +23,5 @@ typedef struct BST_Node{
 }BST_NODE
 ```
 - [[Full C Binary Search Tree Program]]
+# Concepts
+- [[BST Deletion]]
