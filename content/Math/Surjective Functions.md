@@ -4,6 +4,7 @@ tags:
   - linalg
 aliases:
   - Surjective
+  - Onto
 ---
 A function mapping created such that every $y$ in the functions [[Range|Codomain]] has atleast one element $x$ in its [[Domain]].
 # Formal Definition
