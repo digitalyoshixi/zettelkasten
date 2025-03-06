@@ -5,4 +5,6 @@ tags:
 aliases:
   - Brain Process Thesis
 ---
+*Phenomenal properties are identical to physical properties*
 A theory of [[Consciousness]] that states that having conscious states is just a property of the brain firing in a certain pattern.
+- Almost all identity theorists believe in [[A Posteriori Physicalism]]. To find out these identities for consciousness, we require [[Neuroscience]].

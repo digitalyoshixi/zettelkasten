@@ -7,11 +7,10 @@ aliases:
   - Linear Function
 ---
 A function T that maps vectors from [[Vector Space]] V into another [[Vector Space]] W given by a transformation.
-
 # Definition
 - Suppose $(V,\boxplus,\boxdot)$ and $(W,\oplus, \odot)$ are vector spaces.
 A linear transformation function of $T : V\to W$ is a function that follows the axioms:
-- Additivity $\forall u,v \in V, T(v \boxplus v) = T(u)\oplus T(v)$
+- Additivity $\forall u,v \in V, T(u \boxplus v) = T(u)\oplus T(v)$
 - Multiplicative $\forall v \in V, \forall a \in \mathbb{F},  T(a \boxdot v) = a \odot T(v)$
 ### Implications
 This has the further effect of:
