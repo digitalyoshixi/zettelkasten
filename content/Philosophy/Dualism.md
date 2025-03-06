@@ -9,3 +9,12 @@ You have a:
 # Contrast
 - [[Physicalism]]
 - [[Dual Aspect Theory]]
+# Taxonomies
+- [[Substance Dualism]]
+- [[Property Dualism]]
+- [[Interactionsim]]
+- [[Epiphenomenalism]]
+### Flowchart
+![[Dualism-20250306164352096.webp]]
+# Current Day
+- It is very hard to integrate dualism with our current understanding of [[Physics]]

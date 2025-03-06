@@ -21,3 +21,5 @@ Can all be explained by the natural sciences
 - [[Functionalism]]
 - [[A Priori Physicalism]]
 - [[A Posteriori Physicalism]]
+### Flowchart
+![[Physicalism-20250306164407942.webp]]
