@@ -40,3 +40,4 @@ aliases:
 ![[Calculus 2-20250211035011054.webp]]
 # Evans's Notes
 https://drive.google.com/drive/folders/1QfOrgu7baxtyTTiHw4kJxJ4WvAo_Cc0h
+https://drive.google.com/drive/folders/1QfOrgu7baxtyTTiHw4kJxJ4WvAo_Cc0h?usp=sharing&pli=1
