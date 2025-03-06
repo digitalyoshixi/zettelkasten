@@ -25,5 +25,6 @@ $\{ a_{n} + b_{n}\}$ converges to $a+b$
 $\forall c \in \mathbb{R}, \{ ca_{n} \}$ converges to $ca$
 ### Multiplicative Property
 $\{ a_{n}b_{n} \}$ converges to $ab$
+[[Converging Series Multiplicative Property Proof]]
 ### Quotient Property
 $\left\{  \frac{a_{n}}{b_{n}}  \right\}$ converges to $\frac{a}{b}$ provided $b \neq 0, b_{n} \neq 0$
