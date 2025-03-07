@@ -18,6 +18,10 @@ aliases:
 5. Direct sums of subspaces
 6. Matrix-vector products
 7. Injective and surjective maps
+### To Remember
+- [[The Dimension Bound Theorem]]
+- [[Dimension and Surjectivity Theorem]]
+- [[Dimension and Injectivity Theorem]]
 # Declaring Absence/Regrade
 https://forms.office.com/pages/responsepage.aspx?id=JsKqeAMvTUuQN7RtVsVSEOqLCEyVYJ9Enr38oilz4yRUM1A3VFkyODUzTDJYSUkyMlI1UFk4UEZIOC4u&route=shorturl
 # Mathematize
