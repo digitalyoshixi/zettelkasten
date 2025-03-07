@@ -36,6 +36,7 @@ aliases:
 - [[Area Accumulation Function]]
 - [[Comparison Theorem]]
 - [[Completing The Square]]
+- [[Converging Series|Converge]]
 # Office Hours
 ![[Calculus 2-20250211035011054.webp]]
 # Evans's Notes
