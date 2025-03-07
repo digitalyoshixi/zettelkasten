@@ -91,4 +91,3 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - [[Endomorphism]]
 - [[Isomorphism]]
 - [[Gauss Jordan Algorithm for Finding Inverses]]
-- 
