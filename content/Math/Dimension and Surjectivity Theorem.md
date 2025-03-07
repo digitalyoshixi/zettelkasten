@@ -4,7 +4,6 @@ tags:
   - linalg
 ---
 # Theorem
-
 - Suppose $V, W$ are finite dimensional vector spaces
 - If $dim(V) < dim(W)$
 - Then, $T: V\to W$ is not surjective

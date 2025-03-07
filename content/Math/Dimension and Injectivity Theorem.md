@@ -7,7 +7,7 @@ tags:
 - If $dim(W) < dim(V)$
 - Then, $T:V\to W$ is not [[Injective Functions|Injective]]
 # Intuition
-There is no injective linear transformation of $T:R^{100} \to R^{2}$
+There is no injective linear transformation of $T:R^{100} \to R^{2}$ that remains injective
 # Proof
 - The [[Rank Nullity Theorem]] gives: $dim(T) = dim(Ker(T)) + dim(Image(T))$
 - $\implies dim(T) = dim(Ker(T)) + dim(W)$ as $Image(T) = W$
