@@ -11,13 +11,13 @@ aliases:
 - Can drop one quiz
 - https://www.mathmatize.com/c/1451/
 # Term Test 2
-1. Matrix of a linear transformation
-2. Dimension
-3. Rank-nullity
-4. Kernel and image
-5. Direct sums of subspaces
-6. Matrix-vector products
-7. Injective and surjective maps
+- [x] Matrix of a linear transformation
+- [x] Dimension
+- [ ] Rank-nullity
+- [ ] Kernel and image
+- [ ] Direct sums of subspaces
+- [x] Matrix-vector products
+- [ ] Injective and surjective maps
 # Declaring Absence/Regrade
 https://forms.office.com/pages/responsepage.aspx?id=JsKqeAMvTUuQN7RtVsVSEOqLCEyVYJ9Enr38oilz4yRUM1A3VFkyODUzTDJYSUkyMlI1UFk4UEZIOC4u&route=shorturl
 # Mathematize
