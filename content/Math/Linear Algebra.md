@@ -13,11 +13,11 @@ aliases:
 # Term Test 2
 - [x] Matrix of a linear transformation
 - [x] Dimension
-- [ ] Rank-nullity
-- [ ] Kernel and image
-- [ ] Direct sums of subspaces
+- [x] Rank-nullity
+- [x] Kernel and image
+- [x] Direct sums of subspaces
 - [x] Matrix-vector products
-- [ ] Injective and surjective maps
+- [x] Injective and surjective maps
 # Declaring Absence/Regrade
 https://forms.office.com/pages/responsepage.aspx?id=JsKqeAMvTUuQN7RtVsVSEOqLCEyVYJ9Enr38oilz4yRUM1A3VFkyODUzTDJYSUkyMlI1UFk4UEZIOC4u&route=shorturl
 # Mathematize
