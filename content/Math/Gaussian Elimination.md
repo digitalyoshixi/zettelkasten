@@ -2,6 +2,8 @@
 tags:
   - linalg
   - math
+aliases:
+  - Gauss Jordan Elimination Algorithm
 ---
 A process to turn a [[Augmented Matrix]] into [[Echelon Form|REF]] to find solutions.
 https://www.youtube.com/watch?v=seet9VyHo3Q

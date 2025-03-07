@@ -4,7 +4,7 @@ tags:
   - linalg
 ---
 # Coming Up With Row Operations as Matrices
-1. Simply apply the row operation to identity matrix
+Simply apply the row operation to identity matrix.
 # Examples in $\mathbb{R}^{3}$
 ### $\lambda R_{2} \to R_{2}$
 $$
@@ -30,3 +30,5 @@ $$
 1 & 0 & 0\\
 \end{array}\right]
 $$
+# Related
+- [[Finding Inverse Matrices]]

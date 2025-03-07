@@ -74,3 +74,21 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 	- [[Zero Transformation]]
 - [[Matrix Transformation]]
 - [[Linear Map Inverse]]
+### Dimensions and basis
+- [[Subspace Dimension]]
+- [[Basis]]
+- [[The Dimension Bound Theorem]]
+- [[Rank Nullity Theorem|Dimension Theorem]]
+- [[Surjective Functions|Surjective]]
+- [[Injective Functions|Injective]]
+- [[Image and Surjectivity Theorem]]
+- [[Kernels and Injectivity Theorem]]
+- [[Dimension and Injectivity Theorem]]
+- [[Dimension and Surjectivity Theorem]]
+### Inverses
+- [[Injectivity Surjectivity and Inverses|Injective Surjective Invertable]]
+- [[Automorphism]]
+- [[Endomorphism]]
+- [[Isomorphism]]
+- [[Gauss Jordan Algorithm for Finding Inverses]]
+- 

@@ -2,6 +2,8 @@
 tags:
   - math
   - linalg
+aliases:
+  - Injective Surjective Invertable
 ---
 # Theorem
 A function $S : V \to W$ has an inverse $T : W \to V$ if and only if $S$ is [[Injective Functions|Injective]] and [[Surjective Functions|Surjective]]
