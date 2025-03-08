@@ -12,10 +12,10 @@ void delete_BST(BST_Node *root)
 {
   if (root!=NULL)
   {
-      delete_BST(root->left);
-      delete_BST(root->right);
+    delete_BST(root->left);
+    delete_BST(root->right);
     printf("deleting node with %f\n", root->key);
     free(root);
   }
-
+}
 ```
