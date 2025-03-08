@@ -3,6 +3,7 @@ tags:
   - math
   - linalg
 ---
+*Linear transformations between finite dimensional vector spaces behave exactly like matrices*
 1. If $M \in M_{n \times k}(\mathbb{R})$ then, $T_{M}$ is a linear transformation
 2. If $T : V\to W$ has matrix $M = [T]_{\alpha}^{\beta}$ then $T = T_{M}$
 3. If $M \in M_{n \times k}(\mathbb{R})$ then $M = [T_{m}]_{\alpha}^{\beta}$
