@@ -1,10 +1,10 @@
 ---
 tags:
-  - math
-  - linalg
+  - c
+  - programming
 ---
-1. Visit left subtree
-2. Print the node
+1. Print data of the node
+2. Visit left subtree
 3. Visit right subtree
 ```c
 void print_Order(Node *node){

@@ -9,7 +9,7 @@ The only real facts about our universe are the physical facts that come from the
 This means that things like:
 - [[Mathematics]]
 - [[God]]
-- [[Ghosts]]
+- [[Ghost]]
 Do not exist and are false.
 # Subdomains
 - [[Natural Facts]]
