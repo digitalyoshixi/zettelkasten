@@ -7,3 +7,4 @@ aliases:
 ---
 $$\models$$
 Means that A fact $P \models Q$ is true aswell
+The same as a [[Turnstile]]
