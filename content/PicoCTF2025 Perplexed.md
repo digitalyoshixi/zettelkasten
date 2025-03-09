@@ -18,3 +18,4 @@ So it runs the check function after user input, and depending on its result it p
 ![[PicoCTF2025 Perplexed-20250309171501960.webp]]
 First, the flag must have a length of 26 characters
 Lets use a dummy flag: `picoCTF{aaaaaaaaaaaaaaaaa}`
+we know that it is reading character by character
