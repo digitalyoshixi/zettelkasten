@@ -3,7 +3,7 @@ tags:
   - cpp
   - c
 ---
-The if-statement continues if the input is non-zero.
+The if-statement continues if the input is **non-zero.**
 # Single statement conditional
 ```cpp
 if (booleanvalue) //something one;
