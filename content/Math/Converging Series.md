@@ -13,6 +13,10 @@ $\exists l \in \mathbb{R}, \forall \epsilon > 0, \exists N > 0$ s.t $\forall n \
 ### Limit Definition
 $\{ a_{n} \}$ converges to $l \in \mathbb{R}$
 $\lim_{ n \to \infty }a_{n} = l$
+# Showing Convergence
+- [[Epsilon-Delta Proof]]
+- Convergent properties
+- [[Bounded Monotone Convergence Theorem|BMCT]]
 # Properties of Convergent Sets
 - Let $\{ a_{n} \}$, $\{ b_{n} \}$ be sequences
 - Let $a,b \in \mathbb{R}$
