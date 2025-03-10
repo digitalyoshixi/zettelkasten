@@ -2,8 +2,7 @@
 tags:
   - politics
 ---
-Giving people the choice to vote for their ruler.
-They choose the government.
-In a roundabout sense, when you vote you choose your laws.
+Leaving community decisions to the side that has more support. 
 # Imperfections
 - [[The Social Contract]]
+- Representation of the masses, fails in larger populations

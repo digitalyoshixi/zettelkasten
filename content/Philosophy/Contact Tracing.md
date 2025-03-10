@@ -16,4 +16,4 @@ It is the process of identifying and managing people who are exposed by a diseas
 2. End of the day, the local storage is saved onto a centralized server
 3. Past day's logs are deletes
 ##### Issues
-- Una
+- Unable to identify super spreaders
