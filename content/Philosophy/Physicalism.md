@@ -13,8 +13,14 @@ Can all be explained by the natural sciences
 # Contrast
 - [[Dualism]]
 - [[Dual Aspect Theory]]
-# Issues
+# Arguments For
+- [[Physicalism Causal Argument]]
+- [[Physicalism Post Success Argument]]
+# Arguments Against
 - [[The Hard Problem of Consciousness]]
+- [[Knowledge Argument for Qualia|Marys Room]]
+- [[Physicalism Concievable Argument]]
+- [[Physicalism Structural Argument]]
 # Subtheories
 - [[Behaviorism]]`
 - [[Identity Theory]]
