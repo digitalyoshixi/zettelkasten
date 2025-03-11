@@ -5,7 +5,7 @@ tags:
 - [[Hadean Era]] - 4.5 Ga
 - [[Archean Era]] - 4 Ga
 - [[Proterozoic Era]] - 2.5 Ga
-- [[Phanerozoic]] - 540 Ma
+- [[Phanerozoic Era]] - 540 Ma
 - [[Paleozoic Era]] - 540 Ma
-- [[Mezozoic]] - 252 Ma
+- [[Mezozoic Era]] - 252 Ma
 - [[Cenozoic Era]] - 66 Ma
