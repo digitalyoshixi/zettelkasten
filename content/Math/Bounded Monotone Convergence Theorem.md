@@ -25,15 +25,15 @@ Then, $\{ a_{n} \}$ [[Converging Series|Converges]]
 9. By the [[Completeness|Completeness Axiom]], the [[Supremum]] of the set $A$ exists
 10. Choose $l = sup(A)$
 11. Then, choose arbitrary $\epsilon > 0$
-12. Choose $N \in \mathbb{N}$ s.t $l - \epsilon <$
+12. Choose $N \in \mathbb{N}$ s.t $l - \epsilon < a_{N}$ by definition of supremum
 13. Suppose $n > N$
-14. Note that $a_{N} < a_{n}$ as $\{ a_{n} \}$ is strictly increasing
+14. Note that $l - \epsilon < a_{N} < a_{n}$ as $\{ a_{n} \}$ is strictly increasing
 15. Note by definition that since $l = sup(A), \forall a \in A, a < l$
 16. Note $a_{n} \in A$ by definition
-17. Then, $a_{n}  \leq l$
-18. $\implies a_{n} - l \leq 0$
-19. $|a_{n} - l| \leq 0$ by $| \cdot |$ props
-20. $|a_{n} - l | < \epsilon$ as $\epsilon > 0$
+17. Then, $a_{n}  \leq l < l + \epsilon$
+18. Then, by transitivity of $<$, it follows that $l-\epsilon < a_{n} < l+\epsilon$
+19. $\implies -\epsilon < a_{n} -l < \epsilon$
+20. $|a_{n} - l | < \epsilon$ by $| \cdot |$ defn
 21. Thus, we have shown convergence
 22. $\square$
 # Examples
