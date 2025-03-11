@@ -21,8 +21,6 @@ If [[Physicalism]] is true, then mary knows everything about color experiences. 
 ##### New Knowledge Old Fact Response
 Mary does learn something new, but she doesn't learn a new fact, she learns an old fact under a new guise.
 Often endorsed by those who believe in [[Identity Theory]] and [[A Posteriori Physicalism]].
-##### Knowing-What-Its-Like is Non-Factual Knowledge
-Experience is not factual knowledge
 ##### [[Leibniz' Law Fallacy]] Response
 Mary's understanding of red and not red follows the same structure of a leibniz' law fallacy.
 **The argument below is a fallacy:**
@@ -33,4 +31,5 @@ P2: Mary does not know what its like to see red
 C: Therefore, she does not know red
 ```
 ##### Learning Non-Factual Knowledge
+Experience is not factual knowledge.
 When Mary sees the new color, she does not learn a [[Fact]] but rather an ability!

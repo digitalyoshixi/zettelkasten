@@ -6,6 +6,7 @@ A [[School of Thought]] in the [[Philosophy of Mind]] that attempts to solve the
 # Implications
 - Implies that whatever my behavior is, is not caused by [[Consciousness]]
 # Arguments For
+- [[Modality Argument for Qualia]]
 - [[Knowledge Argument for Qualia|Marys Room]]
 - [[What Is It Like To Be a Bat]]
 - [[Bogey of Epiphenomenalism]]

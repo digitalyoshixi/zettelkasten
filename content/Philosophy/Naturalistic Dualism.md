@@ -3,7 +3,7 @@ tags:
   - philosophy
 ---
 A specific branch of [[Dualism]].
-We believ
+[[Consciousness]] might be a base fact of our world, similar to how [[Electromagnetism]] is fundamental to our world.
 # Beliefs
 - [[Non-Naturalist|Supernatural]] things do not exist
 - Dualism is systematic and can work our current understanding of [[Physics]]

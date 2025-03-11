@@ -5,4 +5,5 @@ tags:
 aliases:
   - Self Shape Matrix
 ---
-An invertible function $T : V \to W$ is a automorphism.
+An transformation $T : V \to W$ is a automorphism if:
+- $T$ is invertible

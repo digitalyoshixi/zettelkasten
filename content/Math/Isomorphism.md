@@ -6,7 +6,8 @@ aliases:
   - Same Shape Matrix
   - Isomorphic
 ---
-An invertible function $T : V \to W$ is an isomorphism.
+A function $T : V \to W$ is an isomorphism if:
+- [[Injec]]
 # Isomorphism
 If $V,W$ are isomorphic, then there exists an isomorphism $T :V \to W$
 # Formal Definition

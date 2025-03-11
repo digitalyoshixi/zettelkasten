@@ -2,4 +2,4 @@
 tags:
   - geography
 ---
-Pearl-colored stones that 
+Veins of quartz formed at [[Greenstone Belts]]
