@@ -3,7 +3,7 @@ tags:
   - economy
 ---
 # Law
-- [[Constitution]]
+- [[Economics/Constitution]]
 	- [[Charter of Rights]]
 	- [[Euthanasia]]
 - [[Investment Canada Act]]

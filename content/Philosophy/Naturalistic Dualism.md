@@ -2,7 +2,8 @@
 tags:
   - philosophy
 ---
-A specific branch of 
+A specific branch of [[Dualism]].
+We believ
 # Beliefs
 - [[Non-Naturalist|Supernatural]] things do not exist
 - Dualism is systematic and can work our current understanding of [[Physics]]

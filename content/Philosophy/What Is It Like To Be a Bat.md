@@ -2,6 +2,8 @@
 tags:
   - philosophy
   - books
+aliases:
+  - Modal Argument for Qualia
 ---
 An article on [[Epistemology]] written by [[Thomas Nagel]].
 # Central Ideas

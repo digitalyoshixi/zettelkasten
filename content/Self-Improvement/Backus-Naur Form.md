@@ -7,8 +7,8 @@ aliases:
 A notation used to describe the syntax of programming languages.
 It provides a structure to define how symbols can be combined to form valid strings in a langauge. Developed for [[FORTRAN]]
 # Concepts
-- [[Terminals]]
-- [[Non-terminals]]
+- [[Terminal]]
+- [[Non-terminal]]
 - [[Productions]]
 # BNF Rules
 - Terminals are simply written out. `while`

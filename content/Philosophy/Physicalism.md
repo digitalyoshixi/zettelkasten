@@ -18,8 +18,8 @@ Can all be explained by the natural sciences
 - [[Physicalism Post Success Argument]]
 # Arguments Against
 - [[The Hard Problem of Consciousness]]
-- [[Knowledge Argument for Qualia|Marys Room]]
-- [[Physicalism Concievable Argument]]
+- [[Knowledge Argument for Qualia]]
+- [[Physicalism Conceivable Argument]]
 - [[Physicalism Structural Argument]]
 # Subtheories
 - [[Behaviorism]]`
