@@ -2,6 +2,8 @@
 tags:
   - math
   - calculus
+aliases:
+  - Epsilon Delta Limit Definition
 ---
 # Formalized Definition
 The limit $\lim_{ x \to c} = L$ (where there is an implicit assumption that $\exists L \in R$)

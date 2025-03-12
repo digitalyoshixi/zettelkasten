@@ -6,6 +6,7 @@ tags:
 # $\lim_{x\to a}f(x) = L$
 Its a notation to signify the y value that you get when you x approaches a value.
 The value of f(x) can be made arbitrarily close to L by choosing x sufficiently close to a but not equal to A
+See [[Limits Formalized Definition]]
 # Why Limits?
 ### Limits Can Exist At Discontinuities
 ![[Pasted image 20240205142812.png|344]]
