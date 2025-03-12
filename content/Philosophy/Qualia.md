@@ -1,6 +1,8 @@
 ---
 tags:
   - philosophy
+aliases:
+  - Qualitative Character of Experience
 ---
 The subjective conscious experiences of our [[Mental State|Mental States]].
 - The redness of red has different qualia of the taste of wine
