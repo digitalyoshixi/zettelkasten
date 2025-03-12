@@ -37,7 +37,7 @@ Therefore, the integral converges to $\frac{1}{12}$
 ### Example 3 for Type 1 and Type 2
 1. $\int_{-1}^{1}x^{-2}dx$
 2. $= \int_{1}^{0}x^{-2}dx + \int_{0}^{1}x^{-2}dx$
-3. $= \lim_{ A \to 0^{-}}\int_{-1}^{A}x^{-2}dx + \lim_{ B \to \infty }\int_{B}^{1}x^{-2}dx$
+3. $= \lim_{ A \to 0^{-}}\int_{-1}^{A}x^{-2}dx + \lim_{ B \to 0^{+}  }\int_{B}^{1}x^{-2}dx$
 4. Note that the second part with $B$ diverges, and that the first part converges, then the entire integral diverges
 ### Example 3 that requires [[Comparison Theorem]]
 1. $\int_{1}^{\infty}\frac{\cos^{5}(3x^{2}+1)+1}{(x^{2}+x^{7}+1)^{2}}dx$

@@ -16,6 +16,7 @@ $\lim_{ n \to \infty }a_{n} = l$
 # Showing Convergence
 - [[Epsilon-Delta Proof]]
 - Convergent properties
+- [[Comparison Theorem]]
 - [[Bounded Monotone Convergence Theorem|BMCT]]
 # Properties of Convergent Sets
 - Let $\{ a_{n} \}$, $\{ b_{n} \}$ be sequences

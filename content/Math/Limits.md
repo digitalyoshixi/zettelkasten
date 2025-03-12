@@ -41,7 +41,7 @@ They do not exist if:
 - [[Limit Substitution]]
 - [[Limit Division]]
 - [[Limits with Euler's Number]]
-  [[Squeeze Theorem]]
+- [[Squeeze Theorem]]
 - [[L'Hopital's Rule]]
 ### Graphic Proof
 - The limit is that point it naturally approaches. Follow the curve, not the jump
@@ -85,6 +85,5 @@ $$\lim_{ x \to a }f(x) \ \ \ \ DNE $$
 OR 
 $L = \pm\infty \ \ OR \ \ f(x) = \pm\infty$
 # Additional Concepts
-- [[Limits Formalized Proof]]
 - [[Limits Does Not Exist]]
 - [[Order Limit Law]]
