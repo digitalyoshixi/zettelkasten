@@ -15,3 +15,5 @@ An [[C Arrays|Array]] that contains pointers to node [[Neighbourhood|Neighbourho
 	- Worst case: $O(n)$
 - Adding node
 	- Worst case: $O(n)$
+- Deleting a node
+	- Worst case $O(n^{2})$

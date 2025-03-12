@@ -22,3 +22,5 @@ It is also more space expensive.
 	- Worst case: $O(1)$
 - Adding a node
 	- Worst case: $O(n^{2})$
+- Deleting a node
+	- Worst case: $O(n)$

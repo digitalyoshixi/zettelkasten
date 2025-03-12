@@ -3,10 +3,8 @@ tags:
   - programming
 ---
 Method of problem solving and analysis.
-
 - **Divide** problem down into **smaller parts**
 - Hierarchy of tasks ![[Top Down Analysis-20240129225658931.webp]]
-
 # Process
 1. Input - What data did we get?
 2. Process - What to do with the input data?
