@@ -7,7 +7,8 @@ aliases:
   - Isomorphic
 ---
 A function $T : V \to W$ is an isomorphism if:
-- [[Injec]]
+- [[Injective Functions|Injective]]
+- [[Surjective Functions|Surjective]]
 # Isomorphism
 If $V,W$ are isomorphic, then there exists an isomorphism $T :V \to W$
 # Formal Definition
