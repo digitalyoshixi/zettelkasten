@@ -97,3 +97,4 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - [[Multilinear]]
 - [[Determinant]]
 - [[Diagonal Matrices]]
+- [[Minors]]

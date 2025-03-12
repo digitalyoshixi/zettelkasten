@@ -14,4 +14,10 @@ Suppose $M'$ is obtained from $M$ by row operation
 ### Proving Scalability
 $\det(M') = \det(R_{1},\dots, \lambda R_{i},\dots,R_{n})$ by multilinearity
 $= \lambda \det(R_{1},\dots,R_{i},\dots,R_{n})$
-####
+### Proving Exchangability
+$\det(M') = \det(R_{1},\dots, R_{j},\dots, R_{i},\dots,R_{n})$
+$= -\det(R_{1},\dots,R_{i},\dots,R_{j},\dots R_{n})$ by [[Alternating]]
+### Proving Additivity
+$\det(M') = \det(R_{1},\dots, R_{j} + \lambda R_{i},\dots,R_{n})$
+$= \det(R_{1},\dots, R_{j},\dots,R_{n}) + \lambda \det(R_{1},..,R_{i},\dots,R_{n})$
+$=\det(M)$

@@ -15,5 +15,8 @@ The determinant is the alternating multilinear function that sends the identity 
 # Theorems
 - [[Determinants and Invertiblity Theorem]]
 - [[Determinants and Row Operations]]
+- [[Recursive Formula for Determinant]]
 # Concepts
 - [[Diagonal Matrices]]
+- [[Determinant of 1x1 Matrix]]
+- [[Determinant of 2x2 Matrix]]
