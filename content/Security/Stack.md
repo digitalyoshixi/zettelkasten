@@ -4,6 +4,9 @@ tags:
   - os
 ---
 *The stack grows up negatively*
+The stack has a size is:
+- 1MB on [[Windows]]
+- 4MB on [[Linux]]
 https://www.youtube.com/watch?v=CRTR5ljBjPM
 Organized memory where program data resides. Stores:
 - Local variables of the active function
