@@ -22,3 +22,5 @@ aliases:
 - [[Faith]]
 - [[Mind]]
 - [[Simulation]]
+- [[Consciousness]]
+- [[The Hard Problem of Consciousness]]
