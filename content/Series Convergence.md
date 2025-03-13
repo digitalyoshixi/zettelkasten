@@ -7,6 +7,20 @@ tags:
 A series $\sum a_{n}$ converges if:
 - $\{ S_{n} \}$ converges
 - Or, $\exists s \in \mathbb{R}, \lim_{ n \to \infty }S_{n} = s$
+# Properties
+### Additive Property
+1. If $\sum a_{n}$ converges to $c$
+2. If $\sum b_{n}$ converges to $s$
+3. Then. $\sum(a_{n} + b_{n})$ converges to $c + s$
+### Constant Multiple Property
+1. If $\sum a_{n}$ converges to $c$
+2. Then, $\sum k a_{n}$ converges to $kc$
+### Vanishing Condition
+1. If $\sum a_{n}$ converges to $c$
+2. Then, as we approach the infinite-th term of the set, $\lim_{ n \to \infty }a_{n} = 0$
+[[Proof of Series Vanishing Condition]]
+##### Intuition
+- In order to have a sum that is a constant, all the elements of the set must be infinitesimally small
 # Example
 ### Example 1
 Does $\sum_{n=1}^{\infty} \ln\left( \frac{n+1}{n} \right)$ converge or diverge?
