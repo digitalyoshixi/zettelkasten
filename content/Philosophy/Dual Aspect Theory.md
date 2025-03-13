@@ -21,6 +21,9 @@ The brain is the host for:
 Biting into a chocolate bar produces:
 - Chemical and electrical changes in your brain
 - Mental experience of the chocolate flavor
+# Branches
+- [[Panpsychism]]
+- [[Neutral Monism]]
 # Contrast
 - [[Physicalism]]
 - [[Dualism]]

@@ -2,6 +2,7 @@
 tags:
   - arguing
   - philosophy
+  - metaphysics
 ---
 If $A$ causes $B$, then:
 - $A$ occurs before $B$ 
