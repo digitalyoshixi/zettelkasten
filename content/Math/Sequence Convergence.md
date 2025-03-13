@@ -2,8 +2,7 @@
 tags:
   - math
   - calculus
-aliases:
-  - Converge
+aliases: []
 ---
 When a infinite set appears to reach a finite value.
 # Definition
@@ -31,7 +30,7 @@ $\{ a_{n} + b_{n}\}$ converges to $a+b$
 $\forall c \in \mathbb{R}, \{ ca_{n} \}$ converges to $ca$
 ### Multiplicative Property
 $\{ a_{n}b_{n} \}$ converges to $ab$
-[[Converging Series Multiplicative Property Proof]]
+[[Converging Sequence Multiplicative Property Proof]]
 ### Quotient Property
 $\left\{  \frac{a_{n}}{b_{n}}  \right\}$ converges to $\frac{a}{b}$ provided $b \neq 0, b_{n} \neq 0$
 ### Composite Property
@@ -42,6 +41,6 @@ $\{ f(a_{1}),f(a_{2}),\dots \}$ converges to $f(L)$
 If $\lim_{ n \to \infty }|a_{n}| = 0$
 Then, $\implies \lim_{ n \to \infty }a_{n} = 0$
 # Additional Theorems
-- [[Converging Series' Unique Limits]]
+- [[Converging Sequence' Unique Limits]]
 - [[Monotonic Sequence]]
 - [[Bounded Monotone Convergence Theorem]]

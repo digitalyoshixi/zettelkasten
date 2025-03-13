@@ -11,7 +11,7 @@ aliases:
 3. In particular, it is either:
 	1. [[Strictly Increasing]] and [[Bounded Above]]
 	2. [[Strictly Decreasing]] and [[Bounded Below]]
-Then, $\{ a_{n} \}$ [[Converging Series|Converges]]
+Then, $\{ a_{n} \}$ [[Sequence Convergence|Converges]]
 # Proof
 ### Proving Strictly Increasing and Bounded Above Case
 1. Suppose $\{ a_{n} \}$ is [[Bounded Above]]

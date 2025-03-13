@@ -6,8 +6,8 @@ An integral that is not evaluatable by normal means.
 - Not bounded on $[a,b]$ (Type 1)
 - If it is bounded, but it has a  [[Asymptote|VA]] (Type 2)
 Refer to the solving process for how to solve. Improper integrals can either:
-- [[Converging Series|Converge]] to a finite value
-- [[Divergent Series|Diverge]] to have infinite area
+- [[Sequence Convergence|Converge]] to a finite value
+- [[Sequence Divergence|Diverge]] to have infinite area
 # Checking if Improper Integral
 ### Example 1
 $\int_{1}^{\infty}\tan^{-1}(x)dx$

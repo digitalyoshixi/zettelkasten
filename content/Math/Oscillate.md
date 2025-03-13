@@ -4,6 +4,6 @@ tags:
   - calculus
 ---
 A sequence will oscillate if:
-- It does not [[Converging Series|Converge]]
+- It does not [[Sequence Convergence|Converge]]
 - It does not approach $\infty$
 - It does not approach $-\infty$

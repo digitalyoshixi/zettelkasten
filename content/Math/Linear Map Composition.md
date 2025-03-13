@@ -5,7 +5,7 @@ tags:
 ---
 # Definition
 1. Given two functions $T : U \to V$ and $S : V - > W$
-2. Their composition $ST : U \to W$ is given by $ST(x) = S(T(x)) = S \odot T$
+2. Their composition $ST : U \to W$ is given by $ST(x) = S(T(x)) = S \circ T$
 # Properties
 ### Associative
 If we have 3 linear maps:

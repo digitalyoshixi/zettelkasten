@@ -11,4 +11,4 @@ $\forall M > 0, \exists N > 0$ s.t $\forall n \in \mathbb{N}, n > N \implies a_{
 $\forall M < 0, \exists N > 0$ s.t $\forall n \in \mathbb{N}, n > N \implies a_{n} < M$
 # Showing Divergence
 - Prove $M-N$ epsilon definition for $\infty$
-- Proof divergence by proof of contradiction of [[Converging Series]]
+- Proof divergence by proof of contradiction of [[Sequence Convergence]]

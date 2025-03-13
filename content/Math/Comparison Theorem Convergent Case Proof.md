@@ -10,8 +10,8 @@ tags:
 - Then, $\int_{a}^{b}f(x)dx$ is cont
 # Proof
 1. Suppose $\forall x \in [a,\infty] ,0 \leq f(x) \leq g(x)$
-2. Suppose $\int_{a}^{\infty}f(x)dx$ [[Converging Series|Converges]]
-3. We want to show $\int_{a}^{\infty}f(x)dx$ [[Converging Series|Converges]]
+2. Suppose $\int_{a}^{\infty}f(x)dx$ [[Sequence Convergence|Converges]]
+3. We want to show $\int_{a}^{\infty}f(x)dx$ [[Sequence Convergence|Converges]]
 4. Let $A \in [a,\infty)$ be arbitrary
 5. $\implies \forall x \in [a,A] \subset [a,\infty), 0 \leq f(x) \leq g(x)$
 6. $\implies \int_{a}^{A}0dx \leq \int_{a}^{A}f(x)dx \leq \int_{a}^{A}g(x)dx$ as integrals preserve inequalities
