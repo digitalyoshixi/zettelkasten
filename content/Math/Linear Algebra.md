@@ -96,3 +96,4 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 ### Change of Basis
 - [[Change of Basis]]
 - [[Changing Coordinates and Linear Maps]]
+- [[Changing Coordinates of Endomorphic Maps]]
