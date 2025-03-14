@@ -4,7 +4,7 @@ tags:
   - binary_exploitation
 ---
 Security measure to prevent [[Buffer Overflow]] attacks.
-
+![[Stack Canary-20250314030555224.webp]]
 They are random values placed right before the return address on the stack that is checked before every return call to check for tampering.
 # Bypassing Stack Canaries
 1. Leak the stack canary with another method
