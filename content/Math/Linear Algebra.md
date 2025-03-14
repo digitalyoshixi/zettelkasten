@@ -10,14 +10,6 @@ aliases:
 - Can drop one homework
 - Can drop one quiz
 - https://www.mathmatize.com/c/1451/
-# Term Test 2
-- [x] Matrix of a linear transformation
-- [x] Dimension
-- [x] Rank-nullity
-- [x] Kernel and image
-- [x] Direct sums of subspaces
-- [x] Matrix-vector products
-- [x] Injective and surjective maps
 # Declaring Absence/Regrade
 https://forms.office.com/pages/responsepage.aspx?id=JsKqeAMvTUuQN7RtVsVSEOqLCEyVYJ9Enr38oilz4yRUM1A3VFkyODUzTDJYSUkyMlI1UFk4UEZIOC4u&route=shorturl
 # Mathematize
@@ -26,6 +18,8 @@ https://www.mathmatize.com/c/1451/
 https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - IA 3100
 # Concepts
+### Fields
+- [[Fields]]
 - [[Algebra]]
 - [[Binary Operations]]
 - [[Additive Identity]]
@@ -74,7 +68,8 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 	- [[Zero Transformation]]
 - [[Matrix Transformation]]
 - [[Linear Map Inverse]]
-### Dimensions and basis
+- [[Fundamental Theorem of Matrices]]
+### Dimensions and Basis
 - [[Subspace Dimension]]
 - [[Basis]]
 - [[The Dimension Bound Theorem]]
@@ -98,3 +93,6 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - [[Determinant]]
 - [[Diagonal Matrices]]
 - [[Minors]]
+### Change of Basis
+- [[Change of Basis]]
+- [[Changing Coordinates and Linear Maps]]

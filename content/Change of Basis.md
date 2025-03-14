@@ -2,8 +2,19 @@
 tags:
   - math
   - linalg
+aliases:
+  - Matrix Between Two Bases
 ---
-# Example
+# Theorem
+- With $V$ as a finite dimensional vector space
+- With $\alpha, \beta$ being finite dimensional basis of $V$
+- 
+$$[I]_{\alpha}^{\beta} [v]_{\alpha} = [v]_{\beta}$$
+Where $[I]_{\alpha}^{\beta}$ is the change of basis matrix
+# Computing $[I]_{\alpha}^{\beta}$ Process
+1. Input the basis vectors of $\alpha$
+2. Write all outputs in basis $\beta$
+### Example
 Consider bases $\alpha = \{ (0,1), (1,0) \}$
 and $\beta = \{ (1,1), (1,-1) \}$
 Write matrix $[T]_{\alpha}^{\beta}$ of the identity transformation $I : \mathbb{R}^{2} \to \mathbb{R}^{2}$ .
