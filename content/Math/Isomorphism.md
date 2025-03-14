@@ -18,6 +18,7 @@ $T$ is [[Injective Functions|Injective]] and $T$ is [[Surjective Functions|Surje
 A function $T :\mathbb{R}^{2} \to \mathbb{R}^2$ is isomorphic if it sends the unit square to a paralellogram with non-zero signed area.
 $[0,1] \times [0, 1] = \{ ae_{1} +be_{2} : a, b \in[0,1] \}$
 ![[Isomorphism-20250314211141205.webp]]
+So, if you calculate a non-zero [[Determinant]], the function is isomorphic.
 # Proving Isomorphism
 ### Example
 Prove $M_{2 \times 2}(\mathbb{R}) \to \mathbb{R}^{4}$ is isomorphic
