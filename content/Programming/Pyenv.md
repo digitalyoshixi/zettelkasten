@@ -11,6 +11,10 @@ A adoption of [[Docker]] to set local environments to use different python versi
 ```
 pyenv install 3.10.4
 ```
+### Listing Versions
+```
+pyenv versions
+```
 ### Using Different Python Version
 for global shell:
 ```
