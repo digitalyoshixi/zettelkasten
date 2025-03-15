@@ -98,4 +98,5 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - [[Changing Coordinates and Linear Maps]]
 - [[Changing Coordinates of Endomorphic Maps]]
 - [[Matrix With Base Inverse]]
-- [[Eigenvalue]]
+- [[Eigenvector]]
+- [[N-Fold Composition]]
