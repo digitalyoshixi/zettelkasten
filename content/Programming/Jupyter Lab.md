@@ -9,3 +9,4 @@ Its the datascience notebook
 [https://jupyter.org/install](https://jupyter.org/install)
 1. `pip instlal jupyterlab`
 2. `jupyter lab` will open a web-console at `http://localhost:8888/lab`
+3. `pip install jupyterlab-vim`
