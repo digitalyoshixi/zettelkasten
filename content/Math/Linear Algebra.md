@@ -93,10 +93,11 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - [[Determinant]]
 - [[Diagonal Matrices]]
 - [[Minors]]
-### Change of Basis
+### Change of Basis & Eigenvectors
 - [[Change of Basis]]
 - [[Changing Coordinates and Linear Maps]]
 - [[Changing Coordinates of Endomorphic Maps]]
 - [[Matrix With Base Inverse]]
 - [[Eigenvector]]
 - [[N-Fold Composition]]
+- [[Eigenvalues are Vectors in Kernels]]
