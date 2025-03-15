@@ -4,5 +4,5 @@ tags:
   - data_science
 ---
 ```python
-plt.pie(x, y)
+plt.pie(x, labels=labels)
 ```
