@@ -4,7 +4,7 @@ tags:
   - data_science
 ---
 # Series
-### ,iloc()
+### .iloc()
 - How you locate a index of the series
 ```
 ceres.iloc([index])
