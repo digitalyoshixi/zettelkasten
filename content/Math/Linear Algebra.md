@@ -82,6 +82,7 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - [[Dimension and Surjectivity Theorem]]
 - [[Image and Spans Theorem]]
 ### Inverses
+- [[Linear Map Inverse]]
 - [[Injectivity Surjectivity and Inverses|Injective Surjective Invertable]]
 - [[Automorphism]]
 - [[Endomorphism]]
