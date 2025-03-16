@@ -18,8 +18,8 @@ The determinant is the alternating [[Multilinear]] function that sends the ident
 ### Normalization Property
 $\det(I) = 1$
 Where $I$ is the [[Identity Transformation]]
-### Sign Changing Property
-
+### Product Property
+$\det(AB) = \det(A)\det(B)$
 # Theorems
 - [[Determinants and Invertiblity Theorem]]
 - [[Determinants and Row Operations]]

@@ -10,6 +10,7 @@ Great for:
 - [[Pod]]
 - [[Dockerfile]]
 - [[Docker Node]]
+- [[Docker Compose]]
 # Installation
 1. `sudo pacman -S docker`
 2. `sudo systemctl enable docker.service & sudo systemctl start docker.service` 
