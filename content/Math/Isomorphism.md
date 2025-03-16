@@ -6,12 +6,14 @@ aliases:
   - Same Shape Matrix
   - Isomorphic
 ---
-A function $T : V \to W$ is an isomorphism if:
+An isomorphism is a [[Linear Transform|Linear Map]] $T : V \to W$ that is:
 - [[Injective Functions|Injective]]
 - [[Surjective Functions|Surjective]]
-# Isomorphism
+or:
+- Has an [[Linear Map Inverse|Inverse Function]]
+# Isomorphic Definition
 If $V,W$ are isomorphic, then there exists an isomorphism $T :V \to W$
-### Formal Definition
+### Isomorphism Formal Definition
 A linear transformation $T : V\to W$ is an isomorphism $\Longleftrightarrow$
 $T$ is [[Injective Functions|Injective]] and $T$ is [[Surjective Functions|Surjective]].
 ### Formal Definition for $T : \mathbb{R}^{2} \to \mathbb{R}^{2}$
