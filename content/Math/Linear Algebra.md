@@ -94,6 +94,7 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - [[Determinant]]
 - [[Diagonal Matrices]]
 - [[Minors]]
+- [[Cofactor]]
 ### Change of Basis & Eigenvectors
 - [[Change of Basis]]
 - [[Changing Coordinates and Linear Maps]]
