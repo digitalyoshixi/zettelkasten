@@ -2,6 +2,10 @@
 tags:
   - math
   - linalg
+aliases:
+  - Inverse Matrix
+  - Linear Transform Inverse
+  - Inverse Function
 ---
 # Definition
 - Suppose that $S : V \to W$ is a function

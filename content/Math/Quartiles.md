@@ -26,14 +26,3 @@ Say we have our quartiles laid out.
 ![[Quartiles-20231122171042605.webp|558]]
 and point within those ranges, you would classify them like quartile one.
 For example, if quartile one spanned from 0-16 and you had a point 15, that point you say, would be in quartile one.
-
-^ grade 6 level shit
-
-
-
-
-
-
-
-
-

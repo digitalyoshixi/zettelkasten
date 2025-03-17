@@ -2,7 +2,11 @@
 tags:
   - math
   - linalg
+aliases:
+  - Matrix Vector Product
 ---
+$$[T]_{\alpha}^{\beta}[v]_{\alpha} = [T(v)]_{\alpha}$$
+# Proof
 $$[T]_{\alpha}^{\beta}[v]_{\alpha} = 
 
 \left[\begin{array}{ccc}

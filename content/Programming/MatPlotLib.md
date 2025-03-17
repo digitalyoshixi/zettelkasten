@@ -17,7 +17,7 @@ y = range(100)
 plt.plot(x,y)
 plot.show()
 ```
-
 # Concepts
 - [[Matplotlib Bar Chart]]
 - [[Matplotlib Horizontal Bar Chart]]
+- [[Matplotlib Pie Chart]]
