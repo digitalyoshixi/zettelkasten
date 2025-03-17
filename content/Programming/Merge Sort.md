@@ -9,3 +9,5 @@ Is $O(n\log_{2}(n))$ time
 ![[Merge Sort-20250317164509910.webp]]
 1. Split up the list into sub-arrays of 1
 2. Check which sub-list is smaller than the other, and merge in proper order
+# Pseudocode
+![[Merge Sort-20250317204934325.webp]]
