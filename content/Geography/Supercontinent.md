@@ -9,5 +9,8 @@ A land mass that is the cluster of all continents. Paired with [[Superocean]]
 This supercontinent had drifted by [[Continental Drift]]
 # Concepts
 - [[Wilson Cycle]]
+# List of Supercontinents
 - [[Laurasia]]
 - [[Gondwana]]
+- [[Arctica]]
+- [[Rodina]]

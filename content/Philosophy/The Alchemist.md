@@ -12,4 +12,6 @@ A story about a sheppard boy discovering his [[Destiny|Personal Legend]]
 - [[Dream]]
 - [[Urim and Thummim]]
 # Characters
+- [[Santiago]]
+- [[King of Salem]]
 - [[Crystal Seller]]
