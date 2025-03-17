@@ -7,3 +7,4 @@ tags:
 A story about a sheppard boy discovering his [[Personal Legend]]
 # Themes
 - [[Destiny]]
+- [[Promise]]
