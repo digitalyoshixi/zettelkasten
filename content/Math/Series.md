@@ -8,3 +8,5 @@ where $a_{n}$ is the general term of  for each $n \in \mathbb{N}$
 # Concepts
 - [[Series Formal Sum]]
 - [[Series Partial Sum]]
+- [[Series Convergence]]
+- [[Series Divergence]]
