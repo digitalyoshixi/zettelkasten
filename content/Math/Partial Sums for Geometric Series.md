@@ -7,3 +7,5 @@ tags:
 $S_{n} = \frac{a}{1-r}(1-r^{n+1})$
 # For $r = 1$
 $S_{n} = (n+1)(a)$
+# For $n\to \infty$
+$S_{\infty} = \frac{a}{1-r}$

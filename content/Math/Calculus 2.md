@@ -31,6 +31,7 @@ aliases:
 	- [[Series Divergence]]
 	- [[Geometric Series]]
 	- [[Partial Sums for Geometric Series]]
+- [[Integral Test]]
 # Office Hours
 ![[Calculus 2-20250211035011054.webp]]
 # Evans's Notes
