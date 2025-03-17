@@ -5,8 +5,8 @@ tags:
 ---
 strcpy is prone to buffer overflows. Use [[strncpy()]] instead
 
-`strcpy(putstr, recvstr)`
-copy the recvstr values as the putstr value 
+`strcpy(dest, src)`
+copy the src values into the dest address
 ```c 
 #include <string.h>
 

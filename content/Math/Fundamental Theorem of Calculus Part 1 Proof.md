@@ -10,7 +10,7 @@ tags:
 4. Suppose $F$ is any anti-derivative on $[a,b]$
 	1. Then, $\forall x \in [a,b], F'(x) = f(x)$ by defn of [[Antiderivative]]
 	2. Since $F'(x) = f(x)$, $F(x)$ is [[Differentiability|Differentiable]] on $[a,b]$
-	3. Thus. $F(x)$ is continuous on $[a,b]$ as [[Differentiable Implies Continuity Proof|Differentiability Implies Continuous]]
+	3. Thus. $F(x)$ is continuous on $[a,b]$ as [[Differentiable Implies Continuity|Differentiability Implies Continuous]]
 	4. It follows that $F(x)$ is also diffferentiable on $(a,b)$
 	5. By [[Mean Value Theorem|MVT]], $\exists c \in (x_{i-1},x_{i})$ s.t $f'(c_{i}) = \frac{f(x_{i})-f(x_{i-1})}{x_{i}-x_{i-1}}$
 	6. $\implies f'(c_{i}) = f(x_{i})-f(x_{i-1}) (\triangle x)$ by defn of $\triangle x$

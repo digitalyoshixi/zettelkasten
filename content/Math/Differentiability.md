@@ -25,4 +25,4 @@ It is differentiable on an interval $I$ if it is:
 # Proving Non-Differentiable
 Prove that the one-sided derivatives are different.
 # Differentiability $\implies$ [[Continuity]]
-- [[Differentiable Implies Continuity Proof]]
+- [[Differentiable Implies Continuity]]

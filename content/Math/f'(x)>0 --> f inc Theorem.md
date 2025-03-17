@@ -11,7 +11,7 @@ Let $f$ be a diff function on an open interval $I$.
 # Proof (1)
 1. Assume $f'(x) > 0$
 2. Then $f(x)$ is diff on $I$
-3. Then $f(x)$ is cont on $I$ as [[Differentiable Implies Continuity Proof]]
+3. Then $f(x)$ is cont on $I$ as [[Differentiable Implies Continuity]]
 4. Let $x_{1},x_{2} \in I$ be arbitrary
 5. Assume $x_{1} < x_{2}$
 6. Note that $f$ is cont on $[x_{1},x_{2}]$

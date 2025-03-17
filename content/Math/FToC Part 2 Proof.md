@@ -7,7 +7,7 @@ tags:
 1. Suppose $f$ is cont on $[a,b]$
 2. Suppose $\forall x \in [a,b], F(x)= \int_{a}^{x}f(t)dt$ 
 3. We WTS: $F$ is [[Continuity|Continuous]] on $[a,b]$ and $F$ diff on $[a,b]$ and $\forall x \in [a,b], F'(x)=f(x)$
-4. Note that it is sufficient to show $F'(x) = f(x)$ as all the other claims follow as [[Differentiable Implies Continuity Proof]], [[Derivative]] definition
+4. Note that it is sufficient to show $F'(x) = f(x)$ as all the other claims follow as [[Differentiable Implies Continuity]], [[Derivative]] definition
 5. Consider $F'(x)=\lim_{h\to 0} \frac{F(x+h) - F(x)}{h}$ by [[Difference Quotient|First Principles]]
 6. $= \lim_{h\to 0}\frac{\int_{a}^{x+h}f(t)dt - \int_{a}^{x}f(t)dt}{h}$ 
 7. $= \lim_{h\to 0}\frac{\int_{a}^{x+h}f(t)dt - \int_{a}^{x}f(t)dt}{h}$ 
