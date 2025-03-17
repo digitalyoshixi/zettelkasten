@@ -23,6 +23,7 @@ Then run `i?` for help
 ### Recon
 - `izz ~..` view strings piped into less
 - `afl` - view all functions
+- `pxr @ rsp` - print the stack from RSP -> RBP
 ### Debugger
 - `db main` - put break at main
 - `db` - view all breakpoints
