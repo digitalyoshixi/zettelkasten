@@ -21,4 +21,7 @@ It is what it feels like to be an entity.
 ### Structural Properties of Consciousness
 Involves the parameters of consciousness. Similar to the properties of light.
 - [[Dimension]]
-Subjectivity is a dimension of phenomenal character.
+![[Drawing 2025-03-18 11.33.41.excalidraw]]
+Subjectivity is a dimension of phenomenal character. Think about it as the columns for the phenomenal character matrix, they only partition into categories of experience.
+- If we believe that light has intensity, then we can say that consciousness is [[Consciousness Multidimensional|Multidimensional]]
+- If we believe that light has hue, then we can say that consciousness is [[Consciousness Degrees|Degreed]]
