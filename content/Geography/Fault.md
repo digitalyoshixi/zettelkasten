@@ -10,3 +10,4 @@ A crack in the earth where energy can be released
 # Traits
 - [[Fault Scarp]]
 - [[Fault Creep]]
+- [[Fault Gouge]]

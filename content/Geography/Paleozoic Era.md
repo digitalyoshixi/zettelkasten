@@ -18,3 +18,8 @@ Many shallow seas were created and left behind fossils in sedimentary rocks
 - [[Crinoids]]
 - [[Rugose Corals]]
 - [[Tabulate Corals]]
+- [[Stromatolites]]
+- [[Cephalapods]]
+- [[Bryozoans]]
+- [[Trace Fossils]]
+- [[Tentaculites]]
