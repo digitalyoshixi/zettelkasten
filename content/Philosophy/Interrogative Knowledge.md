@@ -2,6 +2,7 @@
 tags:
   - philosophy
 aliases:
+  - Ability Knowledge
 ---
 Knowledge of ability.
 They usually start with question words:

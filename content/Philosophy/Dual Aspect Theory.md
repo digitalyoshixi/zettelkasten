@@ -11,6 +11,7 @@ The belief that attempts to answer:
 By stating that:
 - Physical facts are about structure and function
 - Phenomenal facts are about things in themselves
+[[Physics|Physical]] facts [[Supervenience|Supervene]] on [[Phenomenology|Phenomenal]] facts
 # Consciousness
 For consciousness, the belief is that mental experiences are separate from [[Physics|Physical]] experiences but that the [[Brain]] can provide them both.
 They are both aspects of the [[Brain]].
