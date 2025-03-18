@@ -5,7 +5,6 @@ tags:
 aliases:
   - If and only if
   - iff
-  - Equivalence
   - Unless
 ---
 $A \iff B$.

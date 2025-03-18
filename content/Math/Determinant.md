@@ -20,6 +20,11 @@ $\det(I) = 1$
 Where $I$ is the [[Identity Transformation]]
 ### Product Property
 $\det(AB) = \det(A)\det(B)$
+### Exponential Property
+$\det(A^{k}) = (\det(A))^{k}$
+### Constant Multiple Property
+If $A$ is $n \times n$ matrix
+$\det(kA) = k^{n}\det(A)$
 # Theorems
 - [[Determinants and Invertiblity Theorem]]
 - [[Determinants and Row Operations]]
