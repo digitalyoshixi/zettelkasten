@@ -25,6 +25,10 @@ $\det(A^{k}) = (\det(A))^{k}$
 ### Constant Multiple Property
 If $A$ is $n \times n$ matrix
 $\det(kA) = k^{n}\det(A)$
+### Transpose Property
+$\det(A) = \det(A^{T})$ where $A^{T}$ is the matrix transpose of $A$.
+### Invertability Property
+$\det(A^{-1}) = \frac{1}{\det(A)}$
 # Theorems
 - [[Determinants and Invertiblity Theorem]]
 - [[Determinants and Row Operations]]

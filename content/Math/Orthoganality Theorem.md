@@ -5,7 +5,6 @@ tags:
 ---
 Two non-zero vectors y and v for a right angle if and only if $\langle u, v \rangle = 0$
 If they are right angle, we can say they are orthoganal.
-
 # Proof
 ### Proving $\implies$
 Suppose $\theta = \frac{\pi}{2}$
