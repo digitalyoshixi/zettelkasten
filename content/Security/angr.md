@@ -8,7 +8,7 @@ Binary analysis suite that includes tools for:
 - ROP gadget finder
 # angr
 angr is a python library that automates this process of finding input constraints.
-The default searching algorithm it uses is the [[Breadth First Search Algorithm]]
+The default searching algorithm it uses is the [[Breadth First Search]]
 # Installation
 the blackarch version does not work.
 It is best to make a [[Python Virtual Environment]] where you `pip install angr` automatically
