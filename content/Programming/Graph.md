@@ -18,3 +18,4 @@ Graph has a
 - [[Adjacency Matrix]]
 - [[Graph Path]]
 - [[Graph Cycle]]
+- [[Path Finding]]
