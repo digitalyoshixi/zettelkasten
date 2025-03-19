@@ -14,3 +14,5 @@ We want to find an optimal basis to use for our [[Linear Transform|Linear Map]],
 - With $T(x) = \lambda x$ for a non-zero $x \in V$
 - $x$ is the eigenvector
 - $\lambda$ is the eigenvalue
+# Concepts
+- [[Finding Eigenvectors]]

@@ -37,3 +37,4 @@ $\det(A^{-1}) = \frac{1}{\det(A)}$
 - [[Diagonal Matrices]]
 - [[Determinant of 1x1 Matrix]]
 - [[Determinant of 2x2 Matrix]]
+- [[Determinant of Diagonal Matrix]]

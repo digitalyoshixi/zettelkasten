@@ -5,7 +5,6 @@ tags:
 ---
 # Theorem
 $T(v) = \lambda v \Longleftrightarrow v \in ker(T - \lambda I)$
-
 # Proof
 ### Proving $\implies$
 1. Suppose $T(v) = \lambda v$
