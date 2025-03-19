@@ -102,4 +102,8 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - [[Matrix With Base Inverse]]
 - [[Eigenvector]]
 - [[N-Fold Composition]]
+- [[Diagonal Matrices]]
 - [[Eigenvalues are Vectors in Kernels]]
+- [[Characteristic Polynomial]]
+- [[Finding Eigenvectors]]
+- [[Finding Diagonals from Eigenvalue]]
