@@ -5,7 +5,7 @@ tags:
 ---
 # Definition
 A series $\sum a_{n}$ converges if:
-- $\{ S_{n} \}$ converges
+- The series of [[Series Partial Sum|Partial Sums]] $\{ S_{n} \}$ converges
 - Or, $\exists s \in \mathbb{R}, \lim_{ n \to \infty }S_{n} = s$
 # Properties
 ### Additive Property
