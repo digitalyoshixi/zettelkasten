@@ -12,4 +12,4 @@ aliases:
 	- $ar^{i}$ is the base term
 # Concepts
 - [[Partial Sums for Geometric Series]]
-- [[Geometric Series Convergence]]
+- [[Geometric Series Convergence|GS Test]]

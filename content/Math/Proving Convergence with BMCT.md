@@ -38,9 +38,6 @@ With the sequence $\{ a_{n} \}$ converges where:
 11. $\implies a_{n} < a_{n+1}$ as $\sqrt{ \cdot }$ function is increasing, ineq prop
 12. Then, we get $\{ a_{n} \}$ is increasing by definition
 As we have shown $\{ a_{n} \}$ is bounded above and increasing, then we have shown it converges by [[Bounded Monotone Convergence Theorem|BMCT]]
-
-
-
 13. Choose $x_{1},x_{2} \in \mathbb{N}$ arbitrarily where $x_{1} < x_{2}$
 14. We do [[Proof By Induction]]
 15. With $P(n)$ as $a_{n} < a_{n+1}$
