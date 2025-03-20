@@ -16,3 +16,8 @@ aliases:
 Both converge or both diverge
 # Examples
 Note that we only need to prove $f(x)$ is strictly decreasing with derivatives as [[Differentiable Implies Continuity]]
+# Proof
+- Suppose $f(x) > 0$ on $[1, \infty)$
+- Suppose $f(x)$  is con on $[1, \infty )$
+- Suppose $f(x)$ is [[Strictly Decreasing]] on $[1, \infty)$
+- Suppose $\forall n \in \mathbb{N}, a_{n} = f(n)$
