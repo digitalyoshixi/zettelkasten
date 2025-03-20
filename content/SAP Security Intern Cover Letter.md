@@ -24,7 +24,7 @@ I come from a math-heavy computer science background. My niche is within low-lev
 
   
 
-Ive been a part of the security community for two years so far, and I find myself excited about web and low-level software security. Ive attended 18 CTF competitions thus far and have had 3 top-5 placements. Additionally, I maintain a writeup blog where I document my security work and CTF solutions to mentor others in the field ([https://digitalyoshixi.github.io/ctfs](https://digitalyoshixi.github.io/ctfs)).
+Ive been a part of the security community for two years so far, and I find myself excited about web and low-level software security. Ive attended 18 CTF competitions thus far and have had 3 top-5 placements. I tend to use Burp Suite and OWASP ZAP a lot for the recon and exploitation phases for web challenges. Additionally, I maintain a writeup blog where I document my security work and CTF solutions to mentor others in the field ([https://digitalyoshixi.github.io/ctfs](https://digitalyoshixi.github.io/ctfs)). I also understand how to perform a few attacks related to cloud and web security, most notably XSS, CSRF, JWT session hijacking, IAM user permissions explotation and firebase permissions explotation.
 
   
 
@@ -34,12 +34,8 @@ I believe I can do a lot within cloud security specifically. Cloud-based softwar
 
   
 
-I would love to schedule some time to talk to you some more. Below I have attached my portfolio for a look into my further works.
+I would love to schedule some time to talk to you. Below I have attached my portfolio for a look into my further works.
 
   
 
 Many thanks,
-
-  
-
-David
