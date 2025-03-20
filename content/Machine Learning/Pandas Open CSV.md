@@ -4,6 +4,7 @@ tags:
   - data_science
 aliases:
   - Pandas Write CSV
+  - Pandas Read CSV
 ---
 ```python
 import pandas as pd 
