@@ -15,7 +15,6 @@ I aim to make this obsidian vault bloated asf
 - [[PHLA10]]
 - [[EESA06]]
 - [[CSCA48]]
-
 # Current Learning
 - [[Reverse Engineering ELF]]
 - [[Interpreter]]
