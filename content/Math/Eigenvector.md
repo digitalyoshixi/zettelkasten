@@ -16,3 +16,8 @@ We want to find an optimal basis to use for our [[Linear Transform|Linear Map]],
 - $\lambda$ is the eigenvalue
 # Concepts
 - [[Finding Eigenvectors]]
+# Theorems
+- [[Determinants and Eigenvalues]]
+- [[Invertibility and Eigenvalues]]
+- [[LADR Finding Eigenvectors to Find a Dependence]]
+- [[LADR Factor and Apply the Dependence]]
