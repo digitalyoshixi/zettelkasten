@@ -7,7 +7,7 @@ aliases:
 This is a optimized version of [[Random Forest Classification]].
 - Avoids overfitting
 - Newer decision trees fix the mistakes from the old ones trees
-# Using with [[Sci-kit Learn]]
+# XGBClassifier
 ```python
 from xgboost import XGBClassifier
 # read data
@@ -21,4 +21,21 @@ bst = XGBClassifier(n_estimators=2, max_depth=2, learning_rate=1, objective='bin
 bst.fit(X_train, y_train)
 # make predictions
 preds = bst.predict(X_test)
+```
+# XGBRegressor
+```python
+from sklearn.metrics import mean_squared_error
+import xgboost as xgb
+from sklearn.model_selection import train_test_split
+
+# read data
+data = pd.read_csv("../Data/FID/good.csv").head(50000)
+x_train, x_test, y_train, y_test = train_test_split(data.drop(columns=['ILI_CASE']), data["ILI_CASE"], test_size=.2)
+
+bst = xgb.XGBRegressor(n_estimators=20, objective='reg:squarederror')
+bst.fit(x_train,y_train)
+
+preds = bst.predict(x_test)
+
+print(mean_squared_error(y_test, preds))
 ```
