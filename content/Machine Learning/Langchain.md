@@ -11,6 +11,10 @@ pip install --quiet --upgrade langchain-text-splitters langchain-community langg
 ```
 pip install -qU "langchain[anthropic]"
 ```
+### Installing In-Memory Vector Store
+```
+pip install -qU langchain-core
+```
 # Concepts
 - [[Langchain Indexing]]
 - [[LangGraph]]
