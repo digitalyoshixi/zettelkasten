@@ -27,4 +27,3 @@ pip install -qU langchain-core
 - [[DocArrayInMemorySearch]]
 ### Guides
 - [[Langchain Initializing Chat Model]]
-- [[Langchain DocArrayInMemorySearch Example]]
