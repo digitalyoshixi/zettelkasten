@@ -13,8 +13,15 @@ If you have a web application with [[Application Endpoints]] then it can get res
 ```
 curl -X POST http://127.0.0.1:5000/greet/david
 ```
+##### JSON
 ```
 curl -X POST -H "Content-Type: application/json" -d '{"name" : "david"}' http://127.0.0.1:3000/api/products
+```
+##### Form
+```
+curl -X POST https://reqbin.com/echo/post/form
+   -H "Content-Type: application/x-www-form-urlencoded" 
+   -d "param1=value1&param2=value2" 
 ```
 ### Detailed Request
 ```
