@@ -20,7 +20,11 @@ pip install langchain-google-genai
 pip install -qU langchain-core
 ```
 # Concepts
-- [[Langchain Initializing Chat Model]]
+### Fundamentals
 - [[Langchain Indexing]]
 - [[LangGraph]]
 - [[LangSmith]]
+- [[DocArrayInMemorySearch]]
+### Guides
+- [[Langchain Initializing Chat Model]]
+- [[Langchain DocArrayInMemorySearch Example]]
