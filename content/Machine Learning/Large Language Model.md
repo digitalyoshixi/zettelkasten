@@ -9,3 +9,9 @@ A [[Language Model]] trained off of billions of parameters.
 
 It outputs text.
 Input can be text, video, image.
+# Concepts
+- [[Perplexity]]
+- [[Token Entropy]]
+- [[Self Consistency Rate]]
+### Testing
+- [[LLM Interface Testing]]
