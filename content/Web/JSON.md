@@ -2,4 +2,5 @@
 tags:
   - javascript
 ---
-A javascript object
+A javascript object.
+# JSON Iteration
