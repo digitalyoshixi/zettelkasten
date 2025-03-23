@@ -14,7 +14,7 @@ fetch("https://jsonplaceholder.typicode.com/posts", {
   headers: {
     "Content-Type": "application/json"
   },
-  body: JSON.stringify(data)
+  body: JSON.stringify({input: data})
 })
 .then(response => response.json())
 .then(result => console.log(result))
