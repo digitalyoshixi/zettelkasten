@@ -4,6 +4,8 @@ tags:
   - machine_learning
   - python
   - data_science
+aliases:
+  - SKLearn
 ---
 SKlearn or Sci-kit learn.
 it gives you traditional ML models
