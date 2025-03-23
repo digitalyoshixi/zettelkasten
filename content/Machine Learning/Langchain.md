@@ -27,6 +27,7 @@ pip install -qU langchain-core
 - [[DocArrayInMemorySearch]]
 - [[RecursiveCharacterTextSplitter]]
 - [[Langchain Google Datastore]]
+- [[Langchain MongoDB]]
 ### Guides
 - [[Langchain Initializing Chat Model]]
 - [[Langchain RAG From CSV]]
