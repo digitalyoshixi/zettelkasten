@@ -23,6 +23,10 @@ curl -X POST https://reqbin.com/echo/post/form
    -H "Content-Type: application/x-www-form-urlencoded" 
    -d "param1=value1&param2=value2" 
 ```
+##### File
+```
+curl -F 'image=@./perplexed' http://127.0.0.1:5000/genai/image
+```
 ### Detailed Request
 ```
 curl -I http://127.0.0.1:5000/hello
