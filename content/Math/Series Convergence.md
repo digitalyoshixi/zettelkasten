@@ -11,7 +11,9 @@ A series $\sum a_{n}$ converges if:
 - By definition
 - [[Integral Test]]
 - [[Series Divergence|Div Test]]
+- [[Geometric Series Convergence|GS Test]]
 - [[P-Series Test]]
+- [[Direct Comparison Theorem]]
 # Properties
 ### Additive Property
 1. If $\sum a_{n}$ converges to $c$
