@@ -13,7 +13,7 @@ A series $\sum a_{n}$ converges if:
 - [[Series Divergence|Div Test]]
 - [[Geometric Series Convergence|GS Test]]
 - [[P-Series Test]]
-- [[Direct Comparison Theorem]]
+- [[Comparison Theorem for Series]]
 # Properties
 ### Additive Property
 1. If $\sum a_{n}$ converges to $c$

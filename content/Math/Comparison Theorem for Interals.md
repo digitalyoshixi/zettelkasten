@@ -3,7 +3,8 @@ tags:
   - calculus
   - math
 aliases:
-  - Direct Comparison Theorem
+  - Direct Comparison Theorem for Integrals
+  - CT
 ---
 A theorem to easier determine if a [[Improper Integral]] converges or diverges.
 # Theorem
@@ -27,4 +28,4 @@ Consider $\int_{0}^{\infty}e^{-x^{2}}dx$. Determine if it converges or diverges
 3. Note that on $x \in [1,\infty)$, $0 \leq e^{-x^{2}} \leq e^{-x}$ as $x > 1 \implies x^{2} \geq x$ as $e^{x}$ is increasing
 4. Then, consider $\int_{0}^{\infty}e^{-x}dx$
 5. $= \lim_{ A } \to \infty \int_{A}^{0}e^{-x}dx = \lim_{ A \to \infty } -e^{-A} + e^{-1} = \frac{1}{e}$
-6. This implies that $\int_{I} f(x)dx$ converges by [[Comparison Theorem]]
+6. This implies that $\int_{I} f(x)dx$ converges by [[Comparison Theorem for Interals]]
