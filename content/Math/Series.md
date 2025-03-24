@@ -12,3 +12,4 @@ where $a_{n}$ is the general term of  for each $n \in \mathbb{N}$
 - [[Series Divergence]]
 - [[Geometric Series]]
 - [[Integral Test]]
+- [[P-Series]]

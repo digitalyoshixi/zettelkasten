@@ -43,4 +43,3 @@ Then, $\implies \lim_{ n \to \infty }a_{n} = 0$
 # Additional Theorems
 - [[Converging Sequence' Unique Limits]]
 - [[Monotonic Sequence]]
-- [[Bounded Monotone Convergence Theorem]]

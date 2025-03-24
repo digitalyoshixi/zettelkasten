@@ -7,6 +7,11 @@ tags:
 A series $\sum a_{n}$ converges if:
 - The series of [[Series Partial Sum|Partial Sums]] $\{ S_{n} \}$ converges
 - Or, $\exists s \in \mathbb{R}, \lim_{ n \to \infty }S_{n} = s$
+# Proving Series
+- By definition
+- [[Integral Test]]
+- [[Series Divergence|Div Test]]
+- [[P-Series Test]]
 # Properties
 ### Additive Property
 1. If $\sum a_{n}$ converges to $c$
