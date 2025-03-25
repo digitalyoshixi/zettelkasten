@@ -46,3 +46,5 @@ aliases:
 - [[The Hard Problem of Consciousness]]
 - [[Phenomenology]]
 - [[Free Will]]
+- [[Determinism]]
+- [[Compatibilism]]
