@@ -12,7 +12,7 @@ The metaphor is versatile and not too broad.
 3. Applications
 # Ideas
 - Consciousness could be the light itself or the illuminated room
-### Consciousness As the light
+### Consciousness As the Light
 Consciousness has [[Subjectivity]].
 It is what it is in virtue of which an entity feels some way at all
 ### Consciousness As the Illuminated Room
