@@ -17,7 +17,7 @@ aliases:
 - Remember logical concepts and how to extract premises
 - Read the notes at the end of the readings
 	- Test your understanding
-	- readers Guide
+	- Readers Guide
 	- Analyzing the arguments
 - Readings
 	- Read over editorial introductions
@@ -46,3 +46,5 @@ aliases:
 - [[The Hard Problem of Consciousness]]
 - [[Phenomenology]]
 - [[Free Will]]
+- [[Determinism]]
+- [[Compatibilism]]

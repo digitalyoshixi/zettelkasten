@@ -6,13 +6,14 @@ tags:
 An essay written by [[Andrew Lee]] about [[Consciousness]].
 He wants to argue that the metaphor of: *"Consciousness is where there are lights on the inside"*
 The metaphor is versatile and not too broad.
+![[Light in The Room-20250325163718153.webp]]
 # Elements of Consciousness
 1. Form (Light or Room)
 2. Structure
 3. Applications
 # Ideas
 - Consciousness could be the light itself or the illuminated room
-### Consciousness As the light
+### Consciousness As the Light
 Consciousness has [[Subjectivity]].
 It is what it is in virtue of which an entity feels some way at all
 ### Consciousness As the Illuminated Room
