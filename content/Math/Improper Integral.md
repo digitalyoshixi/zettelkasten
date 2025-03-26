@@ -8,7 +8,6 @@ An integral that is not evaluatable by normal means.
 Refer to the solving process for how to solve. Improper integrals can either:
 - [[Sequence Convergence|Converge]] to a finite value
 - [[Sequence Divergence|Diverge]] to have infinite area
-# Checking if Improper Integral
 ### Example 1
 $\int_{1}^{\infty}\tan^{-1}(x)dx$
 - Is not bounded on $[a,b]$ as $[1,\infty)$ cannot be closed
@@ -39,9 +38,9 @@ Therefore, the integral converges to $\frac{1}{12}$
 2. $= \int_{1}^{0}x^{-2}dx + \int_{0}^{1}x^{-2}dx$
 3. $= \lim_{ A \to 0^{-}}\int_{-1}^{A}x^{-2}dx + \lim_{ B \to 0^{+}  }\int_{B}^{1}x^{-2}dx$
 4. Note that the second part with $B$ diverges, and that the first part converges, then the entire integral diverges
-### Example 3 that requires [[Comparison Theorem for Interals]]
+### Example 3 that requires [[Comparison Theorem for Integrals]]
 1. $\int_{1}^{\infty}\frac{\cos^{5}(3x^{2}+1)+1}{(x^{2}+x^{7}+1)^{2}}dx$
-2. Solve with [[Comparison Theorem for Interals]]
+2. Solve with [[Comparison Theorem for Integrals]]
 # Concepts
-- [[Comparison Theorem for Interals]]
+- [[Comparison Theorem for Integrals]]
 	- [[Comparison Theorem Convergent Case Proof]]

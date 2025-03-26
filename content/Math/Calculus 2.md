@@ -22,7 +22,7 @@ aliases:
 	- [[Area Accumulation Function]]
 - [[Completing The Square]]
 - [[Improper Integral]]
-	- [[Comparison Theorem for Interals]]
+	- [[Comparison Theorem for Integrals]]
 - [[Sequence]]
 	- [[Sequence Convergence]]
 	- [[Sequence Divergence]]
