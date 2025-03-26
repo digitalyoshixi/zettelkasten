@@ -89,6 +89,7 @@ Alternatively, you can use automated build tools such as `make` or `build2`, how
 - [[Inline Variables]]
 - [[C++ Strings]]
 - [[C++ Vectors]]
+- [[C++ Style Guides]]
 # Specific Functions
 - [[sizeof()]]
 - [[setw]]

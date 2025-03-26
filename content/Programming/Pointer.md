@@ -8,7 +8,8 @@ These are variables that store the address of another variable.
 
 They will be the same type as the data they are referencing. 
 
-A special pointer is the [[Null Pointer]]
+- A pointer is to NULL is the [[Null Pointer]]
+- A general pointer is the [[Void Pointer]]
 ### Creating a pointer
 ```c
 int x = 10;
