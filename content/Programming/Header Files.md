@@ -22,7 +22,7 @@ These are header files we have not written and are located at `include directori
 - You `#include` with `<>` to denote this location.
 - You can optionally leave the `.h` in the file name
 ### List of std namespace header files
-- [[iostream.h]]
+- [[C++ iostream]]
 - [[stdlib.h|cstdlib]]
 - [[iomanip]]
 - [[stdint.h|cstdint]]
