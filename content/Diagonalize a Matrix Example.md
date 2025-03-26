@@ -51,7 +51,10 @@ $$
 - 
 $$
 [T]_{\alpha}^{\alpha} = 
-\left[\begin{array}{cc} \\
-0 & 
+\left[\begin{array}{cc}
+0 & 0 & 0\\
+0 & 1 & 0\\
+0 & 0 & -1\\
 \end{array}\right]
 $$
+
