@@ -107,3 +107,4 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - [[Characteristic Polynomial]]
 - [[Finding Eigenvectors]]
 - [[Finding Diagonals from Eigenvalue]]
+- [[Diagonalizable]]
