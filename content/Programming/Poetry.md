@@ -4,6 +4,10 @@ tags:
 ---
 # Installation
 `sudo pacman -S poetry`
+# Setup Poetry Project
+1. `poetry init`
+2. `poetry add ...`
+3. `poetry env info --path`
 # Usage
 ### `poetry init`
 Setup pyproject.toml file in local directory

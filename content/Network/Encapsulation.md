@@ -13,7 +13,6 @@ Encapsulation occurs in all layers, but the general term Encapsulation is really
 For more information, consult each respective page:
 [[TCP & IP Network Layer|Network Layer]]
 [[TCP & IP Data Layer|Data Layer]]
-
 # General Encapsulation from Application->Physical
 For example, sending an HTTP request and getting an HTTP response will send data back with an:
 - HTTP header with response code "OK"

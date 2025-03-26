@@ -2,7 +2,7 @@
 tags:
   - programming
 ---
-static makes everything shared.
+Static makes everything shared.
 
 essentially the metadata of your class.
 # Static Variables
