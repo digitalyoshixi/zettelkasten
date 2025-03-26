@@ -12,6 +12,13 @@ aliases:
 - If $f(x)$ is [[Strictly Decreasing]] on $[i,\infty)$ 
 - if $\forall n \in \mathbb{N}, a_{n} = f(n)$
 - Then, $\sum_{n=i}^{\infty}a_{n} \text{ converges } \Longleftrightarrow \int_{i}^{\infty}f(x)dx \text{ converges }$
+### Flipped Theorem
+- Given $\sum_{n=i}^{\infty}a_{n}$
+- If $f(x)$ is negative
+- if $f(x)$ is [[Continuity|Continuous]], on $[i, \infty)$
+- If $f(x)$ is [[Strictly Increasing]] on $[i,\infty)$ 
+- if $\forall n \in \mathbb{N}, a_{n} = f(n)$
+- Then, $\sum_{n=i}^{\infty}a_{n} \text{ converges } \Longleftrightarrow \int_{i}^{\infty}f(x)dx \text{ converges }$
 # Intuition
 Both converge or both diverge
 # Examples
