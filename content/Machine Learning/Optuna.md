@@ -3,4 +3,6 @@ tags:
   - machine_learning
 ---
 Open-source [[Hyperparameter Tuning]] framework.
-Used for [[eXtreme Gradient Boosting|XGBoost]].
+Used well with [[eXtreme Gradient Boosting|XGBoost]].
+
+
