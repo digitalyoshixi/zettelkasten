@@ -1,7 +1,8 @@
 ---
 tags:
   - calculus
-aliases: []
+aliases:
+  - Trig Sub
 ---
 A process to integrate when you have one of the following expressions in the integrand: 
 - $\sqrt{ a^{2}-x^{2} }$
