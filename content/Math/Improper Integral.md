@@ -20,7 +20,7 @@ $$\int_{2}^{8}\frac{1}{\sqrt{ x-2 }}dx$$
 2. $= \lim_{ A \to \infty }\int_{1}^{A}(3x+1)^{-2}dx$
 3. By inspection, $\int (3x+1)^{-2}dx = -\frac{1}{3}(3x+1)^{-1}$
 4. $=\lim_{ A \to \infty } F(A) - F(1)$
-5. $= \lim_{ A \to \infty }-\frac{1}{3}\left( 0-\frac{1}{4} \right) = \frac{1}{12}$
+5. $= -\frac{1}{3}\left( 0-\frac{1}{4} \right) = \frac{1}{12}$
 Therefore, the integral converges to $\frac{1}{12}$
 ### Example 2 for Type 2
 1. $\int_{0}^{5}\frac{\ln(x)}{x}dx$

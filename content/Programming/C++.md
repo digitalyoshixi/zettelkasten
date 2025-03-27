@@ -28,7 +28,6 @@ Alternatively, you can use automated build tools such as `make` or `build2`, how
 .cpp <- recommended one
 .cc
 .cxx
-
 # Common C++ Problems
 - [[C++ Common C++ Problems]]
 # Nomenclature
@@ -56,7 +55,8 @@ Alternatively, you can use automated build tools such as `make` or `build2`, how
 - [[C++ Special Values]]
 - [[C++ Initialization]]
 - [[maybe_unused]]
-- [[iostream.h]]
+- [[C++ iostream]]
+- [[C++ string]]
 - [[C++ Undefined Behaviors]]
 - [[C++ Implementation Behaviors]]
 - [[Whitespace]]
