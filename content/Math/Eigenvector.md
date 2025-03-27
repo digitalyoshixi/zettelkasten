@@ -7,6 +7,8 @@ aliases:
   - Special Vector
   - Characteristic Vector
 ---
+These are vectors that remain in their same span after some [[Linear Transform]].
+![[Eigenvector-20250327192251310.webp]]
 # Motivation
 We want to find an optimal basis to use for our [[Linear Transform|Linear Map]], so that computations are easier.
 # Definition
