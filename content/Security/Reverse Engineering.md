@@ -8,3 +8,4 @@ tags:
 - [[Reverse Engineering PE]]
 - [[Reverse Engineering Android]]
 - [[Reverse Engineering IOS]]
+- [[Reverse Engineering Python]]

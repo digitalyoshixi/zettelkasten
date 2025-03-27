@@ -5,7 +5,7 @@ tags:
 ---
 # Theorem
 - If $T : V \to W$ is a linear map
-- WIth $[T]_{\alpha}^{\beta}$ as the matrix representation for $T$
+- With $[T]_{\alpha}^{\beta}$ as the matrix representation for $T$
 - If $V$ has bases $\alpha, \alpha'$
 - If $W$ has bases $\beta, \beta '$
 - Then, $[T]_{\alpha'}^{\beta'} = [I_{W}]_{\beta}^{\beta'}[T]_{\alpha}^{\beta}[I]_{\alpha'}^{\alpha}$

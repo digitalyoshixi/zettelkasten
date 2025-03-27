@@ -3,7 +3,10 @@ tags:
   - philosophy
   - metaphysics
 ---
-The belief that agents can act **freely** - having the choice to perform the action or to choose to do otherwise.
+The belief that agents can act **freely**.
+- [[Strawson]] believes an action is free if the action wasn't [[Determinism|Causally Determined]]
+- [[Ayer]] believes an action is free if it wasnt performed under [[Constraint]]
+- [[Harry Frankfurt]] believes having [[Second Order Volitions]] is enough to suffice for free will
 # Types
 ### Free Will 1 ([[Hard Determinism]] Version)
 To have been able to have chosen to do otherwise, an agent's action must have not been determined
