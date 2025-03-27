@@ -6,19 +6,25 @@ aliases:
   - Divergence Tests
 ---
 # [[Improper Integral]]
-- By definition [[Improper Integral Convergence]]
-- By definition [[Improper Integral Divergence]]
+- By definition [[Improper Integral Convergence]]/[[Improper Integral Divergence]]
+	- Convergence + value
+	- Divergence
 - [[Comparison Theorem for Integrals]]
+	- Convergence
 # [[Sequence]]
-- By $\epsilon-N$ definition [[Sequence Convergence]]
-- By $M-N$ definition [[Sequence Divergence]]
+- By $\epsilon-N$ definition [[Sequence Convergence]]/$M-N$ definition [[Sequence Divergence]]
+	- Convergence + value
+	- Divergence
 - [[Sequence Convergence|Sequence Convergence Properties]]
+	- Convergence
 - [[Comparison Theorem for Integrals]]
+	- Convergence
+	- Divergence
 - [[Bounded Monotone Convergence Theorem|BMCT]]
+	- Convergence
 # [[Series]]
-- By definition [[Series Convergence]]
+- By definition [[Series Convergence]]/[[Series Divergence]]
 	- Convergence + Value
-- By definition [[Series Divergence]]
 	- Divergence
 - [[Integral Test]]
 	- Convergence + Value
@@ -34,3 +40,5 @@ aliases:
 	- Convergence
 	- Divergence
 - [[Cauchy Condensation Test]]
+- [[Alternating Series Test|Liebniz Series Test]]
+	- Convergence
