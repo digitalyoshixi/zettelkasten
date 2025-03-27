@@ -3,6 +3,7 @@ tags:
   - philosophy
   - metaphysics
 ---
-[[Second Order Desires]] that are desired for sake of a person's will.
-These are made because the individual strives for something.
-(See [[Volition]])
+When [[Second Order Desires]] and [[First Order Desires]] match.
+- `A wants X` ([[First Order Desires]])
+- `A wants to want X` ([[Second Order Desires]])
+These are made because the individual strives for some [[Volition]]

@@ -10,6 +10,9 @@ aliases:
 - Discussion board extra credit is given within the 24 hours of the class
 - You can miss 4 attendance-checking quizzes before grade deduction
 - Course only worries about [[Propositional Knowledge]]
+# Writing the Paper
+- Do not attach your name. Papers are marked unbiased
+- Define each term (Use the respective author's terms)
 # Studying for Final Exam
 - Remember definitions
 - Remember arguments
@@ -48,3 +51,6 @@ aliases:
 - [[Free Will]]
 - [[Determinism]]
 - [[Compatibilism]]
+- [[First Order Desires]]
+- [[Second Order Desires]]
+- [[Second Order Volitions]]
