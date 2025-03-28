@@ -10,3 +10,4 @@ $E_{\lambda} = \{ v : T(v) = \lambda v \}$
 - [[Trivial Eigenvector]]
 # Concepts
 - [[Finding Eigenspaces of a Linear Transformation]]
+- [[Independent Sets from Eigenspaces]]
