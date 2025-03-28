@@ -109,3 +109,6 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - [[Finding Diagonals from Eigenvalue]]
 - [[Diagonalizable]]
 	- [[Diagonalize a Matrix Example]]
+- [[Geometric Multiplicity]]
+- [[Algebraic Multiplicity]]
+- [[Geometry <= Algebra Theorem]]

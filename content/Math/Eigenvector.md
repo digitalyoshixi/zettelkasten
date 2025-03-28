@@ -24,6 +24,7 @@ We want to find an optimal basis to use for our [[Linear Transform|Linear Map]],
 - [[LADR Factor and Apply the Dependence]]
 - [[Algebraic Multiplicity]]
 - [[Geometric Multiplicity]]
+- [[Geometry <= Algebra Theorem]]
 # Theorems
 - [[Determinants and Eigenvalues]]
 - [[Invertibility and Eigenvalues]]
