@@ -22,6 +22,8 @@ We want to find an optimal basis to use for our [[Linear Transform|Linear Map]],
 - [[Eigenvalue Midpoint Trick]]
 - [[LADR Finding Eigenvectors to Find a Dependence]]
 - [[LADR Factor and Apply the Dependence]]
+- [[Algebraic Multiplicity]]
+- [[Geometric Multiplicity]]
 # Theorems
 - [[Determinants and Eigenvalues]]
 - [[Invertibility and Eigenvalues]]

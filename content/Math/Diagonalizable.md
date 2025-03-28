@@ -8,6 +8,9 @@ This means:
 $$A = PDP^{-1}$$
 - For some [[Linear Map Inverse|Invertable Matrix]] $P$
 - For a [[Diagonal Matrices|Diagonal Matrix]] $D$
+# Concepts
+- [[Diagonal Matrices]]
 # Theorems
 - [[Characterization of Diagonizability]]
 - [[Diagonalize a Matrix Example]]
+- [[Nice Case of Diagonalization]]

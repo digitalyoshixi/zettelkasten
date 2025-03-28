@@ -108,3 +108,4 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - [[Finding Eigenvectors]]
 - [[Finding Diagonals from Eigenvalue]]
 - [[Diagonalizable]]
+	- [[Diagonalize a Matrix Example]]

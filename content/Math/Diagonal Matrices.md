@@ -2,6 +2,8 @@
 tags:
   - math
   - linalg
+aliases:
+  - Diagonal Matrix
 ---
 A matrix $D= [d_{ij}] \in M_{n \times n}(\mathbb{R})$ is diagonal if:
 - $d_{ij} = 0$ when $i \neq j$

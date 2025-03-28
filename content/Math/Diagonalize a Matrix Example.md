@@ -3,6 +3,10 @@ tags:
   - math
   - linalg
 ---
+# Process
+1. Find eigenvalues
+2. Find eigenvectors
+3. Perform change of basis with the new set of eigenvectors. Note that this set is linearly independent.
 # Example
 Diagonalize
 $$
@@ -57,4 +61,3 @@ $$
 0 & 0 & -1\\
 \end{array}\right]
 $$
-
