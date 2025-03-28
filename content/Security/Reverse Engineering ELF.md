@@ -13,14 +13,14 @@ tags:
 	1. Look at the [[Syscall]]
 4. `ltrace ./filename`
 	1. Look at what libraries are loaded and when
-5. `readelf -a ./filename -M intel`
+5. `readelf -a ./filename`
 	1. Look for the entry point
 6. `nm -a ./filename`
-	1. Look at the functions in the program
+	2. Look at the functions in the program
 7. `objdump -d ./filename -M intel`
 	1. Look at the disassembly of the program
-8. [[Symbolic Execution]]
-9. [[Ghidra]]
+8. [[Ghidra]]
+9. [[Symbolic Execution]]
 10. https://ide.kaitai.io/
 # Concepts
 - [[Executable and Linkable Format|ELF]]
