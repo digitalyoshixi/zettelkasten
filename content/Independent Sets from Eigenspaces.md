@@ -21,4 +21,5 @@ tags:
 10. This means that $a_{k+1}(\lambda_{2}-\lambda_{1})v_{k+1} + \dots + a_{l}(\lambda_{2}-\lambda_{1})v_{l} = 0$
 11. Note that $\lambda_{2} - \lambda_{1} \neq 0$
 12. Thus, this gives a dependence for vectors $\{ v_{k+1}, \dots ,v_{l} \}$. This contradicts that $S_{2}$ is a linearly independent set.
-13. Thus, $S_{1} \cup S_{2} = \{ u_{1} ,\dots, u_{k}, v_{k+1}, \dots, v_{l} \}$ is [[Linear Independence|indep]]
+13. The argument for $\lambda_{2} \neq 0$ is the same ...
+14. Thus, by cases: $S_{1} \cup S_{2} = \{ u_{1} ,\dots, u_{k}, v_{k+1}, \dots, v_{l} \}$ is [[Linear Independence|indep]]
