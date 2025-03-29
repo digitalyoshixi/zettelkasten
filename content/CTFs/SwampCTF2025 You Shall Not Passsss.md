@@ -29,8 +29,11 @@ data_4030 = data_4030 ^ r13 ^ rax_11.b
 	4. ![[SwampCTF2025 You Shall Not Passsss-20250329222335706.webp]]
 	5. Set that original memory value to the new value changed in the funtion
 ### sub_17e0
-1. Saves the program's page-size in variabl
-
-2. Is this program a flag checker?
-3. When you run the first function, these are just constant hard-coded values that dont interact with the input right?
-4. Where is the user input function?
+1. [[mmap()]] a page-size of the programs memory, and return an error if it could not be memory mapped.
+   ![[SwampCTF2025 You Shall Not Passsss-20250329223306922.webp]]
+2. ![[SwampCTF2025 You Shall Not Passsss-20250329223403206.webp]]
+   Construct a list of ?, and the first element of that list is called as a function, this means data_4180 is a function
+# Thoughts
+1. Is this program a flag checker?
+2. When you run the first function, these are just constant hard-coded values that dont interact with the input right?
+3. The user input function is likely within the rax.
