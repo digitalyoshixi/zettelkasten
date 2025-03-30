@@ -33,6 +33,13 @@ data_4030 = data_4030 ^ r13 ^ rax_11.b
    ![[SwampCTF2025 You Shall Not Passsss-20250329223306922.webp]]
 2. ![[SwampCTF2025 You Shall Not Passsss-20250329223403206.webp]]
    Construct a list of ?, and the first element of that list is called as a function, this means data_4180 is a function
+# Debugging
+- Enter [[libc_start_main]]
+- Continue until we enter main which is here:
+  ![[SwampCTF2025 You Shall Not Passsss-20250330005156235.webp]]
+- Step into that call, then keep moving until we call rax. Our entry is at `0x5555555550c0`. This is what it looks like:
+  ![[SwampCTF2025 You Shall Not Passsss-20250330005619495.webp]]
+- 
 # Thoughts
 1. Is this program a flag checker?
 2. When you run the first function, these are just constant hard-coded values that dont interact with the input right?
