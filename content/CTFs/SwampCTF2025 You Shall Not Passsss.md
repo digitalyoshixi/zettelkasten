@@ -2,7 +2,7 @@
 tags:
   - ctf
 ---
-1. If you disassemble this program, you will see this as the main function:
+If you disassemble this program, you will see this as the main function:
 # Control Flow
 1. ![[SwampCTF2025 You Shall Not Passsss-20250329220906539.webp]]
 ### sub_10c0
@@ -110,6 +110,43 @@ data_4030 = data_4030 ^ r13 ^ rax_11.b
 0xf4
 0x26
 ```
+- I gpt-ed a script to help me calculate the next character, since I did not want to reverse engineer the encryption process
+![[SwampCTF2025 You Shall Not Passsss-20250330034013700.webp]]
+Kept on running the script until i got the flag
+```python
+def find_a(b_hex, c_hex):
+  """
+  Finds the value of 'a' given 'a XOR b = c'.
+
+  Args:
+    b_hex: The hexadecimal representation of 'b'.
+    c_hex: The hexadecimal representation of 'c'.
+
+  Returns:
+    The hexadecimal representation of 'a'.
+  """
+
+  b_int = int(b_hex, 16)  # Convert b from hex to integer
+  c_int = int(c_hex, 16)  # Convert c from hex to integer
+
+  a_int = c_int ^ b_int  # Perform the XOR operation
+
+  a_hex = hex(a_int)  # Convert a back to hexadecimal
+
+  return a_hex
+
+# Example usage with -82 and 0xdd
+#b_decimal = -82
+b_decimal = int(input('b_decimal: '))
+b_hex = hex(b_decimal & 0xFF) #ensure 8 bit representation.
+#c_hex = "0xdd"
+c_hex = input("c_hex: ")
+
+result_hex = int(find_a(b_hex, c_hex), 16)
+print(f"a = {result_hex}, chr(a) = {chr(result_hex)}")
+```
+*insert that video i took here*
+`swampCTF{531F_L0AD1NG_T0TALLY_RUL3Z}`
 # Thoughts
 1. Is this program a flag checker?
 2. When you run the first function, these are just constant hard-coded values that dont interact with the input right?
