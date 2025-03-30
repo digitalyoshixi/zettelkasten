@@ -39,7 +39,16 @@ data_4030 = data_4030 ^ r13 ^ rax_11.b
   ![[SwampCTF2025 You Shall Not Passsss-20250330005156235.webp]]
 - Step into that call, then keep moving until we call rax. Our entry is at `0x5555555550c0`. This is what it looks like:
   ![[SwampCTF2025 You Shall Not Passsss-20250330005619495.webp]]
-- 
+- It iterates through a loop, and it runs in it for __ times.
+- Afterwards, it gradually pushes the word `Incorrect\n` onto the memory locations
+  ![[SwampCTF2025 You Shall Not Passsss-20250330011457504.webp]]
+- Then, it writes `Correct!\n` to the memory space afterwards
+  ![[SwampCTF2025 You Shall Not Passsss-20250330011641406.webp]]
+- Afterwards, save some data to the heap
+  ![[SwampCTF2025 You Shall Not Passsss-20250330011916092.webp]]
+- Enter a loop that repeats 181 times,
+- Write the data, then jump into the next call. 
+  ![[SwampCTF2025 You Shall Not Passsss-20250330012943579.webp]]
 # Thoughts
 1. Is this program a flag checker?
 2. When you run the first function, these are just constant hard-coded values that dont interact with the input right?
