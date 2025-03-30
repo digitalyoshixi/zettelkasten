@@ -70,6 +70,46 @@ data_4030 = data_4030 ^ r13 ^ rax_11.b
 	- If this comparison is not equal, then we will have to cmov
 	- so, this comparison must be equal all 36 times
 - Setting the first character to `s` passes the first check, so we know that it is decoding now character by character
+- Lets note all these comparisons down:
+![[SwampCTF2025 You Shall Not Passsss-20250330023400988.webp]]
+```
+0xdd
+0x9a 
+0xde
+0x4e
+0x69
+0xe1
+0xe9
+0x2c
+0xd2
+0x4e
+0xec
+0xe7
+0x18
+0x26
+0x6a
+0x56
+0x79
+0xd8
+0xa3
+0x55
+0x72
+0xbc
+0x76
+0xc4
+0xc 
+0xf
+0x9b
+0xbe
+0xc6
+0x81
+0xe2
+0x41
+0x47
+0xa0
+0xf4
+0x26
+```
 # Thoughts
 1. Is this program a flag checker?
 2. When you run the first function, these are just constant hard-coded values that dont interact with the input right?
