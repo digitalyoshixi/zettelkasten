@@ -49,6 +49,22 @@ data_4030 = data_4030 ^ r13 ^ rax_11.b
 - Enter a loop that repeats 181 times,
 - Write the data, then jump into the next call. 
   ![[SwampCTF2025 You Shall Not Passsss-20250330012943579.webp]]
+- Then, it tries to mmap, and it will jump out if it fails.
+- It will then move some string contents into registers
+  ![[SwampCTF2025 You Shall Not Passsss-20250330014202147.webp]]
+- Moves some more things around
+- Moves in some constants, then calls rbp 
+  ![[SwampCTF2025 You Shall Not Passsss-20250330014231668.webp]]
+- Inside rbp: string constants and data is being loaded
+  ![[SwampCTF2025 You Shall Not Passsss-20250330014715885.webp]]
+- Enters a loop that runs 38 times
+  ![[SwampCTF2025 You Shall Not Passsss-20250330015105601.webp]]
+- It should have a conditional move that occurs when dil is equal to r8b
+  ![[SwampCTF2025 You Shall Not Passsss-20250330015859314.webp]] This is the key.
+- After the loop, the value is moved from rbx and printed
+  ![[SwampCTF2025 You Shall Not Passsss-20250330020118146.webp]]
+- Initially, before the start of the loop, rbx is `Correct!\n`
+![[SwampCTF2025 You Shall Not Passsss-20250330020317536.webp]]
 # Thoughts
 1. Is this program a flag checker?
 2. When you run the first function, these are just constant hard-coded values that dont interact with the input right?
