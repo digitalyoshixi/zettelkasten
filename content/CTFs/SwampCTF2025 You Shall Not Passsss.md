@@ -61,10 +61,15 @@ data_4030 = data_4030 ^ r13 ^ rax_11.b
   ![[SwampCTF2025 You Shall Not Passsss-20250330015105601.webp]]
 - It should have a conditional move that occurs when dil is equal to r8b
   ![[SwampCTF2025 You Shall Not Passsss-20250330015859314.webp]] This is the key.
-- After the loop, the value is moved from rbx and printed
-  ![[SwampCTF2025 You Shall Not Passsss-20250330020118146.webp]]
 - Initially, before the start of the loop, rbx is `Correct!\n`
 ![[SwampCTF2025 You Shall Not Passsss-20250330020317536.webp]]
+- After the loop, if esi is 0, then the value at r14 (which is `Incorrect`) is moved into rbx, then it prints rbx.
+  ![[SwampCTF2025 You Shall Not Passsss-20250330020118146.webp]]
+	- ![[SwampCTF2025 You Shall Not Passsss-20250330022515271.webp]] esi is initially set to 1, so something tampers with this
+	  ![[SwampCTF2025 You Shall Not Passsss-20250330022544552.webp]]
+	- If this comparison is not equal, then we will have to cmov
+	- so, this comparison must be equal all 36 times
+- Setting the first character to `s` passes the first check, so we know that it is decoding now character by character
 # Thoughts
 1. Is this program a flag checker?
 2. When you run the first function, these are just constant hard-coded values that dont interact with the input right?
