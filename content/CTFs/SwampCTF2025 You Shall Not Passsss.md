@@ -2,6 +2,8 @@
 tags:
   - ctf
 ---
+![[SwampCTF2025 You Shall Not Passsss-20250331040717935.webp]]
+https://ctf.swampctf.com/files/10ed11c19ea792d32db42fe63d217274/chal?token=eyJ1c2VyX2lkIjoxOTEsInRlYW1faWQiOjEwOCwiZmlsZV9pZCI6OX0.Z-oU4Q.PAkwNhds6tYYtyuL1FBr838q7Fw
 If you disassemble this program, you will see this as the main function:
 # Control Flow
 1. ![[SwampCTF2025 You Shall Not Passsss-20250329220906539.webp]]

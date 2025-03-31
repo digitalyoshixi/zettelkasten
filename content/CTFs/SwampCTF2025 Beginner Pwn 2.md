@@ -4,6 +4,7 @@ tags:
   - binary_exploitation
   - ctf
 ---
+![[SwampCTF2025 Beginner Pwn 2-20250331035915757.webp]]https://ctf.swampctf.com/files/ba73e4e10e45fd89e46dfc3842c14cbd/binary?token=eyJ1c2VyX2lkIjoxOTEsInRlYW1faWQiOjEwOCwiZmlsZV9pZCI6MjZ9.Z-oS_g.KjaTKth3XM4R_StKJgNkf2RbHQ8
 1. ![[SwampCTF2025 Beginner Pwn 2-20250329004846811.webp]]
 - I ran GDB a lot of times, and gave it different inputs, checking the return
   ![[SwampCTF2025 Beginner Pwn 2-20250329004459690.webp]]
