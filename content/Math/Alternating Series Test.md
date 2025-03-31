@@ -4,11 +4,12 @@ tags:
   - calculus
 aliases:
   - Liebniz Series Test
+  - AST
 ---
 # Theorem
 - Given $\sum_{n=i}^{\infty}(-1)^{n+1}b_{n}$
 - With $b_{n} > 0$
-- If $b_{n} \geq b_{n+1}$ $\forall n \in \mathbb{N}$, (just decreasing, not [[Strictly Decreasing]])
+- If $b_{n} \geq b_{n+1}$ $\forall n \in \mathbb{N}$, (just decreasing, not necessarily [[Strictly Decreasing]], but it could be strictly decreasing aswell)
 - If $\lim_{ n \to \infty }b_{n} = 0$
 - Then, $\sum_{n=i}^{\infty}(-1)^{n+1}b_{n}$ converges
 # Proof

@@ -15,6 +15,7 @@ A series $\sum a_{n}$ converges if:
 - [[P-Series Test]]
 - [[Comparison Theorem for Series]]
 - [[Alternating Series Test|Liebniz Series Test]]
+- [[Ratio Test]]
 # Properties
 ### Additive Property
 1. If $\sum a_{n}$ converges to $c$

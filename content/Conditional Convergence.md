@@ -2,6 +2,8 @@
 tags:
   - math
   - calculus
+aliases:
+  - CC
 ---
 # Definition
 - Let $\sum a_{n}$ be a [[Series]]
