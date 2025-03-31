@@ -15,3 +15,11 @@ aliases:
 Often good when used with:
 - [[Factorials|Factorial]]
 - [[Euler's Number|Exponential Function]]
+# Example
+Prove $\sum_{n=1}^{\infty} \frac{e^{n}}{(2n)!}$ [[Series Convergence|Converges]].
+### Proof
+1. We can use R.T
+2. Consider $\lim_{ n \to \infty }| \frac{a_{n+1}}{a_{n}}|$
+3. $= \lim_{ n \to \infty } | \frac{\frac{e^{n+1}}{(2n+2)!}}{ \frac{e^{n}}{(2n)!}}|$
+4. $= \lim_{ n \to \infty }| \frac{e}{(2n+1)(2n+2)}| = 0$
+5. Then, as $0 < 1$, this means $\sum a_{n}$ converges
