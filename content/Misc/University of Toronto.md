@@ -9,6 +9,8 @@ Best research institute in toronto.
 https://degreeexplorer.utoronto.ca/degreeExplorer/planner
 ### GPA Scale
 ![[University of Toronto-20250326013148460.webp|815]]
+# Past Exam Archive
+https://login.library.utoronto.ca/index.php?url=https://exams.library.utoronto.ca
 ### GPA Calculator
 # Drop
 Within getting your first 20% grade of a course, you are able to drop without any penalty on transcript
