@@ -19,3 +19,4 @@ $\sum_{n=1}^{\infty} \frac{(x-3)^{n}}{4^{n}}$ is a power series where:
 ### Example 2
 $\sum_{n=2}^{\infty} \frac{(4x+1)^{n}}{2^{n}\sqrt{ n }}$ is a power series where:
 - $a = \frac{1}{4}$
+- $C_{n} = \frac{2^{n}}{\sqrt{ n }}$
