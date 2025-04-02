@@ -92,9 +92,12 @@ Alternatively, you can use automated build tools such as `make` or `build2`, how
 - [[C++ Style Guides]]
 - [[C++ Classes]]
 	- [[C++ Virtual]]
+	- [[C++ Constructor]]
+	- [[C++ Destructor]]
 	- [[C++ Public]]
 	- [[C++ Private]]
 	- [[C++ Protected]]
+	- [[C++ Override]]
 # Specific Functions
 - [[sizeof()]]
 - [[setw]]
