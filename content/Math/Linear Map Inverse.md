@@ -14,5 +14,6 @@ aliases:
 	- $\forall w \in W, ST(w) = w$
 # Theorems
 - [[Injectivity Surjectivity and Inverses]]
+- [[Determinants and Invertiblity Theorem]]
 - [[Linear Map Inverses are Unique]]
 - [[Linear Map Inverses are Linear]]

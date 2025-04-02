@@ -12,6 +12,7 @@ tags:
 	2. $dim(E_{\lambda_{i}}) = m_{i}$
 # Examples
 - [[General Diagonalization Example]]
+- [[General Diagonalization Example 2]]
 # Proof
 1. Suppose $T : V \to V$ is a linear transform of a finite dimensional vector space
 2. Suppose $T$ has distinct eigenvalues $\lambda_{1}, \dots, \lambda_{k}$
@@ -37,4 +38,7 @@ $$
 3. We build an eigenbasis of V with the right size
 4. Consider eigenspace $E_{\lambda_{i}}$ for all $i \in 1,\dots ,n$
 5. Each of these is a subspace of $V$, so they are all finite dimensional and have basis
-6. We have  dim
+6. We have $dim(E_{\lambda_{i}}) = Geo(\lambda_{i})$. We pick a basis of each $E_{\lambda_{i}}$ s.t $E_{\lambda_{i}} = span(\alpha_{i})$
+7. Now, consider $\alpha = U_{i=1}^{k}\alpha_{i}$ (Refer to [[Union Notation]])
+8. Note that the size of this basis $|\alpha| = \sum_{i=1}^{k} Geo(\lambda_{i}) = dim(V)$
+9. Moreover, $\alpha$ is [[Linear Independence|indep]], and contained in a distinct eigenspace
