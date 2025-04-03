@@ -34,6 +34,9 @@ aliases:
 	- [[Integral Test]]
 - [[Absolute Convergence]]
 - [[Conditional Convergence]]
+- [[Power Series]]
+- [[Taylor Series]]
+- [[Radius of Convergence]]
 # Office Hours
 ![[Calculus 2-20250211035011054.webp]]
 # Evans's Notes
