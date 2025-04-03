@@ -18,3 +18,4 @@ Then, at least on of the following must be true:
 	- No technological feasibility
 - $i \sim 0$ (There are close to zero post-human level civilizations interested in running ancestor simulations)
 - $f_{sim} \sim 1$ (The fraction of people with our kind of experiences living in a simulation are close to one)
+Based on the [[Indifference Principle]], we should apply this likelihood to ourselves aswell.
