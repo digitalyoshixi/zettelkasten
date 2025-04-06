@@ -2,7 +2,7 @@
 tags:
   - programming
 ---
-Iterates through the unsorted part and makes a sorted part, shifting the existing sorted copy every time a new value is found in the unsorted segment that comes before another sorted value.
+Checks every element in the array. If the element to the left is smaller, then continuously swap until there is nothing smaller.
 ![[Insertion Sort-20241122211007603.webp]]
 # Python Implementation
 ```python
@@ -14,4 +14,18 @@ def insertionsort(L) -> None:
 			L[j] = L[j-1]
 			j=j-1
 		L[j] = value
+```
+# C Implementation
+```c 
+void insert_sort(int *arr, int size){
+  for (int i = 1 ; i < size; i++){
+    for (int j = i; j > 0; j--){
+      if (arr[j] < arr[j-1]){
+        int cpy = arr[j];
+        arr[j] = arr[j-1];
+        arr[j-1] = cpy;
+      }
+    }
+  }
+}
 ```
