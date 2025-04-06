@@ -11,3 +11,20 @@ for i in range(len(inputlist)):
 	index_of_smallest = inputlist.index(min(inputlist))
 	L[index_of_smallest], L[i] = L[i], L[index_of_smallest]
 ```
+# C Implementation
+```c
+void select_sort(int *arr, int size){
+  for (int i = 0; i < size; i ++)
+  {
+    int mini = i;
+    for(int j = i; j < size; j++){
+      if (arr[j] < arr[mini]){
+        mini = j;
+      }
+    }
+    int minicpy = arr[mini];
+    arr[mini] = arr[i];
+    arr[i] = minicpy;
+  }
+}
+```
