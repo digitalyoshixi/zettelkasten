@@ -5,3 +5,5 @@ tags:
 A library that allows reading and modification of OS.
 # Methods
 - [[Python os Popen]]
+# Guides
+- [[Python OS ls]]

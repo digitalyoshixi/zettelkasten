@@ -2,7 +2,8 @@
 tags:
   - algorithm
 aliases:
-  - Computational Complexity
+  - Time Complexity
+  - Space Complexity
 ---
 Describes how an algorithm performs as its input size grows infinitely large with a chosen unit of measurement.
 - Denoted as $O(g(x))$ with $g(x)$ being the smallest growing function such that $f(n) < c * O(n)$

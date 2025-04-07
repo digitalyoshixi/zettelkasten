@@ -58,6 +58,9 @@ Use `docker images` to list all images then,
 1. `docker ps` and note down the container ID
 2. `docker exec -it <containerid> <app>`
 	1. useful to make `<app>` be `/bin/sh` or `python`
+Alternatively:
+3. `docker images` and note down the container name
+4. `docker run -it <containername> /bin/sh`. Note if you want programs like [[Vim]], you must install it in your docker-file
 # Practical Use Cases
 - Make a docker compose file which automates the process of creating gitlab servers
 - You can use docker like a linux server where you SSH into

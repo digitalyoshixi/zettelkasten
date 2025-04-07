@@ -1,0 +1,11 @@
+---
+tags:
+  - programming
+  - ARM
+---
+- [[r7]]
+- [[rsp|sp]]
+- [[lr]]
+- [[pc]]
+- [[cpsr]]
+- [[spsr]]

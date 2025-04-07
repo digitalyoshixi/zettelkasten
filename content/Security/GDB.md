@@ -57,3 +57,4 @@ https://users.ece.utexas.edu/~adnan/gdb-refcard.pdf
 - [[GEF]]
 - [[PEDA]]
 - [[GDB Dumping Memory Addr]]
+- [[GDB Changing Register Values]]
