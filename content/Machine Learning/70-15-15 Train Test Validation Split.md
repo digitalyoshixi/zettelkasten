@@ -4,4 +4,5 @@ tags:
 ---
 A convention for most machine learning projects on how to classify input data:
 # Train
-Data used
+Data used for initial model training
+# 
