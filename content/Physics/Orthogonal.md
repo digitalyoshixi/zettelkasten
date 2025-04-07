@@ -4,4 +4,5 @@ tags:
 ---
 Perpendicular vectors.
 They do not affect each other.
-If you want to go north, you cannot get there by going east or west.
+# Orthogonality and [[Standard Inner Products]]
+$u,v$ are orthogonal $\Longleftrightarrow \langle u, v \rangle = 0$
