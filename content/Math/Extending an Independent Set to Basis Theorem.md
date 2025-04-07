@@ -3,7 +3,7 @@ tags:
   - linalg
 ---
 # Theorem
-1. Suppose $V$ is a finite spanning set $T = \{ y_1, \dots, y_n\}$
+1. Suppose $V$ has a finite spanning set $T = \{ y_1, \dots, y_n\}$
 2. Suppose $S = \{x_1, \dots, x_k\}$ is a linearly independent subset of $V$
 3. There is always a finite basis $S'$ of $V$ such that $S \subset S'$
 The idea is set $S' = S$

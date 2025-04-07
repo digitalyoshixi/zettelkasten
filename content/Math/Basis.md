@@ -17,5 +17,5 @@ $e_{1} = (1,0,\dots ,0)$
 - $\beta$
 - $\gamma$
 # Concepts
-- [[Basis by Unique Representation Theorem]]
+- [[Characterizing Basis by Unique Representation Theorem]]
 - [[Multiple Basis for a Single Vector Space]]
