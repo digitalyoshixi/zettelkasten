@@ -3,7 +3,7 @@ tags:
   - math
   - linalg
 ---
-This is the matrix that corresponds to a transposition.
+This is the matrix that corresponds to a [[Matrix Transposition]].
 It is usually:
 $$
 \left[\begin{array}{cc} 

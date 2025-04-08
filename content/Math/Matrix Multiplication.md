@@ -9,6 +9,8 @@ http://matrixmultiplication.xyz/
 - $S = [s_{ij}] \in M_{k \times n}(\mathbb{F})$
 - Then, $TS = [p_{ij}]$
 - Where $p_{ij} = \sum_{n=1}^{k} t_{in}s_{ni}$
+# Properties
+- Distributive over addition
 # Examples
 - [[Matrix Multiplication 2x2 Example]]
 # Other
