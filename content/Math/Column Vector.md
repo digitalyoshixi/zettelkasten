@@ -3,7 +3,7 @@ tags:
   - math
   - linalg
 ---
-Representing solutions to [[System Of Equations|Linear Systems]] as column vectors $[v]_{\beta}$
+Representing solutions to [[System Of Equations|Linear Systems]] as column vectors
 ![[Column Vectors-20250125162333239.webp]]
 # Column Vector Operations 
 ### Addition
