@@ -6,4 +6,5 @@ aliases:
   - Self Shape Matrix
 ---
 An transformation $T : V \to W$ is a automorphism if:
-- $T$ is invertible
+- $T$ has a [[Endomorphism]]
+- $T$ has a [[Isomorphism]]

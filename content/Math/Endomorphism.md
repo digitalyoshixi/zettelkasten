@@ -3,5 +3,7 @@ tags:
   - math
   - linalg
 ---
-A linear transformation where:
-- Domain and codomain are the same ($V = W$)
+A [[Morphism]] that maps an algebraic structure to itself
+# Linear Transformations
+A linear transformation $T : V\to V$:
+- Note that the domain and codomain are the same

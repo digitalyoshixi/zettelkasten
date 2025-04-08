@@ -32,6 +32,6 @@ This has the further effect of:
 - [[Linear Transformation Rotation]]
 	- [[Matrix Representation of Linear Rotation]]
 - [[Linear Map Projection]]
-- [[Set of All Linear Transformations Linear Combinations]]
+- [[Set of Linear Transformations]]
 - [[Linear Map Composition]]
 - [[Linear Map Inverse]]
