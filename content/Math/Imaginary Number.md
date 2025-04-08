@@ -10,3 +10,5 @@ to get rid of an `i`, you must square both sides.
 x = 3i
 x^2 = 9(-1)
 x^2 = -9
+# Concepts
+- [[Polar Form]]
