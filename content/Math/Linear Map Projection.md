@@ -11,7 +11,6 @@ $P_{a}$ where $v \in \mathbb{R}^{2}$ constructing a perpendicular line to $L$ th
 Give a formula for $P_{a}(v)$ using the inner product $\langle ., . \rangle$
 ![[Drawing 2025-02-07 11.38.32.excalidraw]]
 This will be $P_{a} = \frac{\langle a, v \rangle}{\langle a, a \rangle} * a$
-
 # Example
 Project $(4,3)$ onto $span\{ \langle 1, 1 \rangle \}$
 
