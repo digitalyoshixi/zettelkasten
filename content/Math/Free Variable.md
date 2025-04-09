@@ -9,3 +9,5 @@ Example:
 The statement $y \in \{ x | is\ divisible\ by\ w \}$
 - Has $y$ and $w$ as the free variables
 - Has $x$ as the [[Bound Variable]]
+# Matrix
+In a matrix, the free variable is one that does not have a [[Pivot Columns|Pivot Column]]
