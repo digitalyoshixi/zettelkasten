@@ -16,3 +16,4 @@ import pandas as pd
 - [[Pandas Statistics]]
 - [[Pandas Open CSV]]
 - [[Pandas Column Names]]
+- [[Pandas iterrows]]
