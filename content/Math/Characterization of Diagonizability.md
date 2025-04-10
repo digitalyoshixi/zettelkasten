@@ -17,4 +17,3 @@ $$
 $$
 - $= IDI^{-1}$. Therefore, $[T]_{\alpha}^{\alpha}$ is similar to a diagonal matrix
 ### Proving $\Longleftarrow$
--
