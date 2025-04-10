@@ -6,7 +6,7 @@ aliases:
   - Direct Comparison Theorem for Integrals
   - CT
 ---
-A theorem to easier determine if a [[Improper Integral]] converges or diverges.
+*A* theorem to easier determine if a [[Improper Integral]] converges or diverges.
 # Theorem
 1. Suppose $f,g,h$ are continuous on interval $[a,b]$
 2. Consider $\int_{a}^{b}f(x)dx$ is an improper integral

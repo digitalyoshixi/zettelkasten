@@ -9,6 +9,8 @@ A series that reaches positive or negative [[Infinity]].
 $\forall M > 0, \exists N > 0$ s.t $\forall n \in \mathbb{N}, n > N \implies a_{n} > M$
 ### Prove M-N for $- \infty$
 $\forall M < 0, \exists N > 0$ s.t $\forall n \in \mathbb{N}, n > N \implies a_{n} < M$
+### Prove $\epsilon-N$ for [[Oscillate|Oscillation]]
+$\exists \epsilon >0, \forall N \in \mathbb{N}, \exists m,n \in \mathbb{N} \text{ s.t } |a_{m} - a_{n}| \geq \epsilon$
 # Showing Divergence
 - Prove $M-N$ epsilon definition for $\infty$
 - Proof divergence by proof of contradiction of [[Sequence Convergence]]
