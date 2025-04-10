@@ -9,6 +9,12 @@ tags:
 - We [[Absolute Convergence]] when $|x - a| < R$
 - We Diverge when $|x - a| > R$
 This $R$ is called the radius of convergence for the power series
+# Finding Radius of Convergence Process
+From a given [[Series]] $\sum_{n=1}^{\infty} a_{n}$
+1. Simplify the radius formula which is $|\frac{a_{n+1}}{a_{n}}|$
+2. Find the interval $I$ where $|\frac{a_{n+1}}{a_{n}}| < 1$
+3. For those endpoints on the interval $I$, check for the values of $x$ in the original $\sum_{n=1}^{\infty} a_{n}$ formula with another test to check for divergence or convergence
+4. The final interval is the interval of convergence.
 # Example
 Find the radius of convergence of
 $$\sum_{n=1}^{\infty} \frac{a(x+2)^{n}}{3^{n+1}}$$
