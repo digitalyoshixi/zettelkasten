@@ -2,6 +2,9 @@
 tags:
   - math
   - philosophy
+aliases:
+  - PMI
+  - Principle of Mathematical Induction
 ---
 # Physics
 
