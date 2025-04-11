@@ -2,7 +2,10 @@
 tags:
   - math
   - linalg
+aliases:
+  - Transpose
 ---
+
 Where $$
 A = \left[\begin{array}{cc}
 a & b\\
