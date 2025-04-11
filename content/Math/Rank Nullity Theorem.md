@@ -19,5 +19,17 @@ aliases:
 	5. $\implies a_{k+1}v_{k+1} + \dots +a_{n}v_{n} = b_{1}u_{1} + \dots +b_{k}u_{k} + 0v_{k+1} + \dots + 0v_{n}$
 	6. Note that this gives us a non-unique representation in the basis $\{ u_{1}, u_{k},\dots,v_{k+1},\dots,v_{n} \}$
 	7. $\{ T(v_{k+1}),\dots,T(v_{n}) \}$ is a [[Linear Independence|indep]]
+# Alternate Proof
+1. With $dim(V) = n$
+2. Then, basis $\beta$ of $V$, then $|\beta|= n$
+3. $ker(T) \subset V$ by defn of kernel as $ker(T)$ is a subspace of $V$
+4. Choosing $\beta_{1}$ as the basis of $ker(T)$
+5. Then, basis extended to form a basis of vector space by (some theorem)
+6. $\beta = \{ b_{1}, \dots, b_{k}, v_{k+1}, \dots, v_{n} \}$
+7. Applying $T$ to the span of this basis will get us the image
+8. $T(a_{1}b_{1} + \dots +a_{n}v_{n})$
+9. $a_{1}T(b_{1}) + \dots +a_{k}T(b_{k}) + a_{k+1}T(v_{k+1}) + a_{n}T(v_{n})$
+10. $= 0 +\dots + 0 + a_{k+1}T(v_{k+1}) + a_{n}T(v_{n})$
+11. Then, $\{ v_{k+1},\dots,v_{n} \}$ is the basis for the image
+12. Thus, $dim(ker(T)) = dim(Image(T))$
 # Use Cases
-- [[Examples of Rank Nullity]]
