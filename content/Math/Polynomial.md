@@ -3,9 +3,6 @@ tags:
   - math
 aliases:
 ---
-# Table of Contents
-```table-of-contents
-```
 # Definition
 an equation where terms are numbers multiplied by variable `x`.
 number * x
