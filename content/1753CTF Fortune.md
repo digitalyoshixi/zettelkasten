@@ -41,6 +41,5 @@ There is a function in the decompilation that is called `GetFlag`
 ![[1753CTF Fortune-20250411184048372.webp]]
 It appears to be uncalled in the original wasm file:
 ![[1753CTF Fortune-20250411184322052.webp]]
-Ok, makes sense, it simply sends a GET request to the backend for verification.
-
+Ok, makes sense, it simply sends a GET request to the backend for verification. Makes sense, wouldn't have anything client-side to read the flag then?
 ![[1753CTF Fortune-20250411184519462.webp]]
