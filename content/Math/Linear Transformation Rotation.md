@@ -1,6 +1,9 @@
 ---
 tags:
   - linalg
+aliases:
+  - Linear Map Rotation
+  - Rotation Matrix
 ---
 Given a linear map $R_{e} : \mathbb{R}^{2} \to \mathbb{R}^{2}$
 We can express $R_{e}(x,y)$ for a given $(x,y)$ vector as:

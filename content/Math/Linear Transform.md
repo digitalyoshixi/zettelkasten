@@ -11,7 +11,7 @@ A function T that maps vectors from [[Vector Space]] V into another [[Vector Spa
 - Suppose $(V,\boxplus,\boxdot)$ and $(W,\oplus, \odot)$ are vector spaces.
 A linear transformation function of $T : V\to W$ is a function that follows the axioms:
 - Additivity $\forall u,v \in V, T(u \boxplus v) = T(u)\oplus T(v)$
-- Multiplicative $\forall v \in V, \forall a \in \mathbb{F},  T(a \boxdot v) = a \odot T(v)$
+- Homogenity $\forall v \in V, \forall a \in \mathbb{F},  T(a \boxdot v) = a \odot T(v)$
 ### Implications
 This has the further effect of:
 - Ensuring all lines are lines (No linear transformation should multiply variables together)

@@ -3,4 +3,8 @@ tags:
   - math
   - linalg
 ---
-1. For a [[Linear Independence|Linearly Independent]] set $B$
+# Theorem
+1. For a [[Linear Independence|Linearly Independent]] set $\beta \subset V$
+2. If $|\beta| = dim(V)$
+3. Then, $\beta$ is a [[Basis]] for $V$
+# Proof
