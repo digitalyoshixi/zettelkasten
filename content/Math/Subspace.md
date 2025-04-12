@@ -27,3 +27,4 @@ Or
 - [[Sum of Subspaces]]
 - [[Subspace Addition Span Union]]
 - [[Intersection of Subspaces]]
+- [[Proper Subspace]]
