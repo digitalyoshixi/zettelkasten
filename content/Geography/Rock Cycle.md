@@ -11,5 +11,5 @@ tags:
 7. [[Metamorphic Rock]]
 8. Melting
 9. Intrusion/extrusion
-10. Crystalkization
+10. Crystalization
 11. [[Igneous Rock]]

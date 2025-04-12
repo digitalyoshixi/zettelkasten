@@ -2,5 +2,3 @@
 tags:
   - geography
 ---
-# Geology
-- [[Glacials]]
