@@ -3,6 +3,7 @@ tags:
   - geography
 ---
 A portion of the [[Huronian Supergroup]] where there is evidence of a meteorite impact.
+Contains lots of high-quality minerals due to the [[Hydrothermal Alteration]] caused by [[Bolides]]
 Includes:
 - Nickel
 - Copper
