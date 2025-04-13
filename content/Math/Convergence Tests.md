@@ -47,5 +47,4 @@ aliases:
 - [[Top-Down Convergence Tests]]
 - [[Bottom-Up Convergence Tests]]
 # [[Power Series]]
-- [[Ratio Test]]
-- [[Radius of Convergence]]
+- [[Ratio Test]] paired with [[Radius of Convergence]]

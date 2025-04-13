@@ -13,6 +13,8 @@ Where:
 - $a$ is the center of the PS
 # Convergence/Divergence
 - Test with [[Ratio Test]]
+# Theorems
+- [[Power Series Convergence Possibilities Theorem]]
 # Examples
 ### Example 1
 $\sum_{n=1}^{\infty} \frac{(x-3)^{n}}{4^{n}}$ is a power series where:
