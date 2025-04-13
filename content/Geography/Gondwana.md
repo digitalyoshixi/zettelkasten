@@ -1,7 +1,8 @@
 ---
 tags:
   - geography
-aliases: []
+aliases:
+  - Amazonia
 ---
 A [[Supercontinent]] that included:
 - [[Australia]]
