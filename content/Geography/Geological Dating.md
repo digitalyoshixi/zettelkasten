@@ -6,6 +6,7 @@ tags:
 - [[Radiocarbon Dating]]
 - [[Uraniam-Lead Radiometric Dating]]
 - [[Layer Counting Dating]]
+- [[Index Fossils]]
 # Relative Dating
 - [[Law of Superposition]]
 - [[Law of Original Horizontality]]
