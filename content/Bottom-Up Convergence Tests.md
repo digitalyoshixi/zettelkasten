@@ -8,4 +8,4 @@ For a given [[Series]] $\sum a_{n}$, we can determine its:
 - [[Conditional Convergence|CC]]
 - [[Series Convergence]]/[[Series Divergence]]
 # Process
-![[Top-Down Convergence Tests-20250413035919979.webp]]
+![[Bottom-Up Convergence Tests-20250413040009401.webp]]

@@ -37,6 +37,7 @@ aliases:
 - [[Power Series]]
 - [[Taylor Series]]
 - [[Radius of Convergence]]
+- [[Convergence Tests]]
 # Office Hours
 ![[Calculus 2-20250211035011054.webp]]
 # Evans's Notes
