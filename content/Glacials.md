@@ -2,5 +2,6 @@
 tags:
   - geography
 aliases:
-  - Glacial Sediments
+  - Ice-Age
 ---
+Periods of ice-age.
