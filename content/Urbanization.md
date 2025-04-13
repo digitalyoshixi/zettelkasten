@@ -1,7 +1,9 @@
 ---
 tags:
   - geography
-aliases:
-  - Watershed Hardening
+aliases: []
 ---
-Te 1
+The processes of converting [[Rural]] area into [[City]] 
+# Processes
+- [[Deforestation]]
+- [[Watershed Hardening]]
