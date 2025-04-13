@@ -46,5 +46,6 @@ aliases:
 # [[Conditional Convergence|CC]] or [[Absolute Convergence|AC]]
 - [[Top-Down Convergence Tests]]
 - [[Bottom-Up Convergence Tests]]
-# [[Power Series]]
-- [[Ratio Test]] paired with [[Radius of Convergence]]
+# Functions for [[Power Series]]
+1. Convert to [[Taylor Series]] or [[Maclaurin Series]]
+2. [[Ratio Test]] paired with [[Radius of Convergence]]
