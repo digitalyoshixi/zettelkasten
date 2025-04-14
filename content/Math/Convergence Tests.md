@@ -17,7 +17,7 @@ aliases:
 	- Divergence
 - [[Sequence Convergence|Sequence Convergence Properties]]
 	- Convergence
-- [[Comparison Theorem for Integrals]]
+- [[Comparison Theorem for Sequences]]
 	- Convergence
 	- Divergence
 - [[Bounded Monotone Convergence Theorem|BMCT]]
