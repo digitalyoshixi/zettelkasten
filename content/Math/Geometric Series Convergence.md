@@ -8,7 +8,7 @@ aliases:
 ---
 # GS-Test
 1. Given $\sum_{n=i}^{\infty}a_{i}r^{n}$, $a_{i}, r \in \mathbb{R}, a_{i} \neq 0$ is a [[Geometric Series]]
-2. If $|r| < 1$ then, $\sum a_{i}r^{n}$ converges to $\frac{a_{i}}{1-r}$
+2. If $|r| < 1$ then, $\sum a_{i}r^{n}$ converges to $\frac{a}{1-r}$
 3. If $|r| \geq 1$  then, $\sum a_{i}r^{n}$ diverges
 # GS Test Example
 Prove $\sum_{n=4}^{\infty}((\frac{1}{2})^{n} - 7 (\frac{6}{11})^{n})$ converges
