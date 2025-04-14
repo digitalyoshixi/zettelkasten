@@ -16,6 +16,9 @@ The process to evaluate this integral is called integration
 - [[Definite Integral Darboux Sum Definition]]
 - [[Definite Integral Darboux Sum Epsilon Reformed Definition]]
 - [[Definite Integral Lebesgue Sum Definition]]
+# Not Integrable
+- When there is a [[Essential Discontinuity|Infinite Discontinuity]] within the interval
+- When there are too-many [[Jump Discontinuities]] (Like [[Dirichlet Function]])
 # Properties of Definite Integral
 Given $a,b \in R, a < b$, $f(x)$ and $g(x)$ are integrable on $[a,b]$
 1. $\forall x \in [a,b], f(x) \geq 0 \implies \int _{b}^a f(x)\, dx \geq 0$
