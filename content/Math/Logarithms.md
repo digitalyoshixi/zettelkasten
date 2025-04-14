@@ -2,9 +2,6 @@
 tags:
   - math
 ---
-# Table of Contents
-```table-of-contents
-```
 # Logarithm
 **A logarithm is equal to an exponent**
 ![[Logarithms-20231130155322898.webp|369]]
