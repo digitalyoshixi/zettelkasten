@@ -23,3 +23,4 @@ $f(x) dx$
 - [[Basic Integral Table]]
 # Specific Integrals
 - [[Integral of tan(x)]]
+- [[Integral of abs(x)]]
