@@ -3,5 +3,43 @@ tags:
   - machine_learning
 ---
 Obtained from mrexodia
-
 # Tools List
+- [https://replit.com/](https://replit.com/ "https://replit.com/") (3 free projects)
+	- Supposedly came out on top: [https://x.com/awilkinson/status/1908882050435997973?s=46&t=0Ven6DWZeNPcGOTNyWx89g](https://x.com/awilkinson/status/1908882050435997973?s=46&t=0Ven6DWZeNPcGOTNyWx89g "https://x.com/awilkinson/status/1908882050435997973?s=46&t=0Ven6DWZeNPcGOTNyWx89g")
+  - [https://bolt.new/](https://bolt.new/ "https://bolt.new/") (seems to be free for non-commercial?)
+  - [https://gamma.app/](https://gamma.app/ "https://gamma.app/") (generate presentations)
+  - [https://claude.ai/](https://claude.ai/ "https://claude.ai/") (ChatGPT alternative)
+  - [https://v0.dev/](https://v0.dev/ "https://v0.dev/") (Vercel)
+  - [https://www.cursor.com/](https://www.cursor.com/ "https://www.cursor.com/") (this is what that girl used in the video)
+	   - [https://x.com/MengTo/status/1830122851028123911](https://x.com/MengTo/status/1830122851028123911 "https://x.com/MengTo/status/1830122851028123911")
+	  - [https://x.com/itsTarH/status/1827757410112397718](https://x.com/itsTarH/status/1827757410112397718 "https://x.com/itsTarH/status/1827757410112397718")
+  - [https://dreamcut.ai/](https://dreamcut.ai/ "https://dreamcut.ai/") (AI-powered video editing)
+  - [https://www.perplexity.ai/](https://www.perplexity.ai/ "https://www.perplexity.ai/") (Supposedly better than Google search?)
+  - [https://gemini.google.com/app](https://gemini.google.com/app "https://gemini.google.com/app")
+  - [https://copilot.microsoft.com/](https://copilot.microsoft.com/ "https://copilot.microsoft.com/")
+  - [https://www.youlearn.ai/](https://www.youlearn.ai/ "https://www.youlearn.ai/")
+  - [https://thinkbuddy.ai/](https://thinkbuddy.ai/ "https://thinkbuddy.ai/")
+      - [https://www.youtube.com/watch?v=dhUolxPptK8](https://www.youtube.com/watch?v=dhUolxPptK8 "https://www.youtube.com/watch?v=dhUolxPptK8")
+  - [https://dora.run/](https://dora.run/ "https://dora.run/")
+  - [https://mplx.run/](https://mplx.run/ "https://mplx.run/") open source perplexity alternative
+  - [https://khoj.dev/](https://khoj.dev/ "https://khoj.dev/") self hosted AI second brain
+  - [https://fal.ai/](https://fal.ai/ "https://fal.ai/") image generation with optional API
+  - [https://v0.dev/](https://v0.dev/ "https://v0.dev/")
+  - [https://akuma.ai/](https://akuma.ai/ "https://akuma.ai/") draw anime art in real time
+  - [https://exa.ai/](https://exa.ai/ "https://exa.ai/") another AI search engine
+  - [https://kimi.ai/](https://kimi.ai/ "https://kimi.ai/") perplexity alternative (supposedly faster)
+  - [https://web.lmarena.ai/](https://web.lmarena.ai/ "https://web.lmarena.ai/") compare different models for coding tasks
+  - [https://app.requesty.ai/router/onboarding](https://app.requesty.ai/router/onboarding "https://app.requesty.ai/router/onboarding") middle man for AI APIs
+  - [https://openrouter.ai/](https://openrouter.ai/ "https://openrouter.ai/") middle man for AI APIs
+  - [https://glama.ai/](https://glama.ai/ "https://glama.ai/")
+  - [https://klingai.com/](https://klingai.com/ "https://klingai.com/") AI video generation
+  - [https://trainloop.ai/](https://trainloop.ai/ "https://trainloop.ai/") Fine tune models to your project
+  - [https://gamma.app/](https://gamma.app/ "https://gamma.app/") Easily clone websites
+  - [https://lovable.dev/](https://lovable.dev/ "https://lovable.dev/") Prompt full stack apps
+  - [https://codeium.com/windsurf](https://codeium.com/windsurf "https://codeium.com/windsurf") Another AI editor (supposedly better than Cursor)
+  - [https://www.descript.com/](https://www.descript.com/ "https://www.descript.com/")
+  - [https://www.tripo3d.ai/app](https://www.tripo3d.ai/app "https://www.tripo3d.ai/app") - Generate 3d models
+  - [https://atlas.nomic.ai](https://atlas.nomic.ai/) twitter sentiment analysis
+  - [https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/ "https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/") new gemini agent space
+  - [https://gitmcp.io/](https://gitmcp.io/ "https://gitmcp.io/")
+  - [https://gabber.dev/](https://gabber.dev/ "https://gabber.dev/") realistic AI voices for 1$/hr

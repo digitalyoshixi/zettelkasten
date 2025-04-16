@@ -15,7 +15,6 @@ They can **ALL** be proved.
 - [[Half Angle Identity]] *
 - [[Sum to Product]]
 - [[Product to Sum]]
-- [[Power Reducing Identity]]
 # Practical Identity Use
 - [[Random Angle to Co-Function or Supp-Function Identity]]
 - [[Equivalent Ratio Problem Solving Procedure]] <-- Good for understanding Co-Function
