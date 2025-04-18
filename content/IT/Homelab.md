@@ -19,4 +19,5 @@ This is the map of my homelab:
 - [[Cloudflare Tunnel]]
 - [[Invidious]]
 - [[Redlib]]
-- Self hosted [[Excalidraw]] with plugins
+- [[TOR]] relay (bridge node)
+- Self hosted [[Excalidraw]] with plugins (https://github.com/excalidraw/excalidraw/issues/6506)
