@@ -5,6 +5,7 @@ aliases:
   - AL
 ---
 An [[C Arrays|Array]] that contains pointers to node [[Neighbourhood|Neighbourhoods]].
+For a directed graph, this contains the out-
 ![[Drawing 2025-03-12 11.39.49.excalidraw]]
 # Graph Operations
 - Adding an edge ($i,j$)

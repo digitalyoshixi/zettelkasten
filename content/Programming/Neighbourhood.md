@@ -13,3 +13,5 @@ The list of nodes that the current node is linked from
 In this case for node B, it is: `[A]`
 ### Self-Linking Node
 For a self-linking node, it is included within its neighbourhood set. Both in out neighborhood and in neighborhood.
+# Auxilliary Concepts
+- [[Graph Degree]]
