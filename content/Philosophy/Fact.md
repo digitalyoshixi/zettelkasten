@@ -2,6 +2,9 @@
 tags:
   - philosophy
   - ethics
+aliases:
+  - Factive
+  - Truth Entailing Proposition
 ---
 A true [[Proposition]].
 
