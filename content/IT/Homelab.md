@@ -19,3 +19,4 @@ This is the map of my homelab:
 - [[Cloudflare Tunnel]]
 - [[Invidious]]
 - [[Redlib]]
+- Self hosted [[Excalidraw]] with plugins
