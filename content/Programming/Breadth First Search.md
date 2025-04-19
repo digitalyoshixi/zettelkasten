@@ -2,6 +2,8 @@
 tags:
   - programming
   - algorithm
+aliases:
+  - BFS
 ---
 A [[Path Finding|Graph Traversal]] algorithm that searches in 'rings'.
 # Algorithm
