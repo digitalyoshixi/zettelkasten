@@ -11,3 +11,69 @@ Is $O(n\log_{2}(n))$ time
 2. Check which sub-list is smaller than the other, and merge in proper order
 # Pseudocode
 ![[Merge Sort-20250317204934325.webp]]
+# C Implementation
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+#define MAX_LEN = 1024
+
+void print_list(int* list, int len){
+  for (int i = 0; i < len; i++){
+    printf("%d, ", list[i]);
+  }
+}
+
+int* merge(int* list1, int* list2, int len1, int len2){
+  // create a new max list size with len1+len2
+  //printf("list1: ");
+  //print_list(list1, len1);
+  //printf("list2: ");
+  //print_list(list2, len2);
+  int* ret_list = (int*)calloc(len1+len2, sizeof(int));
+  int ptr1 = 0;
+  int ptr2 = 0;
+  int ptr_list = 0;
+  while (ptr1 < len1 && ptr2 < len2){
+    if (list1[ptr1] < list2[ptr2]){
+      ret_list[ptr_list] = list1[ptr1];
+      ptr1++;
+    }
+    else{
+      ret_list[ptr_list] = list2[ptr2];
+      ptr2++;
+    }
+    ptr_list++;
+  }
+  // dump last things 
+  if (ptr1 < len1){
+    for (int i = ptr1; i < len1; i++){
+      ret_list[ptr_list] = list1[i];
+      ptr_list++;
+    }
+  }
+  else if (ptr2 < len2){
+    for (int i = ptr2; i < len2; i++){
+      ret_list[ptr_list] = list2[i];
+      ptr_list++;
+    }
+  }
+  //printf("ret_list:");
+  //print_list(ret_list, len1+len2);
+  return ret_list;
+}
+
+int* merge_sort(int* arr, int len){
+  if (len == 1){
+    return arr;
+  }
+  return merge(merge_sort(arr, len/2), merge_sort(arr+len/2, len-len/2), len/2, len-len/2);
+}
+
+int main(){
+  int mylist[10] = {2, 5, 2 ,6, 7, 1, 4, 10, 9, 3};
+  int* newlist = merge_sort(mylist, 10);
+  print_list(newlist, 10);
+  return 0;
+}
+```
