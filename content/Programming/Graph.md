@@ -3,7 +3,7 @@ tags:
   - c
   - programming
 ---
-A graph is a collection of nodes and edges linked to have specific relationships.
+A graph is a collection of $V$ nodes linked by $E$ edges to have specific relationships.
 ![[Drawing 2025-03-12 11.12.59.excalidraw]]
 # Formal Definition
 Graph has a
@@ -13,6 +13,7 @@ Graph has a
 - [[Directed Graph]]
 - [[Undirected Graph]]
 # Concepts
+- [[Neighbour]]
 - [[Neighbourhood]]
 - [[Adjacency List]]
 - [[Adjacency Matrix]]
