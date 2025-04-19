@@ -2,6 +2,7 @@
 tags:
   - programming
 ---
+[[Method|Methods]] that soley access [[Attribute]] data.
 ```java
 public class Fraction{
 	private int num; // IMPORTANT!! PRIVATE

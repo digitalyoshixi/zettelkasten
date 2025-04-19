@@ -1,18 +1,18 @@
 ---
 tags:
-  - data_layer
   - networking
-  - networking
+  - programming
 ---
-Transmission based on [[Network Messages]]
-In order for higher level protocols to be able to understand some of the data given, headers(and sometimes trailers) need to be given from each respective layer.
-**Encapsulation is the process of putting headers and trailers around some data**
+The process of structuring several types of data into one packet/module.
+# Networking
+Transmission protocol used for creating [[Network Messages]]
+**Encapsulation is the process of putting headers and trailers around payloads**
 
 Encapsulation occurs in all layers, but the general term Encapsulation is really only used in the [[TCP & IP Network Layer|Network Layer]] and then [[TCP & IP Data Layer|Data Layer]] to distinguish between the different methods of Encapsulation those layers have.
 
 For more information, consult each respective page:
-[[TCP & IP Network Layer|Network Layer]]
-[[TCP & IP Data Layer|Data Layer]]
+- [[TCP & IP Network Layer|Network Layer]]
+- [[TCP & IP Data Layer|Data Layer]]
 # General Encapsulation from Application->Physical
 For example, sending an HTTP request and getting an HTTP response will send data back with an:
 - HTTP header with response code "OK"

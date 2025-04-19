@@ -11,7 +11,7 @@ tags:
 - [[Java Classes]]
 - [[Java Objects]]
 - [[Public Classes]]
-- [[Accessors and Mutators]]
+- [[Accessor Method]]
 
 - [[toString Method]]
 - [[Constructor Method]]

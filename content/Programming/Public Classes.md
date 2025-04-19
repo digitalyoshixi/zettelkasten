@@ -11,4 +11,4 @@ Fraction myman = new Fraction();
 myman.num = 10; // BAD PRACTICE!!. DIRECT MODIFICATION
 ```
 
-Instead you should use [[Accessors and Mutators]] 
+Instead you should use [[Accessor Method]] 
