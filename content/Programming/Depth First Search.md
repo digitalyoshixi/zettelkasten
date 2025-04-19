@@ -5,7 +5,7 @@ tags:
 aliases:
   - DFS
 ---
-A [[Bottom-up Programming]] algorithm for [[Path Finding]].
+A [[Bottom-up Programming]] algorithm for [[Path Finding]]. Uses a [[Stack]]
 # Algorithm
 1. Base case is when `S = D` or `S = NULL`
 2. Keep a list of nodes visited

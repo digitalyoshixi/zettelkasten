@@ -5,7 +5,7 @@ tags:
 aliases:
   - BFS
 ---
-A [[Path Finding|Graph Traversal]] algorithm that searches in 'rings'.
+A [[Path Finding|Graph Traversal]] algorithm that searches in 'rings'. Uses a [[Queue]]
 # Algorithm
 ### [[Top-down Programming]]
 1. Starts at vertex 0

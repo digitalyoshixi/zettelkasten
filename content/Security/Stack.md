@@ -17,8 +17,3 @@ Organized memory where program data resides. Stores:
 # Concepts
 - [[Last in First Out|LIFO]]
 - [[Stack Frame]]
-
-
-
-
-

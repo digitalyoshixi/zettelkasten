@@ -4,4 +4,4 @@ tags:
 aliases:
   - ext4
 ---
-Supports volumes up to 1 exabyte and is backwards compatible with EXT2 and EXT3.
+Supports volumes up to 1 exabyte and is backwards compatible with [[ext2]] and [[ext3]].
