@@ -17,7 +17,7 @@ A [[Bottom-up Programming]] algorithm for [[Path Finding]]. Uses a [[Stack]]
 #include <stdio.h>
 #include <stdlib.h>
 
-int BFS(int adj_mat[5][5], int start_node, int end_node, int* marked){
+int DFS(int adj_mat[5][5], int start_node, int end_node, int* marked){
   if (start_node == end_node){
     return 0;
   }
@@ -52,8 +52,7 @@ int main(){
   };
 
   int marked[5] = {0,0,0,0,0};
-  printf("BFS Length: %d\n", BFS(adj_mat_2, 0, 4, marked));
-  
+  printf("DFS Length: %d\n", DFS(adj_mat_2, 0, 4, marked));
 
   return 0;
 }
