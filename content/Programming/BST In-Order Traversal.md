@@ -2,6 +2,8 @@
 tags:
   - math
   - linalg
+aliases:
+  - Tree Sort
 ---
 1. Visit left subtree
 2. Print the node
@@ -15,3 +17,6 @@ void print_Order(Node *node){
 	}
 }
 ```
+# Complexity
+- Worst Case: $O(N^{2})$
+- Average Case: $O(N)$

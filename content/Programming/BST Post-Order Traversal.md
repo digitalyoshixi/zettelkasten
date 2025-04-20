@@ -15,3 +15,4 @@ void print_Order(Node *node){
 	}
 }
 ```
+Useful for [[Parsing]] [[Abstract Syntax Tree|AST]], or [[BST Delete Tree]]

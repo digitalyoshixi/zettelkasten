@@ -10,3 +10,4 @@ tags:
 - [[Block Merge Sort]]
 - [[Heap Sort]]
 - [[Merge Sort]]
+- [[BST In-Order Traversal|Tree Sort]]
