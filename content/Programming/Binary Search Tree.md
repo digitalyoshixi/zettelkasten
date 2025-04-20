@@ -29,3 +29,4 @@ typedef struct BST_Node{
 - [[BST In-Order Traversal]]
 - [[BST Pre-Order Traversal]]
 - [[BST Post-Order Traversal]]
+- [[Balanced BST]]
