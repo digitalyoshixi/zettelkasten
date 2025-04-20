@@ -8,6 +8,7 @@ aliases:
 Describes how an algorithm performs as its input size grows infinitely large with a chosen unit of measurement.
 - Denoted as $O(g(x))$ with $g(x)$ being the smallest growing function such that $f(n) < c * O(n)$
 ![[big-o-chart-3693586841.png]]
+![[Big O Notation-20250420022901850.webp]]
 # Complexity Notation
 $O(g(N))$ is the family of all functions $f(N)$ such that:
 $\exists c, \lim_{ n \to \infty } f(N) \leq \lim_{ n \to \infty } c * g(N)$
