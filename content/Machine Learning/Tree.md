@@ -18,3 +18,5 @@ flowchart TD
     D --> E[Leaf]
     D --> F[Leaf]
 ```
+# Properties
+- [[Tree Height]]
