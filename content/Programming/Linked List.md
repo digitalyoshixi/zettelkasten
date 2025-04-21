@@ -21,3 +21,4 @@ Last element is linked to first element. Thus no pointer points to NULL
 # Guides
 - [[C Linked List Traversal]]
 - [[C Linked List Deletion]]
+- [[C Linked List Reversal]]
