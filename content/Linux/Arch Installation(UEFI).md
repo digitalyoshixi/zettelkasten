@@ -76,7 +76,7 @@ my host name is `arch` usually
 ### Boot
 1. `pacman -S networkmanager grub efibootmgr dosfstools os-prober mtools`
 2. `systemctl enable NetworkManager`
-3. `grub-install --target=x86_64-efi --bootloader-id=grub_uefi --recheck`
+3. `grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=grub_uefi --recheck`
 4. `grub-mkconfig -o /boot/grub/grub.cfg`
 
 ### Cleanup
