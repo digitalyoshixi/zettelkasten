@@ -8,9 +8,8 @@ tags:
 	- [ ] https://pve.proxmox.com/wiki/Renaming_a_PVE_node
 	- [ ] https://forum.proxmox.com/threads/hostname-fqdn-huh.63667/
 - [ ] Setup auto-patching of [[Proxmox]] OS 
-- [ ] Setup [[Linux Users]] with [[Principle of Least Privilege]]
+- [x] Setup [[Linux Users]] with [[Principle of Least Privilege]]
 - [x] Setup [[Proxmox]] [[Access Control Model|ACL]] ([[Software Firewall]])
-- [ ] Setup [[Proxmox]] [[Firewall]] for SSH only when in [[Local Area Network|LAN]]
 # April 23 2025
 - Setup old desktop to start running again, and plugged in:
 	- 512GB [[Hard Drive|HDD]]
