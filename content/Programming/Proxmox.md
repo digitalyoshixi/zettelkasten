@@ -14,4 +14,5 @@ https://inv.nadeko.net/watch?v=GoZaMgEgrHw&listen=false
 # Concepts
 - [[Proxmox Firewall]]
 - [[Proxmox LVM-Thin Storage]]
+- [[Proxmox Users]]
 - [[Proxmox ZFS Pool]]
