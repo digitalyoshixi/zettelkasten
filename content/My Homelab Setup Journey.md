@@ -19,7 +19,11 @@ tags:
 - The domain FQDN must be left as invalid, since I dont have a certificate at this point in time. https://forum.proxmox.com/threads/hostname-fqdn-huh.63667/. I set mine as host1.invalid
 - I finish the installation, and then access the webUI on my laptop
   ![[My Homelab Setup Journey-20250423202118991.webp]]
-- The second disk that is 8T must be formatted before proxmox is able to see it and attach it as storage
 - To update the system to allow for the disk tab to be visible, we first:
 	- Disable enterprise repos and enable non-subscription repos in the webui
 	- We run this script: https://community-scripts.github.io/ProxmoxVE/scripts?id=post-pve-install
+- The second disk that is 8T must be partitioned before proxmox is able to see it and attach it as storage
+  https://forum.proxmox.com/threads/how-to-add-hard-drive-to-host.119376/ or https://inv.nadeko.net/watch?v=zIoDXWKsorg
+	- I decided to use it as [[Proxmox LVM-Thin Storage]]
+	- ![[My Homelab Setup Journey-20250423211456830.webp]]
+	- ![[My Homelab Setup Journey-20250423210350703.webp]]
