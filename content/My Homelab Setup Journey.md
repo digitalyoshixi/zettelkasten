@@ -3,13 +3,13 @@ tags:
   - IT
 ---
 # Todo
-- [ ] Setup [[Proxmox ZFS Pool]]
+- [x] Setup [[Proxmox ZFS Pool]]
 - [ ] Purchase a domain name and get the required certificate from ACME
 	- [ ] https://pve.proxmox.com/wiki/Renaming_a_PVE_node
 	- [ ] https://forum.proxmox.com/threads/hostname-fqdn-huh.63667/
 - [ ] Setup auto-patching of [[Proxmox]] OS 
 - [ ] Setup [[Linux Users]] with [[Principle of Least Privilege]]
-- [ ] Setup [[Software Firewall]]
+- [ ] Setup [[Proxmox]] [[Access Control Model|ACL]] ([[Software Firewall]])
 # April 23 2025
 - Setup old desktop to start running again, and plugged in:
 	- 512GB [[Hard Drive|HDD]]

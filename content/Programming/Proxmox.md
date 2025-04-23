@@ -11,8 +11,7 @@ A hardware-level virtualization management service.
    https://forum.proxmox.com/threads/how-to-add-hard-drive-to-host.119376/
 ### TechnoTims Guide
 https://inv.nadeko.net/watch?v=GoZaMgEgrHw&listen=false
-# Specific Guides
-- [[Proxmox ]]
 # Concepts
+- [[Proxmox Firewall]]
 - [[Proxmox LVM-Thin Storage]]
 - [[Proxmox ZFS Pool]]
