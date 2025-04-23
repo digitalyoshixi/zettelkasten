@@ -2,7 +2,7 @@
 tags:
   - windows
 aliases:
-  - diskmgt.msc
+  - diskmgmt.msc
 ---
 A [[Partitioning]] tool on modern windows systems.
 # Disk Initialization
