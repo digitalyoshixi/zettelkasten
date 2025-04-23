@@ -21,3 +21,5 @@ This is the map of my homelab:
 - [[Redlib]]
 - [[TOR]] relay (bridge node)
 - Self hosted [[Excalidraw]] with plugins (https://github.com/excalidraw/excalidraw/issues/6506)
+# Personal Journal
+- [[My Homelab Setup Journey]]
