@@ -1,6 +1,8 @@
 ---
 tags:
   - networking
+aliases:
+  - Network Protocols
 ---
 # Protocol Types
 ### Connection-Oriented
@@ -62,5 +64,6 @@ tags:
 - [[Line Printer Daemon|LPD]]
 - [[Syslog]]
 - [[NetBT]]
+- [[Open Shortest Path First|OSPF]]
 # Protocol Groups
 - [[Multiple Access Protocols]]

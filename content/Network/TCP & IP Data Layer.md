@@ -6,7 +6,7 @@ tags:
 aliases:
   - Data Layer
 ---
-One of the 2 Alternate layers of the [[TCP & IP Link Layer]] found in the [[TCP & IP]] 5 layered model along with [[TCP & IP Physical Layer]].
+One of the 2 Alternate layers of the [[TCP & IP Link Layer]] found in the [[TCP & IP Model]] 5 layered model along with [[TCP & IP Physical Layer]].
 
 Works with how data is formatted. Primarily through [[Network/Encapsulation]] and [[Addressing]]
 

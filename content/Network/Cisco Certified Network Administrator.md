@@ -14,4 +14,6 @@ The best networking certification you can get
 5. Buy the voucher on pearson vue
 # Concepts
 - [[CCNA Network Icon Guide]]
-- [[Networking Models]]
+- [[Networking Model]]
+	- [[TCP & IP Model]]
+	- [[OSI Model]]

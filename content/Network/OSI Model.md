@@ -4,8 +4,10 @@ tags:
   - networking
 aliases:
   - Open System Interconnections
+  - OSI
+banner:
 ---
-One of the now derelict networking models. Replaced by the [[TCP & IP]] Model in prevalence. However, we still talk about the OSI because it was a damn good model. And fuck anybody who says it wasn't. It was perfect!
+One of the now derelict networking models. Replaced by the [[TCP & IP Model]] Model in prevalence. However, we still talk about the OSI because it was a damn good model. And fuck anybody who says it wasn't. It was perfect!
 
 **The reason why we still talk about the OSI model is because of the terminology. People still use the terminology in regards of layers in terms of the OSI model.**
 

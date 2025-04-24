@@ -6,7 +6,7 @@ tags:
 aliases:
   - PPP
 ---
-One of the protocols used to for data transfer on serial lines. Similar to [[High-Level Data Link Control Protocol]] designed with routers and the [[TCP & IP]] model in mind, unlike the [[High-Level Data Link Control Protocol|HDLC]] which retconned those features in later.
+One of the protocols used to for data transfer on serial lines. Similar to [[High-Level Data Link Control Protocol]] designed with routers and the [[TCP & IP Model]] model in mind, unlike the [[High-Level Data Link Control Protocol|HDLC]] which retconned those features in later.
 
 https://www.ccnahub.com/ip-fundamentals/understanding-data-link-layer-encapsulation/
 PPP has several functions useful for connecting 2 routers successfully.

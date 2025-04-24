@@ -73,7 +73,7 @@ tags:
 - [[Local Area Network|LAN]]
 - [[Wireless Local Area Network|WLAN]]
 - [[Network Topology]]
-- [[Network Protocols]]
+- [[Network Protocol]]
 - [[Network Diagnostic Tools]]
 - [[Network Troubleshooting]]
 - [[Network Ports]]
