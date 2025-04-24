@@ -2,7 +2,8 @@
 tags:
   - networking
 ---
-### Icons used In the book
+# Icons used In the book
+![[CCNA Network Icon Guide-20250424145958219.webp]]
 - Printer: Fax or directly connect to it with computer and print something out
 - PC/Laptop: general purpose computers
 - [[Server]]: computers used for the purpose of storing data
@@ -22,7 +23,7 @@ tags:
 - [[Bridge]]: method of connecting 2 seperate networks as if they were the same network. Can be wired or wireless
 - Layer3 Switch: specialized switch for use in layer 3 network layer
 - Network cloud: a black box for whatever we don’t need to know for the moment
-- [[RJ-45]] connection: wired connection. Cable is copper or fibre, idk
+- [[RJ-45]] connection: wired connection. Cable is copper
 - Serial line: special RS-232 cable for network connection between computers. Antiquated, just use ethernet instead
 - Virtual circuit: assumption of transmission over the internet
 - Ethernet WAN: again, special name. Just ethernet used specifically for WAN, maybe longer cables I gather
