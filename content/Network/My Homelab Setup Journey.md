@@ -1,6 +1,7 @@
 ---
 tags:
   - IT
+  - projects
 ---
 # Todo
 - [x] Setup [[Proxmox ZFS Pool]]
