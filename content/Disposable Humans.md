@@ -2,5 +2,7 @@
 tags:
   - philosophy
   - politics
+aliases:
+  - Subhuman
 ---
-Viewing other hu
+Treating people as [[Means to an End]]. Destroys [[Social Fabric]] and is strictly immoral.
