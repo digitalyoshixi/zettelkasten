@@ -20,3 +20,4 @@ A programming language used in [[Webapp|Webapps]] promoted for its:
 - [[Document Object Model|DOM]]
 - [[Javascript Fetch]]
 - [[Javascript Destructuring]]
+# Boilerplate
