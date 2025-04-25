@@ -5,7 +5,6 @@ aliases:
   - LLVM codegen
 ---
 LLVM for [[C++]] comes with a LLVM namespace that has the following classes:
-
 # `Value *`
 - [[LLVM Namespace Value]]
 - [[LLVM Namespace Module]]
