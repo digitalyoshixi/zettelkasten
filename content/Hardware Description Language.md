@@ -1,0 +1,10 @@
+---
+tags:
+  - programming
+  - hardware
+aliases:
+  - HDL
+  - Logical Programming
+---
+Languages used to determine the actions of [[Circuit|Circuits]].
+Used for programming [[Application Specific Integrated Circuit|ASIC]] with an [[Field Programmable Gate Arrays|FPGA]].

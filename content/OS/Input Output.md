@@ -1,6 +1,8 @@
 ---
 tags:
   - os
+aliases:
+  - I/O
 ---
 Most of the operating system code is dedicated to managing input and output.
 
