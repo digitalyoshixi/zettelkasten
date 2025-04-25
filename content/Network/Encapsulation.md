@@ -24,11 +24,10 @@ One step corresponds to the role of each layer.
 
 ## 5 Step Process
 The process can be divided into 5 steps.
-![[Pasted image 20230910170032.png]]
+![[Encapsulation-20250424170343113.webp]]
 We use our 5 Layer model for this one.
 1. **Create and encapsulate application data with application headers**. For HTTP, that is the HTTP header "OK(200)"
 2. **Encapsulate data inside a TCP header**. Used to count the current packet sequence number
 3. **Encapsulate data inside IP header**. To tell them what this address is
 4. **Encapsulate data inside Data header and trailer**. Different depending on whether you are using the [[Point-to-Point Protocol]] or [[High-Level Data Link Control Protocol]]. An example encapsulation for PPP looks like this: ![[Pasted image 20230910171355.png]]
-5. **Transmit the bits**. Physical layer encodes the data as a signal. 
-
+5. **Transmit the bits**. Physical layer encodes the data as a signal. Data undergoes [[Bit Transmission]]

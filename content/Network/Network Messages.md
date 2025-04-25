@@ -8,7 +8,7 @@ aliases:
   - Packet
 ---
 Messages are the data sent between computers. They are just bits of data passed around a cable, but they go by many names.
-
+The [[OSI Model|OSI]] equivalent is the [[Protocol Data Unit|PDU]]
 ## Types
 ![[Pasted image 20230910172759.png]]
 ### Segment
@@ -17,8 +17,7 @@ Only used in the [[TCP & IP Transport Layer|Transport Layer]]. consists of a TCP
 The most commonly used term for network messages. The [[TCP & IP Network Layer|Network Layer]] message. has your IP address header and your Data gotten from previous layers.
 ### Frame
 The last encapsulated form of message before it enters the [[Bit Transmission]] of the [[TCP & IP Physical Layer|Physical Layer]]
-
-## Data
+# Data
 Its important to know that data not only includes the original data sent, but also the headers of the previous higher layers.
 For example, this might be an example data on the IP layer:
 `| SEQ5 | OK(200) | <div> "salutaions" <div> |

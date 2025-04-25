@@ -1,8 +1,6 @@
 ---
 tags:
   - networking
-  - link_layer
-  - networking
 ---
 # Ethernet Frame
 Before [[Bit Transmission]] on a [[RJ-45]] starts, Data is encapsulated in the [[TCP & IP Data Layer|Data Layer]] using the Ethernet Protocol Encapsulation.

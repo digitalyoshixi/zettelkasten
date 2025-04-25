@@ -7,7 +7,8 @@ aliases:
   - Link Layer
 ---
 Defines protocols and hardware that is required for data transfer in physical networks. Link refers to the physical cable links between 2 devices.
-The 5 layer [[TCP & IP Model]] model simply splits the link layer into its 2 functions of data transfer and physical media within the [[TCP & IP Data Layer]] and [[TCP & IP Physical Layer]].
+
+The 5 layer [[TCP & IP Model|TCP/IP Model]] simply splits the link layer into its 2 functions of data transfer and physical media within the [[TCP & IP Data Layer]] and [[TCP & IP Physical Layer]].
 
 Like all layers, the link layer provides services to the layer above it. Higher level layers like if the network layer wants to send something to another IP, it is the ethernet that manages how the packet maneuvers.
 

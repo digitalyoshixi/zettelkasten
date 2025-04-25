@@ -5,6 +5,7 @@ tags:
   - networking
 aliases:
   - Application Layer
+  - Layer 5-7 Protocol
 ---
 Layer that provides services for computer software. They are protocols for interfaces between software and [[Operating System|OS]].
 # Protocols
