@@ -31,6 +31,7 @@ if __name__ == "__main__": # if running this file directly
 - [[Flask Secret Key]]
 - [[Flask Run]]
 - [[Flask CORS]]
+- [[Flask Session Cookie]]
 # Web Dev Concepts
 - [[Application Endpoints]]
 - [[Curl]]
