@@ -5,3 +5,7 @@ tags:
 ---
 A [[Virtual Private Network|VPN]] that jumps several times between dummy ISPs before making its way to the server.
 # Setup
+```
+curl -fsSL https://tailscale.com/install.sh | sh
+```
+# Client Installation
