@@ -8,19 +8,18 @@ This is the map of my homelab:
 - [ ] [[Pi Hole]] for a content-blocker
 # Old Ass Desktop
 - [x] [[Proxmox]] for virtualizing all services ✅ 2025-04-23
-- [ ] [[Bitwarden]] for password management
-- [ ] [[Samba]] for SMB (Look into if a proxmox win10 vm can share its print capabilities)
-- [ ] [[Tailscale]] for [[Virtual Private Network|VPN]]
-	- [[Wireguard]] for VPN access
-- [ ] [[Jellyfin]] for watching shows
-- [ ] [[nginx]] for opening the server to the internet
-- [ ] [[Nextcloud]] for file-sync
-- [ ] [[Redundant Array of Independent Disks|RAID]] support
-- [ ] [[Cloudflare Tunnel]]
+- [x] [[NoIP]] for [[Dynamic DNS]] ✅ 2025-04-27
+- [x] [[Tailscale]] for [[Virtual Private Network|VPN]] ✅ 2025-04-27
+- [ ] Self hosted [[Excalidraw]] with plugins (https://github.com/excalidraw/excalidraw/issues/6506)
 - [ ] [[Invidious]]
 - [ ] [[Redlib]]
+- [ ] [[OPNSense]] deep packet firewall
+- [ ] [[Bitwarden]] for password management
+- [ ] [[Nextcloud]] for file-sync
+- [ ] [[Jellyfin]] for watching shows
+- [ ] [[nginx]] for opening the server to the internet
+- [ ] [[Cloudflare Tunnel]]?
+- [ ] [[Samba]] for SMB?
 - [ ] [[TOR]] relay (bridge node)
-- [ ] Self hosted [[Excalidraw]] with plugins (https://github.com/excalidraw/excalidraw/issues/6506)
-- [ ] [[OPNSense]] firewall
 # Personal Journal
 - [[My Homelab Setup Journey]]

@@ -3,12 +3,8 @@ tags:
   - IT
   - networking
 ---
-A [[Virtual Private Network|VPN]] that jumps several times between dummy ISPs before making its way to the server.
-# Setup
-1. Ensure you have a tailscale account
-2. `curl -fsSL https://tailscale.com/install.sh | sh`
-3. `systemctl start tailscaled`
-4. `tailscale up`
+A [[Virtual Private Network|VPN]] that jumps several times between dummy ISPs before making its way to the server (exit node).
+# Server Setup
 ### LXC Setup
 https://youtu.be/QJzjJozAYJo
 ### Proxmox Setup
@@ -27,3 +23,8 @@ sudo /etc/networkd-dispatcher/routable.d/50-tailscale
 test $? -eq 0 || echo 'An error occurred.'
 ```
 5. `tailscale up --advertise-routes=192.168.2.0/24 --advertise-exit-node`
+# Client Setup
+1. Ensure you have a tailscale account
+2. `curl -fsSL https://tailscale.com/install.sh | sh`
+3. `systemctl start tailscaled`
+4. `tailscale up --accept-routes`
