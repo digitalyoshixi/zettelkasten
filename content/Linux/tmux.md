@@ -34,7 +34,7 @@ bind C-Space send-prefix
 - `tmux attach` : attach to most recent session
 - `tmux attach -t my_session_name` : attach to specific session
 ### [[Tmux Window]] Management
-- `prefix+C` : make new [[Tmux Window]]
+- `prefix+c` : make new [[Tmux Window]]
 - `prefix+<window number>` : make window number the primary window
 - `prefix+n` : go to next window
 - `prefix+p` : go to previous window

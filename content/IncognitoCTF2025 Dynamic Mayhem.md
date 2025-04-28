@@ -9,3 +9,12 @@ tags:
 3. Checking the file, working from backwards to forwards we find
    `String X1Y2Z3 = X1Y2Z3(P6O5I4(bytes, R7T8Y9(Q4W5E6, M1N2O3)));`
 4. The function X1Y2Z3 returns the hex version of each byte in the return of P60514(....), 
+5. The function P60514 performs operations to original byte array
+6. bytes are just the byte representation of the flag
+7. R7T8Y9 performs some operations to a given byte array with a integer
+8. Q4W5E6 is a constant byte array that undergoes operations with MIN203
+9. MIN203 is a randomly generated integer
+Reversing process:
+10. Find MIN203 with:
+	1. Checking the first character 'i' with values of MIN203 that return the output
+11. 
