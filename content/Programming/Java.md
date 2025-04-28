@@ -4,18 +4,16 @@ tags:
   - programming
 ---
 [[Object Oriented Programming]] Language.
-Made by the cretins at [[Oracle]]
+Made by the cretins at [[Oracle]].
 Java can run on any machine capable of running the java virtual machine. So any machine with virtualization. 
-Java is open source. It is an object oriented programming language primarily used for software development.
+Java is open source and [[Object Oriented Programming|OOP]].
 
 Java programs are created and ran using the following tools:
 - [[Java Runtime Environment]] 
 - [[Java Development Kit]]
 - [[Java Virtual Machine]]
-
 ### Installing Java(Arch Linux)
 https://www.tecmint.com/install-java-on-arch-linux/
-
 ### Making Java Files
 1. Make a .java file. [[Boilerplate]]
 	1. You will have a class [Filename] {}
@@ -23,9 +21,13 @@ https://www.tecmint.com/install-java-on-arch-linux/
 2. javac yourjavafile.java   ![[Pasted image 20230906132820.png]]
 3. java [Filename]
 
-
-## Finding where Java is
-### Windows
-1. Open CMD prompt
-2. `where java`
-3. ![[Java-20231007195204137.webp]]
+# Java Boilerplate
+```java
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
+```
+# Concepts
+- [[Finding Java Location]]
