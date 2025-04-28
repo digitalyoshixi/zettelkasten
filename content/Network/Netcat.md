@@ -4,5 +4,6 @@ tags:
 aliases:
   - nc
 ---
-netcat is another way to send web requests like [[Curl]]
+netcat is a way to connect to web sockets.
+`nc`
 
