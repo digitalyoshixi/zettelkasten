@@ -15,6 +15,8 @@ tags:
 8. Q4W5E6 is a constant byte array that undergoes operations with MIN203
 9. MIN203 is a randomly generated integer
 Reversing process:
-10. Find MIN203 with:
+10. there is no need to find what MIN is
 	1. Checking the first character 'i' with values of MIN203 that return the output
-11. 
+
+11. We can find MIN203, from finding the original first byte's shift. 
+12. 
