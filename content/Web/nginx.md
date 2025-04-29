@@ -2,7 +2,9 @@
 tags:
   - web
 ---
-A tunnel to expose local web servers. Similar to [[Apache Tomcat]] known for its:
-- High performance
-- Stability
-- Efficiency
+A [[Reverse Proxy]] for exposing local web servers to the internet.
+- High performant
+- Stable
+- Efficient
+# Configuration File Setup
+1. `vim /etc/nginx/conf.d/default`
