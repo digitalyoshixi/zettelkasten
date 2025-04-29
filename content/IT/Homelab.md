@@ -13,6 +13,7 @@ This is the map of my homelab:
 - [ ] Self hosted [[Excalidraw]] with plugins (https://github.com/excalidraw/excalidraw/issues/6506)
 - [ ] [[Invidious]]
 - [ ] [[Redlib]]
+- [ ] [[Techaro Anubis]]
 - [ ] [[OPNSense]] deep packet firewall
 - [ ] [[Bitwarden]] for password management
 - [ ] [[Nextcloud]] for file-sync
