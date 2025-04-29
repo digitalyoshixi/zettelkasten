@@ -5,5 +5,5 @@ tags:
 A [[command manager]] for [[ReactJS]]
 # Installation
 ```node
-npm install yarn
+npm install -g yarn
 ```
