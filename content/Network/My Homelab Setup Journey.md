@@ -5,7 +5,7 @@ tags:
 ---
 # Todo
 - [x] Setup [[Proxmox ZFS Pool]]
-- [ ] Purchase a domain name and get the required certificate from ACME
+- [x] Purchase a domain name and get the required certificate from ACME ✅ 2025-04-30
 	- [ ] https://pve.proxmox.com/wiki/Renaming_a_PVE_node
 	- [ ] https://forum.proxmox.com/threads/hostname-fqdn-huh.63667/
 - [ ] Setup auto-patching of [[Proxmox]] OS 
