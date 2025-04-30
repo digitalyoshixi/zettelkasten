@@ -28,3 +28,5 @@ tags:
 	- I decided to use it as [[Proxmox LVM-Thin Storage]]
 	- ![[My Homelab Setup Journey-20250423211456830.webp]]
 	- ![[My Homelab Setup Journey-20250423210350703.webp]]
+# April 30 2025
+I renamed the hostname, forgot to backup and ruined my nodes. now i have to reinstall...
