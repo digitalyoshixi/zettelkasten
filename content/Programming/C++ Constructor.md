@@ -3,7 +3,7 @@ tags:
   - cpp
   - programming
 ---
-This is a constructor method for [[C++ Classes]]
+This is a constructor method for [[C++ Class]]
 ```cpp
 class MyClass
 {

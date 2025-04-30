@@ -90,7 +90,7 @@ Alternatively, you can use automated build tools such as `make` or `build2`, how
 - [[C++ Strings]]
 - [[C++ Vectors]]
 - [[C++ Style Guides]]
-- [[C++ Classes]]
+- [[C++ Class]]
 	- [[C++ Virtual]]
 	- [[C++ Constructor]]
 	- [[C++ Destructor]]

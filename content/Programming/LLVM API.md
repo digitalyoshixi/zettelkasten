@@ -15,6 +15,7 @@ LLVM for [[C++]] comes with a LLVM namespace that has the following classes:
 # IR Building
 - [[LLVM Namespace Context]]
 - [[LLVM Namespace IRBuilder]]
+- [[LLVM Namespace NamedValues]]
 - [[LLVM Namespace GlobalVariable]]
 # Further Reading
 - https://mukulrathi.com/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/

@@ -2,4 +2,5 @@
 tags:
   - cpp
 ---
-This is a [[C++ Smart Pointer]] type that manages an object it points to and subsequently deletes if it the pointer goes out of scope.
+This is a [[C++ Smart Pointer]] type that provides the caller ownership of the object it points to.
+Unique pointers are deleted if the pointer goes out of scope.
