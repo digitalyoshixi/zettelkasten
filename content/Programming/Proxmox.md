@@ -21,3 +21,4 @@ https://inv.nadeko.net/watch?v=GoZaMgEgrHw&listen=false
 - [[Proxmox DuckDNS Guide]]
 - [[Proxmox PRTG Guide]]
 - [[Proxmox NGINX Guide]]
+- [[Proxmox Certificate Guide]]

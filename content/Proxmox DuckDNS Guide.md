@@ -18,7 +18,7 @@ DOMAIN="EXAMPLE"
 TOKEN="TOKEN"
 echo url="https://www.duckdns.org/update?domains=$DOMAIN&token=$TOKEN&ip=" | curl -o ~/duckdns/duck.log -K -
 ```
-8. `crontab -e` and add `*/5 * * * * ~/duckdns/duck.sh >/dev/null 2>&1`
+8. `crontab -e` and add `**/5 * * * * ~/duckdns/duck.sh >/dev/null 2>&1*`
 9. Now, to see if this works, I want to add port forwarding for my proxmox console to see if i can view it from outside.
    ![[Proxmox DuckDNS Guide-20250501030221712.webp]]
    
