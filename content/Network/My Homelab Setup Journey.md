@@ -11,6 +11,7 @@ tags:
 - [ ] Setup auto-patching of [[Proxmox]] OS 
 - [ ] Run vulnerability scans with [[Greenbone]]
 	- [ ] https://www.reddit.com/r/selfhosted/comments/1end5j6/advice_on_exposing_some_services_on_proxmox_to/
+- [ ] 
 - [x] Setup [[Linux Users]] with [[Principle of Least Privilege]]
 - [x] Setup [[Proxmox]] [[Access Control Model|ACL]] ([[Software Firewall]])
 # April 23 2025
@@ -30,5 +31,14 @@ tags:
 	- I decided to use it as [[Proxmox LVM-Thin Storage]]
 	- ![[My Homelab Setup Journey-20250423211456830.webp]]
 	- ![[My Homelab Setup Journey-20250423210350703.webp]]
+# April 25 2025
+I setup [[Tailscale]]
+# April 29 2025
+Today i just bought a hostname
 # April 30 2025
 I renamed the hostname, forgot to backup and ruined my nodes. now i have to reinstall...
+- Its ok though, we ended up adding everything back really quickly
+- We setup [[Proxmox NGINX Guide|NGINX]]
+- [[Dynamic DNS|DDNS]] with a porkbun script
+- We also setup [[Proxmox Certificate Guide|Certificates]]
+- Setup router port forwarding to lead to nginx's port 80 and 443
