@@ -8,6 +8,6 @@ It has a [[Process|PID]] of 1.
 # Init Scripts / rc scripts
 Scripts that guarantee basic functionality at startup and shutdown
 # Init processes
-- [[SystemD]]
+- [[systemD]]
 - [[OpenRC]]
 - [[launched]]

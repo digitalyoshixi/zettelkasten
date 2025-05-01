@@ -8,4 +8,4 @@ A suite of networking solutions that automatically creates a usable network for 
 # Tools
 - [[Automatic Private IP Addressing|APIPA]]
 - [[Universal Plug and Play]]
-[[SystemD]] is an implementation of this.
+[[systemD]] is an implementation of this.
