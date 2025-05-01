@@ -7,6 +7,9 @@ A [[Web Server]] or [[Reverse Proxy]] for exposing local web servers to the inte
 - Stable
 - Efficient
 # Configuration File Setup
-1. `vim /etc/nginx/conf.d/default`
+1. `vim /etc/nginx/nginx.conf` to change which sites to use
+2. `vim /etc/nginx/sites-avaiable/default` to change the default site
+# Concepts
+- [[nginx.conf]]
 # Reverse Proxy Configuration
 ![[nginx-20250429211000212.webp]]

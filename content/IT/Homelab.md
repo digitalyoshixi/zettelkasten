@@ -8,7 +8,7 @@ This is the map of my homelab:
 - [ ] [[Pi Hole]] for a content-blocker
 # Old Ass Desktop
 - [x] [[Proxmox]] for virtualizing all services ✅ 2025-04-23
-- [x] [[NoIP]] for [[Dynamic DNS]] ✅ 2025-04-27
+- [x] [[DuckDNS]] for [[Dynamic DNS]]
 - [x] [[Tailscale]] for [[Virtual Private Network|VPN]] ✅ 2025-04-27
 - [ ] Self hosted [[Excalidraw]] with plugins (https://github.com/excalidraw/excalidraw/issues/6506)
 - [ ] [[Invidious]]
