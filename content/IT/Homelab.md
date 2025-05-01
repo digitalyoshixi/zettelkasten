@@ -11,6 +11,7 @@ This is the map of my homelab:
 - [x] Porkbun DDNS update script
 - [x] [[Tailscale]] for [[Virtual Private Network|VPN]] ✅ 2025-04-27
 - [x] Self hosted [[Excalidraw]] with plugins (https://github.com/excalidraw/excalidraw/issues/6506) ✅ 2025-04-30
+- [x] [[nginx]] for opening the server to the internet
 - [ ] [[Invidious]]
 - [ ] [[Redlib]]
 - [ ] [[Techaro Anubis]]
@@ -18,7 +19,6 @@ This is the map of my homelab:
 - [ ] [[Bitwarden]] for password management
 - [ ] [[Nextcloud]] for file-sync
 - [ ] [[Jellyfin]] for watching shows
-- [ ] [[nginx]] for opening the server to the internet
 - [ ] [[Cloudflare Tunnel]]?
 - [ ] [[Samba]] for SMB?
 - [ ] [[TOR]] relay (bridge node)

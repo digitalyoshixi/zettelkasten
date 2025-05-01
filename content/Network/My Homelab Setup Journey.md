@@ -42,3 +42,5 @@ I renamed the hostname, forgot to backup and ruined my nodes. now i have to rein
 - [[Dynamic DNS|DDNS]] with a porkbun script
 - We also setup [[Proxmox Certificate Guide|Certificates]]
 - Setup router port forwarding to lead to nginx's port 80 and 443
+# March 1 2025
+- I setup firewall rules for each node
