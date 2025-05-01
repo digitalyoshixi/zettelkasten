@@ -25,3 +25,4 @@ echo url="https://www.duckdns.org/update?domains=$DOMAIN&token=$TOKEN&ip=" | cur
    ![[Proxmox DuckDNS Guide-20250501030315868.webp]]
 # Sources
 - https://gist.github.com/zidenis/e93532c0e6f91cb75d429f7ac7f66ba5
+- https://gist.github.com/taichikuji/6f4183c0af1f4a29e345b60910666468
