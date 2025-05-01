@@ -12,6 +12,7 @@ tags:
 5. `cd excalidraw`
 6. `yarn`
 7. `yarn start --host`
+### Creating CI/CD Pipeline
+- 
 ### Creating Autostart service
 With [[systemD]]
-### Creating CI/CD Pipeline
