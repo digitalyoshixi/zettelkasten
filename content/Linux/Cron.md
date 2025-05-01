@@ -2,6 +2,8 @@
 tags:
   - automation
   - linux
+aliases:
+  - Cronjob
 ---
 In order to setup a chronological repeating task without a for loop that checks every second, you will use cron library installed on most linux distros.
 1. Crontab -e

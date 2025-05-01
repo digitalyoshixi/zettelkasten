@@ -18,7 +18,7 @@ https://inv.nadeko.net/watch?v=GoZaMgEgrHw&listen=false
 - [[Proxmox ZFS Pool]]
 - [[LXC]]
 # Guides
-- [[Proxmox DDNS Guide]]
+- [[Proxmox DuckDNS Guide]]
 - [[Proxmox PRTG Guide]]
 - [[Proxmox NGINX Guide]]
 - 
