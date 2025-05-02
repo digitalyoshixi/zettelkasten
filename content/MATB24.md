@@ -17,6 +17,9 @@ tags:
 - 60% (1-2hrs per week) understanding problems from class and most homeworks
 - 80% (1-2hrs per week) understanding what is presented
 # Concepts
-- [[Ideal]]
+- [[Fields]]
+- [[Integer Modulo n]]
+- [[Ideals]]
 - [[Ring]]
-	- [[Principal Integral Domain]]
+- [[Commutative Rings]]
+- [[Principal Integral Domain]]
