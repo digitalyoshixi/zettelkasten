@@ -4,9 +4,9 @@ tags:
   - logic
 ---
 # Properties
-### Reflexive
+### [[Reflexive]]
 $$A \sim A$$
-### Symmetric
+### [[Symmetric]]
 $$A \sim B \Longleftrightarrow B \sim A$$
-### Transitive
+### [[Transitive]]
 $$A \sim B \wedge B \sim C \Longleftrightarrow A \sim C$$

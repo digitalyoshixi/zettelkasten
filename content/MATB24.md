@@ -17,8 +17,14 @@ tags:
 - 60% (1-2hrs per week) understanding problems from class and most homeworks
 - 80% (1-2hrs per week) understanding what is presented
 # Concepts
+### Week 1
 - [[Fields]]
 - [[Integer Modulo n]]
+- [[Congruent Modulo]]
+- [[Equivalence]]
+	- [[Reflexive]]
+	- [[Symmetric]]
+	- [[Transitive]]
 - [[Ideals]]
 - [[Ring]]
 - [[Commutative Rings]]
