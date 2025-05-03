@@ -47,4 +47,5 @@ I renamed the hostname, forgot to backup and ruined my nodes. now i have to rein
 # March 2 2025
 - We need to setup CI/CD for each website that runs on my server (as i will update them constantly, especially the obsidian vault)
 - I create a [[Github Runner]], and then create a [[systemD]] service to run it on startup
-- create a [[systemD]] service to run the web app
+	- There is a specific technicality that github runner run.sh script must be ran as user, and LXC does not allow user services. So, we must edit the [[sudo|sudoers]] file to only allow the specific command `sudo systemctl restart mysite.service`
+- create a [[systemD]] service to run the web app as the webrunner user
