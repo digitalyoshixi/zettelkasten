@@ -11,7 +11,6 @@ tags:
 - [ ] Setup auto-patching of [[Proxmox]] OS 
 - [ ] Run vulnerability scans with [[Greenbone]]
 	- [ ] https://www.reddit.com/r/selfhosted/comments/1end5j6/advice_on_exposing_some_services_on_proxmox_to/
-- [ ] Setup [[Load Balancer]] with [[nginx]]
 - [x] Setup [[Linux Users]] with [[Principle of Least Privilege]]
 - [x] Setup [[Proxmox]] [[Access Control Model|ACL]] ([[Software Firewall]])
 # April 23 2025
@@ -44,3 +43,8 @@ I renamed the hostname, forgot to backup and ruined my nodes. now i have to rein
 - Setup router port forwarding to lead to nginx's port 80 and 443
 # March 1 2025
 - I setup firewall rules for each node
+# March 2 2025
+- We need to setup CI/CD for each website that runs on my server (as i will update them constantly, especially the obsidian vault)
+- I create a [[Github Runner]], and then create a [[systemD]] service to run it on startup
+	- There is a specific technicality that github runner run.sh script must be ran as user, and LXC does not allow user services. So, we must edit the [[sudo|sudoers]] file to only allow the specific command `sudo systemctl restart mysite.service`
+- create a [[systemD]] service to run the web app as the webrunner user
