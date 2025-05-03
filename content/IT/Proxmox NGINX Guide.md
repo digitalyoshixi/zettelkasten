@@ -61,6 +61,10 @@ http {
 		ssl_session_timeout 180m;
 		location / {
 			proxy_pass http://192.168.2.66:3000;
+			proxy_set_header Host $host;
+			proxy_set_header X-Real-IP $remote_addr;
+			proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+			proxy_set_header X-Forwarded-Proto $scheme;
 		}
 	}
 }
