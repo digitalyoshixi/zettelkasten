@@ -2,4 +2,4 @@
 tags:
   - programming
 ---
-A filetype relegated for configurations
+A filetype relegated for configurations.
