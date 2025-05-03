@@ -11,7 +11,6 @@ tags:
 - [ ] Setup auto-patching of [[Proxmox]] OS 
 - [ ] Run vulnerability scans with [[Greenbone]]
 	- [ ] https://www.reddit.com/r/selfhosted/comments/1end5j6/advice_on_exposing_some_services_on_proxmox_to/
-- [ ] Setup [[Load Balancer]] with [[nginx]]
 - [x] Setup [[Linux Users]] with [[Principle of Least Privilege]]
 - [x] Setup [[Proxmox]] [[Access Control Model|ACL]] ([[Software Firewall]])
 # April 23 2025
