@@ -1,0 +1,6 @@
+---
+tags:
+  - math
+aliases:
+  - Modulo
+---

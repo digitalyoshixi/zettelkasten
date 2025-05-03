@@ -2,6 +2,8 @@
 tags:
   - linalg
   - math
+aliases:
+  - MATB24
 ---
 # Office Hours
 - Wed 6:30pm - 7:30pm 
@@ -25,6 +27,8 @@ tags:
 	- [[Reflexive]]
 	- [[Symmetric]]
 	- [[Transitive]]
+- [[Modulus]]
+- [[Uniqueness Field Properties]]
 - [[Ideals]]
 - [[Ring]]
 - [[Commutative Rings]]
