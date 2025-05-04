@@ -14,14 +14,10 @@ The first thing we must do is grab the hashid of a hash. Hash analyzer is a buil
 
 Look for the segment: Possible Hashs:. The first one will be the most likely hash.
 
-  
-
 Now we go into hashcat. Type: hashcat -h | grep [algorithm]
 
 We get a list of numbers. Pick the one that is raw. This is our algorithm number
 
 Then, create a file with ONLY the hash inside. I made a txt using echo ‘5f4dcc3b5aa765d61d8327deb882cf99’ > hesh.txt
-
-  
 
 Finally, type this last command: hashcat -m [algorithm number] [filename.txt] /usr/share/wordlists/rockyou.txt
