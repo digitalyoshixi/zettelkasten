@@ -3,7 +3,7 @@ tags:
   - ctf
   - reverse_engineering
 ---
-1. We find that there are a TON of function calls in the disassembly. We dont care about the first few, just set a breakpoint right after the user input
+*1*. We find that there are a TON of function calls in the disassembly. We dont care about the first few, just set a breakpoint right after the user input
    ![[CTF@CIT Secure Keygen-20250427152820230.webp]]
 2. Now, we find that 0x47deb0 will actually act as [[scanf()]], so this stores the user input
 	1. We can also assume that 0x467a60 is [[printf()]]
