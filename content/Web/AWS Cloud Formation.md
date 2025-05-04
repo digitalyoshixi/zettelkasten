@@ -2,7 +2,7 @@
 tags:
   - cloud
 ---
-Creating templates for your infrastructure in [[Yaml]] or [[JSON]]
+Creating templates for your infrastructure in [[YAML]] or [[JSON]]
 ![[AWS Cloud Formation-20241125050821432.webp]]
 # Stacks
 Collection of AWS resources managed by a single AWS unit.
