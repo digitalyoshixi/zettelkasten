@@ -16,6 +16,5 @@ Java Build Path > Libraries > JavaSE-? > Edit...
 Select Alternate JRE
 ![[Eclipse Cannot Run Java PGMS-20231008010522028.webp]]
 
-
 Now you can run your programs
 ![[Eclipse Cannot Run Java PGMS-20231008010549553.webp]]

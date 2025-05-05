@@ -3,6 +3,7 @@ tags:
   - java
   - programming
 ---
+*Write once run everywhere!*
 [[Object Oriented Programming]] Language.
 Made by the cretins at [[Oracle]].
 Java can run on any machine capable of running the java virtual machine. So any machine with virtualization. 
@@ -31,3 +32,6 @@ public class Main {
 ```
 # Concepts
 - [[Finding Java Location]]
+- [[Java Doc]]
+- [[Eclipse]]
+- [[Java Virtual Machine|JVM]]
