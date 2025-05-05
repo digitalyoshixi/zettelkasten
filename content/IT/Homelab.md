@@ -13,8 +13,10 @@ This is the map of my homelab:
 - [x] Self hosted [[Excalidraw]] with plugins (https://github.com/excalidraw/excalidraw/issues/6506) ✅ 2025-04-30
 - [x] [[nginx]] for opening the server to the internet
 - [ ] [[CTFd]]
-- [ ] [[h5ai]] (web server index like https://dl.naixi.net/tools)
+- [ ] [[dufs]] for public file server
 - [ ] [[Invidious]]
+- [ ] [[Readarr]] for reading
+- [ ] [[Openbooks]] for downloading books
 - [ ] [[Redlib]]
 - [ ] [[Techaro Anubis]]
 - [ ] [[OPNSense]] deep packet firewall
