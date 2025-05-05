@@ -12,6 +12,8 @@ This is the map of my homelab:
 - [x] [[Tailscale]] for [[Virtual Private Network|VPN]] ✅ 2025-04-27
 - [x] Self hosted [[Excalidraw]] with plugins (https://github.com/excalidraw/excalidraw/issues/6506) ✅ 2025-04-30
 - [x] [[nginx]] for opening the server to the internet
+- [ ] [[CTFd]]
+- [ ] [[h5ai]] (web server index like https://dl.naixi.net/tools)
 - [ ] [[Invidious]]
 - [ ] [[Redlib]]
 - [ ] [[Techaro Anubis]]
