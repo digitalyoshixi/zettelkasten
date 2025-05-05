@@ -1,6 +1,8 @@
 ---
 tags:
   - virtualization
+aliases:
+  - k8s
 ---
 ![[Kubernetes-20240802032253100.webp|526]]
 A software used to manage [[Docker]] containers, ensuring they have:
