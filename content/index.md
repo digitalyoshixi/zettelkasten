@@ -12,7 +12,7 @@ I aim to make this obsidian vault bloated asf
 - [[Linear Algebra 2]]
 - [[CSCB58]]
 - [[CSCB07]]
-- [[LINA01]]
+- [[Linguistics]]
 # Current Learning
 - [[My Homelab Setup Journey]]
 - [[FPGA Project]]

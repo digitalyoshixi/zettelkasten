@@ -2,7 +2,7 @@
 tags:
   - lingustics
 aliases:
-  - Linguistics
+  - LINA01
 ---
 # Notes
 - https://utoronto.zoom.us/j/87283633462 (1111)
@@ -10,6 +10,7 @@ aliases:
 # Concepts
 - [[Linguistic Competence]]
 - [[Lingustic Performance]]
+- [[Grammar]]
 - [[Morphology]]
 - [[Syntax]]
 - [[Phonetics]]
