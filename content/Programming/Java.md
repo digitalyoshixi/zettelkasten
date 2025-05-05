@@ -6,7 +6,7 @@ tags:
 *Write once run everywhere!*
 [[Object Oriented Programming]] Language.
 Made by the cretins at [[Oracle]].
-Java can run on any machine capable of running the java virtual machine. So any machine with virtualization. 
+Java can run on any machine capable of running the [[Java Virtual Machine|JVM]].
 Java is open source and [[Object Oriented Programming|OOP]].
 
 Java programs are created and ran using the following tools:
