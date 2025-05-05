@@ -9,6 +9,8 @@ tags:
 	- [ ] https://pve.proxmox.com/wiki/Renaming_a_PVE_node
 	- [ ] https://forum.proxmox.com/threads/hostname-fqdn-huh.63667/
 - [ ] Setup auto-patching of [[Proxmox]] OS 
+- [ ] Setup a [[Network Attached Storage|NAS]] for [[dufs]] and [[CTFd]] to use
+- [ ] Setup [[Proxmox Backup]]
 - [ ] Run vulnerability scans with [[Greenbone]]
 	- [ ] https://www.reddit.com/r/selfhosted/comments/1end5j6/advice_on_exposing_some_services_on_proxmox_to/
 - [x] Setup [[Linux Users]] with [[Principle of Least Privilege]]
