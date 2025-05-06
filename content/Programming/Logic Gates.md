@@ -12,3 +12,5 @@ tags:
 - [[Not]]
 - [[XNOR]]
 - [[Identity Gate]]
+# Components
+- [[Half Adder]]
