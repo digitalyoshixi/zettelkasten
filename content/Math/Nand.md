@@ -9,3 +9,5 @@ A and B are not both true
 ![[Nand-20241010211840078.webp]]
 # Logic Gate Representation
 ![[Nand-20250506151136374.webp]]
+# [[Transistor]] Circuit Representation
+

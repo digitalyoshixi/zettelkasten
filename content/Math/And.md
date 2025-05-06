@@ -9,6 +9,8 @@ aliases:
 This is $\wedge$.
 # Truth Table
 ![[And-20241010221406244.webp]]
+# Mathematical Operation
+$A \wedge B \equiv A * B$
 # Logic Gate
 ![[And-20250215153323672.webp|397]]
 # Circuit Diagram
