@@ -14,3 +14,4 @@ tags:
 - [[Identity Gate]]
 # Components
 - [[Half Adder]]
+- [[Full Adder]]
