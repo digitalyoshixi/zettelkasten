@@ -15,3 +15,4 @@ tags:
 # Components
 - [[Half Adder]]
 - [[Full Adder]]
+- [[Multi-Bit Adder]]
