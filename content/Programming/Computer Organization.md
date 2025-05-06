@@ -13,9 +13,17 @@ aliases:
 - Tutorials are given to us
 - After submission, TA will interview you, and you must be able to explain your solution
 # Concepts
-- [[Logisim Evolution]]
+### Week 1
+- [[Circuit from Logical Expression]]
+- [[Waveform]]
 - [[Transistor]]
 - [[Logic Gates]]
+- [[Circuit]]
+	- [[Ground|Logic Zero]]
+	- [[Voltage At the Collector|Logic High]]
+
+
+- [[Logisim Evolution]]
 - [[Logic Unit]]
 - [[Arithmetic Logic Unit|ALU]]
 - [[Flip-Flops]]

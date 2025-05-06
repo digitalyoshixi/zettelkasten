@@ -11,3 +11,4 @@ tags:
 - [[Nand]]
 - [[Not]]
 - [[XNOR]]
+- [[Identity Gate]]

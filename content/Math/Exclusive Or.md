@@ -8,4 +8,5 @@ aliases:
 This is the $\oplus$ operation.
 # Truth Table
 ![[Exclusive Or-20241010211513424.webp]]
-# Logic Gate
+# Logic Gate Representation
+![[Pasted image 20250506110912.png]]
