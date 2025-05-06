@@ -3,9 +3,9 @@ tags:
   - electricity
   - hardware
 ---
-Building blocks of [[Computer]]. Replaces [[Vaccum Tubes]].
-Transistors can create logic gates and store data.
-When a current is passed through a transistor, it is on. When it is not, the transistor is off.
+Building blocks of [[Computer]] made from [[pn-junctions]]. Replaces [[Vaccum Tubes]].
+Transistors can create [[Logic Gates]].
+Given two points A, B, and a gate voltage, the transistor will connect the two points.
 # Types
 - [[pMOS Transistor]]
 - [[nMOS Transistor]]

@@ -2,6 +2,8 @@
 tags:
   - math
   - discrete_math
+aliases:
+  - Nand Gate
 ---
 This is the $|$ operator
 A and B are not both true
@@ -10,4 +12,4 @@ A and B are not both true
 # Logic Gate Representation
 ![[Nand-20250506151136374.webp]]
 # [[Transistor]] Circuit Representation
-
+![[Nand-20250506200943622.webp]]

@@ -2,6 +2,8 @@
 tags:
   - math
   - discrete_math
+aliases:
+  - Nor Gate
 ---
 This is the $\downarrow$ operator
 # Truth Table

@@ -13,5 +13,5 @@ This is $\wedge$.
 $A \wedge B \equiv A * B$
 # Logic Gate
 ![[And-20250215153323672.webp|397]]
-# Circuit Diagram
-![[And-20250506153551456.webp]]
+# Transistor Diagram
+![[And-20250506200712397.webp]]
