@@ -6,7 +6,11 @@ aliases:
   - Nor Gate
 ---
 This is the $\downarrow$ operator
+# Pneumonic
+*On if OR gate is off*
 # Truth Table
 ![[Nor-20241010211709152.webp]]
 # Logic Gate Representation
 ![[Nor-20250506151219686.webp]]
+# Transistor Circuit
+![[Nor-20250506203947529.webp]]
