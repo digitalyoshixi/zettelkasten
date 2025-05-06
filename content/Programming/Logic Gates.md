@@ -9,3 +9,5 @@ tags:
 - [[Nor]]
 - [[Exclusive Or|XOR]]
 - [[Nand]]
+- [[Not]]
+- [[XNOR]]

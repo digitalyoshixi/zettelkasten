@@ -11,8 +11,9 @@ aliases:
 - Must get at least 35% on the final
 - Bi-weekly labs checked at tutorials (You have two weeks to work on it)
 - Tutorials are given to us
+- After submission, TA will interview you, and you must be able to explain your solution
 # Concepts
-- [[Logisem]]
+- [[Logisim Evolution]]
 - [[Transistor]]
 - [[Logic Gates]]
 - [[Logic Unit]]
@@ -20,3 +21,4 @@ aliases:
 - [[Flip-Flops]]
 - [[Finite State Automata|Finite State Machine]]
 - [[Processor]]
+- [[Microprocessor Without Interlocked Pipelined Stages Assembly|MIPS Assembly]]
