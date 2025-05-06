@@ -10,7 +10,7 @@ I started using [[Obsidian]] in 2024 after watching this video: [No Boilerplate]
 I aim to make this obsidian vault bloated asf
 # Courses
 - [[Linear Algebra 2]]
-- [[CSCB58]]
+- [[Computer Organization]]
 - [[CSCB07]]
 - [[Linguistics]]
 # Current Learning
