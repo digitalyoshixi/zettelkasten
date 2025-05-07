@@ -2,4 +2,4 @@
 tags:
   - lingustics
 ---
-Concerned less with the rules of grammar and more about the [[Semantics]] of grammar.
+Grammar rules that are derived from looking at a grammar from native speakers. There is no objective rule for grammar, more-so conventions.

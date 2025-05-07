@@ -19,6 +19,7 @@ aliases:
 - [[Phonology]]
 ### Week 1.2
 ![[Linguistics-20250507185405065.webp]]
+- [[Pronoun]]
 - [[Noun]]
 - [[Adjective]]
 - [[Verb]]
