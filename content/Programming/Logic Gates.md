@@ -16,3 +16,13 @@ tags:
 - [[Half Adder]]
 - [[Full Adder]]
 - [[Multi-Bit Adder]]
+
+- [[Multiplexer]]
+- [[Lookup Tables|LUT]]
+- [[Encoder]]
+- [[Decoder]]
+- [[Set-Reset Latch]]
+- [[Delay Flip-Flop]]
+- [[Toggle Flip-Flop]]
+- [[JK Flip-Flop]]
+- [[Metal–Oxide–Semiconductor Field-Effect Transistor|MOSFETS]]
