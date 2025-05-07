@@ -29,3 +29,4 @@ With axioms of
 - [[Integers]] (No multiplicative inverses)
 # Concepts
 - [[Uniqueness Field Properties]]
+- [[Subfield]]
