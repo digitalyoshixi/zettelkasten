@@ -3,7 +3,6 @@ tags:
   - math
   - linalg
 ---
-# Ring Definition
 A [[Principle Ideal Domain]] that has a [[Multiplicative Inverse]].
 # Definition
 A field is a set $F$ that has closure under:
