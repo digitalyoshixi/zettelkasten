@@ -4,4 +4,4 @@ tags:
 ---
 I learned for work.
 - [[Number Theory]]
-- [[Postfix]]
+- [[Postfix Notation]]
