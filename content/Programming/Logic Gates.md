@@ -24,5 +24,5 @@ tags:
 - [[Set-Reset Latch]]
 - [[Delay Flip-Flop]]
 - [[Toggle Flip-Flop]]
-- [[JK Flip-Flop]]
+- [[Jack Kilby Flip-Flop]]
 - [[Metal–Oxide–Semiconductor Field-Effect Transistor|MOSFETS]]
