@@ -2,7 +2,7 @@
 tags:
   - lingustics
 ---
-Letters that come before a [[Noun]] or [[Adjective]]
+[[Affix]] that come before a [[Morpheme]].
 # Prefix List
 - [[un-]]
 - [[re-]]

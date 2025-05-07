@@ -11,13 +11,18 @@ aliases:
 # Concepts
 ### Week 1.1
 - [[Linguistic Competence]]
-- [[Lingustic Performance]]
+- [[Linguistic Performance]]
 - [[Grammar]]
 - [[Morphology]]
 - [[Syntax]]
 - [[Phonetics]]
 - [[Phonology]]
 ### Week 1.2
+![[Linguistics-20250507185405065.webp]]
+- [[Noun]]
+- [[Adjective]]
+- [[Verb]]
+- [[Adverb]]
 - [[Morphology]]
 - [[Word]]
 - [[Morpheme]]
@@ -25,6 +30,4 @@ aliases:
 - [[Suffix]]
 - [[Affix]]
 - [[Base]]
-- [[Noun]]
-- [[Adjective]]
 - [[Morphological Tree]]

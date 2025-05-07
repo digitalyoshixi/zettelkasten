@@ -3,10 +3,16 @@ tags:
   - lingustics
 aliases:
   - Bound Morpheme
+  - Affixation
 ---
 A bound [[Morpheme]] that does not have meaning by itself.
 # Examples
 - `-en`
 - `pre-`
 # Affixation
-Process by which morphemes attach to other morphemes.
+Process by which affixes attach to other [[Morpheme]]
+# Types
+- [[Prefix]]
+- [[Suffix]]
+- [[Infix]]
+- [[Circumfix]]

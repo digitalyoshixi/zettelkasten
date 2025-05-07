@@ -1,9 +1,25 @@
 ---
 tags:
   - programming
+  - lingustics
 ---
-The structure of how sentences are made.
-# Formal Structure
-[[Sentences]] that follow grammatical rules
-# Informal Structure
-[[Sentences]] that do not follow grammatical rules
+System of rules that organizes how symbols/sounds translate to words and sentences.
+# Concepts
+### Formality
+- [[Formal Grammar]]
+- [[Informal Grammar]]
+### Descriptive vs Prescriptive
+- [[Descriptive Grammar]]
+- [[Prescriptive Grammar]]
+# Branches
+- [[Morphology]]
+- [[Syntax]]
+- [[Phonetics]]
+- [[Phonology]]
+- [[Semantics]]
+# Characteristics
+- [[Grammar Generality]]
+- [[Grammar Parity]]
+- [[Grammar Mutability]]
+- [[Grammar Inaccessibility]]
+- [[Grammar Universality]]
