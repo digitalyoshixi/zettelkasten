@@ -4,4 +4,4 @@ tags:
   - linalg
 ---
 A [[Ring]] that has:
-- [[Cancellation]]
+- [[Commutative]] multiplication

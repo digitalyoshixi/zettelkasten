@@ -19,7 +19,7 @@ aliases:
 - 60% (1-2hrs per week) understanding problems from class and most homeworks
 - 80% (1-2hrs per week) understanding what is presented
 # Concepts
-### Week 1
+### Week 1.1
 - [[Fields]]
 - [[Integer Modulo n]]
 - [[Congruent Modulo]]
@@ -29,7 +29,12 @@ aliases:
 	- [[Transitive]]
 - [[Modulus]]
 - [[Uniqueness Field Properties]]
-- [[Ideals]]
+### Week 1.2
+![[Linear Algebra 2-20250507144957085.webp]]
 - [[Ring]]
 - [[Commutative Rings]]
-- [[Principal Integral Domain]]
+- [[Integral Domain]]
+- [[Principle Ideal Domain]]
+- [[Euclidean Domain]]
+- [[Additive Subgroup]]
+- [[Ideals]]

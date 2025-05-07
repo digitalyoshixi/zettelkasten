@@ -10,7 +10,7 @@ tags:
 - $\cap$ - set [[Intersection]] 
 - $\emptyset$ - empty set {}
 - $N$ - [[Natural Number]]
-- $Z$ - [[Integer]]
+- $Z$ - [[Integers]]
 - $Q$ - [[Rational Number]]
 - $R$ - [[Real Number]]
 - $C$ - [[Complex Number]]

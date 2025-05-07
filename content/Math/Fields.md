@@ -4,7 +4,7 @@ tags:
   - linalg
 ---
 # Ring Definition
-A [[Ring]] that has a [[Multiplicative Inverse]].
+A [[Principle Ideal Domain]] that has a [[Multiplicative Inverse]].
 # Definition
 A field is a set $F$ that has closure under:
 - [[Addition]]
