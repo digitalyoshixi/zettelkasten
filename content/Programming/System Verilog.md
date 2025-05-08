@@ -6,7 +6,7 @@ aliases:
   - sv
 ---
 A [[Hardware Description Language|HDL]] that is similar in syntax to [[C]].
-It is a better version of [[Verilog]] with:
+It is a superset of [[Verilog]] with:
 - Improved data types
 - [[Object Oriented Programming|OOP]]
 - Assertions and coverage for function verification
@@ -14,11 +14,12 @@ It is a better version of [[Verilog]] with:
 1. Write `.sv` file
 2. With [[Verilator]] installed, `verilator`
 # Concepts
-- [[System Verilog Module]]
+- [[Verilog Module]]
 - [[System Verilog Datatypes]]
 - [[System Verilog Enum]]
 - [[System Verilog Array]]
 - [[System Verilog Dynamic Array]]
+- [[System Verilog Associative Array]]
 # Boilerplate
 ```verilog
 module my_module;

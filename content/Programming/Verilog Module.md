@@ -4,7 +4,7 @@ tags:
   - hardware
   - programming
 ---
-A representation of a [[Circuit]].
+A representation of a [[Circuit]] in [[Verilog]].
 ```verilog
 module module_name(input1, input2, ..., output1, output2, ...);
 	// logic
