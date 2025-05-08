@@ -12,7 +12,10 @@ It is a superset of [[Verilog]] with:
 - Assertions and coverage for function verification
 # Simulating `.sv` File
 1. Write `.sv` file
-2. With [[Verilator]] installed, `verilator`
+2. With [[Verilator]] installed:
+```
+verilator --binary -j 0 -Wall hello.sv
+```
 # Concepts
 - [[Verilog Module]]
 - [[System Verilog Datatypes]]
@@ -20,13 +23,15 @@ It is a superset of [[Verilog]] with:
 - [[System Verilog Array]]
 - [[System Verilog Dynamic Array]]
 - [[System Verilog Associative Array]]
+- [[System Verilog Queue]]
 # Boilerplate
 ```verilog
 module my_module;
-	int array[];
-	array = `{5,10,15,20,25};
-	foreach (array[i])
-	$display("hello");
-	array.delete();
+	initial
+		int array[];
+		array = `{5,10,15,20,25};
+		foreach (array[i])
+		$display("hello");
+		array.delete();
 endmodule
 ```
