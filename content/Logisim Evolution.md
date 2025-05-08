@@ -8,6 +8,8 @@ Software tool for designing [[Circuit]].
 
 # Tools
 - ![[Logisim Evolution-20250508170630016.webp|50]] Poke, to inspect the state of wires
-# Wire Color Guide
-![[Logisim Evolution-20250508170601317.webp]]
+- ![[Logisim Evolution-20250508171136371.webp|50]] Select, to move and manipulate wires/buses
+# Guides
+- [[Logism Evolution Wire Color Guide]]
+- [[Logism Evolution Add Sub-Circuit]]
 You can inspect them with the poke tool
