@@ -10,4 +10,4 @@ Used for simplifying digital circuits (or finding circuit representations) for c
 - [[Sum of Product K-Map]]
 - [[Product of Sum K-Map]]
 # Truth Table -> Function of Variables
-1. 
+From a given truth table, create a K-map
