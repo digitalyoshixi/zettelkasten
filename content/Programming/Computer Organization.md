@@ -13,7 +13,7 @@ aliases:
 - Tutorials are given to us
 - After submission, TA will interview you, and you must be able to explain your solution
 # Concepts
-### Week 1
+### Week 1.1
 - [[Circuit from Logical Expression]]
 - [[Waveform]]
 - [[Transistor]]
@@ -21,9 +21,10 @@ aliases:
 - [[Circuit]]
 	- [[Ground|Logic Zero]]
 	- [[Voltage At the Collector|Logic High]]
-
-
+### Week 2
 - [[Logisim Evolution]]
+- [[Karnaugh Map]]
+- [[Seven Segment Display]]
 - [[Logic Unit]]
 - [[Arithmetic Logic Unit|ALU]]
 - [[Flip-Flops]]
