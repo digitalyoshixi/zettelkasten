@@ -3,7 +3,7 @@ tags:
   - math
   - linalg
 ---
-A coordinate vector is denoted as a vector comprised of coefficients of the basis vector.
+A coordinate vector is denoted as a vector comprised of coefficients of the [[Basis]] vectors.
 - Let $\beta = \{ v_{1},\dots,v_{n} \}$
 - For any vector in $v \in V$
 - Where $v = b_{1}v_{1} + \dots + b_{n}v_{n}$

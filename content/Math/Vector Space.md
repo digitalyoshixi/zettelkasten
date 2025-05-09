@@ -22,3 +22,7 @@ You need to check that all 8 axioms apply to the vector space.
 2. $\forall x \in V, 0x=0$
 3. $\forall x \in V, x'$ is unique
 4. $\forall x \in V, \forall c \in R, (-c)x = -(cx)$
+# Concepts
+- [[Subspace]]
+- [[Vector Space Dimension]]
+- [[Finite Dimension Vector Space Implications]]

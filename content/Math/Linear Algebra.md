@@ -70,7 +70,7 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - [[Linear Map Inverse]]
 - [[Fundamental Theorem of Matrices]]
 ### Dimensions and Basis
-- [[Subspace Dimension]]
+- [[Vector Space Dimension]]
 - [[Basis]]
 - [[The Dimension Bound Theorem]]
 - [[Rank Nullity Theorem|Dimension Theorem]]

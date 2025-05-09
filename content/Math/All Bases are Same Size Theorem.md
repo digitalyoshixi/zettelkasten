@@ -9,7 +9,7 @@ If $S = \{ x_{1},\dots,x_{k} \}$ and $S' = \{ y_{1}, \dots, y_{n} \}$ are two fi
 
 This means that all bases are the same size.
 ![[Invariance Theorem-20250125164100552.webp]]
-Allows for the [[Subspace Dimension]] function
+Allows for the [[Vector Space Dimension]] function
 # Proof
 Case 1:
 Consider $S$ as the spanning set
