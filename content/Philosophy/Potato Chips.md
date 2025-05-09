@@ -4,7 +4,7 @@ tags:
   - philosophy
 aliases:
 ---
-A [[Vice]] that is commonly used to contrast [[Discipline]].
+A [[Philosophy/Vice]] that is commonly used to contrast [[Discipline]].
 # Second Order Desires & First Order Desires
 - You may have [[Second Order Desires]] to study
 - You may have [[First Order Desires]] to eat potato chips

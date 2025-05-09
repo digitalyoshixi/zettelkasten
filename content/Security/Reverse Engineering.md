@@ -10,3 +10,4 @@ tags:
 - [[Reverse Engineering IOS]]
 - [[Reverse Engineering Python]]
 - [[Reverse Engineering ISO]]
+- [[Reverse Engineering Commodore]]
