@@ -19,7 +19,7 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - IA 3100
 # Concepts
 ### Fields
-- [[Fields]]
+- [[Field]]
 - [[Algebra]]
 - [[Binary Operations]]
 - [[Additive Identity]]
@@ -44,7 +44,7 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - [[Matrix Vector Multiplication]]
 ### Subspaces
 - [[Subset]]
-- [[Fields]]
+- [[Field]]
 - [[Vector Space]]
 - [[Closed]]
 - [[Subspace]]

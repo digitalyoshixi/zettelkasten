@@ -2,6 +2,8 @@
 tags:
   - math
   - linalg
+aliases:
+  - Generating Set
 ---
 The the smallest set that contains all [[Linear Combination]] of vectors in the [[Subspace]] $X$.
 A subset $S \subset V$ is a spanning set if:

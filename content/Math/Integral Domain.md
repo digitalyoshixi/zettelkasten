@@ -4,4 +4,4 @@ tags:
   - linalg
 ---
 A [[Ring]] where:
-- [[Multiplicato]] is [[Cancellational]]
+- [[Multiplication]] is [[Cancellational]]

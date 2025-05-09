@@ -3,9 +3,9 @@ tags:
   - linalg
   - math
 ---
-A vector space $V$ is a set of vectors that has closure under:
-- [[Vector Addition]]
-- [[Vector Scalar Multiplication]]
+A vector space $V$ over a [[Field]] is a set of vectors that has:
+- [[Closed Under Addition]]
+- [[Closed Under Scalar Multiplication]]
 And both operations follows the 8 axioms:
 1. $\boxplus$ is [[Associative]]
 2. $\boxplus$ is [[Commutative]]

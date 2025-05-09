@@ -3,8 +3,10 @@ tags:
   - math
   - linalg
 ---
-A [[Additive Subgroup]] ($I,+$) of a [[Ring]] where:
-- $\forall r \in R, \forall x \in I, rx \in I$$ 
+An [[Additive Subgroup]] ($I,+$) of a [[Ring]] where:
+- $\forall r \in R, \forall x \in I, rx \in I$
+# Showing Ideals
+1. Show non-empty
 # Example of Ideal
 ### Showing Even Integers are a Ideal
 - Let $x \in \{  \text{even numbers}\}, x = 2k, k \in \mathbb{Z}$
