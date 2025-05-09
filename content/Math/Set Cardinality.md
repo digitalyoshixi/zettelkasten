@@ -2,8 +2,7 @@
 tags:
   - discrete_math
   - math
-aliases:
-  - Set Sum
+aliases: []
 ---
 Denoted by $|S|$ where $S$ is a [[Set]]. The cardinality is the # of set elements there are.
 # Examples

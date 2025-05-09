@@ -4,8 +4,10 @@ tags:
   - linalg
 aliases:
   - Generating Set
+  - Generator Set
 ---
-The the smallest set that contains all [[Linear Combination]] of vectors in the [[Subspace]] $X$.
+The the [[Subset]] of [[Vector Space]] $V$ [[Span|Spans]] $V$. 
+# Definition
 A subset $S \subset V$ is a spanning set if:
 - $V = span(S)$
 Look at: [[Span]]

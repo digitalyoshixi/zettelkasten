@@ -16,7 +16,7 @@ Used primarily in servers.
 ### Type-2
 Hypervisors that run on top of an [[Operating System|OS]]
 ##### Implementations
-- [[KVM]]
+- [[Kernel Virtual Machine]]
 - [[Hyper-V]]
 - [[VirtualBox]]
 - [[VMWare]]

@@ -24,6 +24,8 @@ $$A \triangle B$$
 $$\overline A$$
 $$A'$$
 [[Complement]]
+$$A+B$$
+[[Set Sum]]
 # Elementhood
 $x \in A$
 x is a element of A

@@ -17,8 +17,6 @@ And both operations follows the 8 axioms:
 8. [[Multiplicative Identity]] $\forall x \in V, 1 \overrightarrow{x} = \overrightarrow{x}$
 # Checking Valid Vector Spaces
 You need to check that all 8 axioms apply to the vector space.
-### Examples
-- [[Set Vector Space]]
 # Propositions
 1. The zero vector $0$ is unique
 2. $\forall x \in V, 0x=0$
