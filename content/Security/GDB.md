@@ -49,12 +49,14 @@ https://users.ece.utexas.edu/~adnan/gdb-refcard.pdf
 **ref**: refresh view
 # Debugging Symbols
 
+# Guides
+- [[GDB Finding main()]]
+- [[GDB Dumping Memory Addr]]
+- [[GDB Changing Register Values]]
+- [[GDB Jumping To Address]]
 # Other
 - [[GDB Typecasting]]
-- [[GDB Finding main()]]
 - [[GDB starti]]
 - [[Pwndbg]]
 - [[GEF]]
 - [[PEDA]]
-- [[GDB Dumping Memory Addr]]
-- [[GDB Changing Register Values]]
