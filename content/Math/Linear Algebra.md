@@ -21,7 +21,7 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 ### Fields
 - [[Field]]
 - [[Algebra]]
-- [[Binary Operations]]
+- [[Binary Operation]]
 - [[Additive Identity]]
 - [[Multiplicative Identity]]
 - [[Additive Inverse]]

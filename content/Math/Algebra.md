@@ -6,4 +6,4 @@ The study of structural properties.
 
 It allows variables represent numbers.
 # Axioms
-- [[Binary Operations]]
+- [[Binary Operation]]

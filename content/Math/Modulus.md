@@ -4,7 +4,7 @@ tags:
 aliases:
   - Modulo
 ---
-A [[Binary Operations|Binary Operation]] that returns the remainder of $\frac{a}{b}$
+A [[Binary Operation|Binary Operation]] that returns the remainder of $\frac{a}{b}$
 # Definition
 $z = ax + b$:
 - $a$ is the quotient
