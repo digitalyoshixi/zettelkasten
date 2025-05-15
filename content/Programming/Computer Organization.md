@@ -13,7 +13,7 @@ aliases:
 - Tutorials are given to us
 - After submission, TA will interview you, and you must be able to explain your solution
 # Concepts
-### Week 1.1
+### Week 1
 - [[Circuit from Logical Expression]]
 - [[Waveform]]
 - [[Transistor]]
@@ -31,3 +31,6 @@ aliases:
 - [[Finite State Automata|Finite State Machine]]
 - [[Processor]]
 - [[Microprocessor Without Interlocked Pipelined Stages Assembly|MIPS Assembly]]
+### Week 3
+- [[Minterm]]
+- [[Maxterm]]
