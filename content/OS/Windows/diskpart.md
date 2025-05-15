@@ -10,7 +10,6 @@ A tool to manually partition drives or clean drives.
 4. go into [[Windows Disk Management|diskmgt.msc]] and format the drive to be FAT32
 # See Volumes
 `list volume`
-
 # Diskpart Access Denied
 1. `convert gpt`
 2. `clean`

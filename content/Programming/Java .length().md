@@ -4,4 +4,5 @@ tags:
 aliases:
   - length()
 ---
-Returns the length of the string made
+Returns the length of the string made.
+
