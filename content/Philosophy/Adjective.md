@@ -2,8 +2,7 @@
 tags:
   - lingustics
 ---
-Word describing activity
+A word that modifies a [[Noun]].
 # Identification
 ### Suffixes
 - `-al`
-- 

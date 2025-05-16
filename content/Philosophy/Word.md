@@ -3,6 +3,7 @@ tags:
   - lingustics
 aliases:
   - Free Morpheme
+  - Words
 ---
 The smallest free form of language. It is a word that can mean something by itself.
 # Types

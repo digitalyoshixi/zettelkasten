@@ -33,3 +33,5 @@ aliases:
 - [[Base]]
 - [[Morphological Tree]]
 ### Week 2.1
+- [[Structurally Ambiguous Words]]
+- [[Word Derivation]]

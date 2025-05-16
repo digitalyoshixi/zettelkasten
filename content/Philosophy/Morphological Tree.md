@@ -12,4 +12,5 @@ A tree representing the structure of a word, splitting it into a [[Root]] and it
    ![[Morphological Tree-20250516052423066.webp|125]]
 3. Find which words will be attached first. In this case, we attach -(at)ic to system to form a coherent word
    ![[Morphological Tree-20250516052518192.webp|130]]
-4. 
+4. Repeat until finished.
+   ![[Morphological Tree-20250516053411646.webp|185]]
