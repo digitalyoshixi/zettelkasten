@@ -2,8 +2,11 @@
 tags:
   - lingustics
 ---
-A [[Grammatical Marker]] for encoding extra information such as:
+A [[Morpheme]] used as a [[Grammatical Marker]] for encoding extra information such as:
 - Gender
 - Tense
 - Number
-Without changing the meaning of the word.
+Without changing the [[Morpheme]] structure or [[Syntactical Category]] of the word.
+# Inflection Types
+- [[Affixation Inflection]]
+- [[Internal Change]]
