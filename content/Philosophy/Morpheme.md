@@ -16,4 +16,4 @@ It cannot be further broken down into smaller units.
 - [[Circumfix]]
 ### Grammatical Function
 - [[Inflection]]
-- [[Derivational]]
+- [[Derivational Affixation]]

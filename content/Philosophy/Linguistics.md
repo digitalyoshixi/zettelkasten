@@ -37,3 +37,5 @@ aliases:
 - [[Structurally Ambiguous Words]]
 - [[Word Derivation]]
 - [[Inflection]]
+### Week 2.2
+- [[Syntax]]
