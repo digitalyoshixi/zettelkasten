@@ -1,6 +1,6 @@
 ---
 tags:
-  - lingustics
+  - linguistics
 ---
 The rules of a language.
 # Example

@@ -1,6 +1,6 @@
 ---
 tags:
-  - lingustics
+  - linguistics
 ---
 # Categories
 - [[Noun]]

@@ -1,6 +1,6 @@
 ---
 tags:
-  - lingustics
+  - linguistics
 ---
 Concerned with the identification of an entity.
 # List

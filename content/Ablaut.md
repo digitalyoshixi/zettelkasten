@@ -1,6 +1,6 @@
 ---
 tags:
-  - lingustics
+  - linguistics
 ---
 A method for [[Internal Change]] that is cause when a single [[Vowel]] within a [[Word]] is changed.
 # Examples

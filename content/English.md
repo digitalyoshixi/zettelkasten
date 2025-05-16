@@ -1,6 +1,6 @@
 ---
 tags:
-  - lingustics
+  - linguistics
 ---
 Language derived from [[Latin]], [[German]], [[French]].
 # Concepts

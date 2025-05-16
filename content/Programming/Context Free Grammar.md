@@ -1,7 +1,7 @@
 ---
 tags:
   - programming
-  - lingustics
+  - linguistics
 aliases:
   - CFG
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - lingustics
+  - linguistics
 aliases:
   - Bound Morpheme
   - Affixation

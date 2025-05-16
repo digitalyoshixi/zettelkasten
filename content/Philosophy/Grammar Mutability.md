@@ -1,5 +1,5 @@
 ---
 tags:
-  - lingustics
+  - linguistics
 ---
 All [[Grammar]] changes overtime.

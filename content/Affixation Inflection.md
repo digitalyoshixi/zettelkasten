@@ -1,6 +1,6 @@
 ---
 tags:
-  - lingustics
+  - linguistics
 ---
 A form of [[Inflection]] wherein [[Morpheme|Morphemes]] [[Affix]] to the end of the word.
 # List of Inflection Morphemes

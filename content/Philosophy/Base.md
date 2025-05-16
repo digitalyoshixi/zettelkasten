@@ -1,6 +1,6 @@
 ---
 tags:
-  - lingustics
+  - linguistics
 ---
 The form to which an [[Affix]] attaches to.
 Could be a [[Root]], or a [[Root]]+[[Affix]] combination

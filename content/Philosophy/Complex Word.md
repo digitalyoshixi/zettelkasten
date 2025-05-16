@@ -1,6 +1,6 @@
 ---
 tags:
-  - lingustics
+  - linguistics
 ---
 A [[Word]] comprised of multiple [[Morpheme]].
 # Examples

@@ -1,5 +1,5 @@
 ---
 tags:
-  - lingustics
+  - linguistics
 ---
 A [[Prefix]] that means `not`

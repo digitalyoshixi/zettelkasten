@@ -1,6 +1,6 @@
 ---
 tags:
-  - lingustics
+  - linguistics
 aliases:
 ---
 The smallest grammatical unit of meaning. 

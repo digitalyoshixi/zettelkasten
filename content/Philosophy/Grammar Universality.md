@@ -1,6 +1,6 @@
 ---
 tags:
-  - lingustics
+  - linguistics
 ---
 All [[Grammar]] are alike in basic ways.
 They share an inventory of principles/properties like:

@@ -1,6 +1,6 @@
 ---
 tags:
-  - lingustics
+  - linguistics
 ---
 The study of the structure of [[Word|Words]]
 # Concepts

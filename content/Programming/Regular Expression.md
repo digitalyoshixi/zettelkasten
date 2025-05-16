@@ -1,7 +1,7 @@
 ---
 tags:
   - programming
-  - lingustics
+  - linguistics
 ---
 Symbolic notations used to define search patterns of strings.
 # Notations

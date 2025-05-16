@@ -1,6 +1,6 @@
 ---
 tags:
-  - lingustics
+  - linguistics
 ---
 [[Affix]] that are inserted within the [[Root]] of a word
 Commonly seen in [[Bontoc]]

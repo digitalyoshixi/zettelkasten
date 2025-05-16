@@ -1,7 +1,7 @@
 ---
 tags:
   - programming
-  - lingustics
+  - linguistics
 ---
 System of rules that organizes how symbols/sounds translate to words and sentences.
 # Concepts

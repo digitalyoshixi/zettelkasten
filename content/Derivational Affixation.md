@@ -1,6 +1,6 @@
 ---
 tags:
-  - lingustics
+  - linguistics
 aliases:
   - Derivational Prefixation
   - Derivational Suffixation

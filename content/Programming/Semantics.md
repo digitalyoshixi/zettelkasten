@@ -1,6 +1,6 @@
 ---
 tags:
-  - lingustics
+  - linguistics
 ---
 The meaning of a language.
 1. If the [[Syntax]] is wrong, then there is no meaning

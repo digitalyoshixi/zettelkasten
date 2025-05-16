@@ -1,6 +1,6 @@
 ---
 tags:
-  - lingustics
+  - linguistics
 ---
 A word that modifies a [[Noun]].
 # Identification

@@ -1,6 +1,6 @@
 ---
 tags:
-  - lingustics
+  - linguistics
 ---
 A word in where the structure of the [[Morphological Tree]] is not apparent.
 # Example

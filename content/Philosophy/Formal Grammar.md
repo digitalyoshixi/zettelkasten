@@ -1,5 +1,5 @@
 ---
 tags:
-  - lingustics
+  - linguistics
 ---
 [[Sentences]] that follow grammatical rules

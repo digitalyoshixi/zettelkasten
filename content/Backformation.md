@@ -1,6 +1,6 @@
 ---
 tags:
-  - lingustics
+  - linguistics
 ---
 A [[Word Derivation|Word Formation]] process that involves removing a supposed Affix from an already existing [[Word]].
 # Example

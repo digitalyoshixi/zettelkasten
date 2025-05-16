@@ -1,6 +1,6 @@
 ---
 tags:
-  - lingustics
+  - linguistics
 ---
 A form of [[Communication]] that uses [[Word|Words]].
 # Branches

@@ -1,7 +1,7 @@
 ---
 tags:
   - programming
-  - lingustics
+  - linguistics
 ---
 The structure of a language.
 In contrast to [[Semantics]]
