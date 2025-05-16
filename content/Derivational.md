@@ -6,6 +6,7 @@ aliases:
   - Derivational Suffixation
   - Derivational Infixation
   - Derivational Circumfixation
+  - Derivational Affixation
 ---
 When a [[Affix]] combines with a [[Base]] to form a new [[Word]].
 Further categorized into Derivational [[Prefix|Prefixation]], [[Suffix|Suffixation]], [[Infix|Infixation]], [[Circumfix|Circumfixation]].

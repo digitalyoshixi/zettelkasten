@@ -15,5 +15,5 @@ It cannot be further broken down into smaller units.
 - [[Infix]]
 - [[Circumfix]]
 ### Grammatical Function
-- [[Inflectional]]
+- [[Inflection]]
 - [[Derivational]]
