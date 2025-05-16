@@ -12,3 +12,5 @@ Process in which a new word is constructed from a [[Base]] that has a different 
 - [[Abbreviation]]
 - [[Eponym]]
 - [[Blend]]
+- [[Clipping]]
+- [[Backformation]]
