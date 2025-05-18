@@ -16,3 +16,5 @@ Create an image with
 Will boot a x86_64 architecture from your ISO file on your mydisk with 4GB of ram
 # Guides
 - [[QEMU Arm Emulation]]
+# Wrappers
+- [[QuickEmu]]
