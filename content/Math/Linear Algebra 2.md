@@ -18,6 +18,7 @@ aliases:
 - 30% (4-6hrs per week) understanding basic defn, terms, computations. This is the most important
 - 60% (1-2hrs per week) understanding problems from class and most homeworks
 - 80% (1-2hrs per week) understanding what is presented
+- Late submission policy after 4 days
 # Concepts
 ### Week 0.1
 - [[Field]]
