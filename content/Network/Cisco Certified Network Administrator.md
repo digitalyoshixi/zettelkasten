@@ -5,7 +5,8 @@ tags:
 aliases:
   - CCNA
 ---
-The best networking certification you can get
+The best networking certification you can get.
+**Current Page: **
 - [ ] Expected Exam Date 📅 2025-06-04
 # Process
 2. Read the CCNA 200-301 book volume 1

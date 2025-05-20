@@ -49,3 +49,8 @@ aliases:
 - [[Span]]
 - [[Linear Independence]]
 - [[Basis]]
+### Week 2
+- [[Vector Space]]
+- [[Subspace]]
+- [[Spanning Set]]
+- [[Linear Independence]]
