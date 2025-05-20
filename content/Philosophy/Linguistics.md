@@ -39,3 +39,6 @@ aliases:
 - [[Inflection]]
 ### Week 2.2
 - [[Syntax]]
+### Week 3.1
+- [[Phrase]]
+- [[Sentences]]
