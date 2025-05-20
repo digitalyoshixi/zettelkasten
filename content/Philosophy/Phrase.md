@@ -15,3 +15,5 @@ A collection of two or more [[Word|Words]].
 ### Phrase Head
 This is obligatory and determines the phrase type.
 ![[Phrase-20250520090828176.webp]]
+### Nested Phrases
+Phrases may often include other phrase types that match

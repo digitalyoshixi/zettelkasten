@@ -12,3 +12,5 @@ In contrast to [[Semantics]]
 # Concepts
 - [[Syntactical Category]]
 - [[Syntactic Knowledge]]
+- [[Phrase]]
+- [[Constituency Tests]]

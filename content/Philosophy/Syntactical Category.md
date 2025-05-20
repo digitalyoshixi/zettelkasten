@@ -6,7 +6,7 @@ tags:
 ### Phrasal Categories
 - [[Noun Phrase]]
 - [[Verb Phrase]]
-- [[Prepropositional Phrase]]
+- [[Prepositional Phrase]]
 ### Functional Categories
 - [[Determiner]]
 - [[Auxilliary]]
