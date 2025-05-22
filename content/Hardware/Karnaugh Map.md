@@ -6,6 +6,10 @@ aliases:
   - K-Map
 ---
 Used for simplifying digital circuits (or finding circuit representations) for circuits up to 4 variables.
+Table is filled with:
+- `1` for high
+- `0` for low
+- `X / Dont Care` for outputs not possible in circuit
 # Forms
 - [[Sum of Products K-Map]]
 - [[Product of Sums K-Map]]

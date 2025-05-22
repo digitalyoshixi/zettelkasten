@@ -16,6 +16,8 @@ tags:
 - [[Half Adder]]
 - [[Full Adder]]
 - [[Multi-Bit Adder]]
+- [[Ripple Carry Adder]]
+- [[Carry-Look-Ahead Adder]]
 
 - [[Multiplexer]]
 - [[Lookup Tables|LUT]]
