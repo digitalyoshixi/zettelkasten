@@ -3,4 +3,8 @@ tags:
   - hardware
   - electricity
 ---
-A [[Circuit]] that converts a binary code that represents position of desired output into a specific set of outputs.
+A [[Circuit]] that maps sets of binary code inputs to specific outputs.
+![[Decoder-20250522151135429.webp|280]]
+# Types
+- [[One-Hot Decoder]]
+- [[Seven-Segment Decoder]]

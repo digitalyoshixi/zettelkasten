@@ -31,6 +31,7 @@ aliases:
 - [[Finite State Automata|Finite State Machine]]
 - [[Processor]]
 - [[Microprocessor Without Interlocked Pipelined Stages Assembly|MIPS Assembly]]
-### Week 3
 - [[Minterm]]
 - [[Maxterm]]
+### Week 3
+- [[Multiplexer]]
