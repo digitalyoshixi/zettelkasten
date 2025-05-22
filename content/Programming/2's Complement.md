@@ -5,6 +5,7 @@ tags:
 ---
 The most common method of representing signed integers.
 Designates the most significant byte to be the negative version of itself.
+Is also equivalent to [[1's Complement]] + 1.
 ![[2's Complement-20250522155832356.webp]]
 Replaces [[Signed Magnitude Method]]
 # Computing Negative Numbers

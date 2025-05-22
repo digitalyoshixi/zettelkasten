@@ -1,6 +1,8 @@
 ---
 tags:
   - security
+aliases:
+  - CTF
 ---
 Security competitions that require you to gather flags
 # Resources
