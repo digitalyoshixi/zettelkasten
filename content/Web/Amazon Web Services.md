@@ -74,5 +74,4 @@ A cloud platform that provides:
 - [[AWS Cloud Formation]]
 ### SDK
 - [[AWS Amplify]]
-
 - [[AWS Q]]
