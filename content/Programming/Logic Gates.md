@@ -17,6 +17,7 @@ tags:
 - [[Full Adder]]
 - [[Multi-Bit Adder]]
 - [[Ripple Carry Adder]]
+- [[Subtractor]]
 - [[Carry-Look-Ahead Adder]]
 
 - [[Multiplexer]]
