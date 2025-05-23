@@ -10,3 +10,5 @@ It will output:
 ![[2-to-1 MUX-20250522145229586.webp]]
 # Multiplexer Truth Table
 ![[2-to-1 MUX-20250522150441244.webp]]
+# Circuit Diagram
+![[2-to-1 MUX-20250523232104002.webp]]
