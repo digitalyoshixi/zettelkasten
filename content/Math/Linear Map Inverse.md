@@ -17,6 +17,7 @@ aliases:
 $T$ invertible $\Longleftrightarrow \forall b, Tv = b$ has a [[Unique Existence|Unique Solution]]
 # Theorems
 - [[Injectivity Surjectivity and Inverses]]
+- [[Equivalent Dimension Invertible Theorem]]
 - [[Determinants and Invertiblity Theorem]]
 - [[Invertibility and Eigenvalues]]
 - [[Linear Map Inverses are Unique]]

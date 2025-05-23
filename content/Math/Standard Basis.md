@@ -10,3 +10,5 @@ Where:
 # Example
 $n=3$ standard basis is:
 $\{ (1,0,0), (0,1,0), (0,0,1) \}$
+# Concepts
+- [[Standard Basis Matrix]]

@@ -57,3 +57,4 @@ aliases:
 ### Week 3
 - [[Swap Operator]]
 - [[Permutation Notation]]
+- [[Standard Basis Matrix]]
