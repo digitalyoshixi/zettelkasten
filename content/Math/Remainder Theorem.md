@@ -1,6 +1,8 @@
 ---
 tags:
   - math
+aliases:
+  - Fundamental Remainder Theorem
 ---
 if we want to check if `(x+1)` is a factor of `x^4 - 2x^2 + 3`
 just, sub in when `x = 1`, which is `-1` in the dividend

@@ -42,7 +42,7 @@ aliases:
 ### Week 1.2
 - [[Generator for Ideal]]
 - [[Euclidean Algorithm]] (GCD)
-- [[Fundamental Remainder Theorem]]
+- [[Remainder Theorem]]
 - [[Polynomial Ideal]]
 - [[Vector Space]]
 - [[Linear Combination]]
@@ -58,3 +58,5 @@ aliases:
 - [[Swap Operator]]
 - [[Permutation Notation]]
 - [[Standard Basis Matrix]]
+- [[Vector Space Isomorphic]]
+- [[Ordered Basis]]

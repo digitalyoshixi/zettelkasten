@@ -1,6 +1,8 @@
 ---
 tags:
   - proofs
+aliases:
+  - Proof By Construction
 ---
 Assume $P$ is true, then conclude that $Q$ is true.
 # Format

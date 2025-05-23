@@ -28,7 +28,7 @@ Then, it follows that $I$ is non-empty!
 Show that the set of $x+3$ is the generator
 ### Soln
 - Suppose $f \in I$, then by defn, $f(4) = 0$
-- Then, by the [[Fundamental Remainder Theorem]], there exists a $g \in \mathbb{Z}_{7}[x]$ s.t $f(x) = (x + (-4)) * g(x)$
+- Then, by the [[Remainder Theorem|Fundamental Remainder Theorem]], there exists a $g \in \mathbb{Z}_{7}[x]$ s.t $f(x) = (x + (-4)) * g(x)$
 - $= (x+3) * g(x)$ as $3$ is the [[Additive Inverse]] of $4$ in $\mathbb{Z}_{7}$
 - Thus, $\exists g \in \mathbb{R}$ s.t $f = (x+3) * g$
 - As $f$ is a generic element, the set $x+3$ is a generator for $I$
