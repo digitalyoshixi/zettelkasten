@@ -13,6 +13,6 @@ tags:
 6. `yarn`
 7. `yarn start --host`
 ### Creating CI/CD Pipeline
-- 
+- Use [[Github Runner]]
 ### Creating Autostart service
 With [[systemD]]

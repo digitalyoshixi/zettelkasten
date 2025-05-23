@@ -15,8 +15,9 @@ https://inv.nadeko.net/watch?v=GoZaMgEgrHw&listen=false
 - [[Proxmox Firewall]]
 - [[Proxmox LVM-Thin Storage]]
 - [[Proxmox Users]]
-- [[Proxmox ZFS Pool]]
 - [[LXC]]
+- [[Proxmox Backup]]
+- [[Proxmox Template]]
 # Guides
 - [[Proxmox DuckDNS Guide]]
 - [[Proxmox PRTG Guide]]
