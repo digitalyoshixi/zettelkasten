@@ -19,6 +19,7 @@ This has the further effect of:
 # Theorems
 - [[Linear Transformations Preserve Additive Identities]]
 - [[Linear Transformations Preserve Addition and Scaling]]
+- [[Linear Transformations Closed Under Linear Combinations]]
 - [[Linear Maps Determined by Their Actions on A Basis]]
 - [[Linear Transformation Characterized by Finite Number of Scalars]]
 # Applications

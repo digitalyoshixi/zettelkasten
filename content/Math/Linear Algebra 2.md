@@ -54,3 +54,6 @@ aliases:
 - [[Subspace]]
 - [[Spanning Set]]
 - [[Linear Independence]]
+### Week 3
+- [[Swap Operator]]
+- [[Permutation Notation]]

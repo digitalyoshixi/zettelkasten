@@ -2,6 +2,8 @@
 tags:
   - math
   - linalg
+aliases:
+  - Linear Map 'Multiplication'
 ---
 # Definition
 1. Given two functions $T : U \to V$ and $S : V - > W$
@@ -25,3 +27,4 @@ Then, $(T+S)R = TR+SR$
 - [[Composition of Linear Maps is Linear]]
 - [[Kernels Images and Compositions Theorem]]
 - [[Matrix Multiplication]]
+- [[Composition of Linear Maps are not Commutative]]
