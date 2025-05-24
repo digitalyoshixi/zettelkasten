@@ -4,6 +4,12 @@ aliases:
   - Uoft
 ---
 Best research institute in toronto.
+# Tools/Services
+- [[Uoft VPN]]
+- [[UTORGrouper]]
+- [[Uoft LDAP]]
+# Concepts
+- [[UTORID]]
 # Resources
 ### Degree Explorer
 https://degreeexplorer.utoronto.ca/degreeExplorer/planner
