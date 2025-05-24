@@ -9,3 +9,4 @@ Could be created with:
 - $X$ + [[1's Complement]] $Y + 1$ 
 # 4-Bit Subtractor Design
 ![[Subtractor-20250522164505678.webp]]
+![[Subtractor-20250524140616819.webp]]
