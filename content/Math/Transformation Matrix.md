@@ -28,10 +28,28 @@ It starts at basis $\alpha$ and ends in basis $\beta$
 A_{1j} \\
 A_{2j}  \\
 \vdots\\
-A_{nj} \\
+A_{mj} \\
 \end{array}\right]
 $$
 - Now, let $\alpha \in V$, Then $\alpha = c_{1}a_{1} +\dots+c_{n}a_{n}$
-- Thus, $T(a) = T\left(  \sum_{n}^{j=1}c_{j}\alpha_{j}  \right) = \sum_{n}^{}$
+- Thus, $T(a) = T\left(  \sum_{n}^{j=1}c_{j}\alpha_{j}  \right) = \sum_{n}^{j=1}(\sum_{m}^{i=1}c_{j}A_{ij})B_{i}$
+- Thus, $$[T_{\alpha i}]_{\beta'} = 
+\left[\begin{array}{c}
+\sum_{n}^{j=1}c_{j}A_{1j} \\
+\sum_{n}^{j=1}c_{j}A_{2j} \\
+\vdots\\
+\sum_{n}^{j=1}c_{j}A_{mj} \\
+\end{array}\right]
+$$
+- Notice that, $$A[\alpha]_{\beta} = 
+\left[\begin{array}{c}
+\sum_{n}^{j=1}c_{j}A_{1j} \\
+\sum_{n}^{j=1}c_{j}A_{2j} \\
+\vdots\\
+\sum_{n}^{j=1}c_{j}A_{mj} \\
+\end{array}\right]
+$$
+- Thus, a matrix exists
+- This matrix is unique, as the linear transformation is unique
 # Examples
 - [[Finding Matrix Representation for Identity Transformation]]

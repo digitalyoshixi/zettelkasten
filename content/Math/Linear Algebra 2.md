@@ -60,3 +60,4 @@ aliases:
 - [[Standard Basis Matrix]]
 - [[Vector Space Isomorphic]]
 - [[Ordered Basis]]
+- [[Linear Operator]]
