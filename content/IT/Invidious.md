@@ -3,6 +3,7 @@ tags:
   - IT
 ---
 A [[Youtube]] frontend for private video streaming.
+Uses [[yt-dlp]] as a backend for downloading videos.
 # Installation (Manual)
 https://docs.invidious.io/companion-installation/
 1. Install [[Crystal]] 1.12 (https://software.opensuse.org//download.html?project=devel%3Alanguages%3Acrystal&package=crystal1.10)
@@ -46,3 +47,4 @@ hmac_key: "CHANGE_ME!!"
 2. `cd invidious-companion`
 3. `deno task compile`
 4. `SERVER_SECRET_KEY=CHANGE_ME!!SAME_AS_INVIDIOUS_COMPANION_SECRET_KEY_FROM_INVIDIOUS_CONFIG ./invidious-companion`
+After the server is running, you can access the frontend at localhost:3000
