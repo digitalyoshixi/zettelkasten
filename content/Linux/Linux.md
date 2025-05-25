@@ -18,4 +18,5 @@ So based.
 - [[awk]]
 # Guides
 - [[Linux Users]]
+- [[Linux SSH Setup]]
 - [[systemD]]
