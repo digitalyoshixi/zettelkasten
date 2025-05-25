@@ -8,6 +8,7 @@ Best research institute in toronto.
 - [[Uoft VPN]]
 - [[UTORGrouper]]
 - [[Uoft LDAP]]
+- [[Uoft Shibboleth]]
 # Concepts
 - [[UTORID]]
 # Resources
