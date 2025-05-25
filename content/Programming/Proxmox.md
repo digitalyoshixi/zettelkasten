@@ -16,6 +16,7 @@ https://inv.nadeko.net/watch?v=GoZaMgEgrHw&listen=false
 - [[Proxmox LVM-Thin Storage]]
 - [[Proxmox Users]]
 - [[LXC]]
+- [[Proxmox VM]]
 - [[Proxmox Backup]]
 - [[Proxmox Template]]
 # Guides
