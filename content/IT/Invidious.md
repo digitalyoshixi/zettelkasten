@@ -30,12 +30,21 @@ https://docs.invidious.io/companion-installation/
 4. Now, you should have a binary called `invidious` in the same folder
 5. `vim config/config.yml`
 ```
+db:
+	user: kemal
+	password : yourpassword
+	...
+	
 invidious_companion:
   - private_url: "http://companion:8282"
     public_url: "http://invidious.mydomain.com"
 invidious_companion_key: "CHANGE_ME!!"
 ...
 hmac_key: "CHANGE_ME!!"
+...
+https_only: true
+domain: "yoshixi.net"
+external_port: 443
 ```
 6. `./invidious --migrate`
 7. `exit`
@@ -47,4 +56,8 @@ hmac_key: "CHANGE_ME!!"
 2. `cd invidious-companion`
 3. `deno task compile`
 4. `SERVER_SECRET_KEY=CHANGE_ME!!SAME_AS_INVIDIOUS_COMPANION_SECRET_KEY_FROM_INVIDIOUS_CONFIG ./invidious-companion`
+### Setup NGINX
+Copy the [[nginx.conf]] found on this site:
+https://docs.invidious.io/companion-nginx/
+
 After the server is running, you can access the frontend at localhost:3000
