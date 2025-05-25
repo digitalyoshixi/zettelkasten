@@ -20,7 +20,7 @@ def index():
     return "hello world"
 
 if __name__ == "__main__": # if running this file directly
-    app.run(debug=True) # run the app
+    app.run(debug=True, port=3000) # run the app
 
 ```
 # Concepts

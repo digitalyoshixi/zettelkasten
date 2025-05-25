@@ -33,4 +33,16 @@ invidious_companion:
   - private_url: "http://companion:8282"
     public_url: "http://invidious.mydomain.com"
 invidious_companion_key: "CHANGE_ME!!"
+...
+hmac_key: "CHANGE_ME!!"
 ```
+6. `./invidious --migrate`
+7. `exit`
+### Setup [[systemD]] service
+1. `cp /home/invidious/invidious/invidious.service /etc/systemd/system/invidious.service`
+2. `systemctl enable --now invidious.service`
+### Setup Invidious Companion
+1. `git clone https://github.com/iv-org/invidious-companion.git`
+2. `cd invidious-companion`
+3. `deno task compile`
+4. `SERVER_SECRET_KEY=CHANGE_ME!!SAME_AS_INVIDIOUS_COMPANION_SECRET_KEY_FROM_INVIDIOUS_CONFIG ./invidious-companion`
