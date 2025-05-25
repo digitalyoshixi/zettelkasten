@@ -2,7 +2,7 @@
 tags:
   - linguistics
 ---
-[[Word|Words]] used to determine something in [[Sentences]]
+[[Word|Words]] used to determine something in [[Sentence]]
 # List
 - `The`
 - `A`

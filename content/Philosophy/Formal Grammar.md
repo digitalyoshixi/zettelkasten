@@ -2,4 +2,4 @@
 tags:
   - linguistics
 ---
-[[Sentences]] that follow grammatical rules
+[[Sentence]] that follow grammatical rules

@@ -41,5 +41,5 @@ aliases:
 - [[Syntax]]
 ### Week 3.1
 - [[Phrase]]
-- [[Sentences]]
+- [[Sentence]]
 - [[Constituency Tests]]

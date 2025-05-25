@@ -2,7 +2,7 @@
 tags:
   - linguistics
 ---
-Used for chaining together [[Sentences]]
+Used for chaining together [[Sentence]]
 # List
 - `and`
 - `or`

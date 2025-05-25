@@ -3,7 +3,7 @@ tags:
   - programming
   - linguistics
 ---
-A [[Subfield]] of [[Grammar]] that studies the structure of [[Sentences]].
+A [[Subfield]] of [[Grammar]] that studies the structure of [[Sentence]].
 In contrast to [[Semantics]]
 # English
 1. `the girl ate the pasta` is syntactically correct

@@ -16,6 +16,6 @@ A word describing action.
 - `-ed`
 - `-s`
 - `-ing`
-### [[Syntax]]
+### [[Syntax]] Tests
 - Verbs come after [[Auxilliary]]
 - Verbs come after [[Subject]] or before [[Object]] (`S V O`)
