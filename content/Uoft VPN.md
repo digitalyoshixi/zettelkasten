@@ -2,6 +2,7 @@
 tags:
   - IT
   - networking
+  - uoft
 ---
 A VPN to enter Uoft's local network.
 https://security.utoronto.ca/services/vpn/usage-guide/
