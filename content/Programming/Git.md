@@ -39,6 +39,10 @@ See all commit hashes within a repo
 ### checkout
 Reverts to a previous change
 - `git checkout <commithash>`
+Change to a branch
+- `git checkout <branchname>`
+Create a branch
+- `git checkout -b <branchname>`
 ### branch
 - `git branch <new-branch-name>`
 ### diff <somechangeID\>
