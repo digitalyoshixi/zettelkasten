@@ -18,3 +18,5 @@ TLS certificates contain:
 1. Check your time synchronization
 2. Check your certificate lists
 3. Check if another device and browser can access the site
+# Creating A Digital Certificate
+1. Create public, private key pair with [[OpenSSH Keygen]]
