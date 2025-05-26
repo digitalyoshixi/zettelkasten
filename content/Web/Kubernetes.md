@@ -6,8 +6,8 @@ aliases:
 ---
 ![[Kubernetes-20240802032253100.webp|303]]
 A software used to manage and orchestrate [[Docker]] containers, ensuring they have:
-- Reliability
-- Scalability
+- [[High Availability]]
+- [[Elasticity]]
 - Cohesion
 # Installation
 ### [[Arch Linux]]

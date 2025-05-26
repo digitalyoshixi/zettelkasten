@@ -6,7 +6,8 @@ aliases:
   - SSH
 ---
 A protocol to open a shell in a remote device.
-Found on port `tcp/22`
+Found on port `tcp/22`.
+- Establishes secure sessions with cryptographic algorithms. Commonly [[RSA]]
 # Protocol
 
 # SSH Encryption
