@@ -40,7 +40,8 @@ See all commit hashes within a repo
 Reverts to a previous change
 - `git checkout <commithash>`
 Change to a branch
-- `git checkout <branchname>`
+1. `git checkout <branchname>`
+2. `git pull origin <branchname>`
 Create a branch
 - `git checkout -b <branchname>`
 ### branch
