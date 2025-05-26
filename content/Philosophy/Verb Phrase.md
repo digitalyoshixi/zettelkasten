@@ -6,6 +6,4 @@ aliases:
 ---
 A [[Phrase]] for [[Verb]] structures
 # Structure
-![[Verb Phrase-20250520091558696.webp|328]]
-- [[Verb]] [[Head]] is required
-- [[Adverb Phrase]] is optional
+`VP -> (Aux) (AdvP) V (AdjP) (NP+) (AdvP) (PP+) (AdvP)`
