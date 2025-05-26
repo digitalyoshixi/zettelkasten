@@ -4,7 +4,6 @@ tags:
 ---
 https://www.w3schools.com/java/java_type_casting.asp
 Is a method used to convert data types to other datatypes. Similar to [[Java Parsing]] and [[Serialization]]
-
 # Widening(Implicit/Automatic)
 ```java
 int y = 0;
@@ -17,7 +16,6 @@ double x = 10.5;
 int y = (int)x;
 ```
 you manually type the data point before the variable
-
 # Upcasting(Automatic)
 When you turn a Child object into a Parent object
 done automatically when you 

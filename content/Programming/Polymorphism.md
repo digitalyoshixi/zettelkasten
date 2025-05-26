@@ -5,11 +5,13 @@ aliases:
   - Many Forms
 ---
 Ability of an [[Object]] or [[Method]] to take many forms.
+Commonly occurs when a parent class reference is used to refer to a child class object [[Java Typecasting]].
+# Concepts
 - [[Function Overloading]]
 - [[Function Hierarchy]]
 - [[Function Overwriting]]
 - [[Operator Overloading]]
 - [[Virtual Functions]]
-Commonly occurs when a parent class reference is used to refer to a child class object [[Java Typecasting]].
-# [[instanceof]]
-Is very useful to check if a typecast was successful
+- [[Dynamic Binding]]
+- [[Dynamic Dispatch]]
+- [[instanceof]]

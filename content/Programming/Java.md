@@ -45,6 +45,8 @@ public class Main {
 - [[Java Typecasting]]
 - [[Java Parsing]]
 - [[Serialization]]
-- [[Java instanceof]]
-### Specific Concepts
-- [[Java Dynamic Binding]]
+- [[instanceof]]
+### [[Object Oriented Programming|OOP]]
+- [[Polymorphism]]
+- [[Dynamic Binding]]
+- [[Dynamic Dispatch]]
