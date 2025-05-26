@@ -8,8 +8,8 @@ tags:
 
 # Streams
 [[Streams]]
-[[Java File Output]]
-[[Java File Input]]
+[[Java FileWriter]]
+[[Java File]]
 
 # Other
 [[Flat Files]]

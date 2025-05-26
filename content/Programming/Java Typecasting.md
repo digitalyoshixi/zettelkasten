@@ -3,7 +3,7 @@ tags:
   - datatype
 ---
 https://www.w3schools.com/java/java_type_casting.asp
-Is a method used to convert data types to other datatypes. Similar to [[Parsing]] and [[Serialization]]
+Is a method used to convert data types to other datatypes. Similar to [[Java Parsing]] and [[Serialization]]
 
 # Widening(Implicit/Automatic)
 ```java

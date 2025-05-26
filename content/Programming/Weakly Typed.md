@@ -2,4 +2,4 @@
 tags:
   - programming
 ---
-[[Typecasting]] is possible.
+[[Java Typecasting]] is possible.

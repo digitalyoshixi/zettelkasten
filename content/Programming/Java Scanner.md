@@ -26,4 +26,4 @@ For some reason, nextInt() will not read in the escaped character newline. so, i
 
 The fix is to read as a string first, then convert it to number.
 ![[Pasted image 20230907194531.png]]
-Consult [[Parsing]] For more details
+Consult [[Java Parsing]] For more details
