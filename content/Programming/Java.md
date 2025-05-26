@@ -41,3 +41,10 @@ public class Main {
 - [[Java BufferedReader]]
 - [[Java FileWriter]]
 - [[Java PrintWriter]]
+### Types
+- [[Java Typecasting]]
+- [[Java Parsing]]
+- [[Serialization]]
+- [[Java instanceof]]
+### Specific Concepts
+- [[Java Dynamic Binding]]
