@@ -1,6 +1,8 @@
 ---
 tags:
   - linguistics
+aliases:
+  - Clause
 ---
 A sequence of [[Word|Words]] that follows [[Syntax|Syntactical Rules]].
 # Structure
