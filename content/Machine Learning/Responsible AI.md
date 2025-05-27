@@ -1,6 +1,8 @@
 ---
 tags:
   - machine_learning
+  - ai_safety
+  - philosophy
 ---
 The AI that is able to perform well.
 This is what allows [[Ethical AI]] to be functional.

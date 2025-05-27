@@ -8,5 +8,6 @@ aliases: []
 - [[Responsible AI]]
 - [[Ethical AI]]
 - [[AI Laws]]
+- [[AI Sandbagging]]
 # Alternates:
 - [[AI Security]]
