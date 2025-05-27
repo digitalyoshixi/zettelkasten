@@ -12,8 +12,13 @@ A modified [[Delay Flip-Flop|D Flip-Flop]] that attempts to replicate the [[Mast
 Can be set as:
 - synchronous mode (controled by [[Clock Signal]])
 - asynchronous mode (state is independent of clock)
+# Circuit Diagram
+![[Jack Kilby Flip-Flop-20250527182638015.webp]]
 # Truth Table
 
-| $J$ | $K$ | $Q$ | $\overline Q$ |
-| --- | --- | --- | ------------- |
-|     |     |     |               |
+| $J$ | $K$ | Output                       |
+| --- | --- | ---------------------------- |
+| 0   | 0   | maintain output              |
+| 0   | 1   | 0                            |
+| 1   | 0   | 1                            |
+| 1   | 1   | [[Toggle Flip-Flop\|Toggle]] |

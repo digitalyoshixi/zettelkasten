@@ -2,6 +2,9 @@
 tags:
   - hardware
   - electricity
+aliases:
+  - Rising Edge
+  - Falling Edge
 ---
 These are the states when clock level changes.
 ![[Clock Edge-20250527160246469.webp|248]]
