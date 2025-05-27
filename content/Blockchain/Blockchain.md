@@ -14,3 +14,4 @@ A shared ledger that is designed to be:
 - [[Proof of Elapsed Time]]
 - [[Smart Contract]]
 - [[Scalability Trilemma]]
+- [[Blockchain Network]]
