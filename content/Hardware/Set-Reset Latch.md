@@ -6,8 +6,12 @@ aliases:
 ---
 A [[Sequential Circuit]] that can store one bit of information.
 With the state:
-- Set (1)
-- Reset (0)
+- Set
+- Reset
 Used as memory storage for sequential logical circuits
-# Circuit Diagram
+# Types
+- [[Active Low SR Latch]]
+- [[Active High SR Latch]]
+# Wonky Active High Circuit Diagram with Clock
 ![[Set-Reset Latch-20250524174933541.webp]]
+
