@@ -8,6 +8,6 @@ aliases:
 # Resources
 - https://github.com/crytic/awesome-ethereum-security
 # Practice Sites
-- https://ethernaut.openzeppelin.com/
+- [[Ethernaut]]
 - https://www.damnvulnerabledefi.xyz/
 - https://capturetheether.com/
