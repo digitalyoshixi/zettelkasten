@@ -2,4 +2,4 @@
 tags:
   - virtualization
 ---
-A [[Load Balancer]] for [[Containers]]
+A [[Load Balancer]] for kubernetes [[Containers]]

@@ -9,6 +9,7 @@ A software used to manage and orchestrate [[Docker]] containers, ensuring they h
 - [[High Availability]]
 - [[Elasticity]]
 - Cohesion
+Developed at [[Google]].
 # Installation
 ### [[Arch Linux]]
 `sudo pacman -S kubectl`
@@ -22,6 +23,8 @@ A software used to manage and orchestrate [[Docker]] containers, ensuring they h
 7. `sudo apt-get install -y kubectl`
 # Concepts
 - [[Docker]]
+- [[Kubernetes Master Node]]
+- [[Kubernetes Worker Node]]
 - [[Docker Node]]
 - [[Docker Cluster]]
 - [[etcd]]
