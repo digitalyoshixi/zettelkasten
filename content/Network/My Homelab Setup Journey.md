@@ -50,3 +50,7 @@ I renamed the hostname, forgot to backup and ruined my nodes. now i have to rein
 - I create a [[Github Runner]], and then create a [[systemD]] service to run it on startup
 	- There is a specific technicality that github runner run.sh script must be ran as user, and LXC does not allow user services. So, we must edit the [[sudo|sudoers]] file to only allow the specific command `sudo systemctl restart mysite.service`
 - create a [[systemD]] service to run the web app as the webrunner user
+# May 25 2025
+- We tried setting [[Invidious]] directly. Failed for videoJS reasons. Trying to diagnose why
+# May 27 2025
+- We setup [[Kubernetes]]
