@@ -8,5 +8,5 @@ aliases:
 ---
 ![[Logic Blocks-20250425152038457.webp|358]]
 Contains:
-- [[Flip-Flops]]
+- [[Flip-Flop]]
 - [[Lookup Tables]]

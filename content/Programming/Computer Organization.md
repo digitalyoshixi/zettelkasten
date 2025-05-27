@@ -28,7 +28,7 @@ aliases:
 - [[Seven Segment Display]]
 - [[Logic Unit]]
 - [[Arithmetic Logic Unit|ALU]]
-- [[Flip-Flops]]
+- [[Flip-Flop]]
 - [[Finite State Automata|Finite State Machine]]
 - [[Processor]]
 - [[Microprocessor Without Interlocked Pipelined Stages Assembly|MIPS Assembly]]
@@ -53,3 +53,4 @@ aliases:
 - [[Unstable Behavior|Unstable State]]
 - [[Race Condition]]
 - [[Clock Signal]]
+- [[Delay Latch|D Latch]]
