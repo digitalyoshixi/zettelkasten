@@ -7,7 +7,7 @@ Great for:
 - [[Microservices]]
 # Concepts
 - [[Containers]]
-- [[Pod]]
+- [[Kubernetes Pod]]
 - [[Dockerfile]]
 - [[Docker Node]]
 - [[Docker Compose]]
