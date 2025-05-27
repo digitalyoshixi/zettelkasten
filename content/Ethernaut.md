@@ -17,4 +17,4 @@ https://ethernaut.openzeppelin.com/
 3. `ethernaut` : View sites main smart contract
 4. `contract` : View games main smart contract
 5. `web3.eth.getAccounts()` : View all accounts (player is one of them)
-6. `web3.eth.sendTransaction({fr`
+6. `web3.eth.sendTransaction({from:player, to:contract.address, value:web3.utils.toWei('0.000001', 'ether')})`
