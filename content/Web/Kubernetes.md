@@ -29,3 +29,4 @@ Developed at [[Google]].
 - [[Docker Cluster]]
 - [[etcd]]
 - [[Declarative]]
+- [[minikube]]

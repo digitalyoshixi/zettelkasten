@@ -8,3 +8,5 @@ These are master servers used to administer tasks for a [[Pod]].
 # Services Within
 - [[Kube-API Server]]
 - [[Kube-Scheduler]]
+- [[Kube-Controllers]]
+- [[etcd]]
