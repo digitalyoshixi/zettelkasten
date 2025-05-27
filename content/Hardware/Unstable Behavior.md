@@ -7,4 +7,5 @@ aliases:
   - Oscillation
   - Oscillates
 ---
-When a [[Circuit|Circuit's]] output continuously changes when input not change.
+When a [[Circuit|Circuit's]] output continuously changes while input does not change.
+![[Unstable Behavior-20250527175723889.webp]]

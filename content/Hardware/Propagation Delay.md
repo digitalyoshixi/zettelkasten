@@ -10,4 +10,4 @@ This is the length of time it take for a output gate to respond to input gates c
 - Find the path from input to output that takes the longest time
 # Changing Waveform Diagrams
 - [[Waveform|Waveform Diagrams]] will shift by the propogation delays
-![[Propagation Delay-20250527142956033.webp|359]]
+![[Propagation Delay-20250527174501486.webp]]

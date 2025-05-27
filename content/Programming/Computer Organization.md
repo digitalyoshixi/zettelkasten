@@ -49,6 +49,7 @@ aliases:
 - [[Waveform]]
 - [[Propagation Delay|Gate Delay]]
 - [[Feedback]]
+- [[Circuit State]]
 - [[Set-Reset Latch|SR Latch]]
 - [[Unstable Behavior|Unstable State]]
 - [[Race Condition]]
