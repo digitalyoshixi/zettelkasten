@@ -2,6 +2,8 @@
 tags:
   - math
   - calculus
+aliases:
+  - Oscillates
 ---
 A sequence will oscillate if:
 - It does not [[Sequence Convergence|Converge]]
