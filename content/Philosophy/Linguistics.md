@@ -45,3 +45,4 @@ aliases:
 - [[Constituency Tests]]
 ### Week 4.1
 - [[Phrase Structure Rules]]
+- [[Phonetics]]
