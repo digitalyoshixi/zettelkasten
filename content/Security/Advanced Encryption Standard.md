@@ -6,6 +6,7 @@ aliases:
 ---
 A [[Post-Quantum Cryptography]] safe algorithm.
 128 bit Symmetric Cipher.
+- The key is constructed out of 64 bits
 Takes a message and a key.
 The key can be 128bits, 192bits or 256bits.
 # Encryption Process
