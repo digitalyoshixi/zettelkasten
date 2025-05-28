@@ -12,9 +12,25 @@ Great for:
 - [[Docker Node]]
 - [[Docker Compose]]
 # Installation
+### [[Arch]]
 1. `sudo pacman -S docker`
 2. `sudo systemctl enable docker.service & sudo systemctl start docker.service` 
 3. `sudo systemctl start docker.socket`
+### Debian
+1. `apt update`
+2. `apt install ca-certificates curl`
+3. `sudo install -m 0755 -d /etc/apt/keyrings`
+4. `sudo curl -fsSL https://download.docker.com/linux/debian/gpg -o /etc/apt/keyrings/docker.asc`
+5. `sudo chmod a+r /etc/apt/keyrings/docker.asc`
+6. 
+```
+echo \
+  "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/debian \
+  $(. /etc/os-release && echo "$VERSION_CODENAME") stable" | \
+  sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+```
+7. `sudo apt-get update`
+8. `sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin`
 # Using Docker
 ### Build Container
 ```
