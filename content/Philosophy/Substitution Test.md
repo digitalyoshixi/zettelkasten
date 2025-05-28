@@ -1,6 +1,8 @@
 ---
 tags:
   - linguistics
+aliases:
+  - Replacement Test
 ---
 A [[Constituency Tests|Constituency Test]] that involves replacing [[Phrase|Phrases]] with others to check if the same meaning holds.
 # Specific Substitutions
