@@ -1,6 +1,9 @@
 ---
 tags:
   - machine_learning
+aliases:
+  - AI Agents
+  - Agentic AI
 ---
 A collection of:
 - AI Model
