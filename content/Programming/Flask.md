@@ -21,7 +21,7 @@ def index():
 
 if __name__ == "__main__": # if running this file directly
     app.run(debug=True, port=3000) # run the app
-
+    #app.run(host="0.0.0.0", debug=True, port=3000) # expose to all ips
 ```
 # Concepts
 - [[Jinja Template]]
