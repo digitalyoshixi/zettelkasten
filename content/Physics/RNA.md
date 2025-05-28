@@ -2,4 +2,4 @@
 tags:
   - biology
 ---
-An alternate method for creating [[Cells]] opposed to [[DNA]].
+An alternate method for creating [[Biology/Cell]] opposed to [[DNA]].

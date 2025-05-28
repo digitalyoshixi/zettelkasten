@@ -6,7 +6,7 @@ aliases:
 ---
 This type of current is converted from [[Alternating Current|AC]] to be able to be used for electric devices.
 Powers:
-- [[Cell|Battery]]
+- [[Physics/Cell|Battery]]
 - [[Laptop Batteries]]
 - Electronics
 # Constant Voltage 
