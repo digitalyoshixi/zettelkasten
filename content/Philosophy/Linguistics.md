@@ -39,12 +39,16 @@ aliases:
 - [[Inflection]]
 ### Week 2.2
 - [[Syntax]]
+- [[Syntactical Category]]
 ### Week 3.1
 - [[Phrase]]
 - [[Sentence]]
 - [[Constituency Tests]]
 ### Week 4.1
 - [[Phrase Structure Rules]]
+### Week 4.2
 - [[Phonetics]]
 	- [[Articulatory Phonetics]]
 - [[International Phonetic Alphabet]]
+- [[Phones]]
+- [[Places of Articulation]]

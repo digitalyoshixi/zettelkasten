@@ -6,6 +6,8 @@ tags:
 ### Phrasal Categories
 - [[Noun Phrase]]
 - [[Verb Phrase]]
+- [[Adjective Phrase]]
+- [[Adverb Phrase]]
 - [[Prepositional Phrase]]
 ### Functional Categories
 - [[Determiner]]
