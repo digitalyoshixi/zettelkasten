@@ -63,3 +63,4 @@ aliases:
 - [[Linear Operator]]
 ### Week 4
 - [[Change of Basis]]
+- [[Linear Functional]]

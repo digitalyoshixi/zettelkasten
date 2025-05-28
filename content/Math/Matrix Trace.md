@@ -16,3 +16,5 @@ $$
 1. $tr(A^{T}) = tr(A)$
 2. $tr(AB) = tr(BA)$
 3. $tr(A + B) = tr(A) + tr(B)$
+# Concepts
+- [[Proving Trace is a Linear Functional]]
