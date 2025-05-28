@@ -18,5 +18,6 @@ So based.
 - [[awk]]
 # Guides
 - [[Linux Users]]
+- [[Linux View Open Ports]]
 - [[Linux SSH Setup]]
 - [[systemD]]
