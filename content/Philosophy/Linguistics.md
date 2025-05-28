@@ -46,3 +46,5 @@ aliases:
 ### Week 4.1
 - [[Phrase Structure Rules]]
 - [[Phonetics]]
+	- [[Articulatory Phonetics]]
+- [[International Phonetic Alphabet]]
