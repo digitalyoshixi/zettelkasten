@@ -4,6 +4,7 @@ tags:
   - linalg
 aliases:
   - Matrix Between Two Bases
+  - Change of Basis Matrix
 ---
 # Theorem
 - With $V$ as a finite dimensional vector space
