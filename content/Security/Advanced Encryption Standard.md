@@ -4,7 +4,7 @@ tags:
 aliases:
   - AES
 ---
-# AES
+A [[Post-Quantum Cryptography]] safe algorithm.
 128 bit Symmetric Cipher.
 Takes a message and a key.
 The key can be 128bits, 192bits or 256bits.

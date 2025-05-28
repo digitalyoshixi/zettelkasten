@@ -2,6 +2,8 @@
 tags:
   - cryptography
   - math
+aliases:
+  - ECC
 ---
 A [[Public-Key Cryptography]] algorithm that uses [[Elliptical Curves]].
 used for equations like:
