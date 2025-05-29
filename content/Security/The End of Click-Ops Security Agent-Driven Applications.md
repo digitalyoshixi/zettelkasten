@@ -32,3 +32,20 @@ A security talk about [[AI Agent|AI Agents]] at [[TASK]].
 - We have to secure data pipelines, prompt layer on our user end
 - [[Model Context Protocol]]
 - [[Agent to Agent Protocol]]
+- [[STAR AI Security Framework]] is created by [[Straiker]] to secure AI agents
+- You have to treat [[AI Agent|Agentic AI]] like an employee. this means [[Principle of Least Privilege]], etc.
+- Use [[Regular Expression|Regex]] to match for sensitive information like credit cards does not work anymore, since prompt injectors can specify a certain format for output
+- To handle this:
+	- Enhance legacy [[Data Loss Prevention|DLP]]
+	- Fine-tune your models
+	- Use a medley of experts (Use [[Reinforcement Learning|RL]] with knowledgable trainers)
+- [[Straiker]]
+- For AI, you have to sanitize your inputs AND your outputs
+	- You can use a host of LLM judges to check outputs
+- For instrumenting:
+	- You can setup a [[Software Development Kit|SDK]] 
+	- You can setup __ on the [[Langchain]] infrastructure
+	- You can set this up on the [[Application Program Interface|API]]
+- Reduce output to cannonical form, this makes it easier, only have one character set to work with
+	- [[ASCII Smuggling]] is a tactic
+- [[Straiker]] has a AI red team model that tries every possible tactic
