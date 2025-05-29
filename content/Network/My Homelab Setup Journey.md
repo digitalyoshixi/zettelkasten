@@ -54,3 +54,6 @@ I renamed the hostname, forgot to backup and ruined my nodes. now i have to rein
 - We tried setting [[Invidious]] directly. Failed for videoJS reasons. Trying to diagnose why
 # May 27 2025
 - We setup [[Kubernetes]]
+# May 29 2025
+- The issue with my previous invidious instance was that, invidious's tutorial expected the reverse proxy to run on the same device that is hosting invidious. My device was not!
+- So, obviously we expose the original website, but I did not expose the server (invidious companion) to the public, so I changed that in NGINX to create a new subdomain for the server, now thats publically accessible!!!

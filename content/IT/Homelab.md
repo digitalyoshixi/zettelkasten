@@ -14,7 +14,7 @@ This is the map of my homelab:
 - [x] [[nginx]] for opening the server to the internet
 - [ ] [[CTFd]]
 - [ ] [[dufs]] for public file server access to [[Network Attached Storage|NAS]]
-- [ ] [[Invidious]]
+- [x] [[Invidious]] ✅ 2025-05-29
 - [ ] [[Readarr]] for reading
 - [ ] [[Openbooks]] for downloading books
 - [ ] [[Redlib]]
