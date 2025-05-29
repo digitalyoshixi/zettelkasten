@@ -55,7 +55,15 @@ external_port: 443
 1. `git clone https://github.com/iv-org/invidious-companion.git`
 2. `cd invidious-companion`
 3. `deno task compile`
-4. `SERVER_SECRET_KEY=CHANGE_ME!!SAME_AS_INVIDIOUS_COMPANION_SECRET_KEY_FROM_INVIDIOUS_CONFIG ./invidious-companion`
+4. `cp config/config.example.tml config/config.toml`
+5. Edit the config file to be:
+```
+[server]
+port = 8282
+host = "0.0.0.0"
+secret_key = "SAMEASINVIDIOUSCOMPANIONKEY"
+```
+1. `./invidious_companion`
 ### Setup NGINX
 Copy the [[nginx.conf]] found on this site:
 https://docs.invidious.io/companion-nginx/
