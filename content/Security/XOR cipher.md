@@ -3,7 +3,6 @@ tags:
   - cryptography
 ---
 One of the most common bases for encryption. 
-
 # The Process
 These types of encryptions require only:
 - a key

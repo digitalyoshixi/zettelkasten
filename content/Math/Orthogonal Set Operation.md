@@ -4,7 +4,8 @@ tags:
   - math
 aliases:
   - Bot Operation
-banner: Perpendicular Subsets
+  - Perpendicular Set
+banner:
 ---
 # Definition
 - Let $S$ be a non-empty [[Subset]] of [[Vector Space]] $\mathbb{R}^{n}$ or $\mathbb{C}^{n}$

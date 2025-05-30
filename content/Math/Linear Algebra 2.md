@@ -71,4 +71,4 @@ aliases:
 	- [[Standard Inner Product Function]]
 - [[Riesz Representation Theorem]]
 - [[Annihilator]]
-- [[Perpendicular Subspaces]]
+- [[Error Correcting Codes]]
