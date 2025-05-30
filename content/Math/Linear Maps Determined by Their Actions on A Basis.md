@@ -4,7 +4,7 @@ tags:
   - linalg
 ---
 Suppose $V$ is a finite dimensional vector space with basis $\alpha = \{ v_{1}, \dots, v_{n} \}$
-If $S : V \to W$ and $T : V \to W$ are [[Linear Maps]] s.t $S(v_{1}) = T(v_{1})$
+If $S : V \to W$ and $T : V \to W$ are [[Linear Transform|Linear Maps]] s.t $S(v_{1}) = T(v_{1})$
 For each $v_{i}$ in the basis $\alpha$, then $S(v) = T(v)$ for all $v \in V$
 # Intuition
 ![[Linear Maps Determined by Their Actions on A Basis-20250211032359223.webp]]

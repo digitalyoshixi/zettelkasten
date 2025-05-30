@@ -2,10 +2,16 @@
 tags:
   - linalg
   - math
+aliases:
+  - Standard Dot Product
 ---
-# Inner Product
-Standard inner product of vector $u,v$ is:
-$\langle u,v \rangle = \sum_{k=1}^{n}u_{i}v_{i} = u_{1}v_{1}+\dots+u_{n}v_{n}$
+# Notation
+Standard inner product of vector $u,v$ denoted as:
+- $\langle u, v \rangle$
+- $\langle u| v \rangle$
+Defined differently for the [[Field]]:
+- [[Standard Inner Product for Real Numbers]]
+- [[Standard Inner Product for Complex Numbers]]
 # Length of Norm
 The length of the normal $\mid\mid v\mid\mid = \sqrt{ (v,v) } = \sqrt{ v_{1}^{2} + \dots +v_{n}^{2} }$
 Note that the inner product is linear in the sense that $\langle u, av = bw \rangle = a \langle u,v \rangle + b \langle u,w \rangle$
@@ -20,3 +26,7 @@ Note that the inner product is linear in the sense that $\langle u, av = bw \ran
 # Theorems
 - [[Inner Products Define Angles Theorem]]
 - [[Orthoganality Theorem]]
+- [[Standard Inner Product for Complex Numbers]]
+- [[Standard Inner Product Function]]
+- [[Riesz Representation Theorem]]
+- [[Standard Inner Product for Real Numbers]]

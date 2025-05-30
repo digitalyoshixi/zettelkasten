@@ -64,3 +64,11 @@ aliases:
 ### Week 4
 - [[Change of Basis]]
 - [[Linear Functional]]
+- [[Orthogonal Set Operation]]
+- [[Standard Inner Product]]
+	- [[Standard Inner Product for Complex Numbers]]
+	- [[Standard Inner Product for Real Numbers]]
+	- [[Standard Inner Product Function]]
+- [[Riesz Representation Theorem]]
+- [[Annihilator]]
+- [[Perpendicular Subspaces]]
