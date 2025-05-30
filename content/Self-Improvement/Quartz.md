@@ -75,3 +75,5 @@ Remember to update the node version to whatever your actual node version is (`no
 7. Go to your repo on the web > settings > pages > source > Github Actions
 8. `npx quartz sync`
 You can now visit your quartz website at `<github-username>.github.io/<repository-name>`
+# Concepts
+- [[Quartz Plugins]]
