@@ -17,6 +17,7 @@ This is the map of my homelab:
 - [x] [[Invidious]] ✅ 2025-05-29
 - [ ] [[Readarr]] for reading
 - [ ] [[Openbooks]] for downloading books
+- [ ] [[Calibre]] for reading books
 - [ ] [[Redlib]]
 - [ ] [[Techaro Anubis]]
 - [ ] [[OPNSense]] deep packet firewall
