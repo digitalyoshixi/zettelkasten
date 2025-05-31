@@ -5,7 +5,7 @@ tags:
 This is the map of my homelab:
 ![[Drawing 2025-01-27 12.08.50.excalidraw]]
 # [[Raspberry Pi]]
-- [ ] [[Pi Hole]] for a content-blocker
+- [x] [[Pi Hole]] for a content-blocker ✅ 2025-05-31
 # Old Ass Desktop
 - [x] [[Proxmox]] for virtualizing all services ✅ 2025-04-23
 - [x] Porkbun DDNS update script
@@ -18,7 +18,6 @@ This is the map of my homelab:
 - [ ] [[Openbooks]] for downloading books
 - [ ] [[Calibre]] for reading books
 - [ ] [[Redlib]]
-- [ ] [[Techaro Anubis]]
 - [ ] [[OPNSense]] deep packet firewall
 - [ ] [[Bitwarden]] for password management
 - [ ] [[Nextcloud]] for file-sync
