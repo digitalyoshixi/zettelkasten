@@ -4,6 +4,7 @@ tags:
 ---
 A [[Web Server Gateway Interface]] for running [[Flask]] applications.
 # Installation
-- `pip install gunicorn`
+- `pip install gunicorn gevent`
 # Running Gateway
-`gunicorn -b 0.0.0.0:8000 app:app`
+For [[Flask]] app written in file: `server.py`
+`gunicorn -b 0.0.0.0:8000 --worker-class gevent server:app`
