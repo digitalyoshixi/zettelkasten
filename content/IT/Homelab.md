@@ -12,7 +12,7 @@ This is the map of my homelab:
 - [x] [[Tailscale]] for [[Virtual Private Network|VPN]] ✅ 2025-04-27
 - [x] Self hosted [[Excalidraw]] with plugins (https://github.com/excalidraw/excalidraw/issues/6506) ✅ 2025-04-30
 - [x] [[nginx]] for opening the server to the internet
-- [ ] [[CTFd]]
+- [x] [[CTFd]] ✅ 2025-05-31
 - [ ] [[dufs]] for public file server access to [[Network Attached Storage|NAS]]
 - [x] [[Invidious]] ✅ 2025-05-29
 - [ ] [[Openbooks]] for downloading books
