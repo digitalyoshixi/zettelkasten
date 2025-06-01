@@ -3,6 +3,8 @@ tags:
   - math
   - programming
 ---
-This is a combinatory logic system that is [[Turing Complete]]>
+This is a logic system that is [[Turing Complete]].
+# Concepts
+- [[Lambda Function]]
 # Types
 - [[SKI Combinator Calculus]]
