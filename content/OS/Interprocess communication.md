@@ -1,6 +1,8 @@
 ---
 tags:
   - os
+aliases:
+  - IPC
 ---
 
 When 2 or more processes are in execution at the same time, they can be independent or cooperative. We may want cooperative processes for:
