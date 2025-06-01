@@ -4,7 +4,7 @@ tags:
   - c
   - cpp
 ---
-after you have [[Compiler|Compiled]] your [[C++]] program and are given object files, you are going to pass it through the linker.
+After you have [[Compiler|Compiled]] your [[C]] program and are given object files, you are going to pass it through the linker.
 
 The linker does 3 things.
 1. Turns object files into executable or library files ![[Pasted image 20231119140137.png]] 
