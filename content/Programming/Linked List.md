@@ -2,6 +2,8 @@
 tags:
   - programming
   - c
+aliases:
+  - List
 ---
 A list made of node structures that point to the address of the subsequent list element.
 Each linked list comes with an independent variable `head` that points to the first node in the list.

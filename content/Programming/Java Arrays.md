@@ -2,6 +2,6 @@
 tags:
   - datatype
 ---
-[[Array]] implemented in [[Java]].  Must only hold 1 datatype.
-- [[1D Array]]
-- [[2D Array]]
+[[Array|Arrays]] implemented in [[Java]].  Must only hold 1 datatype.
+- [[Java 1D Array]]
+- [[Java 2D Array]]

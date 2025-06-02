@@ -52,3 +52,4 @@ public class Main {
 - [[Dynamic Dispatch]]
 - [[Java Classes]]
 - [[Java Objects]]
+- [[Java List]]

@@ -3,4 +3,4 @@ tags:
   - java
   - programming
 ---
-This is the unique identifier hash generated for each [[Java Objects]]
+This is a function that returns the memory address of  the [[Java Objects]].
