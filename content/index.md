@@ -14,6 +14,6 @@ I aim to make this obsidian vault bloated asf
 - [[CSCB07]]
 - [[Linguistics]]
 # Current Learning
-- [[My Homelab Setup Journey]]
 - [[FPGA Project]]
 - [[Compiler]]
+- [[Alchemy]]
