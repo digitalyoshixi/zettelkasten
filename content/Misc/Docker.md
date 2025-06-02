@@ -78,5 +78,5 @@ Alternatively:
 3. `docker images` and note down the container name
 4. `docker run -it <containername> /bin/sh`. Note if you want programs like [[Vim]], you must install it in your docker-file
 # Practical Use Cases
-- Make a docker compose file which automates the process of creating gitlab servers
+- Make a [[Docker Compose]] file which automates the process of creating gitlab servers
 - You can use docker like a linux server where you SSH into

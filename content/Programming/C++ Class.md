@@ -9,6 +9,7 @@ C++ classes.
 - [[C++ Destructor]]
 - [[C++ Private]]
 - [[C++ Virtual]]
+- [[C++ Objects]]
 # Boilerplate
 ```cpp
 #ifndef CLASS_NAME_H
@@ -17,8 +18,12 @@ C++ classes.
 class ClassName {
 public:
     // Constructors
-    ClassName();
-    ClassName(int value);
+    ClassName(){
+		this->someValue = 0;
+    };
+    ClassName(int value){
+		this->someValue = value; 
+    };
     
     // Destructor
     ~ClassName();

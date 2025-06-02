@@ -13,4 +13,5 @@ They are the **first step** to analyzing malware.
 # Hasing Algorithms
 - [[YARA]] (Malware Signatures)
 - [[SHA256]] (Files)
-- [[MD5]] (Images)
+- [[SHA1]] (Files)
+- [[Message Digest Algorithm 5]] (Images)
