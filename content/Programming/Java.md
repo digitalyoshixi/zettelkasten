@@ -53,3 +53,6 @@ public class Main {
 - [[Java Classes]]
 - [[Java Objects]]
 - [[Java List]]
+- [[Java Interface]]
+- [[Java final]]
+- [[Java Generics]]
