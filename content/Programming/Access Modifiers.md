@@ -14,3 +14,6 @@ Used for certain [[Method|Methods]] and [[Enums]]
 This should be used most of the time.
 # Private
 [[Class]]' data is only visible to itself. Would not be visible in derived classes aswell. 
+# Package-Private
+Member is only accessible from any class in the package it is declared in.
+This is the default

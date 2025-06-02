@@ -3,7 +3,7 @@ tags:
   - java
 ---
 These are [[Java Classes]] that cannot be directly [[Object|Instantiated]].
-Used to make [[Abstraction]] easier.
+Used to make [[Abstract Methods]] easier.
 Commonly, you do not define any body for the abstract methods within the class.
 # Boilerplate
 ```java

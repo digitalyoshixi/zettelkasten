@@ -6,6 +6,8 @@ A class is essentially a blueprint for you to create any datatype with any metho
 # Types
 - [[Java Abstract Class]]
 - [[Java Concrete Class]]
+# Concepts
+- [[Java Comparable]]
 # Boilerplate (Concrete Class)
 ```java
 public class Car{
