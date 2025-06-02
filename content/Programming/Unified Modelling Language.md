@@ -2,8 +2,10 @@
 tags:
   - programming
   - java
+aliases:
+  - UML
 ---
-a way to describe how your class utilizes objects
+A way to describe how your class utilizes objects
 # Variables
 ### First
 Minus(-) : variable is private

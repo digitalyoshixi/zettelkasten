@@ -12,3 +12,8 @@ aliases:
 - [[SOLID Design]]
 - [[Design Patterns]]
 - [[Principles of Clean Code]]
+### Java
+- [[Java]]
+- [[Java Classes]]
+- [[Polymorphism]]
+- [[Java super|Java Super]]

@@ -50,3 +50,5 @@ public class Main {
 - [[Polymorphism]]
 - [[Dynamic Binding]]
 - [[Dynamic Dispatch]]
+- [[Java Classes]]
+- [[Java Objects]]

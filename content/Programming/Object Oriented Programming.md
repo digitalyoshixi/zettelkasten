@@ -4,10 +4,10 @@ tags:
 aliases:
   - OOP
 ---
-OOP is about representing real world objects as computerized models called [[Classes]].
+OOP is about representing real world objects as computerized models called [[Class]].
 # Concepts
 - [[Network/Encapsulation|Encapsulation]]
 - [[Access Modifiers]]
-- [[Classes]]
+- [[Class]]
 - [[Object]]
 - [[Polymorphism]]

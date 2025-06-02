@@ -2,9 +2,11 @@
 tags:
   - programming
 ---
-A class is essentially a blueprint for you to
-
-To make a class do this:
+A class is essentially a blueprint for you to create any datatype with any methods.
+# Types
+- [[Java Abstract Class]]
+- [[Java Concrete Class]]
+# Boilerplate (Concrete Class)
 ```java
 public class Car{
 	private String color;
@@ -27,5 +29,4 @@ public class Car{
 
 
 }
-
 ```

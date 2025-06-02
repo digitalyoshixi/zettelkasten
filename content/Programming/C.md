@@ -75,7 +75,7 @@ From these, you can make an
 - [[C Functions]]
 - [[Pass by Value]]
 - [[C Programs]]
-- [[Pass by Value Pass by Reference]]
+- [[Pass by Reference]]
 - [[C Function Pointers]]
 ### Memory
 - [[Fragmenting]]

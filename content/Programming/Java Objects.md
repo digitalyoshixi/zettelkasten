@@ -3,6 +3,8 @@ tags:
   - programming
 ---
 Objects are created when you instantiate a [[Java Classes]]
-
-objects are passed by reference.
-You do not copy the object's value, you just get a pointer to where that object is stored. so modifying it will modify the original
+Objects are [[Pass by Reference]].
+# Methods
+- [[Java .equals()]]
+- [[Java .hashCode()]]
+- [[Java .toString()]]

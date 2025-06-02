@@ -1,6 +1,7 @@
 ---
 tags:
   - programming
+aliases: []
 ---
 super() bypasses [[Method Overriding]] if you override a method called the same name
 # Super Constructor

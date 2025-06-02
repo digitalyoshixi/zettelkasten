@@ -1,6 +1,8 @@
 ---
 tags:
   - programming
+aliases:
+  - Classes
 ---
 A concept in [[Object Oriented Programming]].
 It acts as a [[Template]] which is a data-type for creating [[Object|Objects]]
@@ -14,3 +16,8 @@ Specific object-specific functions used for:
 - Destroying object ([[Destructor Method]])
 - Accessing object attributes ([[Accessor Method]])
 - Mutating object attributes ([[Mutator Method]])
+# Implementaitons
+- [[C++ Class]]
+- [[Java Classes]]
+- [[Javascript Class]]
+- [[Python Class]]

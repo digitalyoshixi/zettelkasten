@@ -6,22 +6,19 @@ tags:
 - [[Programming/Encapsulation]]
 - [[Inheritance]]
 - [[Polymorphism]]
-
 # [[Programming/Encapsulation]]
 - [[Java Classes]]
 - [[Java Objects]]
 - [[Public Classes]]
 - [[Accessor Method]]
-
-- [[toString Method]]
+- [[Java .toString()]]
 - [[Constructor Method]]
-- [[this]]
+- [[Java this]]
 - [[Java Static Variables]]
-- [[UML]]
-
+- [[Unified Modelling Language]]
 # [[Inheritance]]
 - [[Method Overriding]]
-- [[super]]
+- [[Java super]]
 - [[UML Object Relationship]]
 
 
