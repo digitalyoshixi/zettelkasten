@@ -35,6 +35,8 @@ public class Main {
 - [[Java Doc]]
 - [[Eclipse]]
 - [[Java Virtual Machine|JVM]]
+### Variables
+- [[Java final]]
 ### I/O
 - [[Java Scanner]]
 - [[Java File]]
@@ -42,6 +44,7 @@ public class Main {
 - [[Java FileWriter]]
 - [[Java PrintWriter]]
 ### Types
+- [[Java List]]
 - [[Java Typecasting]]
 - [[Java Parsing]]
 - [[Serialization]]
@@ -52,7 +55,7 @@ public class Main {
 - [[Dynamic Dispatch]]
 - [[Java Classes]]
 - [[Java Objects]]
-- [[Java List]]
 - [[Java Interface]]
-- [[Java final]]
 - [[Java Generics]]
+### Other Libraries
+- [[Java Math]]
