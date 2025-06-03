@@ -23,6 +23,8 @@ Theoretically, for $k$ parity bits, you can have $2^{k}-k-1$ data bits
 	1. If one error occured, then the error $e_{i}$ is precisely at location $L_{i} = (c_{1},c_{2},c_{3})$
 		1. If $1 \leq i \leq 4$ (one of the message bits was ruined) then $(x_{1},x_{2},x_{3},x_{4})^{T} + e_{i}$ would be the corrected message 
 		2. If $i > 4$ (one of the parity bits was ruined), then we can just ignore it
+	2. Alternatively, finding through the diagram, the wrong bit, first find the two circles that are invalid, then the wrong bit is at the intersection between the two circles
+	   ![[Hamming Codes-20250603225006971.webp|231]]
 # Concepts
 - [[Hamming Distance]]
 - [[n-Error Detecting Code]]

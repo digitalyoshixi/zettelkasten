@@ -10,3 +10,4 @@ Commonly used in [[CD Players]], [[Hard Drive|Hard Drives]] to recover lost data
 # Methods
 - [[Majority Vote ECC]]
 - [[Hamming Codes]]
+- [[Reed Solomon Codes]]
