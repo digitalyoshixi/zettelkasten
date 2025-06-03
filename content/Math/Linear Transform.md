@@ -36,3 +36,4 @@ This has the further effect of:
 - [[Set of Linear Transformations]]
 - [[Linear Map Composition]]
 - [[Linear Map Inverse]]
+- [[Multidimension Linear Transformation]]
