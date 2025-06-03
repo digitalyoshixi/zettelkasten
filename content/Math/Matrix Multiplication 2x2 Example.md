@@ -11,4 +11,4 @@ tags:
 3. ![[Matrix Multiplication-20250109232340659.webp]]
    3rd item is first vector 2nd row dot product 2nd vector 1st column
 4. ![[Matrix Multiplication-20250109232353576.webp]]
-   4th element is 1st vector 2nd row [[Dot Product]] 2nd vector 2nd column
+   4th element is 1st vector 2nd row [[Standard Inner Product|Standard Dot Product]] 2nd vector 2nd column

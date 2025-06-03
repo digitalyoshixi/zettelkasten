@@ -11,5 +11,5 @@ To find the perpendicular direction vector:
 2. Make x component negative 
 $$\vec{r}=[3,2]$$
 $$\perp\vec{r}=[-2,3]$$
-Confirm with [[Dot Product]]
+Confirm with [[Standard Inner Product|Standard Dot Product]]
 The components $x$ and $y$ of this perpendicular vector corresponds to the coefficients $a$ and $b$ in [[Standard Form]] of your regular vector.
