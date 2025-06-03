@@ -58,4 +58,10 @@ aliases:
 ### Week 5
 - [[Sequential Circuit]]
 - [[Register]]
-- [[Counters]]
+	- [[Shift Register]]
+	- [[Load Register]]
+- [[Counter]]
+	- [[Ripple Counter]]
+	- [[Synchronous Counter]]
+	- [[Counters with Parallel Load]]
+- [[Finite State Automata|Finite State Machine]]
