@@ -55,3 +55,7 @@ aliases:
 - [[Race Condition]]
 - [[Clock Signal]]
 - [[Flip-Flop]]
+### Week 5
+- [[Sequential Circuit]]
+- [[Register]]
+- [[Counters]]

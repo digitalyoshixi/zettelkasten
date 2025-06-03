@@ -16,7 +16,7 @@ https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/
 | ++ |  |
 | -- |  |
 | ! |  |
-| & | [[C Addresses]] |
+| & | [[Memory Addresses]] |
 | sizeof() | [[sizeof()]] |
 | ~ | [[Ones Complement]] |
 # Binary

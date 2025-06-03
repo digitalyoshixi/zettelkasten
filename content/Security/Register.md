@@ -3,12 +3,11 @@ tags:
   - os
   - assembly
 ---
-Very temporary storage for data often used for quick computations between variables. 
-
-Register data is often saved into more permanent memory like the:
-- [[Stack]]
-- [[Heap]]
-# Registers
+A collection of [[Flip-Flop|Flip Flops]] within the [[Central Processing Unit|CPU]] used for very temporary storage of data used for quick computations, later saved within [[Stack]] or [[Heap]] variables. 
+# Hardware Register
+- [[Shift Register]]
+- [[Load Register]]
+# Software Registers
 - [[rax]]
 - [[rbx]]
 - [[rcx]]
