@@ -65,3 +65,4 @@ aliases:
 	- [[Synchronous Counter]]
 	- [[Counters with Parallel Load]]
 - [[Finite State Automata|Finite State Machine]]
+- [[FSA Unsafe Transition Solutions]]

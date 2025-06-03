@@ -22,5 +22,9 @@ They are modelled by [[State Diagram]] or [[State Table]]
 ### Examples
 - [[Sequence Recognizer FSM Example]]
 # Types
+### [[Circuit State]]
+- [[Moore Machine]]
+- [[Mealy Machine]]
+### [[Determinism]]
 - [[Deterministic Finite Automaton|Deterministic Finite State Automaton]]
 - [[Non-Deterministic Finite Automaton|Non-Deterministic Finite State Automaton]]
