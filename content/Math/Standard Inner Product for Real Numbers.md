@@ -2,6 +2,8 @@
 tags:
   - math
   - linalg
+aliases:
+  - Dot Product
 ---
 This is not a operation you can always do.
 # Definition

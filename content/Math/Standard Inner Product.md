@@ -4,7 +4,6 @@ tags:
   - math
 aliases:
   - Standard Dot Product
-  - Dot Product
 ---
 # Notation
 Standard inner product of vector $u,v$ denoted as:
