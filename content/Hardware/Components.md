@@ -2,7 +2,17 @@
 tags:
   - hardware
   - electricity
+aliases:
+  - Electrical Components
 ---
+# Fudamental
+- [[Semiconductor]]
+- [[Resistor]]
+- [[Capacitor]]
+- [[Inductor]]
+- [[Transformer]]
+- [[Diode]]
+- [[Transistor]]
 # Arithmetic
 - [[Half Adder]]
 - [[Full Adder]]

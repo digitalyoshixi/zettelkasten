@@ -3,5 +3,5 @@ tags:
   - electricity
   - physics
 ---
-Conductors allow electricity to flow more than others:
+Conductors are materials that allow electrical [[Current]] to pass. Most conductors mentioned are the ones that are especially conductive like:
 - [[Copper]]

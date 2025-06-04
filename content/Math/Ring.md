@@ -12,6 +12,6 @@ The axioms are:
 2. [[Additive Inverse]] exists ($\forall a \in R, \exists -a \in R \text{ s.t } a + (-a) = 0$)
 3. [[Associative]] with [[Addition]] ($\forall a,b, c\in R, (a +_{R}b)+_{R}c = a+_{R}(b+_{R}c)$)
 4. [[Commutative]] under [[Addition]] $(\forall a,b \in R, (a+_{R}b) = (b+_{R}a))$
-5. [[Multiplicative Identity]] exists
-6. [[Associative]] with [[Multiplication]]
-7. [[Distributive]] under [[Addition]]
+5. [[Multiplicative Identity]] exists ($\exists 1 \in R, \forall r \in R, 1 * r = r$)
+6. [[Associative]] with [[Multiplication]] ($\forall a,b,c \in R, (ab)c = a(bc)$)
+7. [[Distributive]] under [[Addition]] of scalars ($\forall r,s$)
