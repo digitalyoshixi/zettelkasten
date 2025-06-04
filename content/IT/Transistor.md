@@ -3,7 +3,7 @@ tags:
   - electricity
   - hardware
 ---
-Building blocks of [[Computer]] made from [[pn-junctions]]. Replaces [[Vaccum Tubes]].
+Building blocks of [[Computer]] made from [[Semiconductor Junction|p-n Junctions]]. Replaces [[Vaccum Tubes]].
 Transistors can create [[Logic Gates]].
 Given two points A, B, and a gate voltage, the transistor will connect the two points.
 # Types
