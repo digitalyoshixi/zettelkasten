@@ -2,9 +2,13 @@
 tags:
   - physics
   - electricity
+aliases:
+  - p-n Junction
+  - Semiconductor Junction
+  - pn Junction
 ---
-A [[Semiconductor Junction]] that allows current to flow in one direction.
-![[Diode-20250205234616997.webp]]
+These are combinations of [[Semiconductor|p-Type Semiconductor]] and [[Semiconductor|n-Type Semiconductor]] to create one-way circuit flow.
+![[Semiconductor Junction-20250604221446032.webp|387]]
 # Concepts
 - [[Demodulation]]
 - [[Zener Diodes]]

@@ -1,11 +1,14 @@
 ---
+banner: "[[Transistor-20250604222256254.webp]]"
 tags:
   - electricity
   - hardware
 ---
-Building blocks of [[Computer]] made from [[Semiconductor Junction|p-n Junctions]]. Replaces [[Vaccum Tubes]].
+Building blocks of [[Computer]] made from [[Diode]]. 
+Replaces [[Vaccum Tubes]].
 Transistors can create [[Logic Gates]].
-Given two points A, B, and a gate voltage, the transistor will connect the two points.
+![[Transistor-20250604222113652.webp|393]]
+They are three point [[Semiconductor]] devices, where a gate voltage at the base will connect the collector and base points to allow current to flow.
 # Types
 - [[pMOS Transistor]]
 - [[nMOS Transistor]]

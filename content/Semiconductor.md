@@ -11,8 +11,6 @@ They are essential for [[Circuit]] design as their conductivity can be toggled.
 Most commonly found in:
 - [[Silcon]]
 - [[Germanium]]
-# Electrical Symbol
-![[Semiconductor-20250604213319327.webp]]
 # Types
 ![[Semiconductor-20250604221650747.webp|184]]
 ### p-Type
