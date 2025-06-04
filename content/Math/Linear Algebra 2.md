@@ -72,3 +72,8 @@ aliases:
 - [[Riesz Representation Theorem]]
 - [[Annihilator]]
 - [[Error Correcting Codes]]
+### Week 5
+- [[XOR cipher|XOR Encryption]]
+- [[Metric]]
+- [[Norm]]
+- [[Norm Function]]

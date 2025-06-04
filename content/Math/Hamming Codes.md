@@ -13,6 +13,18 @@ Theoretically, for $k$ parity bits, you can have $2^{k}-k-1$ data bits
 # Process ([[Hamming (7,4)]])
 ### Sending Process
 1. Create your message, then encode with a hamming encoding algorithm (Maybe [[Hamming (7,4)]])
+2. For [[Hamming (7,4)]], we have the encoding matrix: 
+   $$G = \left[\begin{array}{cc}
+1 & 0 & 0 & 0\\
+0 & 1 & 0 & 0\\
+0 & 0 & 1 & 0\\
+0 & 0 & 0 & 1\\
+0 & 1 & 1 & 1\\
+1 & 0 & 1 & 1\\
+1 & 1 & 0 & 1\\
+\end{array}\right]$$
+3. Then, with our message, lets say $v=(1,0,1,0)$, encoded is $Gv$
+4. In our case, $Gv = (1,0,1,0,1,0,1)$
 ### Recieving Process
 1. Given the message, calculate the sum of each circle for the recieved message by left multiplying vector
 2. $H = [L_{1}^{T}, L_{2}^{T},L_{3}^{T},L_{4}^{T},L_{5}^{T},L_{6}^{T},L_{7}^{T}] = [c_{1},c_{2},c_{3}]^{T}$ where:

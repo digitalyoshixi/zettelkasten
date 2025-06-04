@@ -12,4 +12,4 @@ We use intuition in [[Mathematics]] as well.
 ### Indirect Evidence
 Intuition supports broader moral principles like:
 - [[Justice]]
-- [[Equality]]
+- [[Equivalence|Equality]]

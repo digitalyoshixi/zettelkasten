@@ -1,6 +1,8 @@
 ---
 tags:
   - cryptography
+aliases:
+  - XOR Encryption
 ---
 One of the most common bases for encryption. 
 # The Process

@@ -2,6 +2,8 @@
 tags:
   - math
   - logic
+aliases:
+  - Equality
 ---
 # Properties
 ### [[Reflexive]]
