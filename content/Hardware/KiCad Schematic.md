@@ -28,3 +28,11 @@ Used to label wires
 ### Global Labels
 ![[KiCad Schematic-20250604124045367.webp]]
 These will label any component
+### R?? - R42
+This option annotates components in case some compnents have no number
+### Assign Footprints
+![[KiCad Schematic-20250604124515447.webp]]
+This will assign real life footprints for your schematic through a menu
+### Electric Rules Checklist
+![[KiCad Schematic-20250604124633843.webp]]
+Will prescribe any electrical issues with the schematic
