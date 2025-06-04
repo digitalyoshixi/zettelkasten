@@ -11,5 +11,6 @@ You can define a metric for [[Number Theory|Number Sets]] that are not [[Field|F
 4. $d(x,y) \geq 0, \forall x,y \in M$ (Non negative)
 5. $d(x,y) = d(y,x)$ ([[Commutative]]/[[Symmetric]])
 6. $d(x,y) = 0 \Longleftrightarrow x = y$ (Zero distance is equivalent to [[Equivalence|Equality]])
+7. $d(x,z) \leq d(x,y) +d(y,z)$ ([[Triangle Inequality]])
 # Types
 - [[Euclidean Metric]]
