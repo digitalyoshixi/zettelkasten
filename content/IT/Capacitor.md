@@ -3,7 +3,9 @@ tags:
   - electricity
   - hardware
 ---
+A [[Components|Electrical Component]] used to filter and store excess [[Voltage]].
 ![[Capacitor-20240522215450797.webp]]
-Used to filter voltage.
-A capacitor removes AC interference that comes with the electricity of a power supply to allow for safe voltage to be used for electronics.
-They are similar to [[Choke]]
+Often used to remove [[Alternating Current|AC]] interference that happens (possibly from [[Power Surge]]), allowing for safe voltage to be used.
+They are similar to [[Choke]].
+# Electrical Symbol
+![[Capacitor-20250604213154562.webp]]

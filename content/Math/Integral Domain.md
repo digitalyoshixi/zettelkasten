@@ -4,4 +4,4 @@ tags:
   - linalg
 ---
 A [[Ring]] where:
-- [[Multiplication]] is [[Cancellational]]
+- [[Multiplication]] is [[Cancellational]] ($a,b \neq 0 \implies ab \neq 0$)

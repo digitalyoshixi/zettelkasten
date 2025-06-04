@@ -15,6 +15,7 @@ x_{1k} & x_{2k} \dots x_{nk}\\
 $$
 # Concepts
 - [[Determinant]]
+- [[Matrix Addition]]
 - [[Matrix Multiplication]]
 - [[Symmetric Matrix]]
 - [[Matrix Dimension]]

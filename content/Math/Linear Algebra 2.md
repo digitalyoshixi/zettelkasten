@@ -39,6 +39,7 @@ aliases:
 - [[Euclidean Domain]]
 - [[Additive Subgroup]]
 - [[Ideal]]
+- [[Field]]
 ### Week 1.2
 - [[Generator for Ideal]]
 - [[Euclidean Algorithm]] (GCD)
