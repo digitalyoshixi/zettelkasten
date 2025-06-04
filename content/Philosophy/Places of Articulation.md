@@ -11,6 +11,7 @@ Mostly with the tongue and the lips.
 - [[Labiodental Sounds]]
 - [[Interdental Sounds]]
 - [[Alveolar Sounds]]
+- [[Nasal Sounds]]
 - [[Alveopalatal Sounds]]
 - [[Palatals Sounds]]
 - [[Velar Sounds]]

@@ -53,4 +53,4 @@ aliases:
 - [[Phones]]
 - [[Places of Articulation]]
 ### Week 5.1
-- 
+- [[Articulatory Process]]
