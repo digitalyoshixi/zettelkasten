@@ -25,3 +25,6 @@ Used to mark that a pin should be left unconnected and unused.
 ### Wire with 'A'
 ![[KiCad Schematic-20250604021025125.webp]]
 Used to label wires
+### Global Labels
+![[KiCad Schematic-20250604124045367.webp]]
+These will label any component
