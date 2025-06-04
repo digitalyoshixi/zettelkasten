@@ -54,3 +54,8 @@ aliases:
 - [[Places of Articulation]]
 ### Week 5.1
 - [[Articulatory Process]]
+- [[Phonological Rules]]
+- [[Phoneme]]
+- [[Phonology]]
+- [[Minimal Pairs]]
+- [[Canadian Raising]]
