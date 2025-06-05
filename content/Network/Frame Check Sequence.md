@@ -9,4 +9,3 @@ It is an error-handling code similar to [[Cyclic Redundancy Check|CRC]] but sole
 # CRC vs FCS Jargon
 Below is a table comparing the jargon used in [[Cyclic Redundancy Check|CRC]]  to FCS.
 ![[Pasted image 20230910191248.png]]
-

@@ -4,11 +4,13 @@ tags:
 aliases:
   - MAC Address
   - MAC Addresses
+  - Burned In Address
 ---
 ![[Media Access Control Address-20240801210646554.webp]]
-A unique identifier for all physical computers.
+A unique identifier for all physical computers with a [[Network Interface Controller|NIC]]. Made for [[Unicast]] networking.
 They are binary numbers that are 48 bits long.
-The first 24 bits represent the [[Organizational Unique Identifier|OUI]]
+- First 24 bits are the [[Organizational Unique Identifier|OUI]] of which vendor the [[Network Interface Controller|NIC]] was made.
+- Last 24 bits are the vendor's assigned identifier to the [[Network Interface Controller|NIC]].
 They are usually represented with 12 hexadecimal characters.
 ![[Media Access Control Address-20240716022030745.webp]]
 # Concepts

@@ -8,7 +8,8 @@ Software to allow for multiple workspaces for each monitor
 1. `cargo install hyprsome`
 2. Add cargo to [[Linux PATH]]
 3. `hyprctl monitors` to view the ids of monitors. ID 0 will span workspace 1-9, ID 1 will span 11-19, ID 2 will span 21-29, so on so forth.
-4. modify `~/.config/hypr/hyprland.conf` to allow for:
+4. Use [[wev]] to find keycodes for your keybinds
+5. modify `~/.config/hypr/hyprland.conf` to allow for:
 ```c
   workspace=1,monitor:DP-1
   workspace=2,monitor:DP-1
