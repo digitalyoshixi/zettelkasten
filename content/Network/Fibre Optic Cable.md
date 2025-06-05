@@ -3,6 +3,8 @@ tags:
   - hardware
 ---
 A data transmission technology that uses [[Light]] instead of [[Electricity]].
+Done by protecting [[Fiberglass]] with rubber jackets.
+![[Fibre Optic Cable-20250605152833404.webp|324]]
 # Light Technology
 - [[Multimode Fibre]]
 - [[Single-mode Fibre]]

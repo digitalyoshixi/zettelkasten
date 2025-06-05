@@ -1,6 +1,15 @@
 ---
 tags:
   - networking
+aliases:
+  - 10BASE-T
+  - "802.3"
+  - 100BASE-T
+  - 802.3u
+  - 1000BASE-T
+  - 802.3ab
+  - 10GBASE-T
+  - 802.3an
 ---
 # Ethernet Flavours
 ![[Ethernet Flavours-20250605130606352.webp]]
