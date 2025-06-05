@@ -2,4 +2,4 @@
 tags:
   - geography
 ---
-[[Mineral]]s that contain [[SIlcon]] and [[Oxygen]].
+[[Mineral]]s that contain [[Silcon]] and [[Oxygen]].
