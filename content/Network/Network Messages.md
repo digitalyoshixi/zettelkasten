@@ -16,7 +16,8 @@ Only used in the [[TCP & IP Transport Layer|Transport Layer]]. consists of a TCP
 ### Packet
 The most commonly used term for network messages. The [[TCP & IP Network Layer|Network Layer]] message. has your IP address header and your Data gotten from previous layers.
 ### Frame
-The last encapsulated form of message before it enters the [[Bit Transmission]] of the [[TCP & IP Physical Layer|Physical Layer]]
+The last encapsulated form of message before it enters the [[Bit Transmission]] of the [[TCP & IP Physical Layer|Physical Layer]].
+They are messages that contain both header and trailer.
 # Data
 Its important to know that data not only includes the original data sent, but also the headers of the previous higher layers.
 For example, this might be an example data on the IP layer:
