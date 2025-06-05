@@ -12,3 +12,9 @@ Used for connecting [[Media Device Interface|MDI]] devices to [[Media Device Int
 - [[Router]] <-> [[Router]]
 - Workstation <-> Workstation
 - Workstation <-> [[Router]]
+# Trancieving & Recieving Protocols
+### 10BaseT
+![[Cross-Over Cable-20250605145826008.webp|213]]
+- [[Network Interface Controller|NIC]] sends through pins 3,6
+- [[Network Interface Controller|NIC]] recieves through pins 1,2
+### 1000BaseT

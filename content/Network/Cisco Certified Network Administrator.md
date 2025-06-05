@@ -23,4 +23,6 @@ The best networking certification you can get.
 - [[Network Messages]]
 - [[Protocol Data Unit|PDU]]
 ### Chapter 2
-- [[Small Form Factor Pluggable|SFP+]]
+- [[Gigabit Ethernet Interface Converter|GBIC]]
+- [[Small Form Factor Pluggable|SFP]]
+- [[Small Form Factor Pluggable Plus|SFP+]]

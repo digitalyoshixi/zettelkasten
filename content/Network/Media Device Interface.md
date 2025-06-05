@@ -4,7 +4,8 @@ tags:
 aliases:
   - MDI
 ---
-Devices that have a [[Network Interface Controller|NIC]].
+Devices that have a [[Network Interface Controller|NIC]]. They also transmit on pins 1,2
 These devices include:
 - Workstations
 - Routers
+- Ethernet interface of [[Access Point|AP]]

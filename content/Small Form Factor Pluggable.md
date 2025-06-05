@@ -2,8 +2,7 @@
 tags:
   - networking
 aliases:
-  - SFP+
+  - SFP
 ---
-These are a network interface used in older LAN switches.
-![[Small Form Factor Pluggable-20250605143453414.webp|315]]
-![[Small Form Factor Pluggable-20250605143209129.webp]]
+Network interfaces that largely replaced [[Gigabit Ethernet Interface Converter|GBIC]].
+- [[Device Hot Swapping|Hot Swappable]]
