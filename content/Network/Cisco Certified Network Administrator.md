@@ -26,7 +26,13 @@ The best networking certification you can get.
 - [[Gigabit Ethernet Interface Converter|GBIC]]
 - [[Small Form Factor Pluggable|SFP]]
 - [[Small Form Factor Pluggable Plus|SFP+]]
+- [[RJ-45]]
+- [[Ethernet Protocol|Ethernet]]
 - [[Ethernet Frame]]
+- [[Fibre Optic Cable]]
 - [[Unicast]]
 - [[Multicast]]
 - [[Broadcast]]
+### Chapter 3
+- [[Leased LIne]]
+- [[Multiprotocol Label Switching|MPLS]]
