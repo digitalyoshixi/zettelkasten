@@ -21,7 +21,7 @@ Or
 # Concepts
 - [[Proving Subspace Theorem]]
 - [[Subspace Intersection Theorem]]
-- [[Sets for R^n are Subspaces for R^n Corrolary]]
+- [[Sets for N-dim are Subspaces for N-dim Corollary]]
 - [[Represent Subspace as Span]]
 - [[Independent Subspaces]]
 # Subspace Operations

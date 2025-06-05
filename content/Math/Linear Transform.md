@@ -22,6 +22,8 @@ This has the further effect of:
 - [[Linear Transformations Closed Under Linear Combinations]]
 - [[Linear Maps Determined by Their Actions on A Basis]]
 - [[Linear Transformation Characterized by Finite Number of Scalars]]
+- [[Linear Map Lemma]]
+- [[Linear Map Lemma Independence Corollary]]
 # Applications
 - [[Proving A Transformation Is Linear]]
 # Concepts
