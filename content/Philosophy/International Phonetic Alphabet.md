@@ -13,3 +13,4 @@ A alphabet used to represent [[Phones]], allowing [[Word|Words]] to have a 1-1 c
 # IPA Transcription Examples
 ![[International Phonetic Alphabet-20250606180518957.webp]]
 ![[International Phonetic Alphabet-20250606182840709.webp]]
+![[International Phonetic Alphabet-20250606185210128.webp]]
