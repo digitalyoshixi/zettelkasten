@@ -12,7 +12,11 @@ You can define a metric for [[Number Theory|Number Sets]] that are not [[Field|F
 	2. $d(x,y) = d(y,x)$ ([[Commutative]]/[[Symmetric]])
 	3. $d(x,y) = 0 \Longleftrightarrow x = y$ (Zero distance is equivalent to [[Equivalence|Equality]])
 	4. $d(x,z) \leq d(x,y) +d(y,z)$ ([[Triangle Inequality]])
+# Metric from [[Norm]]
+$d(x,y) = |x-y|$ From [[Absolute Value Functions Induce a Metric Theorem]]
 # Types
 - [[Euclidean Metric]]
 - [[Euclidean Metric for Finite Fields]]
 - [[Metric for Integer modulo n]]
+# Theorems
+- [[Absolute Value Functions Induce a Metric Theorem]]

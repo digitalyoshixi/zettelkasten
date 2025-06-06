@@ -8,7 +8,7 @@ tags:
 - Let $x_{1} = a+bi$
 - Let $x_{2} = c + di$
 - Let $d(x_{1},x_{2})= \sqrt{ (a-c)^{2} + (b-d)^{2} }$
-# Proof of [[Metric]]
+# Proof by [[Metric]] Axioms
 ### Proving $d(x,y) \geq 0$
 - Let $x,y \in \mathbb{C}$
 - Then, $x=a+bi$ and $y=c+di$
@@ -49,3 +49,5 @@ tags:
 ![[Euclidean Metric-20250604150023681.webp]]
 ![[Euclidean Metric-20250604150044027.webp]]
 ![[Euclidean Metric-20250604150055753.webp]]
+# Proof from defintion of Norm
+Note that our definition of a metric follows from the [[Complex Number Modulus|Absolute Function for Complex Numbers]] and [[Absolute Value Functions Induce a Metric Theorem]] so it follows that this is the correct metric

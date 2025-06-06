@@ -14,6 +14,6 @@ This is a [[Function]] that assigns a positive length to a [[Vectors|Vector]] wi
 - [[Absolute Function for Real Numbers]]
 - [[Complex Number Modulus|Absolute Function for Complex Numbers]]
 - [[Trivial Absolute Value|Absolute Value for Finite Field]]
-- [[Absol'ute Function for Polynomials]]
+- [[Absolute Function for Polynomials]]
 # Theorems
 - [[Absolute Value of Multiplicative Identity is 1]]

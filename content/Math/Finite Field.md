@@ -8,4 +8,4 @@ These are [[Integer Modulo n]] fields where $n$ is a [[Prime Number]].
 - [[Euclidean Metric for Finite Fields]]
 - [[Trivial Absolute Value]]
 # Theorems
-- [[Trivial Absolute Value only Absolute value for Finite Fields]]
+- [[Trivial Absolute Value is the only Absolute value for Finite Fields]]

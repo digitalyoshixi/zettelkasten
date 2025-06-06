@@ -77,5 +77,12 @@ aliases:
 ### Week 5.1
 - [[XOR cipher|XOR Encryption]]
 - [[Metric]]
+	- [[Euclidean Metric]]
+	- [[Euclidean Metric for Finite Fields]]
+	- [[Metric for Integer modulo n]]
 - [[Norm]]
 - [[Norm Function]]
+	- [[Absolute Function for Real Numbers|Absolute Function]]
+	- [[Complex Number Modulus]]
+	- [[Trivial Absolute Value]]
+- [[Metric for Vector Spaces]]
