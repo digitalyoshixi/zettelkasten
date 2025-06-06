@@ -86,3 +86,5 @@ aliases:
 	- [[Complex Number Modulus]]
 	- [[Trivial Absolute Value]]
 - [[Metric for Vector Spaces]]
+- [[Nice Metric]]
+- [[Vector Norm]]
