@@ -22,4 +22,9 @@ https://invidious.yoshixi.net/watch?v=zer9563S6zM&listen=false
 - [[Indistinguishability]] derived from [[Indistinguishability Under Chosen Plaintext Attack]]
 - Crypto systems are considered secure if no adversary can win the game with significantly greater probability than an adversary who guesses randomly
 - Textbook [[RSA]] is [[Deterministic Algorithm]], meaning the [[Indistinguishability Under Chosen Plaintext Attack|IND-CPA]] game does not have an even probability. Attackers can brute force easily
-- [[Indistinguishability Under Chosen Plaintext Attack|IND-CPA]] is secure if $\forall$ [[Probabilistic Polynomial Time|PPT]] adversaries, the probability that
+- [[Indistinguishability Under Chosen Plaintext Attack|IND-CPA]] is secure if $\forall$ [[Probabilistic Polynomial Time|PPT]] adversaries, the probability that the adversary wins - $\frac{1}{2}$ is [[Negligible Function]].
+	- $|Pr[G^{\lambda,S}_{IND-CPA}(\lambda) - \frac{1}{2}] \in negl(\lambda)$
+- [[Indistinguishability Under Chosen Plaintext Attack|IND-CPA]] is limited by:
+	- [[Composability]]
+	- Strength of the security also depends on the game. Some [[Indistinguishability Under Chosen Plaintext Attack|IND-CPA]] systems are better suited to specific games
+- [[Universal Composability]] attempts to address these limitations
