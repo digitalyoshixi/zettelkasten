@@ -24,7 +24,7 @@ tags:
 14. Suppose $n > N$
 15. Then, $|a_{n}b_{n} - ab| = |a_{n}b_{n} - ab_{n} + ab_{n} - ab|$
 16. $= |b_{n}(a_{n} - a) + a(b_{n} - b)| \leq |b_{n}(a_{n} - a) | + |a(b_{n} - b)|$ by [[Triangle Inequality]]
-17. $=|b_{n}||a_{n} - a| + |a| |b_{n} - b|$ by [[Absolute Function]] properties
+17. $=|b_{n}||a_{n} - a| + |a| |b_{n} - b|$ by [[Absolute Function for Real Numbers]] properties
 18. $= (1+|b|)|a_{n} -a| + |a| |b_{n} - b|$
 19. $< (1 + |b|)\frac{1}{1+|b|}\frac{\epsilon}{2} + |a|\frac{1}{|a|+1} \frac{\epsilon}{2} \leq \frac{\epsilon}{2} + (1)\frac{\epsilon}{2} = \epsilon$ as $\frac{1}{|a| +1} \leq 1$
 20. $\square$

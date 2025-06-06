@@ -23,6 +23,7 @@ aliases:
 ### Week 0.1
 - [[Field]]
 - [[Integer Modulo n]]
+- [[Finite Field]]
 - [[Congruent Modulo]]
 - [[Equivalence]]
 	- [[Reflexive]]

@@ -14,5 +14,5 @@ You can define a metric for [[Number Theory|Number Sets]] that are not [[Field|F
 	4. $d(x,z) \leq d(x,y) +d(y,z)$ ([[Triangle Inequality]])
 # Types
 - [[Euclidean Metric]]
-- [[Euclidean Metric for Real Numbers]]
+- [[Euclidean Metric for Finite Fields]]
 - [[Metric for Integer modulo n]]

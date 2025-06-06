@@ -20,7 +20,7 @@ It is differentiable on an interval $I$ if it is:
 ![[Derivative-20240214132038442.webp|235]]
 3. Discontinuity. Not continuous
 ![[Derivative-20240214132102215.webp|243]]
-4. Absolute function point. Sharp change from left limit slope to right limit slope. Consult [[Absolute Function]]
+4. Absolute function point. Sharp change from left limit slope to right limit slope. Consult [[Absolute Function for Real Numbers]]
 ![[Derivative-20240222201620604.webp|232]]
 # Proving Non-Differentiable
 Prove that the one-sided derivatives are different.

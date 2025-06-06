@@ -6,7 +6,7 @@ tags:
 Assuming $0 \leq x \leq y$
 $||x|-|y|| \leq |x-y|$
 # Proof
-Assume we already proved laws 1-5 for [[Absolute Function]]. and the [[Triangle Inequality]]
+Assume we already proved laws 1-5 for [[Absolute Function for Real Numbers]]. and the [[Triangle Inequality]]
 Understand aswell, that to show an absolute function is true. you need to show $|a|\leq b \Leftrightarrow -b \leq a \leq b$
 Let $x,y \in R$
 

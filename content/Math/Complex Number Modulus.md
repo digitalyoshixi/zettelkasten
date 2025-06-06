@@ -2,6 +2,8 @@
 tags:
   - linalg
   - math
+aliases:
+  - Absolute Function for Complex Numbers
 ---
 # Modulus
 when $z = a+bi$

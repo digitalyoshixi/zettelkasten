@@ -15,4 +15,3 @@ The axioms are:
 5. [[Multiplicative Identity]] exists ($\exists 1 \in R, \forall r \in R, 1 * r = r$)
 6. [[Associative]] with [[Multiplication]] ($\forall a,b,c \in R, (ab)c = a(bc)$)
 7. [[Distributive]] under [[Addition]] ($\forall r,s,w \in R, (r+s)(w) = rw + rs$)
-
