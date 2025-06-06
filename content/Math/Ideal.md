@@ -4,10 +4,10 @@ tags:
   - linalg
 ---
 An [[Additive Subgroup]] ($I,+$) of a [[Ring]] where:
-- $\forall r \in R, \forall x \in I, rx \in I$
+- $\forall r \in R, \exists x \in I, rx \in I$
 # Showing Ideals
 1. Show non-empty
-2. Show that $\forall r \in R, \forall x \in I, rx \in I$
+2. Show that $\forall r \in R, \exists x \in I, rx \in I$
 # Concepts
 - [[Generator for Ideal]]
 # Examples
