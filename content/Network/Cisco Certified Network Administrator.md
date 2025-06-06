@@ -34,5 +34,6 @@ The best networking certification you can get.
 - [[Multicast]]
 - [[Broadcast]]
 ### Chapter 3
-- [[Leased LIne]]
+- [[Leased Line]]
 - [[Multiprotocol Label Switching|MPLS]]
+- [[Telco]]

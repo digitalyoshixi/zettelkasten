@@ -11,4 +11,6 @@ tags:
 	- Generating algorithm $Gen : \mathbb{N}^{+} \to Pk \times Sk$
 	- Encryption algorithm $Enc: Pk \times M \to e$
 	- Decryption algorithm $Dec : Sk \times e \to M$
-- 
+- Security can be thought of as computational problems or distinguishing problems
+	- Computational problems include: [[Discrete Logarithm Problem]]
+	- Distinguishing problems include: [[Decisional Diffie Hellman Assumption]]
