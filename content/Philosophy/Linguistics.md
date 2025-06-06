@@ -59,3 +59,5 @@ aliases:
 - [[Phonology]]
 - [[Minimal Pairs]]
 - [[Canadian Raising]]
+### Week 5.2
+- [[Vowel]]
