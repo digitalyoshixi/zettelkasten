@@ -3,6 +3,9 @@ tags:
   - linguistics
 ---
 Letters in `[a,e,i,o,u,y]`
+# Concepts
+- [[Monophtongs]]
+- [[Diphthongs]]
 # Features of Vowels
 ![[Vowel-20250606172401357.webp]]
 ### Height of the Tongue
@@ -14,8 +17,10 @@ The horizontal position of the [[Tongue]]
 - Central
 - Back
 ### Tense/Lax
+The tenseness of the tongue
 - Tense
 - Lax
+Tense vowels are usually longer vowels in terms of sound. They also often occur more regularly in [[Open Sylalble|Open Syllables]]
 ### Rounded/Unrounded Tongue
 - Rounded
 - Unrounded
