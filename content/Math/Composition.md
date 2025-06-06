@@ -6,7 +6,6 @@ written like `f(g(x))` or `(f∘g)(x)` the `∘` between f and g is the composit
 function inside another function
 `g(x)` is the inner function
 `f(x)` is the outer function
-
 # Input Process for Evaluation
 in the function `f(g(x))`
 ![[Composite Functions-20231219004837285.webp]]

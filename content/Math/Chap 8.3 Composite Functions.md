@@ -2,4 +2,4 @@
 tags:
   - math
 ---
-- [[Composite Functions]]
+- [[Composition]]

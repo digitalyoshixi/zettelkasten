@@ -8,6 +8,6 @@ tags:
 # Il do this later
 - [[Superposition Principle]]
 - [[Quotient Functions]]
-- [[Composite Functions]]
+- [[Composition]]
 - [[Combined Function Inequalities]]
 - [[Graphing Combined Functions]]
