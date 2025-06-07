@@ -15,7 +15,7 @@ Any [[Linear Transform|Linear Map]] that takes in a vector space and outputs a s
 # Example Proof
 1. With $V$ as the vector space of [[Polynomial|Polynomials]]
 2. Let $t \in \mathbb{F}$
-3. Show that $L_{t}(P) = P(t), \forall P \in V$ defines a linear functional $L \in \mathcal{L}(V<\mathbb{F})$
+3. Show that $L_{t}(P) = P(t), \forall P \in V$ defines a linear functional $L \in \mathcal{L}(V,\mathbb{F})$
 ### Soln
 1. As $P(t) \in \mathbb{F}, \forall t \in \mathbb{F}$
 2. $L_{t}(P) : V \to \mathbb{F}$
