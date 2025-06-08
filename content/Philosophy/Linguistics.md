@@ -58,4 +58,5 @@ aliases:
 - [[Minimal Pairs]]
 - [[Canadian Raising]]
 ### Week 5.2
+- [[Manner of Articulation]]
 - [[Vowel]]
