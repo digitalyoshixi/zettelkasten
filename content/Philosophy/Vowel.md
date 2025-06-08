@@ -24,3 +24,5 @@ Tense vowels are usually longer vowels in terms of sound. They also often occur 
 ### Rounded/Unrounded Tongue
 - Rounded
 - Unrounded
+# Transcription from Word
+![[Vowel-20250608133136199.webp]]
