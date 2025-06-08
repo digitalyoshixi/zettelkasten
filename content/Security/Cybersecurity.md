@@ -3,18 +3,19 @@ tags:
   - security
 ---
 # Domains
-- Computer Security
-- Network security
+- [[Operating System Security]]
+- [[Network Security]]
 - Vulnerability Management
-- Cryptography
-- Malware analysis
+- [[Cryptography]]
+- [[Post-Quantum Cryptography]]
+- [[Malware Analysis]]
 - Application Security
 - Identity and Access Management
 - Operating System Security
-- Digital Forensics/OSINT
+- [[Open Source Intelligence]]
 - Data Security
 - Intrusion Testing
-- Cloud Security
+- [[Cloud Security]]
 - Wireless Network Security
 - Threat Monitoring and Detection
 - Physical and Social Security

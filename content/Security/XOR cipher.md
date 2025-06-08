@@ -5,6 +5,7 @@ aliases:
   - XOR Encryption
 ---
 One of the most common bases for encryption. 
+It is uniformly random, after encryption, making it a very good one-time-pad.
 # The Process
 These types of encryptions require only:
 - a key

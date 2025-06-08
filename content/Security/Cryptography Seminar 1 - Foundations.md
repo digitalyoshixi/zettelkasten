@@ -28,3 +28,5 @@ https://invidious.yoshixi.net/watch?v=zer9563S6zM&listen=false
 	- [[Composability]]
 	- Strength of the security also depends on the game. Some [[Indistinguishability Under Chosen Plaintext Attack|IND-CPA]] systems are better suited to specific games
 - [[Universal Composability]] attempts to address these limitations
+- A one-time pad like [[XOR cipher]] with [[Quantum Key Exchange]], is not universally composable, as, any outside observer not entangled, will be able to see the information passed during quantum key exchange. (Its a [[Post-Quantum Cryptography]] issue)
+- [[Indistinguishability Under Chosen Ciphertext Attack|IND-CCA]] is a better game that takes into consideration if a party can decrypt their own message
