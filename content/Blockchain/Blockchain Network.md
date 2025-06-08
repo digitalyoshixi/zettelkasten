@@ -8,7 +8,7 @@ There are public [[Mainnets]] and [[Testnet]] for blockchain development.
 # Concepts
 - [[Blockchain User]]
 - [[Blockchain Ledger]]
+	- [[Smart Contract]]
 - [[Blockchain Miner]]
-- [[Blockchain Oracles]]
 - [[Blockchain Wallet]]
-- [[]]
+- [[Blockchain Oracles]]
