@@ -2,7 +2,7 @@
 tags:
   - blockchain
 ---
-A web browser for [[Web3]].
+A web browser for [[Web3]], and a online [[Blockchain User]]
 Also provides an interface for [[Web3js]]
 # Linking to [[Ganache]]
 1. Go to ganache and copy a user's private key

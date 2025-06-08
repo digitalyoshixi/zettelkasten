@@ -13,11 +13,11 @@ A [[JavaScript]] framework that allows client nodes to communicate to the [[Bloc
 - [[Web3js Wei Conversions]]
 - [[Web3js Create Blockchain Account]]
 - [[Web3js Metamask Initialization]]
+- [[Web3js Create Contract]]
 # Initialization
 ```js
 const { Web3 } = require('web3');
 
-var web3 = new Web3(/* provider */);
 // example with ganache
-// var web3 = new Web3("http://127.0.0.1:8545");
+var web3 = new Web3("http://127.0.0.1:8545");
 ```
