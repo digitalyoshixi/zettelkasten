@@ -2,7 +2,7 @@
 tags:
   - cryptography
 ---
-A seminar by Eleanor on [[Metauni]]
+A seminar by Eleanor McMurtry grad student at [[University of Melbourne]] on [[Metauni]]
 # Video URL
 https://invidious.yoshixi.net/watch?v=zer9563S6zM&listen=false
 # Notes

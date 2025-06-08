@@ -4,8 +4,8 @@ tags:
   - javascript
   - blockchain
 ---
-A [[JavaScript]] framework that allows client nodes to communicate to the [[Blockchain]].
-![[Web3js-20250214035037665.webp]]
+A [[JavaScript]] framework that allows client nodes to communicate to the [[Blockchain]] via [[Remote Procedure Calls|RPC]].
+![[Web3js-20250608215651096.webp]]
 # Installation
 `npm i web3`
 # Initialization
