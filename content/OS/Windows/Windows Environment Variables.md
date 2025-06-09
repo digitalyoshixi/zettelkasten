@@ -6,7 +6,7 @@ tags:
 - [[Windows PATH]]
 - %systemroot% - `C:\Windows`
 # Setup Environment Variable
-Example with [[Maven For Java 1]]
+Example with [[Maven]]
 ![[Windows Environment Variables-20240115022050308.webp|417]]
 ![[Windows Environment Variables-20240115022108505.webp|353]]
 ![[Windows Environment Variables-20240115022123789.webp|487]]

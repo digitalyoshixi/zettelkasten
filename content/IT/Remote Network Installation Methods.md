@@ -10,7 +10,7 @@ aliases:
 ### Remote Network Installation
 Installing an OS through an OS image stored on a server
 ![[Remote Network Installation-20240705013900028.webp]]
-Usually you will find these on mirrors of the OS themselves. Like, [[Debian]] and [[Arch]] has alot of mirrors where you can just net install from.
+Usually you will find these on mirrors of the OS themselves. Like, [[Debian]] and [[Arch Linux]] has alot of mirrors where you can just net install from.
 ### Unattended Installation
 Remote Network installation, but after installing the OS, shell scripts may also be ran to ensure the correct software and configurations are set. 
 These installations require a [[Answer File]] to note what scripts are ran after installation.

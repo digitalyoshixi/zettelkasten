@@ -45,6 +45,8 @@ public class Main {
 - [[Java PrintWriter]]
 ### Types
 - [[Java List]]
+- [[Java ArrayList]]
+- [[Java HashSet]]
 - [[Java Typecasting]]
 - [[Java Parsing]]
 - [[Serialization]]

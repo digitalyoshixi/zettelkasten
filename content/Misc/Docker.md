@@ -12,7 +12,7 @@ Great for:
 - [[Docker Node]]
 - [[Docker Compose]]
 # Installation
-### [[Arch]]
+### [[Arch Linux]]
 1. `sudo pacman -S docker`
 2. `sudo systemctl enable docker.service & sudo systemctl start docker.service` 
 3. `sudo systemctl start docker.socket`

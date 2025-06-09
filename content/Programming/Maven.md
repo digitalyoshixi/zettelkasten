@@ -2,13 +2,17 @@
 tags:
   - java
 ---
-# Installation(Windows)
+A package managing system for [[Java]] projects.
+# Installation
+### Windows
 https://phoenixnap.com/kb/install-maven-windows 
 1. Download the latest binary zip files
 2. Move that folder to Program Files
 3. Set [[Windows Environment Variables]] to include the maven folder
 4. type `mvn --version` in command line
 5. make sure [[JAVA_HOME]] is set up
+### [[Arch Linux]]
+1. `sudo pacman -S maven`
 # VSCode with Maven
 https://www.youtube.com/watch?v=zlHXH6maOR0
 1. Make a new maven project. defaults with maven quickstart, 1.4, give it a package name, give it a folder name, then pick its parent folder.
