@@ -68,3 +68,5 @@ aliases:
 - [[Sonorant]]
 - [[Syllable]]
 - [[Phonotactics]]
+- [[Syllabic Consonants]]
+- [[Phonemic Representation]]
