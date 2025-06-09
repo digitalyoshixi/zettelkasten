@@ -6,6 +6,10 @@ aliases:
 ---
 # Notes
 - 6 Week course
+# Exam
+- One [[Morphological Tree]]
+- Constituency tests
+- Two syntactic trees
 # Concepts
 ### Week 1.1
 - [[Linguistic Competence]]
@@ -60,3 +64,9 @@ aliases:
 ### Week 5.2
 - [[Manner of Articulation]]
 - [[Vowel]]
+### Week 6.1
+- [[Sonorant]]
+- [[Syllable]]
+- [[Phonotactics]]
+- [[Syllabic Consonants]]
+- [[Phonemic Representation]]
