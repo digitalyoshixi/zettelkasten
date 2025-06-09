@@ -9,4 +9,4 @@ On a raspberry pi 2 w, you want a os. get raspbian headless.
 3. Write it to the sd card.
 4. Plug it into your raspberry pi, then plug in your mouse keyboard and then monitor for the initial ssh setup
 5. [[Linux SSH Setup]]
-change wifi with: `sudo raspi-config`
+change wifi with: `sudo raspi-config` or modify `/etc/dhcpcd.conf`
