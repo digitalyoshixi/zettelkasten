@@ -3,6 +3,7 @@ tags:
   - java
 ---
 This is a testing library for [[Java]].
+You can run tests with [[Maven]], by using `mvn test`
 # Dependency with [[Maven]]
 ```xml
 <dependency>
@@ -11,4 +12,9 @@ This is a testing library for [[Java]].
     <version>4.13.2</version>
     <scope>test</scope>
 </dependency>
+```
+# Methods
+### .assertEquals()
+```java
+assertEquals(2,2); // ok!
 ```
