@@ -66,3 +66,5 @@ aliases:
 - [[Vowel]]
 ### Week 6.1
 - [[Sonorant]]
+- [[Syllable]]
+- [[Phonotactics]]
