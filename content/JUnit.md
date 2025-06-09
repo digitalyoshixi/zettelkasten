@@ -13,8 +13,21 @@ You can run tests with [[Maven]], by using `mvn test`
     <scope>test</scope>
 </dependency>
 ```
-# Methods
-### .assertEquals()
+# Example
 ```java
-assertEquals(2,2); // ok!
+import static org.junit.jupiter.api.Assertions.*;
+public class Tester(){
+	@Test
+	public void testEquals(){
+		assertEquals(2,2); // ok!
+	}
+	@Test
+	public void testTrue(){
+		assertTrue(True); // ok!
+	}
+	@Test
+	public void testFalse(){
+		assertFalse(False); // ok!
+	}
+}
 ```
