@@ -12,4 +12,4 @@ Software tool for designing [[Circuit]].
 # Guides
 - [[Logism Evolution Wire Color Guide]]
 - [[Logism Evolution Add Sub-Circuit]]
-You can inspect them with the poke tool
+- [[Logism Circuit Analyzer]]
