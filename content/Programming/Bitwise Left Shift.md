@@ -1,6 +1,8 @@
 ---
 tags:
   - c
+aliases:
+  - Arithmetic Left Shift
 ---
 Moves all bits to the left.
 This is a [[C Operators|Binary Operator]]

@@ -1,6 +1,8 @@
 ---
 tags:
   - c
+aliases:
+  - Arithmetic Right Shift
 ---
 Moves all bits to right.
 Bits that are lost are lost for good
