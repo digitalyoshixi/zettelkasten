@@ -6,6 +6,8 @@ aliases:
   - MIPS
 ---
 A [[Reduced Instruction Set Compiler|RISC]] [[Microprocessor]] with [[Microprocessor Without Interlocked Pipelined Stages Assembly|MIPS Assembly]].
+# CPU Diagram
+![[Microprocessor Without Interlocked Pipelined Stages-20250610200447957.webp]]
 # Flags
 - $V$ : Overflow (1 if overflowed)
 - $C$ : Carry output bit (1 for carry)
