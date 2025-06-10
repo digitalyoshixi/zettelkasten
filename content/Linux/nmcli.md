@@ -5,7 +5,7 @@ tags:
 aliases:
   - Linux Connect To Network
 ---
-A tool that comes prepackaged when downloading the  `network-manager` package
+A tool that comes prepackaged with [[NetworkManager]]
 Alternative to [[wpa_supplicant]]
 # Connecting to network
 https://www.youtube.com/watch?v=tLLTjsgIpYY&embeds_referring_euri=https%3A%2F%2Fduckduckgo.com%2F&feature=emb_logo
