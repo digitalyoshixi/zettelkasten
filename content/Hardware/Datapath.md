@@ -9,7 +9,7 @@ Contains:
 - Wires
 - [[Multiplexer|MUXes]]
 # Datapath Example
-
-The state of the [[Multiplexer|MUXes]] for each operation is:
-
+![[Datapath-20250610193520967.webp|468]]
+Examples of some operations and the state of the [[Multiplexer|MUXes]] required for each:
+![[Datapath-20250610193613472.webp]]
 The [[Control Unit]] will set these muxes
