@@ -7,6 +7,6 @@ A [[Multiplier]] [[Combinational Circuit]] that converts multiplication into a s
 ![[Array Multiplier-20250610151116888.webp]]
 # Pros & Cons
 ### Pros
-- Runs in one clock cycle
+- Runs in one clock cycle $O(1)$
 ### Cons
 - Very expensive component
