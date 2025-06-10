@@ -9,3 +9,6 @@ This is the network package for all linux distributions that comes default.
 2. `sudo systemctl restart NetworkManager`
 # Configuration
 1. `vim /etc/network/interfaces`
+```
+
+```
