@@ -17,9 +17,11 @@ This is a [[Component|Component]] that is capable of:
 	- AND
 	- etc..
 # Block Diagram
-![[Arithmetic Logic Unit-20250610142049304.webp|325]]
+![[Arithmetic Logic Unit-20250610182310960.webp|242]]
 - $n$-bit Inputs $a$, $b$
 - Input $func$
 - one bit $C_{in}$ to determine addition or subtraction
 - Output $G$
 - Output byte corresponding to [[CPU Flag]]:
+# Specific [[Arithmetic Logic Unit|ALU]]
+- [[MIPS ALU]]
