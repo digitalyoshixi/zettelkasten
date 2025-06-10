@@ -3,7 +3,7 @@ tags:
   - electricity
   - physics
 ---
-These are [[Components|Electrical Components]] that step up or down [[Voltage]]. This is done by transferring energy through [[Electrical Induction]].
+These are [[Component|Electrical Components]] that step up or down [[Voltage]]. This is done by transferring energy through [[Electrical Induction]].
 Often they are used to convert high voltage down to:
 - 5V
 - 12V

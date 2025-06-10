@@ -18,7 +18,7 @@ aliases:
 - [[Waveform]]
 - [[Transistor]]
 - [[Logic Gates]]
-- [[Components]]
+- [[Component]]
 - [[Circuit]]
 	- [[Ground|Logic Zero]]
 	- [[Voltage At the Collector|Logic High]]

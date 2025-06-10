@@ -5,7 +5,7 @@ tags:
 # Tutorial
 https://www.tutorialspoint.com/basic_electronics/index.htm
 # Concepts
-- [[Components]]
+- [[Component]]
 - [[Ohm's Law]]
 - [[Analog Signal]]
 - [[Digital Signal]]

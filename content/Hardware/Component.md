@@ -20,6 +20,8 @@ aliases:
 - [[Ripple Carry Adder]]
 - [[Subtractor]]
 - [[Carry-Look-Ahead Adder]]
+- [[Multiplier]]
+- [[Arithmetic Logic Unit|ALU]]
 # Bit-Encoding
 - [[Multiplexer]]
 - [[Demultiplexer]]
@@ -30,7 +32,6 @@ aliases:
 # [[Comparator]]
 - [[1-Bit Comparator]]
 - [[2-Bit Comparator]]
-
 # Memory
 - [[Lookup Tables|LUT]]
 - [[Set-Reset Latch]]

@@ -4,5 +4,5 @@ tags:
   - hardware
   - physics
 ---
-These are [[Components|Electrical Components]] that store energy in the form of a [[Magnetic Field]].
+These are [[Component|Electrical Components]] that store energy in the form of a [[Magnetic Field]].
 

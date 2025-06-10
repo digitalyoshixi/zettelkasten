@@ -2,6 +2,8 @@
 tags:
   - c
   - math
+aliases:
+  - Binary Subtraction
 ---
 The most common method of representing signed integers.
 Designates the most significant byte to be the negative version of itself.

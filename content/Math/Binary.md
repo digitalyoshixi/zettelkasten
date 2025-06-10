@@ -9,7 +9,10 @@ aliases:
 Binary is base 2 number system
 
 Every binary number has 8 digits. Smallest digit is to the left, the largest is to the right. Binary can store numbers from 0 to 255 (256 numbers inclusive)
-
+# Binary Operations
+- [[Binary Addition]]
+- [[2's Complement|Binary Subtraction]]
+- [[Binary Multiplication]]
 # Binary Group Naming Conventions
 - **Bit:** A single binary digit
 - **4 Bits:** A nibble

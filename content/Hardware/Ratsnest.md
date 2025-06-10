@@ -2,4 +2,4 @@
 tags:
   - hardware
 ---
-These are unrouted lines between [[Components]] that should still be routed.
+These are unrouted lines between [[Component]] that should still be routed.

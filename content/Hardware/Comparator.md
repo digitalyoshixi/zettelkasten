@@ -4,7 +4,7 @@ tags:
 aliases:
   - General Comparators
 ---
-Hardware [[Components]] that allow for comparing if a input vector is larger than another.
+Hardware [[Component]] that allow for comparing if a input vector is larger than another.
 # Basic Comparators
 - [[1-Bit Comparator]]
 - [[2-Bit Comparator]]
