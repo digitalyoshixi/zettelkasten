@@ -3,6 +3,8 @@ tags:
   - assembly
   - programming
   - x86
+aliases:
+  - x86
 ---
 The assembly language that comes with [[CPU Labelling|x86]] processors
 # Flavours

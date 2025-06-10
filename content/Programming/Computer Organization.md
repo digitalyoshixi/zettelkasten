@@ -31,7 +31,7 @@ aliases:
 - [[Flip-Flop]]
 - [[Finite State Automata|Finite State Machine]]
 - [[Processor]]
-- [[Microprocessor Without Interlocked Pipelined Stages Assembly|MIPS Assembly]]
+- [[Microprocessor Without Interlocked Pipelined Stages|MIPS Assembly]]
 - [[Minterm]]
 - [[Maxterm]]
 ### Week 3
@@ -66,3 +66,6 @@ aliases:
 	- [[Counters with Parallel Load]]
 - [[Finite State Automata|Finite State Machine]]
 - [[FSA Unsafe Transition Solutions]]
+### Week 6
+- [[Microprocessor]]
+- [[Microprocessor Without Interlocked Pipelined Stages|MIPS]]

@@ -4,4 +4,4 @@ tags:
 ---
 The CPU instruction set.
 - [[ARM]]
-- [[x86]]
+- [[x86 Assembly]]
