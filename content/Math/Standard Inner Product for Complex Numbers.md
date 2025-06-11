@@ -2,6 +2,8 @@
 tags:
   - math
   - linalg
+aliases:
+  - Hermitian Inner Product
 ---
 # Definition
 - With $V = \mathbb{C}^{n}$

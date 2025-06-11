@@ -24,4 +24,9 @@ tags:
 ### Showing $||x+y|| \leq ||x||+||y||$
 1. Let $x,y \in V$
 2. $||x + y|| = d(x+y, 0)$
-3. $=$
+3. $=d(x+y-y, -y)$ by adding $-y$ to both terms, assuming this is allowed
+4. $\leq d(x,0) + d(0,-y)$
+5. $\leq d(x,0) + d(y,y-y)$
+6. $\leq d(x,0) + d(y,0)$ (Note we could also use $|\lambda| |y|$ symmetry)
+7. $\leq d(x,0) + d(y,0)$
+8. $\leq ||x|| + ||y||$

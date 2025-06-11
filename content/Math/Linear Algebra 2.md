@@ -87,3 +87,7 @@ aliases:
 - [[Metric for Vector Spaces]]
 - [[Nice Metric]]
 - [[Vector Norm]]
+### Week 6
+- [[Transform Norm]]
+- [[Matrix Norm]]
+- [[Standard Inner Product]]

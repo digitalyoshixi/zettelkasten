@@ -8,7 +8,7 @@ aliases:
   - Magnitude
   - Valuation
 ---
-This is a [[Function]] that takes a [[Vectors|Vector]] within a [[Vector Space]] to convert it into its length/size representation within a [[Field]].
+This is a [[Function]] that takes a element within a [[Integral Domain]] to convert it into its length/size representation within a [[Field]].
 # Definition
 - $f : D \to \mathbb{R}$ s.t
 - $f(x) > 0$
