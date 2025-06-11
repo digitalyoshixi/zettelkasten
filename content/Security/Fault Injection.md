@@ -7,3 +7,4 @@ These are attacks on hardware systems that involve pushing chips past their phys
 # Uses
 - [[Firmware Recovery]]
 - [[Remote Code Execution|RCE]]
+- [[Hardware Spoofing]]

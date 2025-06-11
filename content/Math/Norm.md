@@ -1,16 +1,31 @@
 ---
 tags:
-  - math
   - linalg
+  - math
 aliases:
+  - Absolute Function
   - Absolute Value
-  - Valuation
   - Magnitude
+  - Valuation
 ---
-This is the length/size of an object.
+This is a [[Function]] that takes a [[Vectors|Vector]] within a [[Vector Space]] to convert it into its length/size representation within a [[Field]].
+# Definition
+- $f : D \to \mathbb{R}$ s.t
+- $f(x) > 0$
+- if $f(x) \neq 0 \wedge f(y) \neq 0 \implies f(x) \leq f(x)f(y)$
 # Properties
 With $\mathcal{D}$ as an [[Integral Domain]] or [[Field]]
 1. $|x| \geq 0, \forall x \in \mathcal{D}$ (Non-negativity)
 2. $|x| = 0 \Longleftrightarrow x = 0$
 3. $|xy| = |x| |y|, \forall x,y \in \mathcal{D}$ ([[Multiplication]])
 4. $|x+y| \leq |x| + |y|, \forall x,y \in \mathcal{D}$ ([[Triangle Inequality]])
+# Implementations
+- [[Absolute Function for Real Numbers]]
+- [[Complex Number Modulus|Absolute Function for Complex Numbers]]
+- [[Trivial Absolute Value|Absolute Value for Finite Field]]
+	- [[Hamming Distance]]
+- [[Absolute Function for Polynomials]]
+# Theorems
+- [[Absolute Value of Multiplicative Identity is 1]]
+- [[Absolute Value Functions Induce a Metric Theorem|All Vector Norms Induce a Metric Theorem]]
+- [[Nice Metrics Induce a Norm Theorem]]

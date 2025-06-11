@@ -81,7 +81,6 @@ aliases:
 	- [[Euclidean Metric for Finite Fields]]
 	- [[Metric for Integer modulo n]]
 - [[Norm]]
-- [[Norm Function]]
 	- [[Absolute Function for Real Numbers|Absolute Function]]
 	- [[Complex Number Modulus]]
 	- [[Trivial Absolute Value]]

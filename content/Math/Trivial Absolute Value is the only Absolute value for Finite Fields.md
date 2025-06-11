@@ -14,7 +14,7 @@ For all $y^{k}$ in a [[Finite Field]]
 # Proof
 - Let $y \in \mathbb{F}$ be nonzero
   As $\mathbb{F}$ is a finite field, the set $\{  y, y^{2}, \dots \}$ is finite it follows there exists $0 < a < b < \infty$ such that $y^{a} = y^{b}$ and so, there exists a $0 < k < \infty$ s.t $y^{k} = 1$
-- Because $| \cdot |$ is a [[Norm Function]],
+- Because $| \cdot |$ is a [[Norm]],
 - $|y^{k}| = |y^{k}| = |1| = 1$
 - So, 
 $$
