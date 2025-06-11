@@ -10,6 +10,11 @@ aliases:
 - One [[Morphological Tree]]
 - Constituency tests
 - Two syntactic trees
+### Question Breakdown
+- q6: [[]]
+- Q7-9 Prescriptive vs descriptive
+- Q10 : Free and bound morphemes
+- Q11-12: How many morphemes in underlined word
 # Concepts
 ### Week 1.1
 - [[Linguistic Competence]]
