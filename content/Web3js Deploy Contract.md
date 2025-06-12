@@ -3,19 +3,53 @@ tags:
   - blockchain
 ---
 # Process
-1. Get the smart contract bytecode compiled from [[Remix IDE]]
-2. Send a transaction with data being the bytecode.
+1. Get the smart contract bytecode compiled from [[solc]]
+2. Send a transaction:
 ```js
-sender = "0x..."
-data = "..."
-tx = {
-	from: sender,
-	value: web3.utils.toWei(1, 'ether'),
-	gasPrice: web3.utils.toWei(10, 'ether'),
-	nonce: await web3.eth.getTransactionCount(sender),
-	data : data
+const { Web3 } = require('web3');
+const path = require('path');
+const fs = require('fs');
+
+const web3 = new Web3('http://127.0.0.1:8545/');
+
+const bytecodePath = path.join(__dirname, 'MyContractBytecode.bin');
+const bytecode = fs.readFileSync(bytecodePath, 'utf8');
+
+const abi = require('./MyContractAbi.json');
+const myContract = new web3.eth.Contract(abi);
+myContract.handleRevert = true;
+
+async function deploy() {
+	const providersAccounts = await web3.eth.getAccounts();
+	const defaultAccount = providersAccounts[0];
+	console.log('Deployer account:', defaultAccount);
+
+	const contractDeployer = myContract.deploy({
+		data: '0x' + bytecode,
+		arguments: [1],
+	});
+
+	const gas = await contractDeployer.estimateGas({
+		from: defaultAccount,
+	});
+	console.log('Estimated gas:', gas);
+
+	try {
+		const tx = await contractDeployer.send({
+			from: defaultAccount,
+			gas,
+			gasPrice: 10000000000,
+		});
+		console.log('Contract deployed at address: ' + tx.options.address);
+
+		const deployedAddressPath = path.join(__dirname, 'MyContractAddress.txt');
+		fs.writeFileSync(deployedAddressPath, tx.options.address);
+	} catch (error) {
+		console.error(error);
+	}
 }
-privatekey = "..."
-signedtx = await web3.eth.accounts.signTransaction(tx, privateKey);
-await web3.eth.sendSignedTransaction(signedtx)
+
+deploy();
 ```
+3. You should see the [[Smart Contract]] address here in the window running your [[Development Node]]:
+   ![[Web3js Deploy Contract-20250612202909134.webp]]
