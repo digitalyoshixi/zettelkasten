@@ -4,7 +4,7 @@ tags:
 ---
 # Process
 1. Get the smart contract bytecode compiled from [[Remix IDE]]
-2. Send a transaction:
+2. Send a transaction with data being the bytecode.
 ```js
 sender = "0x..."
 reciever = "0x..."

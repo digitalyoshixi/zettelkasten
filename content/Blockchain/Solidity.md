@@ -8,8 +8,16 @@ Runs on the [[Ethereum Virtual Machine]].
 - [[Statically Typed]]
 - Compiled
 # Boilerplate
-```solidity
-pragma solidity ^0.5.0;
+```sol
+pragma solidity ^0.8.0;
+
+contract HelloWord{
+	string public greet = "Hello World!";
+
+	function testfunc() public returns(string){
+		return "Hello";
+	}
+}
 ```
 # Development Process
 1. Define a contract in the `/contracts` folder
