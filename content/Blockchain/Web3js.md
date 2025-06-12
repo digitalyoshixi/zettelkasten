@@ -11,9 +11,10 @@ A [[JavaScript]] framework that allows client nodes to communicate to the [[Bloc
 # Guides
 - [[Web3js Get Balance]]
 - [[Web3js Wei Conversions]]
+- [[Web3js Create Contract]]
+- [[Web3js Transactions]]
 - [[Web3js Create Blockchain Account]]
 - [[Web3js Metamask Initialization]]
-- [[Web3js Create Contract]]
 # Initialization
 ```js
 const { Web3 } = require('web3');
