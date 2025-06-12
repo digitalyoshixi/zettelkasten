@@ -14,6 +14,8 @@ tx = {
 await web3.eth.sendTransaction(tx)
 ```
 # Sending a Transaction (Signing with Private Key)
+1. Compile a smart contract with [[Remix IDE]]
+2. 
 ```js
 sender = "0x..."
 reciever = "0x..."
