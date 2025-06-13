@@ -3,9 +3,10 @@ tags:
   - linguistics
 ---
 This is how [[Consonant]] are produced.
-# Methods
+# Classifications
 - [[Oral Sound]]
 - [[Nasal Sound]]
+# Methods
 - [[Plosive]]
 - [[Fricative]]
 - [[Affricate]]
