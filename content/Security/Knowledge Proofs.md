@@ -11,4 +11,4 @@ tags:
 5. We say $x \in X$ is true if $\exists w \in W, (x,w) \in R$. Otherwise, it is false
 6. We call $R$ an [[Effective Relation]]
 # Example
-1. With $G_{p}$ as a [[Cyclic Group]] of prime order $p$
+- [[Discrete Logarithm Language]]

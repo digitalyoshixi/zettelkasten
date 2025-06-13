@@ -3,8 +3,7 @@ tags:
   - math
   - linalg
 aliases:
-  - Generating Set
-  - Generator Set
+  - Generating Set for Vector Space
 ---
 The the [[Subset]] of [[Vector Space]] $V$ [[Span|Spans]] $V$. 
 # Definition
