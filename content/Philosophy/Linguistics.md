@@ -38,6 +38,8 @@ aliases:
 - Q40: questions about phrase with tree
 - Q41: T/F questions about tree
 - Q42-3: voicing, [[Places of Articulation]], [[Manner of Articulation]] etc, what is the different between this consonant and that consonant
+- Q44: Natural classes (p, t,k) what features they share? (voiceless, voiced, etc) could be vowels or consonants
+- Q45: Difference between two vowels
 - Q46-8: Slow pronounciation word, slow->fast, what phonological process is there? [[Deletion]], [[Assimilation]], etc
 - Q49: given pronounication for each word, and stresses, where do you see [[Aspiration]] or [[Liquid Devoicing]]?
 - Q50-51: just find the word that includes aspiration/devoiceing
