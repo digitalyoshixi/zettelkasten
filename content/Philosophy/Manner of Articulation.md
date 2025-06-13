@@ -11,3 +11,4 @@ This is how [[Consonant]] are produced.
 - [[Fricative]]
 - [[Affricate]]
 - [[Liquid Sounds|Approximant]]
+- [[Glide]]
