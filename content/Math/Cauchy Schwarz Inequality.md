@@ -2,6 +2,10 @@
 tags:
   - math
   - calculus
+  - linalg
 ---
-# Integral Version
-$$\int_{0}^{1}f(x)g(x)dx \leq \sqrt{ \int_{0}^{1}f(x)^{2}dx }\sqrt{ \int_{0}^{1}g(x)^{2}dx }$$
+$$| \langle \alpha | \beta \rangle| \leq || \alpha || ||\beta ||$$
+# Specific Domains
+- [[Cauchy Schwarz Inequality Integrals]]
+- [[Cauchy Schwarz Inequality Dot Product]]
+- [[Cauchy Schwarz Inequality Trace]]

@@ -91,3 +91,8 @@ aliases:
 - [[Transform Norm]]
 - [[Matrix Norm]]
 - [[Standard Inner Product]]
+- [[Standard Inner Product for Vector Spaces|Inner Product]]
+- [[Inner Products Define a Norm]]
+- [[Function that Recovers the Inner Product]]
+- [[Inner Product Spaces]]
+### Week 7

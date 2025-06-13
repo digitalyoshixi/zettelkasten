@@ -4,11 +4,14 @@ tags:
   - linalg
 ---
 # Theorem
+![[Matrix Representation of Quadratic Form-20250613154453839.webp]]
+# For $2 \times 2$ Matrix Example
 ### For $\mathbb{R}$
 1. With $x \in \mathbb{R}^{n}$
 2. With $f$ as a quadratic form $f(x) = ax_{1}^{2} + b x_{1}x_{2} + cx_{2}^{2}$
-3. $$A = \left[\begin{array}{cc} \\
-a & \frac{b}{2}
+3. $$A = \left[\begin{array}{cc} 
+a & \frac{b}{2}\\
+\frac{b}{2} & c\\
 \end{array}\right]$$
 ### For $\mathbb{C}$
 1. With $x \in \mathbb{R}^{n}$
@@ -17,4 +20,3 @@ a & \frac{b}{2}
 a_{11} & a _{12}\\
 a_{21} & a _{22}
 \end{array}\right]$$
-# Theorem
