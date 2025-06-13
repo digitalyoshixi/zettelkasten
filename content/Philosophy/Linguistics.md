@@ -46,7 +46,11 @@ aliases:
 - Q52-54: phonemic transcription given, which is the phonetic transcription for the word?
 - Q55-56: given 5 words + transcriptions, which word has liquid devoicing? canadian raising? voiceless stop?
 - Q57-60: syllables
-- Short answers are drawing structures
+##### Short Answer
+- Q1: Morphological tree of a given word
+- Q2: Constituency tests (clefting test, stand alone test, repalcement test)
+- Q3: Syntax tree of a sentence
+- Q4: Syntax tree of a sentence
 # Concepts
 ### Week 1.1
 - [[Linguistic Competence]]
