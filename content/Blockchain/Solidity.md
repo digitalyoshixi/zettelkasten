@@ -45,3 +45,5 @@ contract Counter {
 - [[truffle-config.js]]
 - [[truffle console]]
 - [[solc]]
+# Resources
+- https://solidity-by-example.org/
