@@ -12,13 +12,13 @@ aliases:
 - [[Set]]
 - [[Mathematical Symbols]]
 # Proof Terminology
-- [[Math Proofs]]
+- [[Math Proof]]
 	- [[Rigor]]
 	- [[Definition]]
 	- [[Axiom]]
 	- [[Conjecture]]
 	- [[Lemma]]
-	- [[Math Proofs]]
+	- [[Math Proof]]
 	- [[Corollary]]
 	- [[Theorem]]
 # Specific Problems

@@ -6,4 +6,4 @@ cssclasses:
 ---
 How we analyze numbers discretely (not continuously). 
 # Concepts
-- [[Math Proofs]]
+- [[Math Proof]]

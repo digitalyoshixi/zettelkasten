@@ -6,3 +6,6 @@ A method to authenticate without exposing [[Personally Identifiable Information|
 This could be a token that only the user has.
 # Implementations
 - [[ZK Snarks]]
+# Types
+- [[Non-Interactive Proof]]
+- [[Interactive Proof]]
