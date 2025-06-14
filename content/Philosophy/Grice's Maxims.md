@@ -3,7 +3,7 @@ tags:
   - philosophy
   - linguistics
 ---
-The rules set in place to allow [[Language]] to be structured [[Logic|Logically]].
+The rules set in place to allow [[Philosophy/Language]] to be structured [[Logic|Logically]].
 For this to hold, all language must follow the [[Cooperative Principle]].
 # Maxims
 ### Maxim of Quantity

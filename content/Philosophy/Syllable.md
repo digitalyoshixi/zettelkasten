@@ -4,7 +4,7 @@ tags:
 ---
 These are sounds groups of sounds with internal organization.
 Every syllable has a [[Syllable Nucleus|Vowel]]
-All [[Language]] has syllables.
+All [[Philosophy/Language]] has syllables.
 Structure is defined via [[Phonotactics]]
 # Syllable Constitution
 ![[Syllable-20250609174502509.webp|335]]

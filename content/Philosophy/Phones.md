@@ -5,7 +5,7 @@ aliases:
   - Sounds
   - Class of Sounds
 ---
-These are the [[Sound|Sounds]] of a [[Language]].
+These are the [[Sound|Sounds]] of a [[Philosophy/Language]].
 # Classifications
 - [[Vowel]]
 - [[Consonant]]
