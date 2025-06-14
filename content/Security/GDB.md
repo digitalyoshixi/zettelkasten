@@ -53,6 +53,7 @@ https://users.ece.utexas.edu/~adnan/gdb-refcard.pdf
 - [[GDB Finding main()]]
 - [[GDB Dumping Memory Addr]]
 - [[GDB Changing Register Values]]
+- [[GDB Changing Memory Values]]
 - [[GDB Jumping To Address]]
 # Other
 - [[GDB Typecasting]]
