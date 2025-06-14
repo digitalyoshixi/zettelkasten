@@ -3,6 +3,8 @@ tags:
   - programming
   - jobs
 ---
+# Resources
+- https://github.com/exajobs/security-engineer-interview-collection
 # Breakdown
 ### Short Introduction (5 mins)
 ### Technical Assessment (45 mins)
