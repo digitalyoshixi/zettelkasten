@@ -39,6 +39,7 @@ https://users.ece.utexas.edu/~adnan/gdb-refcard.pdf
 - **x** : examine memory
 	- **x/10i addr** : print the 10 instructions at an address
 	- **x/8x $rbp - 0x0** : print the 8-bytes at the stack base pointer
+	- **x/1xb addr** : print the 1 byte at that address
 ### Modifying
 - **set** : set a register like `set $eax=0`
 ### Meta
