@@ -15,3 +15,7 @@ dlv exec ./binary
 ```
 dlv debug ./binary
 ```
+# Debugging Binary that uses STDIN
+https://github.com/go-delve/delve/issues/1274
+1. `dlv --headless exec ./chal`. You will be given a port
+2. `dlv connect :XYZ`, this is your debugger. The other instance is now your stdin
