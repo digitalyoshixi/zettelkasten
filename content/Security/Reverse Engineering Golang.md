@@ -8,3 +8,5 @@ Golang is notoriously hard to reverse engineer. The builtins and mutex systems m
 ![[Reverse Engineering Golang-20250614174148501.webp]]
 # Concepts
 - [[Golang Main Function]]
+- [[Golang Function Call Procedure]]
+- [[Golang Stack Reuse]]

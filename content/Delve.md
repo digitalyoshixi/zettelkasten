@@ -7,3 +7,7 @@ This is a [[Go|Golang]] debugger
 ```
 dlv exec ./binary
 ```
+# Debugging Compile&Debug Binary
+```
+dlv debug ./binary
+```
