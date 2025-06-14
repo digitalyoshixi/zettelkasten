@@ -2,6 +2,8 @@
 tags:
   - reverse_engineering
 ---
+# Philosophies
+- [[Reverse Engineering Philosophies]]
 # Guides
 - [[Reverse Engineering ELF]]
 - [[Reverse Engineering .NET]]
