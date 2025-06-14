@@ -11,5 +11,6 @@ tags:
 - [[Reverse Engineering Android]]
 - [[Reverse Engineering IOS]]
 - [[Reverse Engineering Python]]
+- [[Reverse Engineering Go]]
 - [[Reverse Engineering ISO]]
 - [[Reverse Engineering Commodore]]

@@ -5,7 +5,7 @@ tags:
 A method to implement [[Concurrency]] or [[Paralellism]] in [[Go|Golang]].
 Makes use of:
 - [[Go Wait Group]]
-- [[Go Channel Group]]
+- [[Go Channels]]
 # Boilerplate
 ```go
 func main(){
