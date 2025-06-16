@@ -12,6 +12,9 @@ This is a talk by eleanor at [[Metauni]]
 - An example of an [[Interactive Proof]] is the [[Colorblind Friend Proof Example]] which has the properties of a:
 	- [[Designated Verifier]]
 	- [[Zero Knowledge]]
-- [[Knowledge Proofs]]
+- We introduce [[Effective Relation]]
 	- [[Discrete Logarithm Language]] is an example of a knowledge proof
-- [[Cryptographic Protocol]]
+- We introduce what a [[Cryptographic Protocol]] is
+- An alternate definition for a knowledge proof is:
+	- Given all possibly cheating turing machine $\hat{P}$ that can make turing machine $V$ output accept, we can efficiently extract a [[Zero Knowledge]] authenticator by [[Turing Machine Rewinding]] $\hat{ P}$
+- [[Knowledge Proofs]]
