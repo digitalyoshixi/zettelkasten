@@ -13,3 +13,5 @@ This is a talk by eleanor at [[Metauni]]
 	- [[Designated Verifier]]
 	- [[Zero Knowledge]]
 - [[Knowledge Proofs]]
+	- [[Discrete Logarithm Language]] is an example of a knowledge proof
+- [[Cryptographic Protocol]]

@@ -1,6 +1,8 @@
 ---
 tags:
   - security
+aliases:
+  - Witness
 ---
 Knowledge that is learned only to be used temporarily. 
 Practically useless.
