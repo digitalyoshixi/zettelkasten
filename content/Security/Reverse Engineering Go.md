@@ -5,7 +5,7 @@ tags:
 aliases:
   - Reverse Engineering Golang
 ---
-Golang is notoriously hard to reverse engineer. The builtins and mutex systems make compiled binaries large and heavy.
+
 ![[Reverse Engineering Golang-20250614174130802.webp]]
 ![[Reverse Engineering Golang-20250614174148501.webp]]
 # Process
@@ -16,3 +16,5 @@ Golang is notoriously hard to reverse engineer. The builtins and mutex systems m
 - [[Golang Function Call Procedure]]
 - [[Golang Stack Reuse]]
 - [[Reverse Engineering Golang Goroutine]]
+# Resources
+- https://invidious.yoshixi.net/watch?v=_cL-OwU9pFQ

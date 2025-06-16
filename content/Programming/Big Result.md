@@ -4,7 +4,7 @@ tags:
 aliases:
   - Nick Cheng's Big Result
 ---
-Any [[Language]] created from a:
+Any [[Programming/Language]] created from a:
 - [[Regular Expression]]
 - [[Deterministic Finite Automaton]]
 - [[Non-Deterministic Finite Automaton]]

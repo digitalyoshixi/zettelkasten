@@ -3,7 +3,6 @@ tags:
   - os
 aliases:
   - Processes
-  - PID
 ---
 Machine code loaded in RAM that is running in CPU threads.
 These can take the form of:
@@ -18,6 +17,7 @@ All processes will have a process ID that can be viewed with `ps -a`
 ![[Process-20240705205701521.webp|293]]
 In [[IT/Windows]], we can use [[Windows Task Manager]]
 # Process Concepts
+- [[Process ID]]
 - [[Process States]]
 - [[Process Creation]]
 - [[Process Scheduling]]

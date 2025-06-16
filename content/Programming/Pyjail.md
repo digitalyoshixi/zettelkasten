@@ -1,6 +1,8 @@
 ---
 tags:
   - jail
+aliases:
+  - Python Jail
 ---
 A restricted python environment that limits what users can do inside a python interpreter.
 - Execution is through [[Serial Communication]] to prevent vulerabilities

@@ -9,6 +9,8 @@ Python is a bytecode virtual machine. You can see the [[Python Bytecode]] and ex
 - [[Pyenv]]
 - [[Python Object]]
 - [[Python Function Design Recipe]]
+- [[Python Lambda Functions]]
+- [[Python Map]]
 # Libraries
 - [[Python os]]
 - [[Sci-kit Learn]]

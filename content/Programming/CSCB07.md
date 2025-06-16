@@ -12,8 +12,18 @@ aliases:
 - [[SOLID Design]]
 - [[Design Patterns]]
 - [[Principles of Clean Code]]
-### Java
+### Week 1 or 2
 - [[Java]]
 - [[Java Classes]]
 - [[Polymorphism]]
 - [[Java super|Java Super]]
+### Week 3
+- [[Java .equals()]]
+- [[Java .hashCode()]]
+### Week 4
+- [[Java Abstract Class]]
+- [[Java Interface]]
+### Week 5
+- [[JUnit]]
+- [[Maven]]
+- [[Eclipse]]
