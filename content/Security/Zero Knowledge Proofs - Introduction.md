@@ -15,6 +15,6 @@ This is a talk by eleanor at [[Metauni]]
 - We introduce [[Effective Relation]]
 	- [[Discrete Logarithm Language]] is an example of a knowledge proof
 - We introduce what a [[Cryptographic Protocol]] is
-- An alternate definition for a knowledge proof is:
+- [[Knowledge Proofs]] definition is:
 	- Given all possibly cheating turing machine $\hat{P}$ that can make turing machine $V$ output accept, we can efficiently extract a [[Zero Knowledge]] authenticator by [[Turing Machine Rewinding]] $\hat{ P}$
-- [[Knowledge Proofs]]
+- [[Schnorr's Protocol]]
