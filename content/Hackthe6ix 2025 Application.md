@@ -1,0 +1,6 @@
+---
+tags:
+  - hackathons
+---
+# Tell us about a project you enjoyed working on. What made you decide to work on this project? What challenges did you face?
+I loved setting up my homelab this summer. I got inspired from a similar self-hoster running nadeko.net, where they host privacy-related services. I bought myself a few HDDs and setup my desktop to install the proxmox hypervisor. Everything was great until I renamed a node, causing irreversable damage to my configuration files. I had to reinstall everything from scratch, and this time I setup periodic backups on a seperate drive. Many issues actually came with exposing services to the internet as it was my first time using nginx as a reverse proxy. My troubleshooting process came down to checking the network tab of devtools for client -> server issues, using netstat and traceroute for testing connections and making flask servers to check if the firewalls were working properly. Ubuntu and stack exchange forms were a lifesaver. There are still issues with uptime that I am trying to diagnose. I plan to setup grafana for monitoring later this week, to try and find the root issue (I believe they are power surges).
