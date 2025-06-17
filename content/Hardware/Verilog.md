@@ -21,3 +21,13 @@ A [[Hardware Description Language|HDL]] that is:
 # Concepts
 - [[Verilog Module]]
 - [[Verilog Datatypes]]
+- [[Verilog Operators]]
+# Boilerplate
+```verilog
+module module_name(){
+	input A;
+	output B;
+	assign B = !A;
+}
+endmodule
+```
