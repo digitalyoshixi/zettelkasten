@@ -16,7 +16,6 @@ We can get:
 # 4 Bit Carries
 ![[Carry-Look-Ahead Adder-20250617195513006.webp]]
 # Block Diagram
-![[Carry-Look-Ahead Adder-20250617193142213.webp]]
-
+![[Carry-Look-Ahead Adder-20250617200539558.webp]]
 # Truth Table
 ![[Carry-Look-Ahead Adder-20250617194411737.webp]]

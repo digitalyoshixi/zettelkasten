@@ -22,6 +22,7 @@ A [[Hardware Description Language|HDL]] that is:
 - [[Verilog Module]]
 - [[Verilog Datatypes]]
 - [[Verilog Operators]]
+- [[Verilog Wire]]
 # Boilerplate
 ```verilog
 module module_name(){
