@@ -6,14 +6,11 @@ aliases:
   - Fast Adder
 ---
 A N-bit adder, that does not have high propogation delay.
-Adders have a extra output $G_{i}$, $P_{i}$.
-Where:
-- $P_{i} = A_{i} \oplus B_{i}$
-- $G_{i} = A_{i} \cdot B_{i}$
+- Uses [[PG Full Adder]]
 We can get:
 - $S = P_{i} \oplus C_{i}$
 - $Carry = G_{i} + P_{i} \cdot C_{i}$
-# 4 Bit Carries
+# 4 Bit Carry Unit
 ![[Carry-Look-Ahead Adder-20250617195513006.webp]]
 # Block Diagram
 ![[Carry-Look-Ahead Adder-20250617200539558.webp]]
