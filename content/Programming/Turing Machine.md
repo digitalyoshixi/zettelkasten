@@ -8,7 +8,7 @@ It is visualized as a tape consisting of items in a [[Alphabet]] with operations
 - Write
 - Read
 - Move
-Specific instructions come from [[Punchcards]].
+Specific instructions come from [[Punchcard]].
 # Definition
 A Turing Machine $T$ is a 7-[[Tuple]] that consists of:
 1. A [[Alphabet]] $S$ called the state alphabet
