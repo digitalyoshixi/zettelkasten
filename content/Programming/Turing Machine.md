@@ -3,6 +3,12 @@ tags:
   - programming
 ---
 A ideal version of a [[Central Processing Unit|CPU]] that controls all data manipulation for a computer.
+![[Turing Machine-20250618130828677.webp]]
+It is visualized as a tape consisting of items in a [[Alphabet]] with operations of:
+- Write
+- Read
+- Move
+Specific instructions come from [[Punchcards]].
 # Definition
 A Turing Machine $T$ is a 7-[[Tuple]] that consists of:
 1. A [[Alphabet]] $S$ called the state alphabet
@@ -15,3 +21,5 @@ A Turing Machine $T$ is a 7-[[Tuple]] that consists of:
 	- $\delta(t,a) = \delta(t,b,X)$ 
 	- $\delta(r,c) = \delta(r,d,Y)$
 	- Where $a,b,c,d \in \sum \cup \{ B \}$, $X,Y \in \{ L,R \}$
+# Turing Machines
+- [[Binary Turing Machine]]
