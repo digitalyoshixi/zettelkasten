@@ -8,7 +8,7 @@ Taken two ways:
 - Using third party [[Artificial Intelligence|AI]] in your product securely
 # Securing AI
 ### Red Team
-- [[Direct Prompt Injection]]
+- [[Prompt Injection]]
 - [[ASCII Smuggling]]
 - [[Slop Squatting]]
 - [[Keras Deserialization Attack]]
