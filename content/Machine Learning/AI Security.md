@@ -12,7 +12,13 @@ Taken two ways:
 - [[ASCII Smuggling]]
 - [[Slop Squatting]]
 - [[Keras Deserialization Attack]]
+- [[AI Hallucinations]]
+- [[Copilot Cloud Data Labelling]]
+- [[MNIST Input Data Poisoning]]
+- [[SecML]]
 ### Blue Team
+- [[Polkadots Against Computer Vision]]
+- [[Deep Neural Rejection]]
 # AI For Security
 - [[Ghidra MCP]]
 # Concepts

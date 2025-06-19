@@ -7,3 +7,4 @@ This is a red-team tactic, that attempts to poison a [[Large Language Model|LLM]
 # Techniques
 - [[Repeating Word Prompt Injection]]
 - [[Ignore All Previous Instructions]]
+- [[Hypothetical Scenario Prompt Injection]]
