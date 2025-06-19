@@ -6,11 +6,15 @@ tags:
 Taken two ways:
 - Using [[Artificial Intelligence|AI]] to secure your product
 - Using third party [[Artificial Intelligence|AI]] in your product securely
-# Stages
-### Visibility
-Concerned with apps, agents, prompts, data stores, model, infrastructure
-### Security, Safety & Trust
-Concerned with data leakage, prompt injection, denial of service, agent manipulation, data exfiltration, excessive agency, harmful content, [[AI Hallucinations]]
-### Supply Chain Risks
-Concerned with model vulnerability, system prompt vulnerability
-
+# Securing AI
+### Red Team
+- [[Direct Prompt Injection]]
+- [[ASCII Smuggling]]
+- [[Slop Squatting]]
+- [[Keras Deserialization Attack]]
+### Blue Team
+# AI For Security
+- [[Ghidra MCP]]
+# Concepts
+- [[AI Security Stages]]
+- [[The End of Click-Ops Security Agent-Driven Applications]]
