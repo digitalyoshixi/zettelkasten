@@ -4,3 +4,5 @@ tags:
   - security
 ---
 This is a red-team tactic, that attempts to poison a [[Large Language Model|LLM]]'s prompt, allowing it to do anything the attacker asks for.
+# Techniques
+- [[Repeating Word Prompt Injection]]

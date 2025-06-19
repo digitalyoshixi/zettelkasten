@@ -23,7 +23,7 @@ $\vec{u}=k\vec{v}$
 You can write one vector as a linear combination of the other 2.
 $\vec{a},\vec{b}\ \epsilon\ \vec{c}$
 $\vec{c} = s\vec{a} + t\vec{b}$
-### [[Perpendicular Vectors]]
+### [[Orthogonal]]
 
 # Vector Concepts
 - [[Vector Addition]]
