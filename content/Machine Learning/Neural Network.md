@@ -2,6 +2,8 @@
 tags:
   - machine_learning
   - data_science
+aliases:
+  - Neural Net
 ---
 # Theory
 A neural network consists of multiple layers of neurons.

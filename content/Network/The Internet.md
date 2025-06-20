@@ -1,6 +1,8 @@
 ---
 tags:
   - networking
+aliases:
+  - Internet
 ---
 ![[The Internet-20240716231608478.webp]]
 A [[Wide Area Network|WAN]] connected by 468 [[Fibre Optic Cable|Fibre Optic Cables]] that spans the worlds oceans and lands.
