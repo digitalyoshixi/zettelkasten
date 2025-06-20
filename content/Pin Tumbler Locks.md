@@ -7,4 +7,4 @@ These are locks that have sharp edges at the keyways.
 # Picks
 - [[Hook Pick]]
 - [[Rake Pick]]
-- [[Half Diamond Pick]]
+- [[Half-Diamond Pick]]

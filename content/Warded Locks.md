@@ -8,3 +8,4 @@ These are locks with wavy key-holes.
 # Picks
 - [[Hook Pick]]
 - [[Ball Pick]]
+- [[Skeleton Key]]
