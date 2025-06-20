@@ -2,7 +2,7 @@
 tags:
   - go
 ---
-A method to implement [[Concurrency]] or [[Paralellism]] in [[Go|Golang]].
+A method to implement [[Concurrency]] or [[Parallelism]] in [[Go|Golang]].
 Makes use of:
 - [[Go Wait Group]]
 - [[Go Channels]]

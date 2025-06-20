@@ -3,6 +3,7 @@ tags:
   - os
 aliases:
   - I/O
+  - IO
 ---
 Most of the operating system code is dedicated to managing input and output.
 

@@ -2,9 +2,23 @@
 tags:
   - quantum_mechanics
 ---
-These are computers based off [[Quantum Mechanics]].
-- [[Stochastic Algorithm]]
-# Issues
-- Quantum computers have [[Decoherence]]
-# Cooling
-- [[H3]] is a potential coolant for these systems
+These are computers based off [[Quantum Mechanics]]. They are often [[Stochastic Algorithm|Stochastic Algorithms]], used for:
+- [[Post-Quantum Cryptography]]
+- [[Quantum Trading]]
+- [[Quantum Machine Learning]]
+- [[Quantum Chemistry]]
+# Concepts
+### Building
+- [[Qubit]]
+- [[Quantum Circuits]]
+- [[Quantum Gate]]
+- [[Quantum Measurement]]
+- [[Quantum Parallelism]]
+- [[Quantum Interference]]
+- [[Quantum Entanglement]]
+### Issues
+- [[Decoherence]]
+### Implementations
+- [[Shor's Factoring Algorithm|Shor's Algorithm]]
+### Research
+- [[H3]]
