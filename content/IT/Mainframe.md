@@ -1,6 +1,6 @@
 ---
 tags:
-  - programming
+  - IT
 ---
 These are machines designed for computing with high-reliability for several connected devices.
 - Lots of [[Input Output]] ports

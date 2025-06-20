@@ -1,6 +1,8 @@
 ---
 tags:
   - programming
+aliases:
+  - Multi-Paradigm
 ---
 https://www.youtube.com/watch?v=HlgG395PQWw
 ![[Programming Paradigms-20240129225013139.webp]]
@@ -18,3 +20,5 @@ Programmer declares how to get a desired result but not how to compute it.
 # Other
 - [[Prototype Programming]]
 - [[Dynamic Programming]]
+- [[Differentiable Programming]]
+- [[Meta Programming]]
