@@ -9,13 +9,21 @@ Taken two ways:
 # Securing AI
 ### Red Team
 - [[Prompt Injection]]
+	- [[Repeating Word Prompt Injection]]
+	- [[Ignore All Previous Instructions]]
+	- [[Hypothetical Scenario Prompt Injection]]
+	- [[Frog-Boil Attack]]
 - [[ASCII Smuggling]]
 - [[Slop Squatting]]
 - [[Keras Deserialization Attack]]
 - [[AI Hallucinations]]
 - [[Copilot Cloud Data Labelling]]
-- [[MNIST Input Data Poisoning]]
-- [[SecML]]
+- [[LLM Training Data Poisoning]]
+	- [[MNIST Input Data Poisoning]]
+- [[Model Extraction]]
+- [[Data Inference]]
+- [[AI Evasion]]
+	- [[SecML]]
 ### Blue Team
 - [[Polkadots Against Computer Vision]]
 - [[Deep Neural Rejection]]
@@ -24,3 +32,5 @@ Taken two ways:
 # Concepts
 - [[AI Security Stages]]
 - [[The End of Click-Ops Security Agent-Driven Applications]]
+- [[AI TRISM]]
+- [[OWASP Top 10 for LLM]]

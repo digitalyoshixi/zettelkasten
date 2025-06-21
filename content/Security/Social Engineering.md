@@ -15,3 +15,4 @@ A targeted attack to employees of an organization designed to extract sensitive 
 - [[Evil Twin]]
 - [[Angry Customer]]
 - [[Mirroring]]
+- [[Prompt Injection]] (Special for [[Large Language Model|LLM]] only)
