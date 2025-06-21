@@ -16,6 +16,8 @@ npx prisma
 ```
 npx prisma init --db --output ../generated/prisma
 ```
+Save the database string it provides, and modify the [[Prisma Schema]] file accordingly
+
 ### Migration
 ```
 npx prisma migrate dev
