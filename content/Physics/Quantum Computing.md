@@ -16,6 +16,7 @@ These are computers based off [[Quantum Mechanics]]. They are often [[Stochastic
 - [[Quantum Parallelism]]
 - [[Quantum Interference]]
 - [[Quantum Entanglement]]
+- [[Quantum Simulation]]
 ### Issues
 - [[Decoherence]]
 ### Implementations
