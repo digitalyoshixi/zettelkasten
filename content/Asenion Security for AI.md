@@ -6,7 +6,7 @@ tags:
 This is a talk by David Van Bruwaene.
 # Notes
 - [[Isaac Asimov]]'s [[I Robot]] believed that AI will have intelligence, meaning it will do things, but we dont know exactly what it will do
-- We dont have much control over these autonamous sys
+- We dont have much control over these autonamous systems
 - In [[I Robot]], there is a central control over the robot, that governs [[Three Laws of Robotics]]
 - They create a AI that evaluates compliance of other agents (Agent as a judge)
 - [[AI Regulations]] have been implemented within
@@ -14,5 +14,20 @@ This is a talk by David Van Bruwaene.
 - Chatbots recommend suicide
 - Classifiers that give racist recommendations to prisoners sentences. Trained off of racist data, so it has a data bias.
 - In the story [[I Robot]], the robots lock humans up
-- Data inference to determine the private data present within training datasets by itnerrogating model outputs
+- Data inference to determine the private data present within training datasets by interrogating model outputs
 - Model extraction (Learn or steal a model by training a new model on sample inputs)
+- They use adversarial testing to check for certain detections
+- Legal skills are very good for coding surprisingly
+- Humans need to be able to decide, and have reasoning. This is where humans will remain on top
+- You will have standardized test results from these benchmarks
+- There are certain benchmarks for certain biases within models (how many black, how many chinese for image generation)
+- Testing aligning is to just tell the model, that it is not in a sandbox.
+- Probes are used to test specific categories
+- Ascenion has a python SDK to work within a [[Continuous Integration Continuous Deployment|CICD]] pipeline
+- If you know its not a secure system, dont trust to secure it
+- Use cheap regex guards first
+- Probes are categorized for specific attacks, these are usually categories gotten from [[OWASP Top 10 for LLM]], other security vulns
+- Probes also include evaluation criteria, they look for a target goal, that the model has to aim for
+- How do we test probing models? We use human-generated test sets that will generalize and standardize evaluations
+- Evaluation attack, you can use [[Mechanistic Interpretability]], to see what circuits in the model are learning specific contexts. 
+- The field is 3yrs old, it is growing fast, super fast

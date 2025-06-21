@@ -32,5 +32,6 @@ Taken two ways:
 # Concepts
 - [[AI Security Stages]]
 - [[The End of Click-Ops Security Agent-Driven Applications]]
+- [[Asenion Security for AI]]
 - [[AI TRISM]]
 - [[OWASP Top 10 for LLM]]
