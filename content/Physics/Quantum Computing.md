@@ -4,7 +4,7 @@ tags:
 ---
 These are computers based off [[Quantum Mechanics]]. They are often [[Stochastic Algorithm|Stochastic Algorithms]], used for:
 - [[Post-Quantum Cryptography]]
-- [[Quantum Trading]]
+- [[Quantum Bitcoin]]
 - [[Quantum Machine Learning]]
 - [[Quantum Chemistry]]
 # Concepts
