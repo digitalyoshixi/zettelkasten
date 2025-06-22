@@ -1,8 +1,0 @@
----
-tags:
-  - python
----
-# Boilerplate
-```
-
-```
