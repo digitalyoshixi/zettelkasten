@@ -28,3 +28,12 @@ aliases:
 - [[JUnit]]
 - [[Maven]]
 - [[Eclipse]]
+### Week 6
+- [[Software Development Life Cycle|SDLC]]
+- [[Waterfall]]
+- [[Agile]]
+### Week 7
+- [[Android SDK]]
+### Week 8
+- [[Non-Functional Software Requirements]]
+- [[SOLID]]

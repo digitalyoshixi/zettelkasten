@@ -14,6 +14,15 @@ https://developer.android.com/studio
 - [[Android Screen]]
 - [[Android View]]
 - [[Manifest]]
+- [[Android Resource Files]]
+- [[Gradle]]
+- [[Model-View-Presenter]]
+### Testing
+- [[JUnit]]
+- [[Mockito]]
+- [[Espresso]]
+- [[Roboelectric]]
+- [[Mock Objects]]
 ### Debugging
 - [[Android Debug Bridge|adb]]
 - [[Android Virtual Device]]
