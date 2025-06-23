@@ -13,6 +13,8 @@ Git is the method that tracks change of a file overtime
 git config --global user.name "yoshixi"
 git config --global user.email "davidchenyuhe@proton.me"
 ```
+# Concepts
+- [[Git Commit Conventions]]
 # Commands
 ### init
 Creates a .git folder for a completely new repo
