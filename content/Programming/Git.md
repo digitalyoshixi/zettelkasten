@@ -15,6 +15,7 @@ git config --global user.email "davidchenyuhe@proton.me"
 ```
 # Concepts
 - [[Git Commit Conventions]]
+- [[Git Branching Conventions]]
 # Commands
 ### init
 Creates a .git folder for a completely new repo

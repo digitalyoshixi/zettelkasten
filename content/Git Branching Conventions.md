@@ -5,4 +5,4 @@ tags:
 ---
 # Naming Conventions
 - `feat/featurebranch` : For a new feature branch
-- `test/featurebranch` : For testing a non-working branch
+- `test/featurebranch` : For testing a feature branch

@@ -3,11 +3,11 @@ tags:
   - software
 ---
 A [[Agile]] methodology.
-Involves assigning a scrum leader to organize scrum sessions.
+Involves planning just enough to make a mini feature called a sprint.
 ![[Scrum-20250623200314286.webp]]
-# Roles
-### Product Owner
-- Responsible for delivering requirements and accepting demos
-- Involved in planning session
-### Scrum Master
-- Responsible for removing impediments
+# Concepts
+- [[Scrum Roles]]
+- [[Scrum Sprint]]
+- [[Scrum User Stories]]
+- [[Scrum Planning Session]]
+- [[Scrum Standup Meeting]]
