@@ -12,3 +12,4 @@ A mobile operating system based off [[Linux]].
 - [[Android Rooting]]
 - [[Android Developer Mode]]
 - [[Sideloading]]
+- [[Android SDK|Android Studio]]

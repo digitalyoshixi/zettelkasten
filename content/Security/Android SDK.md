@@ -6,9 +6,15 @@ tags:
 aliases:
   - Android Studio
 ---
-The app for running and testing APK files.
+The [[Software Development Kit|SDK]] for running and testing APK files.
 https://developer.android.com/studio
 # Concepts
+### Development
+- [[Android App]]
+- [[Android Screen]]
+- [[Android View]]
+- [[Manifest]]
+### Debugging
 - [[Android Debug Bridge|adb]]
 - [[Android Virtual Device]]
 - [[Rooting Emulated Android Device]]
