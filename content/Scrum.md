@@ -11,3 +11,4 @@ Involves planning just enough to make a mini feature called a sprint.
 - [[Scrum User Stories]]
 - [[Scrum Planning Session]]
 - [[Scrum Standup Meeting]]
+- [[Scrum Agreement]]
