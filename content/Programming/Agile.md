@@ -1,10 +1,12 @@
 ---
 tags:
   - business
+  - software
 aliases:
-  - Scrum
 ---
-A product management framework for software development.
-# Scrum Workflow
-![[Agile-20241212160049484.webp]]
-# Roles
+A [[Software Development Life Cycle|SDLC]] framework that incentivises frequent and short meetings.
+# Methodologies
+- [[Extreme Programming|XP]]
+- [[Scrum]]
+- [[Test-driven Development|TDD]]
+- [[Feature Driven Development|FDD]]
