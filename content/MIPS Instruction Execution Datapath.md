@@ -1,0 +1,7 @@
+---
+tags:
+  - programming
+  - hardware
+---
+This is the process of how mips assembly instructions are executed.
+![[MIPS Instruction Execution Datapath-20250624154448065.webp]]

@@ -78,3 +78,6 @@ aliases:
 	- [[DRAM Cell]]
 - [[Tri-state Buffer Gate]]
 - [[Memory Hierarchy as Food]]
+- [[Program Counter Register]]
+- [[Opcode]]
+- [[MIPS Instruction Types]]
