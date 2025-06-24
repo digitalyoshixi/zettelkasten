@@ -80,4 +80,4 @@ aliases:
 - [[Memory Hierarchy as Food]]
 - [[Program Counter Register]]
 - [[Opcode]]
-- [[MIPS Instruction Types]]
+- [[Microprocessor Without Interlocked Pipelined Stages Assembly|MIPS Assembly]]

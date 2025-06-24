@@ -2,4 +2,4 @@
 tags:
   - programming
 ---
-A CPU optimization
+A CPU optimization technique.
