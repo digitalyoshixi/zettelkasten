@@ -10,4 +10,5 @@ This is a digital device that has:
 		- With [[Arithmetic Logic Unit|ALU]]
 		- [[Finite State Automata|FSM]] to control process
 - [[Control Unit]]
+- [[Storage Unit]]
 # 

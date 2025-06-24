@@ -69,3 +69,10 @@ aliases:
 ### Week 6
 - [[Microprocessor]]
 - [[Microprocessor Without Interlocked Pipelined Stages|MIPS]]
+### Week 7
+- [[Central Processing Unit|CPU]]
+- [[Storage Unit]]
+- [[Register File]]
+- [[Main Memory]]
+	- [[SRAM Cell]]
+	- [[DRAM Cell]]
