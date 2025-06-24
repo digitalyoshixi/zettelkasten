@@ -12,3 +12,4 @@ tags:
 - [[Not]]
 - [[XNOR]]
 - [[Identity Gate]]
+- [[Tri-state Buffer Gate]]

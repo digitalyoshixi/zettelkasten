@@ -76,3 +76,5 @@ aliases:
 - [[Main Memory]]
 	- [[SRAM Cell]]
 	- [[DRAM Cell]]
+- [[Tri-state Buffer Gate]]
+- [[Memory Hierarchy as Food]]
