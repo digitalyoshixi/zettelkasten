@@ -6,3 +6,5 @@ Decompilation, disassembling and debugging tool for a variety of different file 
 # Techniques
 - [[IDA View Pseudocode]]
 - [[IDA Run Script]]
+# Concepts
+- [[IDA Database]]
