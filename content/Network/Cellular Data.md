@@ -1,7 +1,8 @@
 ---
 tags:
   - networking
-aliases: []
+aliases:
+  - Mobile Data
 ---
 A technology to create [[Wireless Wide Area Network|WWANs]] through radio frequencies by cell towers.
 # Data Roaming
