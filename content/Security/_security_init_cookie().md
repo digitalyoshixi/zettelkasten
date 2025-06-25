@@ -2,7 +2,7 @@
 tags:
   - c
 ---
-rhttps://learn.microsoft.com/en-us/cpp/c-runtime-library/reference/security-init-cookie?view=msvc-170
+https://learn.microsoft.com/en-us/cpp/c-runtime-library/reference/security-init-cookie?view=msvc-170
 
 You can just skip this one.
 

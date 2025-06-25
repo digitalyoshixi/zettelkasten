@@ -33,6 +33,7 @@ $\det(A^{-1}) = \frac{1}{\det(A)}$
 - [[Determinants and Invertiblity Theorem]]
 - [[Determinants and Row Operations]]
 - [[Recursive Formula for Determinant]]
+- [[Determinants and Eigenvalues]]
 # Concepts
 - [[Diagonal Matrices]]
 - [[Determinant of 1x1 Matrix]]
