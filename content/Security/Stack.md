@@ -12,8 +12,13 @@ Organized memory where program data resides. Stores:
 - Local variables of the active function
 - Return address pointer
 - Local variables of the caller function and its caller function, so on so forth
-# C Boilerplate Stack Representation
+# Stack Representations
+### C Initial Program Run Stack
 ![[Stack-20250126163956105.webp]]
+### Function Stack
+![[Drawing 2025-06-24 20.46.23.excalidraw]]
+- Oftentimes, the return address is 4 bytes, so 4 bytes of junk are used as padding
 # Concepts
 - [[Last in First Out|LIFO]]
 - [[Stack Frame]]
+- [[Python2 for Crafting Payloads]]
