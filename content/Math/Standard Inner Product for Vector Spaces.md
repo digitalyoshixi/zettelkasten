@@ -11,7 +11,7 @@ aliases:
 3. An inner product $\langle \cdot , \cdot \rangle : V \times V \to \mathbb{F}$ has properties
 	1. $\langle \alpha + \beta | \gamma \rangle = \langle \alpha + \beta \rangle + \langle \beta + \gamma \rangle$
 	2. $\langle c \alpha | \beta \rangle = c \langle a | \beta \rangle$
-	3. $\langle \alpha | \alpha \rangle = \overline{\langle \alpha | \beta \rangle}$
+	3. $\langle \beta | \alpha \rangle = {\langle \alpha | \beta \rangle}$
 	4. $\langle \alpha | \alpha \rangle > 0$ if $\alpha \neq 0$
 # Example
 With $\alpha = (x_{1},\dots,x_{n})$
