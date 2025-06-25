@@ -3,7 +3,7 @@ tags:
   - math
   - linalg
 aliases:
-  - Complex Linear Functionals can be defined as a vectorr
+  - Complex Linear Functionals can be defined as a vector
 ---
 Every [[Linear Functional]] on $\mathbb{C}^{n}$ or $\mathbb{R}^{n}$ is of the form of a [[Standard Inner Product Function]]. 
 # Theorem

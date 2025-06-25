@@ -27,4 +27,6 @@ Note that the inner product is linear in the sense that $\langle u, av = bw \ran
 - [[Inner Products Define Angles Theorem]]
 - [[Orthoganality Theorem]]
 - [[Standard Inner Product Function]]
+- [[Matrix Representation of Inner Product]]
+- [[Inner Products Define a Norm]]
 - [[Riesz Representation Theorem]]
