@@ -66,7 +66,7 @@ aliases:
 ### Week 4
 - [[Change of Basis]]
 - [[Linear Functional]]
-- [[Orthogonal Set]]
+- [[Perpendicular Set]]
 - [[Standard Inner Product]]
 	- [[Standard Inner Product for Complex Numbers]]
 	- [[Standard Inner Product for Real Numbers]]
@@ -96,3 +96,7 @@ aliases:
 - [[Function that Recovers the Inner Product]]
 - [[Inner Product Spaces]]
 ### Week 7
+- [[Generalized Pythagorean Theorem]]
+- [[Perpendicular Set]]
+- [[Orthogonal Set]]
+- [[Orthonormal Set]]

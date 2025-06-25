@@ -4,7 +4,6 @@ tags:
   - math
 aliases:
   - Bot Operation
-  - Perpendicular Set
 banner:
 ---
 # Definition
