@@ -11,6 +11,7 @@ aliases:
 # Process
 1. If your golang binary was stripped, use [[Redress]]
 2. [[Delve]] is a debugger that works well with goroutines
+3. [[GoReSym]] is a golang symbol recovery tool
 # Concepts
 - [[Golang Main Function]]
 - [[Golang Function Call Procedure]]
