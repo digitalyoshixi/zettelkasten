@@ -12,7 +12,6 @@ I aim to make this obsidian vault bloated asf
 - [[Linear Algebra 2]]
 - [[Computer Organization]]
 - [[CSCB07]]
-- [[Linguistics]]
 # Current Learning
 - [[FPGA Project]]
 - [[Compiler]]

@@ -2,6 +2,7 @@
 tags:
   - security
 ---
+A talk hosted on TASK
 # Notes:
 - Your [[Network Interface Card]] is a computer. 
 - The issue is with [[Peripheral Component Interconnect Express|PCIe]] direct memory aces. can directly write to [[Random Access Memory|RAM]]
