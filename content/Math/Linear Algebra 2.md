@@ -91,7 +91,7 @@ aliases:
 - [[Transform Norm]]
 - [[Matrix Norm]]
 - [[Standard Inner Product]]
-- [[Standard Inner Product for Vector Spaces|Inner Product]]
+- [[Standard Inner Product for Vector Spaces]]
 - [[Inner Products Define a Norm]]
 - [[Function that Recovers the Inner Product]]
 - [[Inner Product Space]]
