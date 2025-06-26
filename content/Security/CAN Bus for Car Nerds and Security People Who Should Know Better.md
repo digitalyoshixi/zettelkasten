@@ -2,7 +2,7 @@
 tags:
   - security
 ---
-A talk on TASk
+A talk on TASK
 # Notes
 - The CAN Bus is not segregated from other buses. If you send any message, it will trigger other components in the car.
 	- Vehicle unlock
