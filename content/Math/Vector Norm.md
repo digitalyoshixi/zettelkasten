@@ -12,5 +12,6 @@ tags:
 	2. $| | v | | = \Longleftrightarrow v = 0$ (Zero $\Longleftrightarrow v = 0$)
 	3. $| | \lambda v | | = |\lambda| * | | v | |$ ([[Distributive]] with scaling)
 	4. $| | v + w | | \leq | | v | | + | | w | |$ ([[Triangle Inequality]])
-# Common Forms
-$$|| v|| = \sqrt{ v_{1}^{2} + \dots + v_{n}^{2} }$$
+# Implementations
+- [[Euclidean Norm]]
+- [[Lebesgue Norm]]

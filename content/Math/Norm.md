@@ -23,7 +23,6 @@ With $\mathcal{D}$ as an [[Integral Domain]] or [[Field]]
 - [[Absolute Function for Real Numbers]]
 - [[Complex Number Modulus|Absolute Function for Complex Numbers]]
 - [[Trivial Absolute Value|Absolute Value for Finite Field]]
-	- [[Hamming Distance]]
 - [[Absolute Function for Polynomials]]
 # Theorems
 - [[Absolute Value of Multiplicative Identity is 1]]

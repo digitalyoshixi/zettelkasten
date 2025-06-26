@@ -5,11 +5,11 @@ tags:
 aliases:
   - Absolute Function for Finite Fields
 ---
-This is $1$, for a [[Finite Field]],
+# Norm Function
 $$
-| \cdot | = \begin{cases} 
-          \pm 1 & k \text{ is even} \\
-          1 & k \text{ is odd}
+| x | = \begin{cases} 
+          1 & x \neq 0 \\
+          0 & x = 0
        \end{cases}
 $$
 For $y^{k}$ in [[Finite Field]]

@@ -18,5 +18,6 @@ $d(x,y) = |x-y|$ From [[Absolute Value Functions Induce a Metric Theorem]]
 - [[Euclidean Metric]]
 - [[Euclidean Metric for Finite Fields]]
 - [[Metric for Integer modulo n]]
+	- [[Hamming Distance]]
 # Theorems
 - [[Absolute Value Functions Induce a Metric Theorem]]
