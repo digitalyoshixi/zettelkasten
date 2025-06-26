@@ -2,5 +2,9 @@
 tags:
   - meta
 ---
+- [ ] Enrolling in B43
+- [ ] See if you can take more downtown courses so you can hang out at Queer Hackerspace More frequently
+- [ ] Midterms
+- [ ] AI Safety hackathon project
 - [ ] [[CSEC Esolang Seminar]]
-- [ ] UoftCTF Reversing Seminar
+- [ ] UoftCTF Intro to CTFs Seminars
