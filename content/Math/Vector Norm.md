@@ -13,5 +13,6 @@ tags:
 	3. $| | \lambda v | | = |\lambda| * | | v | |$ ([[Distributive]] with scaling)
 	4. $| | v + w | | \leq | | v | | + | | w | |$ ([[Triangle Inequality]])
 # Implementations
-- [[Euclidean Norm]]
+- [[Real Number Vector Norm]]
+- [[Complex Number Vector Norm]]
 - [[Lebesgue Norm]]

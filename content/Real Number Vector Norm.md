@@ -2,6 +2,8 @@
 tags:
   - math
   - linalg
+aliases:
+  - Euclidean Real Vector Norm
 ---
 A [[Vector Norm]] for [[Real Number|Real Numbers]].
 # Norm
