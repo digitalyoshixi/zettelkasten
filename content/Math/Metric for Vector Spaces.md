@@ -2,6 +2,8 @@
 tags:
   - math
   - linalg
+aliases:
+  - Vector Metric
 ---
 # Definition
 - With $B$ as a [[Vector Space]]

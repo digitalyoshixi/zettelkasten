@@ -2,6 +2,8 @@
 tags:
   - math
   - linalg
+aliases:
+  - Complex Number Metric
 ---
 # Definition
 - With $x_{1}, x_{2} \in \mathbb{C}$

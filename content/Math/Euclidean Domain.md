@@ -10,4 +10,4 @@ This is a [[Integral Domain]] with a divisor algorithm. That is:
 	1. $\forall a,b \in \mathbb{R}, b \neq 0, \exists q,r \in \mathcal{D}$ s.t $a = bq+r$
 	2. $a,b \neq 0 \implies N(a) \leq N(ab)$ 
 # Concepts
-- [[Euclidean Metric]]
+- [[Euclidean Metric for Complex Numbers]]

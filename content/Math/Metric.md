@@ -16,7 +16,8 @@ You can define a metric for [[Number Theory|Number Sets]] that are not [[Field|F
 $d(x,y) = |x-y|$ From [[Absolute Value Functions Induce a Metric Theorem]]
 # Types
 - [[Euclidean Metric]]
-- [[Euclidean Metric for Finite Fields]]
+- [[Euclidean Metric for Complex Numbers]]
+- [[Euclidean Metric for Real Numbers]]
 - [[Metric for Integer modulo n]]
 	- [[Hamming Distance]]
 # Theorems

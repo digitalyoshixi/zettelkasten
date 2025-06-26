@@ -2,6 +2,8 @@
 tags:
   - math
   - linalg
+aliases:
+  - Real Number Metric
 ---
 This metric **cannot** be induced by [[Absolute Value Functions Induce a Metric Theorem]].
 # Operation
