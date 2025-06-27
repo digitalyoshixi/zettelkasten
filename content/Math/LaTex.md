@@ -39,7 +39,7 @@ a & b  & 0\\
 c & d & 0\\
 \end{array}\right]
 $$
-### [[Vectors]]
+### [[Vector]]
 $$
 \left[\begin{array}{ccc}
 a_{11} & \dots & a_{1n} \\

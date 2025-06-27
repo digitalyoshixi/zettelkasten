@@ -3,7 +3,7 @@ tags:
   - math
   - linalg
 ---
-If $u, v$ are non-zero [[Vectors]] in $\mathbb{R}^{n}$
+If $u, v$ are non-zero [[Vector]] in $\mathbb{R}^{n}$
 Then, the angle $\theta$ between $u,v$ satisfies:
 $$\cos(\theta) = \frac{\langle u,v \rangle}{\mid\mid u\mid\mid \mid\mid v\mid\mid}$$
 

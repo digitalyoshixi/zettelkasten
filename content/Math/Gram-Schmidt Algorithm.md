@@ -33,3 +33,9 @@ Using [[Proof by Strong Induction|Strong Induction]]
 2. Then, $\langle\alpha_{2} | \alpha_{1}\rangle = \left\langle \beta_{2} - \frac{\langle \beta_{2} - \alpha_{1} \rangle}{\langle \alpha_{1} | \alpha_{1} \rangle} * \alpha_{1}| \alpha_{1} \right\rangle$
 3. $= \langle \beta_{2} | \alpha_{1} \rangle - \frac{\langle\beta_{2} | \alpha_{1} \rangle}{\langle\alpha_{1} | \alpha_{1} \rangle} \cdot \langle\alpha_{1} | \alpha_{1}\rangle$
 4. $= 0$
+### $n+1$ case
+1. Assume the set $\{ \alpha_{1},\dots,\alpha_{n} \}$ is [[Orthogonal Set]]
+2. Then, this means $\langle \alpha_{i} | \alpha_{j} \rangle = 0, \forall i \neq j \in \{ 1,\dots,n \}$
+3. Consider $\langle \alpha_{n+1} | \alpha_{k} \rangle$ where $k \in \{ 1,\dots,n \}$
+4. $\langle \alpha_{n+1} | \alpha_{k} \rangle = \langle \beta_{n+1} - \sum_{i=1}^{n} \frac{ \langle \beta_{n+1} | \alpha_{i} \rangle}{ \langle\alpha_{i} | \alpha_{i} \rangle} \cdot \alpha_{i} | \alpha_{k} \rangle$
+5. $= \langle \beta_{n+1} | \alpha_{k} - \rangle - \sum_{i=1}^{n} \frac{ \langle\beta_{n+1} | \alpha_{i} \rangle}{ \langle \alpha_{i} | \alpha_{k} \rangle} \langle\alpha_{i} | \alpha_{k}\rangle - \frac{ \langle \beta_{n+1} | \alpha_{k}}{ \langle \alpha_{k} | \alpha_{k} \rangle} \langle \alpha_{k} | \alpha_{k} \rangle - \sum_{i=1}^{n} \frac{\langle\beta _{n+1} | \alpha_{i} \rangle}{ \langle \alpha_{i} | \alpha_{i} \rangle} \langle\alpha_{i} | \alpha_{k} \rangle$
