@@ -6,6 +6,12 @@ aliases:
   - MI
 ---
 This is a safety theory that involves reverse engineering models to find the inner circuits that determine what algorithm a [[Neural Network|Neural Net]] is replicating.
+Not to be confused with [[Explainable Machine Learning]]
 # Concepts
-- [[Revealing Computational Graphs in Language Models]]
 - [[Spare Autoencoder|SAE]]
+- [[Linear Representation]]
+- [[Node Superposition]]
+- [[Probe]]
+- [[Different In Means]]
+# Papers
+- [[Revealing Computational Graphs in Language Models]]
