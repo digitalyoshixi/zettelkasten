@@ -20,6 +20,7 @@ aliases:
 - 80% (1-2hrs per week) understanding what is presented
 - Late submission policy after 4 days
 - [[Gram-Schmidt Algorithm]] will be about 8% of your midterm grade
+- 30-40% of the assesments will be using the definitions, prove these basic properties...
 # Concepts
 ### Week 0.1
 - [[Field]]
@@ -106,4 +107,6 @@ aliases:
 - [[Orthogonal Sets to Find Coordinates]]
 - [[Matrix Representations of Linear transform with Respect to Orthonormal Basis]]
 - [[Gram-Schmidt Algorithm]]
+- [[Best Approximation]]
 - [[Orthogonal Projection]]
+- [[Orthogonal Complement]]
