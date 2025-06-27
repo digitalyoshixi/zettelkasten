@@ -90,7 +90,7 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - [[Gauss Jordan Algorithm for Finding Inverses]]
 ### Determinants
 - [[Alternating]]
-- [[Multilinear]]
+- [[Multilinear Map]]
 - [[Determinant]]
 - [[Diagonal Matrices]]
 - [[Minors]]
