@@ -5,11 +5,12 @@ tags:
 aliases:
   - Neural Net
 ---
+A neural network is a [[Stochastic Algorithm|Probabilistic Algorithm]] created by [[Differentiable Programming]] comprised of nodes with weights and biases generated.
+# Types
+- [[Recurrent Neural Networks]]
+- [[Convoluted Neural Network]]
 # Theory
 A neural network consists of multiple layers of neurons.
-
-![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2ivlf_tmp_6814aae2bc5d3614.png)
-
 - First layer is called the input layer for the training and testing data
 - Last layer is the output layer, what we expect as the output: a number a classification, prediction, and more
 - Layers in between are hidden layers that add complexity and sophistication to the model

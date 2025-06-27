@@ -2,4 +2,7 @@
 tags:
   - ai_safety
 ---
-This is a safety theory that involves finding the inner circuits that determine how AI learns.
+This is a safety theory that involves reverse engineering models to find the inner circuits that determine how AI learns.
+# Concepts
+- [[Revealing Computational Graphs in Language Models]]
+- [[]]
