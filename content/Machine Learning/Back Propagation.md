@@ -2,7 +2,7 @@
 tags:
   - machine_learning
 ---
-The method to revise the [[Weights]] and [[Bias|Biases]] of a [[Neural Network|Neural Net]].
+The method to revise the [[Weights]] and [[Machine Learning/Bias|Biases]] of a [[Neural Network|Neural Net]].
 Back propogation is performed uniformly from all input types so that one category does not affect the weights/biases too much.
 # Process
 1. Find the expected activation for each neuron, compared to the actual activation, and store the value of the difference.

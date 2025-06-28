@@ -14,7 +14,7 @@ Where:
 - $n_{1},\dots,n_{k}$ are all the previous neurons in the last [[Layer]]
 - $w_{1},\dots,w_{k}$ are [[Weights]]
 - $f(\cdot)$ is the [[Activation Function]]
-- $B$ is the [[Bias]]
+- $B$ is the [[Machine Learning/Bias]]
 # Example
 ![[Neuron-20250628010813725.webp|272]]
 For a given image, a neuron could represent a single pixel's light. Then, [[Layer|Layers]] could be used to represent each row of pixels in the neural network.

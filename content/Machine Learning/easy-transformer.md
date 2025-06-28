@@ -3,7 +3,7 @@ tags:
   - python
   - machine_learning
 ---
-This is a python library used to make [[Transformer]].
+This is a python library used to make [[Machine Learning/Transformer]].
 # Installation
 ```
 pip install git+https://github.com/redwoodresearch/Easy-Transformer.git
