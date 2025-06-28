@@ -4,4 +4,6 @@ tags:
 aliases:
   - CNN
 ---
-A [[Neural Network]] that is comprised of several convoluted layers with varying [[Activation Function|Activation Functions]] and sizes.
+A [[Neural Network]] that is comprised of several:
+- [[Convoluted Layer]]
+Often better used for models working with images.

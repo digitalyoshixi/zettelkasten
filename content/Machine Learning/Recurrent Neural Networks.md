@@ -4,4 +4,7 @@ tags:
 aliases:
   - RNN
 ---
-These are [[Neural Network|Neural Nets]]
+These are [[Neural Network|Neural Nets]] designed to use:
+- [[Recurrent Layer]]
+- [[Attention Layer]]
+For textual models.

@@ -8,3 +8,4 @@ Machine learning is the process of training an adaptable algorithm from a set of
 - [[Unsupervised Learning]]
 - [[Reinforcement Learning]]
 - [[Self Supervised Learning]]
+- [[Semi Supervised Learning]]
