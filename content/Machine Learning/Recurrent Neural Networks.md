@@ -4,3 +4,4 @@ tags:
 aliases:
   - RNN
 ---
+These are [[Neural Network|Neural Nets]]

@@ -26,7 +26,7 @@ It is pretty much Experimental [[Probability]]
 
 # Sampling
 - [[Sampling Techniques]]
-- [[Biases]]
+- [[Math/Biases]]
 # Experiments
 - [[Types of Experiments]]
 - [[Experimental Study Prerequisites]]

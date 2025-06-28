@@ -10,77 +10,23 @@ A neural network is a [[Stochastic Algorithm|Probabilistic Algorithm]] created b
 - [[Recurrent Neural Networks]]
 - [[Convoluted Neural Network]]
 # Theory
-A neural network consists of multiple layers of neurons.
-- First layer is called the input layer for the training and testing data
-- Last layer is the output layer, what we expect as the output: a number a classification, prediction, and more
-- Layers in between are hidden layers that add complexity and sophistication to the model
+![[Neural Network-20250628005102541.webp]]
+A neural network consists of [[Layer|Layers]] of [[Neuron|Neurons]] that are activated depending on their [[Activation Function]] and the total input value calculated by the [[Weights]],[[Biases]] of previous input layers. 
+This process is repeated until we compute the output neurons in the final layer for practical use.
+Weights and Biases are later refined during [[Gradient Descent]] by [[Back Propagation]] in the training phase.
+# Concepts
+- [[Neuron]]
+- [[Layer]]
+- [[Activation Function]]
+- [[Math/Biases]]
+- [[Weights]]
+- [[Loss Function]]
+- [[Gradient Descent]]
+- [[Back Propagation]]
 
-the network part is that every neuron of one layer is connected to every neuron of the other layer.
 
-![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2ivlf_tmp_5319e1a7191b0709.png)
 
-so in this case every neuron of the input layer is connected to every neuron in the second layer
 
-![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2ivlf_tmp_541c3d49277f52ce.png)
-
-  
-
-You can think of the hidden layers as random in the beginning.
-
-![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2ivlf_tmp_6ca91024e622b072.png)
-
-no real functionality
-
-![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2ivlf_tmp_996df6dc82c4c892.png)
-
-if we have a supervised model, we have our input as the training data and our output as the training classification
-
-say we have a neural network that takes handwritten digits. The out layer would have 10 neurons since there can be 10 possible digits. If say the input we had was an image that represented the digit 8, and the output had the neuron for digit 2 be the one most activated, we would need to rework the hidden middle layers in between.
-
-Also if say we gave it an input of a 28px*28px image(784 pixels in total), we would be giving the input layer 784 neurons.
-
-![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2ivlf_tmp_ca774cf6e1c994a8.png)
-
-### Neurons
-
-Every neuron has a certain input. It can be training data, testing data from the input layer or an output from a previous neuron.
-
-![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2ivlf_tmp_8cfdfd33a287f2f1.png)
-
-every neuron has an activation function which takes input and according to the input, increments the activation value of the neuron/ the neuron’s brightness. Say if the neuron inputted 1, we increase the activation value by 0.9
-
-every neuron as long as its not in the output layer as an output. They output to the input of every neuron on the other layer.
-
-![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2ivlf_tmp_925d512b9198b66.png)
-
-During the output though, the transfer will have a weight saying how important is this neuron’s output to the other neuron?
-
-![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2ivlf_tmp_56b85e4aa56e0ddf.png)
-
-for some neurons the weight is high. Very important for this neuron.
-
-For some, the weight is nothing, this neuron is very useless for this neuron.
-
-![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2ivlf_tmp_b6d8080b9d7231fc.png)
-
-when we keep feeding data to the network, it trys to adjust these weights in order to make the model better. On an incorrect result on the output layer, it feeds back the info of this wrong result to adjust the weights so the next prediciton will be more accurate.
-
-  
-
-### Activation functions
-
-A few possible activation functions include:
-
-**softmax:** usually used in the last layer output layer. scales the layer down to 1 so that every neuron is a percentage out of 100%.  
-**sigmoid:** turn every value into a value between 0 and 1. -8000 could be 0.0000001, 9000000 could be 0.9999999
-
-**ReLU(rectified linear unit):** if the value is negative, then it is 0. if the value is positive, then we don’t change it
-
-  
-
-### Gradient descent
-
-This is the algorithm that allows our neural network to be optimized. During the neural network execution, it will shift the weights, the biases of the neurons.
 
 Say we have our number reading model again that is fed an 28x28 image with pixels of the 255 color scale.
 

@@ -10,7 +10,7 @@ Not to be confused with [[Explainable Machine Learning]]
 # Concepts
 - [[Spare Autoencoder|SAE]]
 - [[Linear Representation]]
-- [[Node Superposition]]
+- [[Neuron Superposition]]
 - [[Probe]]
 - [[Different In Means]]
 # Papers

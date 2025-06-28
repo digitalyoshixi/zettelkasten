@@ -2,6 +2,8 @@
 tags:
   - python
   - machine_learning
+aliases:
+  - Encoder
 ---
 # Types
 - [[Binary Encoding]]
