@@ -4,7 +4,7 @@ tags:
   - data_science
 aliases:
   - Neural Net
-  - Feet Forward Neural Network
+  - Feed Forward Neural Network
 ---
 A neural network is a [[Stochastic Algorithm|Probabilistic Algorithm]] created by [[Differentiable Programming]] comprised of nodes with weights and biases generated.
 # Types

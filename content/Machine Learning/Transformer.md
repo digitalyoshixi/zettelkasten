@@ -4,8 +4,11 @@ tags:
 ---
 These are [[Statistical Model|Models]] that exist to take an input token, and generate a distribution of output tokens that can be repeatedly sampled to continue generation.
 # Structure
-1. The [[Feature Encoding|Encoder]] will distill the input into its essential features
-2. The input is interpreted as a sequence that attempts to generate the next few tokens. 
-3. The model has attention which will be able to view the sequence at previous positions to assist in its generation.
-4. The token is picked and the model continues through [[Causal Attention]]. This processing will occur in paralell with other sequences in the [[Residual Stream]]
-5. The [[Feature Decoder|Decoder]] will expand the outputs into generative data
+![[Transformer-20250628151644118.webp]]
+1. Input text is [[Tokenizer|Tokenized]]. Often through [[Byte Pair Encoding|BPE]].
+2. The [[Feature Encoding|Encoder]] will distill the input into its essential features. Often through [[One Hot Encoding]]
+3. The encoded text is [[Text Embeddings|Embedded]] through a [[Look Up Table Matrix]]
+4. The encoded text is sent into the [[Residual Stream]]
+	1. Each layer in the stream is stored as a [[Transformer Block]] (Which includes an [[Attention Layer]], )
+5. The token is picked and the model continues through [[Causal Attention]]. This processing will occur in paralell with other sequences
+6. The [[Feature Decoder|Decoder]] will expand the outputs into generative data
