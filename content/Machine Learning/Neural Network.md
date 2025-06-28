@@ -11,9 +11,9 @@ A neural network is a [[Stochastic Algorithm|Probabilistic Algorithm]] created b
 - [[Convoluted Neural Network]]
 # Theory
 ![[Neural Network-20250628005102541.webp]]
-A neural network consists of [[Layer|Layers]] of [[Neuron|Neurons]] that are activated depending on their [[Activation Function]] and the total input value calculated by the [[Weights]],[[Biases]] of previous input layers. 
+A neural network consists of [[Layer|Layers]] of [[Neuron|Neurons]] that are activated depending on their [[Activation Function]] and the total input value calculated by the [[Weights]],[[Bias]] of previous input layers. 
 This process is repeated until we compute the output neurons in the final layer for practical use.
-Weights and Biases are later refined during [[Gradient Descent]] by [[Back Propagation]] in the training phase.
+Weights and Biases are later refined during [[Gradient Descent]] by [[Math/Back Propagation]] in the training phase.
 # Concepts
 - [[Neuron]]
 - [[Layer]]
@@ -28,37 +28,7 @@ Weights and Biases are later refined during [[Gradient Descent]] by [[Back Propa
 
 
 
-Say we have our number reading model again that is fed an 28x28 image with pixels of the 255 color scale.
-
-![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2ivlf_tmp_a4efe26711019bb7.png)
-
-if we fed it the image of 2, then the idea case is that the output neuron corresponding to 2 would have a value of 1(100%) and the other output neurons to have a value of 0(0%). however, what is most likely the case is that we don’t get 100% and we don’t get the correct majority of the neurons to agree on the right answer.
-
-![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2ivlf_tmp_9584635fda933108.png)
-
-what happens then is we come up with a loss function. The loss function tells us how wrong our model is. Its not the error, the error would be the percentage of misclassifications. The loss function produces a value that tells us how off we were from the desired results. A higher loss value, the worser the model. So our goal is to minimize that lost value.
-
-  
-
-### Loss function
-
-So the loss function requires the weights, biases and the desired outcome and it calculates how wrong we are.
-
-It compares the results of the neural network with the results we should have gotten.
-
-The loss function is a very high dimensional function thousand dimensional probably. This is just a general visualization, however it is not accurate to how the real lost function works.
-
-![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2ivlf_tmp_fb18a60ae26d80a7.png)
-
-our loss value may lie somewhere here. With the black dot. The goal of the black dot is to be at the global cost minimum, where we have the least loss value and the model is most accurate.
-
 So we want to roll down to the bottom. We want to roll down in the direction of the steepest descent. When we take the gradient of the loss funciton, it tells us the direction we need to go to get the highest increase. Just get the negate the gradient, and you will the direction for going down. In higher dimensions, it will be negated on all axis. So we go down a bit, adjust the weights and biases according to that position, and rerun the network.
-
-  
-
-For a loss function that looks like this:
-
-![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2ivlf_tmp_1815e5b119f183b.png)
 
 if we use that technique, we are only getting a local minimum. We are not getting the global minimum. Because of that, we may start randomly on a different coordinate to see what happens. Gradient descent finds the most optimal solution for the local minimum(hopefully it is global)
 
