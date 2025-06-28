@@ -6,7 +6,7 @@ tags:
 These add functionality to [[Quartz]].
 ![[Quartz Plugins-20250530002457288.webp]]
 They transform content as either:
-- [[Transformers]]
+- [[Programming/Transformers]]
 - [[Filters]]
 - [[Emitters]]
 # Adding Plugins

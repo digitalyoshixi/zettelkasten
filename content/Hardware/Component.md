@@ -10,7 +10,7 @@ aliases:
 - [[Resistor]]
 - [[Capacitor]]
 - [[Inductor]]
-- [[Transformer]]
+- [[Physics/Transformer]]
 - [[Diode]]
 - [[Transistor]]
 # Arithmetic
