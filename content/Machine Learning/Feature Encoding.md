@@ -10,3 +10,5 @@ These are algorithms that attempt to reduce input into smaller forms for easier 
 - [[Binary Encoding]]
 - [[Ordinal Encoding]]
 - [[Nominal Encoding]]
+- [[One Hot Encoding]]
+- [[Byte Pair Encoding]]
