@@ -3,10 +3,12 @@ tags:
   - math
   - data_science
   - machine_learning
+aliases:
+  - Normalize
 ---
 [https://www.geeksforgeeks.org/what-is-data-normalization/](https://www.geeksforgeeks.org/what-is-data-normalization/)
 
-part of the preprocessing stage of any problem. It is scaling the data to be analyzed in a specific range to provide better results. Data Normalization disposes of various anomalies that can make an examination of the information more complicated. It also makes data more clustered
+Part of the [[Preprocessing]] stage of any problem. It is scaling the data to be analyzed in a specific range to provide better results. Data Normalization disposes of various anomalies that can make an examination of the information more complicated. It also makes data more clustered
 
 [https://www.youtube.com/watch?v=sxEqtjLC0aM](https://www.youtube.com/watch?v=sxEqtjLC0aM)
 

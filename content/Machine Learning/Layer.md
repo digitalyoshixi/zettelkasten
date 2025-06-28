@@ -10,3 +10,8 @@ These are a collection of [[Neuron|Neurons]] used for different purposes.
 # Layer Activation Notation
 $$a^{n} = f(Wa^{n-1} + b)$$
 ![[Layer-20250628012319851.webp]]
+# Types
+- [[Convoluted Layer]]
+- [[Recurrent Layer]]
+- [[Attention Layer]]
+- [[Multi Layer Perceptron|MLP Layer]]

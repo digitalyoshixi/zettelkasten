@@ -6,6 +6,5 @@ aliases:
 ---
 These are [[Neural Network|Neural Nets]] designed to use:
 - [[Recurrent Layer]]
-- [[Attention Layer]]
 For textual models.
-Able to take a arbitrary set of inputs for training.
+Is able to save the outputs of previous inputs for future use.

@@ -5,7 +5,7 @@ tags:
 ---
 ![[Power System-20250205233950290.webp]]
 Consider:
-- [[Physics/Transformer]]
+- [[Voltage Transformer]]
 - [[Rectifier]]
 - [[Filter]]
 - [[Amplifier]]

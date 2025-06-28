@@ -12,3 +12,11 @@ These are [[Statistical Model|Models]] that exist to take an input token, and ge
 	1. Each layer in the stream is stored as a [[Transformer Block]] (Which includes an [[Attention Layer]], )
 5. The token is picked and the model continues through [[Causal Attention]]. This processing will occur in paralell with other sequences
 6. The [[Feature Decoder|Decoder]] will expand the outputs into generative data
+# Concepts
+- [[Byte Pair Encoding|BPE]]
+- [[Look Up Table Matrix]]
+- [[Transformer Block]]
+- [[Residual Stream]]
+- [[Causal Attention]]
+- [[Autoregressive]]
+- [[Layer Normalization]]
