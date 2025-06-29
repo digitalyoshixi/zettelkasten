@@ -17,6 +17,7 @@ A [[Reduced Instruction Set Compiler|RISC]] [[Microprocessor]] with [[Microproce
 - A [[Binary|Word]] is 2-[[Binary|Bytes]]
 # Concepts
 - [[Microprocessor Without Interlocked Pipelined Stages Assembly|MIPS Assembly]]
+- [[MIPS Syscalls]]
 - [[MIPS Assembly Program]]
 - [[MIPS Instruction Types]]
 - [[MIPS Opcodes]]
