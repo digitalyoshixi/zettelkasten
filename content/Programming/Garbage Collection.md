@@ -4,6 +4,7 @@ tags:
   - memory
 aliases:
   - GC
+  - Tracing Garbage Collection
 ---
 A periodic process that aims to reclaim memory allocated to a program. Its idea is to simplify memory management.
 
