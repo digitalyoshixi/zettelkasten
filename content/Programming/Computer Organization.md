@@ -79,5 +79,5 @@ aliases:
 - [[Tri-state Buffer Gate]]
 - [[Memory Hierarchy as Food]]
 - [[Program Counter Register]]
-- [[Opcode]]
 - [[Microprocessor Without Interlocked Pipelined Stages Assembly|MIPS Assembly]]
+- [[Machine Code|Opcode]]

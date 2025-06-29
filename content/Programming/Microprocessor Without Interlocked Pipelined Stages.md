@@ -15,3 +15,6 @@ A [[Reduced Instruction Set Compiler|RISC]] [[Microprocessor]] with [[Microproce
 - $Z$: Zero flag (1 if zero)
 # Terminilogy
 - A [[Binary|Word]] is 2-[[Binary|Bytes]]
+# Concepts
+- [[Microprocessor Without Interlocked Pipelined Stages Assembly|MIPS Assembly]]
+- [[MIPS Registers]]

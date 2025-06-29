@@ -10,3 +10,4 @@ This is a [[Reduced Instruction Set Compiler|RISC]] instruction set for [[Microp
 - [[MIPS Instruction Types]]
 - [[MIPS Opcodes]]
 - [[MIPS Instruction Execution Datapath]]
+- [[MIPS Registers]]
