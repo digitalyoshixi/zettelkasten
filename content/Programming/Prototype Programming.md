@@ -2,7 +2,8 @@
 tags:
   - programming
 ---
-An [[Object Oriented Programming]] language that focuses on objects as the central concept, removing class definitions entirely.
+A twist on [[Object Oriented Programming]] that removes [[Class]] definitions, and allows [[Object|Objects]] to directly inherit from other objects.
+![[Prototype Programming-20250630195832389.webp|355]]
 # List of Prototype Languages
 - [[JavaScript]]
 - [[Lua]]
