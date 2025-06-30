@@ -28,6 +28,17 @@ Alternatively, you can use automated build tools such as `make` or `build2`, how
 .cpp <- recommended one
 .cc
 .cxx
+# Boilerplate
+- [[C++ Boilerplate]]
+```cpp
+#include <iostream>
+using namespace std;
+int main(int argc, char const *argv[])
+{
+	// your items
+	return 0;
+}
+```
 # Common C++ Problems
 - [[C++ Common C++ Problems]]
 # Nomenclature
@@ -44,7 +55,6 @@ Alternatively, you can use automated build tools such as `make` or `build2`, how
 - [[Always Initialize your Variables]]
 - [[Readability vs Productivity]]
 # Concepts
-- [[C++ Boilerplate]]
 - [[Insertation Operator]]
 - [[Extraction Operator]]
 - [[Exit Codes]]

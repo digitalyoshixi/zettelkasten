@@ -18,5 +18,4 @@ int main(){
 	return 0;
 }
 ```
-
 std::cout is often paired with [[endl|std::endl]]
