@@ -17,6 +17,7 @@ https://developer.android.com/studio
 - [[Android Resource Files]]
 - [[Gradle]]
 - [[Model-View-Presenter]]
+- [[Intent]]
 ### Testing
 - [[JUnit]]
 - [[Mockito]]

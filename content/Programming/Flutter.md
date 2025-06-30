@@ -3,4 +3,9 @@ tags:
   - programming
   - android
 ---
-A [[Android]] development toolkit created by [[Google]].
+A cross-platform mobile application development toolkit created by [[Google]].
+[[AST Transformers|Transpiles]] to:
+- [[Android]]
+- [[iOS]]
+# Concepts
+- [[Dart]]
