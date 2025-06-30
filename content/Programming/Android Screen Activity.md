@@ -2,6 +2,9 @@
 tags:
   - android
   - software
+aliases:
+  - Activity
+  - Android Activity
 ---
 # Activity
 Responsible for user interaction with the screen. Written in [[Java]].

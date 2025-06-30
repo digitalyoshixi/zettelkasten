@@ -2,6 +2,9 @@
 tags:
   - android
   - software
+aliases:
+  - Layout
+  - Android Layout
 ---
 # Layout
 Describes the appearance of the screen written in [[eXtensive Markup Language|XML]].
