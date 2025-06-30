@@ -3,7 +3,8 @@ tags:
   - android
   - software
 aliases:
-  - Android Page
+  - Activity
+  - Android Activity
 ---
 This is a single screen of an [[Android App]]
 Each screen is comprised of a layout and an activity
