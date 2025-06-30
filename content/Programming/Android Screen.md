@@ -9,3 +9,4 @@ Each screen is comprised of a layout and an activity
 # Concepts
 - [[Android Screen Layout]]
 - [[Android Screen Activity]]
+ 
