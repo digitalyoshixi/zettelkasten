@@ -108,6 +108,7 @@ int main(int argc, char const *argv[])
 	- [[C++ Private]]
 	- [[C++ Protected]]
 	- [[C++ Override]]
+- [[C++ Variant]]
 # Specific Functions
 - [[sizeof()]]
 - [[setw]]
