@@ -12,9 +12,10 @@ stringa.equals(stringb)
 Returns a [[Boolean]]
 # Overwritten Equals
 Must satisfy the axioms of [[Equivalence]]:
-- [[Reflexive]]
-- [[Symmetric]]
-- [[Transitive]]
+- [[Reflexive|Reflexivity]] : For any non-null object, `x.equals(x)` is true
+- [[Symmetric]] : For non-null objects `x.equals(y)` $\Longleftrightarrow$ `y.equals(x)`
+- [[Transitive]] : For non-null objects, `x.equals(y)` $\wedge$ `y.equals(z)` $\Longleftrightarrow$ `x.equals(z)`
+- [[Consistent]] : For non-null objects, Multiple calls of `x.equals(y)` must return the same output
 ### Example
 ```java
 // Overriding equals() to compare two Complex objects
