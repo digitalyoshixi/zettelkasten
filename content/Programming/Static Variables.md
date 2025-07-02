@@ -1,10 +1,11 @@
 ---
 tags:
   - c
-aliases: []
+aliases:
+  - Static
 ---
 Variables that will survive until the end of the program.
-They are a middle ground between [[Local Variables]] and [[Global Variables]]
+*They* are a middle ground between [[Local Variables]] and [[Global Variables]]
 
 There are a few uses for them:
 - Privacy
