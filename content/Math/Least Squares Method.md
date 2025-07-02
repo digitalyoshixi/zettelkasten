@@ -1,8 +1,29 @@
 ---
 tags:
   - math
+aliases:
+  - Least Squares Solution
 ---
 ![[Least Squares Method-20231221130848865.webp]]
-
-$m=(\frac{n\sum xy - \sum y \sum x}{n \sum x^2 -\sum x})^2$
-b = $\frac{\sum y - m \sum x}{n}$
+# Least Square Solution Definition
+- If $A$ is a $m \times n$ matrix,
+- $b \in \mathbb{R}^{m}$
+- a least square solution of $Ax = b$ is a vector $x \in \mathbb{R}^{n}$ such that:
+- $|| b - Ax || \leq || b - Ax ||, \forall x \in \mathbb{R}^{n}$ ([[Best Approximation]])
+You can find $x$ with [[Least Squares Theorem]]
+# Intuition
+- With an error vector $e$
+- We reduce the error by finding the smallest $e$ (least square) for $||e||^{2} = \langle e | e \rangle$
+- With $$c = \left[\begin{array}{cc}
+y_{1} \\
+y_{2} \\
+\vdots \\
+y_{n}
+\end{array}\right]$$
+- With $$A = \left[\begin{array}{cc}
+1 & x_{1} \\
+1 & x_{2} \\
+\vdots \\
+1 & x_{n}
+\end{array}\right]$$
+- The vector $e = c - Ax$

@@ -112,4 +112,6 @@ aliases:
 - [[Orthogonal Complement]]
 - [[Bessels Inequality]]
 ### Week 8
-- [[]]
+- [[Least Squares Method]]
+- [[Least Squares Theorem]]
+- [[Line of Best Fit]]
