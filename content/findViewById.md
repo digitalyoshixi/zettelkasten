@@ -8,5 +8,6 @@ A function used inside an [[Android Screen Activity|Activity]] to get a [[Androi
 ```java
 View viewbutton = findViewById(R.id.mybutton);
 // we can also implicitly cast this
-Button button = findViewById(R.id.mybutton);
+ot
+eutton button = findViewById(R.id.mybutton);
 ```

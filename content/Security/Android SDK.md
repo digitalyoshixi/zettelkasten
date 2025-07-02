@@ -19,6 +19,7 @@ https://developer.android.com/studio
 - [[Model-View-Presenter]]
 - [[Intent]]
 - [[findViewById]]
+- [[Android Toast]]
 ### Testing
 - [[JUnit]]
 - [[Mockito]]
