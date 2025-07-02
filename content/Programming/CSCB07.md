@@ -28,6 +28,10 @@ aliases:
 - [[JUnit]]
 - [[Maven]]
 - [[Eclipse]]
+- [[Software Fault]]
+- [[Software Failure]]
+- [[Software Error]]
+- [[Reachability Infection Propagation Reveal]]
 ### Week 6
 - [[Software Development Life Cycle|SDLC]]
 - [[Waterfall]]
