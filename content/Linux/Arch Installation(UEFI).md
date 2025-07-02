@@ -95,7 +95,7 @@ If secure boot is enabled, then you must sign all of the grub software
 - [[Pacman Updating Keyring]]
 # Fixing Linux Kernel
 1. `mount /dev/rootdrive /mnt`
-		1. If the file system needs to be cleaned then do: `e2fsck -p /dev/rootdrive`
+	1. If the file system needs to be cleaned then do: `e2fsck -p /dev/rootdrive`
 2. `mkdir -p /mnt/boot/efi`
 3. `mount /dev/bootdrive /mnt/boot/efi`
 4. `arch-chroot /mnt /bin/bash`
