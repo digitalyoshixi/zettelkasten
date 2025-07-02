@@ -6,6 +6,7 @@ aliases:
   - Bot Operation
 banner:
 ---
+This is the [[Orthogonal Complement]] generalized for $\mathbb{R}^{n}$ or $\mathbb{C}^{n}$.
 # Definition
 - Let $S$ be a non-empty [[Subset]] of [[Vector Space]] $\mathbb{R}^{n}$ or $\mathbb{C}^{n}$
 - With $\langle \cdot | \cdot \rangle$ be the [[Standard Inner Product]]

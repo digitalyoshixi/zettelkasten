@@ -110,3 +110,6 @@ aliases:
 - [[Best Approximation]]
 - [[Orthogonal Projection]]
 - [[Orthogonal Complement]]
+- [[Bessels Inequality]]
+### Week 8
+- [[]]
