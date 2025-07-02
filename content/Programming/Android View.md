@@ -11,3 +11,5 @@ Most UI components are inherited from View.
 
 Within the [[Android Screen Layout|Layout]], you can insert views within other views.
 
+# Views
+- [[Android Button]]
