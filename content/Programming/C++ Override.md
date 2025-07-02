@@ -5,7 +5,7 @@ tags:
 ---
 This is a new feature, not required as it is done by default.
 `override`
-Allows for child classes [[Function Overwriting]]
+Allows for child classes [[Function Overriding]]
 
 ```cpp
 class Parent {

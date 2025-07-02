@@ -9,7 +9,7 @@ Commonly occurs when a parent class reference is used to refer to a child class 
 # Concepts
 - [[Function Overloading]]
 - [[Function Hierarchy]]
-- [[Function Overwriting]]
+- [[Function Overriding]]
 - [[Operator Overloading]]
 - [[Virtual Functions]]
 - [[Dynamic Binding]]
