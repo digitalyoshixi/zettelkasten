@@ -26,6 +26,7 @@ https://developer.android.com/studio
 - [[Mock Objects]]
 - [[Android Testing]]
 ### Debugging
+- [[Android Log]]
 - [[Android Debug Bridge|adb]]
 - [[Android Virtual Device]]
 - [[Rooting Emulated Android Device]]
