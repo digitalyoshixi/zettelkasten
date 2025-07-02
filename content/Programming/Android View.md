@@ -1,6 +1,8 @@
 ---
 tags:
   - android
+aliases:
+  - View
 ---
 This is the class for GUI components in android.
 Most UI components are inherited from View.

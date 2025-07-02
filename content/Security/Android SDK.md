@@ -18,6 +18,7 @@ https://developer.android.com/studio
 - [[Gradle]]
 - [[Model-View-Presenter]]
 - [[Intent]]
+- [[findViewById]]
 ### Testing
 - [[JUnit]]
 - [[Mockito]]
