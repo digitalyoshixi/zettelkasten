@@ -8,7 +8,7 @@ aliases:
 ---
 # Activity
 Responsible for user interaction with the screen. Written in [[Java]].
-Activities can use one or more fragments.
+Activities can use one or more [[Android Fragment|Fragments]]
 ![[Android Screen Activity-20250623213300357.webp|359]]
 # Location
 `/app/java/com.example.*/*`
