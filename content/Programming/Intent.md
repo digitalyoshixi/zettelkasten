@@ -9,7 +9,7 @@ Can allow:
 ### Routing File
 ```java
 public void navigateIntent(View v){  
-    Intent i = new Intent(this, SettingsActivity.class);  
+    Intent i = new Intent(this, SettingsActivity.class);
     // send data to next activity
 	i.putExtra("mykey", "myvalue");
 	// route to next activity
