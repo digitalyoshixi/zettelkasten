@@ -20,6 +20,7 @@ https://developer.android.com/studio
 - [[Intent]]
 - [[findViewById]]
 - [[Android Toast]]
+- [[Android Strings]]
 ### Testing
 - [[JUnit]]
 - [[Mockito]]

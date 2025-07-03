@@ -4,6 +4,7 @@ tags:
   - programming
 aliases:
   - MANIFEST
+  - Android Manifest
 ---
 These are [[eXtensive Markup Language|XML]] files that define the:
 - Metadata of application
@@ -16,7 +17,8 @@ These are [[eXtensive Markup Language|XML]] files that define the:
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"  
     xmlns:tools="http://schemas.android.com/tools">  
   
-    <application        android:allowBackup="true"  
+    <application        
+	    android:allowBackup="true"  
         android:dataExtractionRules="@xml/data_extraction_rules"  
         android:fullBackupContent="@xml/backup_rules"  
         android:icon="@mipmap/ic_launcher"  
@@ -24,13 +26,13 @@ These are [[eXtensive Markup Language|XML]] files that define the:
         android:roundIcon="@mipmap/ic_launcher_round"  
         android:supportsRtl="true"  
         android:theme="@style/Theme.Goodtrue"  
-        tools:targetApi="31"  
-    >  
-        <activity            android:name=".MainActivity"  
+        tools:targetApi="31"  >  
+        <activity            
+	        android:name=".MainActivity"  
             android:label="@string/app_name"  
-            android:exported="true"  
-            >  
-            <intent-filter>                <action android:name="android.intent.action.MAIN" />  
+            android:exported="true"  >  
+            <intent-filter>                
+	            <action android:name="android.intent.action.MAIN" />  
                 <category android:name="android.intent.category.LAUNCHER" />  
             </intent-filter>
         </activity>
