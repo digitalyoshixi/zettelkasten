@@ -12,3 +12,9 @@ A [[Android View|View]].
     android:onClick="onclickfunction"  
 </Button>
 ```
+
+```java
+public void onclickfunction(View V){
+	Log.d("my tag", "my log");
+}
+```
