@@ -10,6 +10,7 @@ Most UI components are inherited from View.
 [[Android ViewGroup]] allows us to contain other views aswell.
 
 Within the [[Android Screen Layout|Layout]], you can insert views within other views.
-
 # Views
 - [[Android Button]]
+- [[Android TextView]]
+- [[Android EditText]]
