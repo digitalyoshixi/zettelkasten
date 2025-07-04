@@ -14,3 +14,4 @@ tags:
 # Theorems
 - [[Adjoints Exist for Finite Dimensional Space]]
 - [[Matrix Representation of Adjoints with Respect to Orthonormal Basis]]
+- [[Self Adjoint]]

@@ -15,3 +15,4 @@ aliases:
 	- where $\overline y_{i}$ is the [[Complex Conjugate]] of $y_{i}$
 # Theorems
 - [[Riesz Representation Theorem]]
+- [[Self Adjoint]]
