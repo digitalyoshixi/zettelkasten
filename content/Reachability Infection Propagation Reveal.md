@@ -13,4 +13,5 @@ The state of the program must be incorrect
 ### Propagation
 The infected state must cause some output or final state to be incorrect
 ### Reveal
-The tester must observe part of the incorrect portion of the program state
+The tester must observe part of the incorrect portion of the program state.
+In other words, the fault can be tested for.
