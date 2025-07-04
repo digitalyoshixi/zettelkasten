@@ -2,7 +2,7 @@
 tags:
   - strings
 ---
-A method used in [[Java Objects]] and [[Java String]].
+*A* method used in [[Java Objects]] and [[Java String]].
 Used to check equivalence of:
 - All fields
 - Class type
