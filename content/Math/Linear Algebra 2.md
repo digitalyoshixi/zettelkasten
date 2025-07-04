@@ -21,6 +21,7 @@ aliases:
 - Late submission policy after 4 days
 - [[Gram-Schmidt Algorithm]] will be about 8% of your midterm grade
 - 30-40% of the assesments will be using the definitions, prove these basic properties...
+- [[Adjoint]] properties will not be proven, they are too involved
 # Concepts
 ### Week 0.1
 - [[Field]]
@@ -116,3 +117,4 @@ aliases:
 - [[Line of Best Fit]]
 - [[Adjoint]]
 	- [[Adjoints Exist for Finite Dimensional Space]]
+- [[Matrix Representations of Linear transform with Respect to Orthonormal Basis]]

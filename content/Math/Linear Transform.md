@@ -39,3 +39,4 @@ This has the further effect of:
 - [[Linear Map Composition]]
 - [[Linear Map Inverse]]
 - [[Multidimension Linear Transformation]]
+- [[Matrix Representation of Linear Transformations with Respect to Orthonormal Basis]]
