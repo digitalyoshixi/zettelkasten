@@ -22,6 +22,7 @@ aliases:
 - [[Gram-Schmidt Algorithm]] will be about 8% of your midterm grade
 - 30-40% of the assesments will be using the definitions, prove these basic properties...
 - [[Adjoint]] properties will not be proven, they are too involved
+- We should be able to show [[Unitary Operator]], (with definitions 1,5,6 or original)
 # Concepts
 ### Week 0.1
 - [[Field]]
@@ -125,3 +126,4 @@ aliases:
 - [[Orthogonal Matrix]]
 - [[Orthonormal Matrix]]
 - [[Diagonal Operation]]
+- [[Normal Operator]]
