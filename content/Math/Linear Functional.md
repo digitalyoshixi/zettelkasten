@@ -10,8 +10,10 @@ Any [[Linear Transform|Linear Map]] that takes in a vector space and outputs a s
 - With $V$ as a [[Vector Space]] over [[Field]] $\mathbb{F}$
 - [[Linear Transform|Linear Map]] $f \in \mathcal{L}(V,\mathbb{F})$ are called linear functionals
 - Linear functional under a vector $\alpha$ are denoted as: $f_{\alpha}(x) = a \cdot x$
-# List
+# Implementations
 - [[Matrix Trace]]
+- [[Linear Functional for Real Numbers]]
+- [[Linear Functional for Complex Numbers]]
 # Example Proof
 1. With $V$ as the vector space of [[Polynomial|Polynomials]]
 2. Let $t \in \mathbb{F}$

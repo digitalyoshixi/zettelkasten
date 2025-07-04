@@ -72,7 +72,6 @@ aliases:
 - [[Standard Inner Product]]
 	- [[Standard Inner Product for Complex Numbers]]
 	- [[Standard Inner Product for Real Numbers]]
-	- [[Standard Inner Product Function]]
 - [[Riesz Representation Theorem]]
 - [[Annihilator]]
 - [[Error Correcting Codes]]
@@ -115,3 +114,5 @@ aliases:
 - [[Least Squares Method]]
 - [[Least Squares Theorem]]
 - [[Line of Best Fit]]
+- [[Adjoint]]
+	- [[Adjoints Exist for Finite Dimensional Space]]

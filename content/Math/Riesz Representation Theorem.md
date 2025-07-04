@@ -5,11 +5,11 @@ tags:
 aliases:
   - Complex Linear Functionals can be defined as a vector
 ---
-Every [[Linear Functional]] on $\mathbb{C}^{n}$ or $\mathbb{R}^{n}$ is of the form of a [[Standard Inner Product Function]]. 
+Every [[Linear Functional]] on $\mathbb{C}^{n}$ or $\mathbb{R}^{n}$ is of the form of a [[Standard Inner Product]]
 # Theorem
-- If $f \in \mathcal{L}(\mathbb{C}^{n}, \mathbb{C})$
-- Then, $\exists \alpha$ s.t $f(v) = f_{\alpha}(v), \forall v \in V$
-	- Note that $f_{\alpha}$ is a [[Standard Inner Product Function]]
+- If $f \in \mathcal{L}(V, \mathbb{F})$
+- Then, $\exists \alpha \in V$ s.t $f(v) = f_{\alpha}(v) = \langle v, \alpha \rangle, \forall v \in V$
+	- Note that $f_{\alpha}$ is a [[Linear Functional]]
 # Proof
 - Let $c \in \mathbb{C}$ be arbitrary
 - Let $x,y \in \mathbb{C}^{n}$ be arbitrary
