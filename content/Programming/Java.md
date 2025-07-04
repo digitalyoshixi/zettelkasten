@@ -37,6 +37,7 @@ public class Main {
 - [[Java Virtual Machine|JVM]]
 ### Variables
 - [[Java final]]
+- [[Java Default Values]]
 ### I/O
 - [[Java Scanner]]
 - [[Java File]]

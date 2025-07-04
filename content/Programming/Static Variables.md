@@ -4,12 +4,8 @@ tags:
 aliases:
   - Static
 ---
-Variables that will survive until the end of the program.
-*They* are a middle ground between [[Local Variables]] and [[Global Variables]]
-
-There are a few uses for them:
-- Privacy
-- Pertinence
+Variables that are accessible to all classes.
+They can be directly accessed without need of a specific method.
 # Pertinance
 If they are local variables, then their value persists even when their execution leaves their scope.
 # Privacy
