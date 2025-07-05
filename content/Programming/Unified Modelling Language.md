@@ -6,6 +6,7 @@ aliases:
   - UML
 ---
 A way to describe how your class utilizes objects
+![[Unified Modelling Language-20250705015545440.webp]]
 # Variables
 ### First
 Minus(-) : variable is private
