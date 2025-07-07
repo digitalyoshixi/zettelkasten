@@ -1,6 +1,8 @@
 ---
 tags:
   - programming
+aliases:
+  - SRP
 ---
 This is a [[SOLID|SOLID Design]] principle.
 Involves thinking that a class should only have one reason to change.
