@@ -20,7 +20,8 @@ b
 4
 \end{array}\right]$$
 5. Then, compute $(A^{T}A)x = (A^{T}c)x$
-6. $$
+6. 
+$$
 \left[\begin{array}{ccc} 
 1 & 1 & 1\\
 1 & 2 & 3\\
