@@ -2,6 +2,10 @@
 tags:
   - hardware
   - programming
+aliases:
+  - R-Type
+  - I-Type
+  - J-Type
 ---
 These are the assembly instruction types. Differentiated by what each collection of bits represents.
 # R Type

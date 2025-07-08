@@ -95,7 +95,18 @@ Using slt and branch pseudo instructions
 ![[Microprocessor Without Interlocked Pipelined Stages Assembly-20250708145918746.webp]]
 ### Jumps
 ![[Microprocessor Without Interlocked Pipelined Stages Assembly-20250708145945191.webp]]
+- [[MIPS Jump]]
+- [[MIPS Jump and Link]]
 ### Comparison Instructions
 ![[Microprocessor Without Interlocked Pipelined Stages Assembly-20250708150308007.webp]]
 - `slt` : 'set less than'
 - Stores one if the comparison is true, stores zero otherwise.
+### [[Random Access Memory|RAM]] Interactions
+These instructions are all [[MIPS Instruction Types|I-Type]]
+![[Microprocessor Without Interlocked Pipelined Stages Assembly-20250708152955129.webp]]
+- You are accessing addresses by offsets `i`
+- `b` for byte
+- `h` for half-[[Binary|Word]]
+- `w` for [[Binary|Word]]
+- `l` for load
+- `s` for store

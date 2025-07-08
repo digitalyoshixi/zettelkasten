@@ -4,6 +4,7 @@ tags:
   - hardware
 aliases:
   - MIPS
+  - MIPS Wordsize
 ---
 A [[Reduced Instruction Set Compiler|RISC]] [[Microprocessor]] with [[Microprocessor Without Interlocked Pipelined Stages Assembly|MIPS Assembly]].
 # CPU Diagram
@@ -14,7 +15,7 @@ A [[Reduced Instruction Set Compiler|RISC]] [[Microprocessor]] with [[Microproce
 - $N$: Negative flag (1 if negative)
 - $Z$: Zero flag (1 if zero)
 # Terminilogy
-- A [[Binary|Word]] is 2-[[Binary|Bytes]]
+- A [[Binary|Word]] is 4-[[Binary|Bits]]
 # Concepts
 - [[Microprocessor Without Interlocked Pipelined Stages Assembly|MIPS Assembly]]
 - [[MIPS Syscalls]]
