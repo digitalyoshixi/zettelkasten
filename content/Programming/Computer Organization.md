@@ -87,4 +87,6 @@ aliases:
 - [[Microarchitecture]]
 - [[Computer Architecture]]
 ### Week 9
-- [[Microprocessor Without Interlocked Pipelined Stages|MIPS]]
+- [[Microprocessor Without Interlocked Pipelined Stages Assembly|MIPS Assembly]]
+- [[MIPS Memory Alignment]]
+- [[MIPS Assembly Program]]

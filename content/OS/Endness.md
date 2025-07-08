@@ -12,6 +12,8 @@ It works similarly to an egg. But the fluids are memory instead.
 ### Little endian
 - The [[Least Significant Bit|LSB]] is stored first (leftmost)
 - The [[Most Significant Bit|MSB]] is stored last (rightmost)
+![[Endness-20250708160310332.webp|189]]
 ### Big endian
 - The [[Most Significant Bit|MSB]] is stored first (leftmost)
-- The [[Least Significant Bit|LSB]] is stored last (rightmost)
+- The [[Least Significant Bit|LSB]] is stored `last (rightmost)
+![[Endness-20250708160232230.webp|197]]

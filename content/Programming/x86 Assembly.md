@@ -6,7 +6,8 @@ tags:
 aliases:
   - x86
 ---
-The assembly language that comes with [[CPU Labelling|x86]] processors
+The assembly language that comes with [[CPU Labelling|x86]] processors.
+- [[Endness|Little Endian]]
 # Flavours
 - [[x86 Assembly(Intel)]]
 - [[x86 Assembly(AT&T)]]

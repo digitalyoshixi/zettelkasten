@@ -6,6 +6,7 @@ aliases:
   - MIPS Assembly
 ---
 This is a [[Reduced Instruction Set Compiler|RISC]] instruction set for [[Microprocessor Without Interlocked Pipelined Stages|MIPS]] processors.
+- [[Endness|Little Endian]]
 # Online Assembler
 https://1whatleytay.github.io/saturn
 # Boilerplate
@@ -83,11 +84,15 @@ https://1whatleytay.github.io/saturn
 ![[Microprocessor Without Interlocked Pipelined Stages Assembly-20250629165133602.webp]]
 Loads the [[Immediate]] into the upper half of the register
 ![[Microprocessor Without Interlocked Pipelined Stages Assembly-20250629165203658.webp]]
-### [[Pseudo Instructions]]
+### Arithmetic and Logical [[Pseudo Instructions]]
 ![[Microprocessor Without Interlocked Pipelined Stages Assembly-20250629165519580.webp]]
 ### Labels
+##### Section Labels
 Denoted with `labelname: `
 ![[Microprocessor Without Interlocked Pipelined Stages Assembly-20250708143554288.webp]]
+##### Variable  Labels
+Denoted as: `label .type values(s)`
+![[Microprocessor Without Interlocked Pipelined Stages Assembly-20250708154716769.webp]]
 ### Branches
 ![[Microprocessor Without Interlocked Pipelined Stages Assembly-20250708143449492.webp]]
 ##### Branch PseudoInstructions
@@ -110,3 +115,7 @@ These instructions are all [[MIPS Instruction Types|I-Type]]
 - `w` for [[Binary|Word]]
 - `l` for load
 - `s` for store
+##### Load and Move Pseudo-Instructions
+![[Microprocessor Without Interlocked Pipelined Stages Assembly-20250708155144296.webp]]
+- `la` : Load address
+- `li` : Load immediate
