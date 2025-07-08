@@ -90,5 +90,12 @@ Denoted with `labelname: `
 ![[Microprocessor Without Interlocked Pipelined Stages Assembly-20250708143554288.webp]]
 ### Branches
 ![[Microprocessor Without Interlocked Pipelined Stages Assembly-20250708143449492.webp]]
+##### Branch PseudoInstructions
+Using slt and branch pseudo instructions
+![[Microprocessor Without Interlocked Pipelined Stages Assembly-20250708145918746.webp]]
 ### Jumps
-- `j label` : Jumps unconditionally to label
+![[Microprocessor Without Interlocked Pipelined Stages Assembly-20250708145945191.webp]]
+### Comparison Instructions
+![[Microprocessor Without Interlocked Pipelined Stages Assembly-20250708150308007.webp]]
+- `slt` : 'set less than'
+- Stores one if the comparison is true, stores zero otherwise.
