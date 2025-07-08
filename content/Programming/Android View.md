@@ -14,3 +14,4 @@ Within the [[Android Screen Layout|Layout]], you can insert views within other v
 - [[Android Button]]
 - [[Android TextView]]
 - [[Android EditText]]
+- [[Android RecyclerView]]
