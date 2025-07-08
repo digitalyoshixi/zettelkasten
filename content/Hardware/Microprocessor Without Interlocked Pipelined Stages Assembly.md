@@ -6,7 +6,8 @@ aliases:
   - MIPS Assembly
 ---
 This is a [[Reduced Instruction Set Compiler|RISC]] instruction set for [[Microprocessor Without Interlocked Pipelined Stages|MIPS]] processors.
-
+# Online Assembler
+https://1whatleytay.github.io/saturn
 # Boilerplate
 ```mips
 .data
@@ -84,3 +85,10 @@ Loads the [[Immediate]] into the upper half of the register
 ![[Microprocessor Without Interlocked Pipelined Stages Assembly-20250629165203658.webp]]
 ### [[Pseudo Instructions]]
 ![[Microprocessor Without Interlocked Pipelined Stages Assembly-20250629165519580.webp]]
+### Labels
+Denoted with `labelname: `
+![[Microprocessor Without Interlocked Pipelined Stages Assembly-20250708143554288.webp]]
+### Branches
+![[Microprocessor Without Interlocked Pipelined Stages Assembly-20250708143449492.webp]]
+### Jumps
+- `j label` : Jumps unconditionally to label

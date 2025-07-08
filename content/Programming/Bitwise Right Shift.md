@@ -3,6 +3,7 @@ tags:
   - c
 aliases:
   - Arithmetic Right Shift
+  - Logical Right Shift
 ---
 Moves all bits to right.
 Bits that are lost are lost for good
@@ -10,12 +11,12 @@ Bits that are lost are lost for good
 1011 >> 2 = 10
 ```
 a >> n is equivalent to a * (1/2)^n
-### Unsigned shifts
+### Unsigned/Logical Shift
 - The left bits are filled with zeros.
 ```c
 1001 >> 1 = 0100
 ```
-### Signed shifts
+### Signed/Arithmetic Shift
 - implementation defined
 It can either:
 1. Fill all with MSB

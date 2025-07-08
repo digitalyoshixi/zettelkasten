@@ -81,3 +81,10 @@ aliases:
 - [[Program Counter Register]]
 - [[Microprocessor Without Interlocked Pipelined Stages Assembly|MIPS Assembly]]
 - [[Machine Code|Opcode]]
+### Week 8
+- [[Microprocessor Without Interlocked Pipelined Stages Assembly|MIPS Assembly]]
+- [[Instruction Set Architecture|ISA]]
+- [[Microarchitecture]]
+- [[Computer Architecture]]
+### Week 9
+- [[Microprocessor Without Interlocked Pipelined Stages|MIPS]]
