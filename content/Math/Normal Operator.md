@@ -5,4 +5,4 @@ tags:
 ---
 This is a operator that allows
 $TT^{*} = T^{*}T = aI, a \in \mathbb{F}$.
-It is a more generalized form of [[unitary]]
+It is a more generalized form of [[Unitary Operator|Unitary]]

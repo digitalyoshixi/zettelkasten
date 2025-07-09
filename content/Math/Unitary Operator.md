@@ -2,9 +2,12 @@
 tags:
   - math
   - linalg
+aliases:
+  - Unitary
+  - Unitary Matrix
 ---
 # Definition
-A unitary operator on an [[Inner Product Space]] is an (inner product) vector isomorphism of the space to itself.
+A unitary operator is a [[Linear Operator]] on an [[Inner Product Space]] that has a vector isomorphism of the space to itself.
 # Formal Definition
 $T \in \mathcal{L}(V)$ s.t $\langle T \alpha | T \beta \rangle = \langle \alpha | \beta\rangle, \forall \alpha, \beta \in V$
 Its a isomorphism that [[Preserving Inner Products and Vector Isomorphism|Preserves Inner Products]]
