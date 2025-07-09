@@ -127,3 +127,4 @@ aliases:
 - [[Orthonormal Matrix]]
 - [[Diagonal Operation]]
 - [[Normal Operator]]
+- [[QR Factorization]]
