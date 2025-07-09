@@ -16,4 +16,4 @@ tags:
 4. We take the [[Basis]] of the [[Column Space]] $col(A)$, and apply [[Gram-Schmidt Algorithm]] to convert it into [[Orthonormal Set]], so that we can get the [[Best Approximation]].
 5. $b - E(b)$ is orthogonal to the column space of $A$, so if $a_{i}$ is a column of $A_{i}$ then, $a_{i}^{T} (b - E(b)) = \langle \alpha_{i} | b - E(b) \rangle = 0$
 6. This is true for all columns, so we would get $A^TAx = A^{T}b$
-7. If $A^{T}A$ is [[Linear Map Inverse|Invertible]], then we have a soln $\bar{x} = (A^{T}A)A^{-1}^{T}b$
+7. If $A^{T}A$ is [[Linear Map Inverse|Invertible]], then we have a soln $\bar{x} = (A^{T}A)A^{-1}A^{T} b$
