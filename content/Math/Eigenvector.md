@@ -6,6 +6,7 @@ aliases:
   - Eigenvalue
   - Special Vector
   - Characteristic Vector
+  - Characteristic Value
 ---
 These are vectors that remain in their same span after some [[Linear Transform]].
 ![[Eigenvector-20250327192251310.webp|533]]

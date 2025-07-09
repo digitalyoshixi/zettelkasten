@@ -128,3 +128,11 @@ aliases:
 - [[Diagonal Operation]]
 - [[Normal Operator]]
 - [[QR Factorization]]
+### Week 9
+- [[Complex Inner Product Space]]
+- [[Quantum Superposition|Superposition]]
+- [[Quantum Operation]]
+- [[Normal Operator]]
+- [[Normal Matrix]]
+- [[Upper Triangular Matrices are Normal If and Only if They are Diagonal]]
+- [[Invariant Under Adjoint]]

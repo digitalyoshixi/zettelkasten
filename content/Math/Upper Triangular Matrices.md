@@ -2,6 +2,8 @@
 tags:
   - math
   - linalg
+aliases:
+  - Upper Triangular
 ---
 A matrix where $m_{ij}=0$ when $i < j$
 For example:
