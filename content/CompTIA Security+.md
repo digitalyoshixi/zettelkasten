@@ -11,3 +11,4 @@ tags:
 ### Chapter 1
 - [[Security Control]]
 - [[Preventive Control]]
+- [[Confidentiality Integrity Availability Triad]]

@@ -3,16 +3,14 @@ tags:
   - security
 aliases:
   - Public Key Certificate
-  - Digital Certificate
 ---
-For use in [[Hyper Text Transfer Protocol Secure|HTTPS]]. 
-Found on the website's origin server.
+A form of [[Digital Certificate]] for use in [[Hyper Text Transfer Protocol Secure|HTTPS]] found on the website's origin server.
 TLS certificates contain:
 - Website's public key
 - Certificate's issued domain name
 - Associated subdomains
 - Expiration of certificate
-- Digital Signature
+- [[Digital Signature]]
 - Which [[Certificate Authority]] issued it
 # Invalid Certificate
 1. Check your time synchronization
