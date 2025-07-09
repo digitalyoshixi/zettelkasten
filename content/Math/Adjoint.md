@@ -5,8 +5,8 @@ tags:
 ---
 # Definition
 1. $T$ is a [[Linear Operator]] on [[Inner Product Space]] $V$
-2. Then, $T$ has an adjoint on $V$ if there exists [[Linear Operator]] $T^{*}$ on $V$ such that
-3. $\langle T \alpha| \beta \rangle = \langle \alpha | T^{*} \beta\rangle, \forall \alpha, \beta \in V$
+2. Then, $T$ has an adjoint $T^{*}$ on $V$ such that $\langle T \alpha| \beta \rangle = \langle \alpha | T^{*} \beta\rangle, \forall \alpha, \beta \in V$
+For matrixes, the adjoint is the [[Conjugate Transpose]]
 # Properties
 1. If an adjoint exists, it is [[Unique Existence|Unique]]
 2. The adjoint depends on $T$ and the [[Standard Inner Product]] of the [[Inner Product Space]]
