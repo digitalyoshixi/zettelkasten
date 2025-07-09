@@ -14,3 +14,5 @@ The orthogonal complement $W^{\perp}$ of a subspace $W \subset V$ is the subspac
 - [[Bessels Inequality]]
 # Implementaitons
 - [[Perpendicular Set]]
+# Guides
+- [[Finding Orthogonal Complement]]
