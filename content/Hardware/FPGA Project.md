@@ -7,7 +7,7 @@ tags:
 - [x] Learn Details about [[Blackboard]]
 - [ ] Skim [[Fundamentals of Electrical Circuits]]
 - [x] Look into [[Vivado]]
-- [ ] Read about how to work with [[Verilog]]
+- [x] Read about how to work with [[Verilog]] ✅ 2025-07-09
 # Resources
 - https://www.amazon.ca/Fundamentals-Electric-Circuits-Charles-Alexander/dp/9355320167
 - https://www.fpga4fun.com/
