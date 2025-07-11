@@ -5,7 +5,7 @@ tags:
 If you have a stripped binary with no debug symbols and you want to get to main, you can do this:
 # Trying Common Names
 - `_start`
-- `_libc_start_main`
+- `r`, `CTRL+C`, then break at `__libc_start_main` (and then go to the actual main)
 - `main`
 # Locating From `starti`
 1. `info files` and copy the entry point
