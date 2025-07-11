@@ -1,6 +1,8 @@
 ---
 tags:
   - business
+aliases:
+  - SOP
 ---
 Processes to be followed during certain situations.
 Can be followed during situations such as:

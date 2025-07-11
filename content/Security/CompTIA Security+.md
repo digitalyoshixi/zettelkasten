@@ -24,3 +24,6 @@ aliases:
 - [[Physical Security]]
 - [[Deception and Disruption]]
 ### 1.3
+- [[Standard Operating Procedures]]
+- [[Change Management Process]]
+- [[Technical Change Management]]

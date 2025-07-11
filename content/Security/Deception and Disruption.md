@@ -8,3 +8,4 @@ These are counter-measures to attackers that attempt to enter your systems.
 - [[Honeynet]]
 - [[Honeyfile]]
 - [[Honeytoken]]
+- [[DNS Sinkhole]]
