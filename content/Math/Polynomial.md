@@ -5,8 +5,6 @@ aliases:
 ---
 # Definition
 A form of numbers that takes from a field.
-- Let $\mathbb{F}[x]$ be the set of polynomials with coefficients in $\mathbb{F}$
-- Then, $f(x) = c_{0} + c_{1}x^{1} + \dots + c_{k}x^{k} \in \mathbb{F}[x]$
 # Concepts
 - [[Degree]]
 - [[Degree]]

@@ -160,4 +160,3 @@ aliases:
 - [[Fundamental Theorem of Arithmetic|FTOA]]
 - [[Prime Factorization of Polynomials]]
 - [[Fundamental Theorem of Algebra]]
-- [[Alternate Characterizations of Polynomial Ideals]]
