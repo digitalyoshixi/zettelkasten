@@ -1,6 +1,8 @@
 ---
 tags:
   - security
+aliases:
+  - Sec+
 ---
 # Info
 - SY0-701
@@ -18,3 +20,6 @@ tags:
 - [[Certificate Authority|CA]]
 - [[Authorization Model]]
 - [[Gap Analysis]]
+- [[Zero Trust Security]]
+- [[Physical Security]]
+- [[Deception and Disruption]]

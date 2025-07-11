@@ -4,6 +4,7 @@ tags:
 ---
 Defending systems from physical threats like theft or intrusion.
 The best security policies use a combination of security mediums like:
+# Barriers
 - Locks
 	- Equipment locks
 	- [[Universal Serial Bus|USB]] locks
@@ -11,9 +12,17 @@ The best security policies use a combination of security mediums like:
 	- [[Server]] locks
 - Guards
 - Doors
-- Alarms
-- Sensors
+- [[Fence]]
 - [[Bollard]]
 - [[Access Control Vestibule]]
-- [[Magnetometer]]
+
 - [[Radio Frequency Identification|RFID]]
+# Monitoring
+- Alarms
+- Lighting
+- [[Infrared Sensor]]
+- [[Pressure Sensor]]
+- [[Microwave Sensor]]
+- [[Ultrasonic Sensor]]
+- [[Closed Circuit Television|CCTV]]
+- [[Magnetometer]]
