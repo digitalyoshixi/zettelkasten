@@ -4,6 +4,7 @@ tags:
   - linalg
 ---
 The set that will allow for creating an [[Ideal]].
+Often you use [[Long Division Factoring|Polynomial Long Division]] to find the generator
 # Definition
 - For Ring $(R,+,x)$
 - For [[Ideal]] $I \subset R$

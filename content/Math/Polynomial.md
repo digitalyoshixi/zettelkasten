@@ -4,13 +4,11 @@ tags:
 aliases:
 ---
 # Definition
-An equation where terms are numbers multiplied by variable `x`.
-number * x
-it can be like $9x$ or $9x^2$ or $9x^0$ 
-### Requirements 
-the stipulations for what x are is:
-- Leading [[Degree]] is not negative. It can be atleast x^0.
+A form of numbers that takes from a field.
+- Let $\mathbb{F}[x]$ be the set of polynomials with coefficients in $\mathbb{F}$
+- Then, $f(x) = c_{0} + c_{1}x^{1} + \dots + c_{k}x^{k} \in \mathbb{F}[x]$
 # Concepts
+- [[Degree]]
 - [[Degree]]
 - [[Orders|Order]]
 - [[Leading Coefficient]]

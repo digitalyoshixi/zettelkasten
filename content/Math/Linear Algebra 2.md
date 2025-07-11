@@ -48,7 +48,7 @@ aliases:
 - [[Field]]
 ### Week 1.2
 - [[Generator for Ideal]]
-- [[Euclidean Algorithm]] (GCD)
+- [[Greatest Common Divisor|Euclid's Algorithm to find GCD]]
 - [[Remainder Theorem]]
 - [[Polynomial Ideal]]
 - [[Vector Space]]
@@ -148,4 +148,10 @@ aliases:
 - [[Spectral Theorem for Unitary Operators]]
 - [[Spectral Theorem for Unitary Matrixes]]
 --- Midterm content ends here
-- 
+- [[Polynomial]]
+- [[Polynomial Function]]
+- [[Applying Polynomials to Linear Operators]]
+- [[Polynomial Ideal]]
+- [[Division Algorithm for Polynomials]]
+- [[Remainder Theorem|Fundamental Remainder Theorem]]
+- [[Division Algorithm for Integers]]
