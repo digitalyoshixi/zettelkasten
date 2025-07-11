@@ -2,8 +2,8 @@
 tags:
   - math
 ---
-# [[Polynomial]] Evaluation
-- [[Polynomial]]
+# [[Math/Polynomial]] Evaluation
+- [[Math/Polynomial]]
 - [[Degree]]
 - [[Leading Coefficient]]
 # Graphing Polynomials

@@ -20,7 +20,7 @@ tags:
 - [[Interval Notation]]
 - [[Factorial]]
 ### Important Concepts
-- [[Polynomial]]
+- [[Math/Polynomial]]
 - [[Polynomial Graphing]]
 - [[Average Rate of Change]]
 - [[Instantaneous Rate of Change]]

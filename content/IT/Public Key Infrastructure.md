@@ -4,4 +4,8 @@ tags:
 aliases:
   - PKI
 ---
-A system of technologies and users for dealing with public key encryption
+A system of:
+- Technologies
+- Users
+- Procedures
+to manage [[Digital Certificate|Digital Certificates]] and [[Public-Key Cryptography]]

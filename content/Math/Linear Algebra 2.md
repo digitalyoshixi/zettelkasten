@@ -23,6 +23,7 @@ aliases:
 - 30-40% of the assesments will be using the definitions, prove these basic properties...
 - [[Adjoint]] properties will not be proven, they are too involved
 - We should be able to show [[Unitary Operator]], (with definitions 1,5,6 or original)
+- Midterm week 6-9
 # Concepts
 ### Week 0.1
 - [[Field]]
@@ -141,3 +142,10 @@ aliases:
 - [[Unitarily Upper Triangular]]
 - [[Unitarily Diagonizable]]
 - [[Spectral Theorem for Normal Operator]]
+- [[Spectrum of a Matrix]]
+- [[Relationship between Trace, Determinant and Eigenvaues]]
+- [[The Spectrum of Unitary Operators on a Complex Inner Product Space lies on the Unit Circle]]
+- [[Spectral Theorem for Unitary Operators]]
+- [[Spectral Theorem for Unitary Matrixes]]
+--- Midterm content ends here
+- 

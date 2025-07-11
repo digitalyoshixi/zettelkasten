@@ -15,7 +15,7 @@ Any [[Linear Transform|Linear Map]] that takes in a vector space and outputs a s
 - [[Linear Functional for Real Numbers]]
 - [[Linear Functional for Complex Numbers]]
 # Example Proof
-1. With $V$ as the vector space of [[Polynomial|Polynomials]]
+1. With $V$ as the vector space of [[Math/Polynomial|Polynomials]]
 2. Let $t \in \mathbb{F}$
 3. Show that $L_{t}(P) = P(t), \forall P \in V$ defines a linear functional $L \in \mathcal{L}(V,\mathbb{F})$
 ### Soln

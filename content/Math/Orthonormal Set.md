@@ -2,6 +2,8 @@
 tags:
   - math
   - linalg
+aliases:
+  - Orthonormal Basis
 ---
 # Definition
 A set $S \subset V$ is orthonormal if:
