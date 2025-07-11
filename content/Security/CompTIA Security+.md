@@ -27,3 +27,4 @@ aliases:
 - [[Standard Operating Procedures]]
 - [[Change Management Process]]
 - [[Technical Change Management]]
+- [[Public Key Infrastructure]]
