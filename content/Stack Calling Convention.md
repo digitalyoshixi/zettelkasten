@@ -8,12 +8,12 @@ Using [[MIPS Stack]], you can push and pop.
 ### Push
 ```mips
 # push $t0 onto the stack
-sub $sp, $sp, 4
+addi $sp, $sp, -4
 sw $t0, 0($sp)
 ```
 ### Pop
 ```mips
 # pop from the stack
 lw $t0, 0($sp)
-add $sp, $sp, 4
+addi $sp, $sp, 4
 ```
