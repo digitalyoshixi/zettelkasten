@@ -17,3 +17,4 @@ tags:
 - [[Authentication, Authorization, Accounting|AAA]]
 - [[Certificate Authority|CA]]
 - [[Authorization Model]]
+- [[Gap Analysis]]
