@@ -138,3 +138,6 @@ aliases:
 - [[Invariant]]
 - [[Invariant Under Adjoint]]
 - [[Schur's Decomposition]]
+- [[Unitarily Upper Triangular]]
+- [[Unitarily Diagonizable]]
+- [[Spectral Theorem for Normal Operator]]

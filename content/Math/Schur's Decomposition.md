@@ -32,3 +32,51 @@ When $dim(V) = 1, [T]_{\alpha} = [\alpha_{u}]$ which is [[Upper Triangular Matri
 1 & 0\\
 0 & P\\
 \end{array}\right]$$ for $\beta$ to $P'$
+- We want to show that we can get to this [[Upper Triangular Matrices|Upper Triangular]] matrix. $$\left[\begin{array}{cc} 
+x & VP\\
+0 & [S_{w}]_{\beta'}\\
+\end{array}\right]$$
+- We know that by [[Change of Basis]], $[T]_{\beta} = \hat{P}^{-1}[T]_{\beta}\hat{P}$
+- $\implies [T]_{\beta'} = \hat{P}[T]_{\beta}\hat{P}^{-1}$
+- $$
+=\left[\begin{array}{cc} 
+1 & 0\\
+0 & P\\
+\end{array}\right]
+\left[\begin{array}{cc} 
+C & V\\
+0 & W\\
+\end{array}\right]
+\left[\begin{array}{cc} 
+1 & 0\\
+0 & P^{-1}\\
+\end{array}\right]
+$$
+- $$
+=\left[\begin{array}{cc} 
+1 & 0\\
+0 & P\\
+\end{array}\right]
+\left[\begin{array}{cc} 
+C \cdot 1 + V \cdot 0 & C \cdot 0 + VP^{-1} \\
+0 \cdot 1 + W \cdot 0 & 0 \cdot 0 + WP^{-1}
+\end{array}\right]
+$$
+- Remember that $V$ is a vector, $P$ is a matrix and $W$ is a matrix
+- $$
+=\left[\begin{array}{cc} 
+1 & 0\\
+0 & P\\
+\end{array}\right]
+\left[\begin{array}{cc} 
+C \cdot 1 + V \cdot 0 & C \cdot 0 + VP^{-1} \\
+0 \cdot 1 + W \cdot 0 & 0 \cdot 0 + WP^{-1}
+\end{array}\right]
+$$
+- $$
+=\left[\begin{array}{cc} 
+c & VP^{-1}\\
+0 & [S_{w}]_{\beta'}\\
+\end{array}\right]
+$$
+- Note that this is [[Upper Triangular Matrices|Upper Triangular]]
