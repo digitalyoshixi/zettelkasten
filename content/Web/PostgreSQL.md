@@ -15,7 +15,7 @@ An open-source relational [[Structured Query Language|SQL]] database
 1. `createdb <economy>`
 2. `psql <databasename>`
 3. `create role <user> with superuser login createdb;`
-4. `\password <user>`
+4. `password <user>`
 5. `set role <user>;`
 6. `select current_user;`. you should be the \<user> now.
 7. 
