@@ -6,7 +6,6 @@ LISP is very expressive when it comes to documentation
 # Program Comment
 ```lisp
 ;;;; Describe Program
-
 ```
 # Stand-Alone Line Comment
 ```lisp
