@@ -9,3 +9,4 @@ tags:
 # Techniques
  - [[pwndbg dps]]
  - [[pwndbg cyclic]]
+ - [[pwndbg Patching]]
