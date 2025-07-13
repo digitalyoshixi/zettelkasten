@@ -5,7 +5,7 @@ tags:
 ---
 # Definition
 A matrix is normal if:
-$A A^{*} = A*A$
+$A A^{*} = A^{*}A$
 # Examples
 - [[Identity Matrix]]
 - [[Unitary Operator|Unitary Matrix]]
