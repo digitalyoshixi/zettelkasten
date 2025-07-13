@@ -2,6 +2,8 @@
 tags:
   - math
   - linalg
+aliases:
+  - Hermitian Transpose
 ---
 # Definition
 - With $A := (a_{j,k}) \in \mathbb{C}^{n \times n}$

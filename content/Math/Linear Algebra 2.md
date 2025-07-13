@@ -113,6 +113,7 @@ aliases:
 - [[Orthogonal Projection]]
 - [[Orthogonal Complement]]
 - [[Bessels Inequality]]
+- [[Orthogonal Subspace]]
 ### Week 8
 - [[Least Squares Method]]
 - [[Least Squares Theorem]]
