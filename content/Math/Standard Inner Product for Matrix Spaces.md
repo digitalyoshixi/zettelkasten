@@ -2,6 +2,8 @@
 tags:
   - math
   - linalg
+aliases:
+  - Frobenius Inner Product
 ---
 # Definition
 - With $A := (a_{j,k}) \in \mathbb{C}^{n \times n}$
