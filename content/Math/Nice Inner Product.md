@@ -4,6 +4,7 @@ tags:
   - linalg
 aliases:
   - Parallelogram Law
+  - Nice Norm
 ---
 # Theorem
 1. With $|| \cdot ||$ as a [[Norm]] for [[Vector Space]] $V$
