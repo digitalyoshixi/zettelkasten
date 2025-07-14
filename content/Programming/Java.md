@@ -64,5 +64,7 @@ public class Main {
 - [[Java Generics]]
 ### Other Libraries
 - [[Java Math]]
+- [[Java ArrayList]]
+- [[Java HashMap]]
 ### Testing
 - [[Java Exception]]
