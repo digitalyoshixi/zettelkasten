@@ -32,5 +32,6 @@ https://degreeexplorer.utoronto.ca/degreeExplorer/planner
 https://login.library.utoronto.ca/index.php?url=https://exams.library.utoronto.ca
 # Timetable Building Tool
 - https://icprplshelp.github.io/UofT-Timetable-Prototype-V2/
+- https://ttb.utoronto.ca/
 # Timetable Tracker
 - https://icprplshelp.github.io/UofT-Enrollment-Tracker/
