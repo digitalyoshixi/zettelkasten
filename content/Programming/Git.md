@@ -38,6 +38,7 @@ upload files to remote repository
 ### pull
 download changes from github or another repository-
 - `git pull` pull from main branch
+- `git pull origin <branchname>` pull from a specific branch
 ### log
 See all commit hashes within a repo
 - `git log`
