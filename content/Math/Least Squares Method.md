@@ -8,8 +8,8 @@ aliases:
 # Least Square Solution Definition
 - If $A$ is a $m \times n$ matrix,
 - $b \in \mathbb{R}^{m}$
-- a least square solution of $Ax = b$ is a vector $x \in \mathbb{R}^{n}$ such that:
-- $|| b - Ax || \leq || b - Ax ||, \forall x \in \mathbb{R}^{n}$ ([[Best Approximation]])
+- a least square solution of $Ax = b$ is a vector $\hat{x} \in \mathbb{R}^{n}$ such that:
+- $|| b - A \hat{x} || \leq || b - A x ||, \forall x \in \mathbb{R}^{n}$ ([[Best Approximation]])
 You can find $x$ with [[Least Squares Theorem]]
 # Intuition
 - With an error vector $e$
