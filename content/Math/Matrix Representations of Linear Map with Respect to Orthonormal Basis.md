@@ -18,7 +18,12 @@ Then, $$[T] = \left[\begin{array}{cc}
 \langle T e_{1} | e_{2} \rangle & \langle T e_{2} | e_{1} \rangle\\
 \langle T e_{2} | e_{1} \rangle & \langle T e_{2} | e_{2} \rangle\\
 \end{array}\right]
-= \left[\begin{array}{cc} \\
-\langle 1 | 1 \rangle & \langle 1 | -1 \rangle
+= \left[\begin{array}{cc} 
+\langle (1 , 1) | (1,0) \rangle & \langle (1,  -1) | (1,0) \rangle\\
+\langle (1 , 1) | (0,1) \rangle & \langle (1,  -1) | (0,1) \rangle\\
+\end{array}\right]
+= \left[\begin{array}{cc} 
+1 & 1\\
+1 & -1\\
 \end{array}\right]
 $$
