@@ -9,7 +9,7 @@ aliases:
 # Definition
 A unitary operator is a [[Linear Operator]] on an [[Inner Product Space]] that has a vector isomorphism of the space to itself.
 # Formal Definition
-$T \in \mathcal{L}(V)$ s.t $\langle T \alpha | T \beta \rangle = \langle \alpha | \beta\rangle, \forall \alpha, \beta \in V$
+$U \in \mathcal{L}(V)$ s.t $\langle U \alpha | U \beta \rangle = \langle \alpha | \beta\rangle, \forall \alpha, \beta \in V$
 Its a isomorphism that [[Preserving Inner Products and Vector Isomorphism|Preserves Inner Products]]
 # Equivalent Definitions
 1. $UU^{*} = I = U^{*}U$ 

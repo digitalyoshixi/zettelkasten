@@ -148,6 +148,7 @@ aliases:
 - [[The Spectrum of Unitary Operators on a Complex Inner Product Space lies on the Unit Circle]]
 - [[Spectral Theorem for Unitary Operators]]
 - [[Spectral Theorem for Unitary Matrixes]]
+- [[Eigenvectors for Different Eigenvalues are Orthogonal for Symmetric Matrixes]]
 --- Midterm content ends here
 - [[Polynomial]]
 - [[Polynomial Function]]
