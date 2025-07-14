@@ -1,6 +1,9 @@
 ---
 tags:
   - assembly
+aliases:
+  - MIPS Push
+  - MIPS Pop
 ---
 A [[Subroutine|Function]] calling convention that involves pushing and popping arguments onto the [[Stack]]
 # MIPS
