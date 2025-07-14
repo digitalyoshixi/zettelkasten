@@ -114,6 +114,7 @@ aliases:
 - [[Orthogonal Complement]]
 - [[Bessels Inequality]]
 - [[Orthogonal Subspace]]
+- [[Change of Basis with Orthonormal Basis]]
 ### Week 8
 - [[Least Squares Method]]
 - [[Least Squares Theorem]]
