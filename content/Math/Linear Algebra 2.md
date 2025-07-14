@@ -122,6 +122,7 @@ aliases:
 - [[Adjoint]]
 	- [[Adjoints Exist for Finite Dimensional Space]]
 - [[Matrix Representations of Linear Map with Respect to Orthonormal Basis]]
+- [[Matrix Representation of Adjoints with Respect to Orthonormal Basis]]
 - [[Self Adjoint|Hermitian Matrix]]
 - [[Pauli Matrices]]
 - [[Preserving Inner Products and Vector Isomorphism]]
