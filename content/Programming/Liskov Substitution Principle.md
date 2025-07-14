@@ -7,7 +7,8 @@ aliases:
 ---
 A [[SOLID]] design principle.
 All subtypes must be substitutable for their base types.
-This means that the validity of a model, viewed in isolated cannot be meaningfully validated.
+The validity of a model, viewed in isolated cannot be meaningfully validated.
+This means that we should design classes with the correct implementations to match the expectations of our clients. 
 # Formal Definition
 - With $\phi(x)$ be a property provable about objects $x$ of type $T$
 - Then, $\phi(y)$ should be true for all objects $y$ of type $S$ where $S$ is a subtype of $T$
