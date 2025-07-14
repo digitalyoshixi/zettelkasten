@@ -27,3 +27,5 @@ This is the map of my homelab:
 - [ ] [[TOR]] relay (bridge node)
 # Personal Journal
 - [[My Homelab Setup Journey]]
+# Guides
+- [[Homelab DNS Reset Process]]
