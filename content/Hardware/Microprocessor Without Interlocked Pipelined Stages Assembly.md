@@ -4,6 +4,7 @@ tags:
   - programming
 aliases:
   - MIPS Assembly
+  - MIPS asm
 ---
 This is a [[Reduced Instruction Set Compiler|RISC]] instruction set for [[Microprocessor Without Interlocked Pipelined Stages|MIPS]] processors.
 - [[Endness|Little Endian]]
