@@ -42,3 +42,6 @@ aliases:
 ### Week 8
 - [[Non-Functional Software Requirements]]
 - [[SOLID]]
+### Week 9
+- [[SOLID]]
+- [[Code Smell]]
