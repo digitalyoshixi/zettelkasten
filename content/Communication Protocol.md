@@ -1,0 +1,6 @@
+---
+tags:
+  - hardware
+  - networking
+aliases:
+---

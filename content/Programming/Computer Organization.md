@@ -94,3 +94,6 @@ aliases:
 # Week 10
 - [[MIPS Arrays]]
 - [[MIPS Structs]]
+- [[MIPS String]]
+- [[Word Padding]]
+- [[MIPS Functions]]

@@ -1,6 +1,8 @@
 ---
 tags:
   - programming
+aliases:
+  - Recursive Function
 ---
 A form of [[Induction]] wherein functions are ran multiple times within eachother.
 There is a:

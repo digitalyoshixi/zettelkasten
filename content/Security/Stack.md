@@ -3,7 +3,7 @@ tags:
   - memory
   - os
 ---
-*The stack grows up negatively*
+*The stack grows up negatively*. This is because it must have finite space.
 The stack has a size is:
 - 1MB on [[Windows]]
 - 4MB on [[Linux]]

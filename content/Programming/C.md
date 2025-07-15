@@ -38,7 +38,7 @@ From these, you can make an
 - [[C Datatypes]]
 - [[Integer Division 1]]
 - [[End of File|EOF]]
-- [[C Strings]]
+- [[C String]]
 - [[C Typecasting]]
 - [[C Escape Codes]]
 - [[Pointer]]

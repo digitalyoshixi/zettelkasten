@@ -2,7 +2,7 @@
 tags:
   - c
 ---
-A string library that imports many functions that can help with [[C Strings]].
+A string library that imports many functions that can help with [[C String]].
 ```c
 #include <string.h>
 
