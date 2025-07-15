@@ -9,9 +9,9 @@ tags:
 - [x] Look into [[Vivado]]
 - [x] Read about how to work with [[Verilog]] ✅ 2025-07-09
 # Resources
-- https://www.amazon.ca/Fundamentals-Electric-Circuits-Charles-Alexander/dp/9355320167
-- https://www.fpga4fun.com/
-- https://www.realdigital.org/
+- https://www.amazon.ca/Fundamentals-Electric-Circuits-Charles-Alexander/dp/9355320167 (electric fundamentals book)
+- https://www.fpga4fun.com/ (projects)
+- https://www.realdigital.org/ (guides)
 # [[Communication Protocol]]
 - [[Serial Peripheral Interface|SPI]]
 - [[Peripheral Component Interconnect Express|PCIe]]

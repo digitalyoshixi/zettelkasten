@@ -97,3 +97,4 @@ aliases:
 - [[MIPS String]]
 - [[Word Padding]]
 - [[MIPS Functions]]
+- [[MIPS Nested Functions]]
