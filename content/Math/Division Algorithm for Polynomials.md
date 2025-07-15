@@ -1,6 +1,8 @@
 ---
 tags:
   - math
+aliases:
+  - Euclidean Algorithm for Polynomials
 ---
 # Theorem
 1. If $f,d \in \mathbb{F}[x]$
@@ -13,3 +15,4 @@ tags:
 	2. $f$ is a multiple of $d$
 	3. $q$ is the quotient of $f$ and $d$
 You can use the [[Division Algorithm for Polynomials]]
+# Example
