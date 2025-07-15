@@ -6,5 +6,5 @@ aliases:
   - Commutative Group
 ---
 # Definition
-A group is abelian if all elements satisfy [[Commutative|Commutivity]]
-$$x $$
+A [[Group]] $G$ is abelian if all elements satisfy [[Commutative|Commutivity]]:
+$$x \cdot y = y \cdot x, \forall x,y \in G$$
