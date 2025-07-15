@@ -2,7 +2,12 @@
 tags:
   - math
   - discrete_math
+aliases:
+  - Bijection
+  - Bijective
 ---
-Both [[Injective Functions]] and [[Subjective Functions]] 
-Each x maps to one exactly unique Y AND
-the number-type of x and y are the same
+A function $f : V\to V$ that is both:
+- [[Injective Functions]]
+- [[Subjective Functions]]
+This means the [[Range|Codomain]] is the same as the [[Domain]].
+![[Bijective Functions-20250715211118070.webp]]
