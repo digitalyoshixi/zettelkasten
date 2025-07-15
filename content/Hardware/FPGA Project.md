@@ -16,5 +16,5 @@ tags:
 - [[Serial Peripheral Interface|SPI]]
 - [[Peripheral Component Interconnect Express|PCIe]]
 - [[Inter-Integrated Circuit|I2C]]
-- [[Compute Express Link]]
+- [[Compute Express Link|CXL]]
 - 

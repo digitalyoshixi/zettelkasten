@@ -2,5 +2,7 @@
 tags:
   - hardware
 aliases:
-  - CEL Protocol
+  - CXL Protocol
+  - CXL
+banner:
 ---
