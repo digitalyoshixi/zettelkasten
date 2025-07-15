@@ -2,5 +2,8 @@
 tags:
   - linalg
   - math
+aliases:
+  - Commutivity
 ---
-A operation is commutative if: $x \boxplus y = y \boxplus x$
+# Definition
+A operation $\boxplus$ is commutative if: $x \boxplus y = y \boxplus x$
