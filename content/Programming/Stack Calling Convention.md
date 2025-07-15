@@ -10,14 +10,13 @@ A [[Subroutine|Function]] calling convention that involves pushing and popping a
 Caller calls callee
 1. Caller pushes `$ra` 
 2. Caller pushes arguments
-3. Caller stores return address in a global variable `$ra`
-4. Callee pops arguments from the stack
-5. Callee performs function using temporary variables `$t0,...,$t9`
-6. Callee pops `$ra` from the stack
-7. Callee pushes return value onto the stack
-8. Callee jumps to the return address `$ra`
-9. Caller pops return value from stack
-10. Caller continues its original logic
+3. Callee pops arguments from the stack
+4. Callee performs function using temporary variables `$t0,...,$t9`
+5. Callee pops `$ra` from the stack
+6. Callee pushes return value onto the stack
+7. Callee jumps to the return address `$ra`
+8. Caller pops return value from stack
+9. Caller continues its original logic
 # MIPS
 Using a [[Stack]], you can push and pop.
 ### Push
