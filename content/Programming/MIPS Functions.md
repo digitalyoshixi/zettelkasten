@@ -5,6 +5,8 @@ tags:
 These are [[C labels|labels]] that use:
 - [[Stack Calling Convention]]
 - [[Register Calling Convention]]
+With callee/caller conventions:
+- [[Register Saving Conventions]]
 # Stack Calling Convention Example
 Caller:
 ![[MIPS Functions-20250715153217120.webp]]
