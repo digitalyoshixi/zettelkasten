@@ -1,0 +1,21 @@
+---
+tags:
+  - projects
+---
+# List
+- Ragebait AI. looks through your posts and finds things to piss you off. does OSINT on you
+- A Neural Network scrabble solver
+- A LLM truth verifier (like virustotal kind of. grok is this true? gemini is this true?)
+- A LLM prompt injection fuzzer. Uses various existing techniques
+- Deep Neural Rejection implementation
+- Using SecML find inputs that mess up a neural networks output horribly
+- Perplexity that can generate new formats for responses like CSVs or graphs
+- Something DAO related
+- Decentralized app store
+- Blockchain middleman that forwards all transactions to the target. then transactions from one wallet to another cannot be directly seen (could have issues with gas). Monero does something like this alr
+- Malware graph. neo4j graph comparing malware similarities of yara malware samples. part of this could be stored on blockchain
+- Quick sandbox. qemu wrapper to allow you to run software on different processors, and kvm to run on different os easily
+- Location finding model based off google maps street view
+- Tor-like protocol, but every node is a exit node. TCP communication is scattered and split between several exit nodes so no node individually transmits an entire message.
+- downloadmoreram.com, installs ring 0 software to make page files but they are mounted network drives
+- time travel debugger

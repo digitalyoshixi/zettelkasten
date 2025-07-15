@@ -23,3 +23,5 @@ A [[Reduced Instruction Set Compiler|RISC]] [[Microprocessor]] with [[Microproce
 - [[MIPS Registers]]
 - [[MIPS Datatypes]]
 - [[MIPS Functions]]
+- [[MIPS Arrays]]
+- [[MIPS Structs]]

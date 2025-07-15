@@ -90,3 +90,7 @@ aliases:
 - [[Microprocessor Without Interlocked Pipelined Stages Assembly|MIPS Assembly]]
 - [[MIPS Memory Alignment]]
 - [[MIPS Assembly Program]]
+- [[Endness]]
+# Week 10
+- [[MIPS Arrays]]
+- [[MIPS Structs]]
