@@ -20,3 +20,4 @@ Somewhere near the top of the screen, there are three crystals which you can cli
 At the end, you get this prompt near the bottom of the page. AND also a cookie, but that cookie can be faked so it doesnt matter.
 ![[Hack The North CTF 2025-20250714021806788.webp]]
 # Challenges
+brute participants organizers solo hackthenorth.com sneaky blacklist
