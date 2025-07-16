@@ -10,3 +10,5 @@ A set of vectors $S \subset V$ is orthogonal if:
 # Theorems
 - [[Orthogonal Sets are Linearly Independent]]
 - [[Orthogonal Sets to Find Coordinates]]
+# Guides
+- [[Finding Orthogonal Set]]
