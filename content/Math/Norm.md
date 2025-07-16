@@ -19,6 +19,8 @@ With $\mathcal{D}$ as an [[Integral Domain]] or [[Field]]
 2. $|x| = 0 \Longleftrightarrow x = 0$
 3. $|xy| = |x| |y|, \forall x,y \in \mathcal{D}$ ([[Multiplication]])
 4. $|x+y| \leq |x| + |y|, \forall x,y \in \mathcal{D}$ ([[Triangle Inequality]])
+### Proofs
+- [[Proving Normal Operator Property 4]]
 # Implementations
 - [[Absolute Function for Real Numbers]]
 - [[Complex Number Modulus|Absolute Function for Complex Numbers]]
