@@ -1,0 +1,53 @@
+---
+tags:
+  - security
+---
+A talk at [[Open Web Application Security Project|OWASP]] Toronto by Matt Brown.
+# Notes
+- [[Prompt Engineering]] is a real title now
+- You need to be somewhat skilled at prompting to be efficient
+- You can think of cursor, replit ghostwriter, windsurf, copilot as your vibecoding tools
+- We build:
+	- Modern AI native apps
+	- They are model based and not hard coded
+	- They make real time deicison
+	- They are uncertain
+	- They are embedded intelligence
+- Who builds it:
+	- Vibe based development
+	- Autonomous code writing
+	- No syntax included
+- [[Vibe Coding]]
+- We are more scared of vibecoders than actual developers breaking things
+- LLMs are trained off of [[Open Source Software]]. A lot of bad practices in open source since its a free world
+- [[Software Composition Analysis]] exists to scan vulnerabilities in bad code
+- Software engineers $\neq$ programmers. We are not developing sustainable codebases
+- Github CTO says: We are laying off but we will hire a lot more, you can be 10x with 10 developers, 100x with 100 developers
+- Guy gets his vibecoded app destroyed. Software is complicated, it is a whole system to support it, and vibecoding neglects the system and security behind the app
+- Code flow for interns to deploy into prod:
+	- Dev prompt
+	- AI Code
+	- SQL DB (no auth)
+	- No validation of rate limits
+	- [[Static Application Security Testing]] pass
+	- Code review approve all
+	- App shipped
+- Malicious attacker will:
+	- AI [[Fuzzing|Fuzz]] endpoints
+	- Destroy systems
+- 75% of developers are using AI copilots
+- 40% of code on github is AI generated ([[Microsoft]])
+- 62% of AI generated code has issues
+- They tested cursor, and asked it to create a board game collection app, It has 65 critical [[Common Vulnerabilities and Exposures|CVE]], 700 [[Static Application Security Testing]] issues, 1600 dependencies, app didnt work
+	- Mostly outdated dependencies
+- [[Stochastic Algorithm|Non-Determinism]] is good and bad
+	- Same prompt can product different results
+	- Free from IF-THEN. Allows for creativity and reasoning
+	- Code value is dependent on the model you are using
+- When prompting, speak like a different person - appsec people speak appsec
+- Expect the unexpected:
+	- Small features have a huge impact. Simple AI suggestions can inflate your dependency tree (AI likes to make significant architectural changes. It will simplify things automatically)
+	- Vulnerability multiplication. Each dependency can introduce new risks
+	- Risks beyond CWEs and CVEs. AI can make architectural changes that impact your security posture
+- [[Static Application Security Testing]] tends to struggle with negative logic. Removing some security feature does not flag anything
+- With [[DAST]], you could probably identify this
