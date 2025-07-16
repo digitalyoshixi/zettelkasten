@@ -4,26 +4,15 @@ tags:
   - security
 ---
 Tool to analyze packets. Pivotal in retaliation and forensics.
-
-
 ### Profiles
-
 Profiles are configurations of wireshark
-
 ![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2ivax_tmp_ced68987477385c8.png)
-
 Changes colors, filters and more. Shift+CTRL+A to enter the configuration panel. There you can edit the profiles
-
 ![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2ivax_tmp_7ff215475ed7d5c7.png)
-
-  
-
 ### Columns
-
 You are able to edit the columns shown in the packet list. This allows you to also add more column parameters to make analysis easier like a column for UTC time.
 
 CTRL+SHIFT+P > Columns
-
 ### Coloring rules
 
 View > Coloring Rules

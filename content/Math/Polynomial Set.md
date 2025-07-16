@@ -3,7 +3,6 @@ tags:
   - linalg
   - math
 ---
-
 # Example
 A set of all polynomials in $\mathbb{R}$ is denoted as:
 $P_{n}(\mathbb{R})$

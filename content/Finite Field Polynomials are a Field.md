@@ -1,0 +1,6 @@
+---
+tags:
+  - math
+  - linalg
+---
+# Theorem
