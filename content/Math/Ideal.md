@@ -10,6 +10,7 @@ An [[Additive Subgroup]] ($I,+$) of a [[Ring]] where:
 2. Show that $\forall r \in R, \exists x \in I, rx \in I$
 # Concepts
 - [[Generator for Ideal]]
+- [[Trivial Ideal]]
 # Examples
 ### Showing Even Integers are a Ideal
 - Let $x \in \{  \text{even numbers}\}, x = 2k, k \in \mathbb{Z}$

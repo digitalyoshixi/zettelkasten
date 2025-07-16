@@ -4,8 +4,9 @@ tags:
 aliases:
   - Relatively Prime
 ---
+# Definition
 2 Numbers are relatively prime if:
-[[Greatest Common Divisor|Greatest Common Factor]] between the 2 numbers is 1.
+[[Greatest Common Divisor|GCD]] between the 2 numbers is 1.
 In other words, if $\frac{a}{b}$ cannot be simplified, then you have a relatively prime number
 # Example 1
 5 and 2 are relatively prime since, $\frac{2}{5}$ cannot be simplified more.

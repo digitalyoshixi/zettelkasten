@@ -3,7 +3,7 @@ tags:
   - linalg
   - math
 ---
-This is a [[Integral Domain]] with a divisor algorithm. That is:
+This is a [[Integral Domain]] with a [[Division Algorithm for Integers|Divison Algorithm]]. That is:
 # Formal Definition
 - With $\mathcal{D}$ as an [[Integral Domain]]
 - $\mathcal{D}$ is a euclidean domain if $\forall a,b \in \mathcal{D}$, $\exists$ [[Norm|Norm]] on $\mathcal{D}$ $N : \mathcal{D} \to \mathbb{Z}^{+}$ s.t:

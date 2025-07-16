@@ -164,3 +164,10 @@ aliases:
 - [[Fundamental Theorem of Arithmetic|FTOA]]
 - [[Prime Factorization of Polynomials]]
 - [[Fundamental Theorem of Algebra]]
+# Week 10
+- [[Finitely Generated Polynomial Ideal]]
+- [[Principle Polynomial Ideal]]
+- [[Polynomial Ideal Fx is a Principle Ideal Domain]]
+- [[Greatest Common Divisor of Polynomials]]
+- [[Division Algorithm for Integers|Euclidean Algorithm for Integers]]
+- [[Division Algorithm for Polynomials|Euclidean Algorithm for Polynomials]]

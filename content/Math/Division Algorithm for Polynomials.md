@@ -15,4 +15,6 @@ aliases:
 	2. $f$ is a multiple of $d$
 	3. $q$ is the quotient of $f$ and $d$
 You can use the [[Division Algorithm for Polynomials]]
+# Proces
+1.
 # Example

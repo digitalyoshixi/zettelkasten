@@ -14,3 +14,8 @@ aliases:
 	1. $d$ divides $f$
 	2. $f$ is a multiple of $d$
 	3. $q$ is the quotient of $f$ and $d$
+# Example
+Find the $gcd(20, 15)$
+1. $\frac{20}{15} = 15(1) + 5$
+2. $\frac{15}{5} = 3(5) + 0$
+3. Thus, the $gcd(20,15) = 5$
