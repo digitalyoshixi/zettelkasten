@@ -152,6 +152,7 @@ aliases:
 - [[Spectral Theorem for Unitary Matrixes]]
 - [[Eigenvectors for Different Eigenvalues are Orthogonal for Symmetric Matrixes]]
 --- Midterm content ends here
+- [[Polynomials over a Field]]
 - [[Polynomial]]
 - [[Polynomial Function]]
 - [[Applying Polynomials to Linear Operators]]
@@ -171,3 +172,6 @@ aliases:
 - [[Greatest Common Divisor of Polynomials]]
 - [[Division Algorithm for Integers|Euclidean Algorithm for Integers]]
 - [[Division Algorithm for Polynomials|Euclidean Algorithm for Polynomials]]
+- [[Polynomial Field]]
+- [[Finite Fields Have a Multiplicative Inverse]]
+  [[Creating a Field from a Principal Ideal Domain]]
