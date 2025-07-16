@@ -10,10 +10,13 @@ Standard inner product of vector $u,v$ denoted as:
 - $\langle u, v \rangle$
 - $\langle u| v \rangle$
 - $u \cdot v$
-# Operation
-$$\langle\overrightarrow{u}|\overrightarrow{v} \rangle=|\overrightarrow{u}|*|\overrightarrow{v}|*\cos\theta$$
-$$\langle\overrightarrow{u} |\overrightarrow{v} \rangle = u_{1}v_{1}+\dots+u_{n}v_{n}$$
+# Relation to Norm
 $$\langle \alpha |  \alpha \rangle = ||\alpha||^{2}$$
+# Properties of Standard Inner Product
+1. $\langle u,v \rangle = \langle v,u \rangle$
+2. $\langle u,v_{1}+v_{2} \rangle = \langle u,v_{1} \rangle + \langle u,v_{2} \rangle$
+3. $\langle u,av \rangle = a \langle v,u \rangle$
+4. $\langle u,u \rangle \geq 0$ with equality if $u = \overrightarrow{0}$
 # Implementations
 Defined differently for the [[Field]]:
 - [[Standard Inner Product for Real Numbers]] (Dot product)
