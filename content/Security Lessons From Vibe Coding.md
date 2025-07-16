@@ -40,14 +40,34 @@ A talk at [[Open Web Application Security Project|OWASP]] Toronto by Matt Brown.
 - 62% of AI generated code has issues
 - They tested cursor, and asked it to create a board game collection app, It has 65 critical [[Common Vulnerabilities and Exposures|CVE]], 700 [[Static Application Security Testing]] issues, 1600 dependencies, app didnt work
 	- Mostly outdated dependencies
-- [[Stochastic Algorithm|Non-Determinism]] is good and bad
+- Lesson 1: [[Stochastic Algorithm|Non-Determinism]] is good and bad
 	- Same prompt can product different results
 	- Free from IF-THEN. Allows for creativity and reasoning
 	- Code value is dependent on the model you are using
 - When prompting, speak like a different person - appsec people speak appsec
-- Expect the unexpected:
+- Lesson 2: Expect the unexpected:
 	- Small features have a huge impact. Simple AI suggestions can inflate your dependency tree (AI likes to make significant architectural changes. It will simplify things automatically)
 	- Vulnerability multiplication. Each dependency can introduce new risks
 	- Risks beyond CWEs and CVEs. AI can make architectural changes that impact your security posture
 - [[Static Application Security Testing]] tends to struggle with negative logic. Removing some security feature does not flag anything
-- With [[DAST]], you could probably identify this
+- With [[Dynamic Application Security Testing]], you could probably identify this
+- Lesson 3: Start with secure prompts:
+	- Implementing security early at the prompt stage
+	- Tell it to explicitly be secure
+- Lesson 4: Implement security standards
+	- Use rules files to drive development. Rule files can drive behaviors
+	- Use ignore rule to protect sensitive data. [[Your Mileage May Vary]] with different models
+	- Use [[Test-driven Development]]. Automated checks (which you can ask the model to write) can help catch issues
+- Example: give the prompt: `Use the internal function sanitizeInputSafe() for all user input`
+- Lesson 5: Get real-time security signal
+	- Out of date code and data (and CVE data). Models are trained of code that is 1+ year old, but new CVEs are being disclosed every day
+	- Fresh intelligence. MCP servers are useful to inject fresh security intelligence into the development workflow
+	- Models can fix issues. With enough guidance, models can fix their own issues
+- [[Model Context Protocol|MCP]] are like [[Application Program Interface|API]] for [[Large Language Model|LLM]] to use. You can use Endor MCP to find the most recent vulnerabilities
+- Cursor has a MCP, it will use it while chatting, it is not a GET hook. Anytime you interact with cursor, it will do this. They don't implement as a GET hook, because dev's like freedom. You can set up your MCP to call this when you want
+- Help devs adopt code assistants:
+	- Start with secure prompts
+	- Implement security standards
+	- Add security signals with MCP servers
+- Endor will release a free prompt library
+- Motley fool did an article, 90% of american companies say they are using AI
