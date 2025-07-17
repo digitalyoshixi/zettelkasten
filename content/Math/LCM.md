@@ -2,7 +2,9 @@
 tags:
   - math
 ---
-The smallest number that has 2 numbers being their factors
-
-For example: the LCM of 5 and 6 is 30.
-the LCM of 12 and 4 is 4.
+The smallest number that has 2 numbers being their factors.
+# Definition
+$$lcm(g_{1},g_{2}) = \frac{g_{1} g_{2}}{gcd(g_{1}, g_{2})}$$
+# Examples
+- $lcm(5.6) = 30$
+- $lcm(4,12) = 12$
