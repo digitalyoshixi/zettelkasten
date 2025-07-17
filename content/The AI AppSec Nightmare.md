@@ -13,4 +13,28 @@ A talk at [[Open Web Application Security Project|OWASP]] Toronto from Pixee by 
 	- Business as usual is no longer an option
 - Software is eating the word -> AI is eating the world
 - Claude code is the best since its just command prompt
-- Lovable AI, will build you
+- Lovable AI, will build your entire website with AI
+- Jensen Huang says: It does not matter if you've never learned to code, theres a new programming language (he has an incentive for sure)
+- Shadow development is the idea that everybody is a developer now
+- Shadow development is not going through our secure [[Software Development Life Cycle|SDLC]]. In fact, there probably is no life-cycle, just push to prod 
+- Vibecoders do not know [[OWASP Top 10]]
+- The [[OWASP Application Security Verification Standard]] is the greatest application security verification standard. 450 specific things to validate an application is secure
+- [[XZ Backdoor]]
+- AI tools will [[AI Hallucinations|Hallucinate]] package names (See [[Slop Squatting]]). 21.7% of package names do not even exist and are targets
+- There is now a [[OWASP Artificial Intelligence Security Verification Standard|AISVS]]
+- Most funding goes to network security and cloud security, [[AppSec]] goes underfunded
+- Why are the bad guys focused more-so on network issues? Because, applications are very hard, and very difficult. Making exploits is not easy. Not easily reproducible. High-hanging fruit.
+- Developers use [[Metasploit]] to get pre-made payloads
+- Everything is hooked up to a webapp, the browser is the universal software. 
+- When we talk about secure [[Software Development Life Cycle|SDLC]], we follow certain rules, we use [[Dynamic Application Security Testing|DAST]], but its not gap-proof
+- We have puppeteers like [[Jenkins]].
+- Developers never read medium, low vulnerabilities. You can always take a medium, a medium and create a critical.
+- If you have been in developer meetings, there are lots of talks as to what really are critical vulnerabilities. (It says a critical, but we think its a medium.) All of our applications are riddled with vulnerabilities
+- [[Legacy Applications]] is always a massive risk. They are getting more and more vulnerable every single day.
+- Google has claimed that project naptime - a LLM to find a zero day in a large library in [[SQLite]] - It is the worlds most widely used database
+- People are using GPT o3 to find a zero-day in linux's SMB implementation (it was already found, but GPT found it again). This researcher tried running 100 times, and it only found the vulnerability 8 times
+- Bad guys can feed things constantly, and pop out zero days
+- [[AI Agent]] are autonomous entities, they can be used as AI attackers
+- [[HackerOne]], [[Bugcrowd]] are sites where companies can provide bug bounties for their products
+- It used to be the #1 bug bounty recipient was an AI agent - It was [[XPOW]]
+- 
