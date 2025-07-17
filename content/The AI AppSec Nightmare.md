@@ -37,4 +37,29 @@ A talk at [[Open Web Application Security Project|OWASP]] Toronto from Pixee by 
 - [[AI Agent]] are autonomous entities, they can be used as AI attackers
 - [[HackerOne]], [[Bugcrowd]] are sites where companies can provide bug bounties for their products
 - It used to be the #1 bug bounty recipient was an AI agent - It was [[XPOW]]
-- 
+- XPOW process:
+	- Given a CTF challenge
+	- Greps all files
+	- Finds a [[HOCON]] parsing vulnerability
+	- Uses [[FFUF]] for fuzzing
+	- Looks at the java bytecode
+	- Creates script to  test various HOCON structures
+	- Using [[scoold]] to test APIs
+	- Creates script to test web application
+	- Finds that HOCON's includeUrl functionality is accepted by parser
+	- It finally succeeded and found the key
+- It was only 30m for series A funding to develop this tool
+- XPOW has a blog post on how they trained this AI for bug bounties
+- [[Nation State Agency|NSA]], and criminal groups can easily do this for less money
+- Point and click and find vulns
+- AI enhanced secure [[Software Development Life Cycle|SDLC]]. AI will help us to secure code. We can integrate AI powered [[Dynamic Application Security Testing|DAST]] and [[Static Application Security Testing|SAST]]
+- We can automate vulnerability triage
+- We can assist developers with AI based remediation to fix the vulnerabilty
+- We can monitor applications in prod, using AI insights
+- AI is bad by default at finding vulnerabilities, but you can provide it procedures and guides to find them
+- XPOW will do a live-hack at blackhat conference
+- OWASP slack channel will talk about upcoming seminars
+- As code gets larger, it becomes harder to fit things inside of the context, there are token limits. AI SAST is still a ways off
+- The researcher transformed the code, so all the pertinent methods were all in a row
+- AI will not get exponentially better, it already read most of the internet, and the new data is not coming in any faster. Now, most code in github is AI generated, so this will stall out AI in its abilities
+- AI generates its own training data - like [[AlphaGo]]
