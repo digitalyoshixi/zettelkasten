@@ -10,3 +10,9 @@ tags:
 - $\exists$ a transform $T : \mathbb{R}^{n} \to \mathbb{R}^{n}$
 - Exists two bases $\alpha, \beta$
 - Then, $A = [T]_{\alpha}^{\alpha}, B = [T]_{\beta}^{\beta}$
+# Properties
+Similar matrixes will:
+- Share the same [[Rank]]
+- Share the same [[Determinant]]
+- Share the same [[Matrix Trace]]
+- Share the same [[Eigenvector|Eigenvalues]]

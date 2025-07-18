@@ -5,10 +5,14 @@ tags:
 ---
 # Theorem
 - Let $V$ be a finite-dimensional [[Complex Inner Product Space]].
-- Let $T$ be a [[Linear Operator]] on $V$
-- Then, there is a [[Orthonormal Set|Orthonormal Basis]] for $V$ in which the matrix of $T$ is [[Upper Triangular Matrices|Upper Triangular]]
+- Let $T$ be a [[Linear Operator]] on $V$ with matrix $A$
+- Then, there is a [[Orthonormal Set|Orthonormal Basis]] such that there is a [[Upper Triangular Matrices|Upper Triangular]] matrix $M$
+- Then, there is a [[Unitary Operator|Unitary]] basis $U$ such that:
+$$A = U M U^{*}$$
 # Intuition
 - If i show a matrix is normal, then I know it is [[Diagonalizable]], and I know the eigenvectors are perpendicular to eachother
+This process can be used to find [[Similar Matrixes]] so that further computations are easier
+![[Schur's Decomposition-20250718183236899.webp]]
 # Proof
 We show this with [[Induction|PMI]].
 ### Base Case

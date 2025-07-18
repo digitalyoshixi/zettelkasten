@@ -4,6 +4,7 @@ tags:
   - linalg
 aliases:
   - Trace Matrix
+  - Trace
 ---
 The trace for matrix
 $$
