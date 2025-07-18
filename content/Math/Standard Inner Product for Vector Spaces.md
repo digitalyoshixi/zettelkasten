@@ -29,5 +29,5 @@ Over $\mathbb{C} \implies \alpha \cdot \beta = \sum_{j=1}^{n}x_{j} \overline y_{
 - [[Basic Properties of Inner Products]]
 - [[Inner Products Define a Norm]]
 - [[Nice Inner Product]]
-- [[Function that Recovers the Inner Product]]
+- [[Polarization Identity]]
 - [[Matrix Representation of Inner Product]]

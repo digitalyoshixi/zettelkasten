@@ -4,7 +4,15 @@ tags:
   - linalg
 ---
 # Theorem
-![[Matrix Representation of Quadratic Form-20250613154453839.webp]]
+Given $x \in \mathbb{R}^{n}$:
+- $f$ as the  [[Quadratic Form]] $f(x) = \sum_{i=1}^{n}a_{ij}x_{i}x_{j}$
+- With $A : a_{ij}$
+- Then, $x^{T}Ax= f(x)$
+Given $x \in \mathbb{C}^{n}$:
+- $f$ as the  [[Quadratic Form]] $f(x) = \sum_{i=1}^{n}a_{ij}\overline x_{i}x_{j}$
+- With $A : a_{ij}$
+- Then, $x^{*}Ax= f(x)$
+ ![[Matrix Representation of Quadratic Form-20250718145746731.webp]]
 # For $2 \times 2$ Matrix Example
 ### For $\mathbb{R}$
 1. With $x \in \mathbb{R}^{n}$

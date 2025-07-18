@@ -36,7 +36,7 @@ A talk at [[Open Web Application Security Project|OWASP]] Toronto from Pixee by 
 - Bad guys can feed things constantly, and pop out zero days
 - [[AI Agent]] are autonomous entities, they can be used as AI attackers
 - [[HackerOne]], [[Bugcrowd]] are sites where companies can provide bug bounties for their products
-- It used to be the #1 bug bounty recipient was an AI agent - It was [[XPOW]]
+- It used to be the #1 bug bounty recipient was an AI agent - It was [[XBOW]]
 - XPOW process:
 	- Given a CTF challenge
 	- Greps all files

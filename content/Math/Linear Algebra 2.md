@@ -97,7 +97,7 @@ aliases:
 - [[Standard Inner Product]]
 - [[Standard Inner Product for Vector Spaces]]
 - [[Inner Products Define a Norm]]
-- [[Function that Recovers the Inner Product]]
+- [[Polarization Identity]]
 - [[Inner Product Space]]
 ### Week 7
 - [[Generalized Pythagorean Theorem]]

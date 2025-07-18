@@ -2,8 +2,7 @@
 tags:
   - math
   - linalg
-aliases:
-  - Linear Form
+aliases: []
 ---
 Any [[Linear Transform|Linear Map]] that takes in a vector space and outputs a scalar in the same field.
 # Formal Definition

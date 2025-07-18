@@ -3,7 +3,7 @@ tags:
   - math
   - linalg
 aliases:
-  - Polarization Identity
+  - Function that Recovers the Inner Product
 ---
 # For $\mathbb{R}$
 $$\langle \alpha | \beta \rangle = \frac{1}{4} || \alpha + \beta|| ^{2 } - \frac{1}{4}|| \alpha - \beta|| ^{2}$$
