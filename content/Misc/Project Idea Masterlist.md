@@ -19,3 +19,4 @@ tags:
 - Tor-like protocol, but every node is a exit node. TCP communication is scattered and split between several exit nodes so no node individually transmits an entire message.
 - downloadmoreram.com, installs ring 0 software to make page files but they are mounted network drives
 - time travel debugger
+- A [[Homomorphic Encryption]] at rest [[File System]]
