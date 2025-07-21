@@ -4,12 +4,12 @@ tags:
 aliases:
   - Rivest Shamir Adleman
 ---
+A cryptosystem based off the [[Discrete Logarithm Problem|DLP]].
 The name is the first letters of the 3 founders
 It is by far the most used Asymmetric Encryption algorithm
 
 RSA creates a pair of [[Commutative Encryption|Commutative Keys]].
 https://www.youtube.com/watch?v=Pq8gNbvfaoM 
-
 # Commonly Used Terminology
 **P and Q:** 2 Prime \#s used in generation
 **N**: Product of 2 primes

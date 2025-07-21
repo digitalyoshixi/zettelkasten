@@ -47,3 +47,9 @@ aliases:
 - [[Code Smell]]
 ### Week 11
 - [[Design Pattern]]
+	- [[Factory Method]]
+	- [[Singleton Method]]
+	- [[Adapter Method]]
+	- [[Facade Structural Method]]
+	- [[Observer Method]]
+	- [[Strategy Method]]

@@ -4,7 +4,7 @@ tags:
 ---
 A [[Design Pattern]] for code structure.
 Involves creating a facade class for clients, that abstracts the complexities of all the subsystem classes.
-![[Facade Method-20250721135727262.webp]]
+![[Facade Method-20250721144127755.webp]]
 # Example
 ```java
 public class Facade{
