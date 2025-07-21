@@ -8,14 +8,13 @@ These are development patterns.
 These are pattern revolved around code creation
 - [[Factory Method]]
 - [[Singleton Method]]
-- [[Facade Creational Method]]
 ### Structural Patterns
 These are patterns revolved around code structure
 - [[Adapter Method]]
 - [[Bridge Method]]
 - [[Composite Method]]
 - [[Decorator Method]]
-- [[Facade Structural Method]]
+- [[Facade Method]]
 - [[Flyweight Method]]
 - [[Proxy Method]]
 ### Behavioral Patterns

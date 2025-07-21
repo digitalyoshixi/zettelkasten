@@ -20,3 +20,4 @@ tags:
 - downloadmoreram.com, installs ring 0 software to make page files but they are mounted network drives
 - time travel debugger
 - A [[Homomorphic Encryption]] at rest [[File System]]
+- https://tensortrust.ai/paper/ clone, but with more options for break-in, instead of only saying "Access Granted". Also use [[Probe]]

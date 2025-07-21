@@ -50,6 +50,6 @@ aliases:
 	- [[Factory Method]]
 	- [[Singleton Method]]
 	- [[Adapter Method]]
-	- [[Facade Structural Method]]
+	- [[Facade Method]]
 	- [[Observer Method]]
 	- [[Strategy Method]]
