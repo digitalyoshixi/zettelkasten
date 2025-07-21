@@ -11,7 +11,7 @@ aliases:
 - [[Software Development Life Cycle|SDLC]]
 - [[Unit Testing]]
 - [[SOLID Design]]
-- [[Design Patterns]]
+- [[Design Pattern]]
 - [[Principles of Clean Code]]
 ### Week 1 or 2
 - [[Java]]
@@ -46,4 +46,4 @@ aliases:
 - [[SOLID]]
 - [[Code Smell]]
 ### Week 11
-- [[Design Patterns]]
+- [[Design Pattern]]

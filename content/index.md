@@ -13,6 +13,7 @@ I aim to make this obsidian vault bloated asf
 - [[Computer Organization]]
 - [[CSCB07]]
 # Current Learning
+- [[CompTIA Security+]]
+- [[Homomorphic Encryption Project]] 
+- [[CSEC Esolang Seminar]]
 - [[FPGA Project]]
-- [[Compiler]]
-- [[Alchemy]]
