@@ -2,9 +2,9 @@
 tags:
   - java
 ---
-This is a [[Java]] keyword that specifies a variable cannot change.
-Similar to [[C Macros|C Constants]].
-
+This is a [[Java]] keyword that specifies:
+- A variable cannot change (constant)
+- A class cannot be extended
 # Boilerplate
 ```java
 final myvar = 20;

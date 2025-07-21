@@ -7,6 +7,9 @@ A class is essentially a blueprint for you to create any datatype with any metho
 - [[Java Abstract Class]]
 - [[Java Concrete Class]]
 - [[Java Interface]]
+# Modifiers
+- [[Java Static Variables]]
+- [[Java final]]
 # Concepts
 - [[Java Comparable]]
 # Boilerplate (Concrete Class)

@@ -45,3 +45,5 @@ aliases:
 ### Week 9
 - [[SOLID]]
 - [[Code Smell]]
+### Week 11
+- [[Design Patterns]]
