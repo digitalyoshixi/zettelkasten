@@ -27,3 +27,6 @@ A [[Reduced Instruction Set Compiler|RISC]] [[Microprocessor]] with [[Microproce
 - [[MIPS Structs]]
 - [[MIPS String]]
 - [[MIPS Bitmap]]
+- [[MIPS Keyboard Input]]
+- [[MIPS Random Number Generator]]
+- [[MIPS Sleep]]
