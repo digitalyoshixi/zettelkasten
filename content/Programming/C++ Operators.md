@@ -2,11 +2,10 @@
 tags:
   - cpp
 ---
-operators require:
-1. an operation
-2. two operators(called operands)
-operators are [[Lamba Functions]] which return(or not) a value depending on the operator used.
-operators can have more than one meaning. eg, the `-` operator can be used to negate or subtract
+Operators require:
+1. An operation
+2. Two operators(called operands)
+Operators can have more than one meaning. eg, the `-` operator can be used to negate or subtract
 # Operators
 | operator | effect |
 | ---- | ---- |
@@ -24,7 +23,7 @@ operators can have more than one meaning. eg, the `-` operator can be used to ne
 | -------- | ------ |
 | new      |      |
 | delete   | does not return.       |
-| throw    | does not return. throws an [[Exception]]       |
+| throw    | does not return. throws an [[System Exception]]       |
 
 # Unary vs Binary
 ### Unary
