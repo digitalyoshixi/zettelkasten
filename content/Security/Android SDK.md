@@ -21,6 +21,7 @@ https://developer.android.com/studio
 - [[findViewById]]
 - [[Android Toast]]
 - [[Android Strings]]
+- [[Android Local App Storage]]
 ### Testing
 - [[JUnit]]
 - [[Mockito]]

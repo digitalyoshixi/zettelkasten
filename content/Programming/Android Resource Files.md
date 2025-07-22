@@ -10,5 +10,5 @@ Located at `/res/*`
 # Resources
 - [[Android Screen Layout|Layout]]
 - [[Android Drawable]]
-  [[Android Strings]]
-  [[Android Colors]]
+- [[Android Strings]]
+- [[Android Colors]]
