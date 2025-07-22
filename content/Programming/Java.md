@@ -37,6 +37,7 @@ public class Main {
 - [[Java Virtual Machine|JVM]]
 - [[Java While Loops]]
 - [[Java For Loop]]
+- [[Java Iterator]]
 ### Variables
 - [[Java final]]
 - [[Java Default Values]]
