@@ -98,3 +98,5 @@ aliases:
 - [[Word Padding]]
 - [[MIPS Functions]]
 - [[MIPS Nested Functions]]
+# Week 11
+- [[Control Unit]]
