@@ -26,3 +26,4 @@ A [[Reduced Instruction Set Compiler|RISC]] [[Microprocessor]] with [[Microproce
 - [[MIPS Arrays]]
 - [[MIPS Structs]]
 - [[MIPS String]]
+- [[MIPS Bitmap]]
