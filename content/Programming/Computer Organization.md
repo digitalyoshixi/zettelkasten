@@ -100,3 +100,6 @@ aliases:
 - [[MIPS Nested Functions]]
 # Week 11
 - [[Control Unit]]
+- [[MIPS Control Unit]]
+- [[Multicycle CPU]]
+- [[MIPS Multicycle Stages]]
