@@ -11,3 +11,6 @@ A piece of [[Assembly]] code called whenever the [[Processor]] recieves an [[Sys
 	2. Deal with memory issues
 	3. Terminate program
 3. Return to original code
+# Types of Handlers
+- [[Polled Handling]]
+- [[Vectored Handling]]
