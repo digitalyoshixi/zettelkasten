@@ -175,3 +175,9 @@ aliases:
 - [[Polynomial Field]]
 - [[Finite Fields Have a Multiplicative Inverse]]
   [[Creating a Field from a Principal Ideal Domain]]
+# Week 11
+- [[Proper Subspace Can be Multiplied to Be Within Other Subspace Lemma]]
+- [[Invariant|Invariant Subspace]]
+- [[Set of Triangular Matrixes]]
+- [[Invariant Subspace Characterization of Triangularability]]
+- [[Characterization of Triangularizability and Diagonalizability in Terms of the Minimal Polynomial]]

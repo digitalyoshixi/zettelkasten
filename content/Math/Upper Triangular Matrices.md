@@ -4,6 +4,8 @@ tags:
   - linalg
 aliases:
   - Upper Triangular
+  - Triangular
+  - Triangularizable
 ---
 A matrix where $m_{ij}=0$ when $i < j$
 For example:
