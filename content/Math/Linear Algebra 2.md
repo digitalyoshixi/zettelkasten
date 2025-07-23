@@ -181,3 +181,5 @@ aliases:
 - [[Set of Triangular Matrixes]]
 - [[Invariant Subspace Characterization of Triangularability]]
 - [[Characterization of Triangularizability and Diagonalizability in Terms of the Minimal Polynomial]]
+- [[Every Complex Operator is Triangularizable]]
+- [[Determine if Matrix is Triangularizable or Diagonalizable]]
