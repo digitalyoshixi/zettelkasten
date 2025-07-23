@@ -19,3 +19,4 @@ The general structure of an assembly program should have:
 - [[MIPS Boilerplate Snippet]]
 - [[MIPS Load Variable Snippet]]
 - [[MIPS Array and For Loop Snippet]]
+- [[MIPS 2D Loop Snippet]]
