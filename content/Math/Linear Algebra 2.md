@@ -19,11 +19,7 @@ aliases:
 - 60% (1-2hrs per week) understanding problems from class and most homeworks
 - 80% (1-2hrs per week) understanding what is presented
 - Late submission policy after 4 days
-- [[Gram-Schmidt Algorithm]] will be about 8% of your midterm grade
 - 30-40% of the assesments will be using the definitions, prove these basic properties...
-- [[Adjoint]] properties will not be proven, they are too involved
-- We should be able to show [[Unitary Operator]], (with definitions 1,5,6 or original)
-- Midterm week 6-9
 # Concepts
 ### Week 0.1
 - [[Field]]
@@ -174,7 +170,7 @@ aliases:
 - [[Division Algorithm for Polynomials|Euclidean Algorithm for Polynomials]]
 - [[Polynomial Field]]
 - [[Finite Fields Have a Multiplicative Inverse]]
-  [[Creating a Field from a Principal Ideal Domain]]
+- [[Creating a Field from a Principal Ideal Domain]]
 # Week 11
 - [[Proper Subspace Can be Multiplied to Be Within Other Subspace Lemma]]
 - [[Invariant|Invariant Subspace]]
