@@ -3,4 +3,6 @@ tags:
   - database
 ---
 A [[Google]] [[No-SQL]] database.
-It will allow 
+# Concepts
+- [[google-services.json]]
+- [[Firebase Rules]]
