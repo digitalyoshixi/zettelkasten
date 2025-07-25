@@ -186,4 +186,6 @@ aliases:
 - [[Independent Subspaces]]
 - [[Distinct Eigenvalues Imply Eigenspaces are Linearly Indepedent]]
 - [[Projection]]
-- [[Projection from Direct Sum Theorem]]
+- [[Projections from Direct Sum Theorem]]
+- [[Direct Sum of Linear Transformations]]
+- [[Diagonalizable Properties Theorem]]
