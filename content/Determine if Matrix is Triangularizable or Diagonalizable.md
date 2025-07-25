@@ -4,7 +4,7 @@ tags:
   - linalg
 ---
 # Example
-With $$A = \left[\begin{array}{cc} \\
+With $$A = \left[\begin{array}{cc} 
 0 & -1\\
 1 & 0\\
 \end{array}\right]$$
