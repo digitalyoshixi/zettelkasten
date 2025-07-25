@@ -107,3 +107,14 @@ $$
 0\\
 \end{array}\right]
 $$
+# Example 2
+- With a [[Projection]] matrix $$A = \left[\begin{array}{cc} 
+1 & 0\\
+0 & 0\\
+\end{array}\right]$$
+- Then, $E^{2} = E$ by defn
+- Then, with $f(x) = x^{2} -x$
+- Then, $f(E) = 0$
+- This implies $f(x) = (x)(x-1)$, $x$ or $x - 1$
+- In each case, $p$ is a product of distinct linear factors, so $E$ is always diagonaizable.
+- Additionally, the only eigenvalues are $1,0$ as the only roots for the [[Minimal Polynomial]] are $1$ and $0$

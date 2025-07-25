@@ -10,4 +10,4 @@ tags:
 # Properties
 - $E$ is a [[Linear Transform|Linear Map]]
 - $Range(E) = W$
-- $E^{2} = E$, that is $E$ is a [[Vector Projection]]
+- $E^{2} = E$, that is $E$ is a [[Projection]]

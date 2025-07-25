@@ -1,8 +1,7 @@
 ---
 tags:
   - math
-aliases:
-  - Projection Operator
+aliases: []
 ---
 The idea of a vector casting a shadow on another vector and turning that 'shadow' into a vector.
 ![[Vector Projection-20240529142919585.webp|480]]

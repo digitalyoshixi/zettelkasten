@@ -184,3 +184,6 @@ aliases:
 - [[Companion Matrix]]
 - [[Block Diagonal Matrix]]
 - [[Independent Subspaces]]
+- [[Distinct Eigenvalues Imply Eigenspaces are Linearly Indepedent]]
+- [[Projection]]
+- [[Projection from Direct Sum Theorem]]
