@@ -22,6 +22,7 @@ aliases:
 - 30-40% of the assesments will be using the definitions, prove these basic properties...
 - There is a bonus quiz 6, which will be the material after quiz 5. It is extra material
 - The quiz will require you to reform numbers to match the [[Finite Field]]. E.g, in $\mathbb{Z} \mod 5$, $(x-2) = (x+3)$
+- [[Characterization of Triangularizability and Diagonalizability in Terms of the Minimal Polynomial]] is a very important theorem for the final
 # Concepts
 ### Week 0.1
 - [[Field]]
@@ -189,3 +190,4 @@ aliases:
 - [[Projections from Direct Sum Theorem]]
 - [[Direct Sum of Linear Transformations]]
 - [[Diagonalizable Properties Theorem]]
+- [[Using Lagrange Polynomial to Compute Eigenspace]]
