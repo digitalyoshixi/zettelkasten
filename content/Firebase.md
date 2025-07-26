@@ -2,7 +2,12 @@
 tags:
   - database
 ---
-A [[Google]] [[No-SQL]] database.
+A [[Google]] developed suite of tools to replace backend development. ([[Backend As a Service]])
+Includes:
+- [[Firestore]]
+- [[Google Cloud Storage]]
+- [[Real Time Database]]
+- Authentication services
 # Concepts
 - [[google-services.json]]
 - [[Firebase Rules]]
