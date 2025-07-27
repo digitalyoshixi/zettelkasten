@@ -1,11 +1,9 @@
 ---
 tags:
   - hardware
-aliases:
-  - Full Disk Encryption
-  - FDE
+aliases: []
 ---
-File encryption by microsoft.
+A method of [[Full Disk Encryption]] By [[Microsoft]]
 Can encrypt **files**, **folders** or an **entire drive** in **real-time**.
 Uses user's password as the decryption/encryption key.
 Encrypted when the user logs off, decrypted while the user is logged on.
