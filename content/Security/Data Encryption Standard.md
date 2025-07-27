@@ -5,4 +5,4 @@ tags:
 aliases:
   - DES
 ---
-A [[Symmetric Encryption|Symmetric Algorithm]]
+A [[Symmetric Cryptography|Symmetric Algorithm]]

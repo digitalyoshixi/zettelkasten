@@ -6,10 +6,13 @@ aliases:
   - TPM
 ---
 ![[Trusted Platform Module-20240525142022551.webp|377]]
-A hardware platform for cryptographic functions and security keys.
+A hardware platform for:
+- Generating keys
+- Storing keys
+- Storing software signatures
 Used for:
 - [[Windows BitLocker]]
-- [[Hardware DRMs]]
+- [[Digital Rights Management|Hardware DRM]]
 - Network access control
 - Application blacklist
 - Password protection
