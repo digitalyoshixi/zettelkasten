@@ -1,6 +1,8 @@
 ---
 tags:
   - security
+aliases:
+  - Certificate
 ---
 A document used to link a [[Public Key]] to an entity.
 Often includes:
@@ -11,3 +13,8 @@ Certificates are stored on the local device with [[File Extension]] `.cer` or `.
 - [[TLS Certificate]]
 - [[Email Certificate]]
 - [[Self-Signed Certificate]]
+# Concepts
+- [[Certificate Authority|CA]]
+- [[Certificate Revocation List|CRL]]
+- [[Online Certificate Status Protocol]]
+- [[Certificate Signing Request]]

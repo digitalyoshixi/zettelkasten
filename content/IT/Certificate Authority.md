@@ -6,7 +6,8 @@ aliases:
   - CA
 ---
 A server that issues [[Digital Certificate]].
-Hosted within the local network, and creates the certificates for all devices in the network, including itself which would have a [[Self-Signed Certificate]]
+A self-hosted CA is responsible for creating the certificates for all devices in the network, including itself which would have a [[Self-Signed Certificate]].
+Acts as a [[Root of Trust]]
 # TLS Certificate Authorities
 For [[TLS Certificate|TLS Certificates]], group of organizations that issue include:
 - Verisign

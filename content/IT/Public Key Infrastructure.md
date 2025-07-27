@@ -13,3 +13,4 @@ to manage [[Digital Certificate|Digital Certificates]] and [[Public-Key Cryptogr
 - [[Public Key]]
 - [[Private Key]]
 - [[Key Escrow]]
+- [[Root of Trust]]
