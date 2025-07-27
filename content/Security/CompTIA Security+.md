@@ -29,3 +29,6 @@ aliases:
 - [[Technical Change Management]]
 - [[Public Key Infrastructure]]
 - [[Full Disk Encryption]]
+- [[Encrypting File System|EFS]]
+- [[Volume Encryption]]
+- [[Database Encryption]]
