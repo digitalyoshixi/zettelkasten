@@ -9,6 +9,7 @@ A shared ledger that is designed to be:
 - [[Decentralized App|dApp]]
 - [[Cryptocurrency]]
 # Concepts
+- [[Consensus Algorithm]]
 - [[Proof of Work]]
 - [[Proof of Stake]]
 - [[Proof of Elapsed Time]]

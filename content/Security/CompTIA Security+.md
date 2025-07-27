@@ -36,3 +36,13 @@ aliases:
 - [[Hardware Security Module|HSM]]
 - [[Key Management System]]
 - [[Secure Enclave]]
+- [[Obfuscation]]
+- [[Steganography]]
+- [[Tokenization Obfuscation]]
+- [[Data Masking]]
+- [[Hashing|Hash]]
+- [[Salting]]
+- [[Digital Signature]]
+- [[Key Stretching]]
+- [[Blockchain]]
+- 

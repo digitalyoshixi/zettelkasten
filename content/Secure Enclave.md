@@ -5,5 +5,6 @@ tags:
 ---
 A hardware feature that provides isolated environments for:
 - Storing sensitive data
-- Exec
-- [[T2]]
+- Executing cryptographic operations
+# Implementations
+- [[T2 Chip]]
