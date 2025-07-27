@@ -9,3 +9,6 @@ A system of:
 - Users
 - Procedures
 to manage [[Digital Certificate|Digital Certificates]] and [[Public-Key Cryptography]]
+# Concepts
+- [[Public Key]]
+- [[Private Key]]
