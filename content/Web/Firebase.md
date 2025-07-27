@@ -15,3 +15,4 @@ Includes:
 # Guides
 - [[Android Java Firebase Upload Data]]
 - [[Android Java Firebase Get User Information]]
+- [[Android Java Firebase Read Data]]
