@@ -11,3 +11,7 @@ Includes:
 # Concepts
 - [[google-services.json]]
 - [[Firebase Rules]]
+
+# Guides
+- [[Android Java Firebase Upload Data]]
+- [[Android Java Firebase Get User Information]]
