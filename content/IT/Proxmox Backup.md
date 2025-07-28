@@ -4,7 +4,7 @@ tags:
 aliases:
   - PBS
 ---
-A [[Operating System|OS]] for automatic backups.
+A [[IT/Operating System|OS]] for automatic backups.
 Easy to setup to connect to [[Proxmox|Proxmox VE]].
 # Setup
 1. Create a [[LXC]] with turnkey-core [[Proxmox Template]]

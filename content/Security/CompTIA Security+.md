@@ -52,4 +52,8 @@ aliases:
 - [[Threat Actor]]
 - [[Attack Motivation]]
 ### 1.6
-- [[Threat Vector]]
+- [[Attack Vector]]
+- [[Supply Chain]]
+- [[Social Engineering]]
+### 1.7
+- [[Security Vulnerability|Vulnerability]]

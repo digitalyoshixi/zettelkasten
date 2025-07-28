@@ -9,7 +9,7 @@ Contains generatl information about the binary.
 	- El_CLASS: File class
 	- El_DATA: File's data encoding/encryption
 	- El-VERSION: File's version
-	- El_OSABI: [[Operating System|OS]]/[[Application Binary Interface|ABI]] identification
+	- El_OSABI: [[IT/Operating System|OS]]/[[Application Binary Interface|ABI]] identification
 	- El_ABIVERSION [[Application Binary Interface|ABI]] version
 	- El_PAD: Start of padding bytes
 	- El_NIDENT: size of ei_ident

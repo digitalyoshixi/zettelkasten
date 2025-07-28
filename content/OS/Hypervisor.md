@@ -14,7 +14,7 @@ Bare-metal hypervisors.
 There is no software between it and the hardware.
 Used primarily in servers.
 ### Type-2
-Hypervisors that run on top of an [[Operating System|OS]]
+Hypervisors that run on top of an [[IT/Operating System|OS]]
 ##### Implementations
 - [[Kernel Virtual Machine]]
 - [[Hyper-V]]

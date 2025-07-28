@@ -9,4 +9,4 @@ They use [[Remote Monitoring and Management|RMM]] to monitor the systems. They w
 - Hardware/software inventory (like low drive storage)
 - Remote logins
 - Anomalous behavior
-- [[Operating System|OS]] patches
+- [[IT/Operating System|OS]] patches

@@ -114,4 +114,4 @@ aliases:
 - [[System Exception]]
 - [[System Trap]]
 - [[MIPS Interrupt Handling]]
-- [[Operating System]]
+- [[IT/Operating System]]

@@ -6,7 +6,7 @@ aliases: []
 
 ![[Optical Drive-20240704033529837.webp|407]]
 These are discs which store data like:
-- [[Operating System|OS]] images
+- [[IT/Operating System|OS]] images
 - Movies
 - Games
 - Documents

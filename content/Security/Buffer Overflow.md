@@ -20,3 +20,5 @@ Can be used to:
 - [[Stack Canary]]
 - [[Address Space Layout Randomization]]
 - Input sanitization
+# Example Uses
+- [[Slammer Worm]]

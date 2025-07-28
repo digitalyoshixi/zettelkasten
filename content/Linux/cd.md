@@ -4,4 +4,4 @@ tags:
 aliases:
   - chdir
 ---
-A command to change directories in [[POSIX]] compliant [[Operating System|Operating Systems]]
+A command to change directories in [[POSIX]] compliant [[IT/Operating System|Operating Systems]]

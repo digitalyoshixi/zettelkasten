@@ -18,7 +18,7 @@ After partitioning, you will need to [[Disk Formatting|Format]] the disk.
 # Partitioning
 Assigning [[Logical Block Addressing|LBA]] ranges a purpose.
 ![[Partitioning-20240703010125423.webp|365]]
-you can partition a hard drive to store multiple [[Operating System|OS]]
+you can partition a hard drive to store multiple [[IT/Operating System|OS]]
 # Partitioning Schemes
 - [[Master Boot Record|MBR]]
 - [[Windows Dynamic Disks]]

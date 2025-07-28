@@ -5,7 +5,7 @@ aliases:
   - Interrupt
   - Hardware Interrupt
 ---
-Asynchonous communication that the [[Operating System|OS]] sends to the [[Central Processing Unit|CPU]] whenever an [[Input Output|IO]] device updates.
+Asynchonous communication that the [[IT/Operating System|OS]] sends to the [[Central Processing Unit|CPU]] whenever an [[Input Output|IO]] device updates.
 
 Used for:
 - Keyboard inputs

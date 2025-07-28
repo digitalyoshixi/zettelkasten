@@ -11,9 +11,9 @@ This added functionality can be:
 - [[Multi-port Ethernet]]
 - etc
 # Installation
-1. Know if the card is compatible with your [[Operating System]]
+1. Know if the card is compatible with your [[IT/Operating System]]
 2. Insert the card into the [[Motherboard]]
-3. Provide [[Device Driver|Drivers]] for the [[Operating System]]
+3. Provide [[Device Driver|Drivers]] for the [[IT/Operating System]]
 4. Verify the card functions
 ### Tips
 - it is not necessary to clean your expansion card after it has been installed. Only clean it if it is before installation.

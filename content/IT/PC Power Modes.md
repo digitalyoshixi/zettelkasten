@@ -29,4 +29,4 @@ If the device wont shut down, then remove the battery.
 Term for **PCs**.
 Holding the [[Soft Power Button]] down for 10s, and then turning the device on again. Cuts off all power to the system for a brief while. Not recommended
 # Hard Reset (Factory Reset)
-Reinstalling the [[Operating System|OS]] and removing all user data.
+Reinstalling the [[IT/Operating System|OS]] and removing all user data.

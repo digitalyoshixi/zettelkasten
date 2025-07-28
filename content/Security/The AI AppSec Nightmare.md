@@ -22,7 +22,7 @@ A talk at [[Open Web Application Security Project|OWASP]] Toronto from Pixee by 
 - [[XZ Backdoor]]
 - AI tools will [[AI Hallucinations|Hallucinate]] package names (See [[Slop Squatting]]). 21.7% of package names do not even exist and are targets
 - There is now a [[OWASP Artificial Intelligence Security Verification Standard|AISVS]]
-- Most funding goes to network security and cloud security, [[AppSec]] goes underfunded
+- Most funding goes to network security and cloud security, [[Application Security]] goes underfunded
 - Why are the bad guys focused more-so on network issues? Because, applications are very hard, and very difficult. Making exploits is not easy. Not easily reproducible. High-hanging fruit.
 - Developers use [[Metasploit]] to get pre-made payloads
 - Everything is hooked up to a webapp, the browser is the universal software. 

@@ -29,7 +29,7 @@ dynamic -> basic is a messy process that may lead to data loss/data corruption
 # Partition/Volume Types
 A dynamic disk will have the following parition types:
 ### Simple Volumes
-Functionally similar to a [[Master Boot Record|Primary Partition]], except you cannot install an [[Operating System|OS]] on it.
+Functionally similar to a [[Master Boot Record|Primary Partition]], except you cannot install an [[IT/Operating System|OS]] on it.
 ### Spanning Volumes
 A volume that utilizes space of several different disks.
 You can install a new drive on your system, and retain the same partition across several drives so essentially you have one file system comprised of several drives

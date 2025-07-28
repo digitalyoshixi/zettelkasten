@@ -56,7 +56,7 @@ tags:
 - [[CompactFlash Card]]
 - [[Secure Digital Card]]
 # Operating Systems
-- [[Operating System|OS]]
+- [[IT/Operating System|OS]]
 - [[Disk Image]]
 - [[Remote Network Installation Methods]]
 - [[IT/Windows]]
