@@ -13,5 +13,5 @@ tags:
 - [[Principle of Least Privilege]]
 - [[Configuration Enforcement]]
 - [[Decommissioning]]
-- [[Endpoint Detection and Response]]
-- 
+- [[Endpoint Detection and Response|EDR]]
+- [[Host-Based Intrusion Prevention System]]
