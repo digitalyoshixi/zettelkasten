@@ -23,12 +23,12 @@ aliases:
 - [[Zero Trust Security]]
 - [[Physical Security]]
 - [[Deception and Disruption]]
-### 1.3
+##### 1.3
 - [[Standard Operating Procedures]]
 - [[Change Management Process]]
 - [[Technical Change Management]]
 - [[Documentation]]
-### 1.4
+##### 1.4
 - [[Public Key Infrastructure]]
 - [[Encryption Levels]]
 - [[Public-Key Cryptography|Asymmetric Cryptography]]
@@ -48,12 +48,17 @@ aliases:
 - [[Key Stretching]]
 - [[Blockchain]]
 - [[Digital Certificate]]
-### 1.5
+### Chapter 2
+##### 2.1
 - [[Threat Actor]]
 - [[Attack Motivation]]
-### 1.6
+##### 2.2
 - [[Attack Vector]]
 - [[Supply Chain]]
 - [[Social Engineering]]
-### 1.7
+##### 2.3
 - [[Security Vulnerability|Vulnerability]]
+##### 2.4
+- [[Malware]]
+- [[Physical Security Attacks]]
+- [[Network Security]]

@@ -2,7 +2,14 @@
 tags:
   - IT
   - security
+aliases:
+  - Mobile Device Vulnerabilities
 ---
+# "Vulnerabilties"
+- [[iOS Jailbreaking]]
+- [[Android Rooting]]
+- [[Sideloading]]
+- [[Counterfeit Apps]]
 # Concepts
 - [[Bring Your Own Device|BYOD]]
 - [[Choose Your Own Device|CYOD]]
