@@ -7,3 +7,5 @@ aliases:
 ---
 # Vulnerabilities
 - [[VM Escape]]
+- [[Resource Reuse Vulnerability]]
+- [[VM Sprawl]]

@@ -9,7 +9,6 @@ tags:
 - [[Software as a Service|SaaS]]
 - [[Desktop as a Service|DaaS]]
 - [[Mobility As A Service|MaaS]]
-
 # Specialized Features
 - [[Resource Pools]]
 - [[Elasticity]]

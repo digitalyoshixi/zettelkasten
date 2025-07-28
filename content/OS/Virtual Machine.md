@@ -20,4 +20,4 @@ It is recommended to allocate atleast:
 - 50GB storage
 CPU utilization varies on the type of server
 # Concepts
-- [[Virtual Machine Security]]
+- [[Virtualization Security]]
