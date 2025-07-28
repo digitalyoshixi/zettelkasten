@@ -4,4 +4,4 @@ tags:
 aliases:
   - ACE
 ---
-These are vulnerabilities present within a program that allow any code to be executed through injection attacks.
+These are vulnerabilities present within a program that allow any code to be executed through [[Injection Attack]].

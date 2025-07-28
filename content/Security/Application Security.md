@@ -10,3 +10,6 @@ aliases:
 - [[Buffer Overflow]]
 - [[Race Condition]]
 - [[Malicious Update]]
+- [[Injection Attack]]
+- [[Privilege Escalation]]
+- [[Forgery Attack]]

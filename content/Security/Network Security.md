@@ -18,7 +18,10 @@ tags:
 - [[Jamming Attack]]
 - [[MAC Address Spoofing]]
 - [[Man-In-The-Middle|MITM]]
-- [[Session REp]]
+- [[Session Hijacking]]
+- [[Replay Attack]]
+- [[Credential Replay]]
+- [[Credential Stuffing]]
 # Concepts
 - [[DNS Sinkhole]]
 - [[Nmap]]

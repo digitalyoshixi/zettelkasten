@@ -10,3 +10,6 @@ A threat where the attacker intercepts communications between two systems by eit
 - Using a sniffer
 - Using [[ARP Poisoning]]
 - Using [[Malware]] to setup a [[Proxy Server]]
+# Types
+- [[Session Hijacking]]
+- [[Replay Attack]]

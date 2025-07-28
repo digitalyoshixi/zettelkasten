@@ -11,3 +11,6 @@ aliases:
 - [[File Inclusion]]
 - [[Server Side Template Injection]]
 - [[Cross Site Request Forgery|CSRF]]
+- [[Path Traversal]]
+- [[Server Side Request Forgery]]
+- [[IFrame Injection Attack]]

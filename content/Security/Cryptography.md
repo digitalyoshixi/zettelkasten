@@ -16,4 +16,5 @@ The [[Mathematics]] used to secure data.
 - [[Outdated Algorithms]]
 - [[Side Channel Attack]]
 - [[Weak Random Number Generation]]
+- [[SSL Stripping]]
 - [[SSL Downgrade]]
