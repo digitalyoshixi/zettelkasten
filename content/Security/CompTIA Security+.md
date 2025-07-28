@@ -52,3 +52,4 @@ aliases:
 - [[Threat Actor]]
 - [[Attack Motivation]]
 ### 1.6
+- [[Threat Vector]]
