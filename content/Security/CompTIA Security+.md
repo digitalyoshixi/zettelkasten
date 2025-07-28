@@ -64,3 +64,5 @@ aliases:
 - [[Physical Security Attacks]]
 - [[Network Security]]
 - [[Application Security]]
+- [[Cryptography|Cryptography Security]]
+- [[Password Cracking]]

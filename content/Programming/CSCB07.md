@@ -53,3 +53,10 @@ aliases:
 	- [[Facade Method]]
 	- [[Observer Method]]
 	- [[Strategy Method]]
+### Week 12
+- [[Clean Code]]
+	- [[Modularity]]
+	- [[Readability]]
+	- [[Efficiency]]
+	- [[Error Handling]]
+	- [[Testable]]

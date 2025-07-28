@@ -14,7 +14,11 @@ The [[Mathematics]] used to secure data.
 - [[Key Compromise]]
 - [[Flawed Cryptographic Algorithm Implementation]]
 - [[Outdated Algorithms]]
-- [[Side Channel Attack]]
 - [[Weak Random Number Generation]]
+# Attacks
+- [[Side Channel Attack]]
 - [[SSL Stripping]]
 - [[SSL Downgrade]]
+- [[Collision Attack]]
+- [[Birthday Attack]]
+- [[Pass The Hash Attack]]
