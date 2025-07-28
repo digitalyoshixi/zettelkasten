@@ -4,6 +4,7 @@ tags:
 aliases:
   - LoD
   - Principle of Least Knowledge
+  - PLK
 ---
 # Principles
 1. Each unit should only have limited knowledge of all other units

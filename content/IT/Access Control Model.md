@@ -7,7 +7,10 @@ aliases:
   - ACL
 ---
 These are lists to allow/disallow access to a network or OS resources.
-They are a basic form of [[Firewall]] used by the [[IT/Operating System|OS]] and software.
+The are used by:
+- [[Firewall]] 
+- [[IT/Operating System|OS]]
+- software.
 Often used during:
 - [[Network Attached Storage|NAT]]
 - [[Quality of Service|QoS]]
