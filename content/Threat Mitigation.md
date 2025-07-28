@@ -13,3 +13,5 @@ tags:
 - [[Principle of Least Privilege]]
 - [[Configuration Enforcement]]
 - [[Decommissioning]]
+- [[Endpoint Detection and Response]]
+- 

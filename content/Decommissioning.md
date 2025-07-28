@@ -8,4 +8,4 @@ Often we decommission [[Legacy Applications]].
 1. Ensure you have documentation on all 
 2. Sanitize all data within the decommissioned items
 3. Burn/shred all papers of things
-4. 
+4. Delete all media related to the item (Hard drives)
