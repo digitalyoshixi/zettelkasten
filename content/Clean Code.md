@@ -25,4 +25,14 @@ tags:
 - Classes should have [[Noun]] or [[Noun Phrase]] names
 - Methods should have [[Verb]] or [[Verb Phrase]] names
 - Pick one word per concept (dont use fetch, retrieve, get all at once)
-- Use comments
+### Comments
+- Use comments not to explain code, but to provide:
+	- Legal comments
+	- Explanation of intent
+	- Warning of consequences
+	- To-Do comments
+### Tests
+- Unit tets should keep code maintainable and reusable
+- Readability of tests are important
+- One concept and one assert per test
+- Clean tests follow five rules [[First independent Repeatable Self-Validating Timely Tests]]

@@ -12,3 +12,4 @@ tags:
 - [[Security Orchestration Automation and Response]]
 - [[Principle of Least Privilege]]
 - [[Configuration Enforcement]]
+- [[Decommissioning]]

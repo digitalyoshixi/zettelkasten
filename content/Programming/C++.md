@@ -58,7 +58,7 @@ int main(int argc, char const *argv[])
 - [[Insertation Operator]]
 - [[Extraction Operator]]
 - [[Exit Codes]]
-- [[Comments]]
+- [[C++ Comments]]
 - [[C++ Objects]]
 - [[C++ Variable]]
 - [[C++ Datatypes]]
