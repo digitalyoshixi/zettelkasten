@@ -7,17 +7,18 @@ tags:
 ```mips
 li $t1, 0 # y
 li $t2, 0 # x
-draw_brick_loop:
-    beq $t1, 4, end_y
-    draw_brick_loop_x:
-        beq $t2, 4, end_x
-				# BODY
+loop:
+    beq $t1, 4, loop_end
+    loop_x:
+		# BODY
+		
+		# END
         addi $t2, $t2, 1
-        j draw_brick_loop_x
+        blt $t2m 4m loop_x
     end_x:
         li $t2, 0
         addi $t1, $t1, 1
-        j draw_brick_loop
-end_y:
+        j loop_x
+loop_end:
     li $t1, 0
 ```
