@@ -14,7 +14,7 @@ loop:
 		
 		# END
         addi $t2, $t2, 1
-        blt $t2m 4m loop_x
+        blt $t2, 4 loop_x
     end_x:
         li $t2, 0
         addi $t1, $t1, 1
