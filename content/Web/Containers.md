@@ -1,5 +1,7 @@
 ---
 tags:
   - cloud
+aliases:
+  - Containerization
 ---
-Containers are lightweight software that packages code and dependencies so they can run on any machine that supports [[Docker]].
+Lightweight software that bundles code and dependencies into a self-sufficient unit that can run on any machine that supports [[Docker]].

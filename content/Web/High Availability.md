@@ -3,4 +3,7 @@ tags:
   - cloud
   - IT
 ---
-The servers are monitored by automated systems and technicians who ensure that the system will always be running 99.999% of the time.
+These are high-uptime servers that are monitored by automated systems.
+Technicians must ensure that the system is running 99.999% of the time.
+# Implementations
+- [[Geo-Zone Redundant Storage]]

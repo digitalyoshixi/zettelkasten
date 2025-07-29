@@ -10,3 +10,6 @@ A [[Desktop as a Service|DaaS]] solution to store software and files on [[Virtua
 # Concepts
 - [[VDI Ownership Types]]
 - [[VDI Persistency]]
+# Tools
+- [[Citrix]]
+- [[App-V]]
