@@ -8,3 +8,5 @@ Using the cloud requires trust in the provider, to keep your data secure and pri
 # Concepts
 - [[Cloud Service Types]]
 - [[Cloud Ownership Types]]
+- [[Cloud Service Provider]]
+- [[Cloud Responsibility Matrix]]

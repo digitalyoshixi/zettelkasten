@@ -83,4 +83,16 @@ aliases:
 	- [[Host-Based Intrusion Prevention System]]
 ### Chapter 3
 ##### 3.1
-- [[]]
+- [[Cloud Ownership Types]]
+- [[Cloud Service Types]]
+- [[Cloud Responsibility Matrix]]
+- [[Maintenance Overhead]]
+- [[Vendor|Third Party Vendors]]
+- [[Infrastructure as Code]]
+- [[Function As A Service|Serverless]]
+- [[Microservices]]
+- [[OSI Model]]
+- [[Air Gapped Network]]
+- [[Segmentation]]
+- [[Software Defined Networking|SDN]]
+- [[On Premise]]
