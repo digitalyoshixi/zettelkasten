@@ -25,3 +25,9 @@ Finding how easy it is to recover data incase one data center goes offline
 ### Patch Availability
 Find that your [[Cloud Service Provider|CSP]] will maintain the most recent copies of patches.
 [[Microsoft Intune]] is an endpoint that offers patch management of windows devices
+### Inability to Patch
+A [[Cloud Service Provider|CSP]] may often host clients that cannot be patched, as they would have adverse effects on the application.
+### Power
+A [[Cloud Service Provider|CSP]]'s power plan. If they use a [[Uninterruptible Power Supplies|UPS]] or a [[Power Distribution Unit|PDU]]
+### Compute Power
+Find the [[Cloud Service Provider|CSP]]'s computing options. Very important for [[Function As A Service|Serverless]].
