@@ -31,6 +31,13 @@ $$
 ```tex
 \indent
 ```
+### [[Matrix]]
+$$
+\left[\begin{array}{cc}
+a & b\\
+d & d\\
+\end{array}\right]
+$$
 ### [[Augmented Matrix]]
 $$
 \left[\begin{array}{cc|c}
@@ -54,3 +61,4 @@ f(x) = \begin{cases}
           0 & x > 0
        \end{cases}
 $$
+
