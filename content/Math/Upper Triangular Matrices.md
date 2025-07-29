@@ -16,3 +16,5 @@ $$
 0 & 0 & 6\\
 \end{array}\right]
 $$
+# Theorems
+- [[Characterization of Triangularizability and Diagonalizability in Terms of the Minimal Polynomial]]
