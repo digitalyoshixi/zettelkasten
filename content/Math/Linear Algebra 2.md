@@ -191,3 +191,5 @@ aliases:
 - [[Direct Sum of Linear Transformations]]
 - [[Diagonalizable Properties Theorem]]
 - [[Using Lagrange Polynomial to Compute Eigenspace]]
+### Week 12
+- [[Jordan Form]]

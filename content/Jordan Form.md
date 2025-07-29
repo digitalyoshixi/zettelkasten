@@ -1,0 +1,6 @@
+---
+tags:
+  - math
+  - linalg
+---
+A jordan canonical form is a [[Upper Triangular Matrices|Upper Triangular Matrix]] that is of the structure of a [[Jordan Matrix]]
