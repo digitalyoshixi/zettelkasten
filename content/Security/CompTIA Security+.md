@@ -79,4 +79,8 @@ aliases:
 	- [[Principle of Least Privilege]]
 	- [[Configuration Enforcement]]
 	- [[Decommissioning]]
-	- 
+	- [[Endpoint Detection and Response|EDR]]
+	- [[Host-Based Intrusion Prevention System]]
+### Chapter 3
+##### 3.1
+- [[]]
