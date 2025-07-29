@@ -192,4 +192,6 @@ aliases:
 - [[Diagonalizable Properties Theorem]]
 - [[Using Lagrange Polynomial to Compute Eigenspace]]
 ### Week 12
+- [[Jordan Matrix]]
 - [[Jordan Form]]
+- [[Rational Form]]

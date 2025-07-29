@@ -2,6 +2,8 @@
 tags:
   - math
   - linalg
+aliases:
+  - Jordan Canonical Form
 ---
 A jordan canonical form is a [[Upper Triangular Matrices|Upper Triangular Matrix]] that is of the structure of a [[Jordan Matrix]].
 # Definition
