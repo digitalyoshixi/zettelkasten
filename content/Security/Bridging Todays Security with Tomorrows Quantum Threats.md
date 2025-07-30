@@ -4,7 +4,7 @@ tags:
   - cryptography
   - security
 ---
-A talk given at [[TASK]] about [[Post-Quantum Cryptography]]
+A talk given at [[Toronto Area Security Klatch]] about [[Post-Quantum Cryptography]]
 # Notes
 - [[Harvest Now Decrypt Later]]. People are gathering hashes and waiting for quantum computers
 - [[RSA]] : Based on Integer Factorization

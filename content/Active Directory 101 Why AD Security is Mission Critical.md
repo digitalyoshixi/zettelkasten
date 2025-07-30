@@ -1,0 +1,36 @@
+---
+tags:
+  - security
+  - active_directory
+---
+A talk at [[Toronto Area Security Klatch]] by Sayan Sivanathan from semperis.
+- `TASK2025` $100 promocode for secTor
+# Notes
+- [[Windows Active Directory|Active Directory]] is microsoft's properitary authenticatio network. Most common identity store.
+- 90% of organizations use Active directory, especially for [[Single Sign On|SSO]]
+- The first mandates will come for active directory
+- The core functions of AD:
+	- Centralized resource management. acts as directory where information aobut users, group,s computers, printers, etc
+	- Authentication and authorization. Checks users, passwords and determines permissions for user
+	- AD supports SSO, allows users to access multiple applications with single set of credentials
+	- Hierarchical organization. AD organizes network objects using domains. Trees and forests. [[Domain Controller]]
+	- [[Group Policy Management]]
+	- Protocol support ([[Lightweight Directory Access Protocol 1|LDAP]], [[Kerberos]], etc)
+- AD connects to EVERYTHING
+- Vulnerability and risks of AD:
+	- Weak or default passwords
+	- Excessive privileges
+	- Credential theft and [[Kerberoasting Attack]] & [[Silver Ticket Attack]]
+	- Misconfiguration
+	- Patch management issues
+- Service accounts should atleast have 15 characters or more, that beats NTL and hash cracking
+- The future of AD:
+	- Microsoft has no plans to eliminate on premises AD
+	- On presmises AD is expected to reain supported with windows server atleast to 2030
+	- Many enterprises require environemnts that [[Entra ID]] cannot fufill due to structural or protocol limitations
+	- AD is so complex and deeply entwinted. Full replacement is just impractical
+- Purple Knight is a tool that gives you a score of how strong your AD is. its a one-time scan. It also tells you have to fix
+	- [[Okta]] indicators
+	- [[Entra ID]] indicators
+- Purple knight Follows MNIST benchmarks
+- You get a letter grade of your security posture

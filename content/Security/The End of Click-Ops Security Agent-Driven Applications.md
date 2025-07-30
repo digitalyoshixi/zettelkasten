@@ -3,7 +3,7 @@ tags:
   - books
   - security
 ---
-A security talk about [[AI Agent|AI Agents]] at [[TASK]].
+A security talk about [[AI Agent|AI Agents]] at [[Toronto Area Security Klatch]].
 # Notes
 - [[Software as a Service|SaaS]] is DEAD because of [[AI Agent|Agentic AI]]
 - AI is on the boom, exponential amount of AI projects on [[Github]] and models on [[Huggingface]]
