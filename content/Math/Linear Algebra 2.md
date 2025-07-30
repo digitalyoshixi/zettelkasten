@@ -23,6 +23,7 @@ aliases:
 - There is a bonus quiz 6, which will be the material after quiz 5. It is extra material
 - The quiz will require you to reform numbers to match the [[Finite Field]]. E.g, in $\mathbb{Z} \mod 5$, $(x-2) = (x+3)$
 - [[Characterization of Triangularizability and Diagonalizability in Terms of the Minimal Polynomial]] is a very important theorem for the final
+- [[Matrix Definition of Cyclic Subspace|Companion Matrix]] is on the exam
 # Concepts
 ### Week 0.1
 - [[Field]]
@@ -182,7 +183,7 @@ aliases:
 - [[Characterization of Triangularizability and Diagonalizability in Terms of the Minimal Polynomial]]
 - [[Every Complex Operator is Triangularizable]]
 - [[Determine if Matrix is Triangularizable or Diagonalizable]]
-- [[Companion Matrix]]
+- [[Matrix Definition of Cyclic Subspace]]
 - [[Block Diagonal Matrix]]
 - [[Independent Subspaces]]
 - [[Distinct Eigenvalues Imply Eigenspaces are Linearly Indepedent]]
@@ -195,6 +196,7 @@ aliases:
 - [[T-Annihilator of a Vector]]
 - [[A Vector exists with T-Annihilator Equal to the Minimal Polynomial]]
 - [[Primary Decomposition Theorem]]
+- [[Cyclic Decomposition Theorem]]
 - [[Jordan Matrix]]
 - [[Jordan Form]]
 - [[Rational Form]]

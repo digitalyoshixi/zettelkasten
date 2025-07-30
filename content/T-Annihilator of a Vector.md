@@ -2,6 +2,8 @@
 tags:
   - math
   - linalg
+aliases:
+  - T-Annihilator
 ---
 # Definition
 Let $\alpha \in V$, then $M(\alpha_{j}T) = \{  f \in P(\mathbb{F}) | f(T)\alpha = 0 \}$ is the $T$-annihilator of $\alpha$.
