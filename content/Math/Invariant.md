@@ -4,6 +4,7 @@ tags:
   - linalg
 aliases:
   - Invariant Subspace
+  - T Invariant
 ---
 # Definition
 $T(v) \in W, \forall v \in W$

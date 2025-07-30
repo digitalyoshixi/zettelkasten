@@ -3,6 +3,7 @@ tags:
   - math
   - linalg
 ---
+Every finite dimensional vector space can be written as a direct sum of cyclic invariant subspaces.
 # Theorem
 - Let $T \in \mathcal{L}(V)$
 - Let $f(x) = p_{1}(x)^{d_{1}} \dots p_{k}(T)^{d_{k}}$ be the characteristic polynomial

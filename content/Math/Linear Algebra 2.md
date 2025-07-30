@@ -175,6 +175,7 @@ aliases:
 - [[Polynomial Field]]
 - [[Finite Fields Have a Multiplicative Inverse]]
 - [[Creating a Field from a Principal Ideal Domain]]
+- [[Conductor]]
 # Week 11
 - [[Proper Subspace Can be Multiplied to Be Within Other Subspace Lemma]]
 - [[Invariant|Invariant Subspace]]
