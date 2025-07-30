@@ -32,5 +32,15 @@ A talk at [[Toronto Area Security Klatch]] by Sayan Sivanathan from semperis.
 - Purple Knight is a tool that gives you a score of how strong your AD is. its a one-time scan. It also tells you have to fix
 	- [[Okta]] indicators
 	- [[Entra ID]] indicators
-- Purple knight Follows MNIST benchmarks
+- Purple knight Follows:
+	- MITRE attack benchmarks
+	- MNIST benchmarks
+	- [[ANSI Framework]]
 - You get a letter grade of your security posture
+- Local admin on a workstation is a route to domain admin
+- Shawn metcafe has the highest level of cert for AD, he has only seen [[AD Principaler]] only once, it is literally useless
+- Linux alternatives are [[Open LDAP]]
+- Forest druid will check for visualization of attack paths
+- Government robotics has to connect to AD over dial-up
+- Identity manager has not been updated in the last 8 years, AEFS is also newly deprecated. Active directory is still going to live, but alot of its services are dying
+- There is an overwhelming amount of work to migrate AD, there is so much stuff tied into AD
