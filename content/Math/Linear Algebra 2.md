@@ -192,6 +192,9 @@ aliases:
 - [[Diagonalizable Properties Theorem]]
 - [[Using Lagrange Polynomial to Compute Eigenspace]]
 ### Week 12
+- [[T-Annihilator of a Vector]]
+- [[A Vector exists with T-Annihilator Equal to the Minimal Polynomial]]
+- [[Primary Decomposition Theorem]]
 - [[Jordan Matrix]]
 - [[Jordan Form]]
 - [[Rational Form]]

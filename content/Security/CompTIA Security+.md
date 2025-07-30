@@ -107,3 +107,10 @@ aliases:
 - [[Embedded Device]]
 - [[High Availability]]
 - [[Infrastructure Considerations]]
+##### 3.2
+- [[Logging]]
+- [[System Monitoring]]
+- [[Application Monitoring]]
+- [[Infrastructure Monitoring]]
+- [[Simple Network Management Protocol|SNMP]]
+- [[Data Loss Prevention|DLP]]
