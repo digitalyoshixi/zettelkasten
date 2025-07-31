@@ -7,3 +7,7 @@ Can:
 - Create [[Mock Objects]]
 - Setup stubbing
 - Verify behavior
+# Gradle Import
+```java
+testImplementation "org.mockito:mockito-core:5.+"
+```
