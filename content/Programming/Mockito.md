@@ -11,7 +11,6 @@ Can:
 ```java
 testImplementation "org.mockito:mockito-core:5.+"
 ```
-
 # Boilerplate
 ```java
 package com.safetyapp.mainapp;
@@ -28,5 +27,8 @@ public class LoginMockitoTest {
     LoginActivity loginActivity;
 
 }
-
 ```
+# Concepts
+- [[Mockito Spy]]
+- [[Mockito Mock]]
+- [[Mockito]]
