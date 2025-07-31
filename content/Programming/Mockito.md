@@ -7,6 +7,7 @@ Can:
 - Create [[Mock Objects]]
 - Setup stubbing
 - Verify behavior
+Often works well with [[Robolectric]] for emulating android.
 # Gradle Import
 ```java
 testImplementation "org.mockito:mockito-core:5.+"

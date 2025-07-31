@@ -26,7 +26,7 @@ https://developer.android.com/studio
 - [[JUnit]]
 - [[Mockito]]
 - [[Espresso]]
-- [[Roboelectric]]
+- [[Robolectric]]
 - [[Mock Objects]]
 - [[Android Testing]]
 ### Debugging
