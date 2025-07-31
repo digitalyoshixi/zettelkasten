@@ -5,3 +5,4 @@ tags:
 A book about [[AI Governance]].
 # Concepts
 - [[Pyramid Replacement]]
+- [[Capital Rise after AGI]]
