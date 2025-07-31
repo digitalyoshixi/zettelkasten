@@ -14,15 +14,19 @@ testImplementation "org.mockito:mockito-core:5.+"
 
 # Boilerplate
 ```java
-@ExtendWIth(MockitoExtension.class)
-public class MockitoTest{
-	@Mock
-	List<String> mockList;
+package com.safetyapp.mainapp;
+import static org.mockito.Mockito.verify;
 
-	@Test
-	void mock_list_returns_correct_element(){
-		when(mockList.get(0)).thenReturn("Like");
-		assertEquals("Like", mockList.get(0));
-	}
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.mockito.Mock;
+import org.mockito.junit.MockitoJUnitRunner;
+
+@RunWith(MockitoJUnitRunner.class)
+public class LoginMockitoTest {
+    @Mock
+    LoginActivity loginActivity;
+
 }
+
 ```
