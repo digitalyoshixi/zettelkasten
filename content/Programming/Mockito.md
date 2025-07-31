@@ -31,4 +31,6 @@ public class LoginMockitoTest {
 # Concepts
 - [[Mockito Spy]]
 - [[Mockito Mock]]
-- [[Mockito]]
+- [[Mockito When]]
+- [[Mockito Verify]]
+- [[Mockito ThenReturn]]
