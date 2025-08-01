@@ -3,7 +3,7 @@ tags:
   - networking
 ---
 ![[Load Balancer-20240730024847156.webp|451]]
-A software or hardware process that manages multiple servers to:
+A software or hardware process on the [[Local Area Network|LAN]] that manages multiple servers to:
 - Provide redundancy. if one is taken offline, their load is directed to another server
 - Distribute load evenly across all servers
 - Manage TCP connections

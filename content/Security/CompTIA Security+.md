@@ -114,3 +114,5 @@ aliases:
 - [[Infrastructure Monitoring]]
 - [[Simple Network Management Protocol|SNMP]]
 - [[Data Loss Prevention|DLP]]
+##### 3.3
+- [[Network Infrastructure Considerations]]
