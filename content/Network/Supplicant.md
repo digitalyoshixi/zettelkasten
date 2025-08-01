@@ -2,7 +2,7 @@
 tags:
   - networking
 ---
-Any network device.
+Any network device that can seek [[Authentication]].
 These include:
 - [[Virtual Private Network|VPN]]
 - [[Server]]

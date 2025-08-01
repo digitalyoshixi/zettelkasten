@@ -13,3 +13,4 @@ Devices can be placed in the:
 - [[Cybersecurity|Security]]. Reduce interconnection
 - [[Redundancy]]
 - [[Network Complexity]]
+- [[Remote Work]]

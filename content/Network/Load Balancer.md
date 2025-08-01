@@ -11,3 +11,10 @@ A software or hardware process on the [[Local Area Network|LAN]] that manages mu
 - Cache requests
 - Prioritization to establish [[Quality of Service]]
 - Content switching to direct certain application traffic to different server
+# Types
+- [[Layer 4 Load Balancer]]
+- [[Layer 7 Load Balancer]]
+# Concepts
+- [[Least Utilized Host]]
+- [[Affinity]]
+- [[DNS Round Robin]]

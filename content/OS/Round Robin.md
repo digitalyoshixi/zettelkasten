@@ -2,6 +2,8 @@
 tags:
   - os
   - scheduling
+aliases:
+  - RR
 ---
 
 Designed for time sharing systems. It is like FCFS but it is preemptive so processes may be switched at any time. A small unit of time in this algorithm is called a time quantum/slice and generally lasts from 10-100 milliseconds.

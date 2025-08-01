@@ -2,6 +2,8 @@
 tags:
   - os
   - scheduling
+aliases:
+  - FCFS
 ---
 
 The process that requests the CPU first will get the CPU first. Also take in account first in, first out. The process will also be the first to leave. All other processes must wait for the first process to finish so that they can have their turn.
