@@ -9,7 +9,7 @@ aliases:
 - 750/900 to pass
 - 90 min, max 90 questions
 - Syllabus listed: https://assets.ctfassets.net/82ripq7fjls2/6TYWUym0Nudqa8nGEnegjG/0f9b974d3b1837fe85ab8e6553f4d623/CompTIA-Security-Plus-SY0-701-Exam-Objectives.pdf
-- Current page: 404
+- Current page: 435
 # Chapters
 ### Chapter 1
 ##### 1.1
@@ -129,3 +129,6 @@ aliases:
 - [[Secure Shell Protocol|SSH]]
 - [[Remote Desktop Protocol|RDP]]
 - [[Tunnel]]
+- [[Software Defined Networking|SDN]]
+- [[Secure Access Service Edge]]
+- [[Network Security Controls]]
