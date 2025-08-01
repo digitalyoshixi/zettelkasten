@@ -4,4 +4,4 @@ tags:
 ---
 A standard for network communication that requires [[Remote Authentication Dial-In User Service|RADIUS]] authentication before a network connection is established.
 
-Involves a [[Supplicant]] seeking a authenticator
+Involves a [[Supplicant]] seeking a authenticator to interact with an authenticator server to verify credentials.

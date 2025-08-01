@@ -16,6 +16,9 @@ A firewall is able to:
 - [[Stateful Firewall]]
 - [[Hardware Firewall]]
 - [[Software Firewall]]
+- [[Web Application Firewall|WAF]]
+- [[Unified Threat Management|UTM]]
+- [[Next Generation Firewall]]
 # Concepts
 - [[Hardware Firewall]]
 - [[Software Firewall]]

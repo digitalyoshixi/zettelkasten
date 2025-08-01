@@ -13,10 +13,5 @@ A tunnel is created that so that all packets are encrypted and sent to a VPN ser
 1. Encrypt packet
 2. Encapsulate
 # VPN Backbone Technologies
-### [[Layer 2 Tunneling Protocol|L2TP]] & [[IPsec]]
-- Requires a client software
-- Must be opened on packet-filtering devices
-- When connected, you are in their network and can do regular [[Local Area Network|LAN]] activities
-### [[Secure Sockets Layer|SSL]] & [[Transport Layer Security|TLS]]
-- Does not require much configuration
-- Requires an access portal to do [[Local Area Network|LAN]] activities
+- [[L2TP & IPSec VPN]]
+- [[SSL & TLS VPN|HTML5 VPN]]

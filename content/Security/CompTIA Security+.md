@@ -124,3 +124,8 @@ aliases:
 - [[Jump Server]]
 - [[Proxy Server]]
 - [[Port Security]]
+- [[Firewall]]
+- [[Virtual Private Network|VPN]]
+- [[Secure Shell Protocol|SSH]]
+- [[Remote Desktop Protocol|RDP]]
+- [[Tunnel]]

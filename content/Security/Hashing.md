@@ -4,6 +4,8 @@ tags:
   - algorithm
 aliases:
   - Hash
+  - Hashing Algorithms
+banner:
 ---
 These are algorithms that provide one-way encodings.
 Often hashes are numerical.
@@ -13,7 +15,7 @@ Used for:
 ![[Hashing-20250709030513308.webp]]
 # Algorithms
 - [[Message Digest Algorithm 5|MD5]]
-- [[SHA1]]
+- [[SHA-1]]
 # Concepts
 - [[Hash Collision]]
 - [[Collision Attack]]
