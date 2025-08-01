@@ -50,3 +50,4 @@ Now, these will only be for the current file. opening a new file will not save t
 To make these changes permanent, you will need to edit the [[Vim .vimrc]]
 # Tricks
 - [[Vim Replace]]
+- [[Vim Indent]]
