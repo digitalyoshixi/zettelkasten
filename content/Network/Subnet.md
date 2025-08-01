@@ -4,7 +4,7 @@ tags:
 aliases: []
 ---
 A network within a network.
-Subnetting is used in [[Network Security]] for [[Segmentation]].
+Subnetting is used in [[Network Security]] for [[Network Segmentation]].
 # Subnet Addressing
 Splitting an original [[IP Address]] into sub-addresses that have different meanings.
 ![[Subnet-20240717022758862.webp]]

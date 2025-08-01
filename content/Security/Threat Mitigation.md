@@ -3,7 +3,7 @@ tags:
   - security
 ---
 # Techniques
-- [[Segmentation]]
+- [[Network Segmentation]]
 - [[Access Control]]
 - [[Isolation]]
 - [[Patching]]

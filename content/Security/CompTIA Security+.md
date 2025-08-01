@@ -69,7 +69,7 @@ aliases:
 - [[Indicator of Attack]]
 ##### 2.5
 - [[Threat Mitigation]]
-	- [[Segmentation]]
+	- [[Network Segmentation]]
 	- [[Access Control]]
 	- [[Isolation]]
 	- [[Patching]]
@@ -93,7 +93,7 @@ aliases:
 - [[Microservices]]
 - [[OSI Model]]
 - [[Air Gapped Network]]
-- [[Segmentation]]
+- [[Network Segmentation]]
 - [[Software Defined Networking|SDN]]
 - [[On Premise]]
 - [[Centralized]]
@@ -115,4 +115,7 @@ aliases:
 - [[Simple Network Management Protocol|SNMP]]
 - [[Data Loss Prevention|DLP]]
 ##### 3.3
+- [[Network Infrastructure Considerations]]
+- [[Security Zone]]
+- [[Attack Surface]]
 - [[Network Infrastructure Considerations]]
