@@ -137,3 +137,9 @@ aliases:
 - [[Intellectual Property]]
 - [[Data]]
 - [[Privacy Regulations]]
+- [[Data Classification Pyramid]]
+- [[Data Sovereignty]]
+- [[Geolocation]]
+- [[Data Protection]]
+##### 3.5
+- [[High Availability]]
