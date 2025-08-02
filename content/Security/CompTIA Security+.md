@@ -145,3 +145,4 @@ aliases:
 - [[High Availability]]
 - [[Virtual IP]]
 - [[Load Balancer Configuration]]
+- [[Cluster|Network Clustering]]
