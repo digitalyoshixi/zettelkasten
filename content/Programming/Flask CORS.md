@@ -3,6 +3,11 @@ tags:
   - python
   - web
 ---
+# Installation
+```
+pip install flask-cors
+```
+# Boilerplate
 ```python
 from flask_cors import CORS, cross_origin
 app = Flask(__name__)
