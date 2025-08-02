@@ -132,3 +132,8 @@ aliases:
 - [[Software Defined Networking|SDN]]
 - [[Secure Access Service Edge]]
 - [[Network Security Controls]]
+##### 3.4
+- [[Regulated Data]]
+- [[Intellectual Property]]
+- [[Data]]
+- [[Privacy Regulations]]
