@@ -18,3 +18,4 @@ A software or hardware process on the [[Local Area Network|LAN]] that manages mu
 - [[Least Utilized Host]]
 - [[Affinity]]
 - [[DNS Round Robin]]
+- [[Load Balancer Configuration]]

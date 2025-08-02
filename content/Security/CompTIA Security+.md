@@ -143,3 +143,5 @@ aliases:
 - [[Data Protection]]
 ##### 3.5
 - [[High Availability]]
+- [[Virtual IP]]
+- [[Load Balancer Configuration]]

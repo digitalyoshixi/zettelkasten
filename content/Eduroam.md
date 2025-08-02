@@ -11,3 +11,5 @@ wifi-sec.key-mgmt wpa-eap \
 802-1x.identity "" \
 802-1x.password ""
 ```
+# [[University of Toronto|Uoft]] connections
+`[your UTORid]@utoronto.ca`
