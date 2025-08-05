@@ -9,7 +9,7 @@ Always put them inside components **not** outside of them.
 # Types of Hooks
 ### State Hooks
 Managing [[ReactJS State]]
-- [[useState()]]
+- [[ReactJS State]]
 - [[useReducer()]]
 ### Context Hooks
 Lets you use data passed through [[ReactJS Context]]

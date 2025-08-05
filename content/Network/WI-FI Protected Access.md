@@ -4,6 +4,8 @@ tags:
   - security
 aliases:
   - WPA
+  - WPA2
+  - WPA3
 ---
 A security policy for [[Access Point|WAPs]] using [[WI-FI|IEE 802.11]]. Designed to replace [[Wireless Equivalent Privacy|WEP]]
 # WPA Versions

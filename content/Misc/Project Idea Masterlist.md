@@ -21,3 +21,9 @@ tags:
 - time travel debugger
 - A [[Homomorphic Encryption]] at rest [[File System]]
 - https://tensortrust.ai/paper/ clone, but with more options for break-in, instead of only saying "Access Granted". Also use [[Probe]]
+- Signature Based Virus Detection. Similar to antivirus softwares, we can define behavioral rules or specific traits of bacteria that are correlated to a virus
+- Verilog Compiler to RNA Circuits. A language similar to verilog where we programmatically define circuit behavior for DNA/RNA circuits or Transpiler for biological circuits python library
+- JIRA/Scrum for Hospital:
+- Blender / 3D slicing tools for DNA printing:
+- Thingiverse for DNA prints. Share your DNA prints online for download
+- Genome sequencing visualizer:
