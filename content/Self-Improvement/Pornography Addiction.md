@@ -8,4 +8,4 @@ tags:
 - [[Urge Surfing]]
 - [[Anti-Inflammatory Diet]]
 - [[Exercise]]
-- [[Journalling]]
+- [[Self-Improvement/Journalling]]

@@ -29,7 +29,7 @@ You can tank these triggers or emotionally prepare and anticipate your reaction 
 - 4PM, digestion periods
 ### Working on Dormant Emotions
 - [[Therapy]]
-- [[Journalling]]
+- [[Self-Improvement/Journalling]]
 ### Find [[Oxytocin]]
 - Join a community
 ### Establish A [[Sense of Self]]

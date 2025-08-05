@@ -154,3 +154,7 @@ aliases:
 	- [[Continuity of Operations]]
 	- [[Capacity Planning]]
 	- [[Availability Testing]]
+### Chapter 4
+##### 4.1
+- [[Security Baseline]]
+- [[Device Hardening]]
