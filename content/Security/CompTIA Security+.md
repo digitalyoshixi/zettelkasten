@@ -148,3 +148,4 @@ aliases:
 - [[Cluster|Network Clustering]]
 - [[Infrastructure Site Configurations]]
 - [[Data Replication]]
+- [[Data Sovereignty]]
