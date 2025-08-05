@@ -10,4 +10,5 @@ Can allow for:
 - Alerting
 - Detailed information
 - Swift response
-- Incident resoluti
+- Incident resolution, taking actions to mitigat threat
+- Reporting by generating logs
