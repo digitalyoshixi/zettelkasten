@@ -2,6 +2,8 @@
 tags:
   - programming
   - linguistics
+aliases:
+  - Regex
 ---
 Symbolic notations used to define search patterns of strings.
 # Notations

@@ -8,3 +8,6 @@ A tightly restricted execution environment which limits:
 - Interaction with files
 - Interaction with other programs
 Usually used for keeping specific applications from interfering with the operating system.
+# App Sandboxes
+- [[Docker]]
+- [[Cuckoo]]

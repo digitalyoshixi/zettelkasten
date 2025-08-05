@@ -19,6 +19,14 @@ A security policy for [[Access Point|WAPs]] using [[WI-FI|IEE 802.11]]. Designed
 - Uses [[Advanced Encryption Standard|AES-256]] encryption in [[Galois Counter Mode Protocol|GCMP]] or [[Counter Mode with Cipher Block Chaining Message Authentication Code Protocol|CCMP]]
 - Does not allow [[Temporal Key Integrity Protocol|TKIP]]
 - Uses [[Diffie Hellman Key Exchange]] in [[Simultaneous Authentication of Equals|SAE]]
+- Can use [[Protected Management Frames|PMF]]
+- Allows [[Wi-Fi Easy Connect]]
+- Allows [[Wi-Fi Enhanced Open]]
+### WPA3-Enterprise
+- Same as [[WI-FI Protected Access|WPA3]]
+- Uses [[Elliptic-Curve Diffie Hellman Ephemeral|ECDHE]]
+- Uses [[Simultaneous Authentication of Equals|Dragonfly Handshake]]
+- Uses [[Perfect Forward Secrecy]]
 # Security Modes
 ### Personal
 Everybody has the same pre-shared key (PSK)

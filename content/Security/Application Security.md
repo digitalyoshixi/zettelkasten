@@ -13,3 +13,12 @@ aliases:
 - [[Injection Attack]]
 - [[Privilege Escalation]]
 - [[Forgery Attack]]
+- [[Arbitrary Code Execution|ACE]]
+# Protections
+- [[Input Validation]]
+- [[Secure Cookie]]
+- [[Static Application Security Testing|SAST]]
+- [[Dynamic Application Security Testing|DAST]]
+- [[Code Signing]]
+- [[Secure Coding]]
+- [[Sandbox]]

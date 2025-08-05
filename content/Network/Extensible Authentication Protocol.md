@@ -10,3 +10,5 @@ An enhancement of standard [[IEEE 802.1x]], [[WI-FI|IEEE 802.11]], [[IEEE 802.1Q
 - [[Extensible Authentication Protocol TLS]]
 - [[Protected Extensible Authentication Protocol]]
 - [[Extensible Authentication Protocol MD5]]
+- [[Extensible Authentication Protocol TTLS]]
+- [[Extensible Authentication Protocol FAST]]

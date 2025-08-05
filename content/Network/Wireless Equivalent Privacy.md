@@ -5,6 +5,7 @@ tags:
 aliases:
   - WEP
 ---
-Severely flawed encryption algorithm which uses a 5-13 byte key represented in hexadecimal
+Severely flawed encryption algorithm which uses a 5-13 byte key represented in hexadecimal.
+Uses [[Initialization Vector]] of 24-bits
 # Concepts
 - [[Temporal Key Integrity Protocol]]

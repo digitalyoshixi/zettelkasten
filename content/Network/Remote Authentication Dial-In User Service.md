@@ -5,6 +5,7 @@ aliases:
   - RADIUS
 ---
 Protocol for implementing [[Authentication, Authorization, Accounting|AAA]]. It centralizes authentication, authorization and auditing.
+Uses [[Shared Secret]]
 It:
 - Is primarily for network access
 	- [[Virtual Private Network|VPN]] access
