@@ -146,3 +146,5 @@ aliases:
 - [[Virtual IP]]
 - [[Load Balancer Configuration]]
 - [[Cluster|Network Clustering]]
+- [[Infrastructure Site Configurations]]
+- [[Data Replication]]

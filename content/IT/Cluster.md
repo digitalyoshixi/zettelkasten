@@ -11,5 +11,6 @@ Involves:
 - [[Quorum]] disk that servers share
 - Witness server
 - [[Heartbeat Communication]]
+- [[Virtual IP]] to ensure that the public IP maps can route to the active device if it changes
 # Configurations
 - [[Active Passive Node Network Clustering Configuration]]

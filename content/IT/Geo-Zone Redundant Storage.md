@@ -4,5 +4,7 @@ tags:
 aliases:
   - GZRS
 ---
-A [[High Availability]] [[Binary Large Object|BLOB]] storage service provided by [[Microsoft Azure]].
-Data is duplicated globally across different regions.
+Redundancy by:
+- Storing three copies of your data in your local region
+- Storing one copy within a secondary region
+Provided by [[Microsoft Azure]]
