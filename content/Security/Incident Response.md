@@ -2,6 +2,8 @@
 tags:
   - business
   - security
+aliases:
+  - IR
 ---
 A process in dealing with security incidents or negative events.
 # First Response
