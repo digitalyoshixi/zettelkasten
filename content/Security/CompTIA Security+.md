@@ -186,3 +186,6 @@ aliases:
 - [[Change Management Process]]
 - [[Asset Management]]
 - [[Decommissioning]]
+##### 4.3
+- [[Vulnerability Scan]]
+- [[Security Content Automation Protocol]]
