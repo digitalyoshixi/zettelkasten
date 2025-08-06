@@ -199,3 +199,5 @@ aliases:
 - [[TAXII]]
 - [[SHODAN]]
 - [[Information-Sharing Organizations|ISO]]
+- [[Darknet]]
+- [[Penetration Testing]]
