@@ -189,3 +189,7 @@ aliases:
 ##### 4.3
 - [[Vulnerability Scan]]
 - [[Security Content Automation Protocol]]
+- [[Static Analysis]]
+- [[Dynamic Analysis]]
+- [[Common Vulnerabilities and Exposures|CVE]]
+- [[National Vulnerability Database|NVD]]

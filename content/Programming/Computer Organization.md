@@ -34,6 +34,8 @@ aliases:
 - [[Microprocessor Without Interlocked Pipelined Stages|MIPS Assembly]]
 - [[Minterm]]
 - [[Maxterm]]
+- [[Gate Cost]]
+- [[Gate Cost Plus Inverters]]
 ### Week 3
 - [[Multiplexer|MUX]]
 - [[Demultiplexer|DEMUX]]

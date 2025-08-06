@@ -18,4 +18,5 @@ $A \oplus B$
 # Logic Gate Representation
 ![[Pasted image 20250506110912.png]]
 # Transistor Representation
+Note that the pullup network is not a direct inversion of the pulldown network.
 ![[Exclusive Or-20250506200810917.webp]]
