@@ -1,6 +1,8 @@
 ---
 tags:
   - business
+aliases:
+  - RFID Tag
 ---
 Tags that use [[Radio Frequency Identification|RFID]] to keep track of inventory.
 ![[Asset Tag-20240726042644705.webp|323]]
