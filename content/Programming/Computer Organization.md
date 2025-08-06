@@ -12,6 +12,8 @@ aliases:
 - Bi-weekly labs checked at tutorials (You have two weeks to work on it)
 - Tutorials are given to us
 - After submission, TA will interview you, and you must be able to explain your solution
+# Exam
+- Assume all circuits have propogation delay unless otherwise stated
 # Concepts
 ### Week 1
 - [[Circuit from Logical Expression]]
