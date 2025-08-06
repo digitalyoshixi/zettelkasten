@@ -12,3 +12,5 @@ https://book.hacktricks.wiki/en/pentesting-web/sql-injection/index.html
 ```
 # OR '1'='1'
 Show all cells in a table
+# Types
+- [[SQL Update]]
