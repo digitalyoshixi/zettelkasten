@@ -18,6 +18,7 @@ A conclusion supported by a number of premises.
 - [[Argument Objection]]
 - [[Question-Begging]]
 - [[Circular Argument]]
+- [[Inflate and Explode]]
 # Fallacies
 - [[Fallacy]]
 # Standard Form Snippet
