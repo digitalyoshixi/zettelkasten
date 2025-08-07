@@ -10,3 +10,7 @@ tags:
 john jwt.txt --wordlist=/usr/share/wordlists/jwtsecrets.txt --format=HMAC-SHA256  
 ```
 
+3. 
+```
+hashcat -m 16500 -a 0 jwt.txt /usr/share/wordlists/rockyou.txt
+```
