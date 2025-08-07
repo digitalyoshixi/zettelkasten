@@ -5,9 +5,6 @@ aliases:
   - Yara Variables
 ---
 These are hardcoded values or [[Regular Expression|Regex-able]] values within a program
-# Strings
-### Hardcoded String
-```
-
-```
-### Regex String
+# Datatypes
+- [[Yara String]]
+- [[Yara Byte Array]]
