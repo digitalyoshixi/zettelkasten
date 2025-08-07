@@ -20,7 +20,7 @@ Technicians must ensure that the system is running 99.999% of the time.
 - [[Parallel Processing]]
 - [[Backup Types]]
 - [[Snapshot]]
-- [[Journalling]]
+- [[IT/Journalling]]
 - [[Backup Generator]]
 - [[Uninterruptible Power Supplies|UPS]]
 - [[Power Distribution Unit]]
