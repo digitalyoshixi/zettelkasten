@@ -20,3 +20,8 @@ r = pwn.process("./buffer_overflow", aslr=True)
 r.sendafterline(b'?', b"A"*24)
 print(r.recvall().decode())
 ```
+# Remote Connection
+```python
+import pwn
+conn = pwn.remote('ftp.ubuntu.com',21)
+```
