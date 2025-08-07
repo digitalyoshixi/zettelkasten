@@ -1,6 +1,8 @@
 ---
 tags:
   - cryptography
+aliases:
+  - SHA1
 ---
 # Get Sha1 Hash from file
 ```
