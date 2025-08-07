@@ -1,6 +1,9 @@
 ---
 tags:
   - web
+aliases:
+  - Flask Unsign
+  - Flask Util
 ---
 A special cookie for sessions similar to a [[JSON Web Token|JWT Token]] but with different structure
 # Brute Forcing or Decoding Flask Cookie
