@@ -23,3 +23,5 @@ A firewall is able to:
 - [[Deep Packet Inspection]]
 - [[Screened Subnet]]
 - [[Access Control Model|ACL]]
+- [[Firewall Rules]]
+- [[Implicit Deny]]
