@@ -9,7 +9,7 @@ aliases:
 - 750/900 to pass
 - 90 min, max 90 questions
 - Syllabus listed: https://assets.ctfassets.net/82ripq7fjls2/6TYWUym0Nudqa8nGEnegjG/0f9b974d3b1837fe85ab8e6553f4d623/CompTIA-Security-Plus-SY0-701-Exam-Objectives.pdf
-- Current page: 653
+- Current page: 700
 # Chapters
 ### Chapter 1
 ##### 1.1
@@ -237,3 +237,38 @@ aliases:
 - [[Operational Technology|OT]]
 - [[Web Based Filtering]]
 - [[Operating System Security|OS Security]]
+- [[Network Protocol|Protocol]]
+	- [[File Transfer Protocol|FTP]]
+	- [[Telnet]]
+	- [[Simple Mail Transfer Protocol|SMTP]]
+	- [[Domain Name Server|DNS]]
+	- [[Dynamic Host Configuration Protocol|DHCP]]
+	- [[Trivial File Transfer Protocol|TFTP]]
+	- [[Hyper Text Transfer Protocol|HTTP]]
+	- [[Post Office Protocol 3|POP3]]
+	- [[Network Time Protocol]]
+	- [[NetBIOS]]
+	- [[Internet Message Access Protocol|IMAP4]]
+	- [[Simple Network Management Protocol|SNMP]]
+	- [[Lightweight Directory Access Protocol|LDAP]]
+	- [[Secure Shell Protocol|SSH]]
+	- [[Secure Copy|SCP]]
+	- [[Secure File Transfer Protocol|SFTP]]
+	- [[DNSSEC]]
+	- [[Kerberos]]
+	- [[SNMP V3]]
+	- [[Lightweight Directory Access Protocol over Secure Sockets Layer|LDAPS]]
+	- [[Hyper Text Transfer Protocol Secure|HTTPS]]
+	- [[Transport Layer Security|TLS]] / [[Secure Sockets Layer|SSL]]
+	- [[Server Message Block Protocol|SMB]]
+	- [[IPsec]]
+	- [[Simple Mail Transfer Protocol Secure|SMTPS]]
+	- [[Secure Multipurpose Internet Mail Extension|S/MIME]]
+	- [[Secure Post Office Protocol 3|POP3S]]
+	- [[File Transfer Protocol Secure|FTPS]]
+	- [[Remote Desktop Protocol|RDP]]
+	- [[Voice over IP|SIP]]
+	- [[Secure Real Time Protocol|SRTP]]
+- [[DNS Filtering]]
+- [[Secure Multipurpose Internet Mail Extension|S/MIME]]
+- [[Pretty Good Privacy|PGP]]

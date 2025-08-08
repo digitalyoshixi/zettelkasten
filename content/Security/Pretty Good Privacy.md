@@ -4,4 +4,4 @@ tags:
 aliases:
   - PGP
 ---
-An encryption protocol primarily used for [[E-Mail]]
+An [[End to End Encryption]] protocol primarily used for [[E-Mail]].

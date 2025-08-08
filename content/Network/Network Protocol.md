@@ -66,5 +66,6 @@ aliases:
 - [[Syslog]]
 - [[NetBT]]
 - [[Open Shortest Path First|OSPF]]
+- [[Secure Real Time Protocol|SRTP]]
 # Protocol Groups
 - [[Multiple Access Protocols]]
