@@ -8,4 +8,4 @@ aliases:
 Providing cybersecurity as a service
 # Implementations
 - [[CrowdStrike]]
-- [[TrendMicro]]
+- [[Trend Micro]]
