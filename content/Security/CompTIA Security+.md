@@ -231,3 +231,9 @@ aliases:
 - [[NetFlow]]
 ### 4.5
 - [[Firewall]]
+- [[Port]]
+- [[Host-Based Intrusion Prevention System|HIPS]]
+- [[Host-Based Intrusion Detection System|HIDS]]
+- [[Operational Technology|OT]]
+- [[Web Based Filtering]]
+- [[Operating System Security|OS Security]]

@@ -4,9 +4,7 @@ tags:
   - web
 aliases:
   - URI
+  - URL
 ---
-Universal Resource Locator
-
-How you name resources across the [[World Wide Web]]
-
+How you name resources across the [[World Wide Web]].
 Kind of specific to [[Hyper Text Transfer Protocol|HTTP]]

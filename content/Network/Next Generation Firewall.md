@@ -10,3 +10,5 @@ A [[OSI Application Layer|Layer 7]] firewall that uses cloud-powered threat inte
 - Enforces [[Transport Layer Security|TLS]]
 - [[Deep Packet Inspection]]
 - [[Intrusion Prevention System|IPS]]
+# Types
+- [[Three Legged Firewall]]

@@ -13,7 +13,7 @@ created by [[CERN]]
 
 Asks and solves 3 questions:
 - How to name a resource?
-	- [[URL]]
+	- [[Universal Resource Locator]]
 - How to requests and serve resources?
 	- [[Hyper Text Transfer Protocol|HTTP]]
 - How to create [[Hypertext]]?

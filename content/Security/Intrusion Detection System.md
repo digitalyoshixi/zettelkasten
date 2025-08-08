@@ -11,3 +11,7 @@ It catches threats that the [[Firewall]] misses such as:
 - Illegal logons
 - Other [[Security Threat|Threats]]
 The IDS has methods to log and alert malicious activity.
+# Detection Methods
+- [[Malware Signature]]
+- [[Heuristic Detection]]
+- Real-time updates

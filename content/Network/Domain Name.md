@@ -5,7 +5,7 @@ aliases:
   - Fully Qualified Domain Name
   - FQDN
 ---
-A string representation of a [[URL]] accessible by [[Hyper Text Transfer Protocol|HTTP]].
+A string representation of a [[Universal Resource Locator]] accessible by [[Hyper Text Transfer Protocol|HTTP]].
 You can purchase domain names from your ISP and pay annually to have them direct to your webserver.
 Domain names are given by the [[Internet Corporation for Assigned Names and Numbers]]
 # Top Level Domain Name
