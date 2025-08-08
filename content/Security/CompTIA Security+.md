@@ -229,3 +229,5 @@ aliases:
 - [[Archiving]]
 - [[Security Operation Center|SOC]]
 - [[NetFlow]]
+### 4.5
+- [[Firewall]]

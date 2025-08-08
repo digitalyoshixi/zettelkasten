@@ -20,8 +20,6 @@ A firewall is able to:
 - [[Unified Threat Management|UTM]]
 - [[Next Generation Firewall]]
 # Concepts
-- [[Hardware Firewall]]
-- [[Software Firewall]]
 - [[Deep Packet Inspection]]
 - [[Screened Subnet]]
 - [[Access Control Model|ACL]]
