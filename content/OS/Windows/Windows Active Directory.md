@@ -40,3 +40,5 @@ In the Users tab, right clicking the properties of a User, you can:
 - [[Windows Group Policy Management Console|gpmc.msc]]
 - [[Active Directory Domain Services|AD DS]]
 - [[X500 Format]]
+- [[Updated Sequence Number|USN]]
+- [[Security Identifer]]
