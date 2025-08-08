@@ -14,7 +14,7 @@ It expounds on this by also storing:
 - Location information
 - Group policies
 - Encryption keys
-Active directory is powered by [[Lightweight Directory Access Protocol|LDAP]] on TCP port 389
+Active directory is powered by [[Lightweight Directory Access Protocol|LDAP]] on `tcp/389`
 # Active Directory Users and Computers
 ![[Windows Active Directory-20240717215817738.webp]]
 The active directory can be configured here.
@@ -39,3 +39,4 @@ In the Users tab, right clicking the properties of a User, you can:
 - [[Windows Group Policies]]
 - [[Windows Group Policy Management Console|gpmc.msc]]
 - [[Active Directory Domain Services|AD DS]]
+- [[X500 Format]]
