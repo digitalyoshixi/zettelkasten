@@ -229,7 +229,7 @@ aliases:
 - [[Archiving]]
 - [[Security Operation Center|SOC]]
 - [[NetFlow]]
-### 4.5
+##### 4.5
 - [[Firewall]]
 - [[Port]]
 - [[Host-Based Intrusion Prevention System|HIPS]]
@@ -280,3 +280,6 @@ aliases:
 - [[Network Access Control|NAC]]
 - [[Endpoint Detection and Response|EDR]]
 - [[Extended Detection and Response|XDR]]
+- [[User Behavior Analytics]]
+##### 4.6
+- [[Windows Active Directory|AD]]
