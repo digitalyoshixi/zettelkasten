@@ -1,6 +1,8 @@
 ---
 tags:
   - security
+aliases:
+  - MAC
 ---
 A [[Access Control Model]] that provides the highest level of security.
 Uses document classification and clearance to allow for access to documents.

@@ -8,4 +8,6 @@ Goal is to conform to [[Principle of Least Privilege]].
 - [[Access Control Model|ACL]]
 - [[Whitelist]]
 - [[Blacklist]]
-- 
+# Concepts
+- [[Mandatory Access Control]]
+- [[Discretionary Access Control]]

@@ -52,7 +52,7 @@ aliases:
 - [[Telnet]]
 - [[Remote Desktop Protocol|RDP]]
 - [[Voice over IP|VoIP]]
-- [[Lightweight Directory Access Protocol 1|LDAP]]
+- [[Lightweight Directory Access Protocol|LDAP]]
 - [[Server Message Block Protocol|SMB]]
 - [[Layer 2 Tunneling Protocol|L2TP]]
 - [[IPsec]]

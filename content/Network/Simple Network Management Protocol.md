@@ -17,14 +17,6 @@ Traps are sent and received over `udp/162`
 - [[SNMP Trap]]
 - [[Network Management System|NMS]]
 # Versions
-### SNMP V1
-- Structured tables
-- Unencrypted
-### SNMP V2
-- Allows for bulk transfers
-- Data type enhancements
-- Unencrypted
-### SNMP V3
-- Message integrity
-- Authentication
-- Encryption
+- [[SNMP V1]]
+- [[SNMP V2]]
+- [[SNMP V3]]

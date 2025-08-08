@@ -20,3 +20,4 @@ These servers require authentication with username and password or authenticatio
 # Alternatives
 - [[Trivial File Transfer Protocol|TFTP]]
 - [[Secure File Transfer Protocol|SFTP]]
+- [[File Transfer Protocol Secure]]

@@ -19,3 +19,6 @@ Often used during:
 - [[Discretionary Access Control|DAC]]
 - [[Role-Based Access Control|RBAC]]
 - [[Privileged Access Management]]
+# Concepts
+- [[Whitelist]]
+- [[Blacklist]]

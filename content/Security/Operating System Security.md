@@ -21,6 +21,8 @@ These are ways to mitigate vulnerabilities present within [[IT/Operating System|
 - [[Syslog]]
 - User education
 - [[Backup Types|Backups]]
+# Concepts
+- [[Microsoft Group Policy]]
+- [[Security Enhanced Linux|SELinux]]
 # Vulnerabilities
 - [[BlueKeep]]
-- [[]]

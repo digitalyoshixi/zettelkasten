@@ -4,6 +4,7 @@ tags:
   - active_directory
 aliases:
   - Active Directory
+  - AD
 ---
 A live directory service which functions similarly to a [[Windows Domain]] in the fact that it:
 - Stores domain user login credentials

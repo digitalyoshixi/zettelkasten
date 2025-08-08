@@ -6,7 +6,7 @@ aliases:
   - CIFS
   - Common Internet File System
 ---
-Protocol used to share:
+A Secure Protocol used to share:
 - Files
 - Printers
 - Serial ports
