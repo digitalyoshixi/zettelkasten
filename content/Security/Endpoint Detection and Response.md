@@ -9,9 +9,11 @@ Often includes:
 - [[Anti-Malware Software]]
 # Features
 - Continuous monitoring
+- Data collection
+- [[Malware Signature]] checks
 - Behavioral analysis to check network activity for outliers
 - [[Identifiers of Compromise|IoC]] detection
-- Alert generation
+- [[Alerting]]
 - Forensic analysis
 - Response to threats and instant remediation
 - Endpoint visibility

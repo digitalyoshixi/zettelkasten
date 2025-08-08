@@ -278,3 +278,5 @@ aliases:
 - [[Secure Email Gateway]]
 - [[File Integrity Monitoring]]
 - [[Network Access Control|NAC]]
+- [[Endpoint Detection and Response|EDR]]
+- [[Extended Detection and Response|XDR]]
