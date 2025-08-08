@@ -13,5 +13,6 @@ Not to be confused with [[Explainable Machine Learning]]
 - [[Neuron Superposition]]
 - [[Probe]]
 - [[Different In Means]]
+- [[Attribution Graph]]
 # Papers
 - [[Revealing Computational Graphs in Language Models]]
