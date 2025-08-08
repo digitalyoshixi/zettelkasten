@@ -57,7 +57,7 @@ OS made by [[Microsoft]] that steals all your data.
 - [[winver]]
 - [[Windows gpupdate]]
 - [[Windows gpresult]]
-- [[Windows sfc]]
+- [[Windows System File Checker]]
 - [[shutdown]]
 - [[Windows System Restore]]
 - [[Windows Startup Repair]]

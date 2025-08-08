@@ -8,7 +8,7 @@ tags:
 As a system runs, programs may cause memory leaks or certain services cause issues.
 It is best to reset all programs by rebooting
 # System File Check
-Run [[Windows sfc]] to see if all system files are correct
+Run [[Windows System File Checker]] to see if all system files are correct
 # Reinstall Applications
 Certain programs may be incompatable with the OS, or may have patches fixed in the newest release.
 # Hardware Upgrade
@@ -60,7 +60,7 @@ Too many USB endpoints are being occupied.
 Frequent software errors, system hangs, application failures.
 - Determine with [[Windows Reliability Monitor]]
 - Run hardware diagnostics
-- Run [[Windows sfc]]
+- Run [[Windows System File Checker]]
 - Run [[Anti-Malware Software]] scans
 
 # No OS Found (Boot BCD Errors)
