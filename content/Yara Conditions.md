@@ -7,12 +7,13 @@ Specific conditions for a rule to be fired.
 ```json
 condition:
 	(condition1 and condition2) or
-	(condition3 xor condition4)
+	not (condition3 xor condition4)
 ```
 # Conditions Guides
 - [[Yara Instant Match]]
 - [[Yara String Match Conditions]]
 - [[Yara File Size Conditions]]
+- [[Yara Quantity Conditions]]
 # Yara Keywords
 |          |           |            |          |             |          |            |           |
 | -------- | --------- | ---------- | -------- | ----------- | -------- | ---------- | --------- |

@@ -1,6 +1,8 @@
 ---
 tags:
   - malware
+aliases:
+  - Yara Byte Array
 ---
 You can just find these with [[xxd]]
 # Fixed Length

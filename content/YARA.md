@@ -4,7 +4,8 @@ tags:
   - malware
 ---
 A swiss army knife for pattern matching.
-Often used for writing [[Malware|Malware Signatures]]
+Often used for writing [[Malware|Malware Signatures]] for [[Packing|Unpacked]] malware.
+Used primarily as [[Hunting Rules]]
 Ends with `.yar` [[File Extension]].
 # Usage
 ```
@@ -34,7 +35,14 @@ rule silent_banker : banker
 - [[Yara Meta]]
 - [[Yara Strings]]
 - [[Yara Conditions]]
+- [[Yara Searching Algorithm]]
+- [[Yara Rule Tips]]
 # Existing Boilerplates
 - [[Yara Windows Malware Boilerplate]]
 # Rule Repositories
 - https://github.com/elastic/protections-artifacts
+- https://github.com/VirusTotal/yara
+- https://github.com/Yara-Rules/rules
+- https://github.com/bartblaze/Yara-rules
+- https://github.com/Neo23x0/signature-base
+- https://github.com/embee-research/Yara-detection-rules
