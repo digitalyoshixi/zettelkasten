@@ -15,7 +15,7 @@ Traps are sent and received over `udp/162`
 - [[SNMP Manager]]
 - [[Management Information Base|MIB]]
 - [[SNMP Trap]]
-- [[Network Management Sytem|NMS]]
+- [[Network Management System|NMS]]
 # Versions
 ### SNMP V1
 - Structured tables

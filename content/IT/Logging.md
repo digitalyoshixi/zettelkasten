@@ -10,3 +10,5 @@ Acts as an audit trail to track events.
 General status of the program
 ### Security 
 Logs involving authentication and priviledges of resources.
+# Activities
+- [[Log Aggregration]]
