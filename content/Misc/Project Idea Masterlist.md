@@ -26,4 +26,5 @@ tags:
 - JIRA/Scrum for Hospital:
 - Blender / 3D slicing tools for DNA printing:
 - Thingiverse for DNA prints. Share your DNA prints online for download
-- Genome sequencing visualizer:
+- Genome sequencing visualizer
+- Yara on everything. Scrape and make yara rules, then make a 'file search engine' to search for files that include a string, or upload a file to match against signatures. 

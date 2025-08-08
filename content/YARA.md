@@ -10,6 +10,9 @@ Ends with `.yar` [[File Extension]].
 ```
 yara myrule.yar myfile
 ```
+```
+yara myrule.yar mydirectory/
+```
 # Boilerplate
 ```json
 rule silent_banker : banker
@@ -31,3 +34,7 @@ rule silent_banker : banker
 - [[Yara Meta]]
 - [[Yara Strings]]
 - [[Yara Conditions]]
+# Existing Boilerplates
+- [[Yara Windows Malware Boilerplate]]
+# Rule Repositories
+- https://github.com/elastic/protections-artifacts
