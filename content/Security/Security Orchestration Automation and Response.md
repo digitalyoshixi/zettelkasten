@@ -10,3 +10,5 @@ A real-time system that is powered by [[Artificial Intelligence|AI]] to detect [
 # Features
 - Orchestration: Can integrate with many [[Application Program Interface|API]], security tools, data sources to coordinate and execute workflows
 - Automation: Allows processes to be automated
+- Response: Soar uses [[Playbook]] to respond to threats. Could isolate system, block malicious IPs, notify [[Incident Response|IR]]
+- 

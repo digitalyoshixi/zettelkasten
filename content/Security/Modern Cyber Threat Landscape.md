@@ -7,7 +7,7 @@ Cybersecurity used to be a hobbyist space that was very generalized, you need to
 # Modern Day
 ### Industrialized
 You have almost anything as a service, you have [[Ransomware As A Service]].
-You can be a [[Script Kiddie]] and make bank.
+You can be a [[Unskilled Attacker]] and make bank.
 You no longer need the end-to-end skill set.
 
 When security gets industrialized, you have a lower bar and a lot more people getting into cyber-crime.

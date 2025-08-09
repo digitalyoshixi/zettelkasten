@@ -31,3 +31,7 @@ tags:
 - A tool to convert all software into webservers. (Expose all exported functions to a route, or choose which exports you want to expose) - kind of like those webscraper -> api sites, but for software. We could also make [[Remote Procedure Calls|RPC]] instead of API.
 - OS automation buddy. Like [[n8n]] but for system services. Clock hits 12am -> open [[Anki]]. Resource use high, send alert. Could work with existing n8n aswell, like RSS feed -> open browser and open blogpost page.
 - grok reacts. Open up disturbing true crime videos in front of humanoid-version of grok and get their reactions
+- Rigorous prover. Convert a written algorithm into [[Rocq]] or [[LEAN]]
+- [[n8n]] for [[Security Orchestration Automation and Response|SOAR]]
+- You have to make a [[Interpreter|Interpreted]] language where you can edit the source code, and it changes the program behavior in real time + a tool for you to see the current line being interpreted and a AST view aswell (Literally [[List Processor|LISP]] utils)
+- Pool everything. Like https://stablehorde.net/, set aside some system resources to add to a shared [[Resource Pools|Resource Pool]] for general purpose things
