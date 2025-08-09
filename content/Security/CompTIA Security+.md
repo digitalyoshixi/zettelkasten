@@ -292,3 +292,8 @@ aliases:
 - [[Interoperability]]
 - [[Attestation]]
 - [[Access Control]]
+- [[Multifactor Authentication|MFA]]
+- [[Hard Authentication]]
+- [[Soft Authentication]]
+- [[Authentication Factors]]
+- [[Multifactor Authentication|MFA]]

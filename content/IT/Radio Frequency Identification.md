@@ -9,7 +9,7 @@ aliases:
 An adoption of [[Near Field Scanner|NFC]] to be used for authentication. Requires [[Antenna|Antennas]] to read radio waves from RFID tags.
 RFID commonly uses 13.56 MHz short-band frequency
 Seen commonly in:
-- [[RFID Badge]]
+- [[Key Fob]]
 - [[Smart Card]]
 - Pet/Animal Identification
 - Inventory tracking

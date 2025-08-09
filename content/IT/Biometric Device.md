@@ -1,11 +1,23 @@
 ---
 tags:
   - hardware
+aliases:
+  - Biometrics
 ---
 ![[BIometric Device-20240704193453600.webp|266]]
-Authenticating devices that store hashed data of human biology like your iris, head, fingerprint, etc.
+Authenticating devices that store hashed data of human biology like:
+- Iris
+- Face
+- Fingerprint
+- Retina
+- Voice
+- [[Vein Pattern Recognition]]
+- [[Gait Analysis]]
+# Concepts
+- [[False Acceptance Rate]]
+- [[False Rejection Rate]]
+- [[Crossover Error Rate]]
 # Hardware Implementations
-Modern laptops often have the fingerprint scanner:
-![[BIometric Device-20240704193646168.webp|262]]
+- [[Fingerprint Scanner]]
 # Software Implementations
 - [[Windows Hello]]

@@ -28,4 +28,4 @@ Control implemented by people instead of systems.
 ### [[Physical Security|Physical Controls]]
 - Fences
 - Locks
-- [[RFID Badge]] readers
+- [[Key Fob]] readers
