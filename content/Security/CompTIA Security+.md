@@ -304,3 +304,6 @@ aliases:
 - [[Password Manager]]
 - [[Passwordless]]
 - [[Privileged Access Management|PAM]]
+##### 4.7
+- [[Mean Time to Detect]]
+- [[Security Orchestration Automation and Response|SOAR]]

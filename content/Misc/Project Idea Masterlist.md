@@ -28,3 +28,6 @@ tags:
 - Thingiverse for DNA prints. Share your DNA prints online for download
 - Genome sequencing visualizer
 - Yara on everything. Scrape and make yara rules, then make a 'file search engine' to search for files that include a string, or upload a file to match against signatures. 
+- A tool to convert all software into webservers. (Expose all exported functions to a route, or choose which exports you want to expose) - kind of like those webscraper -> api sites, but for software. We could also make [[Remote Procedure Calls|RPC]] instead of API.
+- OS automation buddy. Like [[n8n]] but for system services. Clock hits 12am -> open [[Anki]]. Resource use high, send alert. Could work with existing n8n aswell, like RSS feed -> open browser and open blogpost page.
+- grok reacts. Open up disturbing true crime videos in front of humanoid-version of grok and get their reactions

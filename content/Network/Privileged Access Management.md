@@ -15,3 +15,5 @@ Administrators create ephemeral roles with just enough priviledges for a user to
 5. Administrator closes PAM session
 # PAM Tools
 - [[Just In Time Permissions]]
+- [[Password Vaulting]]
+- [[Ephemeral Credentials]]
