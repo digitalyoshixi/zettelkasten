@@ -303,3 +303,4 @@ aliases:
 - [[Strong Password]]
 - [[Password Manager]]
 - [[Passwordless]]
+- [[Privileged Access Management|PAM]]
