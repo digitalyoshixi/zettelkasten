@@ -2,7 +2,6 @@
 tags:
   - security
 aliases:
-  - Hard Token
   - RSA Token
 ---
 Devices that store identification information like:
@@ -11,3 +10,5 @@ Devices that store identification information like:
 - Biometric data
 ![[Security Token-20240725215939977.webp|373]]
 Communicates with authenticator apps via radio frequency to provide codes for logins.
+# Types
+- [[RSA SecurID]]

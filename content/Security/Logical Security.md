@@ -8,5 +8,5 @@ Security focusing on denying access to computers and data.
 - [[IP Address Filtering]]
 - [[Multifactor Authentication|MFA]]
 - [[Radio Frequency Identification|RFID]]
-- [[Security Token]]
+- [[Hard Token]]
 - [[Disabling Interactive Logins]]
