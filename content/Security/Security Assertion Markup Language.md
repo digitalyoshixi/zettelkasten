@@ -4,4 +4,5 @@ tags:
 aliases:
   - SAML
 ---
-This is a XML markdown file that sets security policies for user groups.
+This is a XML markdown file used to exchange [[Single Sign On|SSO]] data between third parties.
+Used to communicate with a [[SAML Identity Provider|IdP]].

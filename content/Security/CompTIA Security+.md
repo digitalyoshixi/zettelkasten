@@ -286,3 +286,6 @@ aliases:
 - [[Kerberos]]
 - [[NT LAN Manager]]
 - [[Authentication]]
+- [[Federated]]
+- [[Security Assertion Markup Language|SAML]]
+- [[Single Sign On|SSO]]

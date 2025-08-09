@@ -11,7 +11,7 @@ This is stateless, so **server doesn't remember anything about the client.**
 1. Send HTTP request
 2. Fetch data from database
 3. Return data in JSON format
-[[OAuth]] is commonly required to access an API functionality
+[[Open Auth]] is commonly required to access an API functionality
 # Constraints
 - Client-server architecture
 - Statelessness
