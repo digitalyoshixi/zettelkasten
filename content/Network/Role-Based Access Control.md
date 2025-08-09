@@ -4,6 +4,6 @@ tags:
 aliases:
   - RBAC
 ---
-A least-privilege policy giving users enough access for them to do their job.
+Access control based off the role of the user.
 Each job role will have a different access policy.
-Accountants only have access to reading,writing and sharing/
+It adheres to [[Principle of Least Privilege]], giving users enough access for them to do their job.
