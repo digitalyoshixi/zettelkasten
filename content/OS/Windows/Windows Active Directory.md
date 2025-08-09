@@ -42,3 +42,4 @@ In the Users tab, right clicking the properties of a User, you can:
 - [[X500 Format]]
 - [[Updated Sequence Number|USN]]
 - [[Security Identifer]]
+- [[ADSI Edit]]

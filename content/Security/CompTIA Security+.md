@@ -284,3 +284,5 @@ aliases:
 ##### 4.6
 - [[Windows Active Directory|AD]]
 - [[Kerberos]]
+- [[NT LAN Manager]]
+- [[Authentication]]

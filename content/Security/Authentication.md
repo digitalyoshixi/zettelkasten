@@ -3,4 +3,7 @@ tags:
   - security
 ---
 The process used to verify identities.
-Would often a boolean for correct verification.
+Would offer a boolean for correct verification.
+# Types
+- [[Group Based Authentication]]
+- [[Context-Aware Authentication]]
