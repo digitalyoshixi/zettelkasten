@@ -309,4 +309,5 @@ aliases:
 - [[Security Orchestration Automation and Response|SOAR]]
 - [[Network Automation]]
 ##### 4.8
-- 
+- [[Incident Response|IR]]
+- [[Incident Response Process]]

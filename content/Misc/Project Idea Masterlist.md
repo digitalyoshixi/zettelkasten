@@ -41,3 +41,11 @@ tags:
 - A piece of membrane that can be programmed to change shape, can be attached to common household devices and turn everything into [[Internet of Things|IoT]]
 - A tool to convert an entire repo's backend into [[Function As A Service|Serverless]]
 - [[Alternate Reality]] app that gives you paranoia. Door creaking, shadow people in the corner of your eye, whispering, etc.
+- [[Nmap]] scan to infer and create a [[Network Topology Diagram]]
+- Urban legend team crafter. Find a group to go look for urban legends
+- Browse with friends. A web browser you can all control with friends. [[Websocket]] connections.
+- Parsec clone, but actually good
+- Metamath visualizer
+- Show hacker news wrapped
+- [[Theory of Everything|Unified Theory of Everything]]. Wikipedia but organized like a obsidian graph
+- [[Cell Learning Theory|Biological Computing]] physical [[Malware]], infects computers via airborne means

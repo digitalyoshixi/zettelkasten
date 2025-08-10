@@ -20,8 +20,11 @@ A process in dealing with security incidents or negative events.
 - Submit on [[Organization Knowledge Base]]
 # Inform Management/Law Enforcement
 - Determine If incident is low level, requires escalation or requires law enforcement
-# Incident Response Plans
-# [[Security Framework]]
+# Process
+- [[Incident Response Process]]
+# Concepts
+- [[Security Framework]]
+- [[Incident Response Plans]]
 # Tools
 - https://www.ultimatewindowssecurity.com/
 - https://www.jpcert.or.jp/english/
