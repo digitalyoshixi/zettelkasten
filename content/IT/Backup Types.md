@@ -1,6 +1,8 @@
 ---
 tags:
   - security
+aliases:
+  - Data Backup
 ---
 # Storage Periods
 ### Full

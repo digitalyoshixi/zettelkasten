@@ -10,4 +10,4 @@ Measured on a variety of metrics from a template baseline.
 - Red indicates no progress
 # Baselines
 - [[NIST Special Publication 800-171 Revision 2|Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations]]
-- [[ISO/IEC 27001|Information Security Management Systems]]
+- [[ISO 27001|Information Security Management Systems]]
