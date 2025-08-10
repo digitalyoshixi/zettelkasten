@@ -29,3 +29,9 @@ aliases:
 - Protect environment against future attacks
 ### Recovery
 - Restore operations to a normal state
+	- Data restoration
+	- Devices brought back online
+- Reach the [[Recovery Point Objective]] as early as possible
+### Lessons Learned
+- Conduct a post-incident analysis
+- 

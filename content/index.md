@@ -17,3 +17,4 @@ I aim to make this obsidian vault bloated asf
 - [[Homomorphic Encryption Project]] 
 - [[CSEC Esolang Seminar]]
 - [[FPGA Project]]
+- [[Biological Computing Compiler Project]]
