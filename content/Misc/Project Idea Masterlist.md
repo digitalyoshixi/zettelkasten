@@ -35,3 +35,5 @@ tags:
 - [[n8n]] for [[Security Orchestration Automation and Response|SOAR]]
 - You have to make a [[Interpreter|Interpreted]] language where you can edit the source code, and it changes the program behavior in real time + a tool for you to see the current line being interpreted and a AST view aswell (Literally [[List Processor|LISP]] utils)
 - Pool everything. Like https://stablehorde.net/, set aside some system resources to add to a shared [[Resource Pools|Resource Pool]] for general purpose things
+- A programming language with [[F*]] correctness, but with the usability of [[Zig]] or [[Go]]
+- A [[Large Language Model|LLM]] to help you translate snippets of [[C]] code into [[F*]], asking you for the expected constraints, and helping you with codegen
