@@ -4,6 +4,6 @@ tags:
 ---
 Authentication through software.
 # Techniques
-- [[One TIme Password]]
+- [[One Time Password]]
 - [[Biometric Device|Biometrics]]
 - [[Knowledge-Based Authentication]]

@@ -21,4 +21,5 @@ Information that can be used for practical purposes.
 - [[Data Owner]]
 - [[Data Controller]]
 - [[Data Processor]]
+- [[Data Custodian]]
 - [[Data Steward]]

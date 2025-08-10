@@ -1,6 +1,7 @@
 ---
 tags:
   - law
+  - business
 ---
 # Structure
 - [[Board of Directors]] ensure governance, oversight and transparency

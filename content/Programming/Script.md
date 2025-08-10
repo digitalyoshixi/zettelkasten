@@ -1,8 +1,8 @@
 ---
 tags:
-  - networking
+  - programming
 ---
-Programs written to acomplish temporary tasks.
+Programs written to accomplish temporary tasks.
 
 Often developed through interpreted languages like:
 - [[Python]]

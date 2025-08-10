@@ -1,6 +1,7 @@
 ---
 tags:
   - security
+  - networking
 ---
 The ability for two platforms to work together seamlessly.
 Most platforms use standards like:
