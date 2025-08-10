@@ -358,4 +358,8 @@ aliases:
 	- [[Data Owner]]
 	- [[Data Controller]]
 ##### 5.2
-- 
+- [[Risk]]
+- [[Security Threat|Threat]]
+- [[Security Vulnerability|Vulnerability]]
+- [[Risk Assessment]]
+- [[Risk Analysis]]

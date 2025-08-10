@@ -4,7 +4,8 @@ tags:
 aliases:
   - Threat
 ---
-These are security issues that mar or may not be solved completely.
+These are security issues that may or may not be solved completely.
+They exist and can cause [[Risk]] to your organization.
 # Unpreventable
 These threats can only be mitigated.
 - [[Hacker Groups]]
