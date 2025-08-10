@@ -1,6 +1,8 @@
 ---
 tags:
   - security
+aliases:
+  - Control Type
 ---
 These are controls used to limit access into a network, device or building.
 ![[Security Controls-20250709023333558.webp]]
