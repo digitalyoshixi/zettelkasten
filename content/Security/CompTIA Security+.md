@@ -372,3 +372,9 @@ aliases:
 - [[Risk Management]]
 - [[Risk Reporting]]
 - [[Business Impact Analysis]]
+##### 5.3
+- [[Vendor Assessment]]
+- [[Vendor Selection]]
+- [[Vendor Agreement Types]]
+- [[Vendor Monitoring]]
+- [[Rules of Engagement]]
