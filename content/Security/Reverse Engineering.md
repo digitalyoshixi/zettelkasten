@@ -14,3 +14,4 @@ tags:
 - [[Reverse Engineering Go]]
 - [[Reverse Engineering ISO]]
 - [[Reverse Engineering Commodore]]
+- [[Reverse Engineering Hardware]]

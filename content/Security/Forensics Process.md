@@ -2,6 +2,7 @@
 tags:
   - ctf
   - forensics
+aliases:
 ---
 # General
 1. [[exiftool]]

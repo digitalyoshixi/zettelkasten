@@ -5,10 +5,9 @@ tags:
 ---
 # Guides
 - [[Reverse Engineering]]
-- [[Forensics]]
-- [[Web Exploitation]]
+- [[Forensics Process]]
+- [[Web Exploitation Process]]
 - [[Binary Exploitation]]
-
 - [[Cryptography]]
 - [[Open Source Intelligence|OSINT]]
 - [[Jail]]

@@ -13,4 +13,4 @@ Laid out in [[MITRE ATT&CK]]
 # Infrastructure
 The means by which an attacker can get to a victim. ([[Electronic Mail|Email]], [[IP Address]], Remote access)
 # Victim
-The person targeted by the adversayr
+The person targeted by the adversary
