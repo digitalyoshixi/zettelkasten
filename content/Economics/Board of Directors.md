@@ -1,6 +1,8 @@
 ---
 tags:
   - business
+aliases:
+  - BOD
 ---
 ### Board of Directors
 ![[Corporation Shares-20241126194526796.webp]]

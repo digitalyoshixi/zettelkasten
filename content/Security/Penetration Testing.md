@@ -8,3 +8,8 @@ The role to assess the security of a organization by employing red-team techniqu
 - Unknown : Working in a black box, like real attackers
 - Partially known: Working in grey box
 - Known environment: Working in white box. Like [[Insider Threats]]
+# Types
+- [[Physical Penetration Testing]]
+- [[Offensive Penetration Testing]]
+- [[Defensive Penetration Testing]]
+- [[Integrated Penetration Testing]]

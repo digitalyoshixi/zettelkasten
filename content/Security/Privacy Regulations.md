@@ -9,3 +9,10 @@ tags:
 - [[Sarbanes-Oxley Act|SOX]]
 - [[Gramm-Leach-Bliley Act|GLBA]]
 - [[Data Protection Act]]
+# Non-Compliance
+Non compliance can bring about:
+- Fines
+- [[Sanction]]
+- Reputation damage
+- Loss of licenses
+- Loss of contracts

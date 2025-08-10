@@ -290,7 +290,7 @@ aliases:
 - [[Security Assertion Markup Language|SAML]]
 - [[Single Sign On|SSO]]
 - [[Interoperability]]
-- [[Attestation]]
+- [[Identity Attestation]]
 - [[Access Control]]
 - [[Multifactor Authentication|MFA]]
 - [[Hard Authentication]]
@@ -378,3 +378,15 @@ aliases:
 - [[Vendor Agreement Types]]
 - [[Vendor Monitoring]]
 - [[Rules of Engagement]]
+##### 5.4
+- [[Compliance Reporting]]
+- [[Privacy Regulations]]
+- [[Compliance Monitoring]]
+- [[Data]]
+##### 5.5
+- [[Data Attestation]]
+- [[Internal Audit]]
+- [[External Audit]]
+- [[Penetration Testing]]
+##### 5.6
+- [[Phishing]]
