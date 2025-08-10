@@ -4,8 +4,8 @@ tags:
 aliases:
   - Static
 ---
-Variables that are accessible to all classes.
-They can be directly accessed without need of a specific method.
+Variables or methods that are accessible to all classes.
+They can be directly accessed without need of instantiating an object.
 # Pertinance
 If they are local variables, then their value persists even when their execution leaves their scope.
 # Privacy
