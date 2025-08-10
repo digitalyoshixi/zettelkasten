@@ -9,4 +9,6 @@ A method of gathering data by [[Impersonation|Impersonating]] or enticing users 
 - [[Vishing]]
 # Well-Known Techniques
 - [[Spoofed Communication Phishing]]
-- [[Urgent ]]
+- [[Urgent Phishing]]
+- [[Competition Winner Phishing]]
+- [[Tax Refund Phishing]]

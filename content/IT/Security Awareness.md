@@ -15,3 +15,14 @@ Programs to introduce:
 - [[Security Compliance]]
 - Team collaboration
 to [[Layman]].
+# Techniques
+- [[Security Policy|Security Handbook]]
+- Fake penetration tests
+- Insider threat identification training
+- [[Password Standards]]
+- Removable drives awareness
+- [[Social Engineering]] tests
+- [[Virtual Private Network|VPN]] or remote-work training
+# Concepts
+- [[Security Awareness Training Reporting]]
+- [[Security Awareness Training Effectiveness]]
