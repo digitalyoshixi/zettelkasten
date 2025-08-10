@@ -40,7 +40,7 @@ tags:
 - General purpose [[Neural Network|Neural Net]] pruning and [[Model Extraction|Model Distillation]] tool, takes any model and returns smaller model made specifically for [[Embedded Device|Embedded Devices]]
 - A piece of membrane that can be programmed to change shape, can be attached to common household devices and turn everything into [[Internet of Things|IoT]]
 - A tool to convert an entire repo's backend into [[Function As A Service|Serverless]]
-- [[Alternate Reality]] app that gives you paranoia. Door creaking, shadow people in the corner of your eye, whispering, etc.
+- [[Alternate Reality]] app that gives you paranoia. Door creaking, shadow people in the corner of your eye, faces, whispering, etc.
 - [[Nmap]] scan to infer and create a [[Network Topology Diagram]]
 - Urban legend team crafter. Find a group to go look for urban legends
 - Browse with friends. A web browser you can all control with friends. [[Websocket]] connections.

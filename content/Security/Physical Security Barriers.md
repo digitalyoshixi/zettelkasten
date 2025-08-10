@@ -14,3 +14,5 @@ tags:
 - [[Bollard]]
 - [[Access Control Vestibule]]
 - [[Radio Frequency Identification|RFID]]
+- [[Guard]]
+- [[Turnstile]]

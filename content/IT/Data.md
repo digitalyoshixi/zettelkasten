@@ -18,3 +18,7 @@ Information that can be used for practical purposes.
 # Concepts
 - [[Data Classification Pyramid]]
 - [[Data Sovereignty]]
+- [[Data Owner]]
+- [[Data Controller]]
+- [[Data Processor]]
+- [[Data Steward]]

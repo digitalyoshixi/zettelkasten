@@ -11,3 +11,4 @@ tags:
 - [[Ultrasonic Sensor]]
 - [[Closed Circuit Television|CCTV]]
 - [[Magnetometer]]
+- [[Visitor Log]]
