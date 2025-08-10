@@ -7,12 +7,7 @@ aliases:
 # Tips
 - Final project is for developing a android project. All team members are in the same tutorial session
 - Office Hours and Location: Mondays (12:00-14:00) and Wednesdays (15:00-17:00), IA4082.
-# Concepts
-- [[Software Development Life Cycle|SDLC]]
-- [[Unit Testing]]
-- [[SOLID Design]]
-- [[Design Pattern]]
-- [[Principles of Clean Code]]
+# Weeks
 ### Week 1 or 2
 - [[Java]]
 - [[Java Classes]]

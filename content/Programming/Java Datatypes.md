@@ -5,16 +5,16 @@ aliases: []
 ---
 These are the default data types in Java.
 ## Primitive
-| Datatype     | Use-case                                             |
-| ------------ | ---------------------------------------------------- |
-| byte         | just a single byte                                   |
-| short        | 2 bytes                                              |
-| int          | integer number                                       |
-| long         | 8 bytes. requires you to postappend 'l' after number |
-| float        | a float with wordsize                                |
-| double       | a float with length of twice wordsize                |
-| boolean      | true or false flag                                   |
-| char<br>null | a single ascii character                             |
+| Datatype     | Use-case                                                                     |
+| ------------ | ---------------------------------------------------------------------------- |
+| byte         | 1 byte signed ($-2^{7}$ to $2^{7}$)                                          |
+| short        | 2 bytes signed ($-2^{15}$ to $2^{15}$)                                       |
+| int          | 4 bytes signed ($-2^{31}$ to $2^{31}$)                                       |
+| long         | 8 bytes. ($-2^{63}$ to $2^{63}$) requires you to postappend 'l' after number |
+| float        | 4 bytes                                                                      |
+| double       | 8 bytes                                                                      |
+| boolean      | one bit                                                                      |
+| char<br>null | 2 bytes                                                                      |
 # Non-Primitive(Advanced)
 | Datatype  | Use-Case             |
 | --------- | -------------------- |

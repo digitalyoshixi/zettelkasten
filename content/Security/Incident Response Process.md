@@ -22,6 +22,7 @@ aliases:
 - Isolate and [[Quarantine]] affected systems
 - Compromised user accounts and credentials should be disabled
 - Volatile evidence like running processes, network connection should be collected for future analysis
+- Grab a sample of malware and isolate it
 ### Eradication
 - Destroy the root cause of incident. If its malware, then purge it
 - Delete infected files
