@@ -363,3 +363,4 @@ aliases:
 - [[Security Vulnerability|Vulnerability]]
 - [[Risk Assessment]]
 - [[Risk Analysis]]
+- [[Calculating Equipment Cost]]
