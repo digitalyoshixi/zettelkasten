@@ -4,6 +4,7 @@ tags:
   - math
 aliases:
   - Binary Subtraction
+  - Twos Complement
 ---
 The most common method of representing signed integers.
 Designates the most significant byte to be the negative version of itself.
