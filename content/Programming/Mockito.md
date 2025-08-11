@@ -5,7 +5,7 @@ tags:
 This is a testing framework for testing java applications.
 Can:
 - Create [[Mock Objects]]
-- Setup stubbing
+- Setup [[Stubbing]]
 - Verify behavior
 Often works well with [[Robolectric]] for emulating android.
 # Gradle Import
