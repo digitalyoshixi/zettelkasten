@@ -21,4 +21,4 @@ There are 32 registers in [[Microprocessor Without Interlocked Pipelined Stages|
 - `$a0 - $a3`: function arguments
 # Not in Register File
 - `$PC` : [[Program Counter Register]]
-- `$HI, $LO` : Used for multiplication and division
+- `$HI, $LO` : remainder and quotient respectively for division

@@ -11,3 +11,4 @@ These are voltages that oscillate between high and low at a set [[Frequency]].
 This type of signal is essential for [[Central Processing Unit|CPU]] to read data.
 # Concepts
 - [[Clock Edge]]
+- [[Clock Cycle]]
