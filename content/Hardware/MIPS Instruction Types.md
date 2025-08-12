@@ -10,7 +10,7 @@ aliases:
 These are the assembly instruction types. Differentiated by what each collection of bits represents.
 # R Type
 ![[MIPS Instruction Types-20250624153620609.webp]]
-- `opcode` that is always $0$
+- `opcode` that is always $000000$
 - `rs` is a source register
 - `rt` is a source register
 - `rd` is the destination register that stores the result of the operation
