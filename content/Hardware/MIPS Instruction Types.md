@@ -22,6 +22,7 @@ These are the assembly instruction types. Differentiated by what each collection
 - `rs` is a source register
 - `rt` is the destination register
 - `immediate` is a given value for various purposes. Two zeroes are always at the end of the address
+	- Note that for branching, we store the offset from the current PC, so that it can fit within immediate
 # J Type
 ![[MIPS Instruction Types-20250624153643874.webp]]
 - `opcode` : the opcode from [[MIPS Opcodes]]
