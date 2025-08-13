@@ -19,6 +19,7 @@ Used for:
 - Keygen
 - Digitally signing data
 - [[Hyper-V]]
+- Preventing brute force by locking down [[File System]].
 The TPM also has persistent memory so keys can be stored on the TPM.
 The TPM is password protected.
 # TPM Reset
