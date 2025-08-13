@@ -13,7 +13,7 @@ final class Manager {
 	private static Manager manager;
 	private Manager() {
 	}
-	public static Manager getInstnace(){
+	public static Manager getInstance(){
 		if (manager == null){
 			manager = new Manager();
 		}
