@@ -16,3 +16,6 @@ Human trust is flawed. Assume the attacker is already inside the system.
 - [[Planes of Operation]]
 - [[Security Zone]]
 - [[Policy Enforcement Point|PEP]]
+- [[Threat Scope Reduction]]
+# Tools
+- [[Pomerium]]
