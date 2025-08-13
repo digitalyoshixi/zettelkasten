@@ -7,7 +7,10 @@ aliases:
   - Java Implementation
 ---
 These are [[Interface|Interfaces]] defined for [[Java]].
-They are similar to [[Java Abstract Class]], but they cannot have any [[Concrete Methods]]
+They act like public facing APIs.
+They are similar to [[Java Abstract Class]], but they:
+- Cannot have any [[Concrete Methods]]
+- The only attributes allowed must be `final static` attributes (attributes are not well supported)
 # Implementing a Interface
 ```java
 class myClass implements myInterface{
@@ -17,6 +20,7 @@ class myClass implements myInterface{
 # Boilerplate
 ```java
 interface Animal {
+  public static int mytag;
   public void animalSound(); // interface method (does not have a body)
   public void run(); // interface method (does not have a body)
 }

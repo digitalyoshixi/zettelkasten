@@ -2,11 +2,13 @@
 tags:
   - programming
 ---
-Static makes everything shared.
-
-essentially the metadata of your class.
+Variables/methods that are loaded once per class (not instance).
+- Each variable or method is shared between all objects
+Used mainly for utility variables/operations.
+They can be directly invoked from the class name itself.
 # Static Variables
-its a variable or method shared across all classes. Changing this static variable will change the static variable in all other objects
+Its a variable or method shared across all classes.
+Changing this static variable will change the static variable in all other objects
 # Static Methods 
 will run from the variables in the class itself instead of the current object
 ### Example
