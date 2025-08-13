@@ -68,7 +68,9 @@ public class Main {
 - [[Java ArrayList]]
 - [[Java HashMap]]
 - [[Java JSON]]
+### Memory Management
+- [[Java String Pool]]
 ### Testing
-- [[Java Exception]]
+- [[Java Exceptions]]
 ### Conventions
 - [[Java Coding Conventions]]
