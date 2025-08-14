@@ -6,3 +6,5 @@ tags:
 Food that is rich in:
 - [[Fiber]]
 - Vitamin
+# Types
+- [[Cruciferous Vegetable]]
