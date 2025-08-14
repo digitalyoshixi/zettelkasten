@@ -2,7 +2,7 @@
 tags:
   - software
 ---
-The process of converting code logic into a better more modular form.
+The process of changing a software system in such away that it does not alter external behavior, but improves the internal structure.
 # Techniques
 - [[Refactoring Extract Method]]
 - [[Refactoring Replace Method with Method Object]]
