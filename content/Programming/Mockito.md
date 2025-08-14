@@ -36,3 +36,5 @@ public class LoginMockitoTest {
 - [[Mockito Verify]]
 - [[Mockito ThenReturn]]
 - [[Stubbing]]
+- [[Hamcrest]]
+- [[Mockito Defaults]]
