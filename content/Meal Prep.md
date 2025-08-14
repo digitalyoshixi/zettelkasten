@@ -2,25 +2,29 @@
 tags:
   - health
 ---
+The idea is to stick to a set list of meals, make several every 3 days, and then freeze them so its easy to eat.
 # Monday
 ### Breakfast
-- 1 [[Grapefruit]]
+- 1 [[Gaia Apple]]
 - 2 [[Egg]]
-- [[Cheese]]
+- 20g [[Cheese]]
 - 1/4 [[Baguette]]
 ### Lunch
-- Half [[Lettuce]] head
-- 
+- [[Roast Beef Sandwich]]
 ### Dinner
-- 20g [[Chicken Thigh]]
+- [[Butter Chicken]]
+- [[Zucchini]]
+- [[White Rice]]
 # Tuesday
 ### Breakfast
-- 1 [[Grapefruit]]
+- 1 [[Kiwi]]
 - 2 [[Egg]]
 - [[Cheese]]
 - 1/4 [[Baguette]]
 ### Lunch
+- [[Garden Salad]]
 ### Dinner
+- [[Chicken Pesto Bowl]]
 # Wednesday
 ### Breakfast
 - 1 [[Grapefruit]]
@@ -31,7 +35,7 @@ tags:
 ### Dinner
 # Thursday
 ### Breakfast
-- 1 [[Grapefruit]]
+- 1 [[Gaia Apple]]
 - 2 [[Egg]]
 - [[Cheese]]
 - 1/4 [[Baguette]]
@@ -39,7 +43,7 @@ tags:
 ### Dinner
 # Friday
 ### Breakfast
-- 1 [[Grapefruit]]
+- 1 [[Kiwi]]
 - 2 [[Egg]]
 - [[Cheese]]
 - 1/4 [[Baguette]]
@@ -55,7 +59,7 @@ tags:
 ### Dinner
 # Sunday
 ### Breakfast
-- 1 [[Grapefruit]]
+- 1 [[Gaia Apple]]
 - 2 [[Egg]]
 - [[Cheese]]
 - 1/4 [[Baguette]]

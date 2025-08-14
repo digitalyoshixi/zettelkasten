@@ -7,3 +7,5 @@ aliases:
 A fruiting body that bears [[Spores]].
 # List
 - [[Fly Amanita]]
+- [[Agaricus Bisporus]]
+- [[Baby Bella]]
