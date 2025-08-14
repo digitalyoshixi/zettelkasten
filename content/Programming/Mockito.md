@@ -35,3 +35,4 @@ public class LoginMockitoTest {
 - [[Mockito When]]
 - [[Mockito Verify]]
 - [[Mockito ThenReturn]]
+- [[Stubbing]]
