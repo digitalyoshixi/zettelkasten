@@ -1,6 +1,7 @@
 ---
 tags:
   - health
+  - botany
 ---
 A [[Cruciferous Vegetable]] mostly of stem.
 My favorite vegetable.

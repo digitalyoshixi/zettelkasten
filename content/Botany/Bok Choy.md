@@ -2,6 +2,7 @@
 tags:
   - health
   - biology
+  - botany
 ---
 Chinese cabbage.
 A type of [[Leaf Vegetable]] and [[Cruciferous Vegetable]].
