@@ -14,7 +14,7 @@ Note that since there are 8 states, we assign 3 flip flops.
 ![[Sequence Recognizer FSM Example-20250603190232077.webp|275]]
 ![[Sequence Recognizer FSM Example-20250603190320480.webp|414]]
 4. Create the second [[State Table]]
-![[Sequence Recognizer FSM Example-20250603190530641.webp|336]]
+   ![[Sequence Recognizer FSM Example-20250815172249874.webp|368]]
 5. Create a [[Karnaugh Map|K-Map]] for circuit design
 ![[Sequence Recognizer FSM Example-20250603190700131.webp|335]]
 ![[Sequence Recognizer FSM Example-20250603190648239.webp|334]]
