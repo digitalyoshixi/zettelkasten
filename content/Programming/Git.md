@@ -4,9 +4,10 @@ tags:
   - git
 aliases:
 ---
-A repository is a folder or place where your project is kept
+A repository is a folder or place where your project is kept.
 Git is the method that tracks change of a file overtime
-[[Github]], [[Gitlab]], Bitbucket, etc.. are all based off git
+[[Github]], [[Gitlab]], Bitbucket, etc.. are repositories of git.
+Built with the expectation of that the project has central maintainers, like [[Linus Torvald]] in [[Linux]] development.
 # Setup
 ### Username and Email Setup
 ```
