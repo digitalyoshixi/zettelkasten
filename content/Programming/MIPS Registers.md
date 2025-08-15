@@ -13,7 +13,7 @@ There are 32 registers in [[Microprocessor Without Interlocked Pipelined Stages|
 - `$at`: reserved for the assembler
 - `$gp`: global pointer
 - `$sp`: stack pointer
-- `$fp`: frame pointer
+- `$fp`: frame pointer (like [[rbp|Base Pointer]])
 - `$ra`: return address
 - `$k0, $k1`: reserved for the [[OS/Kernel|Kernel]]
 ### Function Parameters
