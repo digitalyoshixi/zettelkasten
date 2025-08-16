@@ -13,6 +13,7 @@ An [[Additive Subgroup]] ($I,+$) of a [[Ring]] where:
 - [[Trivial Ideal]]
 - [[Generator for Ideal Intersection]]
 - [[Generator for Ideal Sum]]
+- [[Principle Ideal]]
 # Examples
 ### Showing Even Integers are a Ideal
 - Let $x \in \{  \text{even numbers}\}, x = 2k, k \in \mathbb{Z}$
