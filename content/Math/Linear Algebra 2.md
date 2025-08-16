@@ -68,6 +68,8 @@ aliases:
 - [[Vector Space Isomorphic]]
 - [[Ordered Basis]]
 - [[Linear Operator]]
+- [[Linear Mapping Between Two Ordered Basis Theorem]]
+- [[Linear Transformations Closed Under Linear Combinations]]
 ### Week 4
 - [[Change of Basis]]
 - [[Linear Functional]]
