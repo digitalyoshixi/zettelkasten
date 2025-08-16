@@ -7,7 +7,8 @@ aliases:
 ---
 # Notation
 - Let $V,W$ be vector spaces
-- Define $\mathcal{L}(V,W)$ to be the set of all linear transformations $T : V\to W$
+- Define $\mathcal{L}(V,W)$ to be the set of all [[Linear Transform|Linear Maps]] $T : V\to W$
+- $\mathcal{L}(V)$ denotes a set of [[Linear Operator|Linear Operators]] $T : V\to V$
 # Concepts
 - [[Size of Set of Linear Transformations Theorem]]
 - [[Linear Operator]]
