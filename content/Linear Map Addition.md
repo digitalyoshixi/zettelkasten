@@ -6,4 +6,4 @@ aliases:
   - Linear Transform Addition
 ---
 # Definition
-$(S+T)(x) = Sx + Tx$
+$$(S+T)(x) = Sx + Tx$$
