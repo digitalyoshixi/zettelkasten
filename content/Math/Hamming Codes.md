@@ -12,7 +12,7 @@ $$Hamming(A,B)$$
 Theoretically, for $k$ parity bits, you can have $2^{k}-k-1$ data bits
 # Process ([[Hamming (7,4)]])
 ### Sending Process
-1. Create your message, then encode with a hamming encoding algorithm (Maybe [[Hamming (7,4)]])
+1. Create your 4-bit message, then encode with a hamming encoding algorithm (Maybe [[Hamming (7,4)]])
 2. For [[Hamming (7,4)]], we have the encoding matrix: 
    $$G = \left[\begin{array}{cc}
 1 & 0 & 0 & 0\\
