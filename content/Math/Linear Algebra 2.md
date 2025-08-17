@@ -113,6 +113,8 @@ aliases:
 - [[Inner Product from Matrix Representation]]
 - [[Matrix Representations of Linear Map with Respect to Orthonormal Basis|Matrix Representation of Linear Map from Inner Product]]
 - [[Gram-Schmidt Algorithm]]
+- [[Orthonormal Set from Orthogonal Set Theorem]]
+- [[Every Finite]]
 - [[Best Approximation]]
 - [[Orthogonal Projection]]
 - [[Orthogonal Complement]]
