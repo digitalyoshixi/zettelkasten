@@ -15,5 +15,4 @@ aliases:
 	4. $d(u,w) \leq d(u,v) + d(v,w)$ ([[Triangle Inequality]])
 # Implementations
 - [[Euclidean Metric for Reals in R2]]
-# Theorems
 - [[1-Metric]]
