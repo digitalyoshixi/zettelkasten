@@ -7,7 +7,7 @@ tags:
 - Let $V$ be a finite-dimensional [[Complex Inner Product Space]].
 - Let $T$ be a [[Linear Operator]] on $V$ with matrix $A$
 - Then, there is a [[Orthonormal Set|Orthonormal Basis]] such that there is a [[Upper Triangular Matrices|Upper Triangular]] matrix $M$
-- Then, there is a [[Unitary Operator|Unitary]] basis $U$ such that:
+- Then, there is a [[Unitary Operator|Unitary]] matrix $U$ such that:
 $$A = U M U^{*}$$
 # Intuition
 - If i show a matrix is normal, then I know it is [[Diagonalizable]], and I know the eigenvectors are perpendicular to eachother
