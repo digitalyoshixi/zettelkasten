@@ -9,7 +9,7 @@ tags:
 - Suppose $\langle \cdot | \cdot \rangle$ is a [[Standard Inner Product for Vector Spaces|Inner Product]] on $V$
 - The matrix of the inner product is $G_{jk} := ( \langle a_{k} | a_{j} \rangle ) \in \mathbb{C} \text{ or } \mathbb{R}$
 # Examples
-Find the matrix representation of an inner product $\mathbb{R}^{n}$ with a standard basis $\alpha = \{  e_{1},\dots ,e)n \}$
+Find the matrix representation of an inner product $\mathbb{R}^{n}$ with a standard basis $\alpha = \{  e_{1},\dots ,e_n \}$
 $$
 G = \left[\begin{array}{cc} 
 \langle e_{1} | e_{1} \rangle & \dots & \langle e_{n} | e_{1} \rangle\\

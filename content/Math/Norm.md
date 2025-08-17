@@ -21,6 +21,10 @@ With $\mathcal{D}$ as an [[Integral Domain]] or [[Field]]
 4. $|x+y| \leq |x| + |y|, \forall x,y \in \mathcal{D}$ ([[Triangle Inequality]])
 ### Proofs
 - [[Proving Normal Operator Property 4]]
+# Alternate Types
+- [[Vector Norm]]
+- [[Transform Norm|Operator Norm]]
+- [[Matrix Norm]]
 # Implementations
 - [[Absolute Function for Real Numbers]]
 - [[Complex Number Modulus|Absolute Function for Complex Numbers]]

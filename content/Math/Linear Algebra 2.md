@@ -80,7 +80,7 @@ aliases:
 - [[Riesz Representation Theorem]]
 - [[Annihilator]]
 - [[Error Correcting Codes]]
-### Week 5.1
+### Week 5
 - [[XOR cipher|XOR Encryption]]
 - [[Metric]]
 	- [[Euclidean Metric for Complex Numbers]]
