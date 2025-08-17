@@ -6,7 +6,7 @@ tags:
 # Theorem
 1. Let $V \in \mathcal{L}(v)$
 2. With $\beta = \{ \alpha_{1},\dots,\alpha_{n} \}$ as an ordered [[Orthonormal Set|Orthonormal Basis]] of $V$
-3. With $[T]_{\beta} = (A_{jk}$
+3. With $[T]_{\beta} = (A_{jk})$
 4. The matrix representation $T^{*}$ with basis $\beta$ is the [[Conjugate Transpose]] of the matrix representation of $T$ using the same basis
 # Proof
 1. Let $A = [T]_\beta$

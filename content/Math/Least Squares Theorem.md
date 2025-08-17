@@ -7,7 +7,7 @@ tags:
 - With $A$ as a $m \times n$ matrix
 - With $b \in \mathbb{R}^{n}$
 - Then, $Ax = b$ always have one squared solution $\bar{x}$
-1. $\bar{x}$  is a least squares solution of $Ax = b \Longleftrightarrow$ $\bar{x}$ is a solution of $A^{T}A = A^{T}b$
+1. $\bar{x}$  is a least squares solution of $Ax = b \Longleftrightarrow$ $A^{T}A \overline x = A^{T}b$
 2. $A$ has linearly independent columns $\Longleftrightarrow A^{T}A$ is [[Linear Map Inverse|Invertible]]. It follows from $1$ that $\bar{x} = (A^{T}A)^{-1}A^{T}b$
 # Proof
 1. With linear map $L_{A} : \mathbb{R}^{n} \to \mathbb{R}^{m}$
