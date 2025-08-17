@@ -10,3 +10,6 @@ With $V$ as a inner product space, $\forall \alpha,\beta \in V$, $\forall c \in 
 2. $|| \alpha || > 0, \forall \alpha \neq 0$
 3. $| \langle \alpha | \beta \rangle| \leq || \alpha || ||\beta ||$ ([[Cauchy Schwarz Inequality]])
 4. $|| \alpha + \beta || \leq || \alpha || + ||\beta||$
+# Corrolaries
+- [[Every Finite Inner Product Space has a Orthonormal Basis Theorem]]
+- [[Inner Product Space as Direct Sum of Subset and Orthogonal Complement Theorem]]

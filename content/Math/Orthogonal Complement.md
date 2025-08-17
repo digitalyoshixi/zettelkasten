@@ -10,7 +10,7 @@ The orthogonal complement $W^{\perp}$ of a subspace $W \subset V$ is the subspac
 # Theorems
 - [[Orthogonal Projection of Perpendicular Set Theorem]]
 - [[Subspace and Orthogonal Complement for a Direct Sum]]
-- [[Orthogonal Projection as basis W and Identity Minus Orthogonal Projection has basis W perp]]
+- [[Orthogonal Projection onto Orthogonal Complement]]
 - [[Bessels Inequality]]
 # Implementaitons
 - [[Perpendicular Set]]
