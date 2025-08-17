@@ -17,4 +17,5 @@ $$
 \end{array}\right]
 $$
 # Theorems
+- [[Upper Triangular Matrices are Normal If and Only if They are Diagonal]]
 - [[Characterization of Triangularizability and Diagonalizability in Terms of the Minimal Polynomial]]

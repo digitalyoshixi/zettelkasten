@@ -7,6 +7,7 @@ tags:
 - Let $V$ be a finite dimensional [[Inner Product Space]]
 - Let $T \in \mathcal{L}(V)$
 - Suppose $W$ is a subspace of $V$
+- Suppose $W$ [[Invariant]] under $T$
 - Then, $W^{\perp}$ is [[Invariant]] under $T^{*}$
 # Proof
 1. Let $\alpha \in W$

@@ -146,6 +146,7 @@ aliases:
 - [[Quantum Operation]]
 - [[Normal Operator]]
 - [[Normal Matrix]]
+- [[Upper Triangular Matrices|Upper Triangular]]
 - [[Upper Triangular Matrices are Normal If and Only if They are Diagonal]]
 - [[Invariant]]
 - [[Invariant Under Adjoint]]
