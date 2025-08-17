@@ -186,6 +186,7 @@ aliases:
 - [[Principle Ideal Domain Greatest Common Denominator Exists as Linear Combination Theorem]]
 - [[Creating a Field from a Principal Ideal Domain]]
 - [[Permutations]]
+- [[Determinant]]
 # Week 11
 - [[Proper Subspace Can be Multiplied to Be Within Other Subspace Lemma]]
 - [[Invariant|Invariant Subspace]]

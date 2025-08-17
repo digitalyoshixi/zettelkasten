@@ -34,6 +34,7 @@ $\det(A^{-1}) = \frac{1}{\det(A)}$
 - [[Determinants and Row Operations]]
 - [[Recursive Formula for Determinant]]
 - [[Determinants and Eigenvalues]]
+- [[Determinant from Permutations]]
 # Concepts
 - [[Diagonal Matrices]]
 - [[Determinant of 1x1 Matrix]]
