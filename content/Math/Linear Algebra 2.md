@@ -109,6 +109,8 @@ aliases:
 - [[Fourier Basis]]
 - [[Orthogonal Sets are Linearly Independent]]
 - [[Orthogonal Sets to Find Coordinates]]
+- [[Matrix Representation of Inner Product]]
+- [[Inner Product from Matrix Representation]]
 - [[Matrix Representations of Linear Map with Respect to Orthonormal Basis]]
 - [[Gram-Schmidt Algorithm]]
 - [[Best Approximation]]

@@ -3,7 +3,7 @@ tags:
   - math
   - linalg
 aliases:
-  - Matrix Representation from Inner Product
+  - Matrix Representation of Linear Map from Inner Product
 ---
 # Theorem
 1. Let $T \in \mathcal{L}(v)$

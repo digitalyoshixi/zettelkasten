@@ -3,7 +3,7 @@ tags:
   - android
   - reverse_engineering
 ---
-p# Install
+# Install
 https://apktool.org/docs/install/
 1. Download the Linux [wrapper script](https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool). (Right click, Save Link As `apktool`)
 2. Download the [latest version](https://bitbucket.org/iBotPeaches/apktool/downloads) of Apktool.
