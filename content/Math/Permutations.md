@@ -22,3 +22,4 @@ $_{n}P_{r} = \frac{n!}{(n-r)!}$
 - [[Permutations with Repetition]]
 - [[Permutations with Identical Items]]
 - [[Pascal Routes]]
+- [[Permutation Notation]]

@@ -5,8 +5,8 @@ tags:
 ---
 # Theorem
 - Let $(R, +, \times)$ be a [[Principle Ideal Domain|PID]]
-- Let $a \in \mathbb{R}$ be a prime element
-- Then, $\mathbb{R} \mod a$ forms a field
+- Let $a \in R$ be a prime element
+- Then, $R \mod a$ forms a field
 # Proof
 - Let $a \in \mathbb{R}$
 - Let $x = qa +r$

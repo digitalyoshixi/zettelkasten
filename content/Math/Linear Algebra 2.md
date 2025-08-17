@@ -183,8 +183,9 @@ aliases:
 - [[Division Algorithm for Polynomials|Euclidean Algorithm for Polynomials]]
 - [[Polynomial Field]]
 - [[Finite Fields Have a Multiplicative Inverse]]
+- [[Principle Ideal Domain Greatest Common Denominator Exists as Linear Combination Theorem]]
 - [[Creating a Field from a Principal Ideal Domain]]
-- [[Math/Conductor]]
+- [[Permutations]]
 # Week 11
 - [[Proper Subspace Can be Multiplied to Be Within Other Subspace Lemma]]
 - [[Invariant|Invariant Subspace]]
@@ -202,6 +203,7 @@ aliases:
 - [[Direct Sum of Linear Transformations]]
 - [[Diagonalizable Properties Theorem]]
 - [[Using Lagrange Polynomial to Compute Eigenspace]]
+- [[Math/Conductor|Conductor]]
 ### Week 12
 - [[T-Annihilator of a Vector]]
 - [[A Vector exists with T-Annihilator Equal to the Minimal Polynomial]]
