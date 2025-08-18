@@ -2,7 +2,7 @@
 tags:
   - android
 ---
-Allows any [[Intent]] that routes to a different [[Android Screen Activity|Activity]] to have a back arrow to return back to the original activity.
+Allows any [[Android Intent]] that routes to a different [[Android Screen Activity|Activity]] to have a back arrow to return back to the original activity.
 ![[Android Back Arrow Manifest Template-20250703130930517.webp]]
 ```xml
 <?xml version="1.0" encoding="utf-8"?>  

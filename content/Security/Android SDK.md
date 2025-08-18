@@ -17,7 +17,7 @@ https://developer.android.com/studio
 - [[Android Resource Files]]
 - [[Gradle]]
 - [[Model-View-Presenter]]
-- [[Intent]]
+- [[Android Intent]]
 - [[findViewById]]
 - [[Android Toast]]
 - [[Android Strings]]
