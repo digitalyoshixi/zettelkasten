@@ -5,6 +5,8 @@ tags:
 aliases:
   - Mobile Device Vulnerabilities
 ---
+# Specifics
+- [[Android Security]]
 # "Vulnerabilties"
 - [[iOS Jailbreaking]]
 - [[Android Rooting]]
