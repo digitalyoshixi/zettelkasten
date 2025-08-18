@@ -202,6 +202,7 @@ aliases:
 - [[Invariant Subspaces Give Block Diagonal Matrix Representations]]
 - [[Sum Characterization of Diagonalizable]]
 - [[Math/Conductor|Conductor]]
+- [[T-Conductor]]
 # Week 11
 - [[Proper Subspace Can be Multiplied to Be Within Other Subspace Lemma]]
 - [[Invariant|Invariant Subspace]]
@@ -216,6 +217,7 @@ aliases:
 - [[Distinct Eigenvalues Imply Eigenspaces are Linearly Indepedent]]
 - [[Projection]]
 - [[Projections from Direct Sum Theorem]]
+- [[Invariant Subspace Check using Projections]]
 - [[Direct Sum of Linear Transformations]]
 - [[Diagonalizable Properties Theorem]]
 - [[Using Lagrange Polynomial to Compute Eigenspace]]

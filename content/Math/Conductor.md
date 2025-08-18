@@ -13,3 +13,5 @@ aliases:
 - Then, the $T$-conductor of $\alpha$ into $W$ is the set $S_{\alpha}(\alpha ; W) = \{ g \in \mathbb{F}[x] | g(T)\alpha \in W \}$
 # Intuition
 - Every $g \in S_{\alpha}(\alpha; W)$ will map values of $a$ into $W$
+# Corrolaries
+- [[Conductors are Ideals]]
