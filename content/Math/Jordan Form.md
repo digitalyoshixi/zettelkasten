@@ -27,3 +27,4 @@ A jordan form of $A$ exists $\Longleftrightarrow$ the [[Characteristic Polynomia
 - [[Finding Jordan Form of Matrix]]
 # Theorems
 - [[Jordan Basis Exists for Triangularizable Linear Transformations]]
+- [[All Operators on A Vector Space Defined Over an Algebraically Closed Field Have A Jordan Form]]
