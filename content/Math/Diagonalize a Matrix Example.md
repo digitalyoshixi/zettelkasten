@@ -54,9 +54,25 @@ $$
 		- We can pick a $(3,-1,2)$ as an eigenvector
 - Hence, we have eigenvector-value pairs $(0)(1,0,1) , (1)(3,1,2), (-1)(3,-1,2)$
 - Now, we perform change of basis. with new basis $\{ (1,0,1), (3,1,2), (3,-1,2) \}$
-- 
-$$
-[T]_{\alpha}^{\alpha} = 
+- $$[T]_{\alpha}^{\alpha'} = 
+\left[\begin{array}{cc} 
+1 & 3 & 3\\
+0 & 1 & -1\\
+1 & 2 & 2\\
+\end{array}\right]^{-1}
+\left[\begin{array}{cc}
+0 & 3 & 0\\
+1 & 0 & -1\\
+0 & 2 & 0\\
+\end{array}\right]
+\left[\begin{array}{cc} 
+1 & 3 & 3\\
+0 & 1 & -1\\
+1 & 2 & 2\\
+\end{array}\right]
+  $$
+- $$
+[T]_{\alpha}^{\alpha'} = 
 \left[\begin{array}{cc}
 0 & 0 & 0\\
 0 & 1 & 0\\
