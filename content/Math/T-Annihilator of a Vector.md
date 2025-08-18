@@ -6,8 +6,13 @@ aliases:
   - T-Annihilator
 ---
 # Definition
-Let $\alpha \in V$, then $M(\alpha_{j}T) = \{  f \in P(\mathbb{F}) | f(T)\alpha = 0 \}$ is the $T$-annihilator of $\alpha$.
-
-The [[Monic Polynomial|Monic]] generators of $M(\alpha_{j}T)$ is called the $T$-annihilator of $\alpha$
+- With $V$ as a $\mathbb{F}$ vector space
+- Let $\alpha \in V$
+- With $T \in \mathcal{L}(V)$
+- Then $M(T) = \{  f \in P(\mathbb{F}) | f(T) = 0 \}$ is the general $T$-annihilator
+- Then $M(\alpha_{j}T) = \{  f \in P(\mathbb{F}) | f(T)\alpha = 0 \}$ is the $T$-annihilator of $\alpha$.
+# Intuition
+- A [[Polynomial]] $p \in M(T)$ will set $p(T)v = 0, \forall v \in V$
+- A [[Polynomial]] $p \in M(a_{j}T)$ will set $p(T)a = 0$
 # Properties
 - This is a [[Polynomial Ideal]].
