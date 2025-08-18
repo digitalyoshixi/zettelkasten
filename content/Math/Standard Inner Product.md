@@ -27,7 +27,6 @@ Defined differently for the [[Field]]:
 # Theorems
 - [[Inner Products Define Angles Theorem]]
 - [[Orthoganality Theorem]]
-- [[Standard Inner Product Function]]
 - [[Matrix Representation of Inner Product]]
 - [[Inner Products Define a Norm]]
 - [[Riesz Representation Theorem]]

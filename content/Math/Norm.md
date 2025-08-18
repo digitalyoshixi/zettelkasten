@@ -21,6 +21,10 @@ With $\mathcal{D}$ as an [[Integral Domain]] or [[Field]]
 4. $|x+y| \leq |x| + |y|, \forall x,y \in \mathcal{D}$ ([[Triangle Inequality]])
 ### Proofs
 - [[Proving Normal Operator Property 4]]
+# Norm from Metric
+$$|  v || = d(v,0)$$
+# Norm from Inner Product
+$$| | v | | = \sqrt{ \langle v | v \rangle }$$
 # Alternate Types
 - [[Vector Norm]]
 - [[Transform Norm|Operator Norm]]
@@ -34,3 +38,5 @@ With $\mathcal{D}$ as an [[Integral Domain]] or [[Field]]
 - [[Absolute Value of Multiplicative Identity is 1]]
 - [[Absolute Value Functions Induce a Metric Theorem|All Vector Norms Induce a Metric Theorem]]
 - [[Nice Metrics Induce a Norm Theorem]]
+- [[Nice Inner Product|Parallelogram Law]]
+- [[Inner Products Define a Norm]]
