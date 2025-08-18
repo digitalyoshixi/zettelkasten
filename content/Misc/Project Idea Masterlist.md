@@ -49,3 +49,5 @@ tags:
 - Show hacker news wrapped
 - [[Theory of Everything|Unified Theory of Everything]]. Wikipedia but organized like a obsidian graph
 - [[Cell Learning Theory|Biological Computing]] physical [[Malware]], infects computers via airborne means
+# Labs
+- [[Java Virtual Machine|JVM]] decompiler
