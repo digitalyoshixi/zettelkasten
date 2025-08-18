@@ -187,6 +187,10 @@ aliases:
 - [[Creating a Field from a Principal Ideal Domain]]
 - [[Permutations]]
 - [[Determinant]]
+- [[Linear Transformation Rotation|Rotation Matrix]]
+- [[Eigenvector]]
+- [[Eigenspace]]
+- [[Adjugate Matrix]]
 # Week 11
 - [[Proper Subspace Can be Multiplied to Be Within Other Subspace Lemma]]
 - [[Invariant|Invariant Subspace]]
