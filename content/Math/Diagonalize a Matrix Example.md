@@ -2,6 +2,8 @@
 tags:
   - math
   - linalg
+aliases:
+  - Finding Diagonals From Eigenvalues
 ---
 # Process
 1. Find eigenvalues

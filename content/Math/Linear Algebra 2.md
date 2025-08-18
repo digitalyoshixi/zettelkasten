@@ -71,7 +71,7 @@ aliases:
 - [[Linear Mapping Between Two Ordered Basis Theorem]]
 - [[Linear Transformations Closed Under Linear Combinations]]
 ### Week 4
-- [[Change of Basis]]
+- [[Change of Coordinate]]
 - [[Linear Functional]]
 - [[Perpendicular Set]]
 - [[Standard Inner Product]]

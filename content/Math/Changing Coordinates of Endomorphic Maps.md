@@ -2,6 +2,8 @@
 tags:
   - math
   - linalg
+aliases:
+  - Change of Basis
 ---
 # Theorem
 - With $T : V \to V$

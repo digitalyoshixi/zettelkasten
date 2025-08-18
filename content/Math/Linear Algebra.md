@@ -96,7 +96,7 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - [[Minors]]
 - [[Cofactor]]
 ### Change of Basis & Eigenvectors
-- [[Change of Basis]]
+- [[Change of Coordinate]]
 - [[Changing Coordinates and Linear Maps]]
 - [[Changing Coordinates of Endomorphic Maps]]
 - [[Matrix With Base Inverse]]
@@ -106,7 +106,7 @@ https://q.utoronto.ca/courses/375808/pages/ta-office-hours-schedule
 - [[Eigenvalues are Vectors in Kernels]]
 - [[Characteristic Polynomial]]
 - [[Finding Eigenvectors]]
-- [[Finding Diagonals from Eigenvalue]]
+- [[Diagonalize a Matrix Example|Finding Diagonals From Eigenvalues]]
 - [[Diagonalizable]]
 	- [[Diagonalize a Matrix Example]]
 - [[Geometric Multiplicity]]

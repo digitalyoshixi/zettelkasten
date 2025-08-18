@@ -2,6 +2,8 @@
 tags:
   - math
   - linalg
+aliases:
+  - Change of Basis with 4 Basis
 ---
 # Theorem
 - If $T : V \to W$ is a linear map

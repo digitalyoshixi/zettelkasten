@@ -40,7 +40,7 @@ When $dim(V) = 1, [T]_{\alpha} = [\alpha_{u}]$ which is [[Upper Triangular Matri
 x & VP\\
 0 & [S_{w}]_{\beta'}\\
 \end{array}\right]$$
-- We know that by [[Change of Basis]], $[T]_{\beta} = \hat{P}^{-1}[T]_{\beta}\hat{P}$
+- We know that by [[Change of Coordinate]], $[T]_{\beta} = \hat{P}^{-1}[T]_{\beta}\hat{P}$
 - $\implies [T]_{\beta'} = \hat{P}[T]_{\beta}\hat{P}^{-1}$
 - $$
 =\left[\begin{array}{cc} 
