@@ -6,5 +6,10 @@ tags:
 A tool to find leaked credentials in github repositories.
 # Installation
 ```
-yay -S trufflehog-bin
+sudo pacman -S trufflehog
 ```
+# Usage
+```
+trufflehog
+```
+Will open the trufflehog wizard
