@@ -17,3 +17,4 @@ Anything that goes through this linear map will remain fenced in the same domain
 # Theorems
 - [[Invariant Subspace Characterization of Triangularability]]
 - [[Commuting Operators Provide Invariant Subspace]]
+- [[Invariant Subspaces Give Block Diagonal Matrix Representations]]
