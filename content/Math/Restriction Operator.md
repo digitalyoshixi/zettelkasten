@@ -2,7 +2,10 @@
 tags:
   - math
   - linalg
+aliases:
+  - Restrictor
 ---
+Defining a linear map for a smaller domain.
 # Definition
 - With $T \in \mathcal{L}(V)$
 - With [[Subspace]] $W \subset V$
