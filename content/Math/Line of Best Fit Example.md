@@ -46,5 +46,4 @@ b\\
 \end{array}\right]
 $$
 7. Compute later, and we get to REF and later $x = (\frac{2}{3}, 1)$
-8. So, line of best fit is $y = x + \frac{2}{3}$
-testing
+8. So, line of best fit is $y = bx+a \implies y = x + \frac{2}{3}$

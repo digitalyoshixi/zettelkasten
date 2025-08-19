@@ -126,7 +126,7 @@ aliases:
 ### Week 8
 - [[Least Squares Method]]
 - [[Least Squares Theorem]]
-- [[Line of Best Fit]]
+- [[Line of Best Fit Example]]
 - [[Adjoint]]
 	- [[Adjoints Exist for Finite Dimensional Space]]
 - [[Matrix Representations of Linear Map with Respect to Orthonormal Basis]]

@@ -3,6 +3,7 @@ tags:
   - math
 aliases:
   - Least Squares Solution
+  - Line of Best Fit
 ---
 ![[Least Squares Method-20231221130848865.webp]]
 # Least Square Solution Definition
@@ -27,3 +28,5 @@ y_{n}
 1 & x_{n}
 \end{array}\right]$$
 - The vector $e = c - Ax$
+# Examples
+- [[Line of Best Fit Example]]
