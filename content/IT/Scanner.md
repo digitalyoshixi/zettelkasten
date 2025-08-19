@@ -7,7 +7,7 @@ Tool to create digital copies of documents.
 - [[Flatbed Scanner]]
 # Scanning Process
 1. Install scanner's drivers
-2. [[GNU Image Manipulation Program|GIMP]] can scan images for you
+2. [[Gnu Image Manipulation Program|GIMP]] can scan images for you
 3. Choose [[Technology Without an Interesting Name|TWAIN]] drivers
 # Scanner Configuration
 ### Resolution
