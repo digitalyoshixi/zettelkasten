@@ -6,9 +6,6 @@ tags:
 aliases:
   - PE
 ---
-# Table Of Contents
-```table-of-contents
-```
 # PE
 Bastardized version of the [[Common Object File Format|COFF]] format
 The standard file format for exe,dll,sys,src files
