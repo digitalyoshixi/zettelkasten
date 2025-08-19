@@ -42,3 +42,4 @@ https://github.com/JaKooLit/Arch-Hyprland
 - [[Hyprland Multiple Monitor Wallpaper]]
 - [[Hyprland Night Light Filter]]
 - [[Hyprsome]]
+- [[Hyprland Alt Tab]]
