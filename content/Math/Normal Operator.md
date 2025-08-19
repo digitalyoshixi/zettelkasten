@@ -19,3 +19,5 @@ A more generalized form of [[Unitary Operator|Unitary]]
 - [[Proving Normal Operator Property 4]]
 # Concepts
 - [[Normal Matrix]]
+# Theorem
+- [[Operator is Normal if Minimal Polynomial has Factors of Degree 1]]
