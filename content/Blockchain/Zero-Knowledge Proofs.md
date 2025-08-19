@@ -11,3 +11,5 @@ This could be a token that only the user has.
 # Types
 - [[Non-Interactive Proof]]
 - [[Interactive Proof]]
+# Resources
+- https://ocw.mit.edu/courses/6-5630-advanced-topics-in-cryptography-fall-2023/

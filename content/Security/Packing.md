@@ -15,5 +15,7 @@ Packers will reduce the size of files, but also bundle in a program to unpack du
 ![[Packing-20250601221421640.webp]]
 # Packers
 - [[UPX]]
+- [[VMProtect]]
+- [[Themida]]
 # Packer Identifiers
 - [[PEiD]]

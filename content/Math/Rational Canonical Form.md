@@ -19,5 +19,6 @@ C(p_{1}) & 0 & \dots & 0\\
    Where $C(p_{i})$ are [[Matrix Definition of Cyclic Subspace|Companion Matrix]] of polynomial $p_{i}$
 # Guides
 - [[Finding Rational Form of Matrix]]
+- [[Finding Rational Form of Matrix Example 2]]
 # Theorems
 - [[Matrixes are Similar if Rational Canonical Form is Same]]
