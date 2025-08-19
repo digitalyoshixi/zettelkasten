@@ -2,6 +2,8 @@
 tags:
   - math
   - linalg
+aliases:
+  - Graham-Schmidt Algorithm
 ---
 A process to make convert a set into an [[Orthogonal Set]]
 # Procedure
