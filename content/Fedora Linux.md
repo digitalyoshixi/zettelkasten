@@ -1,0 +1,6 @@
+---
+tags:
+  - linux
+---
+# Tools
+- [[dnf]]
