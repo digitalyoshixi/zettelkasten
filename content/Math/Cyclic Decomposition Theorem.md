@@ -14,6 +14,7 @@ Then, there exists $\alpha_{1},\dots,\alpha_{j}$ such that:
 3. $p_{i}$ divides $p_{i-1}$ for all $i \in \{ 2,\dots,j \}$
 Where $p_{j}$ is the minimal polynomial of $Z(\alpha_{j}T)$
 Note that by construction, $f = p_{1}p_{2} \dots p_{j}$
-
 # Theorems
 - [[Cyclic Decomposition Theorem Lemma]]
+# Concepts
+- [[Permutation Orbit]]

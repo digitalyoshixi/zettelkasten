@@ -24,3 +24,5 @@ $_{n}P_{r} = \frac{n!}{(n-r)!}$
 - [[Pascal Routes]]
 - [[Permutation Notation]]
 - [[Sign of Permutation]]
+- [[Permutation Orbit]]
+- [[Every Permutation Can be Written as a Product of Disjoint Cycles]]
