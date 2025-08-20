@@ -10,6 +10,7 @@ Not to be confused with [[Packing]].
 - [[Shikata ga nai]]
 - [[JSFuck]]
 - [[Packing]]
+- [[Stripped Binary]]
 # Specific Obfuscation/Deobfuscation Guides
 - [[Javascript Obfuscation]]
 # Resources
