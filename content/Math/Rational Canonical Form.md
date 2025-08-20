@@ -5,6 +5,7 @@ tags:
 aliases:
   - Rational Form
 ---
+A form used to determine if two square matrixes are similar.
 # Definition
 1. With $T \in \mathcal{L}(V)$
 2. Then. $[T]_{\beta}$ is the rational canonical form if:

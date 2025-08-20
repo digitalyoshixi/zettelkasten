@@ -22,3 +22,4 @@ $$P^{-1}AP = D$$
 - [[Characterization of Diagonizability]]
 - [[Diagonalize a Matrix Example]]
 - [[Nice Case of Diagonalization]]
+- [[Sum Characterization of Diagonalizable]]

@@ -5,7 +5,16 @@ tags:
 aliases:
   - Jordan Canonical Form
 ---
-A jordan canonical form is a [[Upper Triangular Matrices|Upper Triangular Matrix]] that is of the structure of a [[Jordan Matrix]].
+A jordan canonical form is a [[Upper Triangular Matrices|Upper Triangular Matrix]] version of a given matrix. It appears as:
+$$
+\left[\begin{array}{cc} 
+\lambda  & 1 & 0 & \dots & 0\\
+0  & \lambda & 1 & \ddots & 0\\
+\vdots  & \vdots & \ddots & \ddots & \vdots\\
+0  & 0 &0  & \lambda & 1\\
+0  & 0 &0  & 0 & \lambda\\
+\end{array}\right]
+$$
 # Definition
 - Suppose $T \in \mathcal{L}(V)$ 
 - A jordan basis $\beta$ allows for jordan matrix:
