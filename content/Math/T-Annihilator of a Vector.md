@@ -4,7 +4,9 @@ tags:
   - linalg
 aliases:
   - T-Annihilator
+  - T Annihilator
 ---
+The polynomial applied to $T$ that annihilates a specific vector, or all vectors.
 # Definition
 - With $V$ as a $\mathbb{F}$ vector space
 - Let $\alpha \in V$
@@ -16,3 +18,6 @@ aliases:
 - A [[Polynomial]] $p \in M(a_{j}T)$ will set $p(T)a = 0$
 # Properties
 - This is a [[Polynomial Ideal]].
+# Concepts
+- [[Minimal Polynomial]]
+- [[A Vector exists with T-Annihilator Equal to the Minimal Polynomial]]

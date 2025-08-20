@@ -3,6 +3,7 @@ tags:
   - math
   - linalg
 ---
+A [[T-Annihilator of a Vector|T-Annihilator]] that is [[Monic Polynomial|Monic]]
 # Definition
 - Minimal polynomial $p$ for $T$ is the [[Monic Polynomial]]  [[Generator for Ideal]] $M = \{  f \in \mathbb{F}[x] , f(T) = 0\}$
 ### Alternate Characterizations

@@ -3,6 +3,7 @@ tags:
   - math
   - linalg
 ---
+The kernels of all invariant factors of a minimal polynomial form the vector space.
 # Theorem
 - Let $T \in \mathcal{L}(V)$
 - $dim(V) < \infty$
