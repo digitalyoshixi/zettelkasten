@@ -3,7 +3,8 @@ tags:
   - math
   - linalg
 ---
-The kernels of all invariant factors of a minimal polynomial form the vector space.
+Allows for understanding the [[Characteristic Polynomial]] based off the restriction operator for a certain prime factor.
+($dim(W_{i}) =deg(p_{i})^{r_{i}}$)
 # Theorem
 - Let $T \in \mathcal{L}(V)$
 - $dim(V) < \infty$

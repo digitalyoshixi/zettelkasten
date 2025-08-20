@@ -3,7 +3,8 @@ tags:
   - math
   - linalg
 ---
-The smallest subspace comprised of compositions of transform on the same vector.
+The subspace comprised of compositions of transform on the same vector, wherein a certain step in the transformation process will return back a [[Linear Combination]] of the initial vector.
+Used to assist in finding the matrix representation of a characteristic polynomial.
 # Definition
 1. For a non-zero [[Vector|Vector]] $v$
 2. For the smallest $k$ that allows for $\{ v, T(v), T^{2}(v),\dots, T^{k}(v) \}$
