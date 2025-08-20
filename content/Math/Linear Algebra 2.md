@@ -155,6 +155,7 @@ aliases:
 - [[Unitarily Diagonizable]]
 - [[Spectral Theorem for Normal Operator]]
 - [[Spectrum of a Matrix]]
+- [[Spectral Mapping Theorem]]
 - [[Relationship between Trace, Determinant and Eigenvaues]]
 - [[The Spectrum of Unitary Operators on a Complex Inner Product Space lies on the Unit Circle]]
 - [[Spectral Theorem for Unitary Operators]]
