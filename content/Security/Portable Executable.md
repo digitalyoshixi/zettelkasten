@@ -14,6 +14,10 @@ PE files loaded onto the disc are the exact same format as it would be when load
 # Good At:
 - Holds 90% of information about a malware
 	- Import Tables
+	- Export Tables
+	- Entry point
+	- Strings
+	- Header sizes
 - Bypasses [[Packing]]
 # Structure
 Unlike COM-type executables *(where execution starts at the first byte)*, 
