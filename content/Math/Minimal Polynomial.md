@@ -15,7 +15,21 @@ tags:
 # Intuition
 - With $T \in \mathcal{L}(V)$
 The minimal polynomial $p$ is the smallest [[Degree]] polynomial such that $p(T) = 0$
-# Finding the Minimal Polynomial
-The minimal polynomial is the [[Characteristic Polynomial]] divided by such that it is of the smallest degree.
+# Finding Minimal Polynomial Example
+With a matrix 
+$$
+A = \left[\begin{array}{cc} 
+-1 & 0 & 0\\
+0 & -1 & 0\\
+0 & 0 & 3\\
+\end{array}\right]
+$$
+The minimal polynomial is the [[Characteristic Polynomial]] divided such that it retains $m(A) = 0$
 - With characteristic polynomial $f(x) = (x+1)^{2}(x-3)$
-- The minimal polynomial $p(x) = (x+1)(x-3)$
+- The minimal polynomial $m(x)$ could be:
+	- $(x+1)^{2}(x-3)$
+	- $(x+1)(x-3)$
+- We need to check each polynomial if its equal to 0 or not
+	- $(A+I)(A+I)(A-3) = 0$
+	- $(A+I)(A-3I) = 0$  *Note that this works, so this is our minimal polynomial*
+- The minimal polynomial $m(x) = (x+1)(x-3)$

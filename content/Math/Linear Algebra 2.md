@@ -223,6 +223,7 @@ aliases:
 - [[Diagonalizable Properties Theorem]]
 - [[Using Lagrange Polynomial to Compute Eigenspace]]
 ### Week 12
+![[Linear Algebra 2-20250820173939717.webp]]
 - [[T-Annihilator of a Vector]]
 - [[A Vector exists with T-Annihilator Equal to the Minimal Polynomial]]
 - [[Primary Decomposition Theorem]]
