@@ -3,6 +3,7 @@ tags:
   - math
   - linalg
 ---
+A theorem to state that the [[Characteristic Polynomial]] is a [[T-Annihilator of a Vector|T-Annihilator]].
 Used to find the inverse of matrixes
 # Theorem
 - Let $T \in \mathbb{L}(V)$

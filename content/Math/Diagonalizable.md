@@ -20,9 +20,9 @@ $$P^{-1}AP = D$$
 - [[Diagonal Matrices]]
 - [[Self Adjoint|Hermitian]]
 - [[Normal Operator|Normal]]
+- [[Unitary Operator|Unitary]]
 # Theorems
 - [[Characterization of Diagonizability]]
 - [[Diagonalize a Matrix Example]]
 - [[Nice Case of Diagonalization]]
 - [[Sum Characterization of Diagonalizable]]
-- 
