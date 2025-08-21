@@ -29,7 +29,6 @@ Commonly created by:
 https://github.com/salvatore-abello/python-ctf-cheatsheet/blob/main/pyjails/how-to-solve-a-pyjail.md
 1. [[Pyjail Recon]]
 2. [[Pyjail Built-ins Exploitation]]
-
 # Resources
 - https://github.com/salvatore-abello/python-ctf-cheatsheet/blob/main/pyjails/how-to-solve-a-pyjail.md
 - https://book.hacktricks.xyz/generic-methodologies-and-resources/python/bypass-python-sandboxes
