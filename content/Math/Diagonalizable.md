@@ -18,8 +18,11 @@ Then, it follows that:
 $$P^{-1}AP = D$$
 # Concepts
 - [[Diagonal Matrices]]
+- [[Self Adjoint|Hermitian]]
+- [[Normal Operator|Normal]]
 # Theorems
 - [[Characterization of Diagonizability]]
 - [[Diagonalize a Matrix Example]]
 - [[Nice Case of Diagonalization]]
 - [[Sum Characterization of Diagonalizable]]
+- 
