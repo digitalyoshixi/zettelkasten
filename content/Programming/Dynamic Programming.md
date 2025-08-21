@@ -2,6 +2,8 @@
 tags:
   - programming
   - dynamic_programming
+aliases:
+  - DP
 ---
 A methodology of programming that can systematically explore all possible solutions to a problem.
 - breaks complex problems into easier **overlapping** sub-problems
