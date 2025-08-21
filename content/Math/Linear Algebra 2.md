@@ -232,6 +232,7 @@ aliases:
 - [[Cyclic Decomposition Theorem]]
 - [[Rational Canonical Form]]
 - [[Jordan Form]]
+- [[Primary Jordan Form]]
 - [[Diagonalizable Part of Triangular Matrix]]
 - [[Nilpotent]]
 - [[Every Triangular Matrix is The Sum of The Diagonal and Nilpotent]]
