@@ -99,6 +99,7 @@ int main(int argc, char const *argv[])
 - [[Inline Variables]]
 - [[C++ Strings]]
 - [[C++ Vectors]]
+- [[C++ Map]]
 - [[C++ Style Guides]]
 - [[C++ Class]]
 	- [[C++ Virtual]]
