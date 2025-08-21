@@ -17,7 +17,7 @@ $$
 $$
 # Definition
 - Suppose $T \in \mathcal{L}(V)$ 
-- A jordan basis $\beta$ allows for jordan matrix:
+- A [[Jordan Basis]] $\beta$ allows for jordan matrix:
   $$[T]_{\beta} = \left[\begin{array}{cc} 
 A_{1} &  & 0\\
  & \ddots & \\
