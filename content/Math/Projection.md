@@ -5,6 +5,7 @@ tags:
 aliases:
   - Projection Operator
 ---
+A linear map that will always map to $\{ 0,1 \}$
 # Definition
 A projection on $V$ is an operator $E \in \mathcal{L}(V)$ such that $E^{2} = E$
 A matrix $A$ is a projection if $A^{2} = A$
@@ -22,4 +23,3 @@ I & 0\\
 \end{array}\right]$$
 # Concepts
 - [[Finding a Projection Along a Subspace]]
-

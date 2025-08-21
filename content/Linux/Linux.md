@@ -21,3 +21,4 @@ So based.
 - [[Linux View Open Ports]]
 - [[Linux SSH Setup]]
 - [[systemD]]
+- [[Linux Process Kill]]
