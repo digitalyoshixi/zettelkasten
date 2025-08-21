@@ -232,6 +232,8 @@ aliases:
 - [[Cyclic Decomposition Theorem]]
 - [[Rational Canonical Form]]
 - [[Jordan Form]]
+- [[Jordan Basis]]
+- [[Generalized Eigenvector]]
 - [[Primary Jordan Form]]
 - [[Diagonalizable Part of Triangular Matrix]]
 - [[Nilpotent]]
