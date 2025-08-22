@@ -5,3 +5,4 @@ tags:
 aliases:
   - ECDSA
 ---
+A signature algorithm that uses [[Elliptic Curve Cryptography|ECC]].
