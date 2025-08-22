@@ -14,9 +14,11 @@ sudo pacman -S ruby
 puts "Hello World"
 ```
 # Concepts
-- [[irb]]
+- [[Interactive Ruby Interpreter]]
 - [[Ruby puts]]
 - [[Ruby Variables]]
 - [[Ruby Function]]
+- [[Ruby Class]]
+- [[Ruby Object]]
 ### Libraries
 - [[Ruby Math]]

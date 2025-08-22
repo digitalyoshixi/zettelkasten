@@ -8,8 +8,9 @@ tags:
 def myfunc
 	puts "Hello"
 end
-
+# these two do the same thing
 myfunc
+myfunc()
 ```
 # Argument Function
 ```ruby

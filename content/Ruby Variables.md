@@ -11,3 +11,12 @@ myvar = 100
 ```ruby
 $myglobal = 20
 ```
+# Instant Variable
+```ruby
+class myClass
+	def initialize()
+		@instance1 = 20
+		@instance2 = "hello"
+	end
+end
+```
