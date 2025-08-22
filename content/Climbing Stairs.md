@@ -9,20 +9,14 @@ https://leetcode.com/problems/climbing-stairs
 # Soln
 ![[Climbing Stairs-20250821035509240.webp]]
 ```cpp
-#include <map>
-class Solution {
-public:
+int countWays(int n) {
 
-std::map<int, int> mymap;
+    // Base cases: If there are 0 or 1 stairs,
+    // there is only one way to reach the top.
+    if (n == 0 || n == 1)
+        return 1;
 
-int climbStairs(int n) {
-  if (n == 0) return 1;
-  if (n < 0) return 0;
-  if (! mymap[n]){
-      mymap[n] = climbStairs(n-1) + climbStairs(n-2);  
-  }
-  return mymap[n];
-  
-} 
-};
+    return countWays(n - 1) + countWays(n - 2);
+}
+
 ```
