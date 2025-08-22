@@ -4,5 +4,5 @@ tags:
 aliases:
   - CER
 ---
-The point of a [[Biometric Device]] where the [[False Acceptance Rate|FAR]] and [[False Rejection Rate|FRR]] are equal.
+The point in a scanning device where the [[False Acceptance Rate|FAR]] and [[False Rejection Rate|FRR]] are equal.
 The lower the CER, the better the device.

@@ -15,6 +15,9 @@ Information that can be used for practical purposes.
 - [[Restricted Data]]
 - [[Private Data]]
 - [[Critical Data]]
+- [[Encryption at Rest]]
+- [[Encryption in Transit]]
+- [[Encryption in Use]]
 # Concepts
 - [[Data Classification Pyramid]]
 - [[Data Sovereignty]]
