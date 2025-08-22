@@ -49,6 +49,8 @@ aliases:
 - [[Key Stretching]]
 - [[Blockchain]]
 - [[Digital Certificate]]
+- [[Self Encrypting Device]]
+- [[GNU Privacy Guard]]
 ### Chapter 2
 ##### 2.1
 - [[Threat Actor]]
