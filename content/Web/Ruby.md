@@ -9,5 +9,14 @@ A [[Interpreter|Interpreted]] language for [[Webapp|Web Development]]
 ```
 sudo pacman -S ruby
 ```
+# Boilerplate
+```ruby
+puts "Hello World"
+```
 # Concepts
 - [[irb]]
+- [[Ruby puts]]
+- [[Ruby Variables]]
+- [[Ruby Function]]
+### Libraries
+- [[Ruby Math]]
