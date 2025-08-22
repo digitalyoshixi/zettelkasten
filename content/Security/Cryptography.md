@@ -22,3 +22,5 @@ The [[Mathematics]] used to secure data.
 - [[Collision Attack]]
 - [[Birthday Attack]]
 - [[Pass The Hash Attack]]
+# Concepts
+- [[Key]]
