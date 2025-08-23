@@ -12,3 +12,4 @@ These are protocols that ensure key exchanges through unencrypted mediums do not
 # Protocol
 - [[Diffie Hellman Key Exchange]]
 - [[Quantum Key Exchange]]
+- [[RSA]]
