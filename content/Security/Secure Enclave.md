@@ -3,7 +3,7 @@ tags:
   - security
   - hardware
 ---
-A hardware feature that provides isolated environments for:
+A hardware feature present in [[iOS]] devices that provides isolated environments for:
 - Storing sensitive data
 - Executing cryptographic operations
 # Implementations
