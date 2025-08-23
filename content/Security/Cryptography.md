@@ -24,3 +24,8 @@ The [[Mathematics]] used to secure data.
 - [[Pass The Hash Attack]]
 # Concepts
 - [[Key]]
+- [[Indistinguishability Under Chosen Plaintext Attack|IND-CPA]]
+- [[Indistinguishability Under Chosen Ciphertext Attack|IND-CCA]]
+- [[Symmetric Cryptography]]
+	- [[Cipher]]
+- [[Public-Key Cryptography|Asymmetric Cryptography]]

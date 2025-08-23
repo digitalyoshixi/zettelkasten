@@ -9,6 +9,8 @@ A [[Post-Quantum Cryptography]] safe algorithm.
 - The key is constructed out of 64 bits
 Takes a message and a key.
 The key can be 128bits, 192bits or 256bits.
+# Modes
+- [[CB]]
 # Encryption Process
 ![[Advanced Encryption Standard-20240410021859196.webp]]
 ![[Advanced Encryption Standard-20240410021907720.webp]]

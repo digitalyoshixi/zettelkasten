@@ -4,7 +4,7 @@ tags:
 aliases:
   - Rivest Shamir Adleman
 ---
-A cryptosystem based off the [[Discrete Logarithm Problem|DLP]].
+A [[Public-Key Cryptography|Asymmetric Cryptosystem]] based off the [[Discrete Logarithm Problem|DLP]].
 The name is the first letters of the 3 founders
 It is by far the most used Asymmetric Encryption algorithm
 
