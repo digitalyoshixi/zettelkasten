@@ -3,6 +3,7 @@ tags:
   - cryptography
 aliases:
   - DHKE
+  - PKCS 3
 ---
 A method used in [[End to End Encryption]] to generate the shared key through sharing public variables, combining them with private variables and ending up with both users having the same result.
 # Process

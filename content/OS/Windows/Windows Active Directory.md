@@ -43,3 +43,5 @@ In the Users tab, right clicking the properties of a User, you can:
 - [[Updated Sequence Number|USN]]
 - [[Security Identifer]]
 - [[ADSI Edit]]
+- [[Distinguished Name|DN]]
+- [[Relative Distinguished Name]]

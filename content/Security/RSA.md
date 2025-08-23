@@ -3,6 +3,7 @@ tags:
   - cryptography
 aliases:
   - Rivest Shamir Adleman
+  - PKCS 1
 ---
 A [[Public-Key Cryptography|Asymmetric Cryptosystem]] based off the [[Discrete Logarithm Problem|DLP]].
 Often used as a [[Signature Algorithm]].

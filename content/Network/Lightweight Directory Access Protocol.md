@@ -15,3 +15,6 @@ Can be used to:
 - [[Windows Active Directory]]
 # Alternatives
 - [[Lightweight Directory Access Protocol over Secure Sockets Layer]]
+# Resources
+- https://fy.blackhats.net.au/pages/the-ldap-guide-part-1-foundations/
+- https://www.zytrax.com/books/ldap/

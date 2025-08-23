@@ -4,6 +4,7 @@ tags:
   - math
 aliases:
   - ECC
+  - PKCS 13
 ---
 A [[Public-Key Cryptography]] algorithm that uses [[Elliptical Curves]].
 used for equations like:

@@ -1,6 +1,8 @@
 ---
 tags:
   - networking
+aliases:
+  - RFC
 ---
 These are documents used to outline new [[Network Protocol|Network Protocols]].
 
