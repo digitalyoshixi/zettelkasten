@@ -3,10 +3,9 @@ tags:
   - security
 ---
 A method to verify the validity of the sender of a document through:
-- A [[Public-Key Cryptography|Asymmetric Algorithm]]
+- A [[Signature Algorithm]]
 - A signed message
 - A public key
-
 ![[Digital Signature-20250709025919031.webp]]
 # Definition
 A digital signature is a scheme that consists of 3 algorithms:

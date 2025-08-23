@@ -15,9 +15,9 @@ Used for:
 ![[Hashing-20250709030513308.webp]]
 # Algorithms
 - [[Message Digest Algorithm 5|MD5]]
-- [[SHA-1]]
+- [[Secure Hashing Algorithm]]
 - [[Hash-based Message Authentication Code|HMAC]]
-- [[RIPEMD-160]]
+- [[RIPEMD]]
 # Concepts
 - [[Hash Collision]]
 - [[Collision Attack]]

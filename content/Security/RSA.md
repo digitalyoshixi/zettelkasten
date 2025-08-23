@@ -5,7 +5,7 @@ aliases:
   - Rivest Shamir Adleman
 ---
 A [[Public-Key Cryptography|Asymmetric Cryptosystem]] based off the [[Discrete Logarithm Problem|DLP]].
-The name is the first letters of the 3 founders
+Often used as a [[Signature Algorithm]].
 It is by far the most used Asymmetric Encryption algorithm
 
 RSA creates a pair of [[Commutative Encryption|Commutative Keys]].
