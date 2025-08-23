@@ -15,6 +15,8 @@ Human trust is flawed. Assume the attacker is already inside the system.
 - [[Adaptive Identity]]
 - [[Planes of Operation]]
 - [[Security Zone]]
+	- [[Data Plane]]
+	- [[Control Plane]]
 - [[Policy Enforcement Point|PEP]]
 - [[Threat Scope Reduction]]
 # Tools

@@ -49,7 +49,7 @@ Used from chapter 4-7:
 - [[Cases]]
 	- [[Permutations]]
 		- [[Permutations with Identical Items]]
-	- [[Pascal Triangle]]
+	- [[Math/Pascal Triangle]]
 		- [[Pascal Routes]]
 
 # Combinations & Binomial Theorem(Chapter 5)
