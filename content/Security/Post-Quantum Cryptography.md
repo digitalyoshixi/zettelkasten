@@ -4,6 +4,8 @@ tags:
 aliases:
   - Quantum Safe
 ---
-This is methods of crypography after [[Quantum Computing]] becomes commercialized.
+This is methods of cryptography after [[Quantum Computing]] becomes commercialized.
 # Concepts
 - [[Shor's Factoring Algorithm]]
+- [[Adiabatic Quantum Computation]]
+- [[Lattice Cryptography]]
