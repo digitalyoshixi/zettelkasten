@@ -19,5 +19,5 @@ C: Therefore, there is a mouse in the cupboard (conclusion)
 ```
 # Best Argument Criteria
 The best argument explains the most with the least assumption.
-- Simplicity ([[Occams Razor]])
+- Simplicity ([[Occam's Razor]])
 - Strength (Better explanations explain more)

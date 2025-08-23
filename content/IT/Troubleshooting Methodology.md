@@ -18,7 +18,7 @@ Gathering information from:
 - Questioning users
 - Determining recent changes
 - Duplicating the problem
-- Using [[Occams Razor]]
+- Using [[Occam's Razor]]
 # Establish a Theory of Probable cause
 Explain the problem with the most obvious theories first, then work your way to more complex explanations.
 You can also call tech support here.

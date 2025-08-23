@@ -10,7 +10,13 @@ A [[Post-Quantum Cryptography]] safe algorithm.
 Takes a message and a key.
 The key can be 128bits, 192bits or 256bits.
 # Modes
-- [[CB]]
+- [[Cipher Block Chaining|CBC]]
+- [[Cipher Block Chaining Message Authentication Code]]
+- [[Cipher Feedback|CFB]]
+- [[Electronic Code Block|ECB]]
+- [[Counter Mode|CTR]]
+- [[Output Feedback|OFB]]
+- [[Galois Counter Mode|GCM]]
 # Encryption Process
 ![[Advanced Encryption Standard-20240410021859196.webp]]
 ![[Advanced Encryption Standard-20240410021907720.webp]]

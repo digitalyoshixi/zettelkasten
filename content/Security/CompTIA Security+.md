@@ -51,6 +51,8 @@ aliases:
 - [[Digital Certificate]]
 - [[Self Encrypting Device]]
 - [[GNU Privacy Guard]]
+- [[Advanced Encryption Standard|AES]]
+- [[Key Distribution Center]]
 ### Chapter 2
 ##### 2.1
 - [[Threat Actor]]

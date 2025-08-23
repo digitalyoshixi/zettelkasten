@@ -9,4 +9,4 @@ aliases:
 ---
 A encryption protocol for [[WI-FI Protected Access|WPA2]]. It is [[Block-Cipher]] encryption that uses:
 - [[Advanced Encryption Standard|AES]] for encryption
-- [[CBC-MAC]] for [[Message Integrity Check|MIC]]
+- [[Cipher Block Chaining Message Authentication Code]] for [[Message Integrity Check|MIC]]

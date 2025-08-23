@@ -3,6 +3,7 @@ tags:
   - philosophy
 aliases:
   - Parsimony
+  - Occams Razor
 ---
 The simplest explanation(The one with the least amount of entities) is usually the correct one.
 - Do not posit entities beyond necessity
