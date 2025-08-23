@@ -14,3 +14,5 @@ to manage [[Digital Certificate|Digital Certificates]] and [[Public-Key Cryptogr
 - [[Private Key]]
 - [[Key Escrow]]
 - [[Root of Trust]]
+- [[Registration Authority|RA]]
+- [[Certificate Authority|CA]]
