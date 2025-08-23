@@ -21,3 +21,5 @@ APIs I've used today:
 3. Server receives request and returns the file as a html
 # API Types
 - [[Rest API]]
+# Concepts
+- [[API Security]]
