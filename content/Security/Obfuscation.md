@@ -8,6 +8,8 @@ Not to be confused with [[Packing]].
 # Techniques
 - [[Movfuscator]]
 - [[Shikata ga nai]]
+- [[Control Flow Obfuscation]]
+- [[IAT Import Obfuscsation]]
 - [[JSFuck]]
 - [[Packing]]
 - [[Stripped Binary]]
