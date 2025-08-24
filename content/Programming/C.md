@@ -19,7 +19,6 @@ For in-depth C knowledge, consult [[C History]]
 ### Linking an executable to DLL
 - If you are in the same directory as your DLL, then you can just build like normal. `gcc -o myfile -g myfile.c`
 - If the DLL is somewhere else, consult: https://opensource.com/article/22/5/compile-code-ldlibrarypath
-
 ## C++ Compile Process
 you need 3 tools: 
 - [[Compiler]]
@@ -28,7 +27,9 @@ you need 3 tools:
 From these, you can make an
 - [[Executable]]
 - [[Dynamic Linked Library]]
+# Boilerplate
 # Concepts
+- [[C Boilerplate]]
 - [[C Declarations]]
 - [[C Initialization]]
 - [[Undefined Behaviors]]
@@ -36,7 +37,7 @@ From these, you can make an
 - [[C Command Line Arguments]]
 ### Datatypes & Special Datatypes
 - [[C Datatypes]]
-- [[Integer Division 1]]
+- [[Integer Division]]
 - [[End of File|EOF]]
 - [[C String]]
 - [[C Typecasting]]
