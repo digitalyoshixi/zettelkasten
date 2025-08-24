@@ -8,3 +8,5 @@ A piece of software that runs another software while also having:
 - Ability to continue/rewind execution
 # Abilities
 - [[Record Execution]]
+# Types
+- [[De-Optimizing Debugger]]
