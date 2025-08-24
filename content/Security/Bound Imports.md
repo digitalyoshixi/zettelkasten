@@ -3,7 +3,6 @@ tags:
   - malware
   - PE
 ---
-
 means that the [[Import Directory Table|IDT]] contains fixed addresses for imported functions
 
 using bound imports is a speed optimization. reduces time needed by loader to resolve function addressess and fill the [[Import Address Table|IAT]].
