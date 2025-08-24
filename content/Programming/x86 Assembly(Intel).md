@@ -10,7 +10,9 @@ mov rbp,rsp // sets up new stack frame for main function
 sub rsp,0x10 // Allocate 16 bytes of stack space for local variables
 mov DWORD PTR [rbp-0x4],edi // stores first argument 'argc' onto stack
 mov QWORD pTR [rbp-0x10],rsi // stores second argument `argv` onto stack
-mov %fs:0x28,%rax // stack smashing prevention
+mov    rax, qword ptr fs:[0x28] // generate stack canry
+mov    qword ptr [rbp - 0x18], rax // store canary on stack
+xor    eax, eax
 
 ...
 
