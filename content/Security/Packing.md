@@ -14,7 +14,7 @@ Not to be confused with deliberate [[Obfuscation]].
 Packers will reduce the size of files, but also bundle in a program to unpack during execution.
 ![[Packing-20250601221421640.webp]]
 # Packers
-- [[UPX]]
+- [[Ultimate Packer for eXecutables]]
 - [[VMProtect]]
 - [[Themida]]
 # Packer Identifiers

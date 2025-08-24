@@ -6,6 +6,7 @@ aliases:
   - Dynamic Symbolic Execution
 ---
 By statically analyzing the program, we can create a system of constrained branches, and apply it to our input to explore interesting execution paths.
+
 It is approaching a program by viewing it as a set of branching paths, rather than analyzing it input by input.
 # Process
 https://www.youtube.com/watch?v=yRVZPvHYHzw
@@ -17,8 +18,9 @@ Once, we find a branch that leads to a desired execution path, we evaluate the i
 Sometimes the input that lead us to a path may have many values, or may be unsatisfiable. If a challenge is written correctly, we should have only 1 input.
 # Tools
 - [[angr]]
-# Flaws
-- Can lead to path explosion in larger programs. This is why you want [[angr]] to analyze as little as possible
+# Concepts
+- [[Path Explosion]]
+- [[Concolic Analysis]]
 # Dynamic Symbolic Execution (Concolic Analysis)
 A mix between symbolic and concrete execution.
 Execute what you can concretely, and use symbolic execution for certain segments
