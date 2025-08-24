@@ -4,8 +4,13 @@ tags:
 ---
 A adoption of [[Docker]] to set local environments to use different python versions.
 # Installation
+### Arch
 1. `sudo pacman -S pyenv`
 2. Then `pyenv init`. follow the instructions
+### [[Fedora Linux]]
+1. `sudo yum install zlib zlib-devel bzip2-devel openssl-devel sqlite-devel readline-devel -y`
+2. `curl -L https://github.com/pyenv/pyenv-installer/raw/master/bin/pyenv-installer | bash`
+
 # Utilization
 ### Installing Different Python Version
 ```
