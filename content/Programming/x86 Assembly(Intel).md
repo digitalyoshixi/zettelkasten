@@ -23,6 +23,8 @@ ret // returns to main's initial address
 - [[x86 Intel lea]]
 - [[x86 Intel jmp]]
 - [[x86 Intel nop]]
+# Notation
+- [[x86 Variable Dereferencing]]
 
 | operation               | Intel Syntax  | pseudo demo                                                 |
 | ----------------------- | ------------- | ----------------------------------------------------------- |
