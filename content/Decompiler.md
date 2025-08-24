@@ -11,3 +11,8 @@ A tool that converts compiled binary [[Object File]] into source code
 3. [[IR Lifting]]
 4. [[Decompiler Procedure Finder]]
 5. [[Decompiler Procedure Analyzer]]
+# Resources
+- https://www.backerstreet.com/decompiler/expression_propagation.php
+- https://mahaloz.re/dec-history-pt1
+- https://decompilation.wiki/fundamentals/cfg-recovery/lifting/
+- https://www.program-transformation.org/Transform/HistoryOfDecompilation2.html
