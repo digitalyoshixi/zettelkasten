@@ -8,3 +8,6 @@ aliases:
 - [[Git]]
 - [[Mercurial]]
 - [[Perforce]]
+# Concepts
+- [[Atomic Operations]]
+- [[File Locking]]
