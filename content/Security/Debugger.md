@@ -10,3 +10,4 @@ A piece of software that runs another software while also having:
 - [[Record Execution]]
 # Types
 - [[De-Optimizing Debugger]]
+- [[Kernel Mode Debugger]]
