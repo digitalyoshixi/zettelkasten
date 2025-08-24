@@ -18,9 +18,11 @@ Once, we find a branch that leads to a desired execution path, we evaluate the i
 Sometimes the input that lead us to a path may have many values, or may be unsatisfiable. If a challenge is written correctly, we should have only 1 input.
 # Tools
 - [[angr]]
+- [[z3]]
+- [[cvc5]]
 # Concepts
 - [[Path Explosion]]
 - [[Concolic Analysis]]
-# Dynamic Symbolic Execution (Concolic Analysis)
-A mix between symbolic and concrete execution.
-Execute what you can concretely, and use symbolic execution for certain segments
+# Resources
+- https://de-engineer.github.io/SMT-Solvers/
+- https://cvc5.github.io/tutorials/beginners/
