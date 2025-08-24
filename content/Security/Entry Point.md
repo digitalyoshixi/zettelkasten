@@ -8,8 +8,8 @@ aliases:
 ---
 This is where the CPU begins execution of a program.
 # Pseudocode to find Entry Point
-Used by [[Decomp]]
-```
+Used by [[Decompiler]] to find the entry point.
+```c
 callList = entry_address
 while callList not empty
    address = pop from callList

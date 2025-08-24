@@ -9,3 +9,5 @@ A tool that converts compiled binary [[Object File]] into source code
 1. [[File Reader]]
 2. [[Disassembler]]
 3. [[IR Lifting]]
+4. [[Decompiler Procedure Finder]]
+5. [[Decompiler Procedure Analyzer]]
