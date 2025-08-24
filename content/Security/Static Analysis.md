@@ -9,7 +9,7 @@ Dissecting a [[Malware]] sample, without running it.
 - [[Malware Strings]]
 - [[Portable Executable|PE]]
 - [[Debugger]]
-- [[Decomper]]
+- [[Decompiler]]
 - [[Disassembler]]
 - [[Symbolic Execution]]
 - [[Anti-Malware Software]]

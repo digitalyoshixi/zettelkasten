@@ -9,4 +9,5 @@ Used to store pointers to addresses in memory.
 Moves the address of src into dest.
 # Example
 `lea rax, [rip+0x20040]`
-- rax will then take on the value of that address
+- Will compute the address within the square brackets (Its not [[x86 Variable Dereferencing]])
+- rax will then be that address

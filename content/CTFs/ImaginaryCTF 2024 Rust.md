@@ -14,7 +14,7 @@ If we try to run the file normally, we see that the size of the list is equivale
 We can assume that the flag will be 21 characters long then
 # Solution
 https://vaktibabat.github.io/posts/ictf_2024/
-[[Decompile]] with [[Ghidra]].
+[[Decompiler]] with [[Ghidra]].
 ### main()
 1. Takes input through stdin
 2. Sends input to encrypt()
