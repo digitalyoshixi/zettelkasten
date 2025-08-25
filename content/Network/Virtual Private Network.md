@@ -17,3 +17,5 @@ A tunnel is created that so that all packets are encrypted and sent to a VPN ser
 - [[SSL & TLS VPN|HTML5 VPN]]
 # Concepts
 - [[Posture Assessment]]
+- [[Full Tunnel]]
+- [[Split Tunnel]]
