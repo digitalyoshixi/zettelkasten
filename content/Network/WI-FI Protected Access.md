@@ -15,6 +15,7 @@ A security policy for [[Access Point|WAPs]] using [[WI-FI|IEE 802.11]]. Designed
 - Uses [[Advanced Encryption Standard|AES-128]] encryption in [[Counter Mode with Cipher Block Chaining Message Authentication Code Protocol|CCMP]]
 - Can be optionally backwards compatible to include [[Temporal Key Integrity Protocol|TKIP]], but its not recommended
 - Uses a 4-way handshake to share the PSK
+- Not secure
 ### WPA3
 - Uses [[Advanced Encryption Standard|AES-256]] encryption in [[Galois Counter Mode Protocol|GCMP]] or [[Counter Mode with Cipher Block Chaining Message Authentication Code Protocol|CCMP]]
 - Does not allow [[Temporal Key Integrity Protocol|TKIP]]

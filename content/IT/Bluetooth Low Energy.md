@@ -9,4 +9,4 @@ Used to keep devices in a non-discoverable mode,
 # Pros
 - Authenticates on a pair with a shared pin
 - Prioritizes energy efficiency
-- Prevents against discoverable mode attacks like [[Bluejacking]] or [[Bluesnarfing]]
+- Prevents against discoverable mode attacks like [[Bluejacking]] or [[Bluesnarfing]] or [[Bluesmacking]]
