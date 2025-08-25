@@ -1,5 +1,8 @@
 ---
 tags:
   - IT
+aliases:
+  - Fail Over
 ---
-Procedures that for data recovery that can be tested right away in production.
+Procedures for data recovery that can be implemented right away in production.
+Often involves switching to a standby system in cases of disruption to primary system.

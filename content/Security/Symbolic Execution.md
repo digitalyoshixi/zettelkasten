@@ -4,6 +4,7 @@ tags:
 aliases:
   - Static Symbolic Execution
   - Dynamic Symbolic Execution
+  - symbex
 ---
 By statically analyzing the program, we can create a system of constrained branches, and apply it to our input to explore interesting execution paths.
 
