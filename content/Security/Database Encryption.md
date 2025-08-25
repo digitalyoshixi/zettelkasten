@@ -3,4 +3,7 @@ tags:
   - security
 ---
 Encryption of entire tables within a database.
-Could lower down to [[Record Level Encryption]]
+# Forms
+- [[Field Level Encryption]]
+- [[Record Level Encryption]]
+- [[Column Level Encryption]]

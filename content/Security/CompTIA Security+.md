@@ -290,6 +290,8 @@ aliases:
 - [[Kerberos]]
 - [[NT LAN Manager]]
 - [[Authentication]]
+- [[OpenID]]
+- [[Open Auth|OAuth]]
 - [[Federated]]
 - [[Security Assertion Markup Language|SAML]]
 - [[Single Sign On|SSO]]

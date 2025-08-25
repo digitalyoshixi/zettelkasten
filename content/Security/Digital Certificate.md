@@ -15,6 +15,8 @@ Certificates are stored on the local device with [[File Extension]] `.cer` or `.
 - [[Self-Signed Certificate]]
 # Concepts
 - [[Certificate Authority|CA]]
+- [[Subordinate Certificate Authority|SubCA]]
 - [[Certificate Revocation List|CRL]]
 - [[Online Certificate Status Protocol]]
 - [[Certificate Signing Request]]
+- [[Certificate Serial Number]]

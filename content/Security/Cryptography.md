@@ -47,3 +47,5 @@ The [[Mathematics]] used to secure data.
 - [[Digital Signature]]
 - [[Public-Key Cryptography|PKC]]
 	- [[Public Key Cryptography Standards|PKCS]]
+- [[Salting]]
+- [[Peppering]]
