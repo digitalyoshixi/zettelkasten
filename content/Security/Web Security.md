@@ -14,3 +14,4 @@ aliases:
 - [[Path Traversal]]
 - [[Server Side Request Forgery]]
 - [[IFrame Injection Attack]]
+- [[XML Injection]]

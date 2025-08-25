@@ -39,6 +39,7 @@ The [[Mathematics]] used to secure data.
 	- [[Private Key]]
 - [[Keygen]]
 - [[Chosen Plaintext Attack|CPA]]
+- [[Known Plaintext Attack]]
 - [[Indistinguishability Under Chosen Plaintext Attack|IND-CPA]]
 - [[Indistinguishability Under Chosen Ciphertext Attack|IND-CCA]]
 - [[Symmetric Cryptography]]

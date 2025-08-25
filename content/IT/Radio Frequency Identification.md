@@ -14,3 +14,6 @@ Seen commonly in:
 - Pet/Animal Identification
 - Inventory tracking
 Certain tags may include methods to power this antenna, other tags may be standalone transponders.
+# Vulnerabilities
+- [[RFID Cloning]]
+- [[RFID Interception]]
