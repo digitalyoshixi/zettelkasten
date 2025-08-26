@@ -390,7 +390,7 @@ aliases:
 - [[Compliance Monitoring]]
 - [[Data]]
 ##### 5.5
-- [[Data Attestation]]
+- [[Attestation]]
 - [[Internal Audit]]
 - [[External Audit]]
 - [[Penetration Testing]]

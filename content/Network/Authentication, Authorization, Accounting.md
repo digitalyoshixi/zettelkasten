@@ -7,6 +7,7 @@ aliases:
 1. [[Authentication|Authenticate]] users
 2. [[Authorization|Authorization]] what resources they can access
 3. Log all actions for [[Accounting|Accountability]]
+4. [[Attestation]] for ensuring compliance
 # Implementations
 - [[Remote Authentication Dial-In User Service|RADIUS]]
 - [[Terminal Access Controller Access-Control System Plus|TACACS+]]
