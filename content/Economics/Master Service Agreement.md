@@ -4,9 +4,10 @@ tags:
 aliases:
   - MSA
 ---
-A business agreement that highlights the terms and conditions for a contractual relationship.
+A legally binding business agreement that highlights the terms and conditions for a contractual relationship.
 - Payment terms
 - Dispute resolution mechanisms
 - [[Intellectual Property|IP]] rights
 - Confidentiality clauses
 - Liability provisions
+- Future agreements

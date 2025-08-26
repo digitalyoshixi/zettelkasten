@@ -312,6 +312,7 @@ aliases:
 - [[Privileged Access Management|PAM]]
 ##### 4.7
 - [[Mean Time to Detect]]
+- [[Mean Time to Fail]]
 - [[Security Orchestration Automation and Response|SOAR]]
 - [[Network Automation]]
 ##### 4.8

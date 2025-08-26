@@ -2,6 +2,8 @@
 tags:
   - security
   - redteam
+aliases:
+  - Pentest
 ---
 The role to assess the security of a organization by employing red-team techniques to validate their security measures.
 # Environments

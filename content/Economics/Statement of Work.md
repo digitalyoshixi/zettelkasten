@@ -2,12 +2,10 @@
 tags:
   - business
 aliases:
-  - Work Order
-  - WO
   - SoW
 ---
-For individuals or projects.
-A detailed breakdown of work to be completed:
+A detailed breakdown of work to be completed by a [[Vendor]] or group:
 - Timeline of completion
 - Expected deliverables
 - Compensation
+- Responsibilities
