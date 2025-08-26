@@ -7,6 +7,8 @@ A method of gathering data by [[Impersonation|Impersonating]] or enticing users 
 - [[Spear Phishing]]
 - [[Smishing]]
 - [[Vishing]]
+- [[War Dialing]]
+- [[Robocalling]]
 # Well-Known Techniques
 - [[Spoofed Communication Phishing]]
 - [[Urgent Phishing]]
