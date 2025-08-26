@@ -7,4 +7,4 @@ The process of gathering all electronic data:
 - Documents
 - [[Database]]
 - Other digital artifacts
-For use as legal evidence.
+For use as legal evidence during a [[Legal Hold]].
