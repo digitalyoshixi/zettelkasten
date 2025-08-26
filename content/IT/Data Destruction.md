@@ -11,8 +11,7 @@ You can physically destroy the drive by smashing or burning it, or you can give 
 - Crushing
 - Chemical decomposition
 - Pulping
-# Degaussing
-Removing the magnetic field, thereby destroying the data and the electronics
+- [[Degaussing]]
 # Low-Level Format/Zero-Fill Destruction
 Low level formatting is filling all data with zero, effectively erasing all data.
 It includes:

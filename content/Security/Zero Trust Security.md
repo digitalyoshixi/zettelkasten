@@ -3,6 +3,8 @@ tags:
   - security
 aliases:
   - Zero Trust
+  - Zero Trust Architecture
+  - ZTA
 ---
 Human trust is flawed. Assume the attacker is already inside the system.
 ![[Zero Trust Security-20250711024701537.webp|666]]
