@@ -13,5 +13,7 @@ It:
 	- Server authentication
 	- [[WI-FI|IEE 802.11]] network access
 - Combines authentication and authorization
-- Encrypts only the password in the access-request packet
 Completely open protocol, that is partially encrypted and communicates over `udp/1812` and `udp/1813`.
+# Protocol
+1. Requests for password
+2. Only password is encrypted in access-request packet
