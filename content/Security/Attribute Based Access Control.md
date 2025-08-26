@@ -12,3 +12,4 @@ Attributes can be specific like:
 - Location
 - Job title
 - Department
+Policies are written in natural language.

@@ -8,3 +8,4 @@ tags:
 - Use in-transit encryption like [[Transport Layer Security|TLS]]
 - Enable password reset
 - Use [[Password Manager]]
+- Enforce [[Minimum Password Age]]

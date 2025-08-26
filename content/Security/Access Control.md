@@ -13,3 +13,4 @@ Goal is to conform to [[Principle of Least Privilege]].
 - [[Discretionary Access Control]]
 - [[Role-Based Access Control]]
 - [[Attribute Based Access Control]]
+- [[Rule-Based Access Control]]
