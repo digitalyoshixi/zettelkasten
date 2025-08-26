@@ -6,4 +6,4 @@ aliases:
 ---
 A security mechanism that provides fine-grain [[Access Control]].
 - Control over individual files ([[Permissions]])
-- [[Mandatory Access Control]]
+- [[Mandatory Access Control|MAC]]
