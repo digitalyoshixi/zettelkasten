@@ -5,5 +5,5 @@ tags:
 aliases:
   - MIB
 ---
-Storage containing information about a network.
-Often collects information recieved by the [[SNMP Manager]].
+A [[Database]] containing information about a network.
+Often collects information received by the [[SNMP Manager]].
