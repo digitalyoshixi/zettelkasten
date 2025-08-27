@@ -52,8 +52,6 @@ aliases:
 - [[Telnet]]
 - [[Remote Desktop Protocol|RDP]]
 - [[Voice over IP|VoIP]]
-- [[Lightweight Directory Access Protocol|LDAP]]
-- [[Server Message Block Protocol|SMB]]
 - [[Layer 2 Tunneling Protocol|L2TP]]
 - [[IPsec]]
 - [[Secure Sockets Layer|SSL]]
@@ -67,5 +65,6 @@ aliases:
 - [[NetBT]]
 - [[Open Shortest Path First|OSPF]]
 - [[Secure Real Time Protocol|SRTP]]
+- [[Internet Relay Chat|IRC]]
 # Protocol Groups
 - [[Multiple Access Protocols]]

@@ -4,4 +4,4 @@ tags:
 aliases:
   - L2TP
 ---
-Runs on UDP port `1701`
+Runs on port `udp/1701`

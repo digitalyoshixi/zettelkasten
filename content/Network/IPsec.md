@@ -2,10 +2,9 @@
 tags:
   - networking
 ---
-Runs on UDP port `1701`
 Provides [[Network Messages|Packet]] encryption for the [[TCP & IP Data Layer|Data Layer]].
 # [[Key Exchange Protocol|IKE]] Phrase
-- Uses [[Diffie Hellman Key Exchange|DHKE]] over [[User Datagram Protocol|UDP]] port `500`
+- Uses [[Diffie Hellman Key Exchange|DHKE]] over `udp/500`
 # Process
 1. [[Key Exchange Protocol|IKE]] exchange over [[User Datagram Protocol|UDP]] `500`
 2. IPSec tunnel creation with either:
