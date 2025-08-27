@@ -9,6 +9,7 @@ aliases:
   - Key Exchange Algorithms
 ---
 These are protocols that ensure key exchanges through unencrypted mediums do not leak any information to outside observers.
+Used to setup [[Security Associations]]
 # Protocol
 - [[Diffie Hellman Key Exchange]]
 - [[Quantum Key Exchange]]

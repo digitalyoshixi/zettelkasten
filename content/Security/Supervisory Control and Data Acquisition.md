@@ -17,6 +17,7 @@ Used in industrial settings:
 - Logistics
 - Indusstrial
 Very big targets for cyber crime.
+Often requires [[Network Segmentation]]
 # Levels
 ### Plant Level (Level 0)
 Includes physical equipment like [[Sensor]], [[Actuator]], [[Motor]], [[Pump]], etc
