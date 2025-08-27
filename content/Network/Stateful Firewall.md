@@ -3,9 +3,7 @@ tags:
   - networking
   - security
 aliases:
-  - Layer 7 Firewall
 ---
-A layer 7 firewall that can:
-- Monitor each packet passing through a [[Firewall]] individually
-- Block incoming traffic that isn't a response to outgoing traffic
-- Provide [[Deep Packet Inspection]]
+A layer 4 firewall that can:
+- Track the state of network connections
+- Determine if a packet is part of a current connection

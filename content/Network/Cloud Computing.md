@@ -12,3 +12,4 @@ Using the cloud requires trust in the provider, to keep your data secure and pri
 - [[Cloud Ownership Types]]
 - [[Cloud Service Provider]]
 - [[Cloud Responsibility Matrix]]
+- [[Path Diversity]]

@@ -2,7 +2,7 @@
 tags:
   - IT
 ---
-Backups for a file/data created during data change. Written to a journal before committing to the filesystem or database.
-If power is lost, the journal data remains.
+Backups for a file/data during a period of time that exists on the local machine.
+Changes are written to the journal before committing to the filesystem or database.
 
 File journalling is handled by the specific [[File System]].

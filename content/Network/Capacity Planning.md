@@ -3,6 +3,7 @@ tags:
   - networking
 ---
 The strategic process to ensure an organization has the right resources to meet current and future demands efficiently.
+Most concerned with people
 # Capacity Planning for People
 Evaluates:
 - Skill set assesment (skills, gaps)
