@@ -27,6 +27,7 @@ Controls that involve shared agreements.
 Control implemented by people instead of systems.
 - Security guards
 - Awareness programs
+- Announcement of new policy
 ### [[Physical Security|Physical Controls]]
 - Fences
 - Locks
