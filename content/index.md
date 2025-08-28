@@ -10,6 +10,5 @@ I started using [[Obsidian]] in 2024 after watching this video: [No Boilerplate]
 I aim to make this obsidian vault bloated asf
 # Courses
 # Current Learning
-- [[CompTIA Security+]]
 - [[Homomorphic Encryption Project]] 
 - [[Biological Computing Compiler Project]]
