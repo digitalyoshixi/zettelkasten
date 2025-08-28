@@ -18,7 +18,7 @@ tags:
 - Location finding model based off google maps street view
 - Tor-like protocol, but every node is a exit node. TCP communication is scattered and split between several exit nodes so no node individually transmits an entire message.
 - downloadmoreram.com, installs ring 0 software to make page files but they are mounted network drives
-- time travel debugger
+- time travel python debugger
 - A [[Homomorphic Encryption]] at rest [[File System]]
 - https://tensortrust.ai/paper/ clone, but with more options for break-in, instead of only saying "Access Granted". Also use [[Probe]]
 - Signature Based Virus Detection. Similar to antivirus softwares, we can define behavioral rules or specific traits of bacteria that are correlated to a virus
