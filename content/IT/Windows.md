@@ -27,7 +27,8 @@ OS made by [[Microsoft]] that steals all your data.
 - [[Windows 10 OS Reinstallation]]
 - [[Powershell|.ps1]]
 - [[Batch Script|.bat]]
-# Built In Tools
+- [[Windows Services]]
+### Built In Tools
 - [[Windows Task Manager]]
 - [[Windows Task Scheduler]]
 - [[Windows Disk Management]]
@@ -86,7 +87,7 @@ OS made by [[Microsoft]] that steals all your data.
 - [[DxDiag]]
 - [[Windows Services]]
 - [[Windows VGA Mode]]
-# Extra
+### Extra
 - [[Windows Ricing]]
 - [[Windows Optimizing Performance]]
 - [[Windows Procmon]]
