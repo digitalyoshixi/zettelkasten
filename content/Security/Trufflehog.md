@@ -3,7 +3,7 @@ tags:
   - git
   - security
 ---
-A tool to find leaked credentials in github repositories.
+*A* tool to find leaked credentials in github repositories.
 # Installation
 ```
 sudo pacman -S trufflehog

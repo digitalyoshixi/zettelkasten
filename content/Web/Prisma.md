@@ -8,6 +8,10 @@ This is a modern [[Object Relationship Model|ORM]] for [[PostgreSQL]].
 ```
 npm install prisma typescript tsx @types/node --save-dev
 ```
+Globally:
+```
+sudo npm i -g prisma
+```
 # Setup
 ```
 npx prisma
