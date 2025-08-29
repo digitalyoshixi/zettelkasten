@@ -3,6 +3,8 @@ tags:
   - hardware
   - cpu
   - programming
+aliases:
+  - Flag
 ---
 These are booleans that reflect the outcome of the previous cpu operation.
 ![[CPU Flags-20250610142303018.webp|331]]
