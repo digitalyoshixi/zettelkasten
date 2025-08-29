@@ -21,7 +21,7 @@ Suppose there is a buffer of n slots and each slot can store one unit of data. T
 
 To solve this problem we must use 3 semaphores:
 
-1. m(mutex) - a binary semaphore for locking
+1. [[Mutex]] 
     
 2. Empty - a counting semaphore for the # of slots empty
     
