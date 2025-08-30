@@ -5,7 +5,7 @@ tags:
 This is the ultimate package of reverse engineering tools. It can:
 - Be a [[Disassembler]]
 - Be a [[Debugger]]
-- Be a [[Emulator]]
+- Be a [[Emulation|Emulator]]
 - Perform [[strings]] searches
 - Parse [[Executable and Linkable Format|ELF]] and [[Portable Executable|PE]] headers
 - Run [[Python]] scripts within it
