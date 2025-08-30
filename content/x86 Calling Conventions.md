@@ -10,3 +10,4 @@ Describes the [[x86 Assembly|x86]] [[Application Binary Interface|ABI]]
 # Callee Cleean-up
 - [[stdcall]]
 - [[fastcall]]
+- [[System V AMD64]]

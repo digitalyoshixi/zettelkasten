@@ -1,18 +1,19 @@
 ---
 tags:
-  - security
   - linux
+  - x86
+  - assembly
 aliases:
+  - x86 Linux ABI Caalling Convention
 ---
 # Process
-1. First two arguments are saved into arg2: `rbx`, arg1: `rcx`
-2. All subsequent arguments are pushed onto the stack
-3. Function is called with `call <location>` & `rip` pushed
-4. Space is allocated onto the stack for local variables
-5. Function does work
-6. Stack is restored
-7. Returns by calling `ret`
-8. Stack adjusted to remove arguments
+1. First 6 arguments are saved into general purpose registers
+2. Function is called with `call <location>` & `rip` pushed
+3. Space is allocated onto the stack for local variables
+4. Function does work
+5. Stack is restored
+6. Returns by calling `ret`
+7. Stack adjusted to remove arguments
 # Example
 With C code:
 ```c
