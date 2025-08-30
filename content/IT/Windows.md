@@ -28,6 +28,7 @@ OS made by [[Microsoft]] that steals all your data.
 - [[Powershell|.ps1]]
 - [[Batch Script|.bat]]
 - [[Windows Services]]
+- [[Windows Stack]]
 ### Built In Tools
 - [[Windows Task Manager]]
 - [[Windows Task Scheduler]]

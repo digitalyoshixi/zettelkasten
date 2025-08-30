@@ -2,7 +2,7 @@
 tags:
   - binary_exploitation
 ---
-Byte data to be loaded into a program and executed as assembly for the [[Central Processing Unit|CPU]]. 
+Byte data to be loaded into a program and executed as [[Machine Code]] for the [[Central Processing Unit|CPU]]. 
 Oftentimes this payload is to spawn a [[Shell]] for arbitrary command execution
 # Concepts
 - [[Shellcode Injection Into Codecave]]
