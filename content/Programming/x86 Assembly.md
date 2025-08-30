@@ -13,7 +13,7 @@ The assembly language that comes with [[CPU Labelling|x86]] processors.
 - [[x86 Assembly(AT&T)]]
 # Concepts
 - [[x86 CPU Flags]]
-- [[x86 Calling Conventions]]
+- [[Calling Convention]]
 - [[x86 Globals]]
 - [[x86 Variable Dereferencing]]
 # Tools

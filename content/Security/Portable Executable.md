@@ -20,6 +20,7 @@ PE files loaded onto the disc are the exact same format as it would be when load
 	- Header sizes
 - Bypasses [[Packing]]
 # Structure
+![[Portable Executable-20250830215833161.webp|538]]
 Unlike COM-type executables *(where execution starts at the first byte)*, 
 PE file format to tell us where exactly we start.
 ### Image

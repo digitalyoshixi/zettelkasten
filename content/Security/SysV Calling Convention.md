@@ -1,11 +1,17 @@
 ---
 tags:
-  - linux
-  - x86
-  - assembly
-aliases:
-  - x86 Linux ABI Caalling Convention
+  - programming
+  - security
+  - binary_exploitation
 ---
+[[Calling Convention]] for 64-bit [[Unix]] binaries based on [[System Five]]
+Function arguments are passed in only these registers:
+- [[rdi]]
+- [[rsi]]
+- [[rdx]]
+- [[rcx]]
+- r8
+- r9
 # Process
 1. First 6 arguments are saved into general purpose registers
 2. Function is called with `call <location>` & `rip` pushed
