@@ -14,8 +14,7 @@ The assembly language that comes with [[CPU Labelling|x86]] processors.
 # Concepts
 - [[x86 CPU Flags]]
 - [[x86 Calling Conventions]]
-- [[stdcall]]
-- [[fastcall]]
-- [[cdcel]]
+- [[x86 Globals]]
+- [[x86 Variable Dereferencing]]
 # Tools
 - [[NASM]] is a popular assembler that can compile x86 code
