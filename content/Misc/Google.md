@@ -9,3 +9,4 @@ Tech monopoly that is evil.
 - [[Google Gemini]]
 - [[NotebookLM]]
 - [[ChromeOS]]
+- [[Gmail API]]
