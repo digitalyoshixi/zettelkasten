@@ -23,3 +23,5 @@ adds debugger symbols
 Shows all the warnings
 ### `-lm`
 For linking [[math.h]] library
+# `-std=c++20`
+For setting the current version to c++ 20

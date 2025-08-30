@@ -50,6 +50,7 @@ int main(int argc, char const *argv[])
 - [[Assignment]]
 - [[Buffered outputs]]
 - [[Declaration vs Definition]]
+- [[C++ Versions]]
 # Philosophy
 - [[Treat Warnings as Errors]]
 - [[Always Initialize your Variables]]
@@ -100,6 +101,8 @@ int main(int argc, char const *argv[])
 - [[C++ Strings]]
 - [[C++ Vectors]]
 - [[C++ Map]]
+- [[C++ Set]]
+- [[C++ Unordered Set]]
 - [[C++ Style Guides]]
 - [[C++ Class]]
 	- [[C++ Virtual]]
