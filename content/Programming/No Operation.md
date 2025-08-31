@@ -5,5 +5,6 @@ aliases:
   - NOP
 ---
 An instruction that does nothing.
-
-`NOP`
+`nop`
+Equivalent to:
+`xhcg eax, eax`

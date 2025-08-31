@@ -27,6 +27,27 @@ ret // returns to main's initial address
 - [[x86 nop]]
 - [[x86 add]]
 - [[x86 sub]]
+- [[x86 inc]]
+- [[x86 dec]]
+- [[x86 mul]]
+- [[x86 div]]
+- [[x86 imul]]
+- [[x86 idiv]]
+- [[x86 and]]
+- [[x86 or]]
+- [[x86 xor]]
+- [[x86 shl]]
+- [[x86 shr]]
+- [[x86 rol]]
+- [[x86 ror]]
+- [[x86 push]]
+- [[x86 pop]]
+- [[x86 call]]
+- [[x86 leave]]
+- [[x86 enter]]
+- [[x86 ret]]
+- [[x86 test]]
+- [[x86 cmp]]
 # Notation
 - [[x86 Variable Dereferencing]]
 
@@ -36,7 +57,7 @@ ret // returns to main's initial address
 |                         | Mov eax, ebx  | eax = ebx                                                   |
 | add                     | add ebx, ecx  | ebx += ecx                                                  |
 | sub                     | sub ebx, edx  | ebx -= edx                                                  |
-| mul (multiply)          | mul ebx       | eax = ebx                                                   |
+| mul (multiply)          | mul ebx       | eax \*= ebx                                                 |
 | div                     | div edx       | eax /= edx                                                  |
 | int (interrupt)         | Int 0         | Check if program ended                                      |
 |                         | int 0x80      | System call. Check if eax and abx register have cool values |
