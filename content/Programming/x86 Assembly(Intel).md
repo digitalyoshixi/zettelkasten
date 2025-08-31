@@ -20,11 +20,12 @@ mov    eax,0x0 // return 0;
 leave // pops old frame pointer off stack
 ret // returns to main's initial address
 ```
-# Opcodes
+# Instructions
+### Essential
 - [[x86 mov]]
 - [[x86 lea]]
-- [[x86 jmp]]
 - [[x86 nop]]
+### Arith & Logic
 - [[x86 add]]
 - [[x86 sub]]
 - [[x86 inc]]
@@ -40,14 +41,19 @@ ret // returns to main's initial address
 - [[x86 shr]]
 - [[x86 rol]]
 - [[x86 ror]]
+### Function
 - [[x86 push]]
 - [[x86 pop]]
 - [[x86 call]]
 - [[x86 leave]]
 - [[x86 enter]]
 - [[x86 ret]]
+### Conditional
 - [[x86 test]]
 - [[x86 cmp]]
+### Branching
+- [[x86 jmp]]
+### String/Rep Instructions
 # Notation
 - [[x86 Variable Dereferencing]]
 
