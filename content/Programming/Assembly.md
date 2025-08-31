@@ -2,6 +2,8 @@
 tags:
   - programming
   - c
+aliases:
+  - Mneumonics
 ---
 The intermediate representation between source-code and binary.
 # Types
