@@ -21,10 +21,12 @@ leave // pops old frame pointer off stack
 ret // returns to main's initial address
 ```
 # Opcodes
-- [[x86 Intel mov]]
-- [[x86 Intel lea]]
-- [[x86 Intel jmp]]
-- [[x86 Intel nop]]
+- [[x86 mov]]
+- [[x86 lea]]
+- [[x86 jmp]]
+- [[x86 nop]]
+- [[x86 add]]
+- [[x86 sub]]
 # Notation
 - [[x86 Variable Dereferencing]]
 
