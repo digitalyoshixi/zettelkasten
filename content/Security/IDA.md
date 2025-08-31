@@ -9,3 +9,5 @@ Decompilation, disassembling and debugging tool for a variety of different file 
 - [[IDA xrefs]]
 # Concepts
 - [[IDA Database]]
+- [[IDA Graph View Toggle]]
+- [[Rebasing]]

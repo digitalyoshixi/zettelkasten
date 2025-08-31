@@ -4,4 +4,4 @@ tags:
 aliases:
   - FLIRT
 ---
-A library recognition engine used by [[Hexrays]] in [[IDA]]
+A standard library recognition engine used by [[Hexrays]] in [[IDA]] for many programming languages.
