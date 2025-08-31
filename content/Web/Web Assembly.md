@@ -59,8 +59,12 @@ wat2wasm myfile.wat
 	- [[WASM Program with S-Expr]]
 - [[Web Assembly System Interface]]
 - [[Web Assembly Binary Toolkit]]
-- [[wasmtime]]
+- [[WASM Runtime]]
+	- [[wasmtime]]
 - [[ASMjs]]
 # Guides
 - https://rsms.me/wasm-intro
 - https://invidious.yoshixi.net/watch?v=3sU557ZKjUs&listen=false
+- https://invidious.yoshixi.net/watch?v=VGLnqkegX-g&listen=false
+- https://webassembly.github.io/spec/
+- https://developer.mozilla.org/en-US/docs/WebAssembly
