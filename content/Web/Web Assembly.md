@@ -66,6 +66,7 @@ wat2wasm myfile.wat
 - [[wasm-bindgen]]
 # Guides
 - https://rsms.me/wasm-intro
+- https://invidious.yoshixi.net/watch?v=nW71Mlbmxt8
 - https://sebastiano.tronto.net/blog/2025-06-06-webdev/
 - https://invidious.yoshixi.net/watch?v=3sU557ZKjUs&listen=false
 - https://invidious.yoshixi.net/watch?v=VGLnqkegX-g&listen=false

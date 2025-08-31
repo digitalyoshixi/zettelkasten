@@ -37,8 +37,9 @@ A Low-level systems programming language that allows for memory safety.
 - [[Rust Regex]]
 - [[Rustup]]
 - [[Cargo]]
+- [[wasm-bindgen]]
 # Guides
-- [[Rust With WASM Setup]]
+- [[Rust with WASM Guide]]
 # Rust Boilerplate
 ```rust
 fn main(){

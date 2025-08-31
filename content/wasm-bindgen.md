@@ -3,8 +3,16 @@ tags:
   - programming
   - rust
   - wasm
+aliases:
+  - Rust WASM
 ---
 This is a [[Rust]] package used to indicate exports in rust code for the [[WASM Module]].
+Uses [[Procedural Macro]].
+[[wasm-pack]] can build after you make the file
+# Install
+```
+cargo add wasm-bindgen
+```
 # Boilerplate
 ```rust
 mod utils;

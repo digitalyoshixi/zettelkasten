@@ -15,3 +15,4 @@ source /etc/profile.d/emscripten.sh
 ```
 emcc hello.c -o index.html
 ```
+Then, you can run the with a webserver like [[darkhttpd]]
