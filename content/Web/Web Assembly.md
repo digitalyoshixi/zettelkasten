@@ -62,8 +62,11 @@ wat2wasm myfile.wat
 - [[WASM Runtime]]
 	- [[wasmtime]]
 - [[ASMjs]]
+- [[wasm-pack]]
+- [[wasm-bindgen]]
 # Guides
 - https://rsms.me/wasm-intro
+- https://sebastiano.tronto.net/blog/2025-06-06-webdev/
 - https://invidious.yoshixi.net/watch?v=3sU557ZKjUs&listen=false
 - https://invidious.yoshixi.net/watch?v=VGLnqkegX-g&listen=false
 - https://webassembly.github.io/spec/

@@ -7,3 +7,4 @@ The practice of speech, and how to effectively handle [[Communication]] through 
 - [[Public Speaking]]
 # Communicating
 - [[Brick Wall]]
+- [[Presentation Structure]]

@@ -6,4 +6,4 @@ tags:
 The package manager for rust
 # Good Packages
 - [[Cargo Binstall]]
-- [[Carg]]
+- [[Cargo Generate]]
