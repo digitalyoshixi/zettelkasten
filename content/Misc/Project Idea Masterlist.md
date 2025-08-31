@@ -53,3 +53,4 @@ tags:
 - [[Anki]] but with voice recognition, and can directly see how close you are to the answer, autoflips aswell
 - [[Java Virtual Machine|JVM]] decompiler
 - [[Fileless Malware]]
+- Obsidian plugin that connects your vault to all community vaults, so you can see the backlinks that other people have to your notes. Hosted on a [[Blockchain]]

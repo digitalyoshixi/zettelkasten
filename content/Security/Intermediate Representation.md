@@ -10,3 +10,6 @@ A reduced representation of machine code, similar to [[Assembly]] that sits in t
 It is capable of being ran through a [[Compiler]] or [[Virtual Machine]]. These reduced instructions can be in data structures like:
 - [[Python Tuple]]
 - Stack-based code
+# Concepts
+- [[Compiler Frontend]]
+- [[Compiler Backend]]

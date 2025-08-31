@@ -9,8 +9,8 @@ We can migrating low level software written in [[Rust]], [[C]], [[COBOL]] in a w
 It consists of web assembly [[Bytecode]] compiled to WASM binary.
 # Creating WASM Binaries
 1. Use [[Web Assembly Text]]
-2. Use [[Emscripten]] to convert C/C++ program to WASM
-3. Use [[AssemblyScript]] to convert [[TypeScript]] into WASM
+2. Use [[Emscripten]] to convert C/C++ program to [[WASM Module]]
+3. Use [[AssemblyScript]] to convert [[TypeScript]] into [[WASM Module]]
 # WASM In the Browser
 ![[Web Assembly-20250831123806105.webp]]
 - WASM must be instantiated by a javascript handler, as it cannot talk to the [[Document Object Model|DOM]] directly.
@@ -60,6 +60,7 @@ wat2wasm myfile.wat
 - [[Web Assembly System Interface]]
 - [[Web Assembly Binary Toolkit]]
 - [[wasmtime]]
+- [[ASMjs]]
 # Guides
 - https://rsms.me/wasm-intro
 - https://invidious.yoshixi.net/watch?v=3sU557ZKjUs&listen=false
