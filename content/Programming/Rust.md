@@ -4,6 +4,8 @@ tags:
 ---
 A Low-level systems programming language that allows for memory safety.
 # Installation
+ [[Rustup]] (recommended)
+### Alternate Installation
 `sudo pacman -S rust rust-cargo`
 # Compile and Run (rustc)
 1. `rustc file.rs`
@@ -33,6 +35,10 @@ A Low-level systems programming language that allows for memory safety.
 - [[Rust FileIO]]
 - [[Rust Strings]]
 - [[Rust Regex]]
+- [[Rustup]]
+- [[Cargo]]
+# Guides
+- [[Rust With WASM Setup]]
 # Rust Boilerplate
 ```rust
 fn main(){
