@@ -54,6 +54,14 @@ ret // returns to main's initial address
 ### Branching
 - [[x86 jmp]]
 ### String/Rep Instructions
+- [[x86 movsx]]
+- [[x86 cmpsx]]
+- [[x86 stosx]]
+- [[x86 scasx]]
+##### Repeat Prefixes
+- [[x86 rep]]
+- [[x86 repe]]
+- [[x86 repne]]
 # Notation
 - [[x86 Variable Dereferencing]]
 
