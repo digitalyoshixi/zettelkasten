@@ -7,8 +7,7 @@ Decompilation, disassembling and debugging tool for a variety of different file 
 - [[IDA View Pseudocode]]
 - [[IDA Run Script]]
 - [[IDA xrefs]]
-
-- [[IDA Jump]]
+- [[IDA Jump to Address]]
 # Concepts
 - [[IDA Database]]
 - [[IDA Graph View Toggle]]
