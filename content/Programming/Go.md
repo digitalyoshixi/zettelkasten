@@ -14,9 +14,9 @@ A high-performance language designed to be used for a website's backend.
 - [[Go Datatypes]]
 - [[Go Arrays]]
 - [[Go Slices]]
-- [[Go string]]
-- [[Go fmt]]
 - [[Go Libraries]]
+	- [[Go string]]
+	- [[Go fmt]]
 - [[Go copy]]
 - [[Go len]]
 - [[Go cap]]
@@ -29,15 +29,20 @@ A high-performance language designed to be used for a website's backend.
 - [[Go JSON]]
 - [[Go CORS]]
 - [[Goroutine]]
+# Initialize Module
+```
+go mod init mymodule
+```
 # Boilerplate
 ```go
-package main  
-import "fmt"  
-  
-func main() {  
-  fmt.Println("Hello World!")  
+package main
+import "fmt"
+
+func main(){
+	fmt.Println("I hope i get the job!");
 }
 ```
 # Running
-`go run main.go`
-# Getting Packages
+```
+go run main.go
+```

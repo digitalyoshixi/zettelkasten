@@ -35,6 +35,7 @@ echo \
 - [[Docker Copy Files to Host]]
 - [[Docker Compose]]
 - [[Docker Nuke Everything]]
+- [[Docker Inspect]]
 # Concepts
 - [[Containers]]
 - [[Kubernetes Pod]]
