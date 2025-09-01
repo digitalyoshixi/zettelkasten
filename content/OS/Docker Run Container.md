@@ -2,6 +2,7 @@
 tags:
   - virtualization
 ---
+# Run Expose Port
 ```
 docker run -d -p 1024:1024 <tagname>
 ```
@@ -14,7 +15,14 @@ running `docker ps` will show that the image is running
 docker run -d -p 1024:1024 -t <tagID>
 ```
 ![[Docker-20240910011418210.webp]]
+# Run Privileged
 ```
 docker run -it --privileged <tagname>
 ```
 ![[Docker-20240915002345746.webp]]
+# Run Mounted Volume
+1. [[Docker Volume|Create Docker Volume]]
+2. 
+```
+docker run --restart=always -v myvolumename:/app -d mydockerimg:latest
+```
