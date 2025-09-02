@@ -2,6 +2,8 @@
 tags:
   - math
   - discrete_math
+aliases:
+  - Multiplication Rule
 ---
 If a procedure can be broken down into a sequence of $m$ tasks where there is:
 - $n_{1}$ ways to do the first task

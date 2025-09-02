@@ -3,8 +3,13 @@ tags:
   - math
 ---
 Tools for analyzing situations where there is overlap among sets.
-in line with [[Inclusive Exclusive Probabilities]]. 
-
+![[Venn Diagrams-20250902143720151.webp|344]]
+- [[Outcome|Outcomes]] are expressed as dots
+- [[Event|Events]] are expressed as a collection of dots
+- [[Sample Space]] is rectangle
+# Example
+Rolling a 6-sided dice:
+![[Venn Diagrams-20250902143815317.webp|243]]
 # Common Elements
 elements in one set, being in another set as well
 ![[Pasted image 20230925124943.png]]

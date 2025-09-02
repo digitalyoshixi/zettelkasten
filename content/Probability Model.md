@@ -10,3 +10,4 @@ A combination of:
 $$
 (S , \{ A,B,\dots \}, P)
 $$
+All probability models must satisfy [[Probability Axioms]] to remain consistent.

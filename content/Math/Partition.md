@@ -2,6 +2,8 @@
 tags:
   - calculus
 ---
+A collection of [[Disjoint]] sets that [[Union]] to form the [[Sample Space]]
+# Formal Definition
 A partition of $[a,b]$ is a finite collection of points in $[a,b]$ s.t:
 - One of the endpoints is $a$ and another endpoint is $b$
 - The union of all subintervals is equal to $[a,b]$

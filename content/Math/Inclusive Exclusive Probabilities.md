@@ -2,7 +2,6 @@
 tags:
   - math
 aliases:
-  - Mutually Excusive
   - NonExclusive
   - Exclusive
   - Inclusive
