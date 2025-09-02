@@ -8,8 +8,7 @@ These are dynamic arrays in C++
 #include <vector>
 
 vector<string> cars;
-vector<string> carsfixedsize;
-carsfixedsize.reserve(3);
+vector<string> carsfixedsize(3,0); // init 3 to 0
 vector<string> cars2 = {"Volve", "BMW", "Ford"};
 
 for (string car : cars2){
