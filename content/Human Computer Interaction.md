@@ -7,6 +7,7 @@ aliases:
   - HCI
 ---
 The study as to how humans interact with software, and how computers can better fufill their purpose.
+The field emerged after [[Apple Macintosh]] was developed
 ![[Human Computer Interaction-20250902183217787.webp|235]]
 Responsible for maintaining the design and evaluation of systems.
 # Notes
@@ -21,6 +22,7 @@ Responsible for maintaining the design and evaluation of systems.
 - [[Moores Law]]
 - [[Moores Psychology Law]]
 - [[Eniac]]
+- [[As We May Think]]
 - [[Ivan Sutherland Sketchpad]]
 - [[Mouse]]
 - [[Joystick]]
