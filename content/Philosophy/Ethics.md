@@ -11,3 +11,7 @@ A system of moral values that answers normative questions like:
 The [[Normative Facts|Standards]] of what is good/bad imposed by some outside group or society
 # Books
 - [[Answering Moral Skepticism]]
+# Types
+- [[Metaethics]]
+- [[Normative Ethics]]
+- [[Applied Ethics]]
