@@ -12,8 +12,10 @@ A course about the ethics of medicine.
 - Oct 10 quiz (10%)
 - Ethics consultation simulation (20%)
 - Ethics consultation simulation (27%)
-- Oral exam (33%)
+- Oral exam (33%) - meet with your TA and you will answer 2/5 discussion-based questions. oral exam is 20min per person, 7.5 mins for each question. No aids allowed
 - Tutorial (10%)
 - Drop-in-times Weds 1pm-2pm Thurs 11am-12pm zoom https://utoronto.zoom.us/j/3147121578 passcode 103099
 # Concepts
+### Week 1
 - [[Genetic Blindness Thought Experiment]]
+- [[Confidentiality]]
