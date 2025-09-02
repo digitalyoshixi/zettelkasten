@@ -2,6 +2,8 @@
 tags:
   - probability
   - statistics
+aliases:
+  - Inclusion-Exclusion Principle
 ---
 ![[Inclusion-Exclusion Rule-20250902140257052.webp]]
 # Rule
