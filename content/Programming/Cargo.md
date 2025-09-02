@@ -5,6 +5,11 @@ tags:
 ---
 The package manager for rust
 # Creating Project
+### Current Project
+```
+cargo init
+```
+### New Project
 ```
 cargo new myproj
 cd myproj

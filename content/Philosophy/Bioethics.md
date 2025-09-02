@@ -8,6 +8,7 @@ aliases:
 ---
 A course about the ethics of medicine.
 # Notes
+- Proc Eric Mathison
 - Ethics consultation simulations will require you to record a video to your response of a situtation
 - Oct 10 quiz (10%)
 - Ethics consultation simulation (20%)
@@ -19,3 +20,5 @@ A course about the ethics of medicine.
 ### Week 1
 - [[Genetic Blindness Thought Experiment]]
 - [[Confidentiality]]
+- [[Clinical Ethics]]
+- [[Research Ethics]]
