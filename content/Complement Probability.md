@@ -2,10 +2,12 @@
 tags:
   - probability
   - statistics
+aliases:
 ---
-## Complement Probability
-The opposite of the favorable outcome probability.
-Its written as A' or ~A. A prime or tilda A.
+The likelihood that an event will not happen.
+It is the opposite of the favorable outcome probability.
+Denoted as A' or ~A. A prime or tilda A.
+Defined in [[Complement Rule]]
 $$
 P + \tilde{P} = 1
 $$

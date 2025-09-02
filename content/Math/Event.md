@@ -1,6 +1,10 @@
 ---
 tags:
   - math
+  - probability
+  - statistics
+aliases:
+  - Events
 ---
 A subset of the [[Sample Space]].
 Usually labelled in capital letters:

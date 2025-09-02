@@ -13,4 +13,3 @@ A tuple $\{ 1,\dots,n \}$ with size $n$
 A tuple $\{ a \}$ with a single item
 ### 2-Tuple
 A tuple $\{ a,b \}$ with two items
-

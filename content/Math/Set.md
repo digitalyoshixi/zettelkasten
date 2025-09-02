@@ -1,6 +1,8 @@
 ---
 tags:
   - math
+aliases:
+  - Sets
 ---
 # Definition
 A collection of elements where:

@@ -2,7 +2,7 @@
 tags:
   - math
 ---
-tools for analyzing situations where there is overlap among sets.
+Tools for analyzing situations where there is overlap among sets.
 in line with [[Inclusive Exclusive Probabilities]]. 
 
 # Common Elements

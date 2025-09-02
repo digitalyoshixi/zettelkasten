@@ -12,13 +12,19 @@ Describing the likelihood of an [[Event]] from $[0,1]$.
 # Probability
 The probability is the [[Set Cardinality]] of an [[Event|Event]] divided by the [[Set Cardinality]] of the sample space.
 $$\frac{|E|}{|S|}$$
+# Concepts
+- [[Probability Function]]
+- [[Complement Probability]]
 ### Likelihoods
 - [[Equally Likely]]
-## Types of probability
+### Types of probability
 - [[Empirical Probability]]
 - [[Theoretical probability]]
 - [[Conditional Probability]]
 - [[Subjective probability]]
-# Rules
+### [[Probability Rules]]
+- [[Probability Axioms]]
 - [[Probability Sum Rule]]
-- [[Complement Probability]]
+- [[Complement Rule]]
+- [[Inclusion-Exclusion Rule]]
+- [[Law of Total Probability]]
