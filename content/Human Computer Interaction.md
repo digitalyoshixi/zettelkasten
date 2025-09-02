@@ -26,3 +26,6 @@ Responsible for maintaining the design and evaluation of systems.
 - [[Joystick]]
 - [[Lightpen]]
 - [[Grafacon]]
+- [[Knee Activated Lever]]
+- [[Laptop|Notebook]]
+- [[Personal Computer]]
