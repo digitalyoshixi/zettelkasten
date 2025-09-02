@@ -4,8 +4,12 @@ tags:
 aliases:
   - Binomial Coefficient
 ---
- $_n$C$_r$ or C(n,r) or (n/r).
-A selection from a group of items without regard to order
+A unordered collection of $k$ objects without repetition from $n$ possible objects.
+It is a selection from a group of items without regard to order.
+# Notation
+ - $_nC_r$
+ - $C(n,r)$
+ - $C_{n}^{r}$
 # Combinations Formula
 $_{n}C_{r} = \frac{_{n}P_{r}}{r!}$
  = $\frac{n!}{(n-r)!(r!)}$

@@ -186,7 +186,7 @@ aliases:
 - [[Finite Fields Have a Multiplicative Inverse]]
 - [[Principle Ideal Domain Greatest Common Denominator Exists as Linear Combination Theorem]]
 - [[Creating a Field from a Principal Ideal Domain]]
-- [[Permutations]]
+- [[Set Permutations]]
 - [[Determinant]]
 - [[Linear Transformation Rotation|Rotation Matrix]]
 - [[Eigenvector]]
