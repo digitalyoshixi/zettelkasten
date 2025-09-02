@@ -9,7 +9,6 @@ tags:
 https://www.learncpp.com/
 
 C++ or CPP is the advanced version of [[C]] which is primarily used for higher level, optimized object oriented programming.
-**Honestly C++ is just better in every way opposed to C. C is primarily used for embedded devices which are not able to run C++**
 # C++ Building
 1. Create the .cpp program to solve a problem
 2. [[Compiler|Compile]] the program using g++ or another compiler
@@ -19,7 +18,7 @@ C++ or CPP is the advanced version of [[C]] which is primarily used for higher l
 Alternatively, you can use automated build tools such as `make` or `build2`, however it is often better to build from hand
 
 ### My compile command
-`g++ -o myfile -g myfile.cpp`
+`g++ -o myfile -g -std=c++20 myfile.cpp`
 -o makes a new object file
 -g enables debugging symbols
 ##### Compiling with different directory includes
@@ -101,6 +100,7 @@ int main(int argc, char const *argv[])
 - [[C++ Strings]]
 - [[C++ Vectors]]
 - [[C++ Map]]
+- [[C++ Unordered Map]]
 - [[C++ Set]]
 - [[C++ Unordered Set]]
 - [[C++ Style Guides]]
