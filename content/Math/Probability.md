@@ -2,16 +2,18 @@
 tags:
   - math
 ---
-To find what might happen and the likelihood of it happening. 
+Describing the likelihood of an [[Event]] from $[0,1]$.
+- 0 Means will not happen
+- 1 Means guaranteed to happen
 # Definitions
-- **Experiment:** a defined procedure that results in a single distinguishable outcome
-- **Sample Space:** The set containing all possible outcomes
-- **Event:** A subset of the sample space
+- [[Experiment]]
+- [[Sample Space]]
+- [[Event]]
 # Probability
-The probability is the [[Set Cardinality]] of an [[Events|Event]] divided by the [[Set Cardinality]] of the sample space.
+The probability is the [[Set Cardinality]] of an [[Event|Event]] divided by the [[Set Cardinality]] of the sample space.
 $$\frac{|E|}{|S|}$$
 ### Likelihoods
-**Equally Likely** - All outcomes have the same probability to occur
+- [[Equally Likely]]
 ## Types of probability
 - [[Empirical Probability]]
 - [[Theoretical probability]]
@@ -19,8 +21,4 @@ $$\frac{|E|}{|S|}$$
 - [[Subjective probability]]
 # Rules
 - [[Probability Sum Rule]]
-## Complement Probability
-The opposite of the favorable outcome probability.
-Its written as A' or ~A. A prime or tilda A.
-Its very easy to find out. since: **Probability of winning + Probability of losing = 100%**
-so just do 100% - Probability of winning = Probability of losing.
+- [[Complement Probability]]

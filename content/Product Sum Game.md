@@ -1,13 +1,8 @@
 ---
 tags:
-  - math
+  - probability
+  - statistics
 ---
-Possible outcomes of an experiment grouped.
-
-Events are usually labeled in capital letters.
-
-## Outcomes and events
-### Product sum game
 Certain problems like the product sum game can have their permutations listed out in a table.
 
 In the example of the Product sum game, the rules are, Player A and Player B have 3 numbers to choose from: {1,2,3}. 

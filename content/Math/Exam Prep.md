@@ -63,7 +63,7 @@ Used from chapter 4-7:
 
 # Probability(Chapter 6)
 - [[Probability]]
-- [[Events]]
+- [[Event]]
 	- [[Inclusive Exclusive Probabilities]]
 - [[Odds]]
 - [[Probability Using Counting techniques]]
