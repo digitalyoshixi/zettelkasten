@@ -10,6 +10,6 @@ Example:
 - It will not snow
 # Premise Strength
 ### Weak Premise
-- One that assumes at a minimum
+- One that assumes a minimum ([[Occam's Razor|Occams Razor]])
 ### Strong Premise
 - One premise that assumes a lot

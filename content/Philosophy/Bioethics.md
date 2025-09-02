@@ -22,3 +22,6 @@ A course about the ethics of medicine.
 - [[Confidentiality]]
 - [[Clinical Ethics]]
 - [[Research Ethics]]
+- [[Premise]]
+- [[Argument]]
+- [[Fun Incest Thought Experiment]]

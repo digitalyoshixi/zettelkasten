@@ -32,15 +32,17 @@ A Low-level systems programming language that allows for memory safety.
 - [[Rust ?]]
 - [[Rust Iterators]]
 - [[Rust Allow Unused Variables]]
-- [[Rust FileIO]]
 - [[Rust Strings]]
 - [[Rust Regex]]
 - [[Rustup]]
 - [[Cargo]]
 - [[wasm-bindgen]]
 - [[rustfmt]]
+- [[Rust io]]
+- [[Prelude]]
 # Guides
 - [[Rust with WASM Guide]]
+- [[Rust FileIO]]
 # Rust Boilerplate
 ```rust
 fn main(){
