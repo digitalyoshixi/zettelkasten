@@ -14,6 +14,9 @@ unordered_map<string, int> people = { {"John", 32}, {"Adele", 45}, {"Bo", 29} };
 int boage = people["Bo"]
 // access with exceptions if does not exist
 int boagesafe = people.at("Kenny"); 
+// check if item exists in hashmap
+if (people.find("f") != people.end()) cout << "exists";
+
 // set new value
 people["Daniel"] = 20;
 // Print the key-value pairs
