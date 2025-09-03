@@ -19,7 +19,7 @@ First choose $x$, then prove both  $x \in D$ and $P(x)$ are true.
 # Proof Types
 ### Proving
 - [[Proof By Direct Proof]]
-- [[Proof By Contra-Positive]]
+- [[Proof By Contrapositive]]
 - [[Proof By Contradiction]]
 - [[Proof By Counter Example]]
 - [[Proof By Induction]]

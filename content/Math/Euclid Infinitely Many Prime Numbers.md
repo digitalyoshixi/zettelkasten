@@ -3,7 +3,7 @@ tags:
   - math
 ---
 [[Theorem]]: There are infinitely many prime numbers.
-# [[Proof By Contra-Positive|Proof by Contra-positive]]
+# [[Proof By Contrapositive|Proof by Contra-positive]]
 **pf:**
 Suppose there are finitely many prime numbers $\{p_{2},p_{2},p_{3}\dots p_{n}\}$
 Let $m = p_{1} * p_{2} * p_{3} \dots * p_{n}$

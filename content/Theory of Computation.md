@@ -22,6 +22,7 @@ aliases:
 - [[Mathematical Maturity]]
 - [[Math Proof]]
 - [[Atomic Symbols]]
+- [[Mathematical Statement]]
 - [[Mathematical Predicate]]
 - [[Universal Instantiation]]
 - [[Witness]]

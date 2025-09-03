@@ -20,7 +20,7 @@ Consider
 - Then, we have more than one element acts as the [[Multiplicative Identity]]. Thus, $Z_{6}$ is not a field!
 ### Showing $Z_{p}$  where $p$ is [[Prime Number]] is [[Field|Field]]
 ##### Proving $\implies$
-[[Proof By Contra-Positive]].
+[[Proof By Contrapositive]].
 - Suppose $p$ is not prime, then $p$ is a [[Composite Number]]. by defn of [[Congruent Modulo]] as $n \geq 2$
 - Thus, $p = ab$ where $ab \in \{ 0,\dots ,p-1 \}$, $ab \mod p = 0$, but $a\neq 0, b\neq 0$ so $\mathbb{Z}_{p}$ fails the last property
 ##### Proving $\Longleftarrow$

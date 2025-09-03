@@ -2,7 +2,9 @@
 tags:
   - math
   - proofs
-aliases: []
+aliases:
+  - Proof by Contra-Positive
+  - Proof by Contraposition
 ---
 Assume $\neg Q$ and conclude $\neg P$.
 Proof by showing that when assuming the result to be false, there will also be a false condition 
