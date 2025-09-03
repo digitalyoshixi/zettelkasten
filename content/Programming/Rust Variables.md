@@ -18,7 +18,7 @@ Variables that have their values thrown away immediately after.
 let _ = somefunc();
 ```
 
-# Mutability
+# [[Rust Mutability]]
 By default, all variables in rust are immutable. To make something mutable you must use the `mut` keyword.
 ```rust
 let mut doorstatus = false;

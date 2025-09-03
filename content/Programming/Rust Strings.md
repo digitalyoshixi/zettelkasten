@@ -2,6 +2,10 @@
 tags:
   - rust
 ---
+# String 
+```rust
+
+```
 # Splitting String
 ```rust
 let v: Vec<&str> = "Mary had a little lamb".rsplit(' ').collect();

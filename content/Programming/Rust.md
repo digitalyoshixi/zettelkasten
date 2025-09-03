@@ -17,6 +17,7 @@ A Low-level systems programming language that allows for memory safety.
 # Concepts
 - [[Rustc]]
 - [[Rust Variables]]
+- [[Rust Mutability]]
 - [[Rust Tuple]]
 - [[Rust Functions]]
 - [[Rust Conditional Statements]]
