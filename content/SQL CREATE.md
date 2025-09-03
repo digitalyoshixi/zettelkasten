@@ -14,7 +14,7 @@ CREATE TABLE table_name (
 ```sql
 CREATE TABLE Persons (
 	column_1 INTEGER NOT NULL,
-	column_2 INTEGER NOT NULL,
+	column_2 INTEGER,
     PRIMARY KEY(column_1)
 );
 ```
