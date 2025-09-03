@@ -10,3 +10,7 @@ enum Result<T, E>{
 	Err(E)
 }
 ```
+# Methods
+### .expect("message")
+- If the result returned `Err(E)`, then the program will crash and display string
+- If the result returned `Ok(T)`, expect will return the value within `Ok(T)`

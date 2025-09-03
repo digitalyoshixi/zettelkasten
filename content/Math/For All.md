@@ -2,6 +2,8 @@
 tags:
   - math
   - proofs
+aliases:
+  - Universal Quantifier
 ---
 A [[Quantifier]]
 $$\forall$$

@@ -2,6 +2,8 @@
 tags:
   - math
   - proofs
+aliases:
+  - Existential Quantifier
 ---
 A [[Quantifier]].
 $$\exists$$

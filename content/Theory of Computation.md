@@ -1,6 +1,6 @@
 ---
 tags:
-  - programming
+  - proofs
 aliases:
   - CSCB36
 ---
@@ -17,6 +17,12 @@ aliases:
 - Term test 1 20%
 - Term test 2 20%
 - The media gallery has 2021 videos for future review
+- Everytime you use a [[Indirect Proof]], you must explitly show
 # Concepts
 - [[Mathematical Maturity]]
 - [[Math Proof]]
+- [[Atomic Symbols]]
+- [[Mathematical Predicate]]
+- [[Universal Instantiation]]
+- [[Witness]]
+- [[Indirect Proof]]

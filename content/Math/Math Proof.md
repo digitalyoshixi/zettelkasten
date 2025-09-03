@@ -23,8 +23,10 @@ First choose $x$, then prove both  $x \in D$ and $P(x)$ are true.
 - [[Proof By Contradiction]]
 - [[Proof By Counter Example]]
 - [[Proof By Induction]]
+- [[Proof by Strong Induction]]
 #### Subtypes
 - [[Exhaustive Proof]]
+- [[Proof by Disjunction]]
 ### 'Real Proofs'
 https://jwilson.coe.uga.edu/EMT668/EMAT6680.F99/Challen/proof/proof.html
 # Proofs
@@ -35,6 +37,8 @@ https://jwilson.coe.uga.edu/EMT668/EMAT6680.F99/Challen/proof/proof.html
 - [[Square Root Function Increasing Proof]]
 # Philosophy
 - [[Mathematical Communication]]
+- [[Rigor]]
+- [[Mathematical Maturity]]
 # Properties, Laws, Axioms, Etc.
 - [[Triangle Inequality]]
 - [[Reverse Triangle Inequality]]
