@@ -15,7 +15,11 @@ A Low-level systems programming language that allows for memory safety.
 2. After writing all files, do `cargo build`
 3. `cargo run` will run the .rs file in `/src`
 # Concepts
+### Tools
+- [[Cargo]]
+- [[Rustup]]
 - [[Rustc]]
+### Foundation
 - [[Rust Variables]]
 - [[Rust Mutability]]
 - [[Rust Tuple]]
@@ -27,16 +31,17 @@ A Low-level systems programming language that allows for memory safety.
 	- [[Rust Struct Implementation]]
 - [[Rust Vector]]
 - [[Rust Macro]]
-- [[Rust Panic]]
 - [[Rust Enums]]
-- [[Rust Expect]]
-- [[Rust ?]]
 - [[Rust Iterators]]
-- [[Rust Allow Unused Variables]]
 - [[Rust Strings]]
+### Errors & Handling
+- [[Rust Panic]]
+- [[Rust Expect]]
+- [[Rust Result]]
+- [[Rust ?]]
+- [[Rust Allow Unused Variables]]
+### Extra
 - [[Rust Regex]]
-- [[Rustup]]
-- [[Cargo]]
 - [[wasm-bindgen]]
 - [[rustfmt]]
 - [[Rust io]]
