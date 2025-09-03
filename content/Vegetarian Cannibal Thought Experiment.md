@@ -5,7 +5,7 @@ tags:
 ---
 # Though Experiment
 - Jennifer works as a research assistant
-- Jennifer is a vegetarian and thinks wasting life is bad
+- Jennifer is a vegetarian and thinks killing for meat is immoral
 - Cadaver donated will be cremated
 - Jennifer thinks this is a waste so she removes a segment of the cadaver, thoroughly cooks and eats it
 - Is there anything wrong with what she did?

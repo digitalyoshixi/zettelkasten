@@ -39,7 +39,7 @@ A Low-level systems programming language that allows for memory safety.
 - [[wasm-bindgen]]
 - [[rustfmt]]
 - [[Rust io]]
-- [[Prelude]]
+- [[Rust Prelude]]
 # Guides
 - [[Rust with WASM Guide]]
 - [[Rust FileIO]]

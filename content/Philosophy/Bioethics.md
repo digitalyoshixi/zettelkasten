@@ -23,5 +23,6 @@ A course about the ethics of medicine.
 - [[Clinical Ethics]]
 - [[Research Ethics]]
 - [[Premise]]
-- [[Argument]]
 - [[Fun Incest Thought Experiment]]
+- [[Argument]]
+- [[Vegetarian Cannibal Thought Experiment]]
