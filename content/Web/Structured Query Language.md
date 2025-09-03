@@ -17,6 +17,7 @@ Data is stored in tables
 - One-to-many
 - Many-to-many
 # SQL Operations
+- [[SQL CREATE]]
 - [[SQL Insert]]
 - [[SQL Update]]
 - [[SQL Drop]]
