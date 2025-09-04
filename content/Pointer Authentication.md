@@ -3,4 +3,6 @@ tags:
   - security
 ---
 A security mechanism to prevent:
-- Code execution
+- Code injection
+- Memory corruption
+Assigns each pointer a cryptographic code.

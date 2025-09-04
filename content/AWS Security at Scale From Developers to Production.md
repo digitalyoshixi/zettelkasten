@@ -23,3 +23,27 @@ A talk by Luis pastor by [[Amazon Web Services|AWS]]
 - 2.7 scans to probe open [[AWS Simple Storage Service|AWS S3]] buckets
 - [[Access Control Model|ACL]] is still important 
 - [[AWS Shield]]
+- [[Identity and Access Management|IAM]] issues include:
+	- Remote work, we need to be able to have VPN
+	- Growth of customer-facing applications that require customers to login and have the right permissions
+- [[Identity and Access Management|IAM]] is a top priority for compliance requirements
+- [[AWS Cognito]]
+- 4 Data protection requirements:
+	- [[Encryption at Rest]], Backups and integrity or a [[Write Once Read Many Model]]
+	- [[Encryption in Transit]]
+	- Encrypted application secrets
+- [[AWS Key Management System]]
+- [[AWS Firewall Manager]] is a centralized tool used to manage network security
+- [[Amazon GuardDuty]]
+- [[Amazon Secure Lake]]
+- [[Generative AI]] used for the menial work
+	- [[Defense In Depth]]
+		- Policies and procedures andawarenress
+		- IAM
+		- threat detetion an d IR
+		- Infrastructure protection
+- GenAI is often used as an assistant for developing code, finding threats
+- [[Amazon Detective]]
+- [[Amazon Insecptor]]
+- [[Amazon Macie]]
+- If you are making a tool that is like 
