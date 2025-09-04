@@ -4,6 +4,7 @@ tags:
 ---
 A talk by [[Wiz]].
 # Notes
+- Shift Left: Moving security back to the code (Left of the pipeline)
 - Shifting left will prevent any account credential theft
 - Attack at CISA involved gaining access to a company's github code in a repo containing a AWS token
 - Misconfigurations: Inital code or cloud access -> Lateral movement -> Siezing of crown jewels
@@ -17,3 +18,6 @@ A talk by [[Wiz]].
 	- Wiz then made [[Wiz Code]]
 	- Wiz then made [[Wiz Defend]]
 - [[Cloud Security Maturity Framework]]
+- [[Extended Berkley Packet Filter]]
+- Wiz can tell you the blast radius, what an attacker has access to, how to isolate immediately
+- Assets delivered by [[Content Delivery Network|CDN]] are also very risky, 'this is shifting right'
