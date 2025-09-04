@@ -10,3 +10,4 @@ Powerful customizable fork of vim
 - [[Nvchad]]
 - [[Lazy Nvim]]
 - [[Luasnips]]
+- [[Nvim LSP]]
