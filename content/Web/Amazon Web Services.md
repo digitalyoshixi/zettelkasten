@@ -61,6 +61,7 @@ A cloud platform that provides:
 ### Machine Learning
 - [[AWS Data Exchange]]
 - [[AWS Sagemaker]]
+- [[AWS PartyRock]]
 - [[AWS Rekognition]]
 - [[AWS Lex]]
 - [[AWS Deep Racer]]
