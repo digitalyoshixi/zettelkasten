@@ -23,6 +23,7 @@ Data is stored in tables
 - [[SQL Drop]]
 - [[SQL Select]]
 - [[SQL Join]]
+- [[SQLite View Columns]]
 # SQL Constaints
 ### SERIAL
 Denotes unique integer numbers for IDs
