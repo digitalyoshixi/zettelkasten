@@ -6,7 +6,7 @@ A talk by [[Wiz]].
 # Notes
 - Shift Left: Moving security back to the code (Left of the pipeline)
 - Shifting left will prevent any account credential theft
-- Attack at CISA involved gaining access to a company's github code in a repo containing a AWS token
+- Attack at [[CISA 2025 Attack]] involved gaining access to a company's github code in a repo containing a AWS token
 - Misconfigurations: Inital code or cloud access -> Lateral movement -> Siezing of crown jewels
 - The goal for attackers is to 
 - The [[Software Development Life Cycle|SDLC]] where Code -> Pipeline -> Cloud -> Runtime

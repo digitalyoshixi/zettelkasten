@@ -46,4 +46,4 @@ A talk by Luis pastor by [[Amazon Web Services|AWS]]
 - [[Amazon Detective]]
 - [[Amazon Insecptor]]
 - [[Amazon Macie]]
-- If you are making a tool that is like 
+- If you are making a tool that is like an security assistant, focus on the architecture you'r environment is using, and what sort of attackers are known and will be exploited
