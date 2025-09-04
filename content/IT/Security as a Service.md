@@ -7,5 +7,5 @@ aliases:
 ---
 Providing cybersecurity as a service
 # Implementations
-- [[CrowdStrike]]
+- [[Security/CrowdStrike]]
 - [[Trend Micro]]
