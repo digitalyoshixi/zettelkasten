@@ -5,7 +5,6 @@ tags:
 aliases:
   - If and only if
   - iff
-  - Unless
 ---
 $A \iff B$.
 This is equivalent to saying $A \implies B\ \cap B \implies A$.

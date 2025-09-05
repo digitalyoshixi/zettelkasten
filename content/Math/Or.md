@@ -4,6 +4,7 @@ tags:
   - discrete_math
 aliases:
   - Or Gate
+  - Unless
 ---
 This is $\vee$
 ![[Or-20241010221322062.webp]]

@@ -5,6 +5,8 @@ tags:
 aliases:
   - Only If
   - Implies
+  - Necessary
+  - Sufficient
 ---
 $P \implies Q$.
 
