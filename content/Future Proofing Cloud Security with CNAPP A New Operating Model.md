@@ -36,4 +36,13 @@ A talk by Shashank Golla at [[Wiz]]
 	- Developing security guardrails early in te lifecycle
 - Starting from the [[Integrated Development Environment]] that [[Wiz Code]] acts as a extension, has guard rails
 - Wiz security cloud can view from [[Terraform]] file, so that you can actually see any exposed cloud services
-- Wiz allows for Democratization
+- Wiz allows for democratization by bringing many different teams to interface with their platform, Wiz is cohesive and will give custom dashboards, they can self-serve the portal themselves.
+- Wiz alert, answers 'so what' question, tell you why you should fix this, the impact of the vulnerability
+- Wiz allows creation of projects to tailor make differnt interfaces
+- Services are checked and found for services that are related, We can attach clear ownership of who the developer is, and send alerts directly
+- [[Wiz Lens]]
+- [[Wiz MCP]]
+- [[Wiz Defend]]
+- Root cause analysis can find the code owners, using [[Version Control System|VCS]] reading
+- [[Click-Ops]]
+- [[Palo Alto OAuth Token Breach]]
