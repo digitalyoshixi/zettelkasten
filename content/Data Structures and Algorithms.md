@@ -4,7 +4,7 @@ tags:
   - dsa
 ---
 # Data Structures
-- [[Graph]]
+- [[Programming/Graph]]
 - [[Tree]]
 - [[Hash Array]]
 - [[Hashmap]]
