@@ -19,6 +19,7 @@ aliases:
 - The media gallery has 2021 videos for future review
 - Everytime you use a [[Indirect Proof]], you must explitly show
 # Concepts
+### Week 1
 - [[Mathematical Maturity]]
 - [[Math Proof]]
 - [[Atomic Symbols]]
@@ -27,3 +28,8 @@ aliases:
 - [[Universal Instantiation]]
 - [[Witness]]
 - [[Indirect Proof]]
+- [[Conditional Statement|Implies]]
+- [[Or]]
+- [[Such That]]
+- [[Twin Prime]]
+- [[Twin Prime Conjecture]]
