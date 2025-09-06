@@ -16,3 +16,4 @@ aliases:
 - [[Level Sets]]
 - [[Limits Across Paths]]
 - [[Partial Derivative]]
+- [[Euclidean Space]]
