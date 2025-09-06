@@ -42,3 +42,6 @@ Course taught by Prof. Sotos.
 	- [[Multiplicative Counting Principle]]
 	- [[Permutations]]
 	- [[Combinations]]
+- [[Partial Derivative]]
+- [[Jacobian Matrix]]
+- [[Multiple Integral]]
