@@ -13,6 +13,7 @@ aliases:
 ### Week 1
 - [[Programming/Graph]]
 - [[Multidimensional Limits]]
+- [[Graph Slice]]
 - [[Level Sets]]
 - [[Limits Across Paths]]
 - [[Partial Derivative]]
