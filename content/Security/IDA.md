@@ -18,3 +18,6 @@ Decompilation, disassembling and debugging tool for a variety of different file 
 - [[IDA Graph View Toggle]]
 - [[Rebasing]]
 - [[IDA Navigational Band]]
+- [[Fast Library Identification and Recognization Technology|FLIRT]]
+- [[gooMBA]]
+- [[Makesig]]
