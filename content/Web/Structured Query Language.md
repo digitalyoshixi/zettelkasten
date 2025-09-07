@@ -9,9 +9,7 @@ It is [[Create Read Update Delete|CRUD]] supported
 Data is stored in tables
 # Concepts
 - [[SQL Table]]
-# Query Types
-### SELECT Queries
-![[Structured Query Language-20240802195210682.webp]]
+- [[SQL Datatype]]
 # SQL DB Relationships
 - One-to-one
 - One-to-many
@@ -24,13 +22,13 @@ Data is stored in tables
 - [[SQL Select]]
 - [[SQL Join]]
 - [[SQLite View Columns]]
+- [[SQLite Rename Column]]
+- [[SQLite Insert Column]]
+- [[SQL Change Column Datatype]]
 # SQL Constaints
-### SERIAL
-Denotes unique integer numbers for IDs
-### PRIMARY
-The column is the primary key
-### NOT NULL
-Cannot accept a null value
+- [[SQL Serial Constraint]]
+- [[SQL Primary Constraint]]
+- [[SQL NOT NULL Constraint]]
 # Connecting
 - [[psycopg2]]
 - [[Django]]
