@@ -12,6 +12,7 @@ Decompilation, disassembling and debugging tool for a variety of different file 
 - [[IDA Create Function]]
 - [[IDA Comment]]
 - [[IDA Rename]]
+- [[IDA Create Structure]]
 # Concepts
 - [[IDA Database]]
 - [[IDA Graph View Toggle]]
