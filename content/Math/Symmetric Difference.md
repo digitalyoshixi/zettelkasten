@@ -1,6 +1,8 @@
 ---
 tags:
   - discrete_math
+aliases:
+  - Set XOR
 ---
 $$A \triangle B$$
 $A \triangle B = (A \setminus B) \cup (B \setminus A)$
