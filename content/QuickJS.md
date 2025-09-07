@@ -2,4 +2,4 @@
 tags:
   - web
 ---
-A embeddable JS
+A embeddable JS that includes a fast interpreter.
