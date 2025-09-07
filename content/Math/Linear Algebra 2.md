@@ -20,10 +20,6 @@ aliases:
 - 80% (1-2hrs per week) understanding what is presented
 - Late submission policy after 4 days
 - 30-40% of the assesments will be using the definitions, prove these basic properties...
-- There is a bonus quiz 6, which will be the material after quiz 5. It is extra material
-- The quiz will require you to reform numbers to match the [[Finite Field]]. E.g, in $\mathbb{Z} \mod 5$, $(x-2) = (x+3)$
-- [[Characterization of Triangularizability and Diagonalizability in Terms of the Minimal Polynomial]] is a very important theorem for the final
-- [[Matrix Definition of Cyclic Subspace|Companion Matrix]] is on the exam
 # Concepts
 ### Week 0.1
 - [[Field]]
