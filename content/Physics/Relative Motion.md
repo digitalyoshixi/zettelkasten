@@ -13,7 +13,7 @@ In relative motion, motion of an object is captured from a [[Inertial Reference 
 - [[Fictitious Force]]
 - [[Inertial Reference Frame]]
 - [[Relative Velocity]]
-	- [[Wind]]
+	- [[__wind]]
 	- [[Currents]]
 # Relative Velocity Subscripts
 $_{o}\overrightarrow v_{g}$ : velocity of **object** relative to **ground**

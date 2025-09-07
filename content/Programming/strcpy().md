@@ -4,8 +4,7 @@ tags:
   - binary_exploitation
 ---
 strcpy is prone to buffer overflows. Use [[strncpy()]] instead
-
-`strcpy(dest, src)`
+`char* strcpy(dest, src)`
 copy the src values into the dest address
 ```c 
 #include <string.h>
