@@ -3,6 +3,7 @@ tags:
   - docker
   - virtualization
 ---
+
 ```
 # Stop all containers
 sudo docker stop $(sudo docker ps -q)
