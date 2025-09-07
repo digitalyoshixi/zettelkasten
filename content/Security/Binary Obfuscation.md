@@ -15,3 +15,4 @@ tags:
 - [[Thread Hijacking]]
 - [[Movfuscator]]
 - [[Shikata ga nai]]
+- [[Function Inlining]] and [[Function Outlining]]

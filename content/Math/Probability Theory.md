@@ -45,3 +45,5 @@ Course taught by Prof. Sotos.
 - [[Partial Derivative]]
 - [[Jacobian Matrix]]
 - [[Multiple Integral]]
+- [[Change of Order of Integration]]
+- [[Change of Integration Variables]]

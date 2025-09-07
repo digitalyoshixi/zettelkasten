@@ -9,4 +9,5 @@ tags:
 - [[Value Numbering]]
 - [[Constant Folding]]
 - [[Function Inlining]]
+- [[Function Outlining]]
 - [[Common Subexpression Elimination]]
