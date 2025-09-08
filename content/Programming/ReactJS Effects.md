@@ -3,7 +3,6 @@ tags:
   - react
   - javascript
 aliases:
-  - Side Effects
   - useEffect()
 ---
 For requesting browser [[Application Program Interface|API]] or sending/recv to server
