@@ -10,3 +10,5 @@ This is a [[Functional Programming]] language.
 ```
 ghc -dynamic file.hs
 ```
+# Concepts
+- [[Referential Transparency]]

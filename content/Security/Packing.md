@@ -17,5 +17,6 @@ Packers will reduce the size of files, but also bundle in a program to unpack du
 - [[Ultimate Packer for eXecutables]]
 - [[VMProtect]]
 - [[Themida]]
+- [[CodeDefender]]
 # Packer Identifiers
 - [[PEiD]]
