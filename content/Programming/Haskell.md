@@ -5,8 +5,9 @@ tags:
 This is a [[Lazy Evaluation|Lazy Loading]] [[Statically Typed]] [[Functional Programming]] language with [[Type Inference]].
 `.hs` [[File Extension]].
 # Installation
-1. `sudo pacman -S ghc`
-2. `sudo pacman -S cabal-install`
+```
+sudo pacman -S ghc cabal-install
+```
 # Compile & Link
 ```
 ghc -dynamic file.hs
@@ -26,6 +27,7 @@ ghci
 - [[Haskell Unboxed Type|Haskell Primative]]
 - [[Runtime System|RTS]]
 - [[Haskell Tuple]]
+- [[Haskell Pair]]
 - [[Haskell List]]
 - [[Haskell Polymorphism]]
 ### FP
@@ -42,3 +44,7 @@ ghci
 - [[Haskell sqrt]]
 - [[Haskell head]]
 - [[Haskell tail]]
+- [[Haskell take]]
+- [[Haskell drop]]
+- [[Haskell fst]]
+- [[Haskell snd]]

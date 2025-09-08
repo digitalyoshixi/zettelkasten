@@ -6,7 +6,8 @@ aliases:
   - MATB41
 ---
 # Notes
-- Dr Tatiana Pilehrood
+- Prof: Dr Tatiana Pilehrood
+- TA: Tamis Panagiotakis
 - `parker.glynn.adey@utoronto.ca`
 - `t.hessamipilehrood@utoronto.ca`
 - Tutorial Schedule: https://q.utoronto.ca/courses/405948/pages/tutorial-schedule
@@ -32,3 +33,4 @@ aliases:
 - [[Finding Equation of Plane by Point and Normal Vector]]
 - [[Angle Between Two Planes]]
 - [[Intersection Between Two Planes]]
+- [[Normal Vector from Cartesian Equation of Plane]]
