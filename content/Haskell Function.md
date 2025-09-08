@@ -10,5 +10,5 @@ These are operations on haskell data.
 - [[Haskell Postfix Function]]
 # Defined Functions
 ```haskell
-myfunction x = x+x
+myfunction x y = x+x + y*2
 ```

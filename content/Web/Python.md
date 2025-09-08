@@ -12,6 +12,7 @@ Python is a bytecode virtual machine. You can see the [[Python Bytecode]] and ex
 - [[Python Lambda Functions]]
 - [[Python Map]]
 - [[Global Interpreter Lock]]
+- [[Python Duck Typing]]
 # Libraries
 - [[Python os]]
 - [[Sci-kit Learn]]

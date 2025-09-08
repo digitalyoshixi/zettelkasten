@@ -18,11 +18,13 @@ ghci
 # Concepts
 - [[Referential Transparency]]
 - [[Side Effects]]
-- [[ghci]]
+- [[Glasgow Haskell Compiler Interactive|ghci]]
 ### Essential
 - [[Haskell Operators]]
-- [[Haskell Datatype]]
+- [[Haskell Type]]
 - [[Haskell Boxed Types]]
+- [[Haskell Unboxed Type|Haskell Primative]]
+- [[Runtime System|RTS]]
 ### FP
 - [[Haskell $]]
 - [[Haskell Function]]

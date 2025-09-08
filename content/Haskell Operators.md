@@ -8,12 +8,12 @@ tags:
 | operator | usecase                                |
 | -------- | -------------------------------------- |
 | $        | [[Haskell $]]                          |
-| not      | Negate a [[Haskell Datatype\|Boolean]] |
+| not      | Negate a [[Haskell Type\|Boolean]] |
 # Binary
 
 | operator | usecase                                                     |
 | -------- | ----------------------------------------------------------- |
-| ==       | Check if equal and return [[Haskell Datatype\|Boolean]]     |
-| \\=      | Check if not equal and return [[Haskell Datatype\|Boolean]] |
-| &&       | [[And]] and return [[Haskell Datatype\|Boolean]]            |
-| \|\|     | [[Or]] and return [[Haskell Datatype\|Boolean]]             |
+| ==       | Check if equal and return [[Haskell Type\|Boolean]]     |
+| \\=      | Check if not equal and return [[Haskell Type\|Boolean]] |
+| &&       | [[And]] and return [[Haskell Type\|Boolean]]            |
+| \|\|     | [[Or]] and return [[Haskell Type\|Boolean]]             |
