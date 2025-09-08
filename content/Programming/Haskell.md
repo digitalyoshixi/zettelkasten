@@ -67,3 +67,4 @@ ghci
 - [[Haskell print]]
 - [[Haskell null]]
 - [[Haskell length]]
+- [[Haskell data]]

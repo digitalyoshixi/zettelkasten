@@ -19,3 +19,5 @@ aliases:
 ```
 Returns the type of `x`
 ![[Haskell Type-20250908141453183.webp]]
+# Creating New Datatypes
+- [[Haskell data]]
