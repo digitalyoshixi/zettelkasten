@@ -13,7 +13,7 @@ aliases:
 - Tutorial Schedule: https://q.utoronto.ca/courses/405948/pages/tutorial-schedule
 # Concepts
 ### Week 1
-- [[Graph]]
+- [[Math/Graph]]
 - [[Multidimensional Limits]]
 - [[Multi-Variate Function]]
 - [[Graph Slice]]

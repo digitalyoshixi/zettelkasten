@@ -48,3 +48,4 @@ ghci
 - [[Haskell drop]]
 - [[Haskell fst]]
 - [[Haskell snd]]
+- [[Haskell lines]]

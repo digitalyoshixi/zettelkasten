@@ -4,6 +4,7 @@ tags:
   - haskell
 ---
 These are operations on haskell data.
+You can view function signatures using [[Haskell Type|Haskell :type]]
 # Types
 - [[Haskell Infix Function]]
 - [[Haskell Prefix Function]]
