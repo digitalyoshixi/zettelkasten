@@ -32,6 +32,7 @@ ghci
 - [[Haskell Polymorphism]]
 - [[Monad]]
 - [[Haskell IO]]
+- [[Haskell Variable]]
 ### FP
 - [[Haskell $]]
 - [[Haskell Function]]
