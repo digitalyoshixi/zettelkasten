@@ -30,6 +30,8 @@ ghci
 - [[Haskell Pair]]
 - [[Haskell List]]
 - [[Haskell Polymorphism]]
+- [[Monad]]
+- [[Haskell IO]]
 ### FP
 - [[Haskell $]]
 - [[Haskell Function]]
