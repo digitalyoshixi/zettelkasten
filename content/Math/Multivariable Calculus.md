@@ -34,3 +34,4 @@ aliases:
 - [[Angle Between Two Planes]]
 - [[Intersection Between Two Planes]]
 - [[Normal Vector from Cartesian Equation of Plane]]
+- [[Distance Between Point to Line]]

@@ -49,3 +49,4 @@ ghci
 - [[Haskell fst]]
 - [[Haskell snd]]
 - [[Haskell lines]]
+- [[Haskell readfile]]
