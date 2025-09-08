@@ -2,8 +2,14 @@
 tags:
   - programming
   - haskell
+aliases:
+  - Haskell Data Constructor
 ---
 A keyword used to define a new [[Haskell Type|Haskell Datatype]].
+Involves a:
+- [[Haskell Typeclass]] constructor `Typectr` for defining the type
+- Specific Value constructor `Valctr` to create a value of the type
+- A collection of components/fields with varying datatypes
 ```haskell
 data Typectr = Valctr Datatype1 Datatype2 ...
 ```
@@ -12,3 +18,4 @@ data Typectr = Valctr Datatype1 Datatype2 ...
 data BookInfo = Book Int String [String]
 				deriving (Show)
 ```
+- [[Haskell Show]] allows us to use the [[Haskell Show|Haskell show]] function to get a string representation

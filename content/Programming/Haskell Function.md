@@ -20,7 +20,7 @@ myfunction x y = x+x + y*2
 head :: [a] -> a
 ```
 Allows this function to work with any datatype and return that same datatype generic
-# Generic with [[Haskell Typeclasses]]
+# Generic with [[Haskell Typeclass]]
 ```haskell
 square Num => a -> a
 ```

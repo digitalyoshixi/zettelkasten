@@ -3,7 +3,7 @@ tags:
   - programming
   - haskell
 ---
-A clause to specify local implementations of functions.
+A clause to specify local [[Haskell Variable]].
 # Example
 ### Original
 ```haskell

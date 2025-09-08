@@ -25,7 +25,8 @@ ghci
 - [[Haskell Type]]
 - [[Haskell Boxed Types]]
 - [[Haskell Unboxed Type|Haskell Primative]]
-- [[Haskell Typeclasses]]
+- [[Haskell Typeclass]]
+- [[Haskell data|Haskell Data Constructor]]
 - [[Runtime System|RTS]]
 - [[Monad]]
 - [[Glasgow Haskell Compiler Interactive|ghci]]
@@ -46,6 +47,8 @@ ghci
 ### FP
 - [[Haskell $]]
 - [[Haskell Function]]
+### Specific [[Haskell Typeclass]]
+- [[Haskell Show]]
 ### Specific Functions
 - [[Haskell succ]]
 - [[Haskell min]]
