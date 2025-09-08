@@ -23,3 +23,6 @@ aliases:
 ### Week 2
 - [[Vector]]
 - [[Parametric Equation]]
+- [[Parametric Equation from Two Points]]
+- [[Symmetric Equation]]
+- [[Symmetric Equation from Two Points]]

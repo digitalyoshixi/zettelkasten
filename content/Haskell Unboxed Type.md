@@ -7,8 +7,14 @@ aliases:
 ---
 These are types represented as literals on the stack.
 # List
-```haskell
+| type | description                      |
+| ---- | -------------------------------- |
+| Char | Represents [[Unicode]] character |
+| Bool | Represents `True` or `False`     |
+| Int  |                                  |
+ ```haskell
 type Char#
+type Bool#
 type Int#
 type Word#
 type Addr#
