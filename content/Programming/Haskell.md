@@ -28,7 +28,7 @@ ghci
 - [[Haskell Typeclass]]
 - [[Haskell data|Haskell Data Constructor]]
 - [[Runtime System|RTS]]
-- [[Monad]]
+- [[Haskell Monad]]
 - [[Glasgow Haskell Compiler Interactive|ghci]]
 - [[Haskell Tuple]]
 - [[Haskell Pair]]
