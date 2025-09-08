@@ -33,6 +33,8 @@ ghci
 - [[Monad]]
 - [[Haskell IO]]
 - [[Haskell Variable]]
+- [[Haskell Conditional]]
+- [[Haskell Comment]]
 ### FP
 - [[Haskell $]]
 - [[Haskell Function]]
@@ -53,3 +55,4 @@ ghci
 - [[Haskell snd]]
 - [[Haskell lines]]
 - [[Haskell readfile]]
+- [[Haskell mod]]
