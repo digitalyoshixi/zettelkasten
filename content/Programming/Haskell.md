@@ -44,6 +44,7 @@ ghci
 - [[Haskell Guards]]
 - [[Haskell Let]]
 - [[Haskell Where]]
+- [[Haskell Import]]
 ### FP
 - [[Haskell $]]
 - [[Haskell Function]]
