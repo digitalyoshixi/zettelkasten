@@ -26,3 +26,7 @@ aliases:
 - [[Parametric Equation from Two Points]]
 - [[Symmetric Equation]]
 - [[Symmetric Equation from Two Points]]
+- [[Inner Product and Angles]]
+- [[Normal Vector]]
+- [[Cartesian Equation of Plane]]
+- [[Finding Equation of Plane by Point and Normal Vector]]

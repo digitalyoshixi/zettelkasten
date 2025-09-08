@@ -7,11 +7,14 @@ aliases:
 ---
 These are types represented as literals on the stack.
 # List
-| type | description                      |
-| ---- | -------------------------------- |
-| Char | Represents [[Unicode]] character |
-| Bool | Represents `True` or `False`     |
-| Int  |                                  |
+| type    | description                                              |
+| ------- | -------------------------------------------------------- |
+| Char    | Represents [[Unicode]] character                         |
+| Bool    | Represents `True` or `False`                             |
+| Int     | 32-bit or 64-bit wide signed integer                     |
+| Integer | Signed integer of unbounded size                         |
+| Double  | Signed floating point of 64-bit size                     |
+| Float   | Signed floating poijnt of 32-bit size, slower to haskell |
  ```haskell
 type Char#
 type Bool#
