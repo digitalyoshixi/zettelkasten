@@ -30,3 +30,5 @@ aliases:
 - [[Normal Vector]]
 - [[Cartesian Equation of Plane]]
 - [[Finding Equation of Plane by Point and Normal Vector]]
+- [[Angle Between Two Planes]]
+- [[Intersection Between Two Planes]]
