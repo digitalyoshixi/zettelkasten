@@ -18,8 +18,16 @@ ghci
 # Concepts
 - [[Referential Transparency]]
 - [[Side Effects]]
+- [[ghci]]
 ### Essential
 - [[Haskell Operators]]
 - [[Haskell Datatype]]
+- [[Haskell Boxed Types]]
 ### FP
 - [[Haskell $]]
+- [[Haskell Function]]
+### Specific Functions
+- [[Haskell succ]]
+- [[Haskell min]]
+- [[Haskell max]]
+- [[Haskell div]]

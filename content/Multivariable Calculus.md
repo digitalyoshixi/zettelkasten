@@ -20,3 +20,6 @@ aliases:
 - [[Limits Across Paths]]
 - [[Partial Derivative]]
 - [[Euclidean Space]]
+### Week 2
+- [[Vector]]
+- [[Parametric Equation]]
