@@ -35,6 +35,7 @@ ghci
 - [[Haskell Variable]]
 - [[Haskell Conditional]]
 - [[Haskell Comment]]
+- [[Haskell String]]
 ### FP
 - [[Haskell $]]
 - [[Haskell Function]]
@@ -56,3 +57,5 @@ ghci
 - [[Haskell lines]]
 - [[Haskell readfile]]
 - [[Haskell mod]]
+- [[Haskell print]]
+- [[Haskell null]]
