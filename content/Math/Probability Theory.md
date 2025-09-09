@@ -51,3 +51,5 @@ Course taught by Prof. Sotos.
 - [[Conditional Probability]]
 - [[Bayesian Statistics]]
 - [[Conditional Probability Axioms]]
+- [[Regular Probability Theorem]]
+- [[Bayes Theorem]]
