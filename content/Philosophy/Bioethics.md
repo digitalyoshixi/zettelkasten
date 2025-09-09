@@ -53,4 +53,6 @@ A course about the ethics of medicine.
 - [[The Truth About Psychiatry]]
 - [[Hydroxychloroquine]]
 - [[Equality]]
-- 
+- [[Fairness]]
+- [[Lining Up]]
+- [[Medical Triage|Triage Department]]
