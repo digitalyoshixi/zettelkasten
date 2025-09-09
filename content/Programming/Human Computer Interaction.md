@@ -32,3 +32,12 @@ Responsible for maintaining the design and evaluation of systems.
 - [[Laptop|Notebook]]
 - [[Personal Computer]]
 ### Week 2
+- [[Usability]]
+- [[Users]]
+- [[UI Reliability]]
+- [[Standardzation]]
+- [[Product Integration]]
+- [[Product Consistency]]
+- [[Portability]]
+- [[Usability Goal]]
+- [[User Experience]]

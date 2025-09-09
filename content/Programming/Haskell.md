@@ -6,7 +6,7 @@ This is a [[Lazy Evaluation|Lazy Loading]] [[Statically Typed]] [[Functional Pro
 `.hs` [[File Extension]].
 # Installation
 ```
-sudo pacman -S ghc cabal-install
+sudo pacman -S ghc cabal-install ghc-static
 ```
 # Compile & Link
 ```
