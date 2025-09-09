@@ -86,3 +86,4 @@ in `Main.hs`
 - [[Haskell length]]
 - [[Haskell data]]
 - [[Haskell flip]]
+- [[Haskell ap]]

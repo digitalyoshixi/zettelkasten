@@ -26,3 +26,12 @@ A course about the ethics of medicine.
 - [[Fun Incest Thought Experiment]]
 - [[Argument]]
 - [[Vegetarian Cannibal Thought Experiment]]
+### Week 2
+- [[Principle]]
+- [[Dax Pain Thought Experiment]]
+- [[Patient Rights]]
+- [[Medical Assistance in Dying|MAID]]
+- [[Human Rights]]
+- [[Hippocratic Oath]]
+- [[Instrumental Goods]]
+- [[Intrinsic Goods]]
