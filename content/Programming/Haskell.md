@@ -16,6 +16,13 @@ ghc -dynamic file.hs
 ```
 ghci
 ```
+# Boilerplate
+```haskell
+main = do  
+    putStrLn "What's your name?"  
+    name <- getLine 
+    putStrLn ("Hello " ++ name) 
+```
 # Concepts
 - [[Referential Transparency]]
 - [[Side Effects]]
