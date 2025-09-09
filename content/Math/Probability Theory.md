@@ -55,3 +55,4 @@ Course taught by Prof. Sotos.
 - [[Bayes Theorem]]
 - [[Prevalence of Condition]]
 - [[Finding Unconditional Probability from Conditional Probabilities Example]]
+- [[Multinomial Coefficient]]
