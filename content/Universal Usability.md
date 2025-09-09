@@ -4,10 +4,10 @@ tags:
 ---
 [[Usability]] for everybody.
 # Topics
-1. [[Variations in Physical Abilities Goal]]
-2. [[Diverse Cognitive and Perceptual Abilities Goal]]
-3. Personality differences
-4. Cultural and international diversity
-5. Users with diabilities
-6. Older adult users
-7. Children
+1. Variations in Physical abilities (Vision, Touch, Hearing, Dexterity)
+2. Diverse cognitive and perceptual abilities (Memory, Decision making, Search, Learning)
+3. Personality differences ([[Myers-Brigg Type Indicator]])
+4. Cultural and international diversity (Names & Titles, Colors & Icons, Characters, Literacy)
+5. Users with disabilities (Applied to disability act)
+6. Older adult users (Variability in colors, and sizes)
+7. Children (variability in sizes, etc)
