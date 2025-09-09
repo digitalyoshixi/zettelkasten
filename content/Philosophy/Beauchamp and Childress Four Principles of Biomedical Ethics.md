@@ -9,3 +9,6 @@ aliases:
 No principle is ranked above others.
 # Principles
 - [[Autonomy]]
+- [[Hippocratic Oath|Nonmaleficence]]
+- [[Beneficence]]
+- [[Justice]]
