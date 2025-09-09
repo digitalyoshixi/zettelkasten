@@ -47,3 +47,7 @@ Course taught by Prof. Sotos.
 - [[Multiple Integral]]
 - [[Change of Order of Integration]]
 - [[Change of Integration Variables]]
+### Week 2
+- [[Conditional Probability]]
+- [[Bayesian Statistics]]
+- [[Conditional Probability Axioms]]

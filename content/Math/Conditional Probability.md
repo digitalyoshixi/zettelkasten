@@ -3,7 +3,7 @@ tags: []
 ---
 [[Probability]] of a **second event occurring** given that a **first event has already happened**. Requires that one of these events is a [[Dependent Events|Dependent Event]]
 
-This may lead to the sample space for the second event to be smaller or bigger than the sample space of the first event.
+This may lead to the [[Sample Space]] for the second event to be smaller or bigger than the sample space of the first event.
 $$P(E|F) = \frac{P(E\cap F)}{P(F)}$$
 OR
 `P(A and B) = P(A|B) * P(B) = P(B|A) * P(A)`
