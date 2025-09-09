@@ -18,15 +18,20 @@ ghci
 ```
 # Boilerplate
 ```haskell
+module Main where
+
+main :: IO ()
 main = do  
     putStrLn "What's your name?"  
     name <- getLine 
     putStrLn ("Hello " ++ name) 
 ```
+in `Main.hs`
 # Concepts
 - [[Referential Transparency]]
 - [[Side Effects]]
 - [[Glasgow Haskell Compiler Interactive|ghci]]
+- [[Haskell Interface File]]
 ### Essential
 - [[Haskell Operators]]
 - [[Haskell Type]]

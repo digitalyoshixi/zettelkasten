@@ -1,6 +1,8 @@
 ---
 tags:
   - uiux
+aliases:
+  - Usability Goals
 ---
 Programs that are usable and accessible to any person.
 - Addresses disabilities
@@ -19,3 +21,10 @@ If a product lacks usability, [[Users]] leave.
 - User Interface
 - Comfort factor
 - Productivity factor
+# Usability Goals
+![[Usability Goal-20250909185448611.webp|571]]
+- Time to Learn
+- Speed of performance
+- Rate of errors by users
+- Retention over time
+- Subjective satisfaction
