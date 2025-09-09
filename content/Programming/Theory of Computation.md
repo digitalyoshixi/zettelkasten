@@ -33,3 +33,5 @@ aliases:
 - [[Such That]]
 - [[Twin Prime]]
 - [[Twin Prime Conjecture]]
+### Week 2
+- [[Binary String]]
