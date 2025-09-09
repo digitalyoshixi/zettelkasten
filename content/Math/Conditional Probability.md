@@ -1,5 +1,9 @@
 ---
-tags: []
+tags:
+  - statistics
+  - probability
+aliases:
+  - Law of Conditional Probability
 ---
 [[Probability]] of a **second event occurring** given that a **first event has already happened**. Requires that one of these events is a [[Dependent Events|Dependent Event]]
 

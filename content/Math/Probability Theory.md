@@ -54,3 +54,4 @@ Course taught by Prof. Sotos.
 - [[Regular Probability Theorem]]
 - [[Bayes Theorem]]
 - [[Prevalence of Condition]]
+- [[Finding Unconditional Probability from Conditional Probabilities Example]]
