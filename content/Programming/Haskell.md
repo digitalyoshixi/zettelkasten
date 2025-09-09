@@ -57,6 +57,7 @@ in `Main.hs`
 - [[Haskell Let]]
 - [[Haskell Where]]
 - [[Haskell Import]]
+- [[Haskell Function Composition]]
 ### FP
 - [[Haskell $]]
 - [[Haskell Function]]
@@ -84,3 +85,4 @@ in `Main.hs`
 - [[Haskell null]]
 - [[Haskell length]]
 - [[Haskell data]]
+- [[Haskell flip]]
