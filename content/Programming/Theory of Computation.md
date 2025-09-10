@@ -36,3 +36,4 @@ aliases:
 ### Week 2
 - [[Binary String]]
 - [[Counting Odd Parity Substrings from Given Binary String]]
+- [[Proof By Induction|Simple Induction]]

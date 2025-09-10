@@ -11,7 +11,7 @@ It is technically a form of [[Proof By Direct Proof]].
 2. Prove P(1) - the base case. (Do a simple one-line equivalence)
 3. Prove $\forall k \geq 1, P(k) \implies P(k+1)$ - induction step
 	1. Take arbitrary $k$ and suppose $k \geq 1$
-	2. Suppose $P(k)$ - induction hypothesis
+	2. Suppose $P(k)$ - [[Induction Hypothesis]]
 	3. Prove $P(k+1)$
 # Analogies
 ## Dominoes

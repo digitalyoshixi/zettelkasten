@@ -64,6 +64,7 @@ wat2wasm myfile.wat
 - [[ASMjs]]
 - [[wasm-pack]]
 - [[wasm-bindgen]]
+- [[wasm2wat]]
 # Guides
 - https://rsms.me/wasm-intro
 - https://invidious.yoshixi.net/watch?v=nW71Mlbmxt8
