@@ -9,6 +9,8 @@ aliases:
 A course about the ethics of medicine.
 # Notes
 - Proc Eric Mathison
+- TA:
+	- Zoom OH
 - Ethics consultation simulations will require you to record a video to your response of a situtation
 - Oct 10 quiz (10%)
 - Ethics consultation simulation (20%)
@@ -56,3 +58,6 @@ A course about the ethics of medicine.
 - [[Fairness]]
 - [[Lining Up]]
 - [[Medical Triage|Triage Department]]
+- [[Intellectual Humility]]
+- [[Virtue]]
+- [[Cereberal Paulsy Treatment Thought Experiment]]
