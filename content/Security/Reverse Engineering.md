@@ -15,3 +15,4 @@ tags:
 - [[Reverse Engineering ISO]]
 - [[Reverse Engineering Commodore]]
 - [[Reverse Engineering Hardware]]
+- [[Reverse Engineering Web Assembly]]

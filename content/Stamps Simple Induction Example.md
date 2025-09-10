@@ -22,5 +22,9 @@ Induction Step:
 	- Note that $4k'+7l' = 4k+7k+1 = n+1$
 	- Thus, $P(n+1)$
 - Case 2: $l = 0$
-	- Then, we know since $$
-	- 
+	- Then, we know since $4k+7l = 4k = n$
+	- $\implies k \geq 5$
+	- Then, choose $k' = k-5, l' = 3$
+	- Then note that $4k' + 7l' = 4k+7k+1 = n+1$
+	- Thus, $P(n+1)$
+- Thus, $P(n+1)$

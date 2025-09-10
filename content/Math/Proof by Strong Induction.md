@@ -4,6 +4,8 @@ tags:
   - proofs
 aliases:
   - Strong Induction
+  - Principle of Complete Induction
+  - PCI
 ---
 Used for proving sequences and series.
 WTS: $\forall k \geq b, (\forall b \leq i < k,P(i)) \implies P(k)$

@@ -39,3 +39,4 @@ aliases:
 - [[Proof By Induction|Simple Induction]]
 - [[Stamps Simple Induction Example]]
 - [[Stamps Strong Induction Example]]
+- [[Unwinding Recurrence]]

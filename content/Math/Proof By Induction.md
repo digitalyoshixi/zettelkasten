@@ -4,6 +4,8 @@ tags:
   - proofs
 aliases:
   - Simple Induction
+  - PSI
+  - Principle of Simple Induction
 ---
 Proving using patterns.
 It is technically a form of [[Proof By Direct Proof]].
