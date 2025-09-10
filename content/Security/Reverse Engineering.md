@@ -16,3 +16,4 @@ tags:
 - [[Reverse Engineering Commodore]]
 - [[Reverse Engineering Hardware]]
 - [[Reverse Engineering Web Assembly]]
+- [[Reverse Engineering Haskell]]

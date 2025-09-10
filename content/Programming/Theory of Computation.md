@@ -40,3 +40,4 @@ aliases:
 - [[Stamps Simple Induction Example]]
 - [[Stamps Strong Induction Example]]
 - [[Unwinding Recurrence]]
+- [[Master Theorem]]

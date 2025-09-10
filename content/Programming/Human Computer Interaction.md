@@ -12,6 +12,7 @@ The field emerged after [[Apple Macintosh]] was developed during 1980s
 Responsible for maintaining the design and evaluation of systems.
 # Notes
 - Prof Naureen Nizam
+- TA: Morning Glor (morning.glor@utoronto.ca)
 - OH Tuesdays 1 - 2 PM; IA 3180
 - 40% of the mark is the final project
 # Concepts
