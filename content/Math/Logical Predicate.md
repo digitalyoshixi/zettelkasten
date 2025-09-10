@@ -3,8 +3,12 @@ tags:
   - math
   - discrete_math
 ---
+A [[Mathematical Statement]] $P$ about a variable $x$
 These are translations from English sentences to logical statements that take an arbitrary [[Free Variable]] like P(x). The quantifiers can be evaluated with an input to return true or false
-They tend to paired with [[Logical Connectives]] and [[Logical Predicates]]:
+They tend to paired with [[Logical Connectives]] and [[Logical Predicate]]:
+# Defining Predicates
+$P(n) : n^{2} = n$
+Assumed by default to apply to all $n$. Don't add any [[Quantifier|Quantifiers]] in the definition.
 # Universal Quantified
 For a statement $P(x)$:
 $\forall x, P(x)$

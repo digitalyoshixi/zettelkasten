@@ -65,6 +65,12 @@ wat2wasm myfile.wat
 - [[wasm-pack]]
 - [[wasm-bindgen]]
 - [[wasm2wat]]
+### Instructions
+- [[WASM set]]
+- [[WASM get]]
+- [[WASM add]]
+- [[WASM tee]]
+- [[WASM const]]
 # Guides
 - https://rsms.me/wasm-intro
 - https://invidious.yoshixi.net/watch?v=nW71Mlbmxt8

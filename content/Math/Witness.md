@@ -3,7 +3,7 @@ tags:
   - math
   - proofs
 ---
-A element in a set that makes a [[Mathematical Predicate]] true.
+A element in a set that makes a [[Logical Predicate]] true.
 # Example
 1. Let $x \in D$ be $2$
 2. Then, $x \in D$
