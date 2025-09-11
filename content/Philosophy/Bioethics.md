@@ -28,6 +28,7 @@ A course about the ethics of medicine.
 - [[Fun Incest Thought Experiment]]
 - [[Argument]]
 - [[Vegetarian Cannibal Thought Experiment]]
+- [[Canadian Medical Association Code of Ethics and Professionalism]]
 ### Week 2
 - [[Principle]]
 - [[Dax Pain Thought Experiment]]
