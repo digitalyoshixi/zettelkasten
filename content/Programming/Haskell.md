@@ -87,3 +87,4 @@ in `Main.hs`
 - [[Haskell data]]
 - [[Haskell flip]]
 - [[Haskell ap]]
+- [[Haskell fix]]

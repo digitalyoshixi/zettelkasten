@@ -10,5 +10,4 @@ $P(A|B,C)= P(A| B \cap C) = \frac{P(A \cap B \cap C)}{P(B \cap C)}, P(B \cap C) 
 ### [[Disjoint]] Generalization
 If $A,B,C$ are mutually independent, then:
 - $P(A|B,C) = P(A)$
-- $P(B|A,C) = P(B)$
-- $P$
+i.e, conditioning on any collection of events does not affect the probability of intersection on any other events.

@@ -2,8 +2,11 @@
 tags:
   - math
 ---
+# Notation
 $A \cap B$
-The formal definition is $\{x | x \in A \wedge x \in B\}$
+$A , B$
+# Formal Definition
+The formal definition is $A \cap B = \{x | x \in A \wedge x \in B\}$
 ![[Intersection-20240925133220045.webp]]
 # N-th Number of Set Intersection
 With sets $S_{1},\dots,S_{n}$
