@@ -11,4 +11,3 @@ Can be proven by showing:
 1. [[Termination]] ($\text{precondition } \implies \text{ termination}$)
 2. [[Partial Correctness Step]] ($(\text{precondition and termination}) \implies \text{postcondition}$)
 # Techniques
-- [[Principle of Well-Ordering]]

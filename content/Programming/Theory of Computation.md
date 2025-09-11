@@ -15,8 +15,8 @@ aliases:
 - FYOG Assignments dont count for marks
 - Problem sets are used only for extra marks, they are posted collectively on piazza, they are worth 10%
 - Final exam 40%
-- Term test 1 20%
-- Term test 2 20%
+- Term test 1 20% (Oct 4 9-10:30AM)
+- Term test 2 20% (Nov 10, 5-6:30PM)
 - The media gallery has 2021 videos for future review
 - Everytime you use a [[Indirect Proof]], you must explitly show
 # Concepts
@@ -43,3 +43,4 @@ aliases:
 - [[Unwinding Recurrence]]
 - [[Master Theorem]]
 - [[Principle of Well-Ordering]]
+- [[Structural Induction]]
