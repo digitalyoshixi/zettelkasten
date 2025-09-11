@@ -8,6 +8,7 @@ aliases:
 - Course taught by Nick Cheng
 - 5 Tutorial sections
 - Tutorials lag behind by one week
+- OH: https://cmsweb.utsc.utoronto.ca/nick/timetable.html
 - https://www.cs.toronto.edu/~vassos/b36-notes/notes.pdf
 - https://cmsweb.utsc.utoronto.ca/nick/cscB36/additional-notes/
 - Exam seats are randomly assigned
