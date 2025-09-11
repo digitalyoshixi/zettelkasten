@@ -12,12 +12,15 @@ It is technically a form of [[Proof By Direct Proof]].
 - Uses only a few base cases compared to [[Proof by Strong Induction|PCI]]
 - Assumption is weaker for [[Induction Hypothesis]] compared to [[Proof by Strong Induction|PCI]]
 # Form
+##### Base Case
 1. Write out $P(x)$ represents ...
-2. Prove P(1) - the base case. (Do a simple one-line equivalence)
-3. Prove $\forall k \geq 1, P(k) \implies P(k+1)$ - induction step
-	1. Take arbitrary $k$ and suppose $k \geq 1$
-	2. Suppose $P(k)$ - [[Induction Hypothesis]]
-	3. Prove $P(k+1)$
+2. Let $n = b$
+	1. Proof of $P(n)$
+##### Induction Step
+1. Let $n > b$
+2. Suppose $P(n)$ [[Induction Hypothesis]]
+	1. Proof of $P(n+1)$
+3. Therefore, by induction $P(n)$ holds for all $n \geq b$ $\square$
 # Analogies
 ## Dominoes
 If a domino falls, it will collapse the next one, which will collapse the next one.

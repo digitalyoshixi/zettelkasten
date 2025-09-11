@@ -8,18 +8,21 @@ aliases:
   - PCI
 ---
 Used for proving sequences and series.
+- Requires more base cases compared to [[Proof By Induction|PSI]]
+- Stronger [[Induction Hypothesis|IH]] compared to [[Proof By Induction|PSI]]
+# Structure
 WTS: $\forall k \geq b, (\forall b \leq i < k,P(i)) \implies P(k)$
-1. Suppose arbitrary $k$
-2. Suppose $k \geq$ smallest base case
-3. Suppose base case 1:
-	1. ...
-	2. P(1)
-4. Suppose base case 2:
-	1. ...
-	2. P(2)
-5. Suppose $k \geq b$
-	1. Suppose $\forall b<i<k,P(i)$
-	2. ...
-	3. $P(k)$
-# Proof Strategy
-You need to prove manually $P(b), P(b+1), \dots$ (depends on what you need to use)
+##### Base Cases
+Assuming base cases $b, \dots, b+k-1$
+1. Let $n = b$
+	1. Proof of $P(n)$
+2. Let $n = b+1$
+	1. Proof of $P(n)$
+3. ...
+4. Let $n = b + k - 1$
+	1. Proof pf $P(n)$
+##### Induction Step
+1. Let $n \geq b + k$
+2. Suppose $P(j)$ holds whenever $b \leq j < n$ [[Induction Hypothesis]]
+	1. Proof of $P(n)$
+3. Therefore by induction, $P(n)$ holds for all $n > b$ $\square$

@@ -42,3 +42,4 @@ aliases:
 - [[Stamps Strong Induction Example]]
 - [[Unwinding Recurrence]]
 - [[Master Theorem]]
+- [[Principle of Well-Ordering]]
