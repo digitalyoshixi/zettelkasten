@@ -4,4 +4,7 @@ tags:
   - math
   - calculus
 ---
-A method to implement recursion in a language that doesn't natively support it like [[Haskell]].
+A method to implement recursion in [[Lambda Calculus]].
+$$
+Y = \lambda f . (\lambda x . f(x x))(\lambda x . f(x x))
+$$

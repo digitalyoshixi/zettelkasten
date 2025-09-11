@@ -63,6 +63,7 @@ in `Main.hs`
 - [[Haskell Function]]
 ### Specific [[Haskell Typeclass]]
 - [[Haskell Show]]
+- [[Haskell Maybe]]
 ### Specific Functions
 - [[Haskell succ]]
 - [[Haskell min]]
@@ -88,3 +89,4 @@ in `Main.hs`
 - [[Haskell flip]]
 - [[Haskell ap]]
 - [[Haskell fix]]
+- [[Haskell rec]]
