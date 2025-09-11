@@ -9,6 +9,9 @@ aliases:
 ---
 Proving using patterns.
 It is technically a form of [[Proof By Direct Proof]].
+- Uses only a few base cases compared to [[Proof by Strong Induction|PCI]]
+- Assumption is weaker for [[Induction Hypothesis]] compared to [[Proof by Strong Induction|PCI]]
+# Form
 1. Write out $P(x)$ represents ...
 2. Prove P(1) - the base case. (Do a simple one-line equivalence)
 3. Prove $\forall k \geq 1, P(k) \implies P(k+1)$ - induction step
