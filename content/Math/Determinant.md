@@ -29,6 +29,14 @@ $\det(kA) = k^{n}\det(A)$
 $\det(A) = \det(A^{T})$ where $A^{T}$ is the matrix transpose of $A$.
 ### Invertability Property
 $\det(A^{-1}) = \frac{1}{\det(A)}$
+### Interchanging Property
+Interchanging two rows or columns multiplies the determinant by $(-1)$
+### Row Multiplication Property
+Multiplying a row by $k$ multiplies the determinant by $k$
+### Linear Combination Property
+Adding a multiple of one row to another does not change the value of the determinant
+### Identical Rows Property
+If two rows are identical than the determinant is zero
 # Theorems
 - [[Determinants and Invertiblity Theorem]]
 - [[Determinants and Row Operations]]
