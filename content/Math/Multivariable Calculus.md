@@ -35,3 +35,5 @@ aliases:
 - [[Intersection Between Two Planes]]
 - [[Normal Vector from Cartesian Equation of Plane]]
 - [[Distance Between Point to Line]]
+- [[Projection]]
+- [[Distance Between Point and Plane]]

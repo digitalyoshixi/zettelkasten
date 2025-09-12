@@ -26,6 +26,8 @@ Best research institute in [[Canada]].
 - utorauth@utoronto.ca (IT help with [[UTORAuth]])
 ### Degree Explorer
 https://degreeexplorer.utoronto.ca/degreeExplorer/planner
+### Crowdmark
+https://app.crowdmark.com/student/courses
 ### GPA Scale
 ![[University of Toronto-20250326013148460.webp|815]]
 ### Past Exam Archive
