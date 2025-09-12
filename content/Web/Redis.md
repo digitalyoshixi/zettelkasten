@@ -20,6 +20,13 @@ Will run on port `6379`
 ```
 redis-cli
 ```
+# Boilerplate ([[NodeJS]])
+# Concepts
+- [[Redis String]]
+- [[Redis Array]]
+- [[Redis Sets]]
+- [[Redis Hash]]
+- [[Redis NodeJS Boilerplate]]
 # Commands
 - [[Redis SET]]
 - [[Redis SETEX]]
@@ -30,3 +37,16 @@ redis-cli
 - [[Redis FLUSHALL]]
 - [[Redis TTL]]
 - [[Redis EXPIRE]]
+- [[Redis LPUSH]]
+- [[Redis RPUSH]]
+- [[Redis LRANGE]]
+- [[Redis LPOP]]
+- [[Redis RPOP]]
+- [[Redis SADD]]
+- [[Redis SMEMBERS]]
+- [[Redis SREM]]
+- [[Redis HSET]]
+- [[Redis HGET]]
+- [[Redis HGETALL]]
+- [[Redis HDEL]]
+- [[Redis HEXISTS]]

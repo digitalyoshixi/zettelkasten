@@ -5,7 +5,7 @@ tags:
 The greatest package manager to ever grace this earth
 # Installation
 `sudo pacman -S npm`
-### Installing packages
+# Installing packages
 Find packages at https://www.npmjs.com/
 In your project folder:
 `npm init -y`
