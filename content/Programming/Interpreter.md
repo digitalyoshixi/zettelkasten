@@ -11,6 +11,7 @@ Reads source-code and runs the program line-by-line. It runs the program in real
 2. A [[Parser]] validates to check if our tokens are syntactically valid
 3. Parser converts the tokens into an [[Abstract Syntax Tree|AST]]
 4. [[Abstract Syntax Tree|AST]] is interpreted with a [[Recursive Descent Parsing]] or [[Bytecode]]
+5. AST is walked bottom-up, and interpreted in a wider envionment
 # Types
 - [[Bytecode Interpreter]]
 - [[AST Interpreter]]

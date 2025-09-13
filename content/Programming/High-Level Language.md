@@ -10,3 +10,6 @@ These are languages meant for human understanding.
 - [[JavaScript]]
 # Concepts
 - [[Programming Paradigms]]
+- [[Formally Defined]]
+- [[Literals]]
+- [[Built-ins]]
