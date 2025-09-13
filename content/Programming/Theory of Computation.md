@@ -44,3 +44,4 @@ aliases:
 - [[Master Theorem]]
 - [[Principle of Well-Ordering]]
 - [[Structural Induction]]
+- [[Smallest Set]]
