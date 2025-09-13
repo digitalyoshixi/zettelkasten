@@ -5,7 +5,6 @@ tags:
 # Types
 - [[Multiplicative Counting Principle]]
 - [[Permutations]]
-- [[Permutations]]
 - [[Combinations]]
 # Counting Rules
 - [[Counting Product Rule]]

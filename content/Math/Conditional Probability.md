@@ -10,8 +10,7 @@ aliases:
 This may lead to the [[Sample Space]] for the second event to be smaller or bigger than the sample space of the first event.
 $$P(E|F) = \frac{P(E\cap F)}{P(F)}$$
 OR
-`P(A and B) = P(A|B) * P(B) = P(B|A) * P(A)`
-
+$$P (A \cap B) = P(A|B) * P(B) = P(B|A) * P(A)$$
 Event probability that are affected by other events is denoted with the Probability: P(A|B). In section: [[Given Probability]]
 
 You require: 
