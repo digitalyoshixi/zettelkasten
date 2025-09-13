@@ -12,5 +12,5 @@ LISP will teach you how to program better.
 - [[Common LISP]]
 - [[Closure]]
 - [[Scheme]]
-- [[Rackett]]
+- [[Racket]]
 - [[tinylisp]]
