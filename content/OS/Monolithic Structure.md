@@ -1,3 +1,8 @@
-Seen in early unix systems. Has Kernel mode and unprivileged mode. Everything is packed into the kernel mode, making maintenance difficult. Debugging functionality in the kernel would have to parse through all the systems.
+---
+tags:
+  - os
+---
+Everything an OS is responsible for is in [[Protection Ring|Kernel Level]].
 
-![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2iv7w_tmp_d248d43368ea4031.png)
+Seen in early unix systems. 
+Maintenance and debugging is difficult as difficult we would have to parse through all the systems logic
