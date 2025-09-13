@@ -2,7 +2,10 @@
 tags:
   - math
   - programming
+aliases:
+  - Anonymous Function
 ---
+A function that does not have a specific name, can be called directly.
 # Notation
 $$\lambda(\text{inputs}).(\text{outputs})$$
 # Examples
