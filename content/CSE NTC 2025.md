@@ -31,4 +31,4 @@ fast-logs have the form:
 ```
 03/16/2012-12:30:00.090000  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.202.79:50477 -> 192.168.229.251:80
 ```
-Our grok pattern to parse is:
+Our [[Grok Pattern]] to parse is:
