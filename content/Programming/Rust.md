@@ -48,6 +48,7 @@ A Low-level systems programming language that allows for memory safety.
 - [[Rust rand]]
 - [[Rust Prelude]]
 - [[Rust tokio]]
+- [[Rust Borrow Checker]]
 # Guides
 - [[Rust with WASM Guide]]
 - [[Rust FileIO]]
