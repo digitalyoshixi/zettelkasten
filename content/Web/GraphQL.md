@@ -11,3 +11,6 @@ It also provides high-levels of privacy for the requests sent.
 npm i express express-graphql graphql
 ```
 # Concepts
+- [[GraphQL Query]]
+- [[GraphQL Schema]]
+- [[GraphQL Resolvers]]
