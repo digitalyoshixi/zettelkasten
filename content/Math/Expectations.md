@@ -6,11 +6,10 @@ aliases:
   - Average
   - Mean
 ---
-An expectation of value E(X) means the expectation or average 
+An expectation of value $E(X)$ means the expectation or average of a given [[Random Variable]]
 
 It is calculated through different means
 Probability has everything to do with expectations
-
 ### Fair game
 The Expected value of a fair game is 0.
 

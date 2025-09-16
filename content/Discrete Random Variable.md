@@ -3,7 +3,7 @@ tags:
   - probability
   - statistics
 ---
-These are [[Random Variables]] that can:
+These are [[Random Variable]] that can:
 - Assume a finite or [[Countable Infinity|Countably Infinite]] number of values
 - Can be partitioned into Integers (Requires [[Disjoint]] events)
 - Constant values that will never change
