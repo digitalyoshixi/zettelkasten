@@ -57,4 +57,7 @@ Responsible for maintaining the design and evaluation of systems.
 	- [[Participatory Design|PD]]
 	- [[User Centered Design]]
 	- [[Agile Interaction Design|AD]]
-- 
+- [[User Persona]]
+- [[Use Case]]
+- [[Task Description and Analysis]]
+- [[Hierarchical Task Analysis]]

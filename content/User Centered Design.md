@@ -20,3 +20,9 @@ Users are not part of the design team, but the designer plays an active part in 
 - [[UCD Iterative Process]]
 ### Steps
 1. Gather requirements from users
+	1. Interview users
+	2. Interview focus groups
+	3. Survey/Questionaires
+	4. Observation (Direct or Indirect)
+		1. [[Ethnography]]
+		2. [[Think Aloud Technique]]
