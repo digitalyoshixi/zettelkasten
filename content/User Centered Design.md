@@ -21,6 +21,7 @@ Users are not part of the design team, but the designer plays an active part in 
 ### Steps
 1. Gather requirements from users
 	1. Interview users
+		1. [[Contextual Interview]]
 	2. Interview focus groups
 	3. Survey/Questionaires
 	4. Observation (Direct or Indirect)

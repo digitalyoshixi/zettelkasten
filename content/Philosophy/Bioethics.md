@@ -62,3 +62,7 @@ A course about the ethics of medicine.
 - [[Intellectual Humility]]
 - [[Virtue]]
 - [[Cereberal Paulsy Treatment Thought Experiment]]
+### Week 3
+- [[Medical Disclosure]]
+- [[Henrietta Tumor Case]]
+- [[Dignity]]
