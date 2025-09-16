@@ -18,3 +18,5 @@ $P(A \cap B) = P(A) * P(B)$
 ### Union
 $P(A \cup B) = P(A) + P(B) - P(A \cap B)$
 Alternate to: [[Dependent Events]]
+# Examples
+- [[Proving Independence]]
