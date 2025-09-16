@@ -48,3 +48,13 @@ Responsible for maintaining the design and evaluation of systems.
 	- [[8 Golden Rules of Interface Design]]
 - [[Product Theories]]
 - [[Stage of Action Theories]]
+### Week 3
+![[Human Computer Interaction-20250916184412067.webp]]
+- [[Interaction Design|IxD]]
+- [[User Interface Design|UI]]
+- [[User Experience Design]]
+- [[Design Frameworks]]
+	- [[Participatory Design|PD]]
+	- [[User Centered Design]]
+	- [[Agile Interaction Design|AD]]
+- 
