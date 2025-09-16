@@ -65,7 +65,11 @@ Course taught by Prof. Sotos.
 - [[Conditional Independence]]
 ### Week 3
 - [[Random Variables]]
+	- [[Discrete Random Variable]]
+	- [[Continuous Random Variable]]
+	- [[Indicator Random Variable]]
 - [[Probability Distributions]]
+- [[Functions of Random Variables]]
 - [[Probability Mass Function]]
 - [[Cumulative Distribution Function]]
-- [[]]
+- [[Ran]]
