@@ -72,3 +72,6 @@ A course about the ethics of medicine.
 - [[Placebo]]
 - [[Nocebo]]
 - [[Medical Cultural Differences]]
+- [[Delivery Driver Drunk Sex Thought Experiment]]
+- [[Private Assisted Dying]]
+- [[Confidentiality]]

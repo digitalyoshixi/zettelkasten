@@ -4,6 +4,6 @@ tags:
   - bioethics
   - law
 ---
-The legal requirement to expose information to others.
+The legal requirement or duty to withhold information to others.
 - Therapists must keep client sessions confidential
 - Doctors must keep checkups confidential
