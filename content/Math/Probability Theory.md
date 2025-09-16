@@ -63,3 +63,9 @@ Course taught by Prof. Sotos.
 - [[Pairwise Independence Does Not Imply Mutual Independence]]
 - [[Multiplication Rule of Probability]]
 - [[Conditional Independence]]
+### Week 3
+- [[Random Variables]]
+- [[Probability Distributions]]
+- [[Probability Mass Function]]
+- [[Cumulative Distribution Function]]
+- [[]]
