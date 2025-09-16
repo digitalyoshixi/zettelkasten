@@ -72,3 +72,5 @@ Course taught by Prof. Sotos.
 - [[Functions of Random Variables]]
 - [[Probability Mass Function]]
 - [[Cumulative Distribution Function]]
+- [[CDF and RDF Example]]
+- [[Continuity of CDF is Same as Continuity of Set Function]]
