@@ -40,3 +40,6 @@ aliases:
 - [[Cross Product]]
 - [[Triple Product Identity]]
 - [[Normal Vector from Two Vectors of Plane]]
+### Week 3
+- [[Math/Graph|Graph]]
+- [[Contour Map]]
