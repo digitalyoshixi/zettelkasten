@@ -43,3 +43,9 @@ aliases:
 ### Week 3
 - [[Math/Graph|Graph]]
 - [[Contour Map]]
+- [[Sphere]]
+- [[Ellipsoid]]
+- [[Paraboloid]]
+- [[Saddle]]
+- [[Hyperboloid]]
+- [[Cone]]
