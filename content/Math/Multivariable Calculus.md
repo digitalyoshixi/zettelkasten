@@ -54,3 +54,6 @@ aliases:
 - [[Ball-Box Inequality]]
 - [[Open Set Limits Definition]]
 - [[Two Dimensional Limit Proof Example]]
+- [[Limits Across Paths]]
+- [[Limits Existence Implies Equality Along All Paths]]
+- [[Limits Depend on Paths Example]]

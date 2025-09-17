@@ -23,3 +23,8 @@ $$\lim_{x \to a}\left[\frac{f(x)}{g(x)}\right] = \frac{\lim_{x \to a}[f(x)]}{\li
 ##### Power Rule
 Limit of the power is the power of the limit
 $$\lim_{ x \to a}[f(x)^{n]} = [\lim_{ x \to a}f(x)]^{n} $$
+##### [[Unique Limits Proof]]
+$(\lim_{ x \to x_{0} } = b_{1}, \lim_{ x \to x_{0} }=b_{2}) \implies b_{1}=b_{2}$
+##### Limits Determined by component functions
+Suppose $f(x) =(f_{1}(x) , \dots, f_{k}(x))$ then:
+- $\lim_{ x \to x_{0} } = b = (b_{1},\dots,b_{k}) \Longleftrightarrow (\lim_{ x \to x_{0} }f_{1}(x) = b_{1}, \dots, \lim_{ x \to x_{0} }f_{k}(x) = b_{k}$
