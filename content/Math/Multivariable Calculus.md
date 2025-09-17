@@ -52,3 +52,4 @@ aliases:
 - [[Open Ball]]
 - [[Open Set]]
 - [[Ball-Box Inequality]]
+- [[Open Set Limits]]

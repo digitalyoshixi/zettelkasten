@@ -14,7 +14,7 @@ Graph has a
 - [[Undirected Graph]]
 # Concepts
 - [[Neighbour]]
-- [[Neighbourhood]]
+- [[Programming/Neighbourhood]]
 - [[Adjacency List]]
 - [[Adjacency Matrix]]
 - [[Graph Path]]
