@@ -49,3 +49,6 @@ aliases:
 - [[Saddle]]
 - [[Hyperboloid]]
 - [[Cone]]
+- [[Open Ball]]
+- [[Open Set]]
+- [[Ball-Box Inequality]]
