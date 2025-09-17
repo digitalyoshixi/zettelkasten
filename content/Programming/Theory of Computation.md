@@ -45,3 +45,7 @@ aliases:
 - [[Principle of Well-Ordering]]
 - [[Structural Induction]]
 - [[Smallest Set]]
+### Week 3
+- [[Pascal]]
+- [[Program Correctness]]
+- [[Loop Invariant]]
