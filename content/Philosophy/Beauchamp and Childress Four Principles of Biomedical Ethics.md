@@ -13,4 +13,7 @@ They are a framework, and not meant to be [[Action-Guiding]]
 - [[Hippocratic Oath|Nonmaleficence]]
 - [[Beneficence]]
 - [[Justice]]
+### Extra
 - [[Dignity]]
+- [[Respect]]
+- [[Truth]]
