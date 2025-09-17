@@ -56,4 +56,6 @@ aliases:
 - [[Two Dimensional Limit Proof Example]]
 - [[Limits Across Paths]]
 - [[Limits Existence Implies Equality Along All Paths]]
-- [[Limits Depend on Paths Example]]
+- [[Continuity]]
+- [[Partial Derivative]]
+- [[Class Functions]]
