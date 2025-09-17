@@ -12,4 +12,5 @@ Can be proven by showing:
 2. [[Partial Correctness Step]] ($(\text{precondition and termination}) \implies \text{postcondition}$)
 # Techniques
 - [[Loop Invariant]]
-- [[Recursive Program ]]
+- [[Iterative Program Correctness]]
+- [[Recursive Program Correctness]]
