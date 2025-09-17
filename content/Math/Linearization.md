@@ -6,7 +6,11 @@ aliases:
   - Tangent Line Approximation
   - Linear Approximation
 ---
-Tangent lines can be used to approximate functions.
+A tangent line used to approximate functions.
+# [[Partial Derivative]] Definition
+A linear approximation of function $f : \mathbb{R}^{2}\to \mathbb{R}$ at $(x_{0},y_{0})$ is
+$z = f(x_{0},y_{0}) = [\frac{\partial f}{\partial x}(x_{0},y_{0})](x-x_{0}) + [\frac{\partial f}{\partial y}(x_{0},y_{0})](y-y_{0})$
+# Tangent Definition
 Given a function that is not currently linear, it can be approximated with:
 $$L(x)=f(a)+f'(a)(x-a)$$
 This is pretty much the [[Instantaneous Rate of Change|Tangent]]

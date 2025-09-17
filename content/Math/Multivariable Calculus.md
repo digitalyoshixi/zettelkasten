@@ -58,3 +58,4 @@ aliases:
 - [[Limits Existence Implies Equality Along All Paths]]
 - [[Continuity]]
 - [[Partial Derivative]]
+- [[Linearization|Linear Approximation]]
