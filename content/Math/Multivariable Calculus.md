@@ -52,4 +52,5 @@ aliases:
 - [[Open Ball]]
 - [[Open Set]]
 - [[Ball-Box Inequality]]
-- [[Open Set Limits]]
+- [[Open Set Limits Definition]]
+- [[Two Dimensional Limit Proof Example]]

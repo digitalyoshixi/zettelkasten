@@ -6,11 +6,9 @@ tags:
 # $\lim_{x\to a}f(x) = L$
 Its a notation to signify the y value that you get when you x approaches a value.
 The value of f(x) can be made arbitrarily close to L by choosing x sufficiently close to a but not equal to A
-See [[Limits Formalized Definition]]
-# Why Limits?
-### Limits Can Exist At Discontinuities
-![[Pasted image 20240205142812.png|344]]
-A limit would exist at this discontinuity. The left limit will have the same value as the right limit.
+# Definitions
+- [[Limits Formalized Definition]]
+- [[Open Set Limits Definition]]
 # Finding Limits
 ### Existence Hints
 A limit exists if:
@@ -72,19 +70,8 @@ $$\lim_{x \to a}[f(x)^{n}]= \lim_{x \to a}[f(x)]^n$$
 ##### Composition Rule
 If $f$ is continuous then
 $$\lim_{ x \to a }f(g(x))  = f(\lim_{ x \to a }g(x) ) $$
-# Continuities
-[[Discontinuities]]
-### Continuous
-For the function to be continuous at a point, 2 conditions:
-1. Limit must exist
-2. $$\lim_{ x \to a }f(x) = f(a)$$
-### Discontinuous
-For the function to be discontinuous at a point, 2 conditions:
-$$\\lim_{ x \to a }f(x) \neq f(a)$$
-OR 
-$$\lim_{ x \to a }f(x) \ \ \ \ DNE $$
-OR 
-$L = \pm\infty \ \ OR \ \ f(x) = \pm\infty$
-# Additional Concepts
+# Concepts
+- [[Discontinuities]]
+- [[Continuity|Continuous]]
 - [[Limits Does Not Exist]]
 - [[Order Limit Law]]
