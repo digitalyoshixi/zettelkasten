@@ -38,11 +38,36 @@ SQ(n)
 	2. Then, denote $s', d', i'$ to be the values after the iteration
 	3. $i' = i+1$ by line $(5)$
 	4. $s=s'+d$ by line $(3)$
-	5. $= i^{2}+2i+1$ by [[IH]]
-	6. $= (i+1)^{2}$
-	7. $= (i')^{2}$'
-	8. Also, $d'=d+2$ by line $(4)$
-	9. $=2i+1+2$ by [[Induction Hypothesis|IH]]
-	10. $=2(i+1)+1$
-	11. $= 2i' +1$
-	12. Thus, we get $LI(a)$
+		1. $= i^{2}+2i+1$ by [[IH]]
+		2. $= (i+1)^{2}$
+		3. $= (i')^{2}$'
+	5. Also, $d'=d+2$ by line $(4)$
+		1. $=2i+1+2$ by [[Induction Hypothesis|IH]]
+		2. $=2(i+1)+1$
+		3. $= 2i' +1$
+	6. Also, $i < n$ by line $(2)$
+		1. Then, it follows that $i' = i+1 \leq n$
+		2. Since $0\leq i \implies 0 \leq i+1 = i'$
+		3. Thus, $0 \leq i' \leq n$
+	7. Thus, we have shown all conditions of [[Loop Invariant|LI]]
+5. Now we prove [[Partial Correctness Step|Partial Correctness]]
+	1. Suppose the loop terminates, then consider the values $s,d,i$ on exit
+	2. By [[Loop Invariant|LI]], $i\leq n$
+	3. By exit condition, $i \geq n$
+	4. Thus, $i=n$
+	5. By [[Loop Invariant|LI]], $s=i^{2} = n^{2}$
+	6. Therefore, by line $(6)$ $s=n^{2}$ as wanted $\square$
+6. Now we find an expression $e$ that forms a decreasing sequence of natural numbers
+	1. Choose $e = n-i$
+7. Then, we show that $e$ is decreasing sequence
+	1. By [[Loop Invariant|LI]], $i \leq n$
+	2. So, this means $e = n-i \geq 0$
+	3. Thus, $e \in \mathbb{N}$
+	4. Consider arbitrary iteration
+		1. Then, $e'=n-i'$
+		2. $=n-(i+1)$ By line $(5)$
+		3. $= n - i-1$
+		4. $=e -1$
+		5. $<e$
+		6. Thus, $e$ is always decreasing
+	5. Therefore, the sequence of $e$ forms a decreasing sequence of natural numbers $\square$
