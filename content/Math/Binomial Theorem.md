@@ -8,8 +8,11 @@ aliases:
 This is using pascal triangle to expand binomials.
 So a degree 3 binomial will match the coefficients with that row in the pascal's triangle.
 # Shorthand notation
-$(x+y)^n = \sum\limits_{i-0}^n = _{n}C_{i} x^{i-1}y^{i}$
-### Example
+$(x+y)^n = \sum\limits_{i-0}^n = \binom{n}{i} x^{i}y^{n-i}$
+### Corrolary
+$$\sum_{r=0}^{n} \binom{n}{r} = 2^{n}$$
+# Examples
+### Example 1
 $(x+y)^4$
 4th row of pascal triangle: 1 4 6 4 1
 $(x+y)^4 = x^4 + 4x^3y + 6x^2y^2 + 4xy^3 + y^4$

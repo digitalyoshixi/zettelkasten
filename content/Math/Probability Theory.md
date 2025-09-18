@@ -75,5 +75,7 @@ Course taught by Prof. Sotos.
 - [[CDF and RDF Example]]
 - [[Bernoulli Trials|Bernoulli Random Variables]]
 - [[Bernoulli Distribution]]
+- [[Binomial Random Variable]]
 - [[Binomial Distribution]]
-- 
+- [[Binomial Theorem]]
+- [[Hypergeometric Distribution]]
