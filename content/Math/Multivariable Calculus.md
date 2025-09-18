@@ -59,3 +59,8 @@ aliases:
 - [[Continuity]]
 - [[Partial Derivative]]
 - [[Linearization|Linear Approximation]]
+- [[Component Functions]]
+- [[Derivative Matrix]]
+- [[Gradient]]
+- [[Differentiability]]
+- [[Linear Approximation and Differentiability Theorem]]

@@ -13,6 +13,10 @@ It is differentiable on an interval $I$ if it is:
 - Differentiable at every point in the interior of $I$
 - It is right differentiable on closed left endpoints
 - It is left differentiable on closed right endpoints
+# Alternate Definition
+Let $D = Df(x_{0})$
+Then, $f$ is differentiable at $x_{0}$ if:
+$$\lim_{ x \to x_{0} } \frac{||f(x) - f(x_{0}) - D * (x-x_{0})||}{||x - x_{0}||} = 0$$
 # Non Differentiable Cases
 1. Cusp. Sharp change from left slope to right slope
 ![[Derivative-20240214132001847.webp|205]]
