@@ -73,4 +73,7 @@ Course taught by Prof. Sotos.
 - [[Probability Mass Function]]
 - [[Cumulative Distribution Function]]
 - [[CDF and RDF Example]]
-- [[Continuity of CDF is Same as Continuity of Set Function]]
+- [[Bernoulli Trials|Bernoulli Random Variables]]
+- [[Bernoulli Distribution]]
+- [[Binomial Distribution]]
+- 

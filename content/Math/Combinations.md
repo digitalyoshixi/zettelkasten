@@ -10,9 +10,15 @@ It is a selection from a group of items without regard to order.
  - $_nC_r$
  - $C(n,r)$
  - $C_{n}^{r}$
+ - $\binom{n}{r}$
 # Combinations Formula
 $_{n}C_{r} = \frac{_{n}P_{r}}{r!}$
  = $\frac{n!}{(n-r)!(r!)}$
+# Properties
+- $\binom{n}{0} = \binom{n}{n}= 1$
+- $\binom{n}{1} = \binom{n}{n-1}=n$
+- $\binom{n}{k} = \binom{n}{n-k}$
+- $\binom{n+1}{k+1} = \binom{n}{k}+\binom{n}{k+1}$
 # Concepts
 - [[Combination Subset Formula]]
 - [[Combinations with Repetition]]

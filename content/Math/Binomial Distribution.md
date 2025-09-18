@@ -3,20 +3,17 @@ tags:
   - math
   - distributions
 ---
-We use binomial theorem in tandem with probabilities to get our probability distributions.
-A Binomial distribution is used to model specific independant trials in which the outcome is either success or failure and the probability of success is the same each trial.
-Probability is how we divide 1 by into cases.
-## Bernoulli Trials
-To find out if a problem involves binomial distribution, you consult [[Bernoulli Trials]]
+A [[Discrete Distribution]] used to model [[Independent Events|Independent]] [[Bernoulli Trials]] .
+Uses [[Binomial Theorem]] in tandem with probabilities to get our probability distributions.
 # Probability in a Binomial Distribution
-**P(x) = $_{n}C_{x}p^xq^{n-x}$**
-p is the probability of success on any individual trial. (eg. 50% a coin toss)
-q = 1 - p
-n = number of trials
-P total number of trials
-x = result
+$P(x)=_{n}C_{x}p^xq^{n-x}$
+- p is the probability of success on any individual trial. (eg. 50% a coin toss)
+- q = 1 - p
+- n = number of trials
+- P total number of trials
+- x = result
 # Expectation Formula
-E(X) = np
+$$E(X) = np$$
 # Examples
 ### Example 1
 heads probability 50%, tails probability 50%. probability distribution of flipping 3 times
