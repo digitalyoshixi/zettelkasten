@@ -2,7 +2,7 @@
 tags:
   - programming
 ---
-A [[Data Structures]] that uses an array like a [[Hashmap]].
+A [[Data Structures and Algorithms|Data Structures]] that uses an array like a [[Hashmap]].
 Each index is for a specific key.
 # Example
 [[Valid Anagram]]

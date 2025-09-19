@@ -49,3 +49,5 @@ aliases:
 - [[Pascal]]
 - [[Program Correctness]]
 - [[Loop Invariant]]
+- [[Iterative Program Correctness]]
+- [[Recursive Program Correctness]]
