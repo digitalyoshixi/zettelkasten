@@ -2,6 +2,8 @@
 tags:
   - math
   - discrete_math
+aliases:
+  - Predicate
 ---
 A [[Mathematical Statement]] $P$ about a variable $x$
 These are translations from English sentences to logical statements that take an arbitrary [[Free Variable]] like P(x). The quantifiers can be evaluated with an input to return true or false

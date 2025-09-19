@@ -51,3 +51,4 @@ aliases:
 - [[Loop Invariant]]
 - [[Iterative Program Correctness]]
 - [[Recursive Program Correctness]]
+- [[Pythonized Lemma 2]]
