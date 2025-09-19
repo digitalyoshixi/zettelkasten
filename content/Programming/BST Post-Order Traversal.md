@@ -2,6 +2,8 @@
 tags:
   - c
   - programming
+aliases:
+  - Depth First Traversal
 ---
 1. Visit left subtree
 2. Visit right subtree
