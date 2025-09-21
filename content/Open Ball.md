@@ -2,6 +2,8 @@
 tags:
   - math
   - calculus
+aliases:
+  - Neighborhood
 ---
 # Definition
 A ball of radius $r$ and center $p \in \mathbb{R}^{n}$ defined as:

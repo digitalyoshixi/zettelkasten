@@ -8,7 +8,7 @@ Its a notation to signify the y value that you get when you x approaches a value
 The value of f(x) can be made arbitrarily close to L by choosing x sufficiently close to a but not equal to A
 # Definitions
 - [[Limits Formalized Definition]]
-- [[Open Set Limits Definition]]
+- [[Open Set Version of Limits Definition]]
 # Finding Limits
 ### Existence Hints
 A limit exists if:

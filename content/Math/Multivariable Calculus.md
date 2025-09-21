@@ -52,7 +52,7 @@ aliases:
 - [[Open Ball]]
 - [[Open Set]]
 - [[Ball-Box Inequality]]
-- [[Open Set Limits Definition]]
+- [[Open Set Version of Limits Definition]]
 - [[Two Dimensional Limit Proof Example]]
 - [[Limits Across Paths]]
 - [[Limits Existence Implies Equality Along All Paths]]
