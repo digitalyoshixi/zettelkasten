@@ -95,3 +95,4 @@ in `Main.hs`
 - [[Haskell rec]]
 - [[Haskell map]]
 - [[Haskell zipWith]]
+- [[Haskell filter]]
