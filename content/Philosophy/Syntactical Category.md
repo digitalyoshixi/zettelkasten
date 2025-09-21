@@ -14,7 +14,7 @@ tags:
 - [[Auxilliary]]
 - [[Conjunction]]
 - [[Degree Word]]
-### [[Lex|Lexical]]
+### [[Philosophy/Lex|Lexical]]
 These add 'content'/meaning to a word. They are an [[Open Class]]
 - [[Noun]]
 - [[Adjective]]

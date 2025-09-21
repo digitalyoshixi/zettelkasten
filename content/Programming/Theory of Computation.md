@@ -4,6 +4,7 @@ tags:
 aliases:
   - CSCB36
 ---
+Computer science as a science.
 # Notes
 - Course taught by Nick Cheng
 - 5 Tutorial sections
@@ -34,6 +35,7 @@ aliases:
 - [[Such That]]
 - [[Twin Prime]]
 - [[Twin Prime Conjecture]]
+- [[Halting Problem]]
 ### Week 2
 - [[Binary String]]
 - [[Counting Odd Parity Substrings from Given Binary String]]
@@ -52,3 +54,8 @@ aliases:
 - [[Iterative Program Correctness]]
 - [[Recursive Program Correctness]]
 - [[Pythonized Lemma 2]]
+# Extra
+- [[Finite State Automata|Finite State Machine]]
+- [[Context Free Language|CFL]]
+- [[Turing Machine]]
+- [[Undecidable]]
