@@ -29,6 +29,7 @@ A high-performance language designed to be used for a website's backend.
 - [[Go JSON]]
 - [[Go CORS]]
 - [[Goroutine]]
+- [[Go Log]]
 # Initialize Module
 ```
 go mod init mymodule
