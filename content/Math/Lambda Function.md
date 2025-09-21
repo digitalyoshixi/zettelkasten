@@ -4,6 +4,7 @@ tags:
   - programming
 aliases:
   - Anonymous Function
+cssclasses:
 ---
 A function that does not have a specific name, can be called directly.
 # Notation

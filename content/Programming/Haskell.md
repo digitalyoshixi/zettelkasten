@@ -32,6 +32,7 @@ in `Main.hs`
 - [[Side Effects]]
 - [[Glasgow Haskell Compiler Interactive|ghci]]
 - [[Haskell Interface File]]
+- [[Hoogle]]
 ### Essential
 - [[Haskell Operators]]
 - [[Haskell Type]]
@@ -64,6 +65,8 @@ in `Main.hs`
 ### Specific [[Haskell Typeclass]]
 - [[Haskell Show]]
 - [[Haskell Maybe]]
+### Haskell Libraries
+- [[Haskell base]]
 ### Specific Functions
 - [[Haskell succ]]
 - [[Haskell min]]
@@ -90,3 +93,5 @@ in `Main.hs`
 - [[Haskell ap]]
 - [[Haskell fix]]
 - [[Haskell rec]]
+- [[Haskell map]]
+- [[Haskell zipWith]]
