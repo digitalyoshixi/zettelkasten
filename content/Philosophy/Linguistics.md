@@ -55,7 +55,7 @@ aliases:
 ### Week 1.1
 - [[Linguistic Competence]]
 - [[Linguistic Performance]]
-- [[Grammar]]
+- [[Philosophy/Grammar]]
 - [[Morphology]]
 - [[Syntax]]
 - [[Phonetics]]

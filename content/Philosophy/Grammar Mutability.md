@@ -2,4 +2,4 @@
 tags:
   - linguistics
 ---
-All [[Grammar]] changes overtime.
+All [[Philosophy/Grammar]] changes overtime.

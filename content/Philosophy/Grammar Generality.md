@@ -2,4 +2,4 @@
 tags:
   - linguistics
 ---
-All languages have [[Grammar]]
+All languages have [[Philosophy/Grammar]]

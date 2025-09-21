@@ -54,8 +54,17 @@ Computer science as a science.
 - [[Iterative Program Correctness]]
 - [[Recursive Program Correctness]]
 - [[Pythonized Lemma 2]]
-# Extra
+### Extra (Neso Academy)
 - [[Finite State Automata|Finite State Machine]]
 - [[Context Free Language|CFL]]
 - [[Turing Machine]]
 - [[Undecidable]]
+- [[Symbol]]
+- [[Alphabet]]
+- [[String]]
+- [[Programming/Language|Language]]
+- [[Powers of Sigma]]
+- [[Set Cardinality]]
+- [[Grammar]]
+- [[Context Free Grammar]]
+- [[Chomsky Hierarchy]]

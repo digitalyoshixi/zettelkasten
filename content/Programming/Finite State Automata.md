@@ -13,6 +13,7 @@ A abstract machine that have:
 - Output haves are determined by states and transitions
 They are modelled by [[State Diagram]] or [[State Table]]
 ![[Finite State Automata-20250603150758964.webp|320]]
+
 # FSM Design Steps
 1. Draw a [[State Diagram]]
 2. Derive a [[State Table]] from state diagram
