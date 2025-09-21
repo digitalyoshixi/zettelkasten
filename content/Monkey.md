@@ -20,3 +20,5 @@ A toy language used in Writing an Interpreter in Go.
 - [[Monkey Array]]
 - [[Monkey Hash]]
 - [[Monkey First Class Function]]
+- [[Monkey Conditional Statement]]
+- [[Monkey Higher Order Function]]

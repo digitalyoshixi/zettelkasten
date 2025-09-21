@@ -36,7 +36,9 @@ go mod init mymodule
 # Boilerplate
 ```go
 package main
-import "fmt"
+import (
+	"fmt"
+)
 
 func main(){
 	fmt.Println("I hope i get the job!");
