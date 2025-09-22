@@ -11,6 +11,5 @@ Remember that if the components are continuous, then you can prove:
 - products
 - quotients 
 of the functions are continuous aswell
-
 # Proofs
 - [[Continuity Theorem Addition Proof]]
