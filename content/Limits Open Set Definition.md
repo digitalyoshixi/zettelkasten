@@ -2,6 +2,8 @@
 tags:
   - calculus
   - math
+aliases:
+  - Limits Neighbourhood Definition
 ---
 # Definition
 Suppose $f : D \subset \mathbb{R}^{n} \to \mathbb{R}^{k}$ where $D$ is an [[Open Set]]

@@ -52,6 +52,7 @@ aliases:
 - [[Open Set]]
 - [[Ball-Box Inequality]]
 - [[Limits Open Set Definition]]
+- [[Limits Formalized Definition|Epsilon Delta Limit Definition]]
 - [[Two Dimensional Limit Proof Example]]
 - [[Limits Across Paths]]
 - [[Limits Existence Implies Equality Along All Paths]]

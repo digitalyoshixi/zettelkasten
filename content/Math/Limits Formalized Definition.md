@@ -9,7 +9,7 @@ aliases:
 # Formalized Definition
 The limit $\lim_{ x \to c} = L$ (where there is an implicit assumption that $\exists L \in R$)
 Such that
-$$\forall \epsilon > 0, \exists \delta >0\ \text{ s.t } 0 <|x-c|<\delta \implies|f(x)-L|< \epsilon$$
+$$\forall \epsilon > 0, \exists \delta >0\ \text{ s.t } \forall x \in \mathbb{R},  0 <|x-c|<\delta \implies|f(x)-L|< \epsilon$$
 # Non-Formal Definition
 Think of it like a shrinking windows around point $c$
 ![[Limits Formalized Definition-20240919094612028.webp]]

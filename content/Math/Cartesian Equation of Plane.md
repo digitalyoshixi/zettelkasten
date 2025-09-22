@@ -7,5 +7,5 @@ To do this normal vector, get the cross product of the 2 direction vectors of th
 Once you get the normal line $\vec{n}=[a,b,c]$
 The formula for the cartesian plane is
 $$ax+bx+cz+d=0$$
-where $a,b,c$ can be gotten from the normal line.
+where $a,b,c$ can be gotten from [[Normal Vector from Cartesian Equation of Plane]]
 To get $d$, sub in the position vector's components as the $x,y,z$ values into the cartesian equation.
