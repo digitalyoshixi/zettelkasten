@@ -66,3 +66,5 @@ aliases:
 - [[Linear Approximation and Differentiability Theorem]]
 ### Week 4
 - [[Product Rule for Derivatives]]
+- [[Chain Rule for Total Derivatives]]
+- [[Chain Rule and Gradients]]
