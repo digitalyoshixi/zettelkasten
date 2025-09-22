@@ -14,11 +14,10 @@ aliases:
 # Concepts
 ### Week 1
 - [[Math/Graph]]
-- [[Multidimensional Limits]]
+- [[Limits Across Paths]]
 - [[Multi-Variate Function]]
 - [[Graph Slice]]
 - [[Level Sets]]
-- [[Limits Across Paths]]
 - [[Partial Derivative]]
 - [[Euclidean Space]]
 ### Week 2
@@ -60,7 +59,7 @@ aliases:
 - [[Partial Derivative]]
 - [[Linearization|Linear Approximation]]
 - [[Component Functions]]
-- [[Derivative Matrix]]
+- [[Derivative Matrix Definition]]
 - [[Gradient]]
 - [[Differentiability]]
 - [[Linear Approximation and Differentiability Theorem]]

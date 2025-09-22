@@ -4,7 +4,7 @@ tags:
   - calculus
 ---
 # Definition
-- Given a function $c:[a,b] \to \mathbb{R}^{n}$ is a curve or path.
+- Given a [[Path]] $c:[a,b] \to \mathbb{R}^{n}$ is a curve or path.
 - If $\lim_{ t \to b }c(t)=x_{0}$
 - Then, the limit $\lim_{ x \to x_{0} }f(x)$ along path $c(t)$ is equivalent to $\lim_{ t \to b }f(c(t))$
 # Example

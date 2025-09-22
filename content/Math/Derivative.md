@@ -3,17 +3,8 @@ tags:
   - math
 aliases: []
 ---
-# Table Of Contents 
-```table-of-contents
-```
-The derivative is using the [[Difference Quotient]] to create a prime function.
-### [[Differentiability]]
-For a point to be differentiable and have a derivative, it must:
-1. Be continuous at that point
-2. $$f'(x^-)=f'(x)=f'(x^+)$$left limit's **slope** be the same as the right limit's **slope** which is same as the limit's **slope**. If there is a sharp jump from one slope to the other, then it is not differentiable
-# Concepts
-- [[Derivative Formal Definition]]
-- [[Difference Quotient|First Principles]]
+A measure for the rate of change for a [[Subroutine|Function]] with one input and one output.
+Derived from the [[Difference Quotient]].
 # Notations
 ### Leibniz Notation
 $\frac{dy}{dx}f(x)$
@@ -27,7 +18,11 @@ OR
 $\frac{dy}{dx}|_{x=a,y=b}$
 ### Prime
 $f'(x)$
-
+# Concepts
+- [[Differentiability]]
+- [[Derivative Formal Definition]]
+- [[Derivative Matrix Definition]]
+- [[Difference Quotient|First Principles]]
 # Derivation Rules
 These are all theorems.
 1. The first part declares the new function is differentiable and that individual derivatives exist
