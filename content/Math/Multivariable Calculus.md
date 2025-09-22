@@ -51,6 +51,7 @@ aliases:
 - [[Open Ball]]
 - [[Open Set]]
 - [[Ball-Box Inequality]]
+- [[Limits]]
 - [[Limits Open Set Definition]]
 - [[Limits Formalized Definition|Epsilon Delta Limit Definition]]
 - [[Two Dimensional Limit Proof Example]]

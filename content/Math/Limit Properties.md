@@ -5,6 +5,8 @@ tags:
 Because limits have the unique ability to determine values at discontinuities, it is much more efficient to evaluate with limits than regular substitution.
 https://en.wikibooks.org/wiki/Calculus/Proofs_of_Some_Basic_Limit_Rules
 **Before using limit properties, you must show that both limits $\lim_{ x \to c }f(x)=L$ and $\lim_{ x \to c }g(x)=M$ exist**
+##### [[Unique Limits Proof|Limits are Unique]]
+##### [[Limits Determined by Component Functions]]
 ##### Identity Rule
 $$\lim_{x \to a} x = a$$
 ##### Constant Rule
