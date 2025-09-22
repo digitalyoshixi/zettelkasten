@@ -14,29 +14,19 @@ The determinant is the alternating [[Multilinear Map]] function that sends the i
 	2. [[Multilinear Map]]
 	3. Satisfies $f(I) = 1$
 	Then, $f = \det$
-# Multilinear Properties
-### Normalization Property
-$\det(I) = 1$
-Where $I$ is the [[Identity Transformation]]
-### Product Property
-$\det(AB) = \det(A)\det(B)$
-### Exponential Property
-$\det(A^{k}) = (\det(A))^{k}$
-### Constant Multiple Property
-If $A$ is $n \times n$ matrix
-$\det(kA) = k^{n}\det(A)$
-### Transpose Property
-$\det(A) = \det(A^{T})$ where $A^{T}$ is the matrix transpose of $A$.
-### Invertability Property
-$\det(A^{-1}) = \frac{1}{\det(A)}$
-### Interchanging Property
-Interchanging two rows or columns multiplies the determinant by $(-1)$
-### Row Multiplication Property
-Multiplying a row by $k$ multiplies the determinant by $k$
-### Linear Combination Property
-Adding a multiple of one row to another does not change the value of the determinant
-### Identical Rows Property
-If two rows are identical than the determinant is zero
+# Properties
+- $\det(I) = 1$
+- $\det(AB) = \det(A)\det(B)$
+- $\det(A^{k}) = (\det(A))^{k}$
+- If $A$ is $n \times n$ matrix, $\det(kA) = k^{n}\det(A)$
+- $\det(A) = \det(A^{T})$ where $A^{T}$ is the matrix transpose of $A$.
+- $\det(A^{-1}) = \frac{1}{\det(A)}$
+- Interchanging two rows or columns multiplies the determinant by $(-1)$
+- Multiplying a row by $k$ multiplies the determinant by $k$
+- Adding a multiple of one row to another does not change the value of the determinant
+- If two rows are identical than $\det(A) =0$
+- $\det ([v_{1},\dots,v_{n}]) = \text{ signed volume of parallelpiped by } \{ v_{1},\dots,v_{n} \}$
+- $\det(A) \neq 0 \Longleftrightarrow A$ [[Linear Map Inverse|Invertible]]
 # Theorems
 - [[Determinants and Invertiblity Theorem]]
 - [[Determinants and Row Operations]]

@@ -28,6 +28,9 @@ b_{1} &b_{2}
 \end{array}\right]
 $$
 # Properties
+- Length of $a \times b$ is an area of the parllelogram spanned by $a$ and $b$
+- $|| a \times b || = ||a ||  || b|| \sin \theta$
+- $a \times b$ orthogonal to $a$ and $b$
 - Linearity : $(au + bv) \times w = a(u \times w) + b(v \times w)$
 - [[Alternating|Anticommutivity]] : $(u \times v) = - (v \times u)$
 - Dependence detecting : $\{ u,v \}$ dep $\implies u \times v = 0$
