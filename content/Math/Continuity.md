@@ -7,6 +7,8 @@ aliases: Continuous
 You can plug a in to find the limit if the function is continuous.
 # Limit Approaching Value Definition
 $$\lim_{ x \to c}f(x) = f(c) $$
+# Full Continuity
+A function $f$ is continuous if $\forall c \in dom(f), \lim_{ x \to c }f(x)=f(c)$
 # Definition
 A function $f(x)$ is continuous at $x=a$ if $\lim_{ x \to a }f(x)=f(a)$
 This definition can be thought of as a 3 part definition:
