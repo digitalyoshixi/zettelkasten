@@ -68,3 +68,6 @@ aliases:
 - [[Product Rule for Derivatives]]
 - [[Chain Rule for Total Derivatives]]
 - [[Chain Rule and Gradients]]
+- [[Directional Derivative]]
+- [[Gradient as the Direction of Fastest Increase]]
+- [[Gradient Perpendicular to Level Sets]]
