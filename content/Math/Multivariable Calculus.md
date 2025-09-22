@@ -52,7 +52,7 @@ aliases:
 - [[Open Ball]]
 - [[Open Set]]
 - [[Ball-Box Inequality]]
-- [[Open Set Version of Limits Definition]]
+- [[Limits Open Set Definition]]
 - [[Two Dimensional Limit Proof Example]]
 - [[Limits Across Paths]]
 - [[Limits Existence Implies Equality Along All Paths]]
@@ -64,3 +64,5 @@ aliases:
 - [[Gradient]]
 - [[Differentiability]]
 - [[Linear Approximation and Differentiability Theorem]]
+### Week 4
+- [[Product Rule for Derivatives]]
