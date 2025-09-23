@@ -2,6 +2,8 @@
 tags:
   - docker
   - virtualization
+aliases:
+  - Docker Purge All
 ---
 
 ```
