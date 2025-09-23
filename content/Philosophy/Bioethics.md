@@ -82,3 +82,5 @@ A course about the ethics of medicine.
 - [[Covid Patient at Mall Thought Experiment]]
 ### Week 4
 - [[Transferring Authority Thought Experiment]]
+- [[Informed Consent]]
+- [[Consent Conditions]]

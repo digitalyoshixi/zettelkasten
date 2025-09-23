@@ -62,6 +62,7 @@ Responsible for maintaining the design and evaluation of systems.
 - [[Task Description and Analysis]]
 - [[Hierarchical Task Analysis]]
 ### Week 4
+- [[Contextual Inquiry]]
 - [[Prototype]]
 - [[Fidelity]]
 - [[Conceptual Design]]
