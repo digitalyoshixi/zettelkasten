@@ -23,7 +23,7 @@ $$P(Y=y)=q^{y-1}p, \forall y \in \mathbb{N}$$
 # [[Cumulative Distribution Function|CDF]]
 $$F_{X}(x) = P(X < x) = \sum_{k=0}^{x } p_{x}(k) = 1-q^{x+1}, \forall x \in \mathbb{N}$$
 # Expectation formula
-$E(x)=\sum\limits_{x\to0}^\infty = xP(x) = \frac{q}{p}$
+$E(Y)=\sum\limits_{y=1}^\infty = \frac{q}{p}$
 ### Example
 Calculate the probability distribution for getting out of jail in MONOPOLY in x rolls of dice.
 - $p  = 6/36 = 1/6$
