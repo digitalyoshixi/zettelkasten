@@ -9,8 +9,7 @@ aliases:
 - [[Normal Distributions]]
 - [[Density Function]]
 - [[Bimodal Distribution]]
-
-there is also the chi-squared distribution for genetrics
+- [[Chi-Squared Distribution]]
 # Skews
 - [[Skewed Distribution]]
 # Other meh shit

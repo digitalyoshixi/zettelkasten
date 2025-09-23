@@ -85,3 +85,4 @@ Course taught by Prof. Sotos.
 - [[Geometric Series]]
 - [[Negative Binomial Distribution]]
 - [[Poisson Distribution]]
+- [[Variance]]

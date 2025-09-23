@@ -2,6 +2,8 @@
 tags:
   - math
   - statistics
+aliases:
+  - Indicator RV
 ---
 A [[Discrete Random Variable]] that is split into two sets used to describe if an event will happen.
 ![[Indicator Random Variable-20250916134957824.webp]]
