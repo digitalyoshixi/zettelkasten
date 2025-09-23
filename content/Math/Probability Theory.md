@@ -86,3 +86,4 @@ Course taught by Prof. Sotos.
 - [[Negative Binomial Distribution]]
 - [[Poisson Distribution]]
 - [[Variance]]
+- [[Urn Problem]]
