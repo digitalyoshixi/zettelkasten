@@ -11,3 +11,4 @@ aliases:
 - [[Ethernaut]]
 - https://www.damnvulnerabledefi.xyz/
 - https://capturetheether.com/
+- https://workshop.neodyme.io/setup.html

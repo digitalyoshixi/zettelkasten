@@ -13,6 +13,7 @@ A course about the ethics of medicine.
 	- Zoom OH
 - Ethics consultation simulations will require you to record a video to your response of a situtation
 - Oct 10 quiz (10%)
+	- A [[Beauchamp and Childress Four Principles of Biomedical Ethics]] can be in tension with itself, if it is unclear about what to do
 - Ethics consultation simulation (20%)
 - Ethics consultation simulation (27%)
 - Oral exam (33%) - meet with your TA and you will answer 2/5 discussion-based questions. oral exam is 20min per person, 7.5 mins for each question. No aids allowed
@@ -79,3 +80,5 @@ A course about the ethics of medicine.
 - [[Tarasoff Abuse Thought Experiment]]
 - [[Duty to Warn]]
 - [[Covid Patient at Mall Thought Experiment]]
+### Week 4
+- [[Transferring Authority Thought Experiment]]
