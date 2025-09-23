@@ -82,5 +82,6 @@ Course taught by Prof. Sotos.
 ### Week 4
 - [[Expectations]]
 - [[Geometric Distribution]]
+- [[Geometric Series]]
 - [[Negative Binomial Distribution]]
 - [[Poisson Distribution]]
