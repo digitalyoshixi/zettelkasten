@@ -10,3 +10,4 @@ aliases:
   - Microsoft Intermediate Language
 ---
 The [[Intermediate Representation|IR]] for [[dot NET|.NET]] programs.
+It contains the symbol information for the original program.

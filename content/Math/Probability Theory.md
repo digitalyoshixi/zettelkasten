@@ -79,3 +79,8 @@ Course taught by Prof. Sotos.
 - [[Binomial Distribution]]
 - [[Binomial Theorem]]
 - [[Hypergeometric Distribution]]
+### Week 4
+- [[Expectations]]
+- [[Geometric Distribution]]
+- [[Negative Binomial Distribution]]
+- [[Poisson Distribution]]

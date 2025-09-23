@@ -56,3 +56,4 @@ tags:
 - Obsidian plugin that connects your vault to all community vaults, so you can see the backlinks that other people have to your notes. Hosted on a [[Blockchain]]
 - [[Fast Library Identification and Recognization Technology|FLIRT]] but it sources the compiled entries of github programs (like github copilot for code segment recognition)
 - [[Really Simple Syndication|RSS]] feed, but for every website, get notifications on every site change
+- A extension to modify your resume that is ATS perfect

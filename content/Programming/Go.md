@@ -30,6 +30,9 @@ A high-performance language designed to be used for a website's backend.
 - [[Go CORS]]
 - [[Goroutine]]
 - [[Go Log]]
+- [[Go OS]]
+# Guides
+- [[Go Read File]]
 # Initialize Module
 ```
 go mod init mymodule
