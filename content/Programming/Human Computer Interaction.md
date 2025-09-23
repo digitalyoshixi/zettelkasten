@@ -64,3 +64,7 @@ Responsible for maintaining the design and evaluation of systems.
 ### Week 4
 - [[Prototype]]
 - [[Fidelity]]
+- [[Conceptual Design]]
+	- [[Metaphor]]
+- [[Concrete Design]]
+- [[Design Map]]
