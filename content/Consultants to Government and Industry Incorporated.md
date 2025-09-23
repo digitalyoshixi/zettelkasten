@@ -1,0 +1,6 @@
+---
+tags:
+  - jobs
+aliases:
+  - CGI
+---

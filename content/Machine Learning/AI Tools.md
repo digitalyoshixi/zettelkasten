@@ -1,6 +1,8 @@
 ---
 tags:
   - machine_learning
+aliases:
+  - AI List
 ---
 Obtained from mrexodia
 # Tools List

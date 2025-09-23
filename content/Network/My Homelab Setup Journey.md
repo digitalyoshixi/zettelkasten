@@ -57,3 +57,6 @@ I renamed the hostname, forgot to backup and ruined my nodes. now i have to rein
 # May 29 2025
 - The issue with my previous invidious instance was that, invidious's tutorial expected the reverse proxy to run on the same device that is hosting invidious. My device was not!
 - So, obviously we expose the original website, but I did not expose the server (invidious companion) to the public, so I changed that in NGINX to create a new subdomain for the server, now thats publically accessible!!!
+# Sep 22 2025
+- We need to setup pihole as a DHCP server, since it cannot be set as a DNS https://johnbeales.com/2023/make-a-pi-hole-work-with-a-bell-giga-hub/
+  
