@@ -31,7 +31,7 @@ int DFS(int adj_mat[5][5], int start_node, int end_node, int* marked){
   for (int i = 0; i < 5; i++){
     if (adj_mat[start_node][i] == 1){
       if (marked[i] == 0){
-        return 1 + BFS(adj_mat, i, end_node, marked);
+        return 1 + DFS(adj_mat, i, end_node, marked);
       }
     }
   }
