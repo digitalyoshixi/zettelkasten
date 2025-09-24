@@ -2,6 +2,9 @@
 tags:
   - philosophy
   - law
+aliases:
+  - Framing Effect
+  - Loss Frame Bias
 ---
 A bias that is given in the presentation of a topic.
 # Example
