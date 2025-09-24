@@ -80,7 +80,9 @@ A course about the ethics of medicine.
 - [[Tarasoff Abuse Thought Experiment]]
 - [[Duty to Warn]]
 - [[Covid Patient at Mall Thought Experiment]]
+- [[Representative Heuristic]]
 ### Week 4
 - [[Transferring Authority Thought Experiment]]
 - [[Informed Consent]]
 - [[Consent Interference]]
+- [[Antibiotic Resistance]]
