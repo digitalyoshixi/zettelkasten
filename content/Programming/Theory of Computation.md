@@ -54,6 +54,8 @@ Computer science as a science.
 - [[Iterative Program Correctness]]
 - [[Recursive Program Correctness]]
 - [[Pythonized Lemma 2]]
+### Week 4
+- Nothing new, just practice
 ### Extra (Neso Academy)
 - [[Finite State Automata|Finite State Machine]]
 - [[Context Free Language|CFL]]
