@@ -83,3 +83,4 @@ A course about the ethics of medicine.
 ### Week 4
 - [[Transferring Authority Thought Experiment]]
 - [[Informed Consent]]
+- [[Consent Interference]]
