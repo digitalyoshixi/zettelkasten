@@ -8,7 +8,8 @@ aliases:
   - Expected Value
 ---
 An expectation of value $E(X)$ means the expectation or average of a given [[Random Variable]]
-Probability has everything to do with expectations
+Probability has everything to do with expectations.
+Thought of as the weighted center of a [[Probability Distribution]].
 # Expectation Formula
 $$E(X) = \sum_{X}^{}xp_{x}(x)$$
 - $X$ is the given random variable

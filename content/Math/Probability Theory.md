@@ -14,6 +14,8 @@ Course taught by Prof. Sotos.
 - Office hours TUES, THURS 1-3pm IA4072
 - 15% quiz best 9/11
 - Term test 1 20% (Week 1-4)
+	- Formula sheet will be handed out
+	- A tiny bit of expectations questions
 - Term test 2 20% (Week 5-8)
 - Final 45%
 - Problem-set and solution set will be posted each week
@@ -88,3 +90,4 @@ Course taught by Prof. Sotos.
 - [[Poisson Distribution]]
 - [[Variance]]
 - [[Urn Problem]]
+- 
