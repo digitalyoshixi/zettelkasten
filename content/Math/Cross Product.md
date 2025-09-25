@@ -9,7 +9,7 @@ $$u \times v = (u_{2}v_{3} - u_{3}v_{2}, u_{3}v_{1} - u_{1}v_{3}, u_{1}v_{2}-u_{
 $$u \times v = ||v || ||w|| \sin \theta$$
 # Cross Product as a Matrix
 $$a \times b = 
-\left[\begin{array}{cc} 
+\det\left[\begin{array}{cc} 
 i & j & k\\
 a_{1} & a_{2} & a_{3}\\
 b_{1} & b_{2} & b_{3}\\
