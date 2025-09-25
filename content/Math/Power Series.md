@@ -15,6 +15,8 @@ Where:
 - Test with [[Ratio Test]]
 # Theorems
 - [[Power Series Convergence Possibilities Theorem]]
+# Tricks
+- [[Power Series for Exponential Function]]
 # Examples
 ### Example 1
 $\sum_{n=1}^{\infty} \frac{(x-3)^{n}}{4^{n}}$ is a power series where:
