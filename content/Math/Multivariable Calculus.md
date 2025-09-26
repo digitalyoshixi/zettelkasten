@@ -72,3 +72,4 @@ aliases:
 - [[Directional Derivative]]
 - [[Gradient as the Direction of Fastest Increase]]
 - [[Gradient Perpendicular to Level Sets]]
+- [[Hessian Matrix]]
