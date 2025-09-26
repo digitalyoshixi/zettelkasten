@@ -57,3 +57,4 @@ tags:
 - [[Fast Library Identification and Recognization Technology|FLIRT]] but it sources the compiled entries of github programs (like github copilot for code segment recognition)
 - [[Really Simple Syndication|RSS]] feed, but for every website, get notifications on every site change
 - A extension to modify your resume that is ATS perfect
+- Regex creator from a series of strings and matches
