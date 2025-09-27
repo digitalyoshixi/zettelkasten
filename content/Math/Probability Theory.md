@@ -92,3 +92,4 @@ Course taught by Prof. Sotos.
 - [[Poisson Distribution]]
 - [[Variance]]
 - [[Urn Problem]]
+- [[Binomial Formulas]]

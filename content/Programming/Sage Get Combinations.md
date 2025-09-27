@@ -3,7 +3,7 @@ tags:
   - math
 ---
 ```python
-C2 = Combinations(range(4),2); C2
+C2 = Combinations(range(4),2)
 C2.list()
 C2.cardinality()
 ```
