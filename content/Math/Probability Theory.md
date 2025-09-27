@@ -90,4 +90,4 @@ Course taught by Prof. Sotos.
 - [[Poisson Distribution]]
 - [[Variance]]
 - [[Urn Problem]]
-- 
+- [[CDF to PMF]]
