@@ -6,7 +6,8 @@ tags:
 aliases:
   - PMF
 ---
-A Discrete real-valued function that maps possible values of [[Random Variable]] into $[0,1]$ probabilities
+A probability distribution for [[Discrete Random Variable]] that maps single events into $[0,1]$ probabilities
+![[Probability Mass Function-20250927122559148.webp|256]]
 # Notation
 $$p_{X}(x_{i}) $$
 This mapping is often not represented as a formula, but a table instead.

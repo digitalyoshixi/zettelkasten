@@ -73,6 +73,7 @@ Course taught by Prof. Sotos.
 - [[Probability Distribution]]
 - [[Functions of Random Variables]]
 - [[Probability Mass Function]]
+- [[Probability Density Function]]
 - [[Cumulative Distribution Function]]
 - [[PMF From CDF]]
 - [[CDF and RDF Example]]
@@ -90,4 +91,3 @@ Course taught by Prof. Sotos.
 - [[Poisson Distribution]]
 - [[Variance]]
 - [[Urn Problem]]
-- [[CDF to PMF]]

@@ -3,6 +3,8 @@ tags:
   - math
   - statistics
   - probability
+aliases:
+  - CDF to PDF
 ---
 # Formula
 $$p_{x}(k) = F(k)-  \lim_{ x \to k }F(x)$$
