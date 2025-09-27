@@ -76,6 +76,7 @@ Course taught by Prof. Sotos.
 - [[Probability Density Function]]
 - [[Cumulative Distribution Function]]
 - [[PMF From CDF]]
+- [[PDF From CDF]]
 - [[CDF and RDF Example]]
 - [[Bernoulli Trials|Bernoulli Random Variables]]
 - [[Bernoulli Distribution]]
