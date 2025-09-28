@@ -3,6 +3,13 @@ tags:
   - web
 ---
 This is a [[Domain Name|FQDN]] provider.
+# Porkbun Nameservers
+```
+curitiba.ns.porkbun.com
+fortaleza.ns.porkbun.com
+maceio.ns.porkbun.com
+salvador.ns.porkbun.com
+```
 # Porkbun DNS Updating Script
 ```sh
 #!/bin/bash
