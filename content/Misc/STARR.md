@@ -3,11 +3,16 @@ tags:
   - jobs
 ---
 # Situation
+The situtation in question.
 # Task
-You can choose this
+You can choose this.
+These were the tasks involved in the situtation.
 # Action
+These are the steps you took to resolve those tasks.
 # Result
+This is the result of your actions and the feedback you recieved
 # Relevance
+This is how this is relevant to the job
 
 
 # My Starrs
