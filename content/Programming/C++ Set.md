@@ -16,4 +16,7 @@ cars.erase("Volvo");
 cout << cars.size();  // Outputs 4
 // Remove all elements
 cars.clear();
+if (cars.contains("Tesla")){
+	cout << "yes,there is a tesla";
+}
 ```
