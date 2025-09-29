@@ -76,3 +76,11 @@ aliases:
 ### Week 5
 - [[Unit Normals to a Curve]]
 - [[Necessary Conditions for Differentiability]]
+- [[Pure Partial Derivative]]
+- [[Iterated Partial Derivative]]
+- [[Class Functions]]
+- [[Equality of Mixed Partials]]
+- [[Subscript Notation for Derivatives]]
+- [[Heat Equation]]
+- [[Wave Equation]]
+- [[Taylor's Theorem in One Dimension]]

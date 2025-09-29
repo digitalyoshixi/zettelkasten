@@ -6,6 +6,7 @@ aliases:
   - TS
 ---
 A method of expressing a function as a [[Power Series]] of that function's derivatives.
+Allows for approximating a function if the derivatives are known.
 # Formal Definition
 - For a given function $f(x)$
 - Considering power series $\sum_{n=1}^{\infty} C_{n}(x-a)^{n}$
