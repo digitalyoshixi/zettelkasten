@@ -75,3 +75,4 @@ aliases:
 - [[Hessian Matrix]]
 ### Week 5
 - [[Unit Normals to a Curve]]
+- [[Necessary Conditions for Differentiability]]
