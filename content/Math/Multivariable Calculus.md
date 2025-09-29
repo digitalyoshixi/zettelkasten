@@ -73,3 +73,5 @@ aliases:
 - [[Gradient as the Direction of Fastest Increase]]
 - [[Gradient Perpendicular to Level Sets]]
 - [[Hessian Matrix]]
+### Week 5
+- [[Unit Normals to a Curve]]
