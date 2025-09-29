@@ -16,3 +16,6 @@ Allows for approximating a function if the derivatives are known.
 ![[Taylor Series-20250413042919202.webp|434]]
 # Concepts
 - [[Maclaurin Series]]
+- [[Taylor's Theorem in One Dimension]]
+- [[Taylor's Theorem in One Dimension Constant Version]]
+- [[First-Order Multivariable Taylor Series]]

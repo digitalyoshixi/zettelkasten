@@ -12,3 +12,4 @@ They can represent [[Matrix|Matrixes]] obtained from [[Polarization Identity|Pol
 - Let $x \in \mathbb{C}^{n}$, A function $x^{T}Ax = f(x_{1},\dots,x_{n}) = \sum_{i=1}^{n} \sum_{j=1}^{n} a_{ij} \overline{x_{i}} x_{j}$ creates quadratic form
 # Theorems
 - [[Matrix Representation of Quadratic Form]]
+- [[Quadratic Form Representation of Matrix]]

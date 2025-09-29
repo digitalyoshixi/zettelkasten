@@ -17,6 +17,7 @@ It is differentiable on an interval $I$ if it is:
 Let $D = Df(x_{0})$
 Then, $f$ is differentiable at $x_{0}$ if:
 $$\lim_{ x \to x_{0} } \frac{||f(x) - f(x_{0}) - D * (x-x_{0})||}{||x - x_{0}||} = 0$$
+- Note that $D * (x-x_{0})$ is the product between [[Derivative Matrix Definition]] and [[Column Vector]] $(x-x_{0})$
 # Non Differentiable Cases
 1. Cusp. Sharp change from left slope to right slope
 ![[Derivative-20240214132001847.webp|205]]
