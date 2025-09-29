@@ -87,6 +87,7 @@ aliases:
 - [[Taylor's Theorem in One Dimension Constant Version]]
 - [[Differentiability]]
 - [[First-Order Multivariable Taylor Series]]
+- [[Second-Order Multivariable Taylor Series]]
 - [[Quadratic Form]]
 - [[Quadratic Form Representation of Matrix]]
 - [[Hessian Matrix]]
