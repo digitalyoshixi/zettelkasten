@@ -103,6 +103,7 @@ int main(int argc, char const *argv[])
 - [[C++ Unordered Map]]
 - [[C++ Set]]
 - [[C++ Unordered Set]]
+- [[C++ Queue]]
 - [[C++ Style Guides]]
 - [[C++ Class]]
 	- [[C++ Virtual]]
