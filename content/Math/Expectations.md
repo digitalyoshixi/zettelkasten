@@ -22,3 +22,4 @@ $$E(X) = \sum_{X}^{}xp_{x}(x)$$
 - [[Expected Value Example]]
 - [[Expected Value of Function]]
 - [[Expected Value of Indicator RV]]
+- [[Expected Value of Continuous RV]]

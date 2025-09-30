@@ -6,7 +6,7 @@ tags:
 ---
 A normal distribution with a few caveats:
 - average($\mu|\overline x$) = 0
-- standard deviation = 1
+- standard deviation $\sigma$ = 1
 # Distribution
 ![[Standard Normal Distribution-20231201133902987.webp|342]]
 Notice, the x axis is spaced out by **1**. this is because its spaced out by standard deviation

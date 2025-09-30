@@ -11,7 +11,7 @@ So a z-score of 2 will mean we are 2 standard deviations from the mean
 $z=\frac{x-\mu}{\sigma}$
 $z=\frac{x-\overline x}{s}$
 # Standardization
-We are able to turn any [[Normal Distributions]] into a [[Standard Normal Distribution]]
+We are able to turn any [[Normal Distribution]] into a [[Standard Normal Distribution]]
 For example, this distribution:
 ![[Z-score-20231201134632574.webp|407]]
 $\mu$ = 50

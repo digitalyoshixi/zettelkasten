@@ -18,7 +18,7 @@ Since, the distribution its based off is discrete, there are a few points in the
 # New z-scores
 $z=\frac{x-np}{\sqrt{ npq }}$
 # Area from given Interval.
-Now that we have the interval, lets say 4.5 < x < 5.5, we find the probability like how we would [[Normal Distributions]] with z-score area.
+Now that we have the interval, lets say 4.5 < x < 5.5, we find the probability like how we would [[Normal Distribution]] with z-score area.
 so, P(x<5.5) - P(x<4.5)
 
 2<x<3

@@ -6,7 +6,10 @@ tags:
 aliases:
 ---
 # Distributions
-- [[Normal Distributions]]
+- [[Normal Distribution]]
+- [[Gamma Distribution]]
+- [[Exponential Continuous Probability Distribution]]
+- [[Uniform Continuous Probability Distribution]]
 - [[Density Function]]
 - [[Bimodal Distribution]]
 - [[Chi-Squared Distribution]]

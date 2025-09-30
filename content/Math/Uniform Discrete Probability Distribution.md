@@ -3,7 +3,6 @@ tags:
   - math
   - distributions
 aliases:
-  - Uniform Distribution
 ---
 Occurs when in a single trial, all outcomes are equally likely.
 - There are $n$ elements in $S$

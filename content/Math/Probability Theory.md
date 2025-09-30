@@ -97,3 +97,8 @@ Course taught by Prof. Sotos.
 - [[Continuous Random Variable]]
 - [[Probability Density Function|PDF]]
 - [[PDF to CDF]]
+- [[Uniform Continuous Probability Distribution]]
+- [[Exponential Continuous Probability Distribution]]
+- [[Expected Value of Continuous RV]]
+- [[Gamma Distribution]]
+- [[Normal Distribution]]
