@@ -5,6 +5,7 @@ tags:
 ---
 A [[Discrete Distribution]] used to model [[Independent Events|Independent]] [[Bernoulli Trials]] .
 Uses [[Binomial Theorem]] in tandem with probabilities to get our probability distributions.
+![[Binomial Distribution-20250930153414494.webp]]
 # Probability in a Binomial Distribution
 $P(x)=_{n}C_{x}p^xq^{n-x}$
 - p is the probability of success on any individual trial. (eg. 50% a coin toss)
