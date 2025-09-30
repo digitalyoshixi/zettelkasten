@@ -67,6 +67,7 @@ Computer science as a science.
 - [[Programming/Language|Language]]
 - [[Powers of Sigma]]
 - [[Set Cardinality]]
-- [[Grammar]]
+- [[Programming/Grammar]]
 - [[Context Free Grammar]]
 - [[Chomsky Hierarchy]]
+- [[Pumping Lemma]]

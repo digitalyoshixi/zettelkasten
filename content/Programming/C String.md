@@ -18,6 +18,6 @@ mystr3 = "penis";
 ```
 Yes, strings have a special initialization specifically for them which is `""`, how special!
 # [[C string.h]]
-- [[Programming/strlen()|strlen()]]
+- [[strlen()|strlen()]]
 - [[strcpy()]]
 - [[strcmp()]]

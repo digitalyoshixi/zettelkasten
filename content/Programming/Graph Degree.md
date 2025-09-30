@@ -4,4 +4,4 @@ tags:
   - programming
 ---
 $deg(u) = |\text{neighbourhood(u)}|$
-The # of elements in the [[Programming/Neighbourhood]] a node.
+The # of elements in the [[Neighbourhood]] a node.

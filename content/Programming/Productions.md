@@ -4,7 +4,7 @@ tags:
 aliases:
   - Production Rules
 ---
-The rules that make up [[Grammar]]. They define [[Non-terminal]].
+The rules that make up [[Programming/Grammar]]. They define [[Non-terminal]].
 # Examples
 Some production rules could look like:
 - 'A sentence is a noun phrase followed by a verb phrase'
