@@ -92,3 +92,6 @@ A course about the ethics of medicine.
 - [[Substitute Decision Maker]]
 - [[Substitute Decisions Act]]
 - [[Advance Directive]]
+- [[Experiential Interests]]
+- [[Critical Interests]]
+- [[Dementia Advanced Directive Thought Experiment]]
