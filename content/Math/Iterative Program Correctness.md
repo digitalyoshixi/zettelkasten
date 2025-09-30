@@ -7,7 +7,7 @@ tags:
 1. Formula a [[Loop Invariant|LI]]. The [[Loop Invariant|LI]] should describe the purpose of every variable
 2. Use [[Induction]] to prove [[Loop Invariant|LI]]
 3. Use the [[Loop Invariant|LI]] in step 1 to prove [[Partial Correctness Step]] ($\text{loop exit condition and LI} \implies \text{postcondition}$)
-4. Use [[Loop Invariant|LI]] in step 1 to prove [[Termination]]. We start by finding an expression $e$ that uses variables in the loop such that:
+4. Use [[Loop Invariant|LI]] in step 1 to prove [[Termination]]. We start by finding a [[Terminating Variable]] expression $e$ that uses variables in the loop such that:
 	1. The value of $e$ is a [[Natural Number]] starting the loop
 	2. The value of $e$ decreases with every iteration
 5. Prove the sequence of values of $e$ after each iteration is a sequence of [[Natural Number]], this means proving:

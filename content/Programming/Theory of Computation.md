@@ -56,6 +56,8 @@ Computer science as a science.
 - [[Pythonized Lemma 2]]
 ### Week 4
 - Nothing new, just practice
+### Week 5
+- [[Terminating Variable]]
 ### Extra (Neso Academy)
 - [[Finite State Automata|Finite State Machine]]
 - [[Context Free Language|CFL]]
