@@ -86,3 +86,7 @@ A course about the ethics of medicine.
 - [[Informed Consent]]
 - [[Consent Interference]]
 - [[Antibiotic Resistance]]
+### Week 5
+- [[Do Not Resuscitate]]
+- [[Do Not Resuscitate Thought Experiment]]
+- [[Substitute Decision Maker]]
