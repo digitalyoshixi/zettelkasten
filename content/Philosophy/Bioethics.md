@@ -90,3 +90,5 @@ A course about the ethics of medicine.
 - [[Do Not Resuscitate]]
 - [[Do Not Resuscitate Thought Experiment]]
 - [[Substitute Decision Maker]]
+- [[Substitute Decisions Act]]
+- [[Advance Directive]]

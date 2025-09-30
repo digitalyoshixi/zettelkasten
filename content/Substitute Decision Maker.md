@@ -12,3 +12,7 @@ These are people who are able to make medical decisions for you in cases where y
 4. Siblings
 5. Other relatives
 6. [[Public Guardian]]
+# Issues
+- The guardian may seek to benefit from the patients condition
+- The guardian may not be the best choice
+- May be too many guardians and too difficult to seek approval
