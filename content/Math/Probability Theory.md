@@ -93,3 +93,7 @@ Course taught by Prof. Sotos.
 - [[Variance]]
 - [[Urn Problem]]
 - [[Binomial Formulas]]
+### Week 5
+- [[Continuous Random Variable]]
+- [[Probability Density Function|PDF]]
+- [[PDF to CDF]]
