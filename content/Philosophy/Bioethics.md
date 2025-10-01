@@ -95,3 +95,7 @@ A course about the ethics of medicine.
 - [[Experiential Interests]]
 - [[Critical Interests]]
 - [[Dementia Advanced Directive Thought Experiment]]
+- [[Dworkin Narriative Arguments]]
+- [[Organ Transplant Personality Changes]]
+- [[Embodied Mind Account]]
+- [[Bodily Independence]]
