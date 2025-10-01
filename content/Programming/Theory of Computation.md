@@ -57,17 +57,19 @@ Computer science as a science.
 ### Week 4
 - Nothing new, just practice
 ### Week 5
+- [[Empty String]]
 - [[Terminating Variable]]
+- [[Symbol]]
+- [[Alphabet]]
+- [[String]]
+- [[Programming/Language|Language]]
 - [[Regular Language]]
+- [[Regular Expression]]
 ### Extra (Neso Academy)
 - [[Finite State Automata|Finite State Machine]]
 - [[Context Free Language|CFL]]
 - [[Turing Machine]]
 - [[Undecidable]]
-- [[Symbol]]
-- [[Alphabet]]
-- [[String]]
-- [[Programming/Language|Language]]
 - [[Powers of Sigma]]
 - [[Set Cardinality]]
 - [[Programming/Grammar]]
