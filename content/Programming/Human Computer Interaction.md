@@ -77,3 +77,6 @@ Responsible for maintaining the design and evaluation of systems.
 - [[Questionnaire]]
 - [[Likert Scale]]
 - [[Interview]]
+- [[Design Thinking]]
+- [[Observational Testing]]
+- [[Iterative Testing]]
