@@ -71,3 +71,9 @@ Responsible for maintaining the design and evaluation of systems.
 - [[Design Map]]
 ### Week 5
 - [[User Acceptance Testing]]
+- [[User Requirements]]
+- [[Artifact]]
+- [[Surveys]]
+- [[Questionnaire]]
+- [[Likert Scale]]
+- [[Interview]]

@@ -1,0 +1,6 @@
+---
+tags:
+  - uiux
+---
+This is a scale used in [[Surveys]] to determine a quantitative item.
+![[Likert Scale-20251001152529114.webp]]

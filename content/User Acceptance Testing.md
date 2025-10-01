@@ -8,4 +8,4 @@ This is testing against users to see if they are satisfied with the features in 
 Checks for:
 - Functionality
 - Performance
-- User fri
+- User friendliness
