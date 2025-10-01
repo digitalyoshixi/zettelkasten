@@ -5,7 +5,8 @@ tags:
 aliases:
   - Kleene Expression
 ---
-An operation performed on [[Programming/Language|Language]] that generates all finite length strings.
+*Zero or More*
+An operation performed on [[Programming/Language|Language]] that generates all finite length strings from a given language.
 $$L^{*} = \{  x : x \in \epsilon , \text{or } x = y_{1}y_{2} \dots y_{k}, k >0, y_{i} \in L \}$$
 Alternatively,
 $$L^{*} = \cup_{i \geq 0}V^{i}$$

@@ -24,3 +24,13 @@ Induction step: if $S,T \in \mathcal{RE}$, then $(S+T), (ST), S^{*} \in \mathcal
 # Concepts
 - [[Semantics of Regular Expressions|Regex Matches]]
 - [[Regex Precedences]]
+# Properties
+- [[Commutative|Commutivity]] of union ( $(R+S) = (S+R)$)
+- [[Associative]] of union ($((R+S)+T) = (R+(S+T))$)
+- [[Associative]] of concatenation ($(((RS)T) = (R(ST)))$)
+- Left [[Distributive]] ( $R(S+T) = ( (RS) + (RT))$ )
+- Right [[Distributive]] ( $(S+T)R = ((SR)+(TR))$)
+- Identity for union $(R + \emptyset) \equiv R$
+- Identity for concatenation $(R \epsilon) = (\epsilon R) = R$
+- Annihilator for concatenation $(\emptyset R) = (R \emptyset) = \emptyset$
+- [[Idempotence]] of [[Kleene Star]] $R^{**} \equiv R^{*}$

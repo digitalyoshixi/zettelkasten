@@ -68,6 +68,10 @@ Computer science as a science.
 - [[Semantics of Regular Expressions]]
 - [[Multiset]]
 - [[Regex Precedences]]
+- [[Regex to Match All Strings]]
+- [[Regex to Match Even Length Strings]]
+- [[Regex to Match Strings that Start and End with 1]]
+- [[Equivalent Regex]]
 ### Extra (Neso Academy)
 - [[Finite State Automata|Finite State Machine]]
 - [[Context Free Language|CFL]]
