@@ -65,6 +65,9 @@ Computer science as a science.
 - [[Programming/Language|Language]]
 - [[Regular Language]]
 - [[Regular Expression]]
+- [[Semantics of Regular Expressions]]
+- [[Multiset]]
+- [[Regex Precedences]]
 ### Extra (Neso Academy)
 - [[Finite State Automata|Finite State Machine]]
 - [[Context Free Language|CFL]]
