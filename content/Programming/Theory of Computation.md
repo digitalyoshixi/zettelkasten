@@ -58,6 +58,7 @@ Computer science as a science.
 - Nothing new, just practice
 ### Week 5
 - [[Terminating Variable]]
+- [[Regular Language]]
 ### Extra (Neso Academy)
 - [[Finite State Automata|Finite State Machine]]
 - [[Context Free Language|CFL]]
