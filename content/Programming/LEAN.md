@@ -7,4 +7,10 @@ A interactive theorem prover to verify code correctness and mathematical theorem
 It is mainly for:
 - [[Mathematics]]
 - Software/Hardware verification
-https://leodemoura.github.io/files/CAV2024.pdf
+# Concepts
+- [[Software Verification|Formal Verification]]
+- [[Mathlib]]
+- [[LEAN Graph]]
+# Resources
+- https://adam.math.hhu.de/
+- https://leodemoura.github.io/files/CAV2024.pdf
