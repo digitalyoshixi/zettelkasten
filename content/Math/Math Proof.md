@@ -24,6 +24,7 @@ First choose $x$, then prove both  $x \in D$ and $P(x)$ are true.
 - [[Proof By Counter Example]]
 - [[Proof By Induction]]
 - [[Proof by Strong Induction]]
+- [[Proof by Structural Induction]]
 #### Subtypes
 - [[Exhaustive Proof]]
 - [[Proof by Disjunction]]

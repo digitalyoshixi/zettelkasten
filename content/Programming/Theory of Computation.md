@@ -48,7 +48,7 @@ Computer science as a science.
 - [[Unwinding Recurrence]]
 - [[Master Theorem]]
 - [[Principle of Well-Ordering]]
-- [[Structural Induction]]
+- [[Proof by Structural Induction]]
 - [[Smallest Set]]
 ### Week 3
 - [[Pascal]]
