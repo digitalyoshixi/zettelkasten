@@ -46,6 +46,7 @@ Responsible for maintaining the design and evaluation of systems.
 - [[Product Principles]]
 	- [[5 Primary Interaction Styles]]
 	- [[8 Golden Rules of Interface Design]]
+- [[Seven Plus Minus Two Rule]]
 - [[Product Theories]]
 - [[Stage of Action Theories]]
 ### Week 3

@@ -1,12 +1,14 @@
 ---
 tags:
   - uiux
+aliases:
+  - Eight Golden Rules of Interface Design
 ---
 1. Strive for consistency
 2. Cater to [[Universal Usability]]
-3. Offer informative feedback
-4. Design dialogs to yield closure
-5. Prevent errors
-6. Permit easy reversal of actions
-7. Keep users in control
-8. Reduce short-term memory load
+3. Offer informative visual feedback
+4. Design dialogs that have progress, like beginning, middle, end
+5. Prevent errors, gray out menu items, prevent non-alpha characters
+6. Permit easy reversal of actions, allow undos, or removal of entries
+7. Keep users in control, dont change familiar behavior too much
+8. Reduce short-term memory load ([[Seven Plus Minus Two Rule]])
