@@ -7,5 +7,6 @@ A process to transform [[Word|Words]] within a [[Philosophy/Language|Language]] 
 - Similar words are closer in magnitude to eachother
 - Same words with different meanings can have multiple vectors
 Often done with [[One Hot Encoding|One Hot Encodings]] ran through a [[Look Up Table Matrix]]
+![[Text Embeddings-20251002182137091.webp]]
 # Concepts
 - [[Cosine Similarity]]
