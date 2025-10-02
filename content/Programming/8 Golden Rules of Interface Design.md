@@ -4,6 +4,7 @@ tags:
 aliases:
   - Eight Golden Rules of Interface Design
 ---
+https://www.cs.umd.edu/~ben/goldenrules.html
 1. Strive for consistency
 2. Cater to [[Universal Usability]]
 3. Offer informative visual feedback
