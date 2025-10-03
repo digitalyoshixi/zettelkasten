@@ -17,4 +17,6 @@ Hi, my name is David.
 - Task: We were to design a maintainable project in the realm of web scraping
 - Action: I setup requirements, constraints and expected technology, explained technical concepts and held development meetings to guide them
 - Response: As a group of 5, we pushed a working product within two months. We learned a lot, I learned a lot more about backend design, our group ended up building a few more things together
-### 
+### Give me a example of a time when you faced conflict with a cowoker
+- s
+### Time that I made a mistake
