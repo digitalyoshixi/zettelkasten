@@ -20,7 +20,15 @@ Hi, my name is David.
 ### Give me a example of a time when you faced conflict with a cowoker
 - Situtation: I was in a team where I was the tech lead for a group of 5, and there was one person who would not work, and they would not attend meetings
 - Solution: I came from a place of understanding, I told them, they missed the past few meetings, is everything OK? And I gave them a brief summary of things we have done
+- Resolution: The team member did have some life issues, and they did end up rejoining us and making a great impact. They really appreciated my providing them support.
 ### Time that I made a mistake
 - Situtation: In my senior year of highschool, I wanted to setup a workshop to teach people linux, and how to customize their machines
 - Problem: When I had tried to get people to connect, issues with the server was very slow, sometimes it would terminate connections, some people couldn't connect
 - Lessons: I had ran tests on my home network, but not on the school network. I have to use sufficient tests next time I host something big, in the right environments!
+### Reaching out to Non-Responsive
+- Situtation: We won a prize, but the organization responsible for reaching out, never responded
+- Solution: I tried different emails, I asked team members to message them aswell, I went to linkedin and reached out to an email listed there
+- It ended up working, and we got the prize money in the end
+### Time when you were under pressure, how did you deal with it
+- Situation: Midterm season, ended after competition, club responsibility
+- Solution: I created a priority list, I crossed removed routines that took excess time, crossed out things in my schedule, started waking up earlier to do more things. Worked to try to achieve as much as possible in each task. So this was skimming through the exam and making note sheets, creating basic outlines for deliverables, reading things in the bus, etc
