@@ -11,4 +11,6 @@ Used after loop exit to prove that the algorithm is correct. Ideally tries to in
 ##### Basis
 Show that LI holds when entering the loop
 ##### Induction Step
-We show that LI holds before an iteration and holds after that iteration
+1. Consider arbitrary iteration of the loop
+2. Suppose LI holds before iteration ([[Induction Hypothesis|IH]])
+3. WTP LI holds after iteration
