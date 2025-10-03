@@ -18,4 +18,3 @@ The property for [[Regular Language]] to create new languages under functions.
 - So, $f(A)$ is denoted by some regex, thus it is regular
 # Example
 - [[Insertion Language Function]]
-- 
