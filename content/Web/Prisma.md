@@ -3,7 +3,7 @@ tags:
   - programming
   - database
 ---
-This is a modern [[Object Relationship Model|ORM]] for [[PostgreSQL]].
+This is a modern [[Object Relational Mapping|ORM]] for [[PostgreSQL]].
 # Installation
 ```
 npm install prisma typescript tsx @types/node --save-dev
