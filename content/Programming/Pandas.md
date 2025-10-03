@@ -12,7 +12,7 @@ import pandas as pd
 ```
 # Concepts
 - [[Pandas Series]]
-- [[Pandas Data Frames]]
+- [[Pandas Dataframe]]
 - [[Pandas Statistics]]
 - [[Pandas Open CSV]]
 - [[Pandas Column Names]]
