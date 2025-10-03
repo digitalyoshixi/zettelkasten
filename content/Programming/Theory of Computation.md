@@ -75,6 +75,8 @@ Computer science as a science.
 - [[Regex to Match Even Length Strings]]
 - [[Regex to Match Strings that Start and End with 1]]
 - [[Equivalent Regex]]
+- [[Language Function]]
+- [[Closure of Regular Expressions]]
 ### Extra (Neso Academy)
 - [[Finite State Automata|Finite State Machine]]
 - [[Context Free Language|CFL]]
