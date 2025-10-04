@@ -8,5 +8,5 @@ aliases:
 # Lemma
 - With $a < b$
 $$
-a < [\frac{a+b}{2}] < b
+a < \lfloor\frac{a+b}{2}\rfloor  < b
 $$

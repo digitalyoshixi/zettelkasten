@@ -10,7 +10,7 @@ Computer science as a science.
 - 5 Tutorial sections
 - Tutorials lag behind by one week
 - OH: https://cmsweb.utsc.utoronto.ca/nick/timetable.html
-- https://www.cs.toronto.edu/~vassos/b36-notes/notes.pdf
+- https://www.cs.toronto.`edu/~vassos/b36-notes/notes.pdf
 - https://cmsweb.utsc.utoronto.ca/nick/cscB36/additional-notes/
 - Exam seats are randomly assigned
 - FYOG Assignments dont count for marks

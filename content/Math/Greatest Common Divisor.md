@@ -7,7 +7,7 @@ aliases:
 ---
 The largest divisor that is shared between two numbers.
 # Euclid's Algorithm to find GCD
-```c
+```python
 while a != b:
 	if a > b:
 		a = a - b
