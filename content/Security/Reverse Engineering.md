@@ -17,3 +17,4 @@ tags:
 - [[Reverse Engineering Hardware]]
 - [[Reverse Engineering Web Assembly]]
 - [[Reverse Engineering Haskell]]
+- [[Reverse Engineering EVM]]
