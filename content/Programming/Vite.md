@@ -10,3 +10,6 @@ The fastest way to setup [[JavaScript]] frameworks.
 ```node
 npm init vite
 ```
+# Guides
+- [[Vite PWA Guide]]
+- [[Vite Server Allowed Hosts]]

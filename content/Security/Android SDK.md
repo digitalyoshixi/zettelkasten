@@ -13,7 +13,7 @@ https://developer.android.com/studio
 - [[Android App]]
 - [[Android Screen]]
 - [[Android View]]
-- [[Manifest]]
+- [[Android Manifest]]
 - [[Android Resource Files]]
 - [[Gradle]]
 - [[Model-View-Presenter]]

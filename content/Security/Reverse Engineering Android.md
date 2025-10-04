@@ -6,7 +6,7 @@ tags:
 # Process
 1. Emulate with [[Android SDK]]
 2. Decompile apk file with [[apktool]]
-3. Extract source code with [[Jadx]], read the [[Manifest|MANIFEST]] file aswell
+3. Extract source code with [[Jadx]], read the [[Android Manifest|MANIFEST]] file aswell
 # Guides
 - [[IDA Android Reversing]]
 - [[Flutter Reversing]]
