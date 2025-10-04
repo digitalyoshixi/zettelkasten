@@ -13,7 +13,6 @@ Note that now github requires [[SSH Keys]] to log in
 1. `yay -S github-cli`
 2. `gh auth login`
 ## Github pushing from linux
-
 Whenever you made a change, first check the git status if you made it. If you did, then then stage the commit
 
 ![](file:///C:/Users/Digit/AppData/Local/Temp/lu17828v2iv72.tmp/lu17828v2ivrq_tmp_4c631fec1caa1830.png)

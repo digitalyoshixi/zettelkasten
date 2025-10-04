@@ -22,3 +22,4 @@ Python is a bytecode virtual machine. You can see the [[Python Bytecode]] and ex
 - [[Numpy]]
 - [[Pytorch]]
 - [[Pandas]]
+- [[Typer]]
