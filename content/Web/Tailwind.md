@@ -21,7 +21,7 @@ export default {
   plugins: [],
 }
 ```
-4. Clear the contents of `index.css and app.css` 
+4. Clear the contents of `index.css` and `app.css` 
 5. In your `index.css`, add the following to the top:
 ```css
 @tailwind base;

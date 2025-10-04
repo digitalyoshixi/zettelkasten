@@ -9,6 +9,8 @@ let lucky : number;
 lucky = 24;
 // or
 let lucky : number = 24;
+let a : int | string;
+
 ```
 
 # Functions
