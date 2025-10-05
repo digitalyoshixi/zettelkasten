@@ -4,6 +4,7 @@ tags:
 aliases:
   - Python Match
 ---
+
 ```python
 match term:
     case pattern-1:
