@@ -43,3 +43,4 @@ https://github.com/JaKooLit/Arch-Hyprland
 - [[Hyprland Night Light Filter]]
 - [[Hyprsome]]
 - [[Hyprland Alt Tab]]
+- [[Hyprland QT Platform]]
