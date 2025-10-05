@@ -22,4 +22,5 @@ A programming language used in [[Webapp|Webapps]] promoted for its:
 - [[Javascript Destructuring]]
 - [[Javascript Local Storage]]
 - [[Javascript Equivalences]]
+- [[Javascript Base64]]
 # Boilerplate
