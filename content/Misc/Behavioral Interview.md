@@ -32,3 +32,19 @@ Hi, my name is David.
 ### Time when you were under pressure, how did you deal with it
 - Situation: Midterm season, ended after competition, club responsibility
 - Solution: I created a priority list, I crossed removed routines that took excess time, crossed out things in my schedule, started waking up earlier to do more things. Worked to try to achieve as much as possible in each task. So this was skimming through the exam and making note sheets, creating basic outlines for deliverables, reading things in the bus, etc
+
+# Who are you
+- CS + Stats Major at UofT
+- Part of UofTCTF and CSEC where i teach people cybersecurity and systems programming
+- Ive been doing a lot of fullstack work recently, mostly with React,Go,AWS but I have been learning Springboot
+- I used to handle infrastructure and network automation, in my spare time I maintain a homelab where i setup FOSS
+
+# Project you've worked on
+- Functional Programming language (First class functions, Higher order functions, multiple return)
+- Developed in C++, emits LLVM
+- I have parsing complete and partial codegen for basic arithmetic
+- Im very glad to have started this, Its changed the way at how I look at things
+  - Im more curious about other languages (Lua Registry)
+  - Its helped in reverse engineering software
+  - Just made me a better programmer
+1
