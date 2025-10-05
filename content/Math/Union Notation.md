@@ -2,6 +2,8 @@
 tags:
   - math
   - linalg
+aliases:
+  - Union Function
 ---
-$$\alpha = U_{i=1}^{k}\alpha_{i}$$
+$$\cup_{i=1}^{k}A_{i} = A_{1} \cup \dots \cup A_{k}$$
 Notes the [[Union|Unioning]] of each set

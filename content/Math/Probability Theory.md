@@ -31,6 +31,8 @@ Course taught by Prof. Sotos.
 - [[Event]]
 - [[Tuple]]
 - [[Venn Diagrams]]
+- [[Union Notation]]
+- [[Intersection Notation]]
 - [[Probability Function]]
 - [[Probability Axioms]]
 - [[Probability Model]]
