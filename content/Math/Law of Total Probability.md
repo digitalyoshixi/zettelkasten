@@ -2,6 +2,8 @@
 tags:
   - probability
   - statistics
+aliases:
+  - LoTP
 ---
 ![[Law of Total Probability-20250902135628540.webp]]
 # Law
