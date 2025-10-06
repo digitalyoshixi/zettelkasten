@@ -4,6 +4,7 @@ tags:
 aliases:
   - Independent
   - Independent Event
+  - Pairwise Independence
 ---
 Situations in which the occurrence or non-occurrence of one event has **NO INFLUENCE** on the next event that occurs.
 # Definition

@@ -63,7 +63,6 @@ Course taught by Prof. Sotos.
 - [[Independent Events]]
 - [[Mutual Independence]]
 - [[Conditioning on Multiple Events]]
-- [[Pairwise Independence]]
 - [[Pairwise Independence Does Not Imply Mutual Independence]]
 - [[Multiplication Rule of Probability]]
 - [[Conditional Independence]]
