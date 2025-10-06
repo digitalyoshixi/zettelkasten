@@ -5,8 +5,8 @@ tags:
 aliases:
   - RV
 ---
-A [[Function|Mapping]] from the [[Sample Space]] to the [[Real Numbers]].
-Used to assign numbers to outcomes.
+It is a [[Function|Mapping]] from the [[Sample Space]] to the [[Real Number]].
+Used to assign values to outcomes.
 ![[Random Variables-20250916132509096.webp]]
 Random variables are denoted by capital letters like $X,Y,Z$ and their outcomes denoted as lowercase $x,y,z$.
 # Set of Random Variables Notation
