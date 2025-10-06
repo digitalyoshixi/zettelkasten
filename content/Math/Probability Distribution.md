@@ -9,7 +9,7 @@ When is it most likely to happen, when is it least likely to happen and why that
 The collections of probabilities $P(X \in B)$ for all subsets $B$ of the real numbers.
 # Concepts
 - [[Random Variable]]
-- [[Expectations]]
+- [[Expectation]]
 # Distributions
 - [[Discrete Distribution]]
 - [[Uniform Discrete Probability Distribution]]

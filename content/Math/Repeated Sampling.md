@@ -7,7 +7,7 @@ Suppose the samples of same size are repeatedly taken from a population that fol
 $\alpha$ is the probability of error which the researcher is willing to accept
 $1-\alpha$ = [[Confidence Level]]
 $S$ is $\sigma$. [[Standard Deviation]]
-$M$ is $\mu$ [[Expectations|Average]]
+$M$ is $\mu$ [[Expectation|Average]]
 # Formulas
 $\sigma_{\overline x}=\frac{\sigma}{\sqrt{ n }}$
 $E =\frac{z \sigma}{\sqrt{ n }}$

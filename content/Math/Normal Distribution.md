@@ -15,7 +15,7 @@ This distribution can be modelled with the [[Density Function]]
 $$f(x)= \frac{1}{\sqrt{ 2 \pi \sigma }}\exp \left\{  -\frac{1}{2} (\frac{x - \mu}{\sigma})^{2} \right\}, x \in \mathbb{R}$$
 With:
 - $\sigma$ as [[Standard Deviation]]
-- $\mu$ as [[Expectations|Mean]]
+- $\mu$ as [[Expectation|Mean]]
 # Concepts
 - [[Standard Normal Distribution]]
 - [[Normal Distribution Standard Deviation Approximation]]
