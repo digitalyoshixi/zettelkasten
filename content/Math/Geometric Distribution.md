@@ -6,7 +6,7 @@ aliases:
   - Waiting-time_Distribution
 ---
 A [[Discrete Distribution]] that can lead to [[Countable Infinity|Countably Infinite]] sequence of [[Independent Events|Independent]] [[Bernoulli Trials]].
-
+![[Geometric Distribution-20251006183144830.webp]]
 [[Random Variable|RV]] $X/Y$ defined as $\text{\# of failures/trials before 1st success}$
 - $Y = X+1$
 
@@ -24,6 +24,8 @@ $$P(Y=y)=q^{y-1}p, \forall y \in \mathbb{N}$$
 $$F_{X}(x) = P(X < x) = \sum_{k=0}^{x } p_{x}(k) = 1-q^{x+1}, \forall x \in \mathbb{N}$$
 # Expectation formula
 $E(Y)=\sum\limits_{y=1}^\infty = \frac{q}{p}$
+# Variance
+$\sigma^{2} = \frac{q}{p^{2}}$
 ### Example
 Calculate the probability distribution for getting out of jail in MONOPOLY in x rolls of dice.
 - $p  = 6/36 = 1/6$
