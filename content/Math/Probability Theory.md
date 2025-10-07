@@ -113,3 +113,7 @@ Course taught by Prof. Sotos.
 - [[Joint CDF to Marginal CDF]]
 - [[Joint Probability Density Function]]
 - [[Joint CDF to Joint PDF]]
+- [[Joint PDF to Marginal PDF]]
+- [[Expected Value of Discrete Multiple RV]]
+- [[Expected Value of Continuous Multiple RV]]
+- [[Bivariate Normal]]

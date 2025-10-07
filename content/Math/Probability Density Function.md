@@ -5,6 +5,7 @@ tags:
   - statistics
 aliases:
   - PDF
+  - Marginal PDF
 ---
 A probability distribution function that maps a single [[Continuous Random Variable]] event into a probability from $[0,1]$.
 It measures the rate at which a given probability accumulates around $x$ of [[Random Variable|RV]] $X$

@@ -7,6 +7,8 @@ aliases:
   - Pairwise Independence
 ---
 Situations in which the occurrence or non-occurrence of one event has **NO INFLUENCE** on the next event that occurs.
+# Notation
+$E \bot F$
 # Definition
 $E$ and $F$ are Independent events $\Longleftrightarrow P(F|E) = P(F)$
 ### Formal Definition

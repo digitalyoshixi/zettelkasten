@@ -38,7 +38,7 @@ Computer science as a science.
 - [[Halting Problem]]
 - [[Cartesian Product]]
 - [[Relation]]
-- [[Arity]]
+- [[Math/Arity]]
 ### Week 2
 - [[Binary String]]
 - [[Counting Odd Parity Substrings from Given Binary String]]

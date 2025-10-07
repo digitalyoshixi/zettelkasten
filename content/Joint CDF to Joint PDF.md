@@ -7,4 +7,6 @@ tags:
 aliases:
   - Joint PDF from Joint CDF
 ---
-$$F_{}$$
+$$F_{X,Y}(x,y) = \int_{-\infty}^{x} \int_{-\infty}^{y} f_{X,Y}(s,t)dtds, \forall x,y \in \mathbb{R}$$
+Or,
+$$f_{X,Y} (x,y) = \frac{\partial ^{2} F_{X,Y}(x,y)}{\partial x \partial y}, \forall x,y$$

@@ -4,6 +4,8 @@ tags:
   - calculus
   - probability
   - statistics
+aliases:
+  - Joint PDF
 ---
 For [[Continuous Random Variable]]
 $$P((X,Y) \in R) = \int \int_{R} f_{X,Y}(x,y)dxdy$$
