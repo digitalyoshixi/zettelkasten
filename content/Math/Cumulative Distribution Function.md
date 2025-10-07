@@ -4,6 +4,7 @@ tags:
   - statistics
 aliases:
   - CDF
+  - Marginal CDF
 ---
 A function that determine the probability of a range of [[Random Variable|RVs]] $X$.
 Oftentimes messy to compute.

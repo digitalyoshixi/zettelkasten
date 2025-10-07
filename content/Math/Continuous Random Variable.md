@@ -2,6 +2,8 @@
 tags:
   - probability
   - statistics
+aliases:
+  - Continuous RV
 ---
 These are [[Random Variable]] that are:
 - [[Rational Number]]

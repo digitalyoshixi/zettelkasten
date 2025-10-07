@@ -5,6 +5,7 @@ tags:
   - statistics
 aliases:
   - PMF
+  - Marginal PMF
 ---
 A probability distribution for [[Discrete Random Variable]] that maps single events into $[0,1]$ probabilities
 ![[Probability Mass Function-20250927122559148.webp|256]]

@@ -103,3 +103,13 @@ Course taught by Prof. Sotos.
 - [[Expected Value of Continuous RV]]
 - [[Gamma Distribution]]
 - [[Normal Distribution]]
+### Week 6
+- [[Multivariate Distribution]]
+- [[Joint Probability Mass Function]]
+- [[Joint Cumulative Distribution Function]]
+- [[Joint PMF to Marginal PMF]]
+- [[Multinomial Coefficient]]
+- [[Multinomial Theorem]]
+- [[Joint CDF to Marginal CDF]]
+- [[Joint Probability Density Function]]
+- [[Joint CDF to Joint PDF]]

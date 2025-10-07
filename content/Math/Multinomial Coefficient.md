@@ -5,8 +5,10 @@ tags:
 A notation used to divide combinations into smaller sub-boxes.
 # Notation
 $$
-\binom{n}{a, b, c} = \frac{5!}{a!b!c!}
+C_{a,b,c}^{n} = \binom{n}{a, b, c} = \frac{5!}{a!b!c!}
 $$
+Where:
+- $a+b+c = n$
 # Example
 Split a group of 12 people into 3 groups of 2 people, 5 people and 5 people
 ### Soln
