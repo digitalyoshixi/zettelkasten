@@ -8,6 +8,6 @@ tags:
 - [[Endpoint Behavior]]
 - [[Finite Differences]]
 - [[Local Extrema]]
-- [[Global Minima And Maxima]]
+- [[Global Extrema]]
 - [[X Intercepts]]
 - [[Polynomial from Finite Differences]]

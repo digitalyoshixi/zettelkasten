@@ -5,6 +5,7 @@ tags:
 aliases:
   - Hessian Function
 ---
+The second-derivative of $f$
 # Theorem
 With $f : U \subset \mathbb{R}^{n} \to \mathbb{R}$ as $C^{2}$.
 The Hessian of $f$ at $x_{0}$ is the function:

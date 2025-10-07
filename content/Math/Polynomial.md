@@ -11,7 +11,7 @@ A form of numbers that takes from a field.
 - [[Orders|Order]]
 - [[Leading Coefficient]]
 - [[Local Extrema|Turning Points]]
-- [[Global Minima And Maxima]]
+- [[Global Extrema]]
 - [[Family]]
 - [[Even and Odd Functions]]
 	- [[Even and Odd Functions from Factored Form]]
