@@ -11,7 +11,7 @@ A course about the ethics of medicine.
 - Proc Eric Mathison
 - TA:
 	- Zoom OH
-- Ethics consultation simulations will require you to record a video to your response of a situtation
+- Ethics consultation simulations will require you to record a video to your response of a situtation. This will involve a consolutation example, and you providing a solution, and supporting your solution. More detailed the better. Classic thesis, premises and support [[Argument]] structure. Also, find objection and respond to it.
 - Oct 10 quiz (10%)
 	- A [[Beauchamp and Childress Four Principles of Biomedical Ethics]] can be in tension with itself, if it is unclear about what to do
 - Ethics consultation simulation (20%)
@@ -99,3 +99,8 @@ A course about the ethics of medicine.
 - [[Organ Transplant Personality Changes]]
 - [[Embodied Mind Account]]
 - [[Bodily Independence]]
+### Week 6
+- [[Normative Facts|Prescriptive Claim]]
+- [[Descriptive Claim]]
+- [[Strawman Argument]]
+- [[Steelman Argument]]

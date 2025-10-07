@@ -6,8 +6,11 @@ aliases:
   - Standard
   - Standards
   - Normative Fact
+  - Prescriptive Claim
 ---
 A [[Fact]] in relation to a norm or standard.
+Oftentime worries about how things should be.
+Differs from [[Descriptive Claim]]
 # Properties
 - Value-oriented judgements.
 	- Can be about ideals (how things should be)
