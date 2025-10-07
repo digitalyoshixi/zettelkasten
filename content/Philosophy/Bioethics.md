@@ -104,3 +104,7 @@ A course about the ethics of medicine.
 - [[Descriptive Claim]]
 - [[Strawman Argument]]
 - [[Steelman Argument]]
+- [[Justice]]
+- [[Lung Cancer Requiring Vaccine Thought Experiment]]
+- [[Organ]]
+- [[Organ Distribution]]
