@@ -12,7 +12,7 @@ Input can be text, video, image.
 # Concepts
 - [[Perplexity]]
 - [[LLM Context]]
-- [[LLM Fine Tuning]]
+- [[Model Fine Tuning]]
 - [[Token Entropy]]
 - [[Self Consistency Rate]]
 ### Testing
