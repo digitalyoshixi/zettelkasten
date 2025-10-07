@@ -108,3 +108,5 @@ A course about the ethics of medicine.
 - [[Lung Cancer Requiring Vaccine Thought Experiment]]
 - [[Organ]]
 - [[Organ Distribution]]
+- [[Opt-out Organ Donation]]
+- [[Amy Friedman]]
