@@ -16,3 +16,6 @@ They are:
 - Able to interact with the world
 - Efficient
 - Can collaborate with other agents (See [[Multi Modality|Multi Modal Agents]])
+# Concepts
+- [[System Prompt]]
+- [[User Prompt]]
