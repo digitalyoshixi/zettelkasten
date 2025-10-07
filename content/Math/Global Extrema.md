@@ -4,6 +4,9 @@ tags:
 aliases:
   - Global Minima
   - Global Maxima
+  - Absolute Minima
+  - Absolute Maxima
+  - Absolute Extrema
 ---
 Similar to [[Local Extrema]], except that they are the absolute max or absolute min point in the graph.
 There can only be a global minima or a global maxima, there cannot be both.

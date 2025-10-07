@@ -104,4 +104,7 @@ aliases:
 - [[Minimize Distance Squared]]
 - [[Disk]]
 - [[Bounded]]
-- [[Closed]]
+- [[Boundary Point]]
+- [[Closed Set]]
+- [[Extreme Value Theorem]]
+- [[Minima and Maxima for Sets with Boundary Process]]
