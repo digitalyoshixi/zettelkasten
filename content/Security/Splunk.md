@@ -12,5 +12,9 @@ Can allow for:
 - Swift response
 - Incident resolution, taking actions to mitigat threat
 - Reporting by generating logs
+# Installation
+```
+yay -S splunk
+```
 # Concepts
 - [[Search Processing Language]]

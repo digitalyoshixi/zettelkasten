@@ -6,3 +6,10 @@ aliases:
   - SPL
 ---
 A query language for [[Splunk]]
+Comprised of a series of queries separated by space.
+# Concepts
+- [[SPL Pipes]]
+# Commands
+- [[SPL top]]
+# Guides
+- [[SPL Search for IP]]
