@@ -58,3 +58,5 @@ tags:
 - [[Really Simple Syndication|RSS]] feed, but for every website, get notifications on every site change
 - A extension to modify your resume that is ATS perfect
 - Regex creator from a series of strings and matches
+- AI agent for app testing, [[Human Computer Interaction|HCI]] [[Quality Assurance]] testing (https://www.cyborgtest.com/)
+- Network topology mapper for a local subnet

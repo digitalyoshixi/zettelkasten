@@ -9,5 +9,7 @@ These are smaller models that can be used to convey what the final product looks
 - A software with limited functionality
 # Concepts
 - [[Fidelity]]
-
+# Types
+- [[Wizard-of-Oz Prototyping]]
 - [[Paper-Prototype Computer]]
+- [[Steal-the-Mouse Computer]]

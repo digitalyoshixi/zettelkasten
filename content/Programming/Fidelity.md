@@ -7,6 +7,10 @@ aliases:
   - Medium Fidelity
 ---
 A [[Prototype]]'s amount of effort.
+Split by:
+- [[Interactivity]]
+- Visuals
+- Content and commands
 # Low Fidelity
 Low effort used in creation
 Lacks details like color or functionality.

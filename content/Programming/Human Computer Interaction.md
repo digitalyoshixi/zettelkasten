@@ -62,11 +62,13 @@ Responsible for maintaining the design and evaluation of systems.
 - [[Use Case]]
 - [[Task Description and Analysis]]
 - [[Hierarchical Task Analysis]]
+- [[Interactivity]]
 ### Week 4
 - [[Contextual Inquiry]]
 - [[Prototype]]
 - [[Wizard-of-Oz Prototyping]]
 - [[Paper-Prototype Computer]]
+- [[Steal-the-Mouse Computer]]
 - [[Fidelity]]
 - [[Conceptual Design]]
 	- [[Metaphor]]
