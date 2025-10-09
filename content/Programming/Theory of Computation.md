@@ -77,8 +77,13 @@ Computer science as a science.
 - [[Equivalent Regex]]
 - [[Language Function]]
 - [[Closure of Regular Expressions]]
+### Week 6
+- [[Finite State Automata]]
+- [[Deterministic Finite Automaton]]
+- [[Big Result]]
+- [[Specification]]
+- [[Documentation]]
 ### Extra (Neso Academy)
-- [[Finite State Automata|Finite State Machine]]
 - [[Context Free Language|CFL]]
 - [[Turing Machine]]
 - [[Undecidable]]
