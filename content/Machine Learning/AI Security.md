@@ -30,6 +30,10 @@ Taken two ways:
 ### Blue Team
 - [[Polkadots Against Computer Vision]]
 - [[Deep Neural Rejection]]
+- [[SysVec]]
+- [[System Prompt Canary]]
+- [[AI Firewall]]
+- [[Probe]]
 # AI For Security
 - [[Ghidra MCP]]
 # Concepts
