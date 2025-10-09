@@ -115,3 +115,4 @@ A course about the ethics of medicine.
 - [[Stop Liver Deaths]]
 - [[Xeno Transplantation]]
 - [[Synthetic Meat]]
+- [[Dialysis]]
