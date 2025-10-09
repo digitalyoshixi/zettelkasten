@@ -36,6 +36,7 @@ aliases:
 - [[Distance Between Point to Line]]
 - [[Projection]]
 - [[Distance Between Point and Plane]]
+- [[Point on Plane Closest to Point]]
 - [[Cross Product]]
 - [[Triple Product Identity]]
 - [[Normal Vector from Two Vectors of Plane]]
