@@ -78,11 +78,15 @@ Computer science as a science.
 - [[Language Function]]
 - [[Closure of Regular Expressions]]
 ### Week 6
-- [[Finite State Automata]]
+- [[Automata Theory]]
 - [[Deterministic Finite Automaton]]
+- [[Transition Function]]
+- [[Extended Transition Function]]
 - [[Big Result]]
 - [[Specification]]
 - [[Documentation]]
+- [[Reachable State]]
+- [[Dead State]]
 ### Extra (Neso Academy)
 - [[Context Free Language|CFL]]
 - [[Turing Machine]]
