@@ -65,6 +65,8 @@ Responsible for maintaining the design and evaluation of systems.
 ### Week 4
 - [[Contextual Inquiry]]
 - [[Prototype]]
+- [[Wizard-of-Oz Prototyping]]
+- [[Paper-Prototype Computer]]
 - [[Fidelity]]
 - [[Conceptual Design]]
 	- [[Metaphor]]
@@ -81,3 +83,5 @@ Responsible for maintaining the design and evaluation of systems.
 - [[Design Thinking]]
 - [[Observational Testing]]
 - [[Iterative Testing]]
+### Week 6
+- [[Axure]]

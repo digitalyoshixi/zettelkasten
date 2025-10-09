@@ -9,3 +9,5 @@ These are smaller models that can be used to convey what the final product looks
 - A software with limited functionality
 # Concepts
 - [[Fidelity]]
+
+- [[Paper-Prototype Computer]]
