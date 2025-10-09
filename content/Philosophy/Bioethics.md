@@ -116,4 +116,5 @@ A course about the ethics of medicine.
 - [[Xeno Transplantation]]
 - [[Synthetic Meat]]
 - [[Dialysis]]
+- [[Cirrhosis]]
 - [[Legalized Prostitution]]

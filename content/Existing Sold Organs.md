@@ -9,4 +9,4 @@ Existing organs that can be sold and compensated include:
 - [[Semen]]
 - [[Human Egg]]
 - [[Surrogate]]
-This is because there is little risk about disproportionate representation by those underprivilidged
+This is because there is little risk about disproportionate representation by those underprivileged
