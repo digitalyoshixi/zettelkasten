@@ -7,6 +7,7 @@ The idea that we should pay or reward donors.
 # Ideas
 - [[Amy Friedman]]
 - [[Stop Liver Deaths]]
+- [[Existing Sold Organs]]
 # Responses
 ### For
 - We already commodity people, some of it is OK like [[Professional Athlete]] or [[Prostitution]]
