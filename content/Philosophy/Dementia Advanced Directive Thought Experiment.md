@@ -4,7 +4,7 @@ tags:
 ---
 # Thought Experiment
 - Margo writes advanced directive to kill her if she gets dementia
-- Margo gets dementia and refuses to die
+- Margo gets dementia, is happy and refuses to die
 - Should we kill her?
 # Ideas
 - Follow advanced directive and kill her
