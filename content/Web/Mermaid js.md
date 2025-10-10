@@ -4,21 +4,8 @@ tags:
   - javascript
 ---
 Mermaid js is a javascript library that allows markdown generation of diagrams like flowcharts and trees.
-Obsidian natively supports mermaid.js, so we can generate diagrams very easily using code blocks \`\`\` 
-
+Obsidian natively supports mermaid.js, so we can generate diagrams very easily using code blocks.
 # Tree diagrams
-```mermaid
-graph TD;
-id1((2)) --> id2((7));
-id1((2)) --> id3((5));
-id2((7)) --> id4((2));
-id2((7)) --> id5((10));
-id2((7)) --> id6((6));
-id3((5)) --> id7((9));
-id7((9)) --> id8((4));
-id6((6)) --> id9((5));
-id6((6)) --> id10((11));
-```
 
 ```mermaid
 graph TD;
@@ -43,4 +30,13 @@ B-->C
 A-->|Leave|C
 A-->|No|D
 D-->B
+```
+# [[Finite State Automata|FSA]]
+```mermaid
+stateDiagram-v2
+M --> q0
+q0 --> q1 : 0
+q0 --> q0 : 0
+q1 --> q2 : 1
+q2 --> q0 : 1, eps
 ```
