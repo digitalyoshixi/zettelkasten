@@ -15,5 +15,8 @@ Input can be text, video, image.
 - [[Model Fine Tuning]]
 - [[Token Entropy]]
 - [[Self Consistency Rate]]
+- [[Sequence-to-Sequence Modeling]]
+- [[Generative Pretrained Transformer]]
+- [[Chain of Thought]]
 ### Testing
 - [[LLM Interface Testing]]
