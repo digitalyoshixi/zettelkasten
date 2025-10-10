@@ -4,12 +4,13 @@ tags:
   - math
 ---
 ```mermaid
-stateDiagram-v2
-M --> q0
+stateDiagram
+[*] --> q0
 q0 --> q1 : 0
 q0 --> q0 : 0
 q1 --> q2 : 1
 q2 --> q0 : 1, eps
+q2 --> [*]
 ```
 With $\Sigma = \{ 0,1 \}$
 # Describe the Language $\mathcal{L}(M)$
