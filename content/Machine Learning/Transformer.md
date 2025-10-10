@@ -17,4 +17,3 @@ A form of [[Generative AI|Generative]] [[Statistical Model|Models]] that exist t
 - [[Causal Attention]]
 - [[Autoregressive]]
 - [[Layer Normalization]]
-

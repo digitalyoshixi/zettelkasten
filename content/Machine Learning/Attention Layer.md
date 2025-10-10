@@ -14,3 +14,5 @@ Then, the embedding is modified after pull to be closer to the actual meaning
 Comprised of several heads that correspond to a current token within a sequence.
 Every head send's their value in [[Parallelism|Parallel]] to the [[Feature Decoder]].
 ![[Attention Layer-20250628154621455.webp]]
+# Concepts
+- [[Time Complexity of Attention]]

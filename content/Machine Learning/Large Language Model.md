@@ -18,5 +18,7 @@ Input can be text, video, image.
 - [[Sequence-to-Sequence Modeling]]
 - [[Generative Pretrained Transformer]]
 - [[Chain of Thought]]
+- [[AI Scaling Laws]]
+- [[Mixture of Experts]]
 ### Testing
 - [[LLM Interface Testing]]
