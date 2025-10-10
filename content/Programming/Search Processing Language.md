@@ -11,5 +11,6 @@ Comprised of a series of queries separated by space.
 - [[SPL Pipes]]
 # Commands
 - [[SPL top]]
+- [[SPL count]]
 # Guides
 - [[SPL Search for IP]]
