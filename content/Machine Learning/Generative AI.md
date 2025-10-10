@@ -18,3 +18,8 @@ It can create original content like:
 - [[Foundational Model]]
 # Concepts
 - [[Data Inference]]
+- [[Kullback-Leibler Divergence]]
+# Models
+- [[Large Language Model|LLM]]
+- [[Diffusion Model]]
+- [[Generative Adversarial Network]]

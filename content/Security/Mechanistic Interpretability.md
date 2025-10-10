@@ -8,7 +8,7 @@ aliases:
 This is a safety theory that involves reverse engineering models to find the inner circuits that determine what algorithm a [[Neural Network|Neural Net]] is replicating.
 Not to be confused with [[Explainable Machine Learning]]
 # Concepts
-- [[Spare Autoencoder|SAE]]
+- [[Sparse Autoencoder|SAE]]
 - [[Linear Representation]]
 - [[Neuron Superposition]]
 - [[Probe]]
