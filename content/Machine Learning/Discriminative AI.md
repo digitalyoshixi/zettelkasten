@@ -1,6 +1,8 @@
 ---
 tags:
   - machine_learning
+aliases:
+  - Discriminative Model
 ---
 Used to classify and predict. Only sorts data.
 - Trained of a dataset of labelled data

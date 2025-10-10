@@ -20,5 +20,6 @@ Input can be text, video, image.
 - [[Chain of Thought]]
 - [[AI Scaling Laws]]
 - [[Mixture of Experts]]
+- [[Chain of Empathy]]
 ### Testing
 - [[LLM Interface Testing]]
