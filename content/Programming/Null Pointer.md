@@ -1,6 +1,8 @@
 ---
 tags:
   - c
+aliases:
+  - nullptr
 ---
 If you are initializing a pointer with no exact address, it is best practice to assign the pointer to be a null pointer.
 

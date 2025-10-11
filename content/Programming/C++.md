@@ -113,6 +113,7 @@ int main(int argc, char const *argv[])
 	- [[C++ Private]]
 	- [[C++ Protected]]
 	- [[C++ Override]]
+- [[C++ delete]]
 - [[C++ Variant]]
 - [[C++ Stack]]
 # Specific Functions
