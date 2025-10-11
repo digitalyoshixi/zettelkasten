@@ -117,3 +117,4 @@ Course taught by Prof. Sotos.
 - [[Expected Value of Discrete Multiple RV]]
 - [[Expected Value of Continuous Multiple RV]]
 - [[Bivariate Normal]]
+- [[Weibull Distribution]]
