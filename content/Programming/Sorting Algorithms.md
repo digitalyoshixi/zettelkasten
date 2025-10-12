@@ -11,3 +11,6 @@ tags:
 - [[Heap Sort]]
 - [[Merge Sort]]
 - [[BST In-Order Traversal|Tree Sort]]
+- [[Tim Sort]]
+- [[Counting Sort]]
+- [[Radix Sort]]
