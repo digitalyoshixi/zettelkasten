@@ -2,12 +2,8 @@
 tags:
   - business
 ---
-The likelihood of an incidenct occuring and the severity of its 
-The possibility of failure, or financial loss.
-If there is high risk, then there is high probability of failure.
-In security, risk is associated with how likely we are to be hacked or have data stolen.
-
-Dollarama has a no-return policy, and the quality is cheap. The risk is high. BUT the price to buy the goods are cheap enough to outweight the risk.
+The likelihood of an incident occuring and the severity of its consequences.
+Associated with how likely we are to be have data stolen, or lose money.
 # Risk Intolerance
 New/Unknown situtations are threatening
 # Risk Tolerance

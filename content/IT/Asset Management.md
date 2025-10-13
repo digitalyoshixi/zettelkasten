@@ -4,6 +4,7 @@ tags:
 aliases:
   - Asset Accounting
   - Asset Enumeration
+  - Asset Inventory
 ---
 # Accounting
 The process of accounting for assets of a business.
