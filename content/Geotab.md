@@ -2,7 +2,8 @@
 tags:
   - jobs
 ---
-A Canadian [[Telematics]] and [[Fleet Management]] company.
+A Canadian [[Telematics]] company that specializes in:
+- [[Fleet Management]] 
+- [[Asset Tracking]]
 # Tools
 - [[MyGeotab]]
-- 

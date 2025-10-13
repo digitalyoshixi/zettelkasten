@@ -2,6 +2,7 @@
 tags:
   - business
 ---
+The likelihood of an incidenct occuring and the severity of its 
 The possibility of failure, or financial loss.
 If there is high risk, then there is high probability of failure.
 In security, risk is associated with how likely we are to be hacked or have data stolen.
