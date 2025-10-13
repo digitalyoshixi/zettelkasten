@@ -4,4 +4,4 @@ tags:
 aliases:
   - CIS Benchmarks
 ---
-The gold standard benchmark for security used as a [[Security Baseline]]
+The gold standard benchmark for security used as a [[Security Baseline]].

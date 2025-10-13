@@ -15,3 +15,15 @@ A framework for [[Incident Response]]
 ### Protect
 - [[Threat Hunting]]
 - [[Security Operation Center|SOC]]
+### Detect
+- [[Intrusion Prevention System|IPS]]
+- [[Intrusion Detection System|IDS]]
+- [[Security Information and Event Management|SIEM]]
+### Respond
+- [[Playbook]]
+- [[Alerting]]
+### Recover
+- [[Backup Types|Data Backup]]
+- [[Data Loss Prevention|DLP]]
+- [[Disaster Recovery|Disaster Recovery Plan]]
+- [[Disaster Recovery as a Service]]
