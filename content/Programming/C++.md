@@ -116,6 +116,9 @@ int main(int argc, char const *argv[])
 - [[C++ delete]]
 - [[C++ Variant]]
 - [[C++ Stack]]
+- [[C++ Iterator]]
+# Guides
+- [[C++ Vector Slice]]
 # Specific Functions
 - [[sizeof()]]
 - [[setw]]
