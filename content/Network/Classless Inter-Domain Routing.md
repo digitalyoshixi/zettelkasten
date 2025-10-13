@@ -3,16 +3,19 @@ tags:
   - networking
 aliases:
   - CIDR
+  - IP Address Classes
 ---
 A method of dividing [[IPv4]] addresses into classes.
 # Overview
 
-| Class                         | Most-significant bits | Network prefix size (bits) | Host identifier size (bits) | Address range             |
-| ----------------------------- | --------------------- | -------------------------- | --------------------------- | ------------------------- |
-| A                             | 0                     | 8                          | 24                          | 0.0.0.0–127.255.255.255   |
-| B                             | 10                    | 16                         | 16                          | 128.0.0.0–191.255.255.255 |
-| C                             | 110                   | 24                         | 8                           | 192.0.0.0–223.255.255.255 |
-| D(multicast)  <br>E(reserved) | 1110  <br>1111        | –                          | –                           | 224.0.0.0–255.255.255.255 |
+| Class        | Host identifier size (bits) | Address range             |
+| ------------ | --------------------------- | ------------------------- |
+| A            | 24                          | 0.0.0.0–125.255.255.255   |
+| Loopback     | -                           | 126.0.0.0-12              |
+| B            | 16                          | 128.0.0.0–191.255.255.255 |
+| C            | 8                           | 192.0.0.0–223.255.255.255 |
+| D(multicast) | –                           | 224.0.0.0–239.255.255.255 |
+| E(reserved)  | -                           | 240.0.0.0-255.255.255.255 |
 # Classes
 https://www.meridianoutpost.com/resources/articles/IP-classes.php
 ### Class A
