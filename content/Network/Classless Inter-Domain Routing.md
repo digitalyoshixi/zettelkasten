@@ -6,6 +6,9 @@ aliases:
   - IP Address Classes
 ---
 A method of dividing [[IPv4]] addresses into classes.
+![[Classless Inter-Domain Routing-20251013143211135.webp|397]]
+Commonly used as a suffix after a network address like `/24` in `192.168.10.4/24`
+Indicates the # of bits used for the network range.
 # Overview
 
 | Class        | Host identifier size (bits) | Address range             |

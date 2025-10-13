@@ -15,3 +15,12 @@ The client responds with the acknowledgement packet to confirm this is the corre
 Then, a two way connection is formed.
 # NACK
 If the server does not recieve an ACK within a given timeframe, or recieves a NACK then this means there is an error in the expected headers.
+# FIN
+Sent to indicate no more data is to be sent
+# FIN-ACK
+Sent to respond to a FIN packet.
+# RST
+Used to terminate a session.
+Always sent if talking to a closed port.
+# RST-ACK
+Sent to respond to RST packet.
