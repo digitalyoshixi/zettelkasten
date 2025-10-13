@@ -19,4 +19,3 @@ tags:
 - [[Business Plan]]
 - [[Unique Value Proposition|UVP]]
 - [[Entrepreneur|Entrepreneurship]]
-- 
