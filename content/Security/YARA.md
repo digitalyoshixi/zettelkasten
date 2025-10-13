@@ -3,6 +3,7 @@ tags:
   - security
   - malware
 ---
+*Yet Another Ridiculous Algorithm*
 A swiss army knife for pattern matching.
 Often used for writing [[Malware|Malware Signatures]] for [[Packing|Unpacked]] malware.
 Used primarily as [[Hunting Rules]]
