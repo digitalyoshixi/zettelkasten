@@ -7,8 +7,8 @@ aliases:
   - CICD
 ---
 A methodology that involves:
-- Automated code review
-- Automated deployment
+- [[Continuous Integration]]
+- [[Continuous Deployment]]
 # Tools
 - [[Jenkins]]
 - [[Github Actions]]
