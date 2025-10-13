@@ -6,7 +6,7 @@ You can manually set the IP address on your local computer without ever communic
 
 https://www.cyberciti.biz/faq/add-configure-set-up-static-ip-address-on-debianlinux/
 
-Alternatively, you can reserve an ip with [[DHCP reservation]]. This achieves the same effect, but it requires you to have access to the server.
+Alternatively, you can reserve an ip with [[DHCP Reservation]]. This achieves the same effect, but it requires you to have access to the server.
 
 # Debian Static IP
 On debian linux.

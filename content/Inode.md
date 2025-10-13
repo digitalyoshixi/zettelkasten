@@ -1,0 +1,10 @@
+---
+tags:
+  - linux
+---
+A data structure that describes a file or directory.
+- Last modified
+- [[Metadata]]
+- Parent
+- Children
+They are unique for a given filesystem.

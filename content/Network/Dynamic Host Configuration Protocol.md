@@ -17,15 +17,7 @@ DISCOVER > OFFER > REQUEST > ACK (DORA)
 2. DHCP server sends a [[Broadcast Frame]] containing all possible IP addresses device can have. These IP's are given on a lease meaning they can expire if the device is unable to renew it automatically.
 3. The device picks one and notifies the DHCP server so that it may not be assigned again
 4. DHCP assigns the address and sends an acknowledgement reply
-# DHCP Reservation (Static IP)
-The DHCP server can be configured so that it reserves a IP address for a [[Media Access Control Address|MAC Address]].
-[[Server|Servers]] tend to want this. 
-# Leasing
-All IP addresses are leased and will be revoked unless renewed.
-By default this lease is 8 days
-2 Timers will check if devices want renewed leases.
-### T1 Timer
-- Checks at 50% of the lease time if the device wants to renew
-### T2 Timer
-- Checks at 87.5% of the lease time if the device wants to renew
-- Used for redundancy incase the DHCP goes down temporarily
+# Concepts
+- [[DHCP Reservation]]
+- [[DHCP Leasing]]
+- [[DHCP Pool]]
