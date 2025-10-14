@@ -27,7 +27,9 @@ Hi, my name is David.
 - Lessons: I had ran tests on my home network, but not on the school network. I have to use sufficient tests next time I host something big, in the right environments!
 ### Greatest Weakness
 - Sometimes I have a hard time saying No to things, and this has caused me to take on more responsibility and burning out
-- Its important to understand your own boundaries and I have been actively wor
+- Its important to understand your own boundaries and I have been actively working on this
+- Example is sector, during midterm season, I had to say no to going
+- I have been more cognisant of time, what I can do and cant do, and to be honest to myself and have realistic way of managing time
 ### Reaching out to Non-Responsive
 - Situtation: We won a prize, but the organization responsible for reaching out, never responded
 - Solution: I tried different emails, I asked team members to message them aswell, I went to linkedin and reached out to an email listed there
