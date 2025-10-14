@@ -89,6 +89,11 @@ Responsible for maintaining the design and evaluation of systems.
 - [[Axure]]
 - [[Requirements Matrix]]
 ### Week 7
-- [[Test Evaluation]]
+- [[Controlled Evaluation]]
+- [[Natural Evaluation]]
+- [[Non-User Evaluation]]
 - [[Heuristic Evaluation]]
+- [[Surveys]]
+- [[Interview]]
+- [[Research Ethics]]
 - [[Usability Tests]]
