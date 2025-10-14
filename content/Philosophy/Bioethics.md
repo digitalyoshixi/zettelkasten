@@ -120,3 +120,8 @@ A course about the ethics of medicine.
 - [[Legalized Prostitution]]
 ### Week 7
 - [[Public Health]]
+- [[Life Improvement]]
+- [[Pushy Lifeguard]]
+- [[80 Thousand Hours]]
+- [[Polluting Factory Thought Experiment]]
+- [[The Killing Machine]]
