@@ -118,3 +118,5 @@ A course about the ethics of medicine.
 - [[Dialysis]]
 - [[Cirrhosis]]
 - [[Legalized Prostitution]]
+### Week 7
+- [[Public Health]]
