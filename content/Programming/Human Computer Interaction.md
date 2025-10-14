@@ -82,9 +82,13 @@ Responsible for maintaining the design and evaluation of systems.
 - [[Questionnaire]]
 - [[Likert Scale]]
 - [[Interview]]
-- [[Design Thinking]]
+- [[Design Thinking Process]]
 - [[Observational Testing]]
 - [[Iterative Testing]]
 ### Week 6
 - [[Axure]]
 - [[Requirements Matrix]]
+### Week 7
+- [[Test Evaluation]]
+- [[Heuristic Evaluation]]
+- [[Usability Tests]]
