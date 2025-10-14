@@ -6,6 +6,8 @@ This is the map of my homelab:
 ![[Drawing 2025-01-27 12.08.50.excalidraw]]
 # [[Raspberry Pi]]
 - [x] [[Pi Hole]] for a content-blocker ✅ 2025-05-31
+# [[AWS Elastic Compute Cloud|AWS EC2]]
+- [[Command and Control Server|C2]] server
 # Old Ass Desktop
 - [x] [[Proxmox]] for virtualizing all services ✅ 2025-04-23
 - [x] Porkbun DDNS update script

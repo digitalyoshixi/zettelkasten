@@ -10,7 +10,7 @@ Taken two ways:
 ### Red Team
 - [[Prompt Injection]]
 	- [[Repeating Word Prompt Injection]]
-	- [[Ignore All Previous Instructions]]
+	- [[LLM Jailbreaking]]
 	- [[Hypothetical Scenario Prompt Injection]]
 	- [[Frog-Boil Attack]]
 - [[ASCII Smuggling]]
