@@ -125,3 +125,8 @@ A course about the ethics of medicine.
 - [[80 Thousand Hours]]
 - [[Polluting Factory Thought Experiment]]
 - [[The Killing Machine]]
+- [[Quality Adjusted Life Year]]
+- [[Disability Adjusted Life Year|DALY]]
+- [[Libertarianism]]
+- [[Libertarian Paternalism]]
+- [[Coercive Paternalism]]

@@ -119,3 +119,5 @@ Course taught by Prof. Sotos.
 - [[Bivariate Normal]]
 - [[Weibull Distribution]]
 - [[Hazard Rate]]
+### Week 7
+- [[Conditional Probability Mass Function]]

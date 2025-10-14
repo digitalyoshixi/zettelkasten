@@ -2,6 +2,8 @@
 tags:
   - probability
   - statistics
+aliases:
+  - Discrete RV
 ---
 These are [[Random Variable]] that can:
 - Assume a finite or [[Countable Infinity|Countably Infinite]] number of values
