@@ -130,3 +130,6 @@ A course about the ethics of medicine.
 - [[Libertarianism]]
 - [[Libertarian Paternalism]]
 - [[Coercive Paternalism]]
+- [[Mills Harm Principle]]
+- [[Jessica Flanigan]]
+- [[Sarah Conly]]

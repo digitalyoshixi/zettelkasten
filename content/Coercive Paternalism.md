@@ -3,4 +3,6 @@ tags:
   - philosophy
   - politics
 ---
-Full government control.
+Full control over choices of people.
+# Philosophers
+- [[Sarah Conly]]
