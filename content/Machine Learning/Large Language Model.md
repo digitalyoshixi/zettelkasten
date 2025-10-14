@@ -21,5 +21,6 @@ Input can be text, video, image.
 - [[AI Scaling Laws]]
 - [[Mixture of Experts]]
 - [[Chain of Empathy]]
+- [[Seed Crystal Approach]]
 ### Testing
 - [[LLM Interface Testing]]

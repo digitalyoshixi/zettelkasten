@@ -19,3 +19,8 @@ They are:
 # Concepts
 - [[System Prompt]]
 - [[User Prompt]]
+- [[Retrieval Augmented Generation|RAG]]
+- [[Model Context Protocol|MCP]]
+- [[Agent to Agent Protocol|A2A]]
+- [[Chain of Thought|CoT]]
+- [[Memory Processor]]
