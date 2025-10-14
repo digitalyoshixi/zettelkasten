@@ -1,0 +1,10 @@
+---
+tags:
+  - security
+---
+The tracking of dependencies and how software pieces together.
+# Tools
+- [[Snyk]]
+- [[Sonatype]]
+- [[Blackduck]]
+- [[debricked]]
