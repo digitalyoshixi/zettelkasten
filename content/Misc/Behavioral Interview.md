@@ -52,4 +52,3 @@ Hi, my name is David.
   - Im more curious about other languages (Lua Registry)
   - Its helped in reverse engineering software
   - Just made me a better programmer
-1

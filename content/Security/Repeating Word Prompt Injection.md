@@ -2,6 +2,8 @@
 tags:
   - ai_safety
   - security
+aliases:
+  - Repeated Word Prompt Injection
 ---
 This is a [[Prompt Injection]] technique that involves asking a [[Large Language Model|LLM]] to repeat a phrase forever.
 
