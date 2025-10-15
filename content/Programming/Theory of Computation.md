@@ -79,6 +79,7 @@ Computer science as a science.
 - [[Language Function]]
 - [[Closure of Regular Expressions]]
 ### Week 6
+- [[State Space]]
 - [[Automata Theory]]
 - [[Deterministic Finite Automaton]]
 - [[Transition Function]]
@@ -90,6 +91,11 @@ Computer science as a science.
 - [[Non-Deterministic Finite Automaton|NFSA]]
 - [[Big Result]]
 - [[Subset Construction]]
+### Week 7
+- [[FSA Complement]]
+- [[FSA Union]]
+- [[Cartesian Product Construction]]
+- [[State Space Cartesian Product]]
 ### Extra (Neso Academy)
 - [[Context Free Language|CFL]]
 - [[Turing Machine]]

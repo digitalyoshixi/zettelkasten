@@ -4,7 +4,7 @@ tags:
   - math
 ---
 A function $\delta : Q \times \Sigma \to Q$ where:
-- $Q$ is a set of [[Circuit State|States]]
+- $Q$ is a [[State Space]]
 - $\Sigma$ is a finite alphabet
 That indicates how one state transitions to another state.
 # Intuition
