@@ -86,6 +86,7 @@ Computer science as a science.
 - [[Extended Transition Function]]
 - [[Specification]]
 - [[Documentation]]
+- [[Accepting State|Final State]]
 - [[Reachable State]]
 - [[Dead State]]
 - [[Non-Deterministic Finite Automaton|NFSA]]
@@ -98,6 +99,7 @@ Computer science as a science.
 - [[State Space Cartesian Product]]
 - [[FSA Concatenation]]
 - [[FSA Kleene Star]]
+- [[Proving Closure Property using FSA]]
 ### Extra (Neso Academy)
 - [[Context Free Language|CFL]]
 - [[Turing Machine]]
