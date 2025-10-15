@@ -133,3 +133,4 @@ A course about the ethics of medicine.
 - [[Mills Harm Principle]]
 - [[Jessica Flanigan]]
 - [[Sarah Conly]]
+- [[Happy Smokers]]
