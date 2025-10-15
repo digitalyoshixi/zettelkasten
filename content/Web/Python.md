@@ -14,6 +14,8 @@ Python is a bytecode virtual machine. You can see the [[Python Bytecode]] and ex
 - [[Global Interpreter Lock]]
 - [[Python Duck Typing]]
 - [[Python Yield]]
+- [[Python Code Object]]
+- [[Python Reflection]]
 # Libraries
 - [[Python os]]
 - [[Sci-kit Learn]]

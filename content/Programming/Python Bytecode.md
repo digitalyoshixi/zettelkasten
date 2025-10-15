@@ -4,6 +4,7 @@ tags:
 aliases:
   - Python Assembly
 ---
+A [[Stack-Based Virtual Machine]] bytecode.
 Can be viewed with [[Python dis]].
 ![[Python Bytecode-20240912182510642.webp]]
 # Full List

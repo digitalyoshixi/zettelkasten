@@ -4,17 +4,12 @@ tags:
   - python
 ---
 ```python
-import struct
-import time
-import importlib
 
+import importlib, sys
+# code = marshal.loads(b'')
 code = compile("print('hello')", "example.py", "exec")
-[magic_number] = struct.unpack("<H", importlib.util.MAGIC_NUMBER[:-2])
-pyc_content = struct.pack('<I', magic_number) # Magic number
-pyc_content += struct.pack('<I', 0) # Flags
-pyc_content += struct.pack('<I', int(time.time())) # Timestamp
-pyc_content += marshal.dumps(sequencer_code) # Marshalled code object
-# Write to file
-with open('example.pyc', 'wb') as f:
-	f.write(pyc_content)
+pyc_data = importlib._bootstrap_external._code_to_timestamp_pyc(code)
+print(pyc_data)
+with open('file.pyc', 'wb') as f:
+    f.write(pyc_data)
 ```

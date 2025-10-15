@@ -4,6 +4,7 @@ tags:
   - python
 ---
 A compiled python program that contains [[Python Bytecode]] to run.
+Oftentimes used as cached program, so the interpreter doesn't need to reparse the code.
 # Compiling
 ```
 python -m compileall <file>.py
