@@ -16,7 +16,7 @@ These are also attacks that quite frequently require modifications of the origin
 # Uses
 - [[Fault Injection Clock Signal Glitching]]
 - [[Firmware Reverse Engineering]]
-- [[RCE]]
+- [[Remote Code Execution]]
 - [[One Time Programmable Memory|OTP]] Overwritting
 - [[Secure Boot]] bypass
 - [[Code Readout Protection]] bypass
