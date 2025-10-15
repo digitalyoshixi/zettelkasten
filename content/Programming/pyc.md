@@ -4,9 +4,17 @@ tags:
   - python
 ---
 A compiled python program that contains [[Python Bytecode]] to run.
-Can be ran with `python myfile.pyc`
+# Compiling
+```
+python -m compileall <file>.py
+```
+Result is now in `__pycache__`
+# Running
+```
+python myfile.pyc
+```
 # Executing with [[Python Marshal]]
 ```python
-# marshal.loads()
-Takes in a bytes object of the pyc object code
+marshal.loads()
+#Takes in a bytes object of the pyc object code
 ```
