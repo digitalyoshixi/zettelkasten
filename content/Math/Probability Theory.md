@@ -121,3 +121,5 @@ Course taught by Prof. Sotos.
 - [[Hazard Rate]]
 ### Week 7
 - [[Conditional Probability Mass Function]]
+- [[Conditional Probability Density Function]]
+- [[Independent Random Variable]]
