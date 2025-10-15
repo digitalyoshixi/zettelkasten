@@ -96,6 +96,8 @@ Computer science as a science.
 - [[FSA Union]]
 - [[Cartesian Product Construction]]
 - [[State Space Cartesian Product]]
+- [[FSA Concatenation]]
+- [[FSA Kleene Star]]
 ### Extra (Neso Academy)
 - [[Context Free Language|CFL]]
 - [[Turing Machine]]
