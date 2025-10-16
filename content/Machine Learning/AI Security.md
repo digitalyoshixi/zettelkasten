@@ -27,7 +27,9 @@ Taken two ways:
 - [[Data Inference]]
 - [[Model Inversion]]
 - [[Membership Inferrence]]
+- [[Glitch Token]]
 ### Blue Team
+- [[Canonical Form]]
 - [[Polkadots Against Computer Vision]]
 - [[Deep Neural Rejection]]
 - [[SysVec]]
