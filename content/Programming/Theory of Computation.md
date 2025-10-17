@@ -82,6 +82,7 @@ Computer science as a science.
 - [[State Space]]
 - [[Automata Theory]]
 - [[Deterministic Finite Automaton]]
+- [[Pigeonhole Principle]]
 - [[Transition Function]]
 - [[Extended Transition Function]]
 - [[Specification]]
@@ -100,6 +101,8 @@ Computer science as a science.
 - [[FSA Concatenation]]
 - [[FSA Kleene Star]]
 - [[Proving Closure Property using FSA]]
+- [[Pumping Lemma]]
+- [[Ogden's Lemma]]
 ### Extra (Neso Academy)
 - [[Context Free Language|CFL]]
 - [[Turing Machine]]
