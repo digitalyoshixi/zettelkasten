@@ -3,6 +3,7 @@ tags:
   - proofs
 aliases:
   - Proof By Construction
+  - For sake of Contradiction
 ---
 Assume $P$ is true, then conclude that $Q$ is true.
 # Format

@@ -82,6 +82,7 @@ Computer science as a science.
 - [[State Space]]
 - [[Automata Theory]]
 - [[Deterministic Finite Automaton]]
+- [[Pigeonhole Principle]]
 - [[Transition Function]]
 - [[Extended Transition Function]]
 - [[Specification]]
