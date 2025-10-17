@@ -100,6 +100,7 @@ Computer science as a science.
 - [[FSA Concatenation]]
 - [[FSA Kleene Star]]
 - [[Proving Closure Property using FSA]]
+- [[Pumping Lemma]]
 ### Extra (Neso Academy)
 - [[Context Free Language|CFL]]
 - [[Turing Machine]]
