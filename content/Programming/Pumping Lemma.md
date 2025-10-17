@@ -38,9 +38,9 @@ Used to prove a language is not regular.
 4. Then, $x = a_{1} a_{2}, \dots, a_{n}$
 5. The states include $q_{0}, q_{1}, q_{2}, .., q_{n}$
 6. $q_{i} = \delta^{*}(s_{1}, x[:i])$ This is the state you get to after reading the first $i$ symbols.
-7. Denote $v = a_{1}a_{2}\dots a_{i}$
+7. Denote $u = a_{1}a_{2}\dots a_{i}$
 8. Denote $v = a_{i+1}\dots a_j$
 9. Denote $w = a_{j+1}\dots a_{n}$
 10. Then, $a_{|x|} \in L$
-11. $q_{|x| \in F}$
-12. 
+11. Then $q_{|x|} \in F$
+12. Then, we get that every repeated $v$ allows $uvw$ to be in the language
