@@ -7,5 +7,5 @@ aliases:
 The loader that loads *most* binary files like:
 - [[Executable and Linkable Format|ELF]]
 - [[Portable Executable|PE]]
-- [[PDF]]
+- [[Portable Document Format]]
 It is the loader for [[angr]]
