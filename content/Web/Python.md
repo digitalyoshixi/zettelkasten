@@ -16,6 +16,7 @@ Python is a bytecode virtual machine. You can see the [[Python Bytecode]] and ex
 - [[Python Yield]]
 - [[Python Code Object]]
 - [[Python Reflection]]
+- [[Python Decorator]]
 # Libraries
 - [[Python os]]
 - [[Sci-kit Learn]]

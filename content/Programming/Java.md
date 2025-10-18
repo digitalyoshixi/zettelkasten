@@ -71,7 +71,7 @@ public class Main {
 - [[Java Spring]]
 - [[Java Springboot]]
 ### Memory Management
-- [[Java String Pool]]
+- [[String Pooling]]
 ### Testing
 - [[Java Exceptions]]
 ### Conventions
