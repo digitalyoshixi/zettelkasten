@@ -4,3 +4,4 @@ tags:
 ---
 # Challenges
 - [[FlareON 2025 Drill Baby Drill!]]
+- [[FlareON 2025 Project Chimera]]

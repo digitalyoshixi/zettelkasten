@@ -3,8 +3,8 @@ tags:
   - programming
   - python
 ---
-```python
 
+```python
 import importlib, sys
 # code = marshal.loads(b'')
 code = compile("print('hello')", "example.py", "exec")
