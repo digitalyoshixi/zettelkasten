@@ -31,7 +31,15 @@ print("".join(endstr))
 Ok, now we know the key.
 Lets write the final decryption script:
 ```python
+from arc4 import ARC4
 
+import cowsay
+
+current_user = "G0ld3n_Tr4nsmut4t10n".encode()
+ENCRYPTED_CHIMERA_FORMULA = b'r2b-\r\x9e\xf2\x1fp\x185\x82\xcf\xfc\x90\x14\xf1O\xad#]\xf3\xe2\xc0L\xd0\xc1e\x0c\xea\xec\xae\x11b\xa7\x8c\xaa!\xa1\x9d\xc2\x90'
+arc4_decipher = ARC4(current_user)
+decrypted_formula = arc4_decipher.decrypt(ENCRYPTED_CHIMERA_FORMULA).decode()
+cowsay.cow('I am alive! The secret formula is:\n' + decrypted_formula)
 ```
 
 ![[FlareON 2025 Project Chimera-20251018000811646.webp]]
