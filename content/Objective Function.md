@@ -7,6 +7,7 @@ aliases:
   - Objective
   - Constrained Function
 ---
+![[Objective Function-20251018234016977.webp]]
 # Definition
 - With $f : \mathbb{R}^{n} \to \mathbb{R}$
 - With $g : \mathbb{R}^{n} \to \mathbb{R}$

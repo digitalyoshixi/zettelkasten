@@ -114,3 +114,4 @@ aliases:
 - [[Objective Function]]
 - [[Lagrange Multiplier Method]]
 - [[Lagrange Auxilliary Function]]
+- [[Level Curves Interpretation of Lagrange]]
