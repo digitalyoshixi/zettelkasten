@@ -112,3 +112,5 @@ aliases:
 ### Week 7
 - [[Restriction Operator]]
 - [[Objective Function]]
+- [[Lagrange Multiplier Method]]
+- [[Lagrange Auxilliary Function]]
