@@ -109,3 +109,6 @@ aliases:
 - [[Closed Set]]
 - [[Extreme Value Theorem]]
 - [[Minima and Maxima for Sets with Boundary Process]]
+### Week 7
+- [[Restriction Operator]]
+- [[Objective Function]]

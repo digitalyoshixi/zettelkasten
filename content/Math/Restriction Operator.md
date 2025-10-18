@@ -6,6 +6,8 @@ aliases:
   - Restrictor
 ---
 Defining a linear map for a smaller domain.
+# Notation
+- $f|S : S \to \mathbb{R}$
 # Definition
 - With $T \in \mathcal{L}(V)$
 - With [[Subspace]] $W \subset V$
