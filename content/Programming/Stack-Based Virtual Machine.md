@@ -2,6 +2,9 @@
 tags:
   - programming
   - compilers
+aliases:
+  - Stack VM
+  - Stack-Based VM
 ---
 A [[Virtual Machine]] that does not have [[Register]] or intermediate variables.
 All data is pushed and popped from the stack
