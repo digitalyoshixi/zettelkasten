@@ -15,5 +15,6 @@ tags:
 - Very [[Melody]] focused, and must be memorable
 - [[Pentatonic Major Scale]] for [[Melody]]
 - [[Syncopation]] abused heavily
+- [[Ricky's Harmonizing Process]]
 # Guides
 - https://invidious.yoshixi.net/watch?v=8BHyM7zoz3Q&list=PLQdwGJz2dL79DpDGXmicjDkWRkQtojqXe&index=1

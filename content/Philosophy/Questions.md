@@ -2,6 +2,8 @@
 tags:
   - ethics
   - philosophy
+aliases:
+  - Antecedent
 ---
 A bit of language that cannot be true or false.
 It demands a response mostly open ended

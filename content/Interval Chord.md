@@ -1,6 +1,9 @@
 ---
 tags:
   - music
+aliases:
+  - Inverval
+  - Intervals
 ---
 A [[Chord]] of two [[Note|Notes]].
 # Chart
