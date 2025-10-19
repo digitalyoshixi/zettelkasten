@@ -19,6 +19,5 @@ Programmer declares how to get a desired result but not how to compute it.
 - [[Reactive Programming]]
 # Other
 - [[Prototype Programming]]
-- [[Dynamic Programming]]
 - [[Differentiable Programming]]
 - [[Meta Programming]]
