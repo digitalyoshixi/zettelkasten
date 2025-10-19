@@ -1,6 +1,8 @@
 ---
 tags:
   - music
+aliases:
+  - Semitones
 ---
 A difference of half a step between two notes. Characterized by the black key on a piano.
 - (A -> A#)

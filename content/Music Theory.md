@@ -16,5 +16,8 @@ What makes [[Music]] sound good.
 - [[Semitone]]
 - [[Scale]]
 - [[Out of Key]]
+- [[Root Note]]
+- [[Bar]]
+- [[Time Signature]]
 ### Advanced
 - [[Harmonic Series Music]]
