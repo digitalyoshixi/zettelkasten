@@ -12,5 +12,8 @@ tags:
 - [[Raising the 7 Mystery]]
 - [[Fantastical Chord Progression]]
 - [[Bridge Chord Progression]]
+- Very [[Melody]] focused, and must be memorable
+- [[Pentatonic Major Scale]] for [[Melody]]
+- [[Syncopation]] abused heavily
 # Guides
 - https://invidious.yoshixi.net/watch?v=8BHyM7zoz3Q&list=PLQdwGJz2dL79DpDGXmicjDkWRkQtojqXe&index=1

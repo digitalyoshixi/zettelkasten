@@ -20,9 +20,14 @@ What makes [[Music]] sound good.
 - [[Root Note]]
 - [[Bar]]
 - [[Time Signature]]
-### Advanced
 - [[Roman Numeral Chord Notation]]
+### Intermediate
+- [[Rhythm]]
+- [[Syncopation]]
 - [[Modal Interchange]]
+- [[Inversion]]
+- [[Chromatically Descending Chord Progressions]]
+- [[Picardy Third]]
 - [[Harmonic Series Music]]
-# Specific
+# Specific Motifs
 - [[Touhou Music]]

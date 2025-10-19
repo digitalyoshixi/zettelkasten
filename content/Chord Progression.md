@@ -11,3 +11,4 @@ Each note in a [[Chord]] is usually half or a full [[Bar]].
 # Techniques
 - [[Downward Progression]]
 - [[Upward Progression]]
+- [[Chromatically Descending Chord Progressions]]
