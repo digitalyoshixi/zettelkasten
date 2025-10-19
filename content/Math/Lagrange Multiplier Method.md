@@ -3,6 +3,7 @@ tags:
   - math
   - calculus
 ---
+Finding a $\lambda$ defined by $\nabla f = \lambda \nabla g$, where $f$ is a function constrained by path $g$.
 # Method
 - Suppose $f$ and $g$ are $C^{1}$ [[Class Functions]] from $U \subset \mathbb{R}^{n}$ to $\mathbb{R}$.
 - Let $x_{0} \in U$ be a point satisfying $g(x_{0}) = c$ and $\nabla g(x_{0}) \neq 0$
