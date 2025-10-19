@@ -25,5 +25,6 @@ tags:
 - [[Root Fifth Alternation]]
 - [[Percussion]] like [[Rock Percussion]] (1st and 3rd beats mostly)
 - [[Background Rolls|Note Spam]]
+- [[Caesura]]
 # Guides
 - https://invidious.yoshixi.net/watch?v=8BHyM7zoz3Q&list=PLQdwGJz2dL79DpDGXmicjDkWRkQtojqXe&index=1
