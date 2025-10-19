@@ -8,3 +8,6 @@ Each note in a [[Chord]] is usually half or a full [[Bar]].
 # Types
 - [[4-Bar Progression]]
 - [[8-Bar Progression]]
+# Techniques
+- [[Downward Progression]]
+- [[Upward Progression]]

@@ -15,9 +15,12 @@ What makes [[Music]] sound good.
 - [[Full Step]]
 - [[Semitone]]
 - [[Scale]]
+- [[Key]]
 - [[Out of Key]]
 - [[Root Note]]
 - [[Bar]]
 - [[Time Signature]]
 ### Advanced
+- [[Roman Numeral Chord Notation]]
 - [[Harmonic Series Music]]
+- [[Touhou Music]]

@@ -5,4 +5,4 @@ tags:
 aliases:
   - HMAC
 ---
-A [[Message Authentication Code|MAC]] generated from a hashing algorithm and a [[Key|Secret Key]]
+A [[Message Authentication Code|MAC]] generated from a hashing algorithm and a [[Security/Key|Secret Key]]

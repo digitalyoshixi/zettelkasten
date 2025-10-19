@@ -34,7 +34,7 @@ The [[Mathematics]] used to secure data.
 - [[Key Stretching|Key Stretching Algorithms]]
 - [[Consensus Algorithm]]
 ### Core Concepts
-- [[Key]]
+- [[Security/Key]]
 	- [[Public Key]]
 	- [[Private Key]]
 - [[Keygen]]
