@@ -15,7 +15,7 @@ What makes [[Music]] sound good.
 - [[Full Step]]
 - [[Semitone]]
 - [[Scale]]
-- [[Key]]
+- [[Music/Key]]
 - [[Out of Key]]
 - [[Root Note]]
 - [[Bar]]
