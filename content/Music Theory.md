@@ -4,6 +4,7 @@ tags:
 ---
 What makes [[Music]] sound good.
 # Concepts
+### Fundamental
 - [[Note]]
 - [[Chord]]
 - [[Chord Progression]]
@@ -11,4 +12,9 @@ What makes [[Music]] sound good.
 - [[Harmony]]
 - [[Octave]]
 - [[Sharp]]
+- [[Full Step]]
+- [[Semitone]]
+- [[Scale]]
+- [[Out of Key]]
+### Advanced
 - [[Harmonic Series Music]]
