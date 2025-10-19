@@ -35,11 +35,14 @@ What makes [[Music]] sound good.
 - [[Musical Chorus]]
 - [[Musical Transposition]]
 - [[Harmonizing]]
+- [[Octave Doubling]]
 - [[Counterpoint]]
 - [[Parallel Fifths]]
 - [[Parallel Fourths]]
 ### Advanced
 - [[Motif]]
+- [[Rhythmic Material]]
+- [[Riff]]
 - [[Harmonic Series Music]]
 # Specific
 - [[Touhou Music]]
