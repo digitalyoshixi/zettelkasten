@@ -22,5 +22,7 @@ What makes [[Music]] sound good.
 - [[Time Signature]]
 ### Advanced
 - [[Roman Numeral Chord Notation]]
+- [[Modal Interchange]]
 - [[Harmonic Series Music]]
+# Specific
 - [[Touhou Music]]

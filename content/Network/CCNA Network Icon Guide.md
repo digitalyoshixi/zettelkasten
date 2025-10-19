@@ -20,7 +20,7 @@ tags:
 - CSU/DSU: Channel service unit/Data service unit. Equivalent to a modem
 - Hub: uses ethernet connections to link computers together. Very similar to a switch, but they operate on different OSI layers. Switches > hubs for the most part
 - PIX [[Firewall]]: type of firewall DUH. Private Internet eXchange. Nobody uses this anymore
-- [[Bridge]]: method of connecting 2 seperate networks as if they were the same network. Can be wired or wireless
+- [[Access Point|Bridge]]: method of connecting 2 seperate networks as if they were the same network. Can be wired or wireless
 - Layer3 Switch: specialized switch for use in layer 3 network layer
 - Network cloud: a black box for whatever we don’t need to know for the moment
 - [[RJ-45]] connection: wired connection. Cable is copper
