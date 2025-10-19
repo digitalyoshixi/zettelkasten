@@ -19,6 +19,8 @@ A utility that:
 - [[Basic Expression Parsing]]
 - [[Binary Expression Parsing]]
 - [[Pratt Parser]]
+- [[Look Ahead Left-to-Right Parser]]
+- [[Left to Right Leftmost Derivation Parsing]]
 # Further Reading
 - https://cs.brown.edu/courses/cs173/2012/book/Everything__We_Will_Say__About_Parsing.html
 - https://www.youtube.com/watch?v=OIKL6wFjFOo
