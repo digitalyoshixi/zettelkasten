@@ -115,3 +115,11 @@ aliases:
 - [[Lagrange Multiplier Method]]
 - [[Lagrange Auxilliary Function]]
 - [[Level Curves Interpretation of Lagrange]]
+### Week 8
+- [[Cavalier's Principle]]
+- [[Double Integral Volume]]
+- [[Definite Integral Riemann Sum Definition]]
+- [[Double Integral Riemann Sum Definition]]
+- [[Bounded Function]]
+- [[Iterated Integrals]]
+- [[Fubini's Theorem]]

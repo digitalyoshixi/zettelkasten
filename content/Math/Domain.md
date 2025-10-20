@@ -1,6 +1,8 @@
 ---
 tags:
   - math
+aliases:
+  - Region
 ---
 The set $D$ used for the input of all values within a [[Function]].
 # Real Analysis
