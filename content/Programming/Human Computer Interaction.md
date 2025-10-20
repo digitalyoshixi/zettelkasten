@@ -65,8 +65,11 @@ Responsible for maintaining the design and evaluation of systems.
 - [[Task Description and Analysis]]
 - [[Hierarchical Task Analysis]]
 - [[Interactivity]]
-### Week 4
+- [[Direct Observation]]
+- [[Indirect Observation]]
+- [[Ethnography]]
 - [[Contextual Inquiry]]
+### Week 4
 - [[Prototype]]
 - [[Wizard-of-Oz Prototyping]]
 - [[Paper-Prototype Computer]]
