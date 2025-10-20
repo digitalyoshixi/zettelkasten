@@ -47,8 +47,10 @@ Responsible for maintaining the design and evaluation of systems.
 	- [[5 Primary Interaction Styles]]
 	- [[8 Golden Rules of Interface Design]]
 - [[Seven Plus Minus Two Rule]]
+- [[Task Description and Analysis]]
 - [[Product Theories]]
 - [[Stage of Action Theories]]
+- [[4 Principles of Good Design]]
 ### Week 3
 ![[Human Computer Interaction-20250916184412067.webp]]
 - [[Interaction Design|IxD]]
