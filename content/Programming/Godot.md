@@ -4,8 +4,13 @@ tags:
 ---
 Godot game engine open source masterpiece
 Handles physics, path finding, networks 
+# Installation
+```
+sudo pacman -S godot
+```
 # Concepts
 - [[Godot Nodes]]
 - [[Godot Scenes]]
-# GDScript
-literally just python
+- [[GDScript]]
+# Guides
+- [[Godot C++ Setup]]
