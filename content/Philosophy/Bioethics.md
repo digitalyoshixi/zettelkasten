@@ -140,3 +140,8 @@ A course about the ethics of medicine.
 - [[Ventilator Assisted Dying Thought Experiment]]
 - [[Medical Assistance in Dying|MAID]]
 - [[Smith and Jones Thought Experiment]]
+- [[Rachels Assisted Dying Argument]]
+- [[Younger Cousin Ventilator Assisted Dying Thought Experiment]]
+- [[Harmful Killing]]
+- [[The Value of Autonomy Argument]]
+- [[Carter v Canada]]

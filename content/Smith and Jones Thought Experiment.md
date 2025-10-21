@@ -12,3 +12,5 @@ Uses a consistency argument (If you believe this, then you must have a consisten
 - One day, smith babysits his cousin, says he needs a lot of money, cousin is taking a bath, smith drowns his cousin
 - Jones also has the same situation, but this time his cousin slips and dies by himself, Jones stands back and watches his cousin die
 - Rachel says that these cases are equally as bad
+# Implications
+- Rachel believes Motive > Action

@@ -13,3 +13,4 @@ The law that allows patients to request assistance to end their own life.
 - MAID promotes autonomy
 ### Anti
 - Death will cause a lot of harm
+- It is wrong to cause harm, and killing is causing harm
