@@ -123,3 +123,11 @@ Course taught by Prof. Sotos.
 - [[Conditional Probability Mass Function]]
 - [[Conditional Probability Density Function]]
 - [[Independent Random Variable]]
+### Week 8
+- [[Functions of Random Variables]]
+- [[Deriving Distribution for Transformation]]
+	- [[CDF Method Deriving Distribution for Transformation]]
+	- [[PDF Method Deriving Distribution for Transformation]]
+- [[Probability Simulation]]
+- [[Functions of Multiple Random Variables]]
+- [[Deriving Distribution for Multivariable Transformation]]

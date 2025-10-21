@@ -2,6 +2,8 @@
 tags:
   - math
   - distributions
+aliases:
+  - Distribution
 ---
 These are ranges of [[Random Variable]]
 When is it most likely to happen, when is it least likely to happen and why that is.
