@@ -134,3 +134,7 @@ A course about the ethics of medicine.
 - [[Jessica Flanigan]]
 - [[Sarah Conly]]
 - [[Happy Smokers]]
+- [[Medical Emergency Permissibility]]
+### Week 8
+- [[Assisted Dying]]
+- [[Ventilator Assisted Dying Thought Experiment]]
