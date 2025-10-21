@@ -138,3 +138,5 @@ A course about the ethics of medicine.
 ### Week 8
 - [[Assisted Dying]]
 - [[Ventilator Assisted Dying Thought Experiment]]
+- [[Medical Assistance in Dying|MAID]]
+- [[Smith and Jones Thought Experiment]]
