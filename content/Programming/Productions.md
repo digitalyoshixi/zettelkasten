@@ -3,6 +3,7 @@ tags:
   - linguistics
 aliases:
   - Production Rules
+  - Replacement Rules
 ---
 The rules that make up [[Programming/Grammar]]. They define [[Non-terminal]].
 # Examples

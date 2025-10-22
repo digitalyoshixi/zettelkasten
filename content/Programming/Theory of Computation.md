@@ -103,13 +103,16 @@ Computer science as a science.
 - [[Proving Closure Property using FSA]]
 - [[Pumping Lemma]]
 - [[Ogden's Lemma]]
-### Extra (Neso Academy)
+### Week 8
+- [[Programming/Grammar]]
+- [[Context Free Grammar]]
+- [[Language of a Context Free Grammar]]
 - [[Context Free Language|CFL]]
+- [[Parse Tree]]
+### Extra (Neso Academy)
 - [[Turing Machine]]
 - [[Undecidable]]
 - [[Powers of Sigma]]
 - [[Set Cardinality]]
-- [[Programming/Grammar]]
-- [[Context Free Grammar]]
 - [[Chomsky Hierarchy]]
 - [[Pumping Lemma]]
