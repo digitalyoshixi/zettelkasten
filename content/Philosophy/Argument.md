@@ -6,6 +6,7 @@ aliases:
   - Substantive Claim
 ---
 A conclusion supported by a number of premises.
+Best arguments are [[Normative Facts|Prescriptive]].
 # Types
 - [[Inductive Argument]]
 - [[Deductive Argument]]
