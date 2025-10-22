@@ -115,6 +115,7 @@ Computer science as a science.
 - [[Inherently Ambiguous Context Free Grammar]]
 - [[Finding CFG Example]]
 - [[Left to Right Method]]
+- [[Finding CFG Example 2]]
 ### Extra (Neso Academy)
 - [[Turing Machine]]
 - [[Undecidable]]

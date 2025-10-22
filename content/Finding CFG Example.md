@@ -14,3 +14,7 @@ A \to 1S, 0AA\\
 B \to 0S, 1BB\\
 \end{align}
 $$
+# Alternate CFG
+$$
+S \to \epsilon, 0S1S, 1S0S
+$$
