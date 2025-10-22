@@ -145,3 +145,6 @@ A course about the ethics of medicine.
 - [[Harmful Killing]]
 - [[The Value of Autonomy Argument]]
 - [[Carter v Canada]]
+- [[Grievous And Irremediable Condition]]
+- [[Terminal Illness Maid Thought Experiment]]
+- [[Advance Request]]
