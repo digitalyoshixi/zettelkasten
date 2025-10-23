@@ -4,6 +4,7 @@ tags:
   - algorithm
 aliases:
   - Graph Traversal
+  - Pathfinding
 ---
 An algorithm to find an appropriate [[Graph Path]] between two nodes in a [[Programming/Graph]].
 # Algorithm
