@@ -8,3 +8,4 @@ A high-level definition of a data type that does not specify how its used or how
 # Types
 - [[List ADT]]
 - [[Queue]]
+- [[Stack]]

@@ -25,5 +25,5 @@ tags:
 # Concepts
 - [[Executable and Linkable Format|ELF]]
 - [[Register]]
-- [[Stack]]
-- [[Heap]]
+- [[OS Stack]]
+- [[OS Heap]]

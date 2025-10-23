@@ -6,7 +6,7 @@ aliases:
 ---
 ![[Program Memory Layout-20250829224210554.webp|427]]
 # Sections
-- [[Stack]]
-- [[Heap]]
+- [[OS Stack]]
+- [[OS Heap]]
 - `.text`
 - `.data`

@@ -4,7 +4,7 @@ tags:
   - c
   - memory
 ---
-Is a C function to allow memory allocation to the [[Heap]].
+Is a C function to allow memory allocation to the [[OS Heap]].
 Requires [[stdlib.h]]
 `malloc` syntax is as follows: `(type*)malloc(size_t)`.
 - `size_t` - unsigned integer representing size to allocate

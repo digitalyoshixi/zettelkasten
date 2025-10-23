@@ -10,7 +10,7 @@ int sum (int a, int b){
 ```
 
 Functions must be declared before they are used. or use [[C++ Forward Declaration]]
-Every function will be allocated onto the [[Heap]]:
+Every function will be allocated onto the [[OS Heap]]:
 - A address space for every parameter (pointer or actual data)
 - A address space for every variable
 - An address space for the function

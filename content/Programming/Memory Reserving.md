@@ -6,7 +6,7 @@ aliases:
 ---
 Saving memory space to be used for specific process/variable.
 
-If you declare a variable, you reserve a memory space in the [[Stack]] for the variable.
+If you declare a variable, you reserve a memory space in the [[OS Stack]] for the variable.
 
 The [[IT/Operating System|OS]] is responsible for reserving memory and preventing other processes from accessing un-permitted space.
 

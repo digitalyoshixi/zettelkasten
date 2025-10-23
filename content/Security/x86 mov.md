@@ -6,5 +6,5 @@ tags:
 A command in x86 assembly that moves data to and from from:
 - [[Register]]
 - Program data
-- [[Stack]]
-- [[Heap]]
+- [[OS Stack]]
+- [[OS Heap]]

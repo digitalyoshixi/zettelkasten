@@ -27,5 +27,22 @@ struct ListNode {
 };
 
 ```
-# Dynamic Programming
+# Techniques
+ - [[Brute Force]]
+ - [[Island Traversal]]
+ - [[Multithreading]]
+ - [[Two Heaps]]
+ - [[Merge Invervals]]
+ - [[Cyclic Sort]]
+ - [[Fast and Slow Pointers]]
+ - [[Backtracking]]
+ - [[Greedy Algorithm]]
+ - [[Randomized Algorithm]]
+ - [[Divide and Conquer]]
+ - [[Kth Element]]
+ - [[Recursion]]
+ - [[Dynamic Programming]]
+ - [[Two Pointer]]
+ - [[Sliding Window]]
+# Problems
 - [[Climbing Stairs]]

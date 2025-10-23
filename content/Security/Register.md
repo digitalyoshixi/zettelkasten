@@ -3,7 +3,7 @@ tags:
   - os
   - assembly
 ---
-A collection of [[Flip-Flop|Flip Flops]] within the [[Central Processing Unit|CPU]] used for very temporary storage of data used for quick computations, later saved within [[Stack]] or [[Heap]] variables. 
+A collection of [[Flip-Flop|Flip Flops]] within the [[Central Processing Unit|CPU]] used for very temporary storage of data used for quick computations, later saved within [[OS Stack]] or [[OS Heap]] variables. 
 # Hardware Register
 - [[Shift Register]]
 - [[Load Register]]

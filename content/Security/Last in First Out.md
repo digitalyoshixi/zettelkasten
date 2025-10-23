@@ -1,6 +1,9 @@
 ---
 tags:
   - os
+aliases:
+  - LIFO
+  - FILO
 ---
 Stack is like this
 ![[Stack-20231217005252673.webp]]

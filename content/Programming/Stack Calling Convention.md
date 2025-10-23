@@ -5,7 +5,7 @@ aliases:
   - MIPS Push
   - MIPS Pop
 ---
-A [[Subroutine|Function]] calling convention that involves pushing and popping arguments onto the [[Stack]]
+A [[Subroutine|Function]] calling convention that involves pushing and popping arguments onto the [[OS Stack]]
 # Function Call Process
 Caller calls callee
 1. Caller pushes `$ra` 
@@ -18,7 +18,7 @@ Caller calls callee
 8. Caller pops return value from stack
 9. Caller continues its original logic
 # MIPS
-Using a [[Stack]], you can push and pop.
+Using a [[OS Stack]], you can push and pop.
 ### Push
 ```mips
 # push $t0 onto the stack
