@@ -3,7 +3,7 @@ tags:
   - python
 ---
 A style checker for python code.
-It is part of python [[Code Linting]]
+It is part of python [[Linter]]
 # Statement Types
 ### Pointless Statement
 If a statement can be removed, or added to another previous statement without change to the program.
