@@ -11,6 +11,41 @@ Is $O(n\log_{2}(n))$ time
 2. Check which sub-list is smaller than the other, and merge in proper order
 # Pseudocode
 ![[Merge Sort-20250317204934325.webp]]
+# C++ Implementation
+```cpp
+#include <vector>
+using namespace std;
+vector<int> merge(vector<int> l, vector<int> r){
+    vector<int> retlist;
+    int lptr = 0;
+    int rptr = 0;
+    while (lptr < l.size() && rptr < r.size()){
+        if (l[lptr] < r[rptr])retlist.push_back(l[lptr++]);
+        else retlist.push_back(r[rptr++]);
+    }
+    while (lptr < l.size()){
+        retlist.push_back(l[lptr++]);
+    }
+    while (rptr < r.size()){
+        retlist.push_back(r[rptr++]);
+    }
+    return retlist;
+}
+
+vector<int> mergesort(vector<int> a){
+    if (a.size() <= 1) return a;
+    int mid = a.size()/2;
+    vector<int> left;
+    vector<int> right;
+    for (int i = 0; i < a.size(); i++){
+        if (i < mid) left.push_back(a[i]);
+        else right.push_back(a[i]);
+    }
+    left = mergesort(left);
+    right = mergesort(right);
+    return merge(left, right);
+}
+```
 # C Implementation
 ```c
 #include <stdio.h>
