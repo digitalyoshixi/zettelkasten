@@ -9,3 +9,5 @@ A [[Binary Tree]]-based data structure where all levels are filled except the lo
 # Types
 - [[Heap Sort]]
 - [[Priority Queue|Min-Heap]]
+# Height
+$O(\log n)$

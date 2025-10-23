@@ -12,8 +12,12 @@ Graph has a
 # Types of Graphs
 - [[Directed Graph]]
 - [[Undirected Graph]]
+- [[Weighted Graph]]
+- [[Unweighted Graph]]
 # Concepts
 - [[Neighbour]]
+- [[Graph Node]]
+- [[Graph Edge]]
 - [[Neighbourhood]]
 - [[Adjacency List]]
 - [[Adjacency Matrix]]

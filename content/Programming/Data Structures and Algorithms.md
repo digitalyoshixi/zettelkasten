@@ -31,7 +31,7 @@ aliases:
 - [[Segment Tree]]
 - [[Fenwick Tree]]
 - [[Spanning Tree]]
-- [[Disjoint Set|Union-Find]]
+- [[Disjoint Set Union|Union-Find]]
 - [[Suffix Tree]]
 - [[2-3 Tree]]
 - [[B+ Tree]]
