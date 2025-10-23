@@ -7,7 +7,7 @@ tags:
 ```python
 extends Node
 # onready ensures that all child nodes are created
-@onready var weapon - $Player/Weapon
+@onready var weapon = $Player/Weapon
 
 func _ready():
 	print(weapon.get_path())
