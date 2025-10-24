@@ -44,6 +44,7 @@ A course about the ethics of medicine.
 - [[Beauchamp and Childress Four Principles of Biomedical Ethics]]
 	- [[Autonomy]]
 	- [[Hippocratic Oath|Nonmaleficence]]
+		- [[Principle of Double Effect]]
 	- [[Beneficence]]
 	- [[Justice]]
 - [[Biomedical Tension]]
