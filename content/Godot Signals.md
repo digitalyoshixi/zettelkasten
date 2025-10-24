@@ -16,7 +16,7 @@ Creation script:
 extends Node
 
 signal leveled_up
-signal mymessage
+signal mymessage(message : str)
 
 func _ready():
 	leveled_up.emit()
