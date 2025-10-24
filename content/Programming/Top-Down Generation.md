@@ -4,7 +4,7 @@ tags:
 aliases:
   - Left most Derivation
 ---
-Starting at a root node, and choosing [[Productions]] to determine later derivations that match the input.
+Starting at a root node, and choosing [[Production]] to determine later derivations that match the input.
 # Example
 Given production rules:
 ![[Top-Down Parsing-20250101214948536.webp]]

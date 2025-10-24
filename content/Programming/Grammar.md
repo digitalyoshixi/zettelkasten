@@ -3,4 +3,4 @@ tags:
   - programming
   - math
 ---
-A set of [[Productions|Production Rules]]
+A set of [[Production|Production Rules]]

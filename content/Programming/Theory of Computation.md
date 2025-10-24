@@ -110,6 +110,7 @@ Computer science as a science.
 - [[Context Free Grammar]]
 - [[Terminal]]
 - [[Non-terminal]]
+- [[Grammar Derivation]]
 - [[Language of a Context Free Grammar]]
 - [[Context Free Language|CFL]]
 - [[Parse Tree]]
@@ -118,6 +119,8 @@ Computer science as a science.
 - [[Finding CFG Example]]
 - [[Left to Right Method]]
 - [[Finding CFG Example 2]]
+- [[Right-Linear Grammar]]
+- [[Pushdown Automata]]
 ### Extra (Neso Academy)
 - [[Turing Machine]]
 - [[Undecidable]]

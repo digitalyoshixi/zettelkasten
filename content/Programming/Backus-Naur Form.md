@@ -9,7 +9,7 @@ It provides a structure to define how symbols can be combined to form valid stri
 # Concepts
 - [[Terminal]]
 - [[Non-terminal]]
-- [[Productions]]
+- [[Production]]
 # BNF Rules
 - Terminals are simply written out. `while`
 - Non-terminals are enclosed in angle brackets: `<statement>`
