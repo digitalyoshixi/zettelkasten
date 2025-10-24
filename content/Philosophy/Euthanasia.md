@@ -5,6 +5,8 @@ tags:
 aliases:
   - Lethal Injection
   - Good Death
+  - VAE
+  - Voluntary Active Euthenasia
 ---
 [[Assisted Dying]] that the provider requests for the patient.
 # Canada Legalization
