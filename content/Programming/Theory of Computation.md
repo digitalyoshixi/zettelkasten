@@ -120,7 +120,9 @@ Computer science as a science.
 - [[Left to Right Method]]
 - [[Finding CFG Example 2]]
 - [[Right-Linear Grammar]]
+### Week 9
 - [[Pushdown Automata]]
+- [[PDA Configuration]]
 ### Extra (Neso Academy)
 - [[Turing Machine]]
 - [[Undecidable]]
