@@ -17,8 +17,8 @@ A CFG is a 4 tuple:
 $G = (V, \Sigma, P, S)$ where:
 - $V$ is a finite set of variables
 - $\Sigma$ is a finite set of [[Terminal|Terminals]]
-- $P$ is a finite 
-- $S$ is the set of variables $S \in V$
+- $P$ is a finite set of [[Productions|Production Rules]]
+- $S$ is a particular start element $\in V$
 # Concepts
 - [[Productions]]
 - [[Example CFG]]

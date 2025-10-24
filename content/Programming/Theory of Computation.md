@@ -108,6 +108,8 @@ Computer science as a science.
 ### Week 8
 - [[Programming/Grammar]]
 - [[Context Free Grammar]]
+- [[Terminal]]
+- [[Non-terminal]]
 - [[Language of a Context Free Grammar]]
 - [[Context Free Language|CFL]]
 - [[Parse Tree]]
