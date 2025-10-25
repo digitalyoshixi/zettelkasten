@@ -14,6 +14,7 @@ Built with the expectation of that the project has central maintainers, like [[L
 git config --global user.name "yoshixi"
 git config --global user.email "davidchenyuhe@proton.me"
 ```
+Then proceed to [[Github|Github Signin]]
 # Concepts
 - [[Git Commit Conventions]]
 - [[Git Branching Conventions]]
