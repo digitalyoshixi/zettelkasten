@@ -9,6 +9,7 @@ A programming language used in [[Webapp|Webapps]] promoted for its:
 # Concepts
 - [[Javascript Semicolon]]
 - [[Javascript Variable]]
+- [[Javascript For Loop]]
 - [[JavaScript Console]]
 - [[Javascript Datatypes]]
 - [[Javascript Function]]
@@ -23,4 +24,5 @@ A programming language used in [[Webapp|Webapps]] promoted for its:
 - [[Javascript Local Storage]]
 - [[Javascript Equivalences]]
 - [[Javascript Base64]]
+- [[Javascript map]]
 # Boilerplate
