@@ -3,7 +3,7 @@ tags:
   - quantum_mechanics
   - blockchain
 ---
-This is a framework that quantum secures [[Blockchain]], without requiring any modification of the underlying service.
+-This is a framework that quantum secures [[Blockchain]], without requiring any modification of the underlying service.
 # Notes
 - Quantum computers are already quantum proof already
 - [[Satoshi Nakamoto]]'s coins are insecure, as their [[Public Key|Public Keys]] are publicly available
