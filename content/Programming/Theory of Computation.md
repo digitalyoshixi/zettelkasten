@@ -105,6 +105,7 @@ Computer science as a science.
 - [[Proving Closure Property using FSA]]
 - [[Pumping Lemma]]
 - [[Ogden's Lemma]]
+- [[Occurance Notation]]
 ### Week 8
 - [[Programming/Grammar]]
 - [[Context Free Grammar]]
@@ -121,6 +122,7 @@ Computer science as a science.
 - [[Finding CFG Example 2]]
 - [[Right-Linear Grammar]]
 ### Week 9
+- [[Evan's Language Verifier]]
 - [[Pushdown Automata]]
 - [[PDA Configuration]]
 ### Extra (Neso Academy)
