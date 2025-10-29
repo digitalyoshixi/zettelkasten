@@ -3,7 +3,7 @@ tags:
   - security
   - cryptography
 ---
-A cryptographer.
+A cryptographer. Works at [[Citizen Lab]]
 # Principles
 - [[Schneier's Law]]
 - [[Movie Plot Threat]]
@@ -11,3 +11,5 @@ A cryptographer.
 - [[Blowfish]]
 - [[Twofish]]
 - [[Skein]]
+# Talks
+- [[Trust and AI Bruce Scheniener]]
