@@ -4,5 +4,5 @@ tags:
   - debian
 ---
 The most stable linux distribution.
-# Upgrade Command
-`sudo apt update && sudo apt upgrade`
+# Concepts
+- [[Advanced Package Tool|apt]]
