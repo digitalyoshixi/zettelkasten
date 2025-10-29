@@ -3,6 +3,7 @@ tags:
   - IT
 aliases:
   - Log
+  - Logs
 ---
 The practice of periodically storing program status running on a computer into a file for later analysis.
 
