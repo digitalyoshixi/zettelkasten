@@ -9,3 +9,4 @@ aliases:
 - [[Bridging Todays Security with Tomorrows Quantum Threats]]
 - [[Active Directory 101 Why AD Security is Mission Critical]]
 - [[Trust and AI Bruce Scheniener]]
+- [[Nicky The Dumbest Ransomware You Will Ever Respect]]

@@ -55,7 +55,7 @@ A talk at [[Toronto Area Security Klatch|TASK]] by [[Bruce Schneier]].
 - Can be build a intengrous system out of non-integrous parts in a non-integrous work?
 - Is there an adjective for integrity? integrous
 - Scneier is working on an active wallet, your phone has a wallet, it is a passive thing, it stores stored credentials
-- Active wallet, we use SOLID internet protocol, tim burner lee, prev creator of world-wide-web
+- Active wallet, we use SOLID internet protocol developed by tim burner lee, prev creator of world-wide-web
 - Distributed data ownership, your personal data wallet. you give read/write/edit permissions for a company for access to your wallet
 - Interrupt is his company, making this work at scale requires enormous amount of trust
 - Governments need to provide transparency laws, what model is it, what biases do it have
@@ -68,10 +68,20 @@ A talk at [[Toronto Area Security Klatch|TASK]] by [[Bruce Schneier]].
 	- Any AI regulations should also put restrictions on people and corporations, there is always a human responsible for the AI behavior
 - We need public AI models, made by academia, government itself, open source, made and run by individuals
 - Open source for AI is not exactly the same open source, it doesn't include secret training data, secret training mechanisms
+- An open model requires public accountability. Not for profit AI aswell
 - Imagine medical model, trained off of all our medical records, we need ways to ensure the privacy and integrity of those models are open source
 - We need to have political accountability, open-ness transparency, response to public demands, foundation for market innovation
 - Switzerland, ETH Zurich  released a public model [[Apertus]], about par with best models of last year, fully open, training data is open, free, you can download
 - 3 work statements, we need them intersecting
 	- AI security
-	- AI integrity 
+	- AI integrity
 	- AI governance
+- [[Model Context Protocol|MCP]] is wildly insecure
+- The existing landscape is one that intersects money and politics, we should try and abolish tech monopolies, you should not be able to buy politicians
+- In the US, money affects politics much much more, In the US what the money wants is law
+- When AI helps democracy, it distributes power, when it harms democracy, it concentrates power
+- AI lawyers, analyze discovery documents
+- Summary: OpenAI is providing canada, a soverign model, license code to a country, you can use it. They would not do this if it was good for you. Pilot AI projects across AI government, lots are super interesting, how AI can reduce lobbying, requires getting the basics right
+- AI model, train off mozart, train off that output, you get sozieri, train off that output, you get rubbish
+- Your only hope to fight against tech lobbying, silicon valley decision power is collective action, collaboration between countries
+- The attackers, attack as a group, get one to capitulate, another to capitulate, and nothing is left standing, we dont want this to happen. You have the G20, make the G19, retaliate against the US
