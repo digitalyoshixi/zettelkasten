@@ -24,8 +24,9 @@ This is the map of my homelab:
 - [ ] [[Bitwarden]] for password management
 - [ ] [[Nextcloud]] for file-sync
 - [ ] [[Jellyfin]] for watching shows
-- [ ] [[Cloudflare Tunnel]]?
+- [x] [[Cloudflare Tunnel]]?
 - [ ] [[Samba]] for SMB?
 - [ ] [[TOR]] relay (bridge node)
+- [ ] [[OTEL-LGTM Stack]] monitoring box
 # Personal Journal
 - [[My Homelab Setup Journey]]
