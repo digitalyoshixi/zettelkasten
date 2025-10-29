@@ -24,4 +24,54 @@ A talk at [[Toronto Area Security Klatch|TASK]] by [[Bruce Schneier]].
 - Organizations profit when we think of them as friends
 - Government, corporations and AI are machines more powerful than its components
 - Our fears of AI's are the repressed fears we have of capitalism
-- Products
+- Services are used like agents, when in fact, they are double-agents secretly being used by corporate agents
+- AI systems are more relational, we communicate with natural language
+- Static websites may disappear in the future, if you want to know when a restaurant opens, you ask the AI, you book with the AI, relational nature makes it easier
+- AI will always feed you bias, bias about political party that will make the original company more money
+- We have no choice but to trust something because they are powerful. We are forced to trust the police, forced to trust large coorporations, we have no choice but to trust them, regardless of if they are trustworthy
+- Same like AI, we will have no choice but to trust them
+- AI powers google maps, we have no choice
+- AI's will be more intimate, it will root for your baseball team, personalized voice, everything you like
+- We need trustworthy AI, who have understood AI systems.
+- All AI systems are going to be used in some sort of adversarial environment
+- AI will always be hacked
+	- Adversaries who want to modify the AI's output and eavesdrop, manipulate the AI integrity
+	- Imaging AI used for legal policy, somebody will want to hack that AI
+	- We know that Russia is poisoning training data
+- AI's are still a software system, everything we know about security applies to AI systems, but new things too like [[Prompt Injection]]
+- Reboot process, we convert the program into a safe state, integrity
+- Digital signing, an integrity system
+- Checksums, integrity system
+- Integrity breaches include malicious actions and mistakes, most attacks against AI are integrity attacks (stickers on roadsign to fool tesla)
+- AI can interpret data as commands, these are all integrity attacks
+- Imagine AI is trained off the organization's complete data, give it its actions, the integrity of the model ensures the operation of the system
+- [[Confidentiality Integrity Availability Triad|CIA Triad]], we need to maintain availability
+- Web 1.0 all about availability, everything possible to create a repository of human knowledge, making info available overshadows everything else
+- Web 2.0, confidentiality most important, read-write internet
+- Web 3.0, integrity most important, [[Blockchain]], [[Internet of Things|IoT]], [[AI Agent]], these require integrity, without integrity, there is no car communication, no smart agents
+- Integrity is a hard problem, it includes: verifiable change, data integrity, authentication, auditing
+- Research question that rivals the internet, the internet exists to answer can we create a reliabile system out of unreliable parts
+- Can we build a secure network out of insecure parts for an insecure world?
+- Can be build a intengrous system out of non-integrous parts in a non-integrous work?
+- Is there an adjective for integrity? integrous
+- Scneier is working on an active wallet, your phone has a wallet, it is a passive thing, it stores stored credentials
+- Active wallet, we use SOLID internet protocol, tim burner lee, prev creator of world-wide-web
+- Distributed data ownership, your personal data wallet. you give read/write/edit permissions for a company for access to your wallet
+- Interrupt is his company, making this work at scale requires enormous amount of trust
+- Governments need to provide transparency laws, what model is it, what biases do it have
+- Laws on AI safety, when can AI affect the world
+- When is AI allowed to spy on us? when can it manipulate you?
+- Min security standards for AI in the outside world
+- Recognize whats happening, and set penalties
+- The one law [[EU AI Act]]
+	- They try to regulate the AI's themselves, and not the people behind it
+	- Any AI regulations should also put restrictions on people and corporations, there is always a human responsible for the AI behavior
+- We need public AI models, made by academia, government itself, open source, made and run by individuals
+- Open source for AI is not exactly the same open source, it doesn't include secret training data, secret training mechanisms
+- Imagine medical model, trained off of all our medical records, we need ways to ensure the privacy and integrity of those models are open source
+- We need to have political accountability, open-ness transparency, response to public demands, foundation for market innovation
+- Switzerland, ETH Zurich  released a public model [[Apertus]], about par with best models of last year, fully open, training data is open, free, you can download
+- 3 work statements, we need them intersecting
+	- AI security
+	- AI integrity 
+	- AI governance
