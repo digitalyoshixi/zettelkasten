@@ -81,6 +81,7 @@ aliases:
 - [[Iterated Partial Derivative]]
 - [[Class Functions]]
 - [[Equality of Mixed Partials]]
+- [[Clairauts Theorem]]
 - [[Subscript Notation for Derivatives]]
 - [[Heat Equation]]
 - [[Wave Equation]]
