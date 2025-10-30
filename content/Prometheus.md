@@ -18,4 +18,5 @@ prometheus --config.file=prometheus.yml
 - [[Prometheus Table]]
 - [[Prometheus Graph]]
 - [[prometheus config]]
-- [[Prometheus SNMP Setup]]
+- [[Prometheus Node Exporter]]
+- [[Prometheus SNMP Exporter]]
