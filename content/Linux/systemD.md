@@ -4,6 +4,7 @@ tags:
   - os
 aliases:
   - systemctl
+  - Linux Service
 ---
 Linux's [[init]] system
 # Install
