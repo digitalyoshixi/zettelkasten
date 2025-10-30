@@ -2,5 +2,31 @@
 tags:
   - security
 ---
-A talk at [[Toronto Area Security Klatch|TASK]].
+A talk at [[Toronto Area Security Klatch|TASK]] by Lee Kagan
 # Notes
+- Nicky was written in C#, no single EDR stopped it
+- Can be delivered through [[Cobalt Strike]], during testing phase
+- Designed to target only single folder
+- Can be wrapped programmtically to target multiple folders
+- Accepts [[Universal Naming Convention]] paths to get those shares
+- Needs no priviliege elevation to run
+- Encrypts target files extremely fast
+- Has a mutex check where the process generates a string, so that nicky does not run multiple times concurrently
+- Modifies the [[Access Control Entry]] in the file-descriptor, the world siv, prevents something else from killing the process
+- Direct imports, EDR's hook these, but nicky does not need that many imports
+- Use [[RSA]] to encrypt data
+- Use another tool InvokePoshAF, takes a .net file, encrypts it, turns it into byte-data, adds it to an output powershell script and sends to user
+- [[Anti Malware Scanning Interface|AMSI]] and [[Events Tracing Windows|ETW]] disable patch ( https://github.com/EvilBytecode/Lifetime-Amsi-EtwPatch )
+- [[Powershell Execution Policy]] bypass
+- [[Keep It Simple Stupid]]
+- Always setup [[Sysmon]]
+- Keep powershell logging
+- CLM, [[Desired State Configuration]], Module Logging, ScriptBlock Logging, [[Constrainted Language Mode]], Transcription Logging
+- Giant ass splunk log can catch powershell anomalies
+- File/folder access defense with [[Windows Event Viewer]], [[Sysmon]] is more granular
+- RansomGuard is good monitoring, implements actual blocking (https://github.com/0mWindyBug/RansomGuard)
+- [[TypeRefHasher]]
+- [[ClrGuard]] ([[CLR.DLL]]) allows for a process to run .NET code, must be in the process
+- [[JonMon]]
+- Windows defender has a CFA feature
+- [[ETWBuddy]]
