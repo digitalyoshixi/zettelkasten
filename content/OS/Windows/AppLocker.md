@@ -2,4 +2,4 @@
 tags:
   - windows
 ---
-Software that manages what applications can run on a system
+Software that manages what applications can run on a system.

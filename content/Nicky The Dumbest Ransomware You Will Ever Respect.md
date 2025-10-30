@@ -21,7 +21,7 @@ A talk at [[Toronto Area Security Klatch|TASK]] by Lee Kagan
 - [[Keep It Simple Stupid]]
 - Always setup [[Sysmon]]
 - Keep powershell logging
-- CLM, [[Desired State Configuration]], Module Logging, ScriptBlock Logging, [[Constrainted Language Mode]], Transcription Logging
+- [[Desired State Configuration]], Module Logging, ScriptBlock Logging, [[Constrained Language Mode]], Transcription Logging
 - Giant ass splunk log can catch powershell anomalies
 - File/folder access defense with [[Windows Event Viewer]], [[Sysmon]] is more granular
 - RansomGuard is good monitoring, implements actual blocking (https://github.com/0mWindyBug/RansomGuard)
@@ -30,3 +30,6 @@ A talk at [[Toronto Area Security Klatch|TASK]] by Lee Kagan
 - [[JonMon]]
 - Windows defender has a CFA feature
 - [[ETWBuddy]]
+- Nicky did have decryption key and device identifier exfiltration, and caused triggers, but not because of ransomware, it was because of unregistered domain
+- [[AppLocker]] whitelisting, powershell being blocked would have limited. Nicky is often dropped with powershell, then it can just run
+- [[File Canaries]], a file monitored by EDR
