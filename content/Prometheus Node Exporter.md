@@ -19,12 +19,15 @@ tar xvfz node_exporter-*.*-amd64.tar.gz
 ```
 3. 
 ```
+cd node_exporter-*.*
+```
+3. 
+```
 mv node_exporter /opt/node_exporter
 ```
 4. 
 ```
 sudo ln -s /opt/node_exporter /usr/local/bin/node_exporter
-./node_exporter
 ```
 5. 
 ```

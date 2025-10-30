@@ -27,6 +27,6 @@ This is the map of my homelab:
 - [x] [[Cloudflare Tunnel]]?
 - [ ] [[Samba]] for SMB?
 - [ ] [[TOR]] relay (bridge node)
-- [ ] [[OTEL-LGTM Stack]] monitoring box
+- [x] [[OTEL-LGTM Stack]] monitoring box ✅ 2025-10-30
 # Personal Journal
 - [[My Homelab Setup Journey]]
