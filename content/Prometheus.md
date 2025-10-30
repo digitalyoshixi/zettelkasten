@@ -11,7 +11,7 @@ apt install prometheus
 ```
 # Running
 ```
-prometheus --config.file=prometheus.yml
+prometheus --config.file=/opt/prometheus/prometheus.yml
 ```
 # Concepts
 - [[PromQL]]

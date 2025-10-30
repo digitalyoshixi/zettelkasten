@@ -50,3 +50,30 @@ sudo systemctl daemon-reload
 sudo systemctl enable snmp-exporter
 sudo systemctl start snmp-exporter
 ```
+
+### Setting up Prometheus
+```
+global:
+  scrape_interval:     15s
+  external_labels:
+    monitor: 'codelab-monitor'
+scrape_configs:
+  - job_name: 'prometheus'
+    scrape_interval: 5s
+    static_configs:
+      - targets: ['localhost:9090']
+  - job_name: 'snmp_exporter'
+    metrics_path: /snmp
+    params:
+      module: [if_mib]
+    static_configs:
+      - targets:
+          - 192.168.2.69 # target IP
+    relabel_configs:   
+      - source_labels: [__address__]
+        target_label: __param_target
+      - source_labels: [__param_target]
+        target_label: instance
+      - target_label: __address__
+        replacement: 127.0.0.1:9116 # SNMP Exporter
+```
