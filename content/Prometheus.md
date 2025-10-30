@@ -9,5 +9,13 @@ Processes push to a gateway, and prometheus scrapes from that gateway.
 ```
 apt install prometheus
 ```
+# Running
+```
+prometheus --config.file=prometheus.yml
+```
 # Concepts
 - [[PromQL]]
+	- [[PromQL count]]
+- [[Prometheus Table]]
+- [[Prometheus Graph]]
+- [[prometheus config]]
