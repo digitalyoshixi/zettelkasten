@@ -15,7 +15,7 @@ prometheus --config.file=prometheus.yml
 ```
 # Concepts
 - [[PromQL]]
-	- [[PromQL count]]
 - [[Prometheus Table]]
 - [[Prometheus Graph]]
 - [[prometheus config]]
+- [[Prometheus SNMP Setup]]
