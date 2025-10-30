@@ -7,3 +7,5 @@ This is a [[Continuous Integration Continuous Deployment]] config file, to easil
 ```
 yay -S terraform
 ```
+# Tools
+- [[tfsec]]

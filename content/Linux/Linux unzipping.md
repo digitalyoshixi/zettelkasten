@@ -8,6 +8,7 @@ tags:
 `sudo pacman -S unzip`
 - `unzip somearchive.zip`
 - `unzip`
+- `unzip -p mypassword file.zip`
 ##### Allow Zipbomb
 `export UNZIP_DISABLE_ZIPBOMB_DETECTION=TRUE`
 ### Rar files

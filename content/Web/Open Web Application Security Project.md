@@ -10,3 +10,5 @@ A organization responsible for web standards and web auditing to reduce security
 # Lists
 - [[OWASP Top 10]]
 - [[OWASP Top 10 for LLM]]
+# Tools
+- [[OWASP Zed Attack Proxy]]
