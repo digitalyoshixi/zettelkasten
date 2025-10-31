@@ -68,6 +68,7 @@ A cloud platform that provides:
 ### Security
 - [[AWS IAM]]
 - [[AWS Cognito]]
+- [[Amazon GuardDuty|AWS GuardDuty]]
 ### End User Communication
 - [[AWS Simple Notification Service|AWS SNS]]
 - [[AWS Simple Email Service|AWS SES]]

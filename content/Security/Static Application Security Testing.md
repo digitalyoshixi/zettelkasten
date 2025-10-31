@@ -12,3 +12,4 @@ SAST is very noisy.
 - [[covernity]]
 - [[CyberRes Fortify]]
 - [[Bandit]]
+- [[Semgrep]]

@@ -1,0 +1,6 @@
+---
+tags:
+  - security
+  - software
+---
+A [[Static Application Security Testing|SAST]] that uses semantic [[grep]] rules written in [[YAML]] to find static security code defects.
