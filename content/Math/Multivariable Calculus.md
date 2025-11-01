@@ -90,7 +90,6 @@ aliases:
 - [[Iterated Partial Derivative]]
 - [[Class Functions]]
 - [[Math/Clairauts Theorem]]
-- [[Clairauts Theorem]]
 - [[Subscript Notation for Derivatives]]
 - [[Heat Equation]]
 - [[Wave Equation]]
