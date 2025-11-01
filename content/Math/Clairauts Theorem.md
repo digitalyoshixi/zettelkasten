@@ -2,6 +2,8 @@
 tags:
   - math
   - calculus
+aliases:
+  - Equality of Mixed Partials
 ---
 # Theorem
 If $f(x,y)$ belongs to [[Class Functions|Function Class]] $C^{k}$, then the [[Iterated Partial Derivative|Mixed Partial Derivatives]] are equal.

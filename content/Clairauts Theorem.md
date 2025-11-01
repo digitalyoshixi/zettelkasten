@@ -1,8 +1,0 @@
----
-tags:
-  - math
-  - calculus
----
-$$
-\frac{\partial^{2}f}{\partial x \partial y} = \frac{\partial^{2}f}{\partial y \partial x}
-$$
