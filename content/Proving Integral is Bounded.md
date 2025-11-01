@@ -9,4 +9,14 @@ tags:
 - Note that this means $-M Area(R) \leq \int \int_{R} f(x)dA \leq M Area(R)$
 # Proving Bounded
 Pick the [[Riemann Partition]] with $N$ sub-rectangles
-$$\sum_{i=1}^{N-1}$$
+For upper bound:
+$$\sum_{i,j=0}^{N-1}f(c_{ij}) \triangle x_{i} \triangle y_{i}$$
+
+$$ < \sum_{i,j=0}^{N-1}f M \triangle x_{i} \triangle y_{i}$$
+$$ = M \sum_{i,j=0}^{N-1}f  \triangle x_{i} \triangle y_{i}$$
+$$ = M Area(R)$$
+The lower bound is similar
+$$\sum_{i,j=0}^{N-1}f(c_{ij}) \triangle x_{i} \triangle y_{i}$$
+$$ > \sum_{i,j=0}^{N-1}f -M \triangle x_{i} \triangle y_{i}$$
+$$ = -M \sum_{i,j=0}^{N-1}f \triangle x_{i} \triangle y_{i}$$
+$$ = -M Area(R)$$
