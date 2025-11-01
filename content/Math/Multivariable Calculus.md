@@ -118,6 +118,7 @@ aliases:
 - [[Closed Set]]
 - [[Extreme Value Theorem]]
 - [[Minima and Maxima for Sets with Boundary Process]]
+- [[Plane Tangent to Surface at Point]]
 ### Week 7
 - [[Restriction Operator]]
 - [[Objective Function]]
