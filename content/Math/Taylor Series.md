@@ -23,3 +23,6 @@ Allows for approximating a function if the derivatives are known.
 - [[Taylor Approximation for Exponential with Euler's Base]]
 - [[Taylor Approximation for Sin]]
 - [[Taylor Approximation for Cos]]
+- [[Taylor Approximation for Arctan]]
+- [[Taylor Approximation for Inverse 1 minus X]]
+- [[Taylor Approximation for Inverse 1 plus X]]

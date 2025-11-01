@@ -6,13 +6,13 @@ aliases:
   - MATB41
 ---
 # Midterm 2
-- Directional derivatives
-- Chain rule
-- Higher-order partial derivatives
-- Unconstrained optimization (Hessian)
-- Constrained optimization (Lagrange and EVT)
-- Taylor series
-- Riemann sums
+- [ ] Directional derivatives
+- [ ] Chain rule
+- [ ] Higher-order partial derivatives
+- [ ] Unconstrained optimization (Hessian)
+- [ ] Constrained optimization (Lagrange and EVT)
+- [ ] Taylor series
+- [ ] Riemann sums
 # Notes
 - Prof: Dr Tatiana Pilehrood
 - TA: Tamis Panagiotakis
@@ -41,8 +41,8 @@ aliases:
 - [[Angle Between Two Planes]]
 - [[Intersection Between Two Planes]]
 - [[Normal Vector from Cartesian Equation of Plane]]
-- [[Distance Between Point to Line]]
 - [[Projection]]
+- [[Distance Between Point to Line]]
 - [[Distance Between Point and Plane]]
 - [[Point on Plane Closest to Point]]
 - [[Cross Product]]
