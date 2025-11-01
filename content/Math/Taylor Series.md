@@ -19,3 +19,7 @@ Allows for approximating a function if the derivatives are known.
 - [[Taylor's Theorem in One Dimension]]
 - [[Taylor's Theorem in One Dimension Constant Version]]
 - [[First-Order Multivariable Taylor Series]]
+# Taylor Approximations List
+- [[Taylor Approximation for Exponential with Euler's Base]]
+- [[Taylor Approximation for Sin]]
+- [[Taylor Approximation for Cos]]

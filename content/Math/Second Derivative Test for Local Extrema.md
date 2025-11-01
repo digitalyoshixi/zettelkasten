@@ -2,6 +2,8 @@
 tags:
   - math
   - calculus
+aliases:
+  - Hessian Test
 ---
 # Test
 Suppose that $f : U \subset \mathbb{R}^{n} \to \mathbb{R}$ is a class of $C^{2}$ [[Class Functions]]

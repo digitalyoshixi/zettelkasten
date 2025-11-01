@@ -5,6 +5,14 @@ tags:
 aliases:
   - MATB41
 ---
+# Midterm 2
+- Directional derivatives
+- Chain rule
+- Higher-order partial derivatives
+- Unconstrained optimization (Hessian)
+- Constrained optimization (Lagrange and EVT)
+- Taylor series
+- Riemann sums
 # Notes
 - Prof: Dr Tatiana Pilehrood
 - TA: Tamis Panagiotakis
