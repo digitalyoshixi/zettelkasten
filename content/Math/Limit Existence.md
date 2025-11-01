@@ -27,6 +27,8 @@ They do not exist if:
 	- $\lim_{ x \to -\infty } \frac{1}{\cos x}$
 	- $\lim_{ x \to \infty } \frac{1}{\tan x}$
 	- $\lim_{ x \to -\infty } \frac{1}{\tan x}$
+# Paths Definition
+A limit exists if it takes the same value from all [[Limits Existence Implies Equality Along All Paths|Paths]]
 # Algebraic Proof
 - Use Algebra with [[Limit Properties]]
 - You can use direct substitution if there is no hole in the equation
@@ -37,6 +39,7 @@ They do not exist if:
 - [[Limits with Euler's Number]]
 - [[Squeeze Theorem]]
 - [[L'Hopital's Rule]]
+- [[Limits Using Polar Coordinates]]
 # Graphic Proof
 - The limit is that point it naturally approaches. Follow the curve, not the jump
 ![[Limits-20240207200022123.webp|254]]
