@@ -126,10 +126,11 @@ aliases:
 - [[Level Curves Interpretation of Lagrange]]
 - [[Lagrange With Multiple Constraints]]
 ### Week 8
-- [[Cavalier's Principle]]
+- [[Cavalieri's Principle]]
 - [[Double Integral Volume]]
 - [[Definite Integral Riemann Sum Definition]]
 - [[Double Integral Riemann Sum Definition]]
 - [[Bounded Function]]
+- [[Proving Integral is Bounded]]
 - [[Iterated Integrals]]
 - [[Fubini's Theorem]]
