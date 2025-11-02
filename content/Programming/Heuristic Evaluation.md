@@ -14,7 +14,7 @@ A usability inspection method that is guided by a set of recognized usability pr
 # Evaluations
 1. Visibility of system status
 2. [[Real World and System Synthesis]]
-3. [[User Control and Freedom]]
+3. [[User Control and Fr`eedom]]
 4. Consistency and standards
 5. [[Error Prevention]]
 6. Recognition rather than recall
