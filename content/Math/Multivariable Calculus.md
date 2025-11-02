@@ -130,7 +130,7 @@ aliases:
 - [[Cavalieri's Principle]]
 - [[Double Integral Volume]]
 - [[Definite Integral Riemann Sum Definition]]
-- [[Double Integral Riemann Sum Definition]]
+- [[Riemann Integral in Two Dimensions]]
 - [[Bounded Function]]
 - [[Proving Integral is Bounded]]
 - [[Iterated Integrals]]
