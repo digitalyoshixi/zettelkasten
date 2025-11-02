@@ -10,4 +10,8 @@ Watched a cool video one time about DNA/RNA printing. This guy printed a custom 
 I really didn't know this was possible. I went down a rabbit hole into existing research and compiled a collection of guides. I came up with this project idea of writing a verilog compiler that compiles down to a DNA sequence. Turns out it already existed, but the project is 7 years old.
 Its really cool research, later down the line I went to hacklab.to which is a toronto hackerspace, they have their own wet-lab where they print custom organisms. Apparently you can get into this field without a deep background in biology, just a willingness to learn.
 This really just inspired me. You can contribute to science even if you're not academic.
-# Project worked on
+# Tell us about a project you've worked on, technical, artistic, anything in between. What was your role, how did you collaborate with others, what did you learn?
+Recently worked on a game for Touhou gamejam 16. We made a mix between a ice-cream creation game and bullet hell.
+I was a programmer in our group of 4, I developed particles, queues and global state handling for our game.
+Learned a lot about project management. organized tasks through excalidraw, created UML diagrams and mockups for game systems.
+Spent the weekend before learning how to produce in FL-studio, didnt have enough time to make anything but it was a good experience.

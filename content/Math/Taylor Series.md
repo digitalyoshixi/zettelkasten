@@ -26,3 +26,4 @@ Allows for approximating a function if the derivatives are known.
 - [[Taylor Approximation for Arctan]]
 - [[Taylor Approximation for Inverse 1 minus X]]
 - [[Taylor Approximation for Inverse 1 plus X]]
+- [[Taylor Approximation for Natural Logarithm 1 plus X]]
