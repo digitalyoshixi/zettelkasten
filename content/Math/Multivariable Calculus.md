@@ -7,12 +7,12 @@ aliases:
 ---
 # Midterm 2
 - [ ] Directional derivatives
-- [ ] Chain rule
+- [x] Chain rule ✅ 2025-11-01
 - [ ] Higher-order partial derivatives
 - [ ] Unconstrained optimization (Hessian)
-- [ ] Constrained optimization (Lagrange and EVT)
+- [x] Constrained optimization (Lagrange and EVT) ✅ 2025-11-01
 - [ ] Taylor series
-- [ ] Riemann sums
+- [x] Riemann sums ✅ 2025-11-01
 # Notes
 - Prof: Dr Tatiana Pilehrood
 - TA: Tamis Panagiotakis
