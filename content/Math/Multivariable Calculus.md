@@ -122,6 +122,7 @@ aliases:
 - [[Extreme Value Theorem]]
 - [[Minima and Maxima for Sets with Boundary Process]]
 - [[Plane Tangent to Surface at Point]]
+- [[Tangent Plane to Line]]
 ### Week 7
 - [[Restriction Operator]]
 - [[Objective Function]]
