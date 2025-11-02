@@ -3,6 +3,7 @@ tags:
   - math
 aliases:
   - N-Tuple
+  - Ordered Sequence
 ---
 # Definition
 A finite [[Sequence]] of listed numbers.
