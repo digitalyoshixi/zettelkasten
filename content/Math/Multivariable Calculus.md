@@ -6,8 +6,8 @@ aliases:
   - MATB41
 ---
 # Midterm 2
-- [ ] Directional derivatives
-- [x] Chain rule ✅ 2025-11-01
+- [x] Directional derivatives
+- [ ] Chain rule
 - [ ] Higher-order partial derivatives
 - [ ] Unconstrained optimization (Hessian)
 - [x] Constrained optimization (Lagrange and EVT) ✅ 2025-11-01
@@ -76,6 +76,7 @@ aliases:
 - [[Linear Approximation and Differentiability Theorem]]
 ### Week 4
 - [[Product Rule for Derivatives]]
+- [[Chain Rule for Multivariable Function]]
 - [[Chain Rule for Total Derivatives]]
 - [[Chain Rule and Gradients]]
 - [[Directional Derivative]]
