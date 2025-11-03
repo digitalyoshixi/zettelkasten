@@ -101,6 +101,7 @@ aliases:
 - [[General Multivariable Taylor Series]]
 - [[Taylor's Theorem in One Dimension]]
 - [[Taylor's Theorem in One Dimension Constant Version]]
+- [[Taylor Polynomial to Find Partial Derivative]]
 - [[Quadratic Form]]
 - [[Quadratic Form Representation of Matrix]]
 - [[Hessian Matrix]]
