@@ -131,6 +131,7 @@ aliases:
 - [[Lagrange Auxilliary Function]]
 - [[Level Curves Interpretation of Lagrange]]
 - [[Lagrange With Multiple Constraints]]
+- [[Arithmetic-Geometric Mean Inequality]]
 ### Week 8
 - [[Cavalieri's Principle]]
 - [[Double Integral Volume]]
