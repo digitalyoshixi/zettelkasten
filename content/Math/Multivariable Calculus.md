@@ -10,8 +10,8 @@ aliases:
 - [x] Chain rule ✅ 2025-11-02
 - [x] Higher-order partial derivatives ✅ 2025-11-02
 - [ ] Unconstrained optimization (Hessian)
-- [x] Constrained optimization (Lagrange and EVT) ✅ 2025-11-01
-- [x] Taylor series ✅ 2025-11-02
+- [ ] Constrained optimization (Lagrange and EVT)
+- [ ] Taylor series
 - [x] Riemann sums ✅ 2025-11-01
 # Notes
 - Prof: Dr Tatiana Pilehrood
