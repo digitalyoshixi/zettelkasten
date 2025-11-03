@@ -141,3 +141,10 @@ aliases:
 - [[Proving Integral is Bounded]]
 - [[Iterated Integrals]]
 - [[Fubini's Theorem]]
+### Week 9
+- [[Y-Simple Region]]
+- [[X-Simple Region]]
+- [[Simple Region]]
+- [[Double Integral for Y-Simple Region]]
+- [[Change of Order of Integration]]
+- [[Mean Value Theorem for Integrals]]
