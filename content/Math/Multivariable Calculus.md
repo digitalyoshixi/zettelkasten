@@ -11,7 +11,7 @@ aliases:
 - [x] Higher-order partial derivatives ✅ 2025-11-02
 - [ ] Unconstrained optimization (Hessian)
 - [ ] Constrained optimization (Lagrange and EVT)
-- [ ] Taylor series
+- [x] Taylor series ✅ 2025-11-02
 - [x] Riemann sums ✅ 2025-11-01
 # Notes
 - Prof: Dr Tatiana Pilehrood
