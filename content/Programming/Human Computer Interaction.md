@@ -108,6 +108,12 @@ Term test week, Nothing new
 ### Week 9
 - [[Qualitative Data Analysis]]
 - [[Quantitative Data Analysis]]
-- [[Grounded Theory]]
 - [[Mixed Method Research]]
 - [[Raw Data]]
+- [[Grounded Theory]]
+- [[Distributed Cognition]]
+- [[Activity Theory]]
+- [[Test Experiment]]
+- [[Order Effect Problem]]
+- [[Bucket Testing|A/B Testing]]
+- [[Fitt's Law]]
