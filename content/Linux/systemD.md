@@ -15,6 +15,7 @@ Software to configure the system's [[Daemon Process|OS Service]] that run at sta
 - `systemctl disable service`
 - `systemctl start service` runs the service
 - `systemctl restart service` 
+- `systemctl daemon-reload` to reload configuration files
 # Creating Services
 1. `vim /etc/systemd/system/myservice.service`
 2. 
