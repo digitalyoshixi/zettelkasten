@@ -103,3 +103,11 @@ Responsible for maintaining the design and evaluation of systems.
 - [[Research Ethics]]
 - [[Usability Tests]]
 - [[Evaluators and Usability Problems]]
+### Week 8
+Term test week, Nothing new
+### Week 9
+- [[Qualitative Data Analysis]]
+- [[Quantitative Data Analysis]]
+- [[Grounded Theory]]
+- [[Mixed Method Research]]
+- [[Raw Data]]
