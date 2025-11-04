@@ -6,4 +6,4 @@ A small piece of software stored in [[Read Only Memory|ROM]] written in assembly
 # Types
 - [[Single Stage Bootloader]]
 - [[Double Stage Bootloader]]
-- [[]]
+- [[Mixed Bootloader]]

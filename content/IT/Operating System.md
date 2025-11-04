@@ -16,6 +16,8 @@ A general concept for a software that merges hardware and software resources.
 - [[MacOS]]
 - [[OpenBSD]]
 # OS Concepts
+- [[Bootloader]]
+- [[Initial Ramdisk]]
 - [[Process Synchronization]]
 - [[Process Scheduling]]
 - [[Virtual Machine]]
