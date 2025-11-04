@@ -137,3 +137,9 @@ Course taught by Prof. Sotos.
 - [[Distribution of Minimum Order Statistic]]
 - [[Sum of Random Variables]]
 - [[Convolution Method]]
+### Week 9
+- [[Covariance]]
+- [[Correlation]]
+- [[Random Variable Linear Dependence]]
+- [[Conditional Expectation]]
+- [[Law of Total Expectaiton|LoTE]]
