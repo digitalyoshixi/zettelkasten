@@ -143,3 +143,5 @@ Course taught by Prof. Sotos.
 - [[Random Variable Linear Dependence]]
 - [[Conditional Expectation]]
 - [[Law of Total Expectaiton|LoTE]]
+- [[Law of Total Variance]]
+- [[Bivariate Normal]]
