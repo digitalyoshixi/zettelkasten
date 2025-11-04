@@ -149,3 +149,9 @@ A course about the ethics of medicine.
 - [[Grievous And Irremediable Condition]]
 - [[Terminal Illness Maid Thought Experiment]]
 - [[Advance Request]]
+### Week 9
+- [[Abortion]]
+- [[Pro Life]]
+- [[Pro Choice]]
+- [[Moral Consideration]]
+- [[Preborn vs Postborn Fetus Argument]]
