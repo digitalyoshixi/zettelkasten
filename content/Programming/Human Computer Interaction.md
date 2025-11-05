@@ -116,4 +116,4 @@ Term test week, Nothing new
 - [[Test Experiment]]
 - [[Order Effect Problem]]
 - [[Bucket Testing|A/B Testing]]
-- [[Fitt's Law]]
+- [[Fitts' Law]]

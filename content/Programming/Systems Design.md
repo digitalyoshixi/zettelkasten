@@ -15,3 +15,5 @@ The role that is involved in creating large-scale software systems.
 	- [[Apache Kafka]]
 - [[Monolith]]
 - [[Microservices]]
+- [[Observability]]
+- [[Altering Systems]]
