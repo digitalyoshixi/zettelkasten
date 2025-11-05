@@ -4,6 +4,7 @@ tags:
   - IT
 aliases:
   - HA
+  - Availability
 ---
 These are high-uptime servers that are monitored by automated systems.
 Technicians must ensure that the system is running 99.999% of the time.
