@@ -17,3 +17,8 @@ These are files that are hosted by servers used to hold data.
 - [[Database Paradigms]]
 - [[Database Schema]]
 - [[Database Encryption]]
+- [[Sharding]]
+- [[Database Replication]]
+- [[Database Cache]]
+- [[Database Indexing]]
+- [[Query Optimization]]
