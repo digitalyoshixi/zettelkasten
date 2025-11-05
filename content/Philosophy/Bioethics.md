@@ -154,4 +154,6 @@ A course about the ethics of medicine.
 - [[Pro Life]]
 - [[Pro Choice]]
 - [[Moral Consideration]]
-- [[Preborn vs Postborn Fetus Argument]]
+- [[Post-Birth vs Pre-Birth Fetus Equivalence]]
+- [[Premature Birth vs Pre-Birth Fetus Argument]]
+- [[Judith Jarvis Thomson Argument Defense of Abortion]]

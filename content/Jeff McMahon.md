@@ -4,4 +4,4 @@ tags:
   - bioethics
 ---
 # Views
-- [[Late Stage Birth vs Pre Birth Fetus Equivalence]]
+- [[Post-Birth vs Pre-Birth Fetus Equivalence]]
