@@ -2,8 +2,8 @@
 tags:
   - database
 ---
+A [[Application Program Interface|API]] that provides hyper-specificity on the data needed. 
 ![[GraphQL-20240802040352920.webp|255]]
-A query language for [[Application Program Interface|API]] that provides hyper-specificity on the data needed. 
 Multiple [[Rest API]] requests can be packed into a single GraphQL request.
 It also provides high-levels of privacy for the requests sent.
 # Installation ([[ExpressJS]])
