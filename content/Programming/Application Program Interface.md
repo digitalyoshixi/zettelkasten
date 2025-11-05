@@ -9,6 +9,7 @@ APIs allow access to information of a website while limiting access. They are de
 # API Types
 - [[Rest API]]
 - [[GraphQL]]
-- [[gRPC]]
+- [[Google Remote Procedure Call]]
 # Concepts
 - [[API Security]]
+- [[API Best Practices]]

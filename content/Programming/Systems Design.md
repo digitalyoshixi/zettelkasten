@@ -32,3 +32,4 @@ Good pillars include:
 - [[Monolith]]
 - [[Microservices]]
 - [[PM2]]
+- [[Proxy Server]]

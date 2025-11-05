@@ -13,4 +13,4 @@ Data is also stored in the [[Web Server]]'s RAM.
 - Leaderboards
 ### Implementations
 - [[Redis]]
-- [[MemCache]]
+- [[MemCached]]
