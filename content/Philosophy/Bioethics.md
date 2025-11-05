@@ -16,7 +16,13 @@ A course about the ethics of medicine.
 	- A [[Beauchamp and Childress Four Principles of Biomedical Ethics]] can be in tension with itself, if it is unclear about what to do
 - Ethics consultation simulation (20%)
 - Ethics consultation simulation (27%)
-- Oral exam (33%) - meet with your TA and you will answer 2/5 discussion-based questions. oral exam is 20min per person, 7.5 mins for each question. No aids allowed
+- Oral exam (33%) - meet with your TA and you will answer 2/5 discussion-based questions. 
+	- TA office in KW, will be told exact room
+	- Oral exam is 15min per person. 7.5 mins for each question
+	- No aids allowed
+	- Must bring Tcard
+	- Blank paper allowed to jot notes
+	- No talking outside the exam room
 - Tutorial (10%)
 - Drop-in-times Weds 1pm-2pm Thurs 11am-12pm zoom https://utoronto.zoom.us/j/3147121578 passcode 103099
 # Concepts
@@ -162,4 +168,4 @@ A course about the ethics of medicine.
 - [[Henry Fonda Saving Life Thought Experiment]]
 - [[Burglar Enter Thought Experiment]]
 - [[Right to Life]]
-- [[Don Marquee Fetus Life Argument]]
+- [[Don Marquis Fetus Life Argument]]
