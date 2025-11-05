@@ -11,3 +11,6 @@ All clients have a proxy server to communicate to the server.
 - [[Intrusion Prevention System|IPS]]
 - [[Intrusion Detection System|IDS]]
 - [[Load Balancer]]
+# Example
+- [[Instagram Proxies]]
+- [[Internet Use Control Proxies]]
