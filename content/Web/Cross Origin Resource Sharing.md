@@ -4,6 +4,7 @@ tags:
 aliases:
   - CORS
 ---
+The list of sites that can access your [[Application Program Interface|API]].
 Allows access of resources from remote hosts. It allows resources that live in one URL to be loaded into another URL.
 It is part of the [[Browser Origin Policy]].
 # Installation

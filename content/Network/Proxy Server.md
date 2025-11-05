@@ -8,6 +8,12 @@ The proxy server can be used to:
 - Encrypt/Decrypt data
 - Filter packets like a [[Firewall]]
 - Cache webdata
+- Act as [[Load Balancer]]
 # Types
 - [[Forward Proxy]]
 - [[Reverse Proxy]]
+- [[Open Proxy]]
+- [[Transparent Proxy]]
+- [[Anonymous Proxy]]
+- [[Distorting Proxy]]
+- [[High Anonymity Proxy]]

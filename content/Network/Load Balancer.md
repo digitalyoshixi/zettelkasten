@@ -18,4 +18,14 @@ A software or hardware process on the [[Local Area Network|LAN]] that manages mu
 - [[Least Utilized Host]]
 - [[Affinity]]
 - [[DNS Round Robin]]
+- [[Geographic Load Balancing]]
 - [[Load Balancer Configuration]]
+# Hardware Load Balancer
+- [[F5 Load Balancer]]
+- [[Citrix]]
+# Software Load Balancer
+- [[Haproxy]]
+- [[Caddy]]
+- [[nginx]]
+# Cloud Load Balancers
+- [[AWS Elastic Load Balancing]]
