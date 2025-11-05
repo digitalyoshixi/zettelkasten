@@ -157,3 +157,4 @@ A course about the ethics of medicine.
 - [[Post-Birth vs Pre-Birth Fetus Equivalence]]
 - [[Premature Birth vs Pre-Birth Fetus Argument]]
 - [[Judith Jarvis Thomson Argument Defense of Abortion]]
+- [[Right to Life]]

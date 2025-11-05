@@ -4,6 +4,7 @@ tags:
 aliases:
   - FPGA
 ---
+A type of programmable [[Application Specific Integrated Circuit|ASIC]].
 ![[Drawing 2025-04-25 10.47.08.excalidraw]]
 A range of [[Gate Arrays]] that allows [[Hardware Description Language]] to be [[Code Synthesis|Synthesized]] to change the function of circuits. Oftentimes contains a lot of [[Input Output|I/O]] capabilities.
 Achievable with:
