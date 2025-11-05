@@ -17,3 +17,4 @@ IC: It is morally permissible to abort a fetus if it is threatening your life
 - [[Small House Growing Child Thought Experiment]]
 - [[Henry Fonda Saving Life Thought Experiment]]
 - [[Burglar Enter Thought Experiment]]
+- [[Plant Person Growing Thought Experiment]]
