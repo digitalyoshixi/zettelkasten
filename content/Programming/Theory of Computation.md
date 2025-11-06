@@ -124,6 +124,7 @@ Computer science as a science.
 ### Week 9
 - [[Evan's Language Verifier]]
 - [[Pushdown Automata]]
+- [[PDA Accepting a String]]
 - [[PDA Configuration]]
 ### Extra (Neso Academy)
 - [[Turing Machine]]

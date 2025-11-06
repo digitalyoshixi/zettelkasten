@@ -8,7 +8,7 @@ aliases:
 A [[Finite State Automata|FSA]] augmented with a [[Stack]] storage.
 It is an [[Automata]] that cap accept a [[Context Free Grammar|CFG]].
 # Definition
-A [[Pushdown Automata|PDA]] is a tuple $M = (Q, \Sigma, \Gamma, \delta, q_{0}, F)$ where:
+A [[Pushdown Automata|PDA]] is a 6 tuple $M = (Q, \Sigma, \Gamma, \delta, q_{0}, F)$ where:
 - $Q$ is the finite nonempty set of states
 - $\Sigma$ is the finite set of input symbols
 - $\Gamma$ is the finite set of stack symbols
