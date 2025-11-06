@@ -11,7 +11,7 @@ It is an [[Automata]] that cap accept a [[Context Free Grammar|CFG]].
 A [[Pushdown Automata|PDA]] is a 6 tuple $M = (Q, \Sigma, \Gamma, \delta, q_{0}, F)$ where:
 - $Q$ is the finite nonempty set of states
 - $\Sigma$ is the finite set of input symbols
-- $\Gamma$ is the finite set of stack symbols
+- $\Gamma$ is the finite set of stack symbols in a [[Formal Stack]]
 - $\delta$ is the [[Transition Function]] 
 - $q_{0} \in Q$ is the start state
 - $F \subset Q$ is the set of accepting states

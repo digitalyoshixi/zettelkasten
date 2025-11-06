@@ -125,6 +125,7 @@ Computer science as a science.
 - [[Evan's Language Verifier]]
 - [[Pushdown Automata]]
 - [[PDA Accepting a String]]
+- [[Deterministic PDA]]
 - [[PDA Configuration]]
 ### Extra (Neso Academy)
 - [[Turing Machine]]
