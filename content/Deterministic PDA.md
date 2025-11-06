@@ -5,7 +5,8 @@ tags:
 aliases:
   - DPDA
 ---
-A [[Pushdown Automata|PDA]] that is [[Deterministic Algorithm|Deterministic]].
-Less powerful than a [[Pushdown Automata|PDA]].
+Less powerful than a [[Pushdown Automata|PDA]]. Can express less languages.
 # Definition
-A [[Pushdown Automata|PDA]] that accepts $L$ 
+A [[Pushdown Automata|PDA]] that is [[Deterministic Algorithm|Deterministic]].
+# Example
+- [[Example DPDA Creation]]

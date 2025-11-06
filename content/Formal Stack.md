@@ -8,6 +8,8 @@ Has:
 - Pop operation
 - Size
 - Top of stack
+# Notation
+$\text{ encountered symbol } : \text{top of stack} \to \text{ new top of stack}$
 # Push
 $$0: \epsilon \to x$$
 Will push $0$ onto the stack
