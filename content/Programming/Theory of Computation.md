@@ -9,6 +9,15 @@ Computer science as a science.
 - [[Regular Language]]
 - [[Context Free Grammar|CFG]]
 - Questions in problem set 3 and 4
+To practice:
+- [ ] [[Regular Expression|Regex]] creation
+- [ ] [[Deterministic Finite Automaton|DFSA]] creation
+- [ ] [[Non-Deterministic Finite Automaton|NFSA]] creation
+- [ ] [[Proof by Structural Induction]]
+- [ ] [[Context Free Grammar]]
+- [ ] [[Pumping Lemma]]
+- [ ] Week 3 problem set
+- [ ] Week 4 problem set
 # Notes
 - Course taught by Nick Cheng
 - 5 Tutorial sections
@@ -125,6 +134,7 @@ Computer science as a science.
 - [[Left to Right Method]]
 - [[Finding CFG Example 2]]
 - [[Right-Linear Grammar]]
+- [[The Big Result Plus]]
 ### Week 9
 - [[Evan's Language Verifier]]
 - [[Pushdown Automata]]
