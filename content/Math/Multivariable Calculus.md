@@ -140,3 +140,4 @@ aliases:
 - [[Double Integral for Y-Simple Region]]
 - [[Change of Order of Integration]]
 - [[Mean Value Theorem for Integrals]]
+- [[Integral Region Additivity Property]]

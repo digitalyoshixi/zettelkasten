@@ -21,6 +21,9 @@ $f(x) dx$
 # Extra
 - [[Integral Solving Techniques]]
 - [[Basic Integral Table]]
+- [[Multiple Integral]]
+- [[Double Integral]]
+- [[Triple Integral]]
 # Specific Integrals
 - [[Integral of tan(x)]]
 - [[Integral of abs(x)]]

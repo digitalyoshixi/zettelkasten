@@ -28,6 +28,9 @@ Given $a,b \in R, a < b$, $f(x)$ and $g(x)$ are integrable on $[a,b]$
 4. $\int _{a}^a f(x)\, dx = 0$
 5. $\int_{a}^{b} f(x) \, dx = -\int_{b}^{a} f(x) \, dx$
 6. $\forall c \in (a,b), \int_{a}^{b} f(x) \, dx = \int_{a}^{c} f(x) \, dx+ \int_{c}^{b} f(x) \, dx$ [[Union Interval Property]]
+7. [[Integral Region Linearity Property]]
+8. [[Integral Region Monotonicity Property]]
+9. [[Integral Region Additivity Property]]
 ### Proofs
 - [[Proving Definite Integral Property 2]]
 # Helpful Formulas
