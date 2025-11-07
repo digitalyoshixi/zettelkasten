@@ -133,6 +133,10 @@ aliases:
 - [[Proving Integral is Bounded]]
 - [[Iterated Integrals]]
 - [[Fubini's Theorem]]
+- [[Definite Integral]]
+	- [[Integral Region Linearity Property]]
+	- [[Integral Region Monotonicity Property]]
+	- [[Integral Region Additivity Property]]
 ### Week 9
 - [[Y-Simple Region]]
 - [[X-Simple Region]]
@@ -140,4 +144,3 @@ aliases:
 - [[Double Integral for Y-Simple Region]]
 - [[Change of Order of Integration]]
 - [[Mean Value Theorem for Integrals]]
-- [[Integral Region Additivity Property]]
