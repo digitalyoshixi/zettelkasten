@@ -5,6 +5,10 @@ aliases:
   - CSCB36
 ---
 Computer science as a science.
+# Midterm
+- [[Regular Language]]
+- [[Context Free Grammar|CFG]]
+- Questions in problem set 3 and 4
 # Notes
 - Course taught by Nick Cheng
 - 5 Tutorial sections
