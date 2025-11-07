@@ -1,7 +1,8 @@
 ---
 tags:
   - networking
-aliases: []
+aliases:
+  - Network Group
 ---
 A network within a network.
 Subnetting is used in [[Network Security]] for [[Network Segmentation]].
