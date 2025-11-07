@@ -6,7 +6,7 @@ tags:
 # Setup
 - Given $X$ as [[Random Variable|RV]]
 - Given [[Probability Distribution]] $P(X \in B) , \forall B \subset \mathbb{R}$
-- Given [[Functions of Random Variables|Transformation]] $Y = h(X)$
+- Given [[Functions of Random Variables|Transformation]] $Y = h(X)$ that has a set of values $A$
 - $P(Y \in A) = P(X \in h^{-1}[A])$
 ![[Deriving Distribution for Transformation-20251021133320199.webp]]
 # Techniques
