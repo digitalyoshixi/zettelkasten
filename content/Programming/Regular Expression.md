@@ -41,6 +41,4 @@ Induction step: if $S,T \in \mathcal{RE}$, then $(S+T), (ST), S^{*} \in \mathcal
 - $\epsilon + RR^{*} = \epsilon + R^{*}R = R^{*}$
 - $(PQ)^{*}P = P(QP)^{*}$
 - $(P+Q)^{*} = (P^{*}Q^{*})^{*} = (P^{*} + Q^{*})^{*}$
-- 
-
 # Identities
