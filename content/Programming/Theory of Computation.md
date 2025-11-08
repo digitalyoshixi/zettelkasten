@@ -3,6 +3,7 @@ tags:
   - proofs
 aliases:
   - CSCB36
+  - TOC
 ---
 Computer science as a science.
 # Midterm
@@ -145,3 +146,4 @@ To practice:
 - [[Turing Machine]]
 - [[Undecidable]]
 - [[Chomsky Hierarchy]]
+- [[Arden's Theorem]]

@@ -34,3 +34,13 @@ Induction step: if $S,T \in \mathcal{RE}$, then $(S+T), (ST), S^{*} \in \mathcal
 - Identity for concatenation $(R \epsilon) = (\epsilon R) = R$
 - Annihilator for concatenation $(\emptyset R) = (R \emptyset) = \emptyset$
 - [[Idempotence]] of [[Kleene Star]] $R^{**} \equiv R^{*}$
+- $\epsilon^* = \epsilon$
+- $\emptyset^{*} = \epsilon$
+- $R^{*}R^{*} = R^{*}$
+- $RR^{*} = R^{*}R$
+- $\epsilon + RR^{*} = \epsilon + R^{*}R = R^{*}$
+- $(PQ)^{*}P = P(QP)^{*}$
+- $(P+Q)^{*} = (P^{*}Q^{*})^{*} = (P^{*} + Q^{*})^{*}$
+- 
+
+# Identities
