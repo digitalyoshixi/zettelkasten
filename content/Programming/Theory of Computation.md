@@ -98,6 +98,7 @@ To practice:
 - [[State Space]]
 - [[Automata Theory]]
 - [[Deterministic Finite Automaton]]
+- [[Language of FSA]]
 - [[Pigeonhole Principle]]
 - [[Transition Function]]
 - [[Extended Transition Function]]
