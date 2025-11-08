@@ -2,6 +2,8 @@
 tags:
   - math
   - statistics
+aliases:
+  - K-th Order Statistic
 ---
 # Definition
 - For [[Random Variable]] $X_{1},\dots,X_{n}$
