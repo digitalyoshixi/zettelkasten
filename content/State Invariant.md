@@ -3,5 +3,9 @@ tags:
   - math
   - programming
 ---
-Something that describes a string that gets you to a given state.
-$\delta^{*}(p_{0},)$
+A function describing a strings that gets you to a given state.
+$$\delta^{*}(q_{0}, x) = \begin{cases}
+q_{0} \text{ if ...}\\
+q_{1} \text{ if ...}\\ 
+\vdots
+\end{cases}$$
