@@ -11,14 +11,14 @@ Computer science as a science.
 - [[Context Free Grammar|CFG]]
 - Questions in problem set 3 and 4
 To practice:
-- [ ] [[Regular Expression|Regex]] creation
-- [ ] [[Deterministic Finite Automaton|DFSA]] creation
-- [ ] [[Non-Deterministic Finite Automaton|NFSA]] creation
-- [ ] [[Subset Construction]]
-- [ ] [[Proof by Structural Induction]]
+- [x] [[Regular Expression|Regex]] creation ✅ 2025-11-08
+- [x] [[Deterministic Finite Automaton|DFSA]] creation ✅ 2025-11-08
+- [x] [[Non-Deterministic Finite Automaton|NFSA]] creation ✅ 2025-11-08
+- [x] [[Subset Construction]] ✅ 2025-11-08
+- [x] [[Proof by Structural Induction]] ✅ 2025-11-08
 - [ ] [[Context Free Grammar]]
 - [ ] [[Pumping Lemma]]
-- [ ] Week 3 problem set
+- [x] Week 3 problem set ✅ 2025-11-08
 - [ ] Week 4 problem set
 # Notes
 - Course taught by Nick Cheng
