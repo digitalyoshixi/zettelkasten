@@ -17,7 +17,7 @@ To practice:
 - [x] [[Subset Construction]] ✅ 2025-11-08
 - [x] [[Proof by Structural Induction]] ✅ 2025-11-08
 - [x] [[Context Free Grammar]] ✅ 2025-11-09
-- [ ] [[Pumping Lemma]]
+- [x] [[Pumping Lemma]] ✅ 2025-11-09
 - [x] Week 3 problem set ✅ 2025-11-08
 - [ ] Week 4 problem set
 # Notes
