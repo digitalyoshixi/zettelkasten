@@ -14,6 +14,7 @@ To practice:
 - [ ] [[Regular Expression|Regex]] creation
 - [ ] [[Deterministic Finite Automaton|DFSA]] creation
 - [ ] [[Non-Deterministic Finite Automaton|NFSA]] creation
+- [ ] [[Subset Construction]]
 - [ ] [[Proof by Structural Induction]]
 - [ ] [[Context Free Grammar]]
 - [ ] [[Pumping Lemma]]
