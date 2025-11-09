@@ -6,7 +6,7 @@ aliases:
   - PDA
 ---
 A [[Finite State Automata|FSA]] augmented with a [[Stack]] storage.
-It is an [[Automata]] that cap accept a [[Context Free Grammar|CFG]].
+It is an [[Automata]] that can accept a [[Context Free Grammar|CFG]].
 # Definition
 A [[Pushdown Automata|PDA]] is a 6 tuple $M = (Q, \Sigma, \Gamma, \delta, q_{0}, F)$ where:
 - $Q$ is the finite nonempty set of states
@@ -32,3 +32,5 @@ There are 4 possible situtations:
 4. $X = Y = \epsilon$. This is when automata does not consult stack at all
 # Concepts
 - [[PDA Configuration]]
+# Examples
+- https://www.youtube.com/watch?v=TEQcJybMMFU
