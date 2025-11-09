@@ -21,6 +21,8 @@ Used to prove a language is not regular.
 	2. $v \neq \epsilon$
 	3. $|uv| \leq n$
 	4. $uv^{k}w \in L, \forall k \in \mathbb{N}$
+# Intuition
+Any string of atleast length $n$ has a substring that can be repeated an infinite number of times and still be in the language
 # Disproof Structure
 1. Suppose $L$ is [[Regular Language]]
 2. Since $L$ is regular, we apply [[Pumping Lemma]] and assert there is a $n > 0$ that satisfies $(*)$
