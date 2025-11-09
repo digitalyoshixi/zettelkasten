@@ -32,3 +32,5 @@ There are 4 possible situtations:
 4. $X = Y = \epsilon$. This is when automata does not consult stack at all
 # Concepts
 - [[PDA Configuration]]
+# Examples
+- https://www.youtube.com/watch?v=TEQcJybMMFU
