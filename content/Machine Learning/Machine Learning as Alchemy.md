@@ -8,4 +8,4 @@ tags:
 You have three basic ingredients:
 - Caultron : Architecture
 - [[Reagent]] : Data
-- Flame : [[Optimizer]]
+- Flame : [[Machine Independent Optimizer]]
