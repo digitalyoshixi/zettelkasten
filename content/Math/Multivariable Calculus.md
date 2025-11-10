@@ -151,3 +151,4 @@ aliases:
 - [[Average From Integral]]
 - [[Z-Simple Region]]
 - [[Symmetric Elementary Region]]
+- [[Volume]]
