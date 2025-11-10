@@ -20,6 +20,9 @@ To practice:
 - [x] [[Pumping Lemma]] ✅ 2025-11-09
 - [x] Week 3 problem set ✅ 2025-11-08
 - [x] Week 4 problem set ✅ 2025-11-09
+- [ ] Creating [[Finite State Automata|FSA]] from existing FSA ([[Finite State Automata|FSA]] description)
+- [ ] Structural Induction proofs
+- [ ] Linear grammar constructions
 # Notes
 - Course taught by Nick Cheng
 - 5 Tutorial sections
