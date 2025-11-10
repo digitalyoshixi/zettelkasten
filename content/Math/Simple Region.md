@@ -3,6 +3,8 @@ tags:
   - math
   - calculus
 aliases:
+  - Elementary Region
+  - Elementary
 ---
 A region $D \subset \mathbb{R}^{2}$ where every horizontal or vertical line intersects $D$ in a line segment
 # Simple Region

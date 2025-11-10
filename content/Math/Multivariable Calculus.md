@@ -144,3 +144,10 @@ aliases:
 - [[Double Integral for Y-Simple Region]]
 - [[Change of Order of Integration]]
 - [[Mean Value Theorem for Integrals]]
+- [[Multiple Integral Splitting Theorem]]
+### Week 10
+- [[Triple Integral]]
+- [[Fubini's Theorem for Rectangular Prisms]]
+- [[Average From Integral]]
+- [[Z-Simple Region]]
+- [[Symmetric Elementary Region]]
