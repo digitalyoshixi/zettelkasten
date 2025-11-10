@@ -14,3 +14,5 @@ Where:
 - $F_{\cap} = F \times F'$
 # Properties
 - $M_{\cap}$ is a [[Deterministic Finite Automaton|DFSA]]
+# Example
+- [[Cartesian Product Construction Example]]
