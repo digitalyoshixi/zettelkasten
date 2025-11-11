@@ -9,6 +9,32 @@ Course taught by Prof. Sotos.
 # Textbooks
 - https://utstat.utoronto.ca/mikevans/jeffrosenthal/
 - https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/edit
+# Midterm
+- [ ] Practice tests
+- [ ] [[Discrete Random Variable|Discrete RV]]
+- [ ] [[Continuous Random Variable|Continuous RV]]
+- [ ] [[Portable Document Format|PDF]]
+- [ ] [[Cumulative Distribution Function|CDF]]
+- [ ] [[Uniform Discrete Probability Distribution]]
+- [ ] [[Uniform Continuous Probability Distribution]]
+- [ ] [[Exponential Continuous Probability Distribution]]
+- [ ] [[Gamma Distribution]]
+- [ ] [[Normal Distribution]]
+- [ ] [[Joint Probability Density Function|Joint PDF]]
+- [ ] [[Joint Cumulative Distribution Function|Joint CDF]]
+- [ ] [[Joint Probability Mass Function|Joint PMF]]
+- [ ] [[Probability Density Function|Marginal PDF]]
+- [ ] [[Probability Mass Function|Marginal PMF]]
+- [ ] [[Cumulative Distribution Function|Marginal CDF]]
+- [ ] [[Multiplication Rule of Probability]]
+- [ ] [[Independent Random Variable]]
+- [ ] [[Functions of Random Variables|RV Transformation]]
+- [ ] [[CDF Method Deriving Distribution for Transformation]] (1D)
+- [ ] [[PDF Method Deriving Distribution for Transformation]] (1D)
+- [ ] [[CDF Method Deriving Distribution for Transformation]] (2D)
+- [ ] [[PDF Method Deriving Distribution for Transformation]] (2D)
+- [ ] [[Order Statistics]]
+- [ ] [[Convolution Method]]
 # Notes
 - Take-home quizes
 - Office hours TUES, THURS 1-3pm IA4072
@@ -148,3 +174,9 @@ Course taught by Prof. Sotos.
 ### Week 10
 - [[Moment]]
 - [[Central Moment]]
+- [[Moment Generating Function]]
+- [[MGF Method]]
+- [[Markov Inequality]]
+- [[Chebyshev Inequality]]
+- [[Jensen Inequality]]
+- [[Cauchy Schwarz Inequality Expectation]]

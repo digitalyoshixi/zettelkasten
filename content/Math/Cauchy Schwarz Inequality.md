@@ -9,6 +9,7 @@ $$| \langle \alpha | \beta \rangle| \leq || \alpha || ||\beta ||$$
 - [[Cauchy Schwarz Inequality Integrals]]
 - [[Cauchy Schwarz Inequality Dot Product]]
 - [[Cauchy Schwarz Inequality Trace]]
+- [[Cauchy Schwarz Inequality Expectation]]
 # Proof
 ### Case 1: $\alpha = a \beta$ (They are scalars of eachother)
 - Then, $| \langle \alpha | \beta \rangle | = | \langle a \beta | \beta \rangle |$
