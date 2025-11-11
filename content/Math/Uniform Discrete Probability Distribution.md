@@ -24,6 +24,5 @@ To get the distribution, we will make a [[Frequency Table]] first:
 | 4               | 1/5              | 4/5       |
 | 5               | 1/5              | 5/5       |
 
-
 ##### Expectation
 Expectation is the mean. But the formula is more suited to different cases. $\frac{1 + 2 + 3 + 4 + 5}{5} = 3$ 

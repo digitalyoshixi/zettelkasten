@@ -5,7 +5,7 @@ tags:
   - probability
 ---
 # Definition
-Uniform RV $X$ takes values in interval $[l,u], l<u\in\mathbb{R}$ s.t probability of any subinterval is proportional to its length:
+Uniform RV $X$ takes values in interval $[l,u], l<u\in\mathbb{R}$ s.t probability of any subinterval $[a,b]$ is proportional to its length:
 $$P(a < X < b) = \frac{b-a}{u-l}, \forall l \leq a \leq b \leq u$$
 # PDF Requirement
 $$f_{X}(x) =

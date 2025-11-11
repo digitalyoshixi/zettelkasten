@@ -15,7 +15,7 @@ aliases:
 - [[Chi-Squared Distribution]]
 # Skews
 - [[Skewed Distribution]]
-# Other meh shit
+# Other
 ### Uniform In Continuous
 - [[Uniform In Continuous Distributions]]
 ### Continuous Probability Problems
@@ -27,7 +27,6 @@ aliases:
 - [[68,95,99.7 Rule]]
 - [[68,95,99.7 Rule Practice]]
 - [[Z-score]]
-
 # Binomial Theorem
 - [[Discrete to Continuous Adjustment]]
 - [[Normal Distribution with Binomial Theorem]]

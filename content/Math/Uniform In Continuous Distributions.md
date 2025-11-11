@@ -9,35 +9,3 @@ If you have a uniform distribution like probability of one dice outcomes, and yo
 
 Turns into 
 ![[Uniform In Continuous Distributions-20231127125809262.webp|420]]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
