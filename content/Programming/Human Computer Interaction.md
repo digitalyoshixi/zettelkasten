@@ -119,4 +119,9 @@ Term test week, Nothing new
 - [[Bucket Testing|A/B Testing]]
 - [[Fitts' Law]]
 ### Week 10
+- [[Social Computing]]
+- [[Conversational Rules]]
+- [[VideoWindow System]]
+- [[Telepresence]]
+- [[Hypermirror]]
 - 
