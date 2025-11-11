@@ -11,10 +11,11 @@ Course taught by Prof. Sotos.
 - https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/edit
 # Midterm
 - [ ] Practice tests
-- [ ] [[Discrete Random Variable|Discrete RV]]
-- [ ] [[Continuous Random Variable|Continuous RV]]
-- [ ] [[Portable Document Format|PDF]]
-- [ ] [[Cumulative Distribution Function|CDF]]
+- [x] [[Discrete Random Variable|Discrete RV]] ✅ 2025-11-11
+- [x] [[Continuous Random Variable|Continuous RV]] ✅ 2025-11-11
+- [x] [[Probability Density Function|PDF]] ✅ 2025-11-11
+- [x] [[Cumulative Distribution Function|CDF]] ✅ 2025-11-11
+- [x] [[Probability Mass Function|PMF]] ✅ 2025-11-11
 - [ ] [[Uniform Discrete Probability Distribution]]
 - [ ] [[Uniform Continuous Probability Distribution]]
 - [ ] [[Exponential Continuous Probability Distribution]]

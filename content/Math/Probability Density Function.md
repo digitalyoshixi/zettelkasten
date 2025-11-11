@@ -7,7 +7,7 @@ aliases:
   - PDF
   - Marginal PDF
 ---
-A probability distribution function that maps a single [[Continuous Random Variable]] event into a probability from $[0,1]$.
+A function used to specify the probability of a [[Random Variable|RV]] falling within a particular range of values. Maps a [[Random Variable|RV]] into a probability from $[0,1]$
 It measures the rate at which a given probability accumulates around $x$ of [[Random Variable|RV]] $X$
 ![[Probability Density Function-20250927122848977.webp|285]]
 # Definition

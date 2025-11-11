@@ -6,8 +6,9 @@ tags:
 aliases:
   - PMF
   - Marginal PMF
+  - Discrete Probability Density Function
 ---
-A probability distribution for [[Discrete Random Variable]] that maps single events into $[0,1]$ probabilities
+A function that gives the probability of a [[Discrete Random Variable|Discrete RV]] being exactly equal to some value.
 ![[Probability Mass Function-20250927122559148.webp|256]]
 # Notation
 $$p_{X}(x_{i}) $$
