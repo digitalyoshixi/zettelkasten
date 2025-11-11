@@ -19,8 +19,7 @@ It is used in [[Clang]]
 5. Use the [[LLVM opt|opt]] tool to optimize and generate [[Intermediate Representation|IR]]
 6. Write an [[LLVM Module]] that takes IR as input and returns executable object code
 # Bibliography Pages
-- [[LLVM Instruction Types]]
-- [[LLVM Operations]]
+- [[LLVM Intermediate Representation]]
 - [[LLVM Types]]
 # Concepts
 - [[Compiler]]

@@ -9,6 +9,7 @@ aliases:
 The study as to how humans interact with software, and how computers can better fufill their purpose.
 The field emerged after [[Apple Macintosh]] was developed during 1980s
 ![[Human Computer Interaction-20250902183217787.webp|235]]
+
 Responsible for maintaining the design and evaluation of systems.
 # Notes
 - Prof Naureen Nizam
@@ -117,3 +118,5 @@ Term test week, Nothing new
 - [[Order Effect Problem]]
 - [[Bucket Testing|A/B Testing]]
 - [[Fitts' Law]]
+### Week 10
+- 
