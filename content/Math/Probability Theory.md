@@ -145,3 +145,6 @@ Course taught by Prof. Sotos.
 - [[Law of Total Expectaiton|LoTE]]
 - [[Law of Total Variance]]
 - [[Bivariate Normal]]
+### Week 10
+- [[Moment]]
+- [[Central Moment]]
