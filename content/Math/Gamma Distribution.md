@@ -15,4 +15,6 @@ $$
 - Where $a, \lambda > 0$
 - Where $\Gamma$ is the [[Gamma Function]]
 - Denoted by $X \sim Gamma(a, \lambda)$
+# CDF
+No closed form CDF, unless $a=1$, then this is [[Exponential Continuous Probability Distribution]]
 ![[Gamma Distribution-20250930142841526.webp]]

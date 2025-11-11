@@ -18,8 +18,8 @@ Course taught by Prof. Sotos.
 - [x] [[Probability Mass Function|PMF]] ✅ 2025-11-11
 - [x] [[Uniform Discrete Probability Distribution]] ✅ 2025-11-11
 - [x] [[Uniform Continuous Probability Distribution]] ✅ 2025-11-11
-- [ ] [[Exponential Continuous Probability Distribution]]
-- [ ] [[Gamma Distribution]]
+- [x] [[Exponential Continuous Probability Distribution]] ✅ 2025-11-11
+- [x] [[Gamma Distribution]] ✅ 2025-11-11
 - [ ] [[Normal Distribution]]
 - [ ] [[Joint Probability Density Function|Joint PDF]]
 - [ ] [[Joint Cumulative Distribution Function|Joint CDF]]
