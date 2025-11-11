@@ -8,6 +8,7 @@ tags:
 2. ![[Github Runner-20250502215245781.webp]]
 3. Click New self-hosted Runner and then copy the tutorial
 # Service
+Create a [[systemD]] service
 ```
 [Unit]
 Description=Run run.sh as webrunner
