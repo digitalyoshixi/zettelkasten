@@ -128,3 +128,7 @@ Term test week, Nothing new
 - [[User Generated Content]]
 - [[Captcha]]
 - [[Duolingo]]
+- [[5-Phase Framework for Search Interfaces]]
+- [[Faceted Search]]
+- [[Natural Language Search]]
+- [[Data Visualization]]
