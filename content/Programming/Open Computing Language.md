@@ -43,6 +43,14 @@ yay -S opencl-amd
 ```
 gcc -Wall -Wextra -D CL_TARGET_OPENCL_VERSION=100 Main.c -o HelloOpenCL -lOpenCL
 ```
+# Boilerplate
+```cpp
+#define __CL_ENABLE_EXCEPTIONS
+#include <CL/cl.hpp>
+#include <cstdio>
+#include <iostream>
+#include <vector>
+```
 # Tutorials
 - https://handsonopencl.github.io/
 # References
