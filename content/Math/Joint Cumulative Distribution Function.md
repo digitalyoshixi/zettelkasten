@@ -6,6 +6,7 @@ tags:
 aliases:
   - Joint CDF
 ---
+Describes the probability two [[Random Variable]] being less than two given values.
 A [[Cumulative Distribution Function|CDF]] used to describe the joint distribution of [[Random Variable|RV]]
 # Definition
 $$F_{X,Y}(x,y) = P(X \leq x, Y \leq y) = P( \{ X\leq x \} \cap \{ Y \leq y \})$$

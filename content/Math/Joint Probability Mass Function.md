@@ -4,9 +4,10 @@ tags:
   - probability
   - statistics
 aliases:
-  - Joint PMF
+  - Marginal PMF
+  - Discrete Probability Density Function
 ---
-For [[Discrete Random Variable]].
+Describes the probability of two [[Discrete Random Variable|Discrete RV]] being exactly equal to two values.
 # Definition
 $p_{X,Y}(x,y) = P(X = x, Y=y) = P(\{ {X =x} \} \cap \{ Y = y \})$
 # Properties

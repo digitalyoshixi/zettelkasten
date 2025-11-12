@@ -20,14 +20,16 @@ Course taught by Prof. Sotos.
 - [x] [[Uniform Continuous Probability Distribution]] ✅ 2025-11-11
 - [x] [[Exponential Continuous Probability Distribution]] ✅ 2025-11-11
 - [x] [[Gamma Distribution]] ✅ 2025-11-11
-- [ ] [[Normal Distribution]]
-- [ ] [[Joint Probability Density Function|Joint PDF]]
-- [ ] [[Joint Cumulative Distribution Function|Joint CDF]]
-- [ ] [[Joint Probability Mass Function|Joint PMF]]
-- [ ] [[Probability Density Function|Marginal PDF]]
-- [ ] [[Probability Mass Function|Marginal PMF]]
-- [ ] [[Cumulative Distribution Function|Marginal CDF]]
-- [ ] [[Multiplication Rule of Probability]]
+- [x] [[Normal Distribution]] ✅ 2025-11-11
+- [x] [[Joint Probability Density Function|Joint PDF]] ✅ 2025-11-11
+- [x] [[Joint Cumulative Distribution Function|Joint CDF]] ✅ 2025-11-11
+- [x] [[Joint Probability Mass Function|Joint PMF]] ✅ 2025-11-11
+- [x] [[Probability Density Function|Marginal PDF]] ✅ 2025-11-11
+- [x] [[Probability Mass Function|Marginal PMF]] ✅ 2025-11-11
+- [x] [[Cumulative Distribution Function|Marginal CDF]] ✅ 2025-11-11
+- [x] [[Multinomial Distribution]] ✅ 2025-11-11
+- [ ] Look at formula sheet
+- [x] [[Multiplication Rule of Probability]] ✅ 2025-11-11
 - [ ] [[Independent Random Variable]]
 - [ ] [[Functions of Random Variables|RV Transformation]]
 - [ ] [[CDF Method Deriving Distribution for Transformation]] (1D)
@@ -87,6 +89,7 @@ Course taught by Prof. Sotos.
 - [[Prevalence of Condition]]
 - [[Finding Unconditional Probability from Conditional Probabilities Example]]
 - [[Multinomial Coefficient]]
+- [[Multinomial Distribution]]
 - [[Independent Events]]
 - [[Mutual Independence]]
 - [[Conditioning on Multiple Events]]
