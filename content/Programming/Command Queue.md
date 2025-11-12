@@ -6,7 +6,7 @@ tags:
 aliases:
   - OpenCL Command Queue
 ---
-A single queue that manages and schedules commands in a [[OpenCL Context]].
+A single queue that manages and schedules [[OpenCL Commands]] in a [[OpenCL Context]].
 Command queues are unique to a given [[OpenCL Context]].
 # Example
 ```
@@ -18,3 +18,6 @@ Context (the workspace)
 │   └── Command Queue C → [other operations...]
 └── Shared Memory Objects (visible to all devices in context)
 ```
+# Types
+- [[In Order Queue]]
+- [[Out of Order Queue]]
