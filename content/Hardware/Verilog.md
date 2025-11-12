@@ -23,6 +23,16 @@ A [[Hardware Description Language|HDL]] that is:
 - [[Verilog Datatypes]]
 - [[Verilog Operators]]
 - [[Verilog Wire]]
+- [[Verilog Combinational Sequence]]
+- [[Verilog Sequential Sequence]]
+# Guides
+- [[Verilog AND Gate]]
+- [[Verilog OR Gate]]
+- [[Verilog NAND Gate]]
+- [[Verilog NOR Gate]]
+- [[Verilog XOR Gate]]
+- [[Verilog XNOR Gate]]
+- [[Verilog NOT Gate]]
 # Boilerplate
 ```verilog
 module module_name(){
