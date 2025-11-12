@@ -2,6 +2,9 @@
 tags:
   - math
   - statistics
+aliases:
+  - PDF of Sum of RVs
+  - PMF of Sum of RVs
 ---
 A method to find [[Portable Document Format|PDF]] of [[Probability Mass Function|PMF]] of [[Sum of Random Variables]] $Z = X+Y$ directly.
 # PDF

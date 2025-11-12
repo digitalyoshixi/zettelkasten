@@ -1,9 +1,18 @@
+---
+tags:
+  - git
+  - devops
+---
+# Example File
+```
 name: Deploy Quartz site to Webpage
- 
+
 on:
-  schedule:
-    - cron: '0 */6 * * *'
- 
+	schedule:
+		- cron '* * * * *'
+	push:
+	    branches:
+		 - v4
 permissions:
   contents: read
   pages: write
@@ -27,3 +36,4 @@ jobs:
         run: npm ci
       - name: Build Quartz
         run: npx quartz build
+```

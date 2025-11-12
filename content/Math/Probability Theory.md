@@ -40,7 +40,7 @@ Course taught by Prof. Sotos.
 - [x] [[CDF Method for Deriving Distribution for Multivariable Transformation]] ✅ 2025-11-11
 - [x] [[PDF Method for Deriving Distribution for Multivariable Transformation]] ✅ 2025-11-11
 - [x] [[Order Statistics]] ✅ 2025-11-11
-- [ ] [[Convolution Method]]
+- [x] [[Convolution Method]] ✅ 2025-11-11
 # Notes
 - Take-home quizes
 - Office hours TUES, THURS 1-3pm IA4072

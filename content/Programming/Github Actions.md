@@ -7,3 +7,4 @@ A [[Continuous Integration Continuous Deployment]] tool that works well with [[G
 ![[Github Actions-20250502213323699.webp]]
 # Concepts
 - [[Github Runner]]
+- [[Github Actions yml]]
