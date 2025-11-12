@@ -50,3 +50,9 @@ The [[Mathematics]] used to secure data.
 	- [[Public Key Cryptography Standards|PKCS]]
 - [[Salting]]
 - [[Peppering]]
+# Mathematical Cryptography
+### Modularity
+- [[Modulus|Modulo]]
+- [[Legendre Symbol]]
+- [[Quadratic Residue]]
+- [[Quadratic Reciprocity]]
