@@ -176,3 +176,6 @@ A course about the ethics of medicine.
 - [[Biomedical Research Goals]]
 - [[Untreated Syphilis Experiment]]
 - [[Research Ethics Board]]
+- [[Drug Research Thought Experiment]]
+- [[Equipoise]]
+- [[Clinical Equipoise]]

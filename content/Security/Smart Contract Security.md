@@ -7,6 +7,8 @@ aliases:
 ---
 # Resources
 - https://github.com/crytic/awesome-ethereum-security
+- https://github.com/minaminao/ctf-blockchain
+- https://github.com/blockthreat/blocksec-ctfs
 # Practice Sites
 - [[Ethernaut]]
 - https://www.damnvulnerabledefi.xyz/
