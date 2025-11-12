@@ -14,3 +14,4 @@ represents the conditional PMF of $X,Y$ given $(X,Y) \in B$
 $$p_{X|Y}(x|y) = P(X=x|Y=y) = \frac{P(X=x,Y=y)}{P(Y=y)} = \frac{p_{X,Y}(x,y)}{p_{Y}(y)}$$
 # Defining [[Joint Probability Mass Function|Joint PMF]]
 $$P(X=x,Y=y) = P(X=x)P(Y=y|X=x), \forall x,y$$
+$$p_{X,Y}(x,y) = p_{X}(x)p_{Y|X}(y|x), \forall x,y$$

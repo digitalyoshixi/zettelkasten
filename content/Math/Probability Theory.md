@@ -30,13 +30,16 @@ Course taught by Prof. Sotos.
 - [x] [[Multinomial Distribution]] ✅ 2025-11-11
 - [ ] Look at formula sheet
 - [x] [[Multiplication Rule of Probability]] ✅ 2025-11-11
-- [ ] [[Independent Random Variable]]
-- [ ] [[Functions of Random Variables|RV Transformation]]
-- [ ] [[CDF Method Deriving Distribution for Transformation]] (1D)
-- [ ] [[PDF Method Deriving Distribution for Transformation]] (1D)
-- [ ] [[CDF Method Deriving Distribution for Transformation]] (2D)
-- [ ] [[PDF Method Deriving Distribution for Transformation]] (2D)
-- [ ] [[Order Statistics]]
+- [x] [[Independent Random Variable]] ✅ 2025-11-11
+- [x] [[Conditional Probability Mass Function|Conditional PMF]] ✅ 2025-11-11
+- [x] [[Conditional Probability Density Function|Conditional PDF]] ✅ 2025-11-11
+- [x] [[Functions of Random Variables|RV Transformation]] ✅ 2025-11-11
+- [x] [[CDF Method Deriving Distribution for Transformation]] (1D) ✅ 2025-11-11
+- [x] [[PDF Method Deriving Distribution for Transformation]] (1D) ✅ 2025-11-11
+- [x] [[PMF Method for Deriving Distribution for Multivariable Transformation]] ✅ 2025-11-11
+- [x] [[CDF Method for Deriving Distribution for Multivariable Transformation]] ✅ 2025-11-11
+- [x] [[PDF Method for Deriving Distribution for Multivariable Transformation]] ✅ 2025-11-11
+- [x] [[Order Statistics]] ✅ 2025-11-11
 - [ ] [[Convolution Method]]
 # Notes
 - Take-home quizes
