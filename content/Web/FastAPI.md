@@ -3,7 +3,7 @@ tags:
   - web
   - python
 ---
-A middleware to create [[Rest API]].
+A middleware to create [[Rest API]] or [[GraphQL]]
 # Installation
 1. `pip install fastapi uvicorn`
 # Boilerplate
