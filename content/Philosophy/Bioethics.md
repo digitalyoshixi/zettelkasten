@@ -169,3 +169,10 @@ A course about the ethics of medicine.
 - [[Burglar Enter Thought Experiment]]
 - [[Right to Life]]
 - [[Don Marquis Fetus Life Argument]]
+### Week 10
+- [[Research Ethics]]
+- [[Minnesota Starvation Experiment]]
+- [[Clinical Trials]]
+- [[Biomedical Research Goals]]
+- [[Untreated Syphilis Experiment]]
+- [[Research Ethics Board]]

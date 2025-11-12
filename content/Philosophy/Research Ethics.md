@@ -3,5 +3,8 @@ tags:
   - bioethics
 ---
 The ethics that must be followed in doing research.
-Participants must be given [[Informed Consent]].
-In [[Bioethics]] it is related to development of biological compounds.
+The main goal of research is to produce generalized knowledge that can be used in broader ranges of cases.
+Focus is not about helping the participant.
+# Concepts
+- [[Informed Consent]]
+- [[Clinical Trials]]
