@@ -15,6 +15,8 @@ Oftentimes, the FPGA is comprised of:
 - [[Logic Blocks]]
 - Routing channels
 - Config which you can attach to a [[NAND Chip]] for non-volatile configurations
+# Concepts
+- [[FPGA For Testing Chips]]
 # Guides
-https://inv.nadeko.net/watch?v=iHg0mmIg0UU
-https://inv.nadeko.net/watch?v=gUsHwi4M4xE
+- https://inv.nadeko.net/watch?v=iHg0mmIg0UU
+- https://inv.nadeko.net/watch?v=gUsHwi4M4xE

@@ -6,5 +6,5 @@ aliases:
   - Programmable Lookup Tables
   - LUT
 ---
-An array that allow easy lookup.
+A stored [[Truth Table]] used for boolean functions.
 Used as a form of storage for [[Field Programmable Gate Arrays|FPGA]].

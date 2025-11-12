@@ -5,7 +5,7 @@ aliases:
   - PCIe
 ---
 ![[Peripheral Component Interconnect Express-20240526013516178.webp]]
-A faster and more efficient remodel of [[Peripheral Component Interconnect|PCI]], [[Peripheral Component Interconnect eXtended|PCI-X]] and [[Accelerated Graphics Port|AGP]] buses.
+A faster and more efficient protocol alternative to [[Peripheral Component Interconnect|PCI]], [[Peripheral Component Interconnect eXtended|PCI-X]] and [[Accelerated Graphics Port|AGP]] buses.
 It utilizes [[Serial Communication]] to transfer data between peripherals.
 # Specs
 ### Lanes
