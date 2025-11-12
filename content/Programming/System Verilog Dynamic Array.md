@@ -3,6 +3,8 @@ tags:
   - verilog
   - programming
   - hardware
+aliases:
+  - Verilog Dynamic Array
 ---
 `<data_type> <array_name> [];`
 # Example

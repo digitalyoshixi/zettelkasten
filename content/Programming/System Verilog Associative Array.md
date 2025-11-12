@@ -5,6 +5,7 @@ tags:
   - hardware
 aliases:
   - System Verilog Hashmap
+  - Verilog Associative Array
 ---
 A [[Hashmap]] in verilog.
 # Example

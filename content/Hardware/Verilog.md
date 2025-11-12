@@ -20,11 +20,21 @@ A [[Hardware Description Language|HDL]] that is:
 4. `gtkwave output.vcd`
 # Concepts
 - [[Verilog Module]]
-- [[Verilog Datatypes]]
-- [[Verilog Operators]]
-- [[Verilog Wire]]
 - [[Verilog Combinational Sequence]]
 - [[Verilog Sequential Sequence]]
+- [[Verilog Datatypes]]
+- [[Verilog Literals]]
+- [[Verilog Array]]
+- [[Verilog Block]]
+- [[Verilog Operators]]
+- [[Verilog Wire]]
+- [[Verilog Reg]]
+- [[Verilog logic]]
+- [[Verilog Assignment]]
+- [[Verilog Concatenation]]
+- [[Verilog Conditionals]]
+- [[Verilog Ternary Operator]]
+- [[Verilog Case Statement]]
 # Guides
 - [[Verilog AND Gate]]
 - [[Verilog OR Gate]]
@@ -33,6 +43,8 @@ A [[Hardware Description Language|HDL]] that is:
 - [[Verilog XOR Gate]]
 - [[Verilog XNOR Gate]]
 - [[Verilog NOT Gate]]
+- [[Verilog 4-Bit Adder]]
+- [[Verilog D Flip Flop]]
 # Boilerplate
 ```verilog
 module module_name(){
