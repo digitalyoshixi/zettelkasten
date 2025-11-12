@@ -155,6 +155,7 @@ A course about the ethics of medicine.
 - [[Grievous And Irremediable Condition]]
 - [[Terminal Illness Maid Thought Experiment]]
 - [[Advance Request]]
+- [[Consistency Argument]]
 ### Week 9
 - [[Abortion]]
 - [[Pro Life]]
@@ -182,3 +183,9 @@ A course about the ethics of medicine.
 - [[Male Birth Control Experiment]]
 - [[Value Judgement]]
 - [[Therapeutic Misconception]]
+- [[Eroom's Law]]
+- [[Paid Clinical Trial]]
+- [[White Participant Problem]]
+- [[Challenge Trial]]
+- [[Jesse Gensinger Case]]
+- [[Julian Savulescu Participant Selection Principle]]

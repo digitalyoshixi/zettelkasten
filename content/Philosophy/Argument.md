@@ -11,6 +11,7 @@ Best arguments are [[Normative Facts|Prescriptive]].
 - [[Inductive Argument]]
 - [[Deductive Argument]]
 - [[Abductive Argument]]
+- [[Consistency Argument]]
 # Concepts
 - [[Conclusion Confidence]]
 - [[Deductive Argument]]
