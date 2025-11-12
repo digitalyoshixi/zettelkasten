@@ -7,7 +7,10 @@ tags:
 # Types
 - [[Unit Testing]]
 - [[Mock Objects]]
-- [[Regression Testing]]
 - [[Black Box Testing]]
 - [[White Box Testing]]
 - [[Grey Box Testing]]
+- [[Negative Testing]]
+- [[Functional Testing]]
+- [[Regression Testing]]
+- [[End User Testing]]
