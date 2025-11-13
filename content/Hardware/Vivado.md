@@ -13,3 +13,4 @@ A software design tool to synthesize [[Hardware Description Language]] programs
 # Concepts
 - [[Vivado Constraints]]
 - [[Testbench]]
+- [[Vivado Behavioral Simulation]]
