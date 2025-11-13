@@ -34,3 +34,7 @@ module andtest();
     end
 endmodule
 ```
+3. Project structure looks like this:
+![[Testbench-20251113000943423.webp]]
+4. Run the [[Vivado Behavioral Simulation]] simulation looks:
+![[Testbench-20251113001046185.webp]]
