@@ -2,6 +2,8 @@
 tags:
   - math
   - programming
+aliases:
+  - Formula
 ---
 A set $\mathcal{F}$ of items in [[Propositional Variable|PV]] with propositional closure properties
 # Definition

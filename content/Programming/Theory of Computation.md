@@ -6,23 +6,6 @@ aliases:
   - TOC
 ---
 Computer science as a science.
-# Midterm
-- [[Regular Language]]
-- [[Context Free Grammar|CFG]]
-- Questions in problem set 3 and 4
-To practice:
-- [x] [[Regular Expression|Regex]] creation ✅ 2025-11-08
-- [x] [[Deterministic Finite Automaton|DFSA]] creation ✅ 2025-11-08
-- [x] [[Non-Deterministic Finite Automaton|NFSA]] creation ✅ 2025-11-08
-- [x] [[Subset Construction]] ✅ 2025-11-08
-- [x] [[Proof by Structural Induction]] ✅ 2025-11-08
-- [x] [[Context Free Grammar]] ✅ 2025-11-09
-- [x] [[Pumping Lemma]] ✅ 2025-11-09
-- [x] Week 3 problem set ✅ 2025-11-08
-- [x] Week 4 problem set ✅ 2025-11-09
-- [x] Creating [[Finite State Automata|FSA]] from existing FSA ([[Finite State Automata|FSA]] description) ✅ 2025-11-10
-- [x] Structural Induction proofs ✅ 2025-11-10
-- [x] Linear grammar constructions ✅ 2025-11-10
 # Notes
 - Course taught by Nick Cheng
 - 5 Tutorial sections
@@ -38,6 +21,7 @@ To practice:
 - Term test 2 20% (Nov 10, 5-6:30PM)
 - The media gallery has 2021 videos for future review
 - Everytime you use a [[Indirect Proof]], you must explitly show
+- Never use [[Computer Organization|CSCB58]] $+, \cdot$ versions of [[And]], [[Or]], use mins and max instead
 # Concepts
 ### Week 1
 - [[Mathematical Maturity]]
@@ -158,6 +142,10 @@ To practice:
 - [[Truth Table]]
 - [[Nick's Truth Table Structure]]
 - [[Proposition Conventions]]
+- [[Satisfies]]
+- [[Falsifies]]
+- [[Formula Logical Implication]]
+- [[Formula Logical Equivalence]]
 ### Extra (Neso Academy)
 - [[Turing Machine]]
 - [[Undecidable]]
