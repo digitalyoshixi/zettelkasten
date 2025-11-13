@@ -3,8 +3,8 @@ tags:
   - ethics
   - philosophy
 ---
-The central concept in [[Philosophy of Language]].
-It is the content/idea of a statement that can be evalutated to be true or false.
+A concept or idea of a statement that can be evaluated to be **true** or **false**.
+Central in [[Philosophy of Language]]
 - A true proposition is a [[Fact]]
 - A false proposition is not a fact, but it can still be [[Beliefs|Believed]], [[Desires|Desired]] and [[Perception|Percieved]]
 # Proposition as a Function

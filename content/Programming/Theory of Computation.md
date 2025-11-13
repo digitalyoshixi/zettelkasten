@@ -147,6 +147,17 @@ To practice:
 - [[PDA Accepting a String]]
 - [[Deterministic PDA]]
 - [[PDA Configuration]]
+### Week 10
+- [[Proposition]]
+- [[Logical Connectives]]
+- [[Propositional Variable]]
+- [[Propositional Formula]]
+- [[Truth Assignment]]
+- [[Extended Truth Assignment]]
+- [[Parse Tree]]
+- [[Truth Table]]
+- [[Nick's Truth Table Structure]]
+- [[Proposition Conventions]]
 ### Extra (Neso Academy)
 - [[Turing Machine]]
 - [[Undecidable]]
