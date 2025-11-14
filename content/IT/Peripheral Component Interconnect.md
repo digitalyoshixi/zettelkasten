@@ -11,6 +11,7 @@ PCI is a plug and play [[Expansion Bus]] model popular in the early days.
 - Runs at 33 MHz
 - Maximum throughput of 533 MBps
 - Uses [[Parallel Communication]]
+- [[Point-to-point Communication|Full Duplex]] communication with transceiver and receiver 
 It has largely been replaced by [[Peripheral Component Interconnect Express|PCIE]]
 ### Burst Mode
 A feature that enables very efficient data transfers

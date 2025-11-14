@@ -26,6 +26,11 @@ Hi, my name is David.
 - Problem: When I had tried to get people to connect, issues with the server was very slow, sometimes it would terminate connections, some people couldn't connect
 - Lessons: I had ran tests on my home network, but not on the school network. I have to use sufficient tests next time I host something big, in the right environments!
 ### Greatest Weakness
+- Im a very isolated person, I try to do a lot of work by myself, and I dont ask for help a lot of the time
+- People ask if I can do something, and I say yes, and then things get delayed
+- So, ive been working in a lot of team settings now, organizing club events, the first few events I did by myself, whats coming up now is that we are going to be teaching web exploitation, and I dont know a lot of that
+- So, ive been trusting and delegating tasks to people I know that I can trust to do this work
+### Greatest Weakness 2
 - Sometimes I have a hard time saying No to things, and this has caused me to take on more responsibility and burning out
 - Its important to understand your own boundaries and I have been actively working on this
 - Example is sector, during midterm season, I had to say no to going

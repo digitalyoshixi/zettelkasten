@@ -15,5 +15,7 @@ tail -f /var/log/nginx/error.log
 ```
 # Concepts
 - [[nginx.conf]]
+# Guides
+- [[nginx Serve Website]]
 # Reverse Proxy Configuration
 ![[nginx-20250429211000212.webp]]
