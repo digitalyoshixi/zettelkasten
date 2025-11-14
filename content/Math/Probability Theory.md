@@ -155,6 +155,7 @@ Course taught by Prof. Sotos.
 ### Week 7
 - [[Conditional Probability Mass Function]]
 - [[Conditional Probability Density Function]]
+- [[Conditional Cumulative Density Function]]
 - [[Independent Random Variable]]
 ### Week 8
 - [[Functions of Random Variables]]
