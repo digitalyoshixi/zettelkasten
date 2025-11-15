@@ -153,6 +153,11 @@ Computer science as a science.
 - [[Disjunctive Normal Form]]
 - [[Conjunctive Normal Form]]
 - [[DNF Theorem]]
+- [[CNF Theorem]]
+- [[Boolean Function]]
+- [[Formula Representing Boolean Function]]
+- [[Complete Set of Boolean Connectives]]
+- [[Connective Set Completeness Reduction]]
 ### Extra (Neso Academy)
 - [[Turing Machine]]
 - [[Undecidable]]

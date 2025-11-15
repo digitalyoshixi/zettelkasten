@@ -27,4 +27,4 @@ $$
 (x \wedge \neg y \wedge \neg z) \vee
 (x \wedge y \wedge \neg z) \vee
 (x \wedge y \wedge z)
-$$$$
+$$
