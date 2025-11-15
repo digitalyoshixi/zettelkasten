@@ -12,6 +12,8 @@ $V(X)=E((X-E(X))^{2}) =E(X^{2})-E(X)^{2}$
 # Alternate Formula
 Square of the [[Standard Deviation]]. Aka SD without the square root.
 $$V(X) = \sigma^{2}$$
+# Specifics
+- [[Law of Total Variance]]
 # Example
 - Sample of two people
 - Probability $60 \%$ that a person approves of the president
