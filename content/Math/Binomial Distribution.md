@@ -6,15 +6,14 @@ tags:
 A [[Discrete Distribution]] used to model [[Independent Events|Independent]] [[Bernoulli Trials]] .
 Uses [[Binomial Theorem]] in tandem with probabilities to get our probability distributions.
 ![[Binomial Distribution-20250930153414494.webp]]
-# Probability in a Binomial Distribution
-$P(x)=_{n}C_{x}p^xq^{n-x}$
-- p is the probability of success on any individual trial. (eg. 50% a coin toss)
-- q = 1 - p
-- n = number of trials
-- P total number of trials
-- x = result
-# Expectation Formula
+# [[Probability Mass Function|PMF]]
+$$X \sim \text{Binomial}(n,x) \implies p_{X}(x) = \binom{n}{x}p^{x}(1-p)^{n-x}$$
+- $n$ is the number of trials
+- $p$ is the probability of success for a trial
+# [[Expectation]]
 $$E(X) = np$$
+# [[Variance]]
+$$V(X) = np(1-p)$$
 # Examples
 ### Example 1
 heads probability 50%, tails probability 50%. probability distribution of flipping 3 times
