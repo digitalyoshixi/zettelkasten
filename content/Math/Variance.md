@@ -14,6 +14,8 @@ Square of the [[Standard Deviation]]. Aka SD without the square root.
 $$V(X) = \sigma^{2}$$
 # Specifics
 - [[Law of Total Variance]]
+# Properties
+- $V(aX) = a^{2}V(X)$
 # Example
 - Sample of two people
 - Probability $60 \%$ that a person approves of the president

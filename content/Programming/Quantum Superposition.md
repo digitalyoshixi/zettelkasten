@@ -4,6 +4,7 @@ tags:
 aliases:
   - Superposition
 ---
+A probabilistic combination of $0$ and $1$ in a [[Qubit]].
 The idea that a quantum particle can be in several states at once when not being observed.
 Coined in [[Schrodinger's Cat]] thought experiment
 # Formula
