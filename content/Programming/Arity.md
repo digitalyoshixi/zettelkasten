@@ -8,7 +8,7 @@ The main() link is dependent on how many arguments are given to the program
 # Types Of Functions
 ### Nilads
 Takes 0 arguments (arity 0).
-Most of the time, these are [[Literals]]
+Most of the time, these are [[Literal]]
 #### Monads
 Takes 1 argument (arity 1).
 `H` (halve) is a monad

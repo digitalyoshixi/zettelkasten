@@ -6,7 +6,7 @@ aliases:
   - Primary Expression Parsing
 ---
 The parser for:
-- Numeric [[Literals]]
+- Numeric [[Literal]]
 - [[Identifiers]]
 # Algorithm
 1. Determine if we are parsing a number literal, an identifier or a pair of `()`

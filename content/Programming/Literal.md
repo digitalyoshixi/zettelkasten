@@ -1,9 +1,17 @@
 ---
 tags:
   - cpp
+  - math
+  - programming
 aliases:
   - Literal Values
+  - Literals
 ---
+# Formal Definition
+A variable or the negation of a variable.
+- $x$ (positive literal)
+- $\neg x$ (negative literal)
+# C++ Definition
 literal values in source code. fixed values that are directly inserted into memory
 ```cpp
 std::cout << "Hello world!";

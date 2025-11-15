@@ -3,6 +3,7 @@ tags:
   - math
 aliases:
   - SAT Solvers
+  - SAT
 ---
 Solvers for boolean expressions.
 ![[Boolean Satisfiability Problem Solvers-20240521011219635.webp|351]]

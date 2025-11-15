@@ -12,7 +12,7 @@ tags:
 ### Functional Categories
 - [[Determiner]]
 - [[Auxilliary]]
-- [[Conjunction]]
+- [[Linguistical Conjunction]]
 - [[Degree Word]]
 ### [[Philosophy/Lex|Lexical]]
 These add 'content'/meaning to a word. They are an [[Open Class]]

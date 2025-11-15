@@ -72,7 +72,7 @@ int main(int argc, char const *argv[])
 - [[Whitespace]]
 - [[C++ Concatenation]]
 - [[C++ Keywords]]
-- [[Literals]]
+- [[Literal]]
 - [[C++ Operators]]
 - [[C++ Functions]]
 - [[Metasyntactic Variables]]

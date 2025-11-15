@@ -9,7 +9,7 @@ A scanner to break up a code input into [[LLVM Tokens]] though [[Lexical Analysi
 When you make the lexer, you want to define all:
 - Enum for [[Keywords|Reserved Keywords]] (like `def`, `if`, `func`, etc...)
 - Enum for [[Identifiers]] (for variables, functions, classnames, etc)
-- Enum for [[Literals]] (for numbers, for chars, etc..)
+- Enum for [[Literal]] (for numbers, for chars, etc..)
 - Enum for [[Whitespace]] (like ` `, `\n`, etc..)
 - A variable to store identifier token's name
 - A variable to store a literal's value

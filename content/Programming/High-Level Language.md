@@ -11,5 +11,5 @@ These are languages meant for human understanding.
 # Concepts
 - [[Programming Paradigms]]
 - [[Formally Defined]]
-- [[Literals]]
+- [[Literal]]
 - [[Built-ins]]

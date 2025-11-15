@@ -4,6 +4,6 @@ tags:
 ---
 An expression is the combination of:
 - Identifier (variable name)
-- [[Literals]]
+- [[Literal]]
 - [[C Operators]]
 - Enclosures (), {}, []

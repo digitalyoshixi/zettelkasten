@@ -146,6 +146,13 @@ Computer science as a science.
 - [[Falsifies]]
 - [[Formula Logical Implication]]
 - [[Formula Logical Equivalence]]
+- [[Literal]]
+- [[Normal Form]]
+- [[Term]]
+- [[Propositional Clause]]
+- [[Disjunctive Normal Form]]
+- [[Conjunctive Normal Form]]
+- [[DNF Theorem]]
 ### Extra (Neso Academy)
 - [[Turing Machine]]
 - [[Undecidable]]
