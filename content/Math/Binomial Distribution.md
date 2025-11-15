@@ -7,7 +7,7 @@ A [[Discrete Distribution]] used to model [[Independent Events|Independent]] [[B
 Uses [[Binomial Theorem]] in tandem with probabilities to get our probability distributions.
 ![[Binomial Distribution-20250930153414494.webp]]
 # [[Probability Mass Function|PMF]]
-$$X \sim \text{Binomial}(n,x) \implies p_{X}(x) = \binom{n}{x}p^{x}(1-p)^{n-x}$$
+$$X \sim \text{Binomial}(n,p) \implies p_{X}(x) = \binom{n}{x}p^{x}(1-p)^{n-x}$$
 - $n$ is the number of trials
 - $p$ is the probability of success for a trial
 # [[Expectation]]
