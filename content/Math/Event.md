@@ -6,7 +6,7 @@ tags:
 aliases:
   - Events
 ---
-A subset of the [[Sample Space]].
+A subset of the [[Sample Space]]. It is a [[Set]] of outcomes.
 Usually labelled in capital letters:
 - $A, B, C, \dots$
 # Example
