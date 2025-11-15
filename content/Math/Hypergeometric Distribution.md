@@ -7,9 +7,9 @@ A [[Discrete Distribution]] with [[Dependent Events|Dependent]] [[Bernoulli Tria
 Commonly used when items are removed from the set.
 ![[Hypergeometric Distribution-20251006184544895.webp|425]]
 $$\text{Hypergeometric}(N,M,n)$$
-- Total items in set
-- Items to take
-- 
+- $N$ is Total items in set
+- $M$ is number of successes in trial
+- $n$ is number of trials
 # [[Probability Mass Function|PMF]]
 $$P(X=x) = \frac{\binom{M}{x} \binom{N-M}{n-x}}{\binom{N}{n}}, \forall \begin{cases}
 x \geq max \{ 0, n-(N-M) \}\\
