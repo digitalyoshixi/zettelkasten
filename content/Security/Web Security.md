@@ -15,3 +15,4 @@ aliases:
 - [[Server Side Request Forgery]]
 - [[IFrame Injection Attack]]
 - [[XML External Entity]]
+- [[Cookie Sandwich]]
