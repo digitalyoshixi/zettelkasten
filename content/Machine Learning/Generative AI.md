@@ -4,7 +4,7 @@ tags:
 aliases:
   - Generative Model
 ---
-A model that makes new data similar to the data it was trained on.
+A [[Sub-Symbolic AI]] model that makes new data similar to the data it was trained on.
 - Understands the distribution of data and how likely a output is
 It can create original content like:
 - Text

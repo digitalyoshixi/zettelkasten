@@ -132,3 +132,9 @@ Term test week, Nothing new
 - [[Faceted Search]]
 - [[Natural Language Search]]
 - [[Data Visualization]]
+### Week 10
+- [[Generative AI]]
+- [[Narrow AI]]
+- [[Symbolic AI]]
+- [[Sub-Symbolic AI]]
+- [[Prompt Engineering]]
