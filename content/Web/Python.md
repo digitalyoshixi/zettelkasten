@@ -18,6 +18,8 @@ Python is a bytecode virtual machine. You can see the [[Python Bytecode]] and ex
 - [[Python Reflection]]
 - [[Python Decorator]]
 - [[Python Type Hinting]]
+# Guides
+- [[Python Write Binary File]]
 # Libraries
 - [[Python os]]
 - [[Sci-kit Learn]]

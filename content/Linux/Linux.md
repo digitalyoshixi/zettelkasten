@@ -16,6 +16,7 @@ So based.
 - [[grep]]
 - [[sed]]
 - [[awk]]
+- [[suid]]
 # Guides
 - [[Linux Users]]
 - [[Linux View Open Ports]]
