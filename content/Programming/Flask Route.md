@@ -26,7 +26,8 @@ The inputs are given as `string`, the return type must also be `string`
 @app.route('/hello', methods = ['POST'])
 def hello():
 	if request.method == 'POST':
-		print(request.form)
+		#print(request.form)
+		print(request.json)
 		return "wtf do u wanna do with POST man?"
 	return "HELLO WORLD"
 ```
