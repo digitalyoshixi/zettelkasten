@@ -200,4 +200,5 @@ A course about the ethics of medicine.
 	- [[Welfare Disability|Level 2 Welfare Disability]]
 	- [[Mere Difference Disability|Level 2 Mere Difference Disability]]
 - [[Americans with Disabilities Act]]
-- [[Dena Davis Open Freedom Argument]]
+- [[Dena Davis Right to an Open Future Argument]]
+- [[Jeff McMahon Drug Thought Experiment]]

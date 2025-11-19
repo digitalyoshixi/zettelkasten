@@ -14,3 +14,4 @@ They are just differently abled.
 # Responses
 - By following this logic, we can say It is not wrong to cause someone to be disabled, this is clearly absurd
 - The cost of being disabled is the [[Disability Transition Cost]]
+- By following this logic, we can say it is not wrong to fail to prevent or remove a disability

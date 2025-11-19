@@ -14,3 +14,5 @@ C:  it is wrong to have disabled child
 ```
 # Intuition
 - In [[Amish]] cultures, children can't use technology, cant go to university, this limits their potential, this is immoral, this is what giving birth to a disabled person does, it limits their potential
+# Responses
+- Having a deaf child doesn't decrease that child's autonomy
