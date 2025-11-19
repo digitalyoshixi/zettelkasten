@@ -202,3 +202,4 @@ A course about the ethics of medicine.
 - [[Americans with Disabilities Act]]
 - [[Dena Davis Right to an Open Future Argument]]
 - [[Jeff McMahon Drug Thought Experiment]]
+- [[Nonidentity Problem]]
