@@ -190,3 +190,9 @@ A course about the ethics of medicine.
 - [[Challenge Trial]]
 - [[Jesse Gensinger Case]]
 - [[Julian Savulescu Participant Selection Principle]]
+### Week 11
+- [[Preimplantation Genetic Diagnosis|PGD]]
+- [[In Virto Fertilization|IVF]]
+- [[Genetic Screening Sex Selection]]
+- [[Disability]]
+- [[Americans with Disabilities Act]]
