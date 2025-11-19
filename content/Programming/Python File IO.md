@@ -2,6 +2,8 @@
 tags:
   - python
   - os
+aliases:
+  - Python File
 ---
 [https://www.youtube.com/watch?v=cIaOisyd7lE](https://www.youtube.com/watch?v=cIaOisyd7lE)
 IO is input and output. STDIN and STOUT are special files on the computer.
@@ -11,6 +13,7 @@ You must manually open/close the file
 ```python
 file = open("file.txt", 'r')
 contents = file.read()
+contents_size = file.read1(20) # read 20 bytes
 file.close()
 ```
 ### With Open
