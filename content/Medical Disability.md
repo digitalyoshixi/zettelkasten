@@ -3,7 +3,7 @@ tags:
   - philosophy
   - bioethics
 aliases:
-  - Level 1 Disability
+  - Level 1 Medical Disability
 ---
 Categorizing disability as a functional disadvantage.
 - Deaf
