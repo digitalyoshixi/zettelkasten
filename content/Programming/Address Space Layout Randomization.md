@@ -5,7 +5,8 @@ aliases:
   - ASLR
 ---
 Processes will always be assigned a random address in memory.
-- [[Base Address]] will be randomized to [[Page Alignment]]
+- [[Base Address]] will be randomized
+- Chunks will be randomized in [[Page Alignment]] size
 - Library addresses will be randomized
 - Heap and Stack locations will be randomized
 - Main program address is randomized if [[Position Independent Executable|PIE]] is enabled.

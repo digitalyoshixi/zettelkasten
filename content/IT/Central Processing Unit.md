@@ -37,7 +37,7 @@ The part of the CPU that computes arithmetic
 - [[CPU Parallel Execution]]
 - [[Multicore Processing]]
 - [[Graphics Processing Unit]] (Integrated)
-- [[CPU Security]]
+- [[Data Execution Prevention]]
 # Other CPU Concepts
 - [[Mobile CPUs]]
 - [[CPU Labelling]]
