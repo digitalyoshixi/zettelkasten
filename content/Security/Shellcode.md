@@ -9,3 +9,5 @@ Oftentimes this payload is to spawn a [[Shell]] for arbitrary command execution
 - [[Shellcode For Bash Shell]]
 - [[Shellcode For Read Flag]]
 - [[Shellcode For Printing ESP]]
+# Tools
+- [[Shellcraft]]
