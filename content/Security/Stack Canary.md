@@ -11,3 +11,5 @@ They are random values placed right before the return address on the stack that 
 1. Leak the stack canary with another method
 2. [[Stack Canary Brute Forcing]]
 3. [[Jumping Stack Canary]]
+# Stack Canary Generation
+- Uses [[Segment Register|fs]]
