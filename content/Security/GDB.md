@@ -64,3 +64,4 @@ https://users.ece.utexas.edu/~adnan/gdb-refcard.pdf
 - [[Pwndbg]]
 - [[GEF]]
 - [[PEDA]]
+- [[GDB View Return Address]]
