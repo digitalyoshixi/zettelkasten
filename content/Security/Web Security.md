@@ -16,3 +16,5 @@ aliases:
 - [[IFrame Injection Attack]]
 - [[XML External Entity]]
 - [[Cookie Sandwich]]
+- [[Cache Poisoning]]
+- [[Evil Regex]]
