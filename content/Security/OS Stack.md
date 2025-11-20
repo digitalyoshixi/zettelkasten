@@ -3,6 +3,7 @@ tags:
   - memory
   - os
 aliases:
+  - Stack
 ---
 *The stack grows up negatively*. This is because it must have finite space.
 The stack has a size is:

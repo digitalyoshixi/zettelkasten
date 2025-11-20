@@ -84,6 +84,8 @@ From these, you can make an
 - [[Shallow Copy]]
 - [[Deep Copy]]
 - [[C Memory Model]]
+### In-line [[Assembly]]
+- [[C asm volatile]]
 ### Other
 - [[2's Complement]]
 # Experienced C Tricks
