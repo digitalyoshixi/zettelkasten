@@ -3,6 +3,7 @@ tags:
   - binary_exploitation
   - security
 ---
+
 ```python
 from pwn import *
 context.terminal = "kitty"
