@@ -2,7 +2,7 @@
 tags:
   - esolang
 ---
-When two [[Tacit Link|Tacit Links]] with different [[Programming/Arity]] are piped side by side, they form a link chain.
+When two [[Tacit Link|Tacit Links]] with different [[Jelly Arity]] are piped side by side, they form a link chain.
 # Example 
 `+H` has the link `+` with arity 2 and `H` with arity 1.
 This is an example of a 2-1 chain.

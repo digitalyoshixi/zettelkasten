@@ -3,7 +3,9 @@ tags:
   - programming
 ---
 The number of arguments/operands taken by a link.
+
 By default, the links are variadic - meaning its up to the caller to determine the arity of the link.
+
 The main() link is dependent on how many arguments are given to the program
 # Types Of Functions
 ### Nilads

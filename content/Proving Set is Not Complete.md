@@ -10,5 +10,3 @@ tags:
 4. Give a specific formula $F$ and show $P(F)$ does not hold, then we show $C$ is not complete
 # Intuition
 Create a property that [[Complete Set of Boolean Connectives|uoc]] $C$ has, but one that not all formulas have, then show that a formula does not satisfy the property, thereby showing incompleteness.
-# Example
-Show that set of [[Multiplicative Identity]] and [[Conditional Statement|Implies]] $\{ 1, \to \}$ is not complete 

@@ -6,7 +6,7 @@ A:
 - [[Golf|Golfing]] language 
 - [[Tacit Language]]
 # Concepts
-- [[Programming/Arity]]
+- [[Jelly Arity]]
 - [[Tacit Link]]
 - [[Chain Link]]
 - [[Quick]]
