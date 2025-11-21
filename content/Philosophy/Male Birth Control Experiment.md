@@ -6,7 +6,7 @@ tags:
 # Experiment
 - Male birth control study where a cream is applied to disable sperm creation
 - Count how many babies there are to find the results
-- Men experienced side effects similar to how women felt during birth control (acne, pain, etc)
+- Men experienced side effects similar to how women felt during birth control (acne, pain, depression, etc)
 - Individuals can leave the study at any time
 # Results
 - Men were often happy with the drug 85%

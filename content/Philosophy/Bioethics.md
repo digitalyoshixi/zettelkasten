@@ -144,6 +144,9 @@ A course about the ethics of medicine.
 - [[Medical Emergency Permissibility]]
 ### Week 8
 - [[Assisted Dying]]
+- [[Euthanasia|VAE]]
+- [[Active Euthenasia]]
+- [[Passive Euthenasia]]
 - [[Ventilator Assisted Dying Thought Experiment]]
 - [[Medical Assistance in Dying|MAID]]
 - [[Smith and Jones Thought Experiment]]
