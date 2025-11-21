@@ -3,4 +3,7 @@ tags:
   - philosophy
   - bioethics
 ---
-A philosopher that coined [[Smith and Jones Thought Experiment]]
+A bioethics philosopher
+# Arguments
+- [[Smith and Jones Thought Experiment]]
+- [[Rachels Assisted Dying Argument]]
