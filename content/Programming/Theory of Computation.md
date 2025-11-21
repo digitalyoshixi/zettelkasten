@@ -170,6 +170,9 @@ Computer science as a science.
 - [[Atomic Formula]]
 - [[Set of First Order Predicate Formula]]
 - [[Parse Tree of Predicate Formula]]
+- [[Free Predicate Variable]]
+- [[Predicate Sentence]]
+- [[Predicate Formula Structure]]
 ### Extra (Neso Academy)
 - [[Turing Machine]]
 - [[Undecidable]]

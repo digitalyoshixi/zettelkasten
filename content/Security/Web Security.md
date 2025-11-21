@@ -17,4 +17,5 @@ aliases:
 - [[XML External Entity]]
 - [[Cookie Sandwich]]
 - [[Cache Poisoning]]
+- [[Web Cache Deception]]
 - [[Evil Regex]]
