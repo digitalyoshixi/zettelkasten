@@ -13,3 +13,5 @@ A set $C$ of [[Logical Connectives]] is complete $\Longleftrightarrow$ every [[B
 - $\{ \neg, \vee \}$ is complete
 # Uses Only Connectives
 $F \text{ uoc } C$ means $F$ only uses connectives from $C$
+# Proving
+- [[Proving Set is Complete]]

@@ -27,3 +27,4 @@ If regexes $S$ and $T$ are in $\mathcal{RE}$, then show:
 - [[Structural Induction Set Example]]
 - [[Structural Induction String Example]]
 - [[Structural Induction Regular Expression Example]]
+- [[Proving Set is Complete]]

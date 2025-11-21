@@ -158,6 +158,10 @@ Computer science as a science.
 - [[Formula Representing Boolean Function]]
 - [[Complete Set of Boolean Connectives]]
 - [[Connective Set Completeness Reduction]]
+### Week 11
+- [[Proving Set is Complete|Formal Proof of Set Completenessj]]
+- [[Informal Proof of Set Completeness]]
+- [[Proving Set is Not Complete]]
 ### Extra (Neso Academy)
 - [[Turing Machine]]
 - [[Undecidable]]
