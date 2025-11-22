@@ -16,4 +16,4 @@ aliases:
 # Multivariate
 - For given [[Random Variable|RV]] $X,Y$
 - For a given function $Z = g(X,Y)$
-- $E[Z]=E[g(X,Y)] = \sum_{n}^{} \sum_{y}^{}g(x,y)P(X=x, Y=y)$
+- $E[Z]=E[g(X,Y)] = \sum_{X}^{} \sum_{Y}^{}g(x,y)P(X=x, Y=y)$
