@@ -184,6 +184,7 @@ Course taught by Prof. Sotos.
 - [[Central Moment]]
 - [[Moment Generating Function]]
 - [[MGF Method]]
+- [[Moment Generating Function Factorization Method]]
 - [[Markov Inequality]]
 - [[Chebyshev Inequality]]
 - [[Jensen Inequality]]

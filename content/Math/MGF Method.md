@@ -11,4 +11,4 @@ $$
 m_{X}(t) =m_{Y}(t) \Longleftrightarrow X \sim Y
 $$
 # Intuition
-If $m_{Y}(t)$ follows the [[Moment Generating Function|MGF]] of some known distribtion $\implies$ $Y$ follows that distribution
+If $m_{Y}(t)$ follows the [[Moment Generating Function|MGF]] of some known distribution $\implies$ $Y$ follows that distribution
