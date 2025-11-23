@@ -17,3 +17,4 @@ A logical statement that includes:
 ### Properties
 - [[First Order Predicate Formula Satisfiablility]]
 - [[Predicate Formula Implication]]
+- [[Predicate Formula Equivalence]]

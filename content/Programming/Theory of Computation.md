@@ -174,8 +174,11 @@ Computer science as a science.
 - [[Predicate Sentence]]
 - [[Predicate Formula Structure]]
 - [[Predicate Formula Interpretation]]
-- [[Valid First Order Predicate Formula]]
 - [[First Order Predicate Formula Satisfiablility]]
+- [[Predicate Formula Implication]]
+- [[Predicate Formula Equivalence]]
+- [[Predicate Formula Logical Equivalence Laws]]
+- [[Negated Quantifier]]
 ### Extra (Neso Academy)
 - [[Turing Machine]]
 - [[Undecidable]]
