@@ -164,3 +164,5 @@ aliases:
 - [[uv-Plane]]
 - [[Jacobian Determinant of uv-Plane Transformation]]
 - [[Change of Variables for uv-Plane Transformation]]
+- [[Change of Variable for Cylindrical Coordinates]]
+- [[Change of Variable for Spherical Coordinates]]

@@ -189,3 +189,10 @@ Course taught by Prof. Sotos.
 - [[Chebyshev Inequality]]
 - [[Jensen Inequality]]
 - [[Cauchy Schwarz Inequality Expectation]]
+### Week 11
+- [[Average of Random Variable]]
+- [[Weak Law of Large Numbers]]
+- [[Probability Convergence]]
+- [[Distribution Convergence]]
+- [[Standardized Average]]
+- [[Central Limit Theorem]]
