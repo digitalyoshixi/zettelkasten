@@ -156,3 +156,11 @@ aliases:
 - [[Polar Coordinate]]
 - [[Cylindrical Coordinate]]
 - [[Spherical Coordinate]]
+- [[Injective Functions|Injective]]
+- [[Surjective Functions|Surjective]]
+- [[Bijective Functions|Bijection]]
+### Week 12
+- [[Change of Integration Variables Single Variable Substitution]]
+- [[uv-Plane]]
+- [[Jacobian Determinant of uv-Plane Transformation]]
+- [[Change of Variables for uv-Plane Transformation]]
