@@ -44,6 +44,7 @@ It is used in [[Clang]]
 - [[LLVM Module]]
 - [[LLVM API]]
 - [[Kaleidoscope]]
+- [[LLVM-config]]
 # Documentation
 - https://llvm.org/docs/LangRef.html
 # Guides

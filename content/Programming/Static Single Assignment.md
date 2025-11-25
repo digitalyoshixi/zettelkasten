@@ -7,6 +7,15 @@ aliases:
 A [[Intermediate Representation|IR]] property that requires:
 - Each variable/register be alloted a value only once
 - Every variable/register is defined before its use
+# Optimizations Allowed
+- [[Constant Propogation]]
+- [[Value Range Propogation]]
+- [[Sparse Conditional Constant Propogation]]
+- [[Dead Code Elimination]]
+- [[Global Value Numbering]]
+- [[Partial Redundancy Elimination]]
+- [[Strength Reduction]]
+- [[Register Allocation]]
 # Implications
 ### No Recursive Definitions - Use Versioning Instead
 You cannot mutate a variable in terms of itself.
