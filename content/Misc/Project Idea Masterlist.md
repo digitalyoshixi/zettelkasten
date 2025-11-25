@@ -60,3 +60,4 @@ tags:
 - Regex creator from a series of strings and matches
 - AI agent for app testing, [[Human Computer Interaction|HCI]] [[Quality Assurance]] testing (https://www.cyborgtest.com/)
 - Network topology mapper for a local subnet
+- VSCode liveshare but good with whiteboard and debugger view to allow for better sharing
