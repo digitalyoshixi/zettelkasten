@@ -118,6 +118,9 @@ Term test week, Nothing new
 - [[Order Effect Problem]]
 - [[Bucket Testing|A/B Testing]]
 - [[Fitts' Law]]
+- [[Experimental Subject Design]]
+	- [[Between Subject Design]]
+	- [[Within Subject Design]]
 ### Week 10
 - [[Social Computing]]
 - [[Conversational Rules]]
