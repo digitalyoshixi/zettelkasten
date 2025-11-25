@@ -45,8 +45,8 @@ Value *IRCodegenVisitor::codegen(const ExprIntegerIR &expr) {
 # Getting Function Types
 Using the `FunctionType::get`
 Requires parameters for:
-- returntype
-- paramater types
+- Return type
+- Parameter types
 - whether the function is [[Variadic]]
 ```cpp
 FunctionType::get(returnType, paramTypes, false /* doesn't have variadic args */);

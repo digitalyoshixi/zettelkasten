@@ -10,7 +10,7 @@ Object to tie the whole code generation together.
 ```cpp
 static std::unique_ptr<LLVM_Context> TheContext;
 ```
-# Making A Context called "Module"
+# Making A [[LLVM Module]] and [[LLVM Namespace IRBuilder]]
 ```cpp
 context = make_unique<LLVMContext>();
 builder = std::unique_ptr<IRBuilder<>>(new IRBuilder<>(*context));

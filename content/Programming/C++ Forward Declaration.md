@@ -2,7 +2,6 @@
 tags:
   - cpp
 aliases:
-  - Function Prototype
 ---
 if you are using a function in another function, declare that function before you call it
 ```cpp
