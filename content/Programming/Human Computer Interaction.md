@@ -138,3 +138,5 @@ Term test week, Nothing new
 - [[Symbolic AI]]
 - [[Sub-Symbolic AI]]
 - [[Prompt Engineering]]
+### Week 12
+- [[Data Triangulation]]
