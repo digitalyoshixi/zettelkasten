@@ -25,6 +25,11 @@ Creates a [[LLVM load]] instruction
 Creates a [[LLVM sub]] instruction
 ### CreateFSub
 Creates a [[LLVM fsub]] instruction
+```cpp
+Value *L = ConstantFP::get(*TheContext, APFloat(2));
+Value *R = ConstantFP::get(*TheContext, APFloat(1));
+Builder.CreateFSub(L, R, "my_appropriate_register_name"):
+```
 ### CreateAlloca
 ### CreateStore
 # Getting Types
