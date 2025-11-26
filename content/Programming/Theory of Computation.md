@@ -179,6 +179,8 @@ Computer science as a science.
 - [[Predicate Formula Equivalence]]
 - [[Predicate Formula Logical Equivalence Laws]]
 - [[Negated Quantifier]]
+### Week 12
+- [[Prenex Normal Form]]
 ### Extra (Neso Academy)
 - [[Turing Machine]]
 - [[Undecidable]]
