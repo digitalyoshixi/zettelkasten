@@ -181,6 +181,7 @@ Computer science as a science.
 - [[Negated Quantifier]]
 ### Week 12
 - [[Prenex Normal Form]]
+- [[PNF Theorem]]
 ### Extra (Neso Academy)
 - [[Turing Machine]]
 - [[Undecidable]]
