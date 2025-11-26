@@ -18,7 +18,7 @@ All arguments can have this form:
 5. Therefore  $Q$
 # Examples
 1. All men are mortal
-2. [[Socartes]] is a man
+2. [[Socrates]] is a man
 3. Therefore socartes is mortal
 
 # Argument Choice

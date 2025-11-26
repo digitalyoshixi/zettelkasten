@@ -62,4 +62,4 @@ A talk at [[Open Web Application Security Project|OWASP]] Toronto from Pixee by 
 - As code gets larger, it becomes harder to fit things inside of the context, there are token limits. AI SAST is still a ways off
 - The researcher transformed the code, so all the pertinent methods were all in a row
 - AI will not get exponentially better, it already read most of the internet, and the new data is not coming in any faster. Now, most code in github is AI generated, so this will stall out AI in its abilities
-- AI generates its own training data - like [[AlphaGo]]
+- AI generates its own training data - like [[AlphaGo Zero]]
