@@ -13,6 +13,10 @@ tags:
 - [[Transformation Pass]]
 - [[Analysis Pass]]
 # Techniques
+### Specific Subset Classes
+- [[Peephole Optimization]]
+- [[Bit Twiddling]]
+### Specific
 - [[Dead Code Elimination]]
 - [[Common Subexpression Elimination]]
 - [[Value Numbering]]

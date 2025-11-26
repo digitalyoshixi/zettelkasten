@@ -7,7 +7,7 @@ aliases:
 LLVM for [[C++]] comes with a LLVM namespace that has the following classes:
 # `Value *`
 - [[LLVM Namespace Value]]
-- [[LLVM Namespace Module]]
+- [[LLVM Module]]
 - [[LLVM Namespace Type]]
 - [[LLVM Namespace Function]]
 - [[LLVM Namespace BasicBlock]]
