@@ -2,6 +2,8 @@
 tags:
   - programming
   - compilers
+aliases:
+  - Checker
 ---
 A part of a [[Compiler]] that will validate the meaning of the [[Abstract Syntax Tree|AST]].
 - Type checking/[[Coercion]]

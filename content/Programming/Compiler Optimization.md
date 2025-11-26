@@ -3,21 +3,35 @@ tags:
   - os
   - compilers
 ---
+# Theories
+- [[Full Employment Theorem for Compiler Writers]]
+- [[Optimization Recommendations]]
+- [[Optimizations Stages]]
+# Optimization Forms
+- [[Static Single Assignment|SSA]]
+# Types
+- [[Transformation Pass]]
+- [[Analysis Pass]]
 # Techniques
 - [[Dead Code Elimination]]
-- [[Static Single Assignment|SSA]]
+- [[Common Subexpression Elimination]]
 - [[Value Numbering]]
 - [[Constant Folding]]
+- [[Constant Propogation]]
 - [[Function Inlining]]
 - [[Function Outlining]]
-- [[Common Subexpression Elimination]]
 - [[Reassociation of Expressions]]
-- [[Constant Propogation]]
+- [[Distributivity Optimization]]
+- [[Strength Reduction]]
+- [[Loop Invariant Code Motion]]
+- [[Loop Unrolling]]
+- [[Check Elimination]]
+- [[Copy Propogation]]
+- [[Tail Call Optimization]]
 - [[Value Range Propogation]]
 - [[Sparse Conditional Constant Propogation]]
 - [[Global Value Numbering]]
 - [[Partial Redundancy Elimination]]
-- [[Strength Reduction]]
 - [[Register Allocation]]
 # Courses
 - [[CS744]]

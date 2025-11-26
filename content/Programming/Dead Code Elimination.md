@@ -1,6 +1,9 @@
 ---
 tags:
   - programming
+aliases:
+  - Unreachable Code Elimination
+  - DCE
 ---
 Used for [[Compiler Optimization]]. Alot easier if code is in [[Static Single Assignment|SSA]] form.
 1. Look for every block that has `unreachable`
