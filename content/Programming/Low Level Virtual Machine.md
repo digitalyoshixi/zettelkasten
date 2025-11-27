@@ -45,6 +45,8 @@ It is used in [[Clang]]
 - [[LLVM API]]
 - [[Kaleidoscope]]
 - [[LLVM-config]]
+- [[On Request Compilation|ORC]]
+- [[JITLink]]
 # Documentation
 - https://llvm.org/docs/LangRef.html
 # Guides
