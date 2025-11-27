@@ -1,0 +1,78 @@
+---
+tags:
+  - security
+---
+A talk at [[TASK]] by Alana Stasz
+# Notes
+- She studies cyber warfare
+- Mostly a talk about [[Burnout]]
+- Emerging technology includes:
+	- [[Cellular Generations|5G]]
+	- [[Internet of Things|IoT]] and [[Industrial Control System|ICS]]
+	- [[Cloud Computing|Cloud]]
+	- [[Artificial Intelligence|AI]]
+	- [[Blockchain]]
+	- [[Quantum Computer]]
+	- [[Cell Learning Theory|Biological Computing]]
+- Quantum key distribution devices are commercial products now
+- Quantum SDKs are available for commercial processes aswell [[Quantum Processing Units|QPU]]
+- She is the queen of [[Burnout]]
+- Main experience:
+	- Financial difficulty, cant works and limited financial aid
+	- Legal consequences of being disabled
+	- Social consequences, cant engage in social activities and relationships
+		- People expect you to be able to eat at social events
+		- Cant go to events with food
+		- Cant bring food to most events
+		- Dont have time to make own food
+- Getting a diagnosis for burnout might hurt more than help, you can't become targetted in this field
+- Isolation is the biggest thing that feeds into addition and homelessness
+- Burnout is a business risk;
+	- Operational
+		- People take more sick days
+		- Work cant get done
+		- Delaying projects
+		- Operataional bottlenecks
+	- Financial
+		- Less financial gains
+		- Can't carry out operations
+		- Can't find more clients
+		- No people to run events
+	- Reputational
+		- People stop coming to business for services
+		- Business is seen as less humane
+- Truth #1:
+	- Root of burnout is psychosomatic, no trigger, all in your mind
+	- You can work through intergenerational trauma
+	- Relating your identity and work - Parents require you to succeed at all costs, neglecting your spiritual needs
+	- Burnout is undiagnosable, random symptoms pop up out of no where
+- Truth #2:
+	- Burnout propagates in team settings
+	- if you have people that are extra angry, extra sad, other people will pick up the same mentality
+	- People will have stress raised
+- Truth #3:
+	- You have to work smarter and not harder
+	- More work does not equal higher results
+	- Immigrant families believe harder work = better results
+	- Fall off after the gains, plateaus at some point
+	- Depth of technical aspects do not mean anything as people don't understand, you require simple situations
+	- You let ego come into play, want your technical skills to be seen, but not going to reduce it
+- Future of war:
+	- Burn out an entire defense sector, or entire industry
+	- 90% of cyber professionals want to leave their job
+	- Domains of [[Kinetic Warfare]]:
+		- Land 
+		- Air
+		- Sea
+		- Space
+	- Newer one: [[Cyber Warfare]]
+		- [[Geneva Convention]] never considered the internet
+	- The [[Tallinn Manual]] is the newer doctorine for this sector
+	- Even newer one: [[Cognitive Warfare]]
+- Conditions for an [[Act of War]]
+- [[International Law]]
+- [[Kinetic Warfare]] has distinct requirements
+- [[Cyber Warfare]] have time and space that is stretched and condensed simultaenously
+	- This has been cited in many academic papers
+- [[Stuxnet]]
+- [[Cognitive Warfare]] similar with time and space distortion
