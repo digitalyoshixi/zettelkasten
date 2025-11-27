@@ -76,3 +76,18 @@ A talk at [[TASK]] by Alana Stasz
 	- This has been cited in many academic papers
 - [[Stuxnet]]
 - [[Cognitive Warfare]] similar with time and space distortion
+- Make AI systems that target a person's trauma and make them burn out
+- Questions for thought:
+	- What happens when entire industry or society burn out simultaneously?
+		- We move to a collectivist mindset
+		- North america has the most research on [[Burnout]]
+	- How might illness caused by burnout be quantified at mass scale?
+		- When do we start creating the framework for dianosing these things? When do we start acknowledging as a problem?
+	- What is the operational, financial and social impact of a society-wide burnout?
+		- Many issues we have in cyber translate to other industries
+		- Overwork, alcoholism
+- Research on nervous system is not mainstream
+- Just staring at a screen is innately bad for the human body
+- Getting security clearance, cant talk about things, you have sick people
+- Most effective defenses:
+	- Drop egoism, admit that you need help
