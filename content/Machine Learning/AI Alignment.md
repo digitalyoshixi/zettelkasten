@@ -13,3 +13,7 @@ The mission to align [[Artificial Intelligence|AI]] goals to be that of ours, to
 - [[Transformative AI]]
 - [[Extinction]]
 - [[Existential Catastrophe]]
+- [[Safety Washing]]
+# Contrast
+- [[AI Governance]]
+- [[AI Resilience]]

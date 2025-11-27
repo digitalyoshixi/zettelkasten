@@ -8,6 +8,7 @@ A shared ledger that is designed to be:
 # Utilization
 - [[Decentralized App|dApp]]
 - [[Cryptocurrency]]
+- [[Blockchain Power Grid]]
 # Concepts
 - [[Consensus Algorithm]]
 - [[Proof of Work]]

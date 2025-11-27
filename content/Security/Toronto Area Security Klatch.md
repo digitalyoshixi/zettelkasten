@@ -12,3 +12,4 @@ aliases:
 - [[Nicky The Dumbest Ransomware You Will Ever Respect]]
 - [[The Security Implications of Network Cards]]
 - [[A Cognitive Kill Chain - The Psychological Impact of LLMs]]
+- [[Emerging Tech Burnout and the Future of War]]
