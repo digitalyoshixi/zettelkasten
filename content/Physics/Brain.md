@@ -7,3 +7,9 @@ tags:
 # Concepts
 - [[Simulated Brain]]
 - [[Matrioshka Brain]]
+- [[Neurological Plasticity]]
+# Segments
+- [[Amygdala]]
+- [[Prefrontal Cortex]]
+- [[Basal Ganglia]]
+- [[Limbic System]]

@@ -18,10 +18,28 @@ A talk at [[Toronto Area Security Klatch|TASK]] by Christine Smoley
 | ---------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | Reinforcement learning       | Continuous, adaptive reward                                         | Feedback to update network weights, Fine tuned and uses [[Reinforcement Learning from Human Feedback\|RLHF]] |
 | Weighting of neural pathways | Gradual, contextual, controlled by biochem                          | Results from mathematical weight adjustments                                                                 |
-| Cognitive Load               | Limited cognitive resources requiring efficiency and [[Plasticity]] | Less energy constraints but dependent on fundamental datastructures and datasets                             |
+| Cognitive Load               | Limited cognitive resources requiring efficiency and [[Neurological Plasticity]] | Less energy constraints but dependent on fundamental datastructures and datasets                             |
 | Working Memory               | Declarative (short term)                                            | Prompt/context window                                                                                        |
 | [[Schema\|Schemata]]         | Operational memory / [[Intuition]]                                  | Patterns based on statistics                                                                                 |
 - [[Schemata Internalization]]
 - [[Eligibility Trace]]
 - [[Genie Wiley]]
 - Google developed [[AlphaGo Zero]] which learned how to play [[Gomoku]] by absorbing rules and successful strategies
+- [[Your Brain on ChatGPT]]
+- [[The Memory Paradox - Why Our Brains Need Knowledge in an Age of AI]]
+- [[Limbic System]] is the emotional reaction-based
+- [[Basal Ganglia]]
+- [[Prefrontal Cortex]]
+- Consequences of AI:
+	- Cognitive impact, [[Basal Ganglia]] will weaken due to less practice, does not allow for procedural or automated learned responses
+	- Social Impact: Weakens [[Neurological Plasticity]] of interpersonal social adaptation
+	- Relation to self: Less emotionally regulated and impact of [[Cognitive Reappraisal]]
+- Sycophancy in GPT 4o, they are too kind and are also manipulative
+- GPT 5 reduced these sycophancy issues by 25%
+- [[Adam Raine]]
+- We can fix this via:
+	- Top-Down approach: Policy and governance
+	- Bottom-up approach:
+		- Dont need to learn everything, but learn one thing well
+		- Process things, go for walks, touch grass
+		- Collaborate with AI: use it as a starting board and then probe deep into responses

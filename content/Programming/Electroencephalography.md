@@ -5,3 +5,4 @@ tags:
 aliases:
   - EEG
 ---
+A [[Brain Computer Interaction|BCI]].
