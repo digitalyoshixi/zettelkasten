@@ -4,5 +4,8 @@ tags:
 ---
 A summary of relevant papers, books or journal articles.
 # Structure Types
-- Chronological: Sections are chronologically similar
-- Methodical: Litearture in the same section uses same research meth
+Literature in the same section could be similar in:
+- Chronology - similar in time-scope
+- Thematic - similar in theme
+- Methodical - similar in research method
+- Theoretical - similar in backbone theory
