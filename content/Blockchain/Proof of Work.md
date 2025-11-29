@@ -2,4 +2,4 @@
 tags:
   - cryptography
 ---
-A cryptographic proof that requires the user to complete a computationally expensive task before providing the application.
+A [[Consensus Algorithm]] that requires the user to compute a computationally expensive hash for a [[Transaction Block]], so that it can be added to a [[Blockchain]]
