@@ -2,7 +2,7 @@
 tags:
   - math
 ---
-```
+```c
 float Q_rsqrt( float number )
 {
 	long i;

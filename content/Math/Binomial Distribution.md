@@ -60,3 +60,4 @@ E(X) = np
 = 4.44
 
 4.44 is smaller than 5 dollar. not fair!
+
