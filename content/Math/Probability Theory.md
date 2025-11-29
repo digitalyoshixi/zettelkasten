@@ -196,3 +196,10 @@ Course taught by Prof. Sotos.
 - [[Distribution Convergence]]
 - [[Standardized Average]]
 - [[Central Limit Theorem]]
+### Week 12
+- [[Monte Carlo Integration]]
+- [[Sample Statistic]]
+- [[Sample Mean]]
+- [[Sample Variance]]
+- [[Chi-Squared Distribution]]
+- [[t Distribution]]
