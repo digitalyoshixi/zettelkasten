@@ -2,7 +2,8 @@
 tags:
   - blockchain
 aliases:
-  - ERC21
+  - ERC721
   - NFT
 cssclasses:
 ---
+A framework for creating tokens 
