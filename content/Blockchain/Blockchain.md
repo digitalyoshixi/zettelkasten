@@ -18,5 +18,7 @@ A shared ledger that is designed to be:
 - [[Scalability Trilemma]]
 - [[Blockchain Network]]
 - [[Web3js]]
+# Smart Contracts
+- [[Tokenized Vault]]
 ### Attacks
 - [[Re-entrancy Attack]]

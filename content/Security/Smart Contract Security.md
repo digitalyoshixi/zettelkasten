@@ -5,6 +5,10 @@ tags:
 aliases:
   - Blockchain Security
 ---
+# Concepts
+
+# Tools
+- 
 # Resources
 - https://github.com/crytic/awesome-ethereum-security
 - https://github.com/minaminao/ctf-blockchain
