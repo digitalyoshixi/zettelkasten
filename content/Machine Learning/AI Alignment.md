@@ -14,6 +14,9 @@ The mission to align [[Artificial Intelligence|AI]] goals to be that of ours, to
 - [[Extinction]]
 - [[Existential Catastrophe]]
 - [[Safety Washing]]
+- [[Mechanistic Interpretability]]
+- [[Neurointerpretability]]
 # Contrast
 - [[AI Governance]]
 - [[AI Resilience]]
+# Talks
