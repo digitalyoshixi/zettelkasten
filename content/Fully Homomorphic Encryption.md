@@ -6,4 +6,5 @@ aliases:
   - FHE
 ---
 [[Homomorphic Encryption]] that allows any operation to be homomorphic for any number of times.
-Uses [[Homomorphic Encryption Bootstrapping]]
+# Process
+1. Uses [[Homomorphic Encryption Bootstrapping]] ([[Gentry's Bootstrapping]])

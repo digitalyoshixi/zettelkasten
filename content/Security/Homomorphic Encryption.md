@@ -14,5 +14,6 @@ All ciphertext is [[Homomorphic]] to the plaintext.
 # Concepts
 - [[Homomorphic Encryption Bootstrapping]]
 - [[Learning With Errors]]
+- [[Short Vector Problem]]
 # Implementations
 - [[Pailler Encryption]]
