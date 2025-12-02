@@ -4,7 +4,8 @@ tags:
 ---
 Object used to incrementally build up our [[Intermediate Representation|IR]].
 The equivalent of a file-pointer when reading/writing a file.
-
+- Starts at a [[LLVM Namespace BasicBlock]] insert point
+Requires a given [[LLVM Namespace Context]]
 # Inserting Instructions at End of a block
 ```cpp
 SetInsertPoint(BasicBlock *TheBB)

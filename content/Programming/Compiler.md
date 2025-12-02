@@ -12,7 +12,6 @@ Compiling does **2** things:
 4. Converts to a lower-level [[Intermediate Representation|IR]]
 5. It is the responsibility of an external tool (CPU, another interpreter, etc) to either convert the IR into an object file or interpret it.
 ![[Pasted image 20231119135642.png]]
-
 After the compiler, we optionally pass the program to a [[Linker]]
 # Compiler Types
 - [[Ahead-of-time Compilation]]
@@ -22,7 +21,6 @@ After the compiler, we optionally pass the program to a [[Linker]]
 The compiler can modify a program any way it likes to produce more optimized code, so long as the modifications do not affect the program's observable behavior.
 There is such thing as an https://www.awelm.com/posts/evil-compiler
 evil compiler
-
 ### Example optimizations
 - 3+4 -> 7 every time. we dont need to calculate every compile.
 - Replacing constant values with literals

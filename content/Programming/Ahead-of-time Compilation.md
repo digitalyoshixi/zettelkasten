@@ -11,7 +11,7 @@ Converts the entire source-code into [[Bytecode]] before runtime.
 2. [[Parser|Syntactic Analysis]]
 3. [[Semantic Analysis]]
 4. [[Intermediate Representation|IR]] generation
-5. [[Compiler Analysis]]
-6. [[Machine Independent Optimizer]]
+5. [[Compiler Analysis]] 
+6. [[Machine Independent Optimizer]] via [[Dataflow Analysis]]
 7. Machine dependent codegen
 8. [[Machine Dependent Optimization]]

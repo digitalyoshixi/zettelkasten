@@ -7,8 +7,10 @@ tags:
 - [[Full Employment Theorem for Compiler Writers]]
 - [[Optimization Recommendations]]
 - [[Optimizations Stages]]
-# Optimization Forms
+# Methods
 - [[Static Single Assignment|SSA]]
+- [[Three Address Code]]
+- [[Dataflow Analysis]]
 # Types
 - [[Transformation Pass]]
 - [[Analysis Pass]]
