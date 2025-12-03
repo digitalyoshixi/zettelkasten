@@ -10,7 +10,7 @@ Converts the entire source-code into [[Bytecode]] before runtime.
 1. [[Tokenizer]]
 2. [[Parser|Syntactic Analysis]]
 3. [[Semantic Analysis]]
-4. [[Intermediate Representation|IR]] generation
+4. [[Intermediate Representation Codegen]]
 5. [[Compiler Analysis]]
 6. [[Machine Independent Optimizer]] and [[Dataflow Analysis]]
 7. Machine dependent codegen

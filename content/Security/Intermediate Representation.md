@@ -15,6 +15,10 @@ It is capable of being ran through a [[Compiler]] or [[Virtual Machine]]. These 
 - [[Multi Level Intermediate Representation|MLIR]]
 - [[QBE]]
 - [[Three Address Code]]
+- [[GCC Generic IR]]
+- [[Gimple]]
+- [[Gimple SSA]]
+- [[Register Transfer Language]]
 # Concepts
 - [[Compiler Frontend]]
 - [[Compiler Backend]]

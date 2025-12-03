@@ -34,6 +34,7 @@ tags:
 - [[Check Elimination]]
 - [[Copy Propogation]]
 - [[Tail Call Optimization]]
+- [[mem2reg]]
 - [[Value Range Propogation]]
 - [[Sparse Conditional Constant Propogation]]
 - [[Global Value Numbering]]
