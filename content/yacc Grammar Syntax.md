@@ -4,7 +4,7 @@ tags:
   - compilers
 ---
 # Present Terminals
-- `ID`
+- [[yacc ID]]
 - `INT`
 - `VAR`
 # Grammar Rules

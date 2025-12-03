@@ -13,5 +13,5 @@ Converts the entire source-code into [[Bytecode]] before runtime.
 4. [[Intermediate Representation Codegen]]
 5. [[Compiler Analysis]]
 6. [[Machine Independent Optimizer]] and [[Dataflow Analysis]]
-7. Machine dependent codegen
+7. [[Bytecode Codegen]]
 8. [[Machine Dependent Optimization]]
