@@ -8,3 +8,5 @@ Focus is not about helping the participant.
 # Concepts
 - [[Informed Consent]]
 - [[Clinical Trials]]
+- [[Optimism Bias]]
+- [[Therapeutic Misconception]]
