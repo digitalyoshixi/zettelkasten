@@ -2,7 +2,7 @@
 tags:
   - bioethics
 ---
-These are interests that are nice things to do like:
+These are interests about [[Instrumental Goods]] like:
 - Food
 - Sex
 - Games

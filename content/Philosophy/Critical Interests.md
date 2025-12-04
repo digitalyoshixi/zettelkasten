@@ -3,7 +3,7 @@ tags:
   - bioethics
   - philosophy
 ---
-These are central goals that matter to you.
+These are interests about [[Intrinsic Goods]] that matter to you.
 - Climbing a mountain
 - Getting dream job
 Allows your life to have a meaningful narriative.

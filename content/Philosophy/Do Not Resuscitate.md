@@ -4,4 +4,4 @@ tags:
 aliases:
   - DNR
 ---
-A state applied to a person where they do not wish to be revived/saved.
+An [[Advance Directive|AD]] where a person does not wish to be revived/saved.

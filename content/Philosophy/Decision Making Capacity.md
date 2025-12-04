@@ -10,3 +10,5 @@ The ability for a person to be able to make decisions in the right kind of way.
 2. Show understanding
 3. Appreciate the situation
 4. Reason about treatment options
+# Tests
+- [[MacArthur Competence Assessment Tool-Treatment]]
