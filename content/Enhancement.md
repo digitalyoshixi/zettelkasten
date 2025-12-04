@@ -15,6 +15,8 @@ Is not [[Therapy]]. Medical research on enhancement is not funded.
 # Arguments
 ### For
 - [[Julian Savulescu Doping Argument]]
+- [[Enhancement Promote Authenticity]]
 ### Against
 - [[Enhancement Equality Argument]]
 - [[Enhancement Risk Argument]]
+- [[Enhancement Undervaluing Human Effort]]
