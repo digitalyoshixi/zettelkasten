@@ -9,7 +9,7 @@ The process of converting [[Intermediate Representation|IR]] into [[Machine Code
 Involves:
 - [[Register Allocation]]
 	- [[Interference Graph]]
-	- [[Liveliness Analysis]]
+	- [[Liveness Analysis]]
 - [[Flow Equation]]
 	- [[Flow Analysis]]
 - [[Memory Spilling]]
