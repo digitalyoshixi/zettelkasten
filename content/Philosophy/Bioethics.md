@@ -103,6 +103,7 @@ A course about the ethics of medicine.
 - [[Critical Interests]]
 - [[Dementia Advanced Directive Thought Experiment]]
 - [[Dworkin Narriative Arguments]]
+- [[Rebecca Dresser Present State Argument]]
 - [[Organ Transplant Personality Changes]]
 - [[Embodied Mind Account]]
 - [[Bodily Independence]]
