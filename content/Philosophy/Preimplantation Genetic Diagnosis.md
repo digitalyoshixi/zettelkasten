@@ -9,7 +9,6 @@ cssclasses:
 Testing an embryo before being implanted in a woman. 
 A common step in [[In Virto Fertilization]].
 
-
 The screening of genetic defects in [[Embryo]] during [[In Virto Fertilization|IVF]].
 Checks for:
 - [[Down Syndrome]]
