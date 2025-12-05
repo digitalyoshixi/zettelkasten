@@ -3,7 +3,7 @@ tags:
   - security
   - machine_learning
 ---
-`Taken two ways:
+Taken two ways:
 - Using [[Artificial Intelligence|AI]] to secure your product
 - Using third party [[Artificial Intelligence|AI]] in your product securely
 # Securing AI

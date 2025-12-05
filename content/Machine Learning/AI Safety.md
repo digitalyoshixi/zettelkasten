@@ -4,11 +4,14 @@ tags:
 aliases: []
 ---
 This is a [[Pre-Paradigm]] [[Artificial Intelligence|AI]] field
-# Concepts
+# Fields
 - [[AI Alignment]]
+- [[AI Governance]]
+- [[AI Security]]
+# Concepts
 - [[Responsible AI]]
 - [[Ethical AI]]
 - [[AI Laws]]
 - [[AI Sandbagging]]
-# Alternates:
-- [[AI Security]]
+# Books
+- [[If Anyone Builds It Everyone Dies]]
