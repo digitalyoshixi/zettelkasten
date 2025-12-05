@@ -9,5 +9,9 @@ Used to support communication and teaching.
 - [[Explanatory Theories]]
 - [[Prescriptive Theories]]
 - [[Predictive Theories]]
+- [[Micro-HCI Theories]]
+- [[Macro-HCI Theories]]
 # Theories
 - [[Foley and Van Dam Four-Level Design Theory]]
+- [[Stage of Action Theories]]
+- [[4 Principles of Good Design]]
