@@ -102,6 +102,7 @@ Responsible for maintaining the design and evaluation of systems.
 - [[Heuristic Evaluation]]
 - [[Surveys]]
 - [[Interview]]
+- [[Research Ethics Board|REB]]
 - [[Usability Tests]]
 - [[Evaluators and Usability Problems]]
 ### Week 8
