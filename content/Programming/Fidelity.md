@@ -8,7 +8,7 @@ aliases:
 ---
 A [[Prototype]]'s amount of effort.
 Split by:
-- [[Interactivity]]
+- [[Interaction]]
 - Visuals
 - Content and commands
 # Low Fidelity
