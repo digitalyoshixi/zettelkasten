@@ -5,6 +5,7 @@ aliases:
   - Bit
   - Byte
   - Word
+  - Nibble
 ---
 Binary is base 2 number system
 

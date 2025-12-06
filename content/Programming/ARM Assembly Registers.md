@@ -6,6 +6,6 @@ tags:
 - [[r7]]
 - [[rsp|sp]]
 - [[lr]]
-- [[pc]]
+- [[Program Counter Register]]
 - [[cpsr]]
 - [[spsr]]

@@ -12,6 +12,12 @@ An [[Interpreter|Interpreted]] programming language.
 - [[CHIP-8 Font]]
 - [[CHIP-8 Display]]
 - [[CHIP-8 Stack]]
+- [[CHIP-8 Timer]]
+- [[16 Key Keypad]]
+- [[Fetch Decode Execute]]
+- [[CHIP-8 Registers]]
+- [[CHIP-8 Instructions]]
+- [[CHIP-8 Test Suite]]
 # Specifications
 - Memory: 4KB (4096 bytes) of [[Random Access Memory|RAM]]
 - Display: 64 x 32 pixels, monochrome (black and white)
@@ -25,4 +31,6 @@ An [[Interpreter|Interpreted]] programming language.
 	- `V1`
 	- ...
 	- `VF` - also used as [[Carry Bit|Carry Flag]] register
+	- `I` - instruction register
 - Font characters represented as [[Bitmap]] 4px by 5px tall
+- Speed of ~ 700 instructions per second is natural

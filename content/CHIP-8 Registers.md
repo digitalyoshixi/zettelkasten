@@ -1,0 +1,25 @@
+---
+tags:
+  - programming
+  - cpu
+  - hardware
+---
+# List
+- `V0`
+- `V1`
+- `V2`
+- `V3`
+- `V4`
+- `V5`
+- `V6`
+- `V7`
+- `V8`
+- `V9`
+- `VA`
+- `VB`
+- `VC`
+- `VD`
+- `VE`
+- `VF` - also used as [[Carry Bit|Carry Flag]] register
+- `I` - memory register (holds memory address)
+- [[Program Counter Register|PC]]

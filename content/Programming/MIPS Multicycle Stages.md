@@ -3,6 +3,7 @@ tags:
   - programming
 ---
 ![[MIPS Multicycle Stages-20250722150733654.webp]]
+A revised form of [[Fetch Decode Execute]]
 # Stages
 ### Instruction Fetch (IF)
 - Gets the next 32-bit instruction, and increases PC
