@@ -7,7 +7,7 @@ aliases:
 ---
 # Definition
 1. Let $a \in \mathbb{R}$
-2. The **power series about** $a$ denoted as $\{ C_{n} \}_{n=0}^{\infty} \subset \mathbb{R}$ is a [[Series]] of [[Real Number|Real Numbers]] of the form $C_{0} + C_{1}(x-a) + C_{2}(x-a)^{2} + \dots$
+2. The **power series about** $a$ denoted as $\{ C_{n} \}_{n=0}^{\infty} \subset \mathbb{R}$ is a [[Series]] of [[Real Number|Real Number]] of the form $C_{0} + C_{1}(x-a) + C_{2}(x-a)^{2} + \dots$
 Where:
 - $C_{n}$ is called the $n-th$ term coefficient of the PS
 - $a$ is the center of the PS

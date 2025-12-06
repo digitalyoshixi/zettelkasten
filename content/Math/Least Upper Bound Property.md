@@ -4,7 +4,7 @@ tags:
   - calculus
 ---
 # Least Upper Bound Property
-Every nonempty set of [[Real Number|Real Numbers]] that is bounded above has a supremum (Least upper bound).
+Every nonempty set of [[Real Number|Real Number]] that is bounded above has a supremum (Least upper bound).
 1. If $S \subset R$
 2. If $S \neq \emptyset$
 3. If $S$ is bounded above

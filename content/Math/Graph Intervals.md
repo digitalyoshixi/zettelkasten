@@ -4,7 +4,7 @@ tags:
 aliases:
   - Intervals
 ---
-All intervals are elements of [[Real Numbers]].
+All intervals are elements of [[Real Number]].
 Oftentimes you have to write the sign of f(x) according to the intervals.
 ![[Pasted image 20230911095104.png]]
 For example this graph:
