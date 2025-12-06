@@ -11,7 +11,7 @@ A usability inspection method that is guided by a set of recognized usability pr
 4. Match each problem to a corresponding heuristic broken
 5. Report each problem separately
 6. Confer with other evaluators, and develop priorities for each problem
-# Evaluations
+# Nielsen's Heuristic
 1. Visibility of system status
 2. [[Real World and System Synthesis]]
 3. [[User Control and Freedom]]
