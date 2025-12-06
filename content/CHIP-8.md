@@ -9,6 +9,9 @@ aliases:
 An [[Interpreter|Interpreted]] programming language.
 # Concepts
 - [[CHIP-8 ROM]]
+- [[CHIP-8 Font]]
+- [[CHIP-8 Display]]
+- [[CHIP-8 Stack]]
 # Specifications
 - Memory: 4KB (4096 bytes) of [[Random Access Memory|RAM]]
 - Display: 64 x 32 pixels, monochrome (black and white)

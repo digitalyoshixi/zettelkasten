@@ -7,6 +7,7 @@ tags:
 The font assets for a [[CHIP-8 ROM]].
 Conventionally located at:
 - `050` - `09F`
+Each character is 4px by 5px in size.
 # Common Font
 ```
 0xF0, 0x90, 0x90, 0x90, 0xF0, // 0
