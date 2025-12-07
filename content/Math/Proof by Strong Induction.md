@@ -20,7 +20,7 @@ Assuming base cases $b, \dots, b+k-1$
 	1. Proof of $P(n)$
 3. ...
 4. Let $n = b + k - 1$
-	1. Proof pf $P(n)$
+	1. Proof of $P(n)$
 ##### Induction Step
 1. Let $n \geq b + k$
 2. Suppose $P(j)$ holds whenever $b \leq j < n$ [[Induction Hypothesis]]

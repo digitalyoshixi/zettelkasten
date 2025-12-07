@@ -46,6 +46,7 @@ Computer science as a science.
 - [[Binary String]]
 - [[Counting Odd Parity Substrings from Given Binary String]]
 - [[Proof By Induction|Simple Induction]]
+- [[Proof by Strong Induction|Strong Induction]]
 - [[Stamps Simple Induction Example]]
 - [[Stamps Strong Induction Example]]
 - [[Unwinding Recurrence]]
