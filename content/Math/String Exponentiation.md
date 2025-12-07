@@ -10,6 +10,6 @@ $$x^{k}
 =
 \begin{cases}
 \epsilon & k = 0\\
-x^{k-1} \circ x & k = 0\\
+x^{k-1} \circ x & k > 0\\
 \end{cases}
 $$
