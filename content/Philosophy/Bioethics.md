@@ -32,7 +32,6 @@ A course about the ethics of medicine.
 - Advance Directives. Ronald Dworkin and Rebecca Dresser have different views about the appropriate scope of advance directives in cases of dementia. Describe this dispute. What is dworkin's argument? In what ways does dresser think Dworkin's argument fails?
 - Paternalism & Public Health. Libetarians such as Jessica Flanigan argue against coercive public health policies. A different view, held by libertarian paternalists is that we should 'nudge' people to do certain things, but we should't take away options. Sarah Conly defends yet another view - coercive paternalism - which involves taking away options. What are the main arguments for each? What are some ways these points apply to health care?
 - Genetic Screening. What is the difference between the welfare model of disability and the mere difference model of disability? Explain Dena Davis's argument regarding genetic screening. What is the main objection to her argument? Explain Jeff McMahan's arugment. What implication does McMahan think his argument has for the disability debate
-	- 
 # Concepts
 ### Week 1
 - [[Genetic Blindness Thought Experiment]]
@@ -203,6 +202,8 @@ A course about the ethics of medicine.
 - [[Jesse Gensinger Case]]
 - [[Julian Savulescu Participant Selection Principle]]
 ### Week 11
+- [[Genetic Testing]]
+- [[Genetic Screening]]
 - [[Preimplantation Genetic Diagnosis|PGD]]
 - [[In Virto Fertilization|IVF]]
 - [[Genetic Screening Sex Selection]]

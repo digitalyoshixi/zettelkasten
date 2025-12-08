@@ -12,6 +12,8 @@ Is not [[Therapy]]. Medical research on enhancement is not funded.
 # Views
 - [[Transhumanism]]
 - [[Bioconservatism]]
+# Definition Debates
+- [[Enhancement Internality Requirement]]
 # Arguments
 ### For
 - [[Julian Savulescu Doping Argument]]

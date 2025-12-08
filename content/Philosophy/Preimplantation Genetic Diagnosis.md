@@ -3,7 +3,6 @@ tags:
   - bioethics
 aliases:
   - PGD
-  - Genetic Screening
 cssclasses:
 ---
 Testing an embryo before being implanted in a woman. 
