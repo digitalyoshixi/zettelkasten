@@ -13,3 +13,6 @@ The [[Fertility-Intelligence Paradox]] means that the average of intelligence wi
 - [[Genetic Counselling]]
 # Counterarguments
 - [[Brave New World]]
+- [[Genetic Diversity Argument]]
+# Parallels
+- [[Incest and Eugenics Inconsistency]]
