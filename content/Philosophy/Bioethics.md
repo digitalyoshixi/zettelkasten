@@ -25,6 +25,14 @@ A course about the ethics of medicine.
 	- No talking outside the exam room
 - Tutorial (10%)
 - Drop-in-times Weds 1pm-2pm Thurs 11am-12pm zoom https://utoronto.zoom.us/j/3147121578 passcode 103099
+# Oral Exam
+- Answer two prompts out of the five:
+- Physicial-assisted death: How does james rachels defend the morality of active euthenasia? In what ways does he think it is unlike passive euthenasia? What are some objections to [[Active Euthenasia|VAE]] that John Keown describes? Does rachel's argument rely on autonomy? In what ways? How might rachels respond or critize Keown?
+- Abortion. What is Judith Jarvis Thomson's position on abortion? How does she argue for that position? Describe Don Marquis's argument that abortion is unethical. What are some potential issues with either view? How might the authors respond to these criticisms?
+- Advance Directives. Ronald Dworkin and Rebecca Dresser have different views about the appropriate scope of advance directives in cases of dementia. Describe this dispute. What is dworkin's argument? In what ways does dresser think Dworkin's argument fails?
+- Paternalism & Public Health. Libetarians such as Jessica Flanigan argue against coercive public health policies. A different view, held by libertarian paternalists is that we should 'nudge' people to do certain things, but we should't take away options. Sarah Conly defends yet another view - coercive paternalism - which involves taking away options. What are the main arguments for each? What are some ways these points apply to health care?
+- Genetic Screening. What is the difference between the welfare model of disability and the mere difference model of disability? Explain Dena Davis's argument regarding genetic screening. What is the main objection to her argument? Explain Jeff McMahan's arugment. What implication does McMahan think his argument has for the disability debate
+	- 
 # Concepts
 ### Week 1
 - [[Genetic Blindness Thought Experiment]]
