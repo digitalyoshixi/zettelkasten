@@ -3,4 +3,4 @@ tags:
   - biology
   - health
 ---
-Identifying individuals who have a higher risk of developing disorders
+Identifying if a individual is a carrier of a gene for a specific disorder. 

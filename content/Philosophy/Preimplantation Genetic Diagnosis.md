@@ -5,8 +5,9 @@ aliases:
   - PGD
 cssclasses:
 ---
-Testing an embryo before being implanted in a woman. 
+A [[Genetic Screening]] for embryo before being implanted in a woman. 
 A common step in [[In Virto Fertilization]].
+- May not be completely accurate
 
 The screening of genetic defects in [[Embryo]] during [[In Virto Fertilization|IVF]].
 Checks for:
@@ -15,4 +16,4 @@ Checks for:
 Uses [[Non Invasive Prenatal Testing]]
 
 Illegal to select for:
-- Sex
+- Sex ([[Genetic Screening Sex Selection]])
