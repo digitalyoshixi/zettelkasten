@@ -4,6 +4,7 @@ tags:
   - programming
 aliases:
   - Formula
+  - Normal Form
 ---
 A set $\mathcal{F}$ of items in [[Propositional Variable|PV]] with propositional closure properties
 # Definition

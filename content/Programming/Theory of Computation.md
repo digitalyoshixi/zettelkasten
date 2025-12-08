@@ -149,7 +149,6 @@ Computer science as a science.
 - [[Formula Logical Implication]]
 - [[Formula Logical Equivalence]]
 - [[Literal]]
-- [[Normal Form]]
 - [[Literal Term]]
 - [[Propositional Clause]]
 - [[Disjunctive Normal Form]]

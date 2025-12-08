@@ -10,5 +10,7 @@ A [[Finite State Automata]] that is [[Stochastic Algorithm|Stochastic]].
 - There are states that can lead to multiple paths with the same transition
 - You can have $\epsilon$ transitions
 A machine accepts the input, if there is atleast one path that leads to an [[Accepting State]]
+# Types
+- [[Multi-Read Finite State Automata]]
 # Example
 - [[NFSA Example]]
