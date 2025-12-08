@@ -163,7 +163,7 @@ Computer science as a science.
 - [[Proving Set is Complete|Formal Proof of Set Completenessj]]
 - [[Informal Proof of Set Completeness]]
 - [[Proving Set is Not Complete]]
-- [[Predicate]]
+- [[Logical Predicate]]
 - [[Predicate Logic]]
 - [[Second Order Logic]]
 - [[First Order Predicate Formula]]

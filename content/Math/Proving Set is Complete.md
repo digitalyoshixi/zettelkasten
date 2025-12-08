@@ -6,7 +6,7 @@ tags:
 Use [[Proof by Structural Induction]]
 # Structure
 1. Define set $\mathcal{G}$ that [[Complete Set of Boolean Connectives|uoc]] $\{ \neg, \wedge \}$ or $\{ \neg, \vee \}$
-2. Use [[Proof by Structural Induction]] to prove that for every forumla $F \in \mathcal{G}, \exists F'$ s.t $F'$ [[Complete Set of Boolean Connectives|uoc]] $F' \equiv F$
+2. Use [[Proof by Structural Induction]] to prove that for every forumla $F \in \mathcal{G}, \exists F'$ s.t $F'$ [[Complete Set of Boolean Connectives|uoc]] $\{ \neg, \wedge \}$ or $\{ \neg, \vee \}$
 # Example
 Prove that [[Zero Identity]] and implication forma complete set.
 $\{ 0, \to \}$
