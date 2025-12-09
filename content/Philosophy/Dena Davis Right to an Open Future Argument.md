@@ -3,9 +3,9 @@ tags:
   - philosophy
   - bioethics
 aliases:
-  - Right to an Open Future
 ---
 The belief that you should allow your child to have the least amount of disabilities so that they have the most options.
+Based off [[Feinberg's Right to an Open Future]]
 # Argument
 ```standardform
 P1: children have right to open future (autonomy is not affected)
