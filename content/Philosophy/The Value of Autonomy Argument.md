@@ -7,7 +7,7 @@ aliases:
 ---
 # Argument
 ```standardform
-P1: We shouldn't respect all autonomous decisions
+P1: We shouldn't respect all autonomous decisions (murder, FGM, self-slavery, etc)
 P2: Autonomy is just one of several values we care about in medicine
 ```
 # MAID Interpretation
