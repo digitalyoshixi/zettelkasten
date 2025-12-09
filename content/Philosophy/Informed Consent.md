@@ -13,3 +13,18 @@ Each condition has different degrees
 - [[Consent Information]]
 - [[Understanding]]
 - [[Voluntariness]]
+# Example Informed Consent Form
+- Date
+- Study Name
+- Researchers
+- Purpose of Research
+- Research tasks
+- Risks and discomforts
+- Benefits of research
+- Voluntary participation blurb
+- Withdrawl steps
+- Confidentiality
+- Question area
+- Legal participation clause
+- Signature of attendee
+- Signature of investigator
