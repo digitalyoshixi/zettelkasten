@@ -13,6 +13,7 @@ Computer science as a science.
 - OH: https://cmsweb.utsc.utoronto.ca/nick/timetable.html
 - https://www.cs.toronto.edu/~vassos/b36-notes/notes.pdf
 - https://cmsweb.utsc.utoronto.ca/nick/cscB36/additional-notes/
+- https://cmsweb.utsc.utoronto.ca/nick/cscB36/past-exams/
 - Exam seats are randomly assigned
 - FYOG Assignments dont count for marks
 - Problem sets are used only for extra marks, they are posted collectively on piazza, they are worth 10%
