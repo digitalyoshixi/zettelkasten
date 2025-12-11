@@ -2,6 +2,9 @@
 tags:
   - math
   - programming
+aliases:
+  - FSA Method
+  - FSA Creation from FSA
 ---
 For a given [[Language Function|Language Operation]] $f$, and a given [[Regular Language]] $L$,
 We can prove $f(L)$ preserves the regular language with a FSA.
