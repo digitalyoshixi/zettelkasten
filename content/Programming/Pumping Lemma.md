@@ -27,6 +27,7 @@ Any string of atleast length $n$ has a substring that can be repeated an infinit
 	1. $x \in L$
 	2. $|x| > n$
 4. By pumping lemma, there are strings $u,v,w$. Pick specific $k \in \mathbb{N}$ s.t $uv^{k}w \not \in L$ 
+	1. (*Note you can pump something to the power of zero to eliminate it aswell*)
 5. Then, we have proved that this language is not regular.
 # Examples
 - [[Pumping Lemma Disproving Regular Language Example]]
