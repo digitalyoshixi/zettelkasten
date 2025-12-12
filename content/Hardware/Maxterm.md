@@ -2,7 +2,12 @@
 tags:
   - hardware
   - electricity
+aliases:
+  - Propositional Clause
 ---
+# Definition
+A [[Literal]] or a [[Or|Disjunction]] of two or more [[Literal|Literals]]
+# Truth Table
 The labels $M_{i}$ for rows in a [[Truth Table]] that cause low output.
 Used to express circuit behavior.
 ![[Maxterm-20250515125906326.webp|496]]

@@ -7,4 +7,4 @@ aliases:
   - DNF Formula
 ---
 # Definition
-A [[Literal Term]] or [[Or|Disjunction]] of two or more [[Literal Term]].
+A [[Or|Disjunction]] of [[Minterm]]

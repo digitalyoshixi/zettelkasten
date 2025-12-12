@@ -4,7 +4,7 @@ tags:
   - math
 ---
 # Theorem
-Every [[Propositional Formula]] is logically equivalent to a [[Conjunctive Normal Form|CNF Formula]].
+Every [[Propositional Formula]] is logically equivalent to a [[Math/Conjunctive Normal Form|CNF Formula]].
 # Example
 $F = (X \leftrightarrow Y) \vee (X \to Z)$
 1. Start with the truth table, and fill out the $\neg F$ column aswell

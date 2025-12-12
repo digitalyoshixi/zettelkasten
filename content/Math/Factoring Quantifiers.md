@@ -2,7 +2,7 @@
 tags:
   - math
 ---
-For:
+-For:
 - [[Quantifier]] $Q$ 
 - [[Logical Predicate]] $E$
 Then:

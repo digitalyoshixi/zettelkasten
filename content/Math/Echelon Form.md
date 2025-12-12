@@ -21,4 +21,4 @@ Note: Condition 1 causes the leading terms to form a staircase from top-left to 
 # Concepts
 - [[Every Linear System Has A Row-Echelon Form Theorem]]
 - [[Elimination Algorithm]]
-- [[Basic and Free Variables]]
+- [[Free Variable]]

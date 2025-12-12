@@ -15,3 +15,5 @@ Where:
 - Each [[Quantifier]] $Q_{i}$ is either $\exists, \forall$
 - Each $x_{i}$ is a variable
 - $E$ is quantifier [[Free Predicate Variable]]
+# Intuition
+It is a formula where all quantifiers are in the front, and there is one formula.

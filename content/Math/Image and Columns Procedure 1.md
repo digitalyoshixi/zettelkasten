@@ -31,5 +31,5 @@ Where $D$ is the differentiation function, find a basis for the image $D : P_{3}
 0 & 0 & 0 & 3 & 0\\
 \end{array}\right]
 $$
-5. Find the [[Basic and Free Variables|Basic]] solns of $[D]_{\alpha}^{\beta} [\overrightarrow{v}]_{\alpha} = \overrightarrow{0}$. We get:
+5. Find the [[Free Variable|Basic]] solns of $[D]_{\alpha}^{\beta} [\overrightarrow{v}]_{\alpha} = \overrightarrow{0}$. We get:
 	1. $\{ D(x), D(x^{2}), D(x^{3})\} = \{ 1,2x,3x^{2} \}$
