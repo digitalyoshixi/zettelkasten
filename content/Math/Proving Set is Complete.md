@@ -5,8 +5,9 @@ tags:
 ---
 Use [[Proof by Structural Induction]]
 # Structure
+We want to show that set $C$ is complete
 1. Define set $\mathcal{G}$ that [[Complete Set of Boolean Connectives|uoc]] $\{ \neg, \wedge \}$ or $\{ \neg, \vee \}$
-2. Use [[Proof by Structural Induction]] to prove that for every forumla $F \in \mathcal{G}, \exists F'$ s.t $F'$ [[Complete Set of Boolean Connectives|uoc]] $\{ \neg, \wedge \}$ or $\{ \neg, \vee \}$
+2. Use [[Proof by Structural Induction]] to prove that for every forumla $F \in \mathcal{G}, \exists F'$ s.t $F'$ [[Complete Set of Boolean Connectives|uoc]] $C$
 # Example
 Prove that [[Zero Identity]] and implication forma complete set.
 $\{ 0, \to \}$
