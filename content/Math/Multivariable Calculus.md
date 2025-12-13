@@ -81,7 +81,7 @@ aliases:
 - [[Hessian Matrix]]
 ### Week 5
 - [[Unit Normals to a Curve]]
-- [[Necessary Conditions for Differentiability]]
+- [[Differentiable Implies Continuity]]
 - [[Pure Partial Derivative]]
 - [[Iterated Partial Derivative]]
 - [[Class Functions]]
