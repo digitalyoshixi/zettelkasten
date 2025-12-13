@@ -4,6 +4,7 @@ tags:
 aliases:
   - Git Removing Sensitive Information
   - Git Removing API Keys
+  - Git Remove Secrets
 ---
 A tool to remove [[Application Program Interface|API]] keys within a github repo by overwriting history.
 Requires everybody who's cloned to repo to re-clone, so that they don't keep the old history.
