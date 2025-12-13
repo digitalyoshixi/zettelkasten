@@ -76,6 +76,7 @@ aliases:
 - [[Directional Derivative]]
 - [[Directional Derivative and Gradients]]
 - [[Gradient as the Direction of Fastest Increase]]
+- [[Plane Tangent to Surface at Point]]
 - [[Gradient Perpendicular to Level Sets]]
 - [[Hessian Matrix]]
 ### Week 5
