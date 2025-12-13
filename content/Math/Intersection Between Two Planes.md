@@ -17,7 +17,7 @@ $\implies 3y-9z-3= 0$
 $\implies y = 3z+1$
 $\implies 2z+3z+1-4z+7 = 0$
 $\implies x = \frac{z}{2}-4$
-$\implies$ we get the line relations by setting $z$ as$2t$:
+$\implies$ we get the line relations by setting $z$ as $2t$:
 - $x=t-4$
 - $y=6t+1$
 - $z=2t$, $t \in \mathbb{R}$
