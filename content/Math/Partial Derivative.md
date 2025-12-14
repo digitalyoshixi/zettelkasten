@@ -5,6 +5,9 @@ tags:
 ---
 A derivative used as a part of a larger multidimensional derivative.
 We only derive one term and treat all others as constants.
+# Definition
+For $\frac{ \partial f}{\partial x}$ at $(c_{1},c_{2})$
+$$\frac{\partial f}{\partial x}(c_{1},c_{2}) = \lim_{ h \to 0 } \frac{f(c_{1}+h, c_{2}) - f(c_{1},c_{2})}{h}$$
 # Notations
 - $\frac{\partial}{\partial x}f(x,y)$
 - $f_{x}$
