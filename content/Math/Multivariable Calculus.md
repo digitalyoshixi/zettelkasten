@@ -108,7 +108,6 @@ aliases:
 - [[First Derivative Test for Local Extrema]]
 - [[Hessian Matrix|Hessian Function]]
 - [[Positive Definite Matrix]]
-- [[Test for Definiteness]]
 - [[Second Derivative Test for Local Extrema]]
 - [[Minimize Distance Squared]]
 - [[Disk]]
