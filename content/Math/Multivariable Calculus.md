@@ -127,6 +127,7 @@ aliases:
 - [[Lagrange With Multiple Constraints]]
 - [[Arithmetic-Geometric Mean Inequality]]
 ### Week 8
+- [[Domain|Region]]
 - [[Cavalieri's Principle]]
 - [[Double Integral Volume]]
 - [[Definite Integral Riemann Sum Definition]]
