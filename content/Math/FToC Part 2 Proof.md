@@ -21,7 +21,7 @@ tags:
 10. $= \lim_{x \to 0}\frac{1}{n}\int_x^{x+h}f(t)dt$
 11. $= \lim_{x \to 0}\frac{1}{x + h - x}\int_x^{x+h}f(t)dt$
 12. Notice that $f$ is [[Continuity|Continuous]] on [[Without Loss of Generality]] $[x,x+h] \subset [a,b]$
-13. Then, by [[MVT for Integrals]], 
+13. Then, by [[Mean Value Theorem for Integrals]], 
 14. $\exists c \in [x,x+h]$ s.t $f(c) = \frac{1}{x+h-x}\int_x^{x+h}f(t)dt$ (Denoted as $(*)$)
 15. $= \lim_{h \to 0}f(c)$ by $(*)$
 16. Note that $c$ is not constant with respect to $h$ as $c \in [x,x+h]$. In other words, $c$ is between this interval and changes as $h$ changes.
