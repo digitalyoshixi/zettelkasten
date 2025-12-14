@@ -11,6 +11,22 @@ aliases:
 - `parker.glynn.adey@utoronto.ca`
 - `t.hessamipilehrood@utoronto.ca`
 - Tutorial Schedule: https://q.utoronto.ca/courses/405948/pages/tutorial-schedule
+# Final Exam
+- [ ] Derivatives
+- [ ] Tangent planes
+- [ ] Taylor Approximation
+- [ ] Lagrange
+- [ ] Order of Integration
+- [ ] Change of Variable
+- [ ] Triple Integral
+- [ ] Riemann Sums
+- [ ] Regions of Integration
+- [ ] Volumes
+### Extra
+- [ ] [[Limits Across Paths]]
+- [ ] [[Epsilon-Delta Proof]]
+- [ ] [[Squeeze Theorem]]
+- [ ] [[Taylor Series]]
 # Concepts
 ### Week 1
 - [[Math/Graph]]

@@ -40,6 +40,7 @@ A limit exists if it takes the same value from all [[Limits Existence Implies Eq
 - [[Squeeze Theorem]]
 - [[L'Hopital's Rule]]
 - [[Limits Using Polar Coordinates]]
+- [[Taylor Series]]
 # Graphic Proof
 - The limit is that point it naturally approaches. Follow the curve, not the jump
 ![[Limits-20240207200022123.webp|254]]

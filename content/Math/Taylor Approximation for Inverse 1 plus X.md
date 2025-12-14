@@ -4,5 +4,5 @@ tags:
   - calculus
 ---
 $$
-\frac{1}{1-x} \sim T(x) = 1 - x + x^{2} - \dots
+\frac{1}{1+x} \sim T(x) = 1 - x + x^{2} - \dots
 $$
