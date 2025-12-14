@@ -6,8 +6,12 @@ aliases:
   - Linear Map
   - Linear Function
 ---
-A function T that maps vectors from [[Vector Space]] V into another [[Vector Space]] W given by a transformation.
-# Definition
+A [[Transformation]] T that maps vectors from [[Vector Space]] V into another [[Vector Space]] W given by a transformation.
+# Transformation Definition
+- $M$ as a $n \times n$ matrix
+- $\det(M) \neq 0$
+- $T(x) = Mx$ ([[Matrix Multiplication]])
+# Vector Space Definition
 - Suppose $(V,\boxplus,\boxdot)$ and $(W,\oplus, \odot)$ are vector spaces.
 A linear transformation function of $T : V\to W$ is a function that follows the axioms:
 - Additivity $\forall u,v \in V, T(u \boxplus v) = T(u)\oplus T(v)$

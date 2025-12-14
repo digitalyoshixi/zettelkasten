@@ -159,6 +159,7 @@ aliases:
 - [[Polar Coordinate]]
 - [[Cylindrical Coordinate]]
 - [[Spherical Coordinate]]
+- [[Transformation]]
 - [[Injective Functions|Injective]]
 - [[Surjective Functions|Surjective]]
 - [[Bijective Functions|Bijection]]
