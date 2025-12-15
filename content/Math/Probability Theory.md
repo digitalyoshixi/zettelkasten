@@ -35,7 +35,6 @@ Course taught by Prof. Sotos.
 - [[Intersection Notation]]
 - [[Probability Function]]
 - [[Probability Axioms]]
-- [[Probability Model]]
 - [[Probability Rules]]
 - [[Subset]]
 - [[Disjoint]]

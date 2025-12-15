@@ -15,5 +15,5 @@ r = # of boxes
 $_{n}P_{r} = \frac{n!}{(n-r)!}$
 # Concepts
 - [[Permutations with Repetition]]
-- [[Permutations with Identical Items]]
+- [[Multinomial Coefficient]]
 - [[Pascal Routes]]
