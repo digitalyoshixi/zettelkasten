@@ -20,7 +20,7 @@ aliases:
 - [x] Change of Variable ✅ 2025-12-15
 - [x] Triple Integral ✅ 2025-12-15
 - [ ] Riemann Sums
-- [ ] Regions of Integration
+- [x] Regions of Integration ✅ 2025-12-15
 - [ ] Volumes
 ### Extra
 - [x] [[Limits Across Paths]] ✅ 2025-12-15
