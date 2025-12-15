@@ -8,7 +8,7 @@ aliases:
 A notation used to divide combinations into smaller sub-boxes.
 # Notation
 $$
-C_{a,b,c}^{n} = \binom{n}{a, b, c} = \frac{5!}{a!b!c!}
+C_{a,b,c}^{n} = \binom{n}{a, b, c} = \frac{n!}{a!b!c!}
 $$
 Where:
 - $a+b+c = n$
