@@ -12,21 +12,21 @@ aliases:
 - `t.hessamipilehrood@utoronto.ca`
 - Tutorial Schedule: https://q.utoronto.ca/courses/405948/pages/tutorial-schedule
 # Final Exam
-- [ ] Derivatives
+- [x] Derivatives ✅ 2025-12-15
 - [ ] Tangent planes
 - [ ] Taylor Approximation
 - [ ] Lagrange
-- [ ] Order of Integration
-- [ ] Change of Variable
-- [ ] Triple Integral
+- [x] Order of Integration ✅ 2025-12-15
+- [x] Change of Variable ✅ 2025-12-15
+- [x] Triple Integral ✅ 2025-12-15
 - [ ] Riemann Sums
 - [ ] Regions of Integration
 - [ ] Volumes
 ### Extra
-- [ ] [[Limits Across Paths]]
+- [x] [[Limits Across Paths]] ✅ 2025-12-15
 - [ ] [[Epsilon-Delta Proof]]
 - [ ] [[Squeeze Theorem]]
-- [ ] [[Taylor Series]]
+- [x] [[Taylor Series]] ✅ 2025-12-15
 # Concepts
 ### Week 1
 - [[Math/Graph]]
@@ -175,6 +175,7 @@ aliases:
 - [[Polar Coordinate]]
 - [[Cylindrical Coordinate]]
 - [[Spherical Coordinate]]
+- [[Polar Coordinate Integral]]
 - [[Transformation]]
 - [[Injective Functions|Injective]]
 - [[Surjective Functions|Surjective]]
