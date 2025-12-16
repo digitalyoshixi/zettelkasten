@@ -10,3 +10,4 @@ A subset of a larger statistic used to estimate the [[Expectation|Mean]] $\mu$.
 - Sample statistics are [[Functions of Random Variables|RV Transformation]] of sample data 
 # Statistics
 - [[Sample Mean]]
+- [[Sample Variance]]
