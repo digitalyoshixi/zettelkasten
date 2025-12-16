@@ -11,7 +11,8 @@ aliases:
   - Transformation
 ---
 The process of applying a Real [[Function]] on a random variable to produce a new random variable.
-Functions of random variables are random variables aswell.
+# Theorems
+- [[Functions of Random Variables|Functions of Random Variables are Random Variables]]
 # Example
 $Y(\cdot) = h(X(\cdot))$
 With:

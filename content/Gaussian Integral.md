@@ -17,7 +17,13 @@ $$
 |\frac{\partial(x,y)}{\partial(r, \theta)}| = r
 $$
 $$
-\int_{-\infty}^{\infty} \int_{-\infty}^{\infty} e^{-x^{2}-y^{2}}dxdy
+\implies \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} e^{-x^{2}-y^{2}}dxdy
 = 
 \int_{0}^{2\pi} \int_{0}^{\infty} e^{-1[(r \sin \theta)^{2} + (r \cos \theta)^{2}]}dxdy
 $$
+$$
+= 
+\int_{0}^{2\pi} \int_{0}^{\infty} e^{-r^{2} }dxdy
+= \pi
+$$
+

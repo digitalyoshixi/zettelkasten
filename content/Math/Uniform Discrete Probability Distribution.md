@@ -9,6 +9,13 @@ Occurs when in a single trial, all outcomes are equally likely.
 - All outcomes $x$ have probability $P(x)=\frac{1}{n}$
 - The sum of all probabilities in $S$ is $1$
 ![[Uniform Discrete Probability Distribution-20241203165244513.webp]]
+# PMF
+$$p_{X}(x) = \frac{1}{n} $$
+# CDF
+- $x \in [a,b]$
+$$
+F_{X}(x) = \frac{x - a + 1}{n}
+$$
 ### Example
 Random number generator between 1 and 5 inclusive.
 
