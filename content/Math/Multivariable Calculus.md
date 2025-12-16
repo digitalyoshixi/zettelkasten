@@ -13,9 +13,9 @@ aliases:
 - Tutorial Schedule: https://q.utoronto.ca/courses/405948/pages/tutorial-schedule
 # Final Exam
 - [x] Derivatives ✅ 2025-12-15
-- [ ] Tangent planes
+- [x] Tangent planes ✅ 2025-12-16
 - [ ] Taylor Approximation
-- [ ] Lagrange
+- [x] Lagrange ✅ 2025-12-16
 - [x] Order of Integration ✅ 2025-12-15
 - [x] Change of Variable ✅ 2025-12-15
 - [x] Triple Integral ✅ 2025-12-15
@@ -24,10 +24,9 @@ aliases:
 - [ ] Volumes
 ### Extra
 - [x] [[Limits Across Paths]] ✅ 2025-12-15
-- [ ] [[Epsilon-Delta Proof]]
-- [ ] [[Squeeze Theorem]]
 - [x] [[Taylor Series]] ✅ 2025-12-15
 - [ ] [[Integration by Substitution]]
+- [ ] Integration practice
 # Concepts
 ### Week 1
 - [[Math/Graph]]
