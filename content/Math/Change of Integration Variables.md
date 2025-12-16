@@ -12,6 +12,6 @@ $$
 \frac{\partial y}{\partial u} & \frac{\partial y}{ \partial u}
 \end{array}\right] |
 $$
-- $| \frac{d(x,y)}{d(u,v)}| = r$ in [[Polar Coordinate]]
-- $| \frac{d(x,y)}{d(u,v)}| = r$ in [[Cylindrical Coordinate]]
-- $| \frac{d(x,y)}{d(u,v)}| = p^{2}\sin \phi$ in [[Spherical Coordinate]]
+- $| \frac{d(x,y)}{d(r,\theta)}| = r$ in [[Polar Coordinate]]
+- $| \frac{d(x,y)}{d(r,\theta, z)}| = r$ in [[Cylindrical Coordinate]]
+- $| \frac{d(x,y)}{d(p,\theta, \phi)}| = -p^{2}\sin \phi$ in [[Spherical Coordinate]]

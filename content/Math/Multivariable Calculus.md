@@ -27,6 +27,7 @@ aliases:
 - [ ] [[Epsilon-Delta Proof]]
 - [ ] [[Squeeze Theorem]]
 - [x] [[Taylor Series]] ✅ 2025-12-15
+- [ ] [[Integration by Substitution]]
 # Concepts
 ### Week 1
 - [[Math/Graph]]
