@@ -14,14 +14,14 @@ aliases:
 # Final Exam
 - [x] Derivatives ✅ 2025-12-15
 - [x] Tangent planes ✅ 2025-12-16
-- [ ] Taylor Approximation
+- [x] Taylor Approximation ✅ 2025-12-16
 - [x] Lagrange ✅ 2025-12-16
 - [x] Order of Integration ✅ 2025-12-15
 - [x] Change of Variable ✅ 2025-12-15
 - [x] Triple Integral ✅ 2025-12-15
 - [ ] Riemann Sums
 - [x] Regions of Integration ✅ 2025-12-15
-- [ ] Volumes
+- [x] Volumes ✅ 2025-12-16
 ### Extra
 - [x] [[Limits Across Paths]] ✅ 2025-12-15
 - [x] [[Taylor Series]] ✅ 2025-12-15
