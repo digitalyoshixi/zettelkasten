@@ -173,9 +173,9 @@ aliases:
 - [[Volume]]
 ### Week 11
 - [[Polar Coordinate]]
+- [[Polar Coordinate Integral]]
 - [[Cylindrical Coordinate]]
 - [[Spherical Coordinate]]
-- [[Polar Coordinate Integral]]
 - [[Transformation]]
 - [[Injective Functions|Injective]]
 - [[Surjective Functions|Surjective]]
