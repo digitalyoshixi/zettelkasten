@@ -19,7 +19,7 @@ Y
 \end{array}\right]
 )
 $$
-if they have a bivaraite normal joint pdf
+if they have a bivariate normal joint pdf
 # Joint PDF
 $$
 f_{X,Y}(x,y)  = \frac{1}{\sqrt{ (2\pi)^{2} 

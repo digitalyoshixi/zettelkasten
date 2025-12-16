@@ -137,7 +137,8 @@ Course taught by Prof. Sotos.
 - [[Distribution of Maximum Order Statistic]]
 - [[Distribution of Minimum Order Statistic]]
 - [[Sum of Random Variables]]
-- [[Convolution Method]]
+	- [[CDF of Sum of Random Variables]]
+	- [[Convolution Method]]
 ### Week 9
 - [[Covariance]]
 - [[Correlation]]
