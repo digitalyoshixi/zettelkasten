@@ -21,3 +21,13 @@ F(x,\lambda) = \begin{cases}
 \end{cases}
 $$
 ![[Exponential Continuous Probability Distribution-20250930142027244.webp]]
+# [[Expectation]]
+$$E(X) = \frac{1}{\lambda}$$
+# [[Variance]]
+$$
+\frac{1}{\lambda^{2}}
+$$
+# [[Moment Generating Function|MGF]]
+$$
+\frac{\lambda}{\lambda - t} , t < \lambda
+$$

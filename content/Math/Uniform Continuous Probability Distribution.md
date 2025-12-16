@@ -24,3 +24,11 @@ $$F(x) =
 \end{cases}
 $$
 ![[Uniform Random Variable-20250930141801235.webp]]
+# Expectation
+$$E(X) = \frac{u+l}{2}$$
+# Variance
+$$V(X) = \frac{(u-l)^{2}}{12}$$
+# [[Moment Generating Function|MGF]]
+$$
+\frac{e^{tu}-e^{tl}}{t(u-l)}
+$$

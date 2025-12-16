@@ -21,6 +21,14 @@ With:
 $$
 F(x) = \frac{1}{2}[1+\text{erf}(\frac{x-\mu}{\sigma \sqrt{ 2 }})]
 $$
+# [[Expectation]]
+$$E(X) = \mu$$
+# [[Variance]]
+$$V(X)= \sigma^{2}$$
+# [[Moment Generating Function|MGF]]
+$$
+\exp \{ ut + \frac{1}{2} \sigma^{2}t^{2} \}
+$$
 # Concepts
 - [[Standard Normal Distribution]]
 - [[Normal Distribution Standard Deviation Approximation]]
