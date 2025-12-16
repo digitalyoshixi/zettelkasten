@@ -14,6 +14,10 @@ $$X \sim \text{Binomial}(n,p) \implies p_{X}(x) = \binom{n}{x}p^{x}(1-p)^{n-x}$$
 $$E(X) = np$$
 # [[Variance]]
 $$V(X) = np(1-p)$$
+# [[Moment Generating Function]]
+$$
+(1 - p + pe^{t})^{n}
+$$
 # Examples
 ### Example 1
 heads probability 50%, tails probability 50%. probability distribution of flipping 3 times

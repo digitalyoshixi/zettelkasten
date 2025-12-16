@@ -78,7 +78,7 @@ Course taught by Prof. Sotos.
 - [[Cumulative Distribution Function]]
 - [[PMF From CDF]]
 - [[PDF From CDF]]
-- [[CDF and RDF Example]]
+- [[CDF and PDF Example]]
 - [[Bernoulli Trials|Bernoulli Random Variables]]
 - [[Bernoulli Distribution]]
 - [[Binomial Random Variable]]
@@ -97,7 +97,7 @@ Course taught by Prof. Sotos.
 ### Week 5
 - [[Continuous Random Variable]]
 - [[Probability Density Function|PDF]]
-- [[PDF to CDF]]
+- [[PDF From CDF]]
 - [[Uniform Continuous Probability Distribution]]
 - [[Exponential Continuous Probability Distribution]]
 - [[Expected Value of Continuous RV]]

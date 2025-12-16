@@ -8,7 +8,7 @@ aliases:
 This is using pascal triangle to expand binomials.
 So a degree 3 binomial will match the coefficients with that row in the pascal's triangle.
 # Shorthand notation
-$(x+y)^n = \sum\limits_{i-0}^n = \binom{n}{i} x^{i}y^{n-i}$
+$(x+y)^n = \sum\limits_{i-0}^n  \binom{n}{i} x^{i}y^{n-i}$
 ### Corrolary
 $$\sum_{r=0}^{n} \binom{n}{r} = 2^{n}$$
 # Examples

@@ -26,6 +26,10 @@ $$F_{X}(x) = P(X < x) = \sum_{k=0}^{x } p_{x}(k) = 1-q^{x+1}, \forall x \in \mat
 $E(Y)=\sum\limits_{y=1}^\infty = \frac{q}{p}$
 # Variance
 $\sigma^{2} = \frac{q}{p^{2}}$
+# [[Moment Generating Function]]
+$$
+\frac{pe^{t}}{1 - (1-p)e^{t}}
+$$
 ### Example
 Calculate the probability distribution for getting out of jail in MONOPOLY in x rolls of dice.
 - $p  = 6/36 = 1/6$

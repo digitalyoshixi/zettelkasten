@@ -18,3 +18,5 @@ The collections of probabilities $P(X \in B)$ for all subsets $B$ of the real nu
 - [[Binomial Distribution]]
 - [[Geometric Distribution]]
 - [[Hypergeometric Distribution]]
+- [[Negative Binomial Distribution]]
+- [[Poisson Distribution]]

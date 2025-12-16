@@ -14,5 +14,9 @@ $$P(X=x)=\frac{\lambda^{x}}{x!}e^{-\lambda}, x = 0,1,2,\dots$$
 $E(X) = \lambda$
 # Variance
 $\sigma^{2} = \lambda$
+# [[Moment Generating Function|MGF]]
+$$
+\exp \{ \lambda(e^{t}-1) \}
+$$
 # Concepts
 - [[Poisson Approximation to Binomial]]

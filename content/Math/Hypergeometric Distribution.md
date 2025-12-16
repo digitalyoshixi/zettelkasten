@@ -25,7 +25,11 @@ n : population total set(universal set fit within the selection space)
 ![[Hypergeometric Distribution-20240122210727030.webp]]
 ![[Pasted image 20240122210828.png]]
 # Expectations
-$$E(x) = \frac{ra}{n}$$
+$$E(x) = \frac{nM}{N}$$
+# Variance
+$$
+n \frac{M}{N} \frac{N-M}{N} \frac{(N-n)}{(N-1)}
+$$
 # Example
 Probability distribution of the number of hearts in a 5 card hand from a standard deck of cards
 

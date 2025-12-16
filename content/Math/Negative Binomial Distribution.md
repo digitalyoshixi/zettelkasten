@@ -19,3 +19,8 @@ There is no CDF
 $E(X) = \frac{r}{p}$
 # [[Variance]]
 $\sigma^{2} = \frac{rq}{p^{2}}$
+# [[Moment Generating Function|MGF]]
+$$
+(\frac{pe^{t}}{1-(1-p)e^{t}})^{r}
+$$
+With $t < -\ln (1-p)$
