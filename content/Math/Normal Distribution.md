@@ -8,6 +8,7 @@ aliases:
   - Gaussian Distribution
 ---
 A type of [[Continuous Probability Distributions]]
+$$\mathcal{N}(\mu, \sigma^{2})$$
 Best used to model an average of independent RVs.
 This distribution can be modelled with the [[Density Function]]
 ![[Normal Distribution-20250930143421667.webp]]
