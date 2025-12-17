@@ -5,7 +5,7 @@ tags:
   - statistics
 ---
 The 3rd power [[Central Moment]]
-Describes asymmetry.
+Describes symmetry/asymmetry.
 $$
 E[(X-\mu)^{3}]
 $$

@@ -5,7 +5,7 @@ tags:
 ---
 The [[Weighted Means]] described by the distribution of a [[Random Variable]].
 It is the 2nd degree [[Central Moment]].
-Describes spread
+Describes spead/average of squared distances from mean.
 # Formula
 $V(X)=E((X-E(X))^{2}) =E(X^{2})-E(X)^{2}$
 - $\mu$ is $E(X)$ [[Expectation|Mean]]

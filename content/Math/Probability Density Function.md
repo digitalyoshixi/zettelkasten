@@ -9,7 +9,7 @@ aliases:
 ---
 A function used to specify the probability of a [[Random Variable|RV]] falling within a particular range of values. Maps a [[Random Variable|RV]] into a probability from $[0,1]$
 It measures the rate at which a given probability accumulates around $x$ of [[Random Variable|RV]] $X$
-![[Probability Density Function-20250927122848977.webp|285]]
+![[Probability Density Function-20250927122848977.webp|206]]
 # Definition
 The [[Probability Density Function|PDF]] is the function $f_{X}(x)$ such that:
 $$P(X \in [a,b]) = \int_{a}^{b}f_{X}(x)dx$$
