@@ -16,6 +16,7 @@ $$V(X) = \sigma^{2}$$
 - [[Law of Total Variance]]
 # Properties
 - $V(aX) = a^{2}V(X)$
+- Variance of linear combinations: $V(X+Y) = V(X)+V(Y)+2Cov(X,Y)$
 # Example
 - Sample of two people
 - Probability $60 \%$ that a person approves of the president
