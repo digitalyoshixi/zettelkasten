@@ -12,6 +12,8 @@ A [[Cascading Style Sheet|CSS]] pre-processor that allows for:
 - Rules
 # Concepts
 - [[Sass Syntax]]
+- [[Sass Variable]]
+- [[Sass Mixin]]
 # Boilerplate
 ```css
 @font-face {
