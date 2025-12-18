@@ -35,13 +35,13 @@ P(third tail) = 1/8
 ### Example 2
 Flip a coin 4 times. GIve the probability distribution where 'T' is the successful outcome T = the number of Tails. What is the expected number of 'T's?
 
-| T = t | P(T = 1) |
-| ----- | -------- |
-| 0     | 1/16     |
-| 1     | =$_{4}C_{1} * \left( \frac{1}{2} \right)^1 * \left( \frac{1}{2} \right)^3 = \frac{4}{16}$ |
-| 2     | =$_{4}C_{2} * \left( \frac{1}{2} \right)^2 * \left( \frac{1}{2} \right)^2 = \frac{6}{16}$         | 
-| 3     | 4/16         |
-| 4      | 1/16         |
+| T = t | P(T = 1)                                                                                  |     |
+| ----- | ----------------------------------------------------------------------------------------- | --- |
+| 0     | 1/16                                                                                      |     |
+| 1     | =$_{4}C_{1} * \left( \frac{1}{2} \right)^1 * \left( \frac{1}{2} \right)^3 = \frac{4}{16}$ |     |
+| 2     | =$_{4}C_{2} * \left( \frac{1}{2} \right)^2 * \left( \frac{1}{2} \right)^2 = \frac{6}{16}$ |     |
+| 3     | 4/16                                                                                      |     |
+| 4     | 1/16                                                                                      |     |
 This follows pascal triangle you see! If you add up all the probabilities, they should equal 1.
 1/16 + 4/16 + 6/16 + 4/16 + 1/16 = 16/16 = 1!
 The expected number is 2.
