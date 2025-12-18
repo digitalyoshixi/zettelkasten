@@ -9,5 +9,5 @@ $\mu - mean$
 $\sigma - sd$
 # Statistic
 data that describes data from sample
-$overline x - mean$
+$\overline x - mean$
 $s - sd$

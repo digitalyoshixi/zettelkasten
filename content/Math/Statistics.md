@@ -2,7 +2,10 @@
 tags:
   - math
   - statistics
+aliases:
+  - Experimental Probability
 ---
+
 Statistics is the gathering, organization, analysis and presentation of numerical information.
 It is pretty much Experimental [[Probability]]
 
