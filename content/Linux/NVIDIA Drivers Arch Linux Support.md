@@ -29,3 +29,5 @@ MODULES=(nvidia nvidia_modeset nvidia_uvm nvidia_drm)
 # Checking
 1. `reboot`
 2. `nvidia-smi`
+# Installation for 1070 (or Pascal GPUs)
+https://archlinux.org/news/nvidia-590-driver-drops-pascal-support-main-packages-switch-to-open-kernel-modules/
