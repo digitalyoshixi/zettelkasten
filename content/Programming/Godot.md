@@ -10,6 +10,7 @@ sudo pacman -S godot
 ```
 # Concepts
 - [[Godot Nodes]]
+- [[Godot Project Structure]]
 - [[Godot Scenes]]
 - [[GDScript]]
 # Guides
