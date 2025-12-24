@@ -14,6 +14,7 @@ A [[Cascading Style Sheet|CSS]] pre-processor that allows for:
 - [[Sass Syntax]]
 - [[Sass Variable]]
 - [[Sass Mixin]]
+- [[Sass Screen Sizes]]
 # Boilerplate
 ```css
 @font-face {
