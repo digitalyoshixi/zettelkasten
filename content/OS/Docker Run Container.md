@@ -19,7 +19,7 @@ docker run -d -p 1024:1024 -t <tagID>
 ```
 docker run -it --privileged <tagname>
 ```
-![[Docker-20240915002345746.webp]]
+![[Docker-20240915002345746.webp|701]]
 # Run Mounted Volume
 1. [[Docker Volume|Create Docker Volume]]
 2. 
