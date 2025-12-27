@@ -19,3 +19,4 @@ sudo pacman -S godot
 - [[Godot ConfigFile]]
 - [[Godot Signals]]
 - [[Godot Resource Saving System]]
+- [[Godot Area2D]]
