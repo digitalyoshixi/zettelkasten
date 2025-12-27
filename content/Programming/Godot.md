@@ -10,8 +10,12 @@ sudo pacman -S godot
 ```
 # Concepts
 - [[Godot Nodes]]
+- [[Godot Resource]]
 - [[Godot Project Structure]]
 - [[Godot Scenes]]
 - [[GDScript]]
 # Guides
 - [[Godot C++ Setup]]
+- [[Godot ConfigFile]]
+- [[Godot Signals]]
+- [[Godot Resource Saving System]]
