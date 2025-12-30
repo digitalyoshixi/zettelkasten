@@ -20,3 +20,4 @@ sudo pacman -S godot
 - [[Godot Signals]]
 - [[Godot Resource Saving System]]
 - [[Godot Area2D]]
+- [[Godot Sleep]]
