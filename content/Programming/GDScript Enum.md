@@ -1,6 +1,8 @@
 ---
 tags:
   - programming
+aliases:
+  - Godot Enum
 ---
 ```python
 enum Alignment {ALLY, NEUTRAL, ENEMY}
