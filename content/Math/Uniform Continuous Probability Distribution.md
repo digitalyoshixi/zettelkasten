@@ -17,8 +17,8 @@ $$
 ![[Uniform Random Variable-20250930141752842.webp]]
 # CDF Requirement
 $$F(x) =
-\begin{cases} \\
-0 & x < 1\\
+\begin{cases} 
+0 & x < l\\
 \frac{x-l}{u-l} & l \leq x \leq u\\
 1 & x > u\\
 \end{cases}
