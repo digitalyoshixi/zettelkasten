@@ -1,6 +1,8 @@
 ---
 tags:
   - programming
+aliases:
+  - Hash Table
 ---
 This is a one-way mapping from one datatype to another.
 ```python
