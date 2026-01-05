@@ -9,11 +9,7 @@ I started using [[Obsidian]] in 2024 after watching this video: [No Boilerplate]
 
 I aim to make this obsidian vault bloated asf
 # Courses
-- [[Probability Theory|STAB52]]
-- [[Multivariable Calculus|MATB41]]
-- [[Theory of Computation|CSCB36]]
-- [[Human Computer Interaction|CSCC10]]
-- [[Bioethics|PHLB09]]
+- [[Design and Analysis of Data Structures]]
 # Current Learning
 - [[Homomorphic Encryption Project]] 
 - [[Biological Computing Compiler Project]]
