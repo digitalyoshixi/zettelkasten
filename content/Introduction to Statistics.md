@@ -27,3 +27,8 @@ aliases:
 - [[Indicator Function for Branchless Piecewise Functions]]
 - [[Weak Law of Large Numbers|WLLN]]
 - [[Central Limit Theorem|CLT]]
+- [[Moment Generating Function|MGF]]
+- [[Linear Combination of Normal Variables]]
+- [[Exponential Theta Distribution]]
+- [[Gamma Theta Distribution]]
+- [[Beta Distribution]]

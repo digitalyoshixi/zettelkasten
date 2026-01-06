@@ -9,6 +9,8 @@ This is a safety theory that involves reverse engineering models to find the inn
 Not to be confused with [[Explainable Machine Learning]]
 # Concepts
 - [[Sparse Autoencoder|SAE]]
+- [[SHapley Additive exPlanations|SHAP]]
+- [[Local Interpretable Model-agnostic Explanations]]
 - [[Linear Representation]]
 - [[Neuron Superposition]]
 - [[Probe]]
