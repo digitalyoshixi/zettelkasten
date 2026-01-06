@@ -3,10 +3,8 @@ tags:
   - math
 ---
 The big one. Culminates everything we learned.
-
 ## Probability using permutations
 1 older bro, 1 younger bro, 5 other racers. what is probability that older bro first lane, younger bro in 2nd lane?
-
 $_{7}P_{2}$ = 42
 only 1 case where older bro is first, younger is second.
 1/42 

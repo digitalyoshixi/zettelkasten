@@ -12,6 +12,8 @@ Describing the likelihood of an [[Event]] from $[0,1]$.
 # Probability
 The probability is the [[Set Cardinality]] of an [[Event|Event]] divided by the [[Set Cardinality]] of the sample space.
 $$\frac{|E|}{|S|}$$
+# Indicator Expectation Definition
+$P(A) = E(I_{A})$
 # Concepts
 - [[Probability Function]]
 - [[Complement Probability]]

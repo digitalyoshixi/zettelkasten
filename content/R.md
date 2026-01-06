@@ -16,4 +16,8 @@ R
 ```
 # Concepts
 - [[R Data Types]]
-- [[R Plot]]
+- [[R Variable]]
+- [[R print()]]
+- [[R paste()]]
+- [[R plot()]]
+- [[R class()]]

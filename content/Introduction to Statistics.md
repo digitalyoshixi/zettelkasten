@@ -19,3 +19,9 @@ aliases:
 # Concepts
 ### Week 1
 - [[R]]
+- [[Probability]]
+- [[Expectation]]
+- [[Variance]]
+- [[Covariance]]
+- [[Indicator Random Variable|Indicator RV]]
+- [[Indicator Function for Branchless Piecewise Functions]]
