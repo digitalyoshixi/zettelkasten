@@ -20,3 +20,4 @@ By Eliezer Yudkowsky and Nate Soares
 - [[Intelligence Explosion]]
 - [[Grown Rather Than Crafted]]
 - [[Humans Will Not be Useful to AI]]
+- [[Law of Comparative Advantage]]
