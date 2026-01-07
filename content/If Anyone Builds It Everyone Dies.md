@@ -19,3 +19,4 @@ By Eliezer Yudkowsky and Nate Soares
 - [[Artificial Neural Network|ANN]]
 - [[Intelligence Explosion]]
 - [[Grown Rather Than Crafted]]
+- [[Humans Will Not be Useful to AI]]
