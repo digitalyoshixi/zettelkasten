@@ -10,7 +10,7 @@ I aim to make this obsidian vault bloated asf
 # Courses
 - [[Systems Programming|CSCB09]]
 - [[Design and Analysis of Data Structures|CSCB63]]
-- [[Programming Paradigms and Functional Programming|CSCC24]]
+- [[Principles of Programming Languages|CSCC24]]
 - [[Introduction to Statistics|STAB57]]
 - [[Ethics of Artificial Intelligence|PHlB18]]
 # Current Learning
