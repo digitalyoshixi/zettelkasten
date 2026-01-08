@@ -16,3 +16,5 @@ Running time $T(n)$ of an algorithm for input size $n$ is number of primitive op
 - Best-case
 - Average-case
 - Worst-case
+# Calculating Runtime Complexity
+Total running time = $\text{machine dependent cost} * \text{num of times}$

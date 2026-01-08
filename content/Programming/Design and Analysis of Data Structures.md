@@ -22,3 +22,6 @@ aliases:
 - [[Human Genome project]]
 - [[Electronic Commerce]]
 - [[Abstract Data Type|ADT]]
+- [[Insertion Sort]]
+- [[Time Complexity|Runtime Complexity]]
+- 
