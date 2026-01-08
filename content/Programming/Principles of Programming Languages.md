@@ -18,6 +18,10 @@ aliases:
 - No lecture recordings
 - Pre-posted lecture slides
 - No required textbook, optional textbooks
+	- John C Michell Concepts in Programming Languages
+	- R Kent Dybvig - The Scheme Programming Language
+	- Simon Thompson, Haskell: The craft of functional programming
+	- Ivan Bratko - Prolog - Programming for Artificial Intelligence
 - Markus to submit homework exercises for programming
 - Crowdmark to submit homework for hand-written
 # Concepts
@@ -29,3 +33,6 @@ aliases:
 - [[Assembler]]
 - [[Compiler]]
 - [[Interpreter]]
+- [[Pseudo Compilation]]
+- [[Just-in-time Compilation|JIT Compilation]]
+- [[Specification]]
