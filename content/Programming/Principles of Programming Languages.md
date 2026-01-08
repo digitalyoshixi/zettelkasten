@@ -10,4 +10,8 @@ aliases:
 - Syllabus: https://www.utsc.utoronto.ca/~atafliovich/cscc24/admin/courseinfosheet.pdf
 # Concepts
 ### Week 1
-- 
+- [[Philosophy/Language|Language]]
+- [[High-Level Language]]
+- [[Low-Level Language]]
+- [[Assembly]]
+- [[Assembler]]
