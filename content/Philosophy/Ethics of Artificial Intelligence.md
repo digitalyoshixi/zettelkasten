@@ -33,5 +33,4 @@ aliases:
 - [[Transformative AI|TAI]]
 - [[Artificial Superintelligence]]
 - [[AI Timeline]]
-- [[Regression]]
-- [[Anomaly Detection]]
+- [[AI Metrics]]

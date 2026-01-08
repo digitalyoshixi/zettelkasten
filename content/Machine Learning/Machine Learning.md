@@ -17,3 +17,4 @@ Machine learning is the process of training an adaptable algorithm from a set of
 - [[Sequence Modelling]]
 - [[Sequence-to-Sequence Modeling]]
 - [[Generative Modelling]]
+- [[Multi Modality]]

@@ -18,7 +18,7 @@ aliases:
 - [[Algorithm Analysis]]
 - [[Big O Notation]]
 - [[Big Theta Notation]]
-- [[Algorithm]]
+- [[Programming/Algorithm]]
 - [[Human Genome project]]
 - [[Electronic Commerce]]
 - [[Abstract Data Type|ADT]]

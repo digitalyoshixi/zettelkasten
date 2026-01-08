@@ -3,6 +3,8 @@ tags:
   - linux
 ---
 So based.
+# Concepts
+- [[Linux Kernel]]
 # Distros
 - [[Arch Linux|Arch]]
 - [[Debian]]
