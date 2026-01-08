@@ -62,3 +62,5 @@ tags:
 - Network topology mapper for a local subnet
 - VSCode liveshare but good with whiteboard and debugger view to allow for better sharing
 - Browser extension that will summarize a whole page for you, and can TTS a page aswell
+- Make a text editor
+- Make a UI library like [[Dear ImGUI]]
