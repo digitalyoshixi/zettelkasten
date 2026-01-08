@@ -24,4 +24,5 @@ aliases:
 - [[Abstract Data Type|ADT]]
 - [[Insertion Sort]]
 - [[Time Complexity|Runtime Complexity]]
-- 
+- [[Runtime Bounding]]
+- [[Big O Notation Proofs]]
