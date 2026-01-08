@@ -6,10 +6,13 @@ tags:
 Here are a wide variety of unsorted and sorted notes from courses books and stuff i find online.
 
 I started using [[Obsidian]] in 2024 after watching this video: [No Boilerplate](https://www.youtube.com/watch?v=DbsAQSIKQXk)
-
 I aim to make this obsidian vault bloated asf
 # Courses
-- [[Design and Analysis of Data Structures]]
+- [[Systems Programming|CSCB09]]
+- [[Design and Analysis of Data Structures|CSCB63]]
+- [[Programming Paradigms and Functional Programming|CSCC24]]
+- [[Introduction to Statistics|STAB57]]
+- [[Ethics of Artificial Intelligence|PHlB18]]
 # Current Learning
+- [[Emulation|Emulator]]
 - [[Homomorphic Encryption Project]] 
-- [[Biological Computing Compiler Project]]
