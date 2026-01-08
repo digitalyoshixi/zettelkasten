@@ -11,3 +11,9 @@ Machine learning is the process of training an adaptable algorithm from a set of
 - [[Reinforcement Learning]]
 - [[Self Supervised Learning]]
 - [[Semi Supervised Learning]]
+# Uses
+- [[Regression]]
+- [[Anomaly Detection]]
+- [[Sequence Modelling]]
+- [[Sequence-to-Sequence Modeling]]
+- [[Generative Modelling]]

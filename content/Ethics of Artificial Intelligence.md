@@ -12,10 +12,6 @@ aliases:
 - OH: Thurs 1:15-2:15PM KW384 and by appointment
 # Concepts
 ### Week 1
-- [[Artificial Intelligence]]
-- [[Artificial General Intelligence|AGI]]
-- [[Transformative AI|TAI]]
-- [[Artificial Superintelligence]]
 - [[Machine Learning]]
 - [[Deep Learning]]
 - [[AI Scaling Laws]]
@@ -25,3 +21,17 @@ aliases:
 - [[Good Old-Fashioned AI|GOFAI]]
 - [[Perceptron Model]]
 - [[ELIZA]]
+- [[Deep Blue]]
+- [[Probabilistic Graphical Models|PGM]]
+- [[AlphaGo Zero]]
+- [[AlphaFold]]
+- [[Transformer]]
+- [[Generative Pretrained Transformer]]
+- [[Narrow AI]]
+- [[Artificial Intelligence]]
+- [[Artificial General Intelligence|AGI]]
+- [[Transformative AI|TAI]]
+- [[Artificial Superintelligence]]
+- [[AI Timeline]]
+- [[Regression]]
+- [[Anomaly Detection]]
