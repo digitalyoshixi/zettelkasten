@@ -32,3 +32,6 @@ aliases:
 - [[Exponential Theta Distribution]]
 - [[Gamma Theta Distribution]]
 - [[Beta Distribution]]
+- [[Synthetic Distribution]]
+- [[t Distribution]]
+- [[F Distribution]]

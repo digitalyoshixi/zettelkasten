@@ -4,7 +4,9 @@ tags:
   - continuous_probability
   - distributions
 ---
-A normal distribution with a few caveats:
+A [[Continuous Probability Distributions]] $\mathcal{N}(0,1)$
+- If $X \sim \mathcal{N}(\mu, \sigma^{2}) \implies Z = \frac{X-\mu}{\sigma^{2}} \sim \mathcal{N}(0,1)$
+Has:
 - average($\mu|\overline x$) = 0
 - standard deviation $\sigma$ = 1
 # Distribution
