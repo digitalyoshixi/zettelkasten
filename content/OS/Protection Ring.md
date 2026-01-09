@@ -5,6 +5,10 @@ tags:
 aliases:
   - Kernel Level
   - Userland
+  - Ring 0
+  - Ring 1
+  - Ring 2
+  - Ring 3
 ---
 The layers of access and permissions software in an [[IT/Operating System]] can have.
 ![[Protection Ring-20240726014623769.webp]]

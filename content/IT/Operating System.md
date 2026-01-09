@@ -8,6 +8,7 @@ A general concept for a software that merges hardware and software resources.
 # Goals
 - Allocate system resources (CPU,RAM,Bandwidth) between different applications
 - Isolate applications from eachother
+- Control user programs and systems programs ([[Protection Ring]])
 - Provide interface through hardware
 - Provide common services such as network and disk services
 # OS Types
