@@ -8,3 +8,4 @@ A data structure that describes a file or directory.
 - Parent
 - Children
 They are unique for a given filesystem.
+![[Inode-20260109155029787.webp]]

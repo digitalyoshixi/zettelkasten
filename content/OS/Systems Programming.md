@@ -14,9 +14,25 @@ aliases:
 	- it-ia3170-49.utsc-labs.utoronto.ca
 	- it-ia3170-50.utsc-labs.utoronto.ca
 - Need to use VPN access to connect via [[Secure Shell Protocol|SSH]] into lab (https://security.utoronto.ca/services/vpn/usage-guide/)
+- Labs not graded
+- Ethics module 5%
+- PCRS prep 2%
+- Assignment 1 8%
+- Midterm 25%
+- Assignment 2 10%
+- Assignment 3 10%
+- Final exam 40%
 # Concepts
 ### Week 1
 - [[OS/Kernel|Kernel]]
 - [[Linux]]
 - [[Linux IO System Calls Interface]]
 - [[Syscall|System Calls]]
+- [[Unix]]
+- [[Operating System]]
+- [[File]]
+	- [[Inode]]
+- [[Directory]]
+- [[File Descriptor]]
+- [[Link]]
+- [[Permissions]]
