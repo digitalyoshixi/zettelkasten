@@ -34,3 +34,7 @@ aliases:
 - [[Artificial Superintelligence]]
 - [[AI Timeline]]
 - [[AI Metrics]]
+- [[Baptist]]
+- [[Bootlegger]]
+- [[Prometheus Myth]]
+- [[Millenarianism]]
