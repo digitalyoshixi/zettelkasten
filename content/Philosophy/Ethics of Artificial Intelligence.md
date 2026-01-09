@@ -38,3 +38,5 @@ aliases:
 - [[Bootlegger]]
 - [[Prometheus Myth]]
 - [[Millenarianism]]
+- [[Lump of Labour Fallacy]]
+- [[Marginal Revenue Productivity Theory of Wages]]
