@@ -2,6 +2,8 @@
 tags:
   - security
   - binary_exploitation
+aliases:
+  - Page Offset YOLO
 ---
 A red-team tactic to bypass [[Address Space Layout Randomization|ASLR]].
 - Everything in the program is relative to the base address
