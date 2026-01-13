@@ -7,3 +7,4 @@ tags:
 - [[Moores Law]]
 - [[Dataset Scaling Law]]
 - [[Parameter Scaling Law]]
+- [[Chinchilla Scaling Law]]

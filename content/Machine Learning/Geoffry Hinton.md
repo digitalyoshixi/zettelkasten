@@ -4,3 +4,5 @@ tags:
   - ai_safety
 ---
 The godfather of AI.
+# Concepts
+- [[Forward Forward Algorithm]]

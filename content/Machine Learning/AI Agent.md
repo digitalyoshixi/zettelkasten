@@ -24,3 +24,4 @@ They are:
 - [[Agent to Agent Protocol|A2A]]
 - [[Chain of Thought|CoT]]
 - [[Memory Processor]]
+- [[Agent Scaffold]]
