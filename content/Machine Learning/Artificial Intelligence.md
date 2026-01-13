@@ -11,3 +11,5 @@ A computational model that attempts to [[Simulation|Simulate]] human intelligenc
 - Not a perfect algorithm
 	- [[Stochastic Algorithm|Probabilistic]]
 	- Has imperfectly defined success criteria (Creative Writing)
+# Alternate Definitions
+- [[Turing Test]]

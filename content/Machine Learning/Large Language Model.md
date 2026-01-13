@@ -3,6 +3,7 @@ tags:
   - machine_learning
 aliases:
   - LLM
+  - Language Learning Model
 ---
 A self-learning agent that is a form of [[Generative AI]]. 
 A [[Language Model]] trained off of billions of parameters.
