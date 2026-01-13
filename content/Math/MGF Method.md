@@ -3,6 +3,7 @@ tags:
   - math
   - probability
   - statistics
+aliases:
 ---
 # Method
 [[Moment Generating Function|MGF]] uniquely characterizes the distribution of a [[Random Variable|RV]].
