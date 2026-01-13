@@ -10,4 +10,7 @@ $X \sim \text{Bernoulli}(p,q)$
 - $q = 1-p$
 $$p_{X}(1)=P(X=1)=p$$
 $$p_{X}(0)=P(X=0)=1-p=q$$
+
 ![[Bernoulli Distribution-20250918124626136.webp]]
+# Closed Form Formula
+$$P[X=x] = \theta^{x}(1-\theta)^{1-x}; x = 0,1$$
