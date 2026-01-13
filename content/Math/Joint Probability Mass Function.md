@@ -6,6 +6,7 @@ tags:
 aliases:
   - Marginal PMF
   - Discrete Probability Density Function
+  - Joint PMF
 ---
 Describes the probability of two [[Discrete Random Variable|Discrete RV]] being exactly equal to two values.
 # Definition

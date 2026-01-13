@@ -16,6 +16,8 @@ aliases:
 - Two assignments worth 10% each, first released mid-feb, second released mid-march
 - Students are forced to submit doctors note after missing midterm, it just automatically rolls over
 - Quizzes are open book - can use laptop, but don't email people
+- Final/midterm potential questions
+	- [[Methods of Moment Estimation|MME]]
 # Concepts
 ### Week 1
 - [[R]]
@@ -44,5 +46,5 @@ aliases:
 - [[Statistical Inference]]
 - [[Moment|Population Moment]]
 - [[Sample Moment]]
-- [[Methods of Moment Estimation]]
+- [[Methods of Moment Estimation|MME]]
 - [[Maximum Likelihood Estimator|MLE]]
