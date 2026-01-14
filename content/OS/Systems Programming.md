@@ -36,3 +36,8 @@ aliases:
 - [[File Descriptor]]
 - [[Link]]
 - [[Permissions]]
+### Week 2
+- [[C]]
+- [[C Command Line Arguments]]
+- [[File Descriptor]]
+- [[Streams]]

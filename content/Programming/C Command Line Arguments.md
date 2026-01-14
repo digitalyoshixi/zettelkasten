@@ -1,6 +1,8 @@
 ---
 tags:
   - c
+aliases:
+  - CLA
 ---
 inside the main method, you can take a few arguments.
 ```c
