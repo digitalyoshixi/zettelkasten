@@ -41,3 +41,5 @@ aliases:
 - [[C Command Line Arguments]]
 - [[File Descriptor]]
 - [[Streams]]
+- [[Access Control Model|ACL]]
+- [[POSIX]]

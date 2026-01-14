@@ -10,7 +10,7 @@ These are lists to allow/disallow access to a network or OS resources.
 The are used by:
 - [[Firewall]] 
 - [[IT/Operating System|OS]]
-- software.
+- Software
 Often used during:
 - [[Network Attached Storage|NAT]]
 - [[Quality of Service|QoS]]
