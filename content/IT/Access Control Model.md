@@ -6,7 +6,7 @@ aliases:
   - Access Control List
   - ACL
 ---
-These are lists to allow/disallow access to a network or OS resources.
+These are lists to allow/disallow access to a network, OS resources or files.
 The are used by:
 - [[Firewall]] 
 - [[IT/Operating System|OS]]

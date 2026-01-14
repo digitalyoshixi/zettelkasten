@@ -43,3 +43,5 @@ aliases:
 - [[Streams]]
 - [[Access Control Model|ACL]]
 - [[POSIX]]
+- [[Zero Trust Security|Zero Trust]]
+- [[Octal Mask]]

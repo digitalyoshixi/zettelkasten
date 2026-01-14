@@ -11,7 +11,7 @@ If you do not, the pointer will grab garbage addresses. [[Buffer Overflow]] vuln
 
 # Null PTR
 ```c
-int *ptr = NULL; // make a null pointer
+int *ptr = 0; // make a null pointer
 printf("%d", ptr); // will always be 0
 ```
 `0`
