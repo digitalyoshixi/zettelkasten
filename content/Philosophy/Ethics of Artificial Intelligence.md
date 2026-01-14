@@ -13,6 +13,14 @@ aliases:
 - Tutorials are primarily for discussions
 	- Attendance: 50%
 	- Participation: students offer high quality contributions
+- Quizzes 15%
+- Tutorial participation 10%
+- After-class reflections 15%
+	- Opinion about a topic
+	- Optinion about readings
+	- 
+- Midterm exam 20%
+- Final exam 40%
 # Concepts
 ### Week 1
 - [[Machine Learning]]
