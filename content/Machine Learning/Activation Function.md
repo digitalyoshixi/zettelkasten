@@ -9,3 +9,5 @@ This is a function used to cap a value between a certain threshold.
 - [[Rectified Linear Unit|ReLu]]
 - [[Sigmoid]]
 - [[Tanh]]
+# Concepts
+- [[Residual Connection]]

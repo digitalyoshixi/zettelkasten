@@ -15,10 +15,10 @@ aliases:
 	- Participation: students offer high quality contributions
 - Quizzes 15%
 - Tutorial participation 10%
-- After-class reflections 15%
+- After-class reflections 15%, you can choose to:
 	- Opinion about a topic
-	- Optinion about readings
-	- 
+	- Opinion about readings
+	- Raise a point of confusion
 - Midterm exam 20%
 - Final exam 40%
 # Concepts
