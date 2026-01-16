@@ -7,6 +7,7 @@ aliases:
 ---
 # Notes
 - Course by Purva Gawde
+- TA: Allie
 - purva.gawde@utoronto.ca
 - Assignments (4 total): 35%
 - Midterm Test: 25%
@@ -26,3 +27,5 @@ aliases:
 - [[Time Complexity|Runtime Complexity]]
 - [[Runtime Bounding]]
 - [[Big Omega Notation]]
+# Week 2
+- [[Limit Theorem for Runtime Bounding]]

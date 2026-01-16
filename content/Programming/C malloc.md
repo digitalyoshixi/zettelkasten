@@ -3,6 +3,8 @@ tags:
   - programming
   - c
   - memory
+aliases:
+  - malloc
 ---
 Is a C function to allow memory allocation to the [[OS Heap]].
 Requires [[stdlib.h]]

@@ -21,7 +21,7 @@ $\exists b \in \mathbb{R}^{+}, \exists n_0 \in \mathbb{N}, \forall n \in \mathbb
 A function $f(n) \in O(g(n))$ if the following conditions hold:
 - $\exists n_0 \in \mathbb{N}$
 - $\exists c\in \mathbb{R}$
-Such that: $0 \leq f(n) \leq c \cdot g(n)$
+Such that: $0 \leq f(n) \leq c \cdot g(n)$ when $n > n_{0}$
 ### Big O Notation Simplification
 Remove all coefficients and constants.
 - O(2n) -> O(n)
