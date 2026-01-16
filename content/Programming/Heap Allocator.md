@@ -5,7 +5,7 @@ tags:
 ---
 The heap allocator is the specific function within a standard library that is responbile for allocating memory in the [[OS Heap]] ([[C malloc]]).
 # Implementaitons
-- [[jemalloc]]
 - [[glibc malloc]]
+- [[jemalloc]]
 - [[PartitionAlloc]]
-- [[Virtu]]
+- [[VirtualAlloc]]
