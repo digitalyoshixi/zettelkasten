@@ -25,5 +25,6 @@ So based.
 - [[Linux SSH Setup]]
 - [[systemD]]
 - [[Linux Process Kill]]
+- [[Linux Find Largest Files]]
 # Viewing Source Code
 https://elixir.bootlin.com/linux/
