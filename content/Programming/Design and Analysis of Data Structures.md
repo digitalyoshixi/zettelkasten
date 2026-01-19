@@ -29,3 +29,5 @@ aliases:
 - [[Big Omega Notation]]
 # Week 2
 - [[Limit Theorem for Runtime Bounding]]
+# Week 3
+- [[AVL Tree]]
