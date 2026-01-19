@@ -7,6 +7,11 @@ A type of [[Self-Balancing Binary Search Tree]]
 Uses a [[Balance Factor]]
 # Height
 The height of the AVL Tree is the height of the left subtree minus the heght of the right subtree
+$$
+\text{minsize(h)} = \frac{\phi^{h+2}-(1-\phi)^{h+2}}{\sqrt{ 5 }}-1
+$$
+- With $\phi$ as [[Golden Ratio]]
+- With $h$ as the height of the subtree
 # Operations
 ### Insert
 1. Find the node to become parent of the new node
