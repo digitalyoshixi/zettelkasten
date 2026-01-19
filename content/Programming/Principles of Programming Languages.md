@@ -36,3 +36,13 @@ aliases:
 - [[Pseudo Compilation]]
 - [[Just-in-time Compilation|JIT Compilation]]
 - [[Specification]]
+### Week 2
+- [[Lexical Analysis|Tokenization]]
+- [[Parser|Syntactic Analysis]]
+- [[Chomsky Hierarchy]]
+- [[Regular Expression]]
+- [[Context Free Grammar|CFG]]
+- [[Extended Backus Naur Form]]
+- [[Parse Tree]]
+- [[Syntactic Ambiguity]]
+- [[Grammar Delimiter]]

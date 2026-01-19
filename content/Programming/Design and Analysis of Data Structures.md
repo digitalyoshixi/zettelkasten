@@ -29,5 +29,10 @@ aliases:
 - [[Big Omega Notation]]
 # Week 2
 - [[Limit Theorem for Runtime Bounding]]
+- [[Binary Search Tree|BST]]
+- [[AVL Tree]]
+- [[Red-Black Tree]]
+- [[B-Trees]]
+- [[Splay Tree]]
 # Week 3
 - [[AVL Tree]]
