@@ -62,4 +62,5 @@ aliases:
 - [[Sample Variance Well Known Theorem]]
 - [[E&R Theorem]]
 - [[Sample Mean Independent of Population Variance]]
-- [[Chi Squared Independent Distribution]]
+- [[Chi Squared Variance Independent Distribution]]
+- [[Covariance Does Not Imply Independence]]
