@@ -1,6 +1,8 @@
 ---
 tags:
   - philosophy
+aliases:
+  - Philosophical Zombie
 ---
 A being that:
 - Behaves physiologically and functionally as an ordinary human

@@ -11,3 +11,7 @@ Nobody really believes in this and there is not good reason to favour this
 The view that only one's own mind exist
 ### Epistemic Solipsism
 The view that one can know things only about ones own mind
+# Objections
+- [[Act Solipsism Noncorrelation]]
+# Related
+- [[Zombie]]

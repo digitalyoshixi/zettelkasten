@@ -6,5 +6,16 @@ tags:
 If a human cannot tell if they are speaking to an AI or [[Turing Machine]], then that [[Artificial Intelligence]] can be considered intelligent.
 # Concepts
 - [[Imitation Game]]
-# Examples
+# AI Knowledge Argument
+```standardform
+P1: We are able to convert any cognitive task to precise finite rules in a formal language
+P2: Any cognitive task done by a set of finite rules can be done on a computer (Church Turing Thesis)
+C: Any computer can do any human task
+```
+- For premise two, this is supported by the ([[Models of Computation Equivalence]])
+# Objections
+- [[Turing Test Theological Objection]]
+- [[Turing Test Consciousness Objection]]
+- [[Turing Test Various Disabilities Objection]]
+# Implementations
 - [[ELIZA]]

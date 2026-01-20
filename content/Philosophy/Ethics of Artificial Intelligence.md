@@ -70,3 +70,5 @@ aliases:
 - [[Phenomenal Consciousness]]
 - [[Intentionality]]
 - [[Alan Turing]]
+- [[Models of Computation Equivalence]]
+- [[John Searle]]
