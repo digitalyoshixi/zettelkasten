@@ -72,3 +72,4 @@ aliases:
 - [[Alan Turing]]
 - [[Models of Computation Equivalence]]
 - [[John Searle]]
+- [[AI Semantic Gap]]

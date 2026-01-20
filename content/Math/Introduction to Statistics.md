@@ -50,3 +50,6 @@ aliases:
 - [[Maximum Likelihood Estimator|MLE]]
 - [[Parameter Space]]
 - [[Sigma Algebra]]
+- [[Sampling Distribution]]
+### Week 3
+- [[Mean Squared Error]]

@@ -4,6 +4,13 @@ tags:
 aliases:
   - MSE
 ---
-A quantity that measures how wrong a model's predictions are.
-It is the squared differences between models predictions and the labels.
-A popular [[Loss Function]]
+Can be used to find the quality of an [[Estimator]].
+A popular [[Loss Function]] to measure how wrong a model's predictions are.
+# Formula
+$$MSE = Var + Bias^{2}$$
+# Definition
+- For $\theta$  as an unknown parameter
+- Suppose $T$ is an [[Estimator]] of $\theta$
+- $MSE_{\theta}(T) = E_{\theta}[(T- \theta)^{2}]$
+# Alternate Definition
+- [[MSE As Dart Boards]]

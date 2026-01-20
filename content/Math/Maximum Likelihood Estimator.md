@@ -26,13 +26,13 @@ The likelihood that a [[Parameter]] came from a distribution is the distribution
 # Computation of MLE
 - [[Likelihood Function]]
 - [[Log-Likelihood Function]]
-# Computation Example
+# Computation/Differentiation Technique Example
 Solve equation $\frac{\partial l(\theta)}{\partial \theta}$ for $X_{1},\dots,X_{n} \sim^{iid} \text{Poisson}(\lambda)$.
 $P[X=x] = \frac{e^{-\lambda}\lambda^{x}}{x!}$
 Then, $L(\lambda) = P[X_{1}=x_{1}] \times P[X_{2} = x_{2}] \times \dots \times P[X_{n} = x_{n}]$
 $= \frac{e^{-\lambda}\lambda^{x_{1}}}{x_{1}!} * \dots * \frac{e^{-\lambda}\lambda^{x_{n}}}{x_{n}!}$
 $= \frac{e^{-n \lambda}\lambda^{\sum_{i=1}^{n}x_{i}}}{\Pi_{i=1}^{n}x_{1}!}$
-# Finding MLE Example
+# Finding MLE Analytically Example
 For $X_{1},\dots,X_{n} \sim \text{Uniform}(0, \theta)$
 $f(x)=\frac{1}{\theta}$
 Then, $L(\theta) = \frac{1}{\theta}^{n}$

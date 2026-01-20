@@ -8,5 +8,5 @@ aliases:
 ---
 # Types
 - [[Point Estimation]]
-- [[Intveral Estimation]]
+- [[Interval Estimation]]
 - [[Hypothesis Testing]]

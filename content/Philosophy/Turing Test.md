@@ -17,5 +17,6 @@ C: Any computer can do any human task
 - [[Turing Test Theological Objection]]
 - [[Turing Test Consciousness Objection]]
 - [[Turing Test Various Disabilities Objection]]
+- [[Lady Lovelace Argument]]
 # Implementations
 - [[ELIZA]]

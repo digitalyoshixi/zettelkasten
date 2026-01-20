@@ -26,3 +26,4 @@ A Turing Machine $T$ is a 7-[[Tuple]] that consists of:
 - [[Binary Turing Machine]]
 - [[Turing Time Machine]]
 - [[Oracle Machine]]
+- [[Universal Turing Machine]]
