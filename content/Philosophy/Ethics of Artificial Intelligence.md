@@ -67,3 +67,6 @@ aliases:
 - [[LLM Memory Models]]
 - [[Catastrophic Forgetting]]
 - [[LLM Limitations]]
+- [[Phenomenal Consciousness]]
+- [[Intentionality]]
+- [[Alan Turing]]
