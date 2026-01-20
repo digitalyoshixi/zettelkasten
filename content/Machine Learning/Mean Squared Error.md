@@ -14,3 +14,10 @@ $$MSE = Var + Bias^{2}$$
 - $MSE_{\theta}(T) = E_{\theta}[(T- \theta)^{2}]$
 # Alternate Definition
 - [[MSE As Dart Boards]]
+# MSE Proof
+- $MSE[T] = var[T] + (E[T]- \theta)^{2}$
+- Note that $V[T-\theta] = E[(T-\theta)^{2}] - E[T-\theta]^{2}$
+- $\implies V[T] = MSE[T] - (E[T]- E[\theta])^2$
+- $\implies V[T] = MSE[T] - (E[T]- \theta)^{2}$
+- $\implies V[T] = MSE[T] - (Bias(T))^{2}$
+- $\implies MSE = V[T] + Bias[T]^{2}$
