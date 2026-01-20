@@ -18,6 +18,7 @@ aliases:
 - Quizzes are open book - can use laptop, but don't email people
 - Final/midterm potential questions
 	- [[Methods of Moment Estimation|MME]]
+	- [[E&R Theorem]]
 # Concepts
 ### Week 1
 - [[R]]
@@ -58,3 +59,7 @@ aliases:
 - [[Unbiasedness]]
 - [[Population Variance]]
 - [[Unbiasedness Identity]]
+- [[Sample Variance Well Known Theorem]]
+- [[E&R Theorem]]
+- [[Sample Mean Independent of Population Variance]]
+- [[Chi Squared Independent Distribution]]
