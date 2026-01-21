@@ -12,5 +12,9 @@ Oftentimes this payload is to spawn a [[Shell]] for arbitrary command execution
 # Tools
 - [[Python Pipe Shellcode]]
 - [[GCC Building Shellcode]]
+- [[rappel]]
+- [[Pwntools Shellcraft]]
 # Tips
 - [[Shellcode Explicit Bytesize Technique]]
+- [[Shellcode Bypass Forbidden Bytes Technique]]
+- [[Shellcode Multistage Shellcode]]

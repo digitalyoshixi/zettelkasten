@@ -7,7 +7,7 @@ tags:
 1. Write out shellcode as assembly
 2. Assemble with 
 ```
-gcc -nostdlib -static shellcode.s -o shellcode-elf
+gcc -wL,-N -nostdlib -static shellcode.s -o shellcode-elf
 ```
 3. Extract shellcode 
 ```
