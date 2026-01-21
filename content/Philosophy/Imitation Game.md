@@ -3,7 +3,7 @@ tags:
   - machine_learning
   - ai_safety
 ---
-A game used during [[Turing Test]]
+A game used during [[Turing Test]] with a [[Turing Von Neumann Architecture]] computer
 # Game
 1. We have the first game that has:
 	1. One man, one woman, one interrogator

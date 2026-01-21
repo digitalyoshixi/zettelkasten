@@ -15,8 +15,12 @@ C: Any computer can do any human task
 - For premise two, this is supported by the ([[Models of Computation Equivalence]])
 # Objections
 - [[Turing Test Theological Objection]]
+- [[Turing Test Heads in the Sand Objection]]
+- [[Turing Test Mathematical Objection]]
 - [[Turing Test Consciousness Objection]]
 - [[Turing Test Various Disabilities Objection]]
 - [[Lady Lovelace Argument]]
+- [[Turing Test Argument from Continuity in the Nervous System Objection]]
+- [[Turing Test Argument from Informality of Behavior Objection]]
 # Implementations
 - [[ELIZA]]
