@@ -5,8 +5,14 @@ tags:
 ---
 # Process
 1. Write out shellcode as assembly
-2. Assemble with `gcc -nostdlib -static shellcode.s -o shellcode-elf`
-3. Extract shellcode `objdump --dump-section .text=shellcode-raw shellcode-elf`
+2. Assemble with 
+```
+gcc -nostdlib -static shellcode.s -o shellcode-elf
+```
+3. Extract shellcode 
+```
+objdump --dump-section .text=shellcode-raw shellcode-elf
+```
 # Example
 ```
 .global _start
