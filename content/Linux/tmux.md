@@ -48,6 +48,7 @@ bind C-Space send-prefix
 - `prefix+z` : zoom into pane
 - `prefix+!` : convert pane into window
 - `prefix+x` : close current pane
+- `prefix+PG_UP` : enable scrolling
 # Commands
 # Concepts
 - [[Tmux Session]]

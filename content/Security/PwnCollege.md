@@ -17,3 +17,4 @@ Additionally, you can solve the challenges on your own machine, but you will hav
 1. [[OpenSSH Keygen]] and then store the values of the `key.pub` file into your pwncollege account.
 2. `ssh -i key hacker@dojo.pwn.college`
 3. Navigate to the `/challenge` directory
+4. Flag is always located at `/flag`
