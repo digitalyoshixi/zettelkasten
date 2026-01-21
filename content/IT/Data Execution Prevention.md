@@ -14,3 +14,6 @@ The operating system will mark certain addresses as non-executable meaning that 
 - `PROT_READ` : allows process to read memory
 - `PROT_WRITE` : allows process to write memory
 - `PROT_EXEC` : allows process to execute memory
+# Bypasses
+- [[mprotect]]
+- [[JIT Spraying]]

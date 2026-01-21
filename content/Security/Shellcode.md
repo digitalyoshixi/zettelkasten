@@ -14,6 +14,9 @@ Oftentimes this payload is to spawn a [[Shell]] for arbitrary command execution
 - [[GCC Building Shellcode]]
 - [[rappel]]
 - [[Pwntools Shellcraft]]
+- https://www.felixcloutier.com/x86/
+- https://syscall.sh/
+- http://ref.x86asm.net/coder64.html
 # Tips
 - [[Shellcode Explicit Bytesize Technique]]
 - [[Shellcode Bypass Forbidden Bytes Technique]]

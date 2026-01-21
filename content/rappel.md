@@ -2,4 +2,17 @@
 tags:
   - os
 ---
+# Installation
+```
+#!/bin/bash -ex
+
 git clone https://github.com/yrp604/rappel
+cd rappel
+make
+cd ..
+
+mkdir -p bin
+cd bin
+ln -s ../rappel/bin/* .
+cd ..
+```

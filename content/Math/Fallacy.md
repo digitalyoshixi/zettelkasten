@@ -10,4 +10,5 @@ Rules of inference for [[Contradiction|Contingencies]]. It shows why a statement
 # Fallacies
 - [[Fallacy of Affirming the Conclusion]]
 - [[Fallacy of Denying the Hypothesis]]
+- [[Fallacy of the Undistributed Middle]]
 - [[Inconsistent Premises]]
