@@ -12,3 +12,5 @@ Oftentimes this payload is to spawn a [[Shell]] for arbitrary command execution
 # Tools
 - [[Python Pipe Shellcode]]
 - [[GCC Building Shellcode]]
+# Tips
+- [[Shellcode Explicit Bytesize Technique]]
