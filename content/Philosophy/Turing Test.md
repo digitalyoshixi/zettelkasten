@@ -22,5 +22,6 @@ C: Any computer can do any human task
 - [[Lady Lovelace Argument]]
 - [[Turing Test Argument from Continuity in the Nervous System Objection]]
 - [[Turing Test Argument from Informality of Behavior Objection]]
+- [[Turing Test Argument from Extra-Sensory Perception]]
 # Implementations
 - [[ELIZA]]
