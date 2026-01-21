@@ -6,3 +6,5 @@ A type of vulnerability that involves a server running an attacker's code throug
 Seen in:
 - [[Cross Site Scripting|XSS]]
 - [[SQL Injection]]
+# Implementations
+- [[Morris Worm]]

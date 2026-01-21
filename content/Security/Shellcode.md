@@ -11,3 +11,4 @@ Oftentimes this payload is to spawn a [[Shell]] for arbitrary command execution
 - [[Shellcode For Printing ESP]]
 # Tools
 - [[Python Pipe Shellcode]]
+- [[GCC Building Shellcode]]
