@@ -15,3 +15,20 @@ A [[Linux Process]]
 - If file is a [[Dynamic Linking|Dynamically Linked]] [[Executable and Linkable Format|ELF]], kernel reads interpreter/loader defined in the ELF, and lets that interpreter take control. ([[Linux View File Interpreter]])
 - If file is [[Static Linking|Statically Linked]] [[Executable and Linkable Format|ELF]], kernel loads it directly
 - Other legacy file formats are checked
+### Dynamically Linked ELF Library Loading Process
+1. Program and interpreter loaded by kernel
+2. Locate libraries:
+	- Check [[LD_PRELOAD]] environment variable
+	- Check anything in /etc/ld.so.preload
+	- Check [[LD_LIBRARY_PATH]] environment variable for all [[Shared Object]] in there
+	- check DT_RUNPATH or DT_RPATH
+	- Check system wide conf /etc/ld.so.conf
+	- Check /lib and /usr/lib
+	- Interpreter loads the libraries
+3. Interpreter loads libraries
+### Statically Linked ELF Library Loading Process
+1. Libraries are directly inserted into the final memory space
+### Virtual Memory Space Allocation
+Each linux process gets a [[Virtual Memory Space]]
+### Initialization
+- [[C Constructor|Constructors]] are setup that run before the program is actually launched

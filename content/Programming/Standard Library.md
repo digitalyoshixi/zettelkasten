@@ -1,6 +1,8 @@
 ---
 tags:
   - c
+aliases:
+  - libc
 ---
 ### IO
 - [[printf()]]

@@ -45,4 +45,4 @@ RAM can be x32bit or x64bit
 - [[Windows RAM Requirements]]
 - [[RAM Troubleshooting]]
 - [[RAM Data Transfer Rate]]
-- [[Program Memory Layout]]
+- [[Virtual Memory Space]]
