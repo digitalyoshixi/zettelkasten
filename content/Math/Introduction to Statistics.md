@@ -54,7 +54,7 @@ aliases:
 - [[Sampling Distribution]]
 ### Week 3
 - [[Mean Squared Error]]
-- [[Bias]]
+- [[Math/Bias]]
 - [[Bias-Variance Tradeoff]]
 - [[Unbiasedness]]
 - [[Population Variance]]
