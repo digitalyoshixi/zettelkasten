@@ -3,7 +3,6 @@ tags:
   - c
   - binary_exploitation
 aliases:
-  - Stack Overflow
   - Stack Smashing
 ---
 A security flaw in which buffers on the [[OS Stack]] have their data overwritten by improper input validation.

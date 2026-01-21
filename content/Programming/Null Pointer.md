@@ -6,7 +6,7 @@ aliases:
 ---
 If you are initializing a pointer with no exact address, it is best practice to assign the pointer to be a null pointer.
 
-If you do not, the pointer will grab garbage addresses. [[Buffer Overflow]] vuln
+If you do not, the pointer will grab garbage addresses. [[Stack Overflow]] vuln
 ![[Null Pointer-20240201025235210.webp]]
 
 # Null PTR

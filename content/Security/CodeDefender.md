@@ -5,4 +5,4 @@ tags:
 ---
 A [[Obfuscation]] tool and [[Packing|Packer]] that prevents:
 - [[Patching]]
-- [[Buffer Overflow]]
+- [[Stack Overflow]]

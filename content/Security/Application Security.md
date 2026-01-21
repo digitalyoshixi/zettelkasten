@@ -7,7 +7,7 @@ aliases:
 ---
 # Vulnerabilities
 - [[Memory Injection]]
-- [[Buffer Overflow]]
+- [[Stack Overflow]]
 - [[Race Condition]]
 - [[Malicious Update]]
 - [[Injection Attack]]
