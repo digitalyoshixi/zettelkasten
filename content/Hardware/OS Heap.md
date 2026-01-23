@@ -7,5 +7,7 @@ aliases:
 A memory structure that stores memory without organization.
 Anything in the heap must be accessed with an [[Memory Addresses|Address]]
 # Concepts
+- [[Heap Chunk]]
+- [[Basic Model of the Heap]]
 - [[Bin]]
 - [[Heap Allocator]]
