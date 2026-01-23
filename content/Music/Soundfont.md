@@ -2,4 +2,4 @@
 tags:
   - music
 ---
-A [[Zip File]] of [[Wav]] audio files commonly associated with specific type of music.
+A [[Zip File]] of [[Waveform Audio File Format]] audio files commonly associated with specific type of music.
