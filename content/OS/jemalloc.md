@@ -4,6 +4,7 @@ tags:
   - linux
 ---
 The [[Heap]] allocation function in:
+- [[FreeBSD]]
 - [[OpenBSD]]
 - [[Redis]]
 - [[Android]]

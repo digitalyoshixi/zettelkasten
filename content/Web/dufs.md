@@ -5,7 +5,10 @@ tags:
 ---
 This is a file server capable of service static files.
 # Installation
-1. `https://github.com/sigoden/dufs.git`
+1. 
+```
+git clone https://github.com/sigoden/dufs.git
+```
 2. 
 ```
 docker run -v `pwd`:/data -p 5000:5000 --rm sigoden/dufs /data -A

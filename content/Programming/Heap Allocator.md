@@ -9,3 +9,5 @@ The heap allocator is the specific function within a standard library that is re
 - [[jemalloc]]
 - [[PartitionAlloc]]
 - [[VirtualAlloc]]
+- [[ptmalloc]]
+- [[dlmalloc]]
