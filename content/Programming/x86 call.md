@@ -8,3 +8,6 @@ tags:
 call addr
 ```
 Jumps to a specific address, and pushes [[rip|eip]].
+# Expanded Form
+```
+```

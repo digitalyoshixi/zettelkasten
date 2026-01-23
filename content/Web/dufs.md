@@ -11,10 +11,18 @@ git clone https://github.com/sigoden/dufs.git
 ```
 2. 
 ```
+cargo install dufs
+```
+### Running both read and write server
+```
+dufs :/mydir -A 
+```
+# Docker Usage
+```
 docker run -v `pwd`:/data -p 5000:5000 --rm sigoden/dufs /data -A
 ```
-# Running a both a read and write server
+### Running a both a read and write server
 ```
-docker run -d -v --restart unless-stopped `pwd`:/data -p 5000:5000 sigoden/dufs /data -A -p 5000
-docker run -d -v --restart unless-stopped `pwd`:/data -p 4000:4000 sigoden/dufs /data -p 4000
+sudo docker run -d -v --restart unless-stopped `pwd`:/data -p 5000:5000 sigoden/dufs /data -A -p 5000
+sudo docker run -d -v --restart unless-stopped `pwd`:/data -p 4000:4000 sigoden/dufs /data -p 4000
 ```

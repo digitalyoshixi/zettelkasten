@@ -15,7 +15,7 @@ This is the map of my homelab:
 - [x] Self hosted [[Excalidraw]] with plugins (https://github.com/excalidraw/excalidraw/issues/6506) ✅ 2025-04-30
 - [x] [[nginx]] for opening the server to the internet
 - [x] [[CTFd]] ✅ 2025-05-31
-- [ ] [[dufs]] for public file server access to [[Network Attached Storage|NAS]]
+- [x] [[dufs]] for public file server access to [[Network Attached Storage|NAS]] ✅ 2026-01-23
 - [x] [[Invidious]] ✅ 2025-05-29
 - [ ] [[Openbooks]] for downloading books
 - [ ] [[Calibre]] for reading books
