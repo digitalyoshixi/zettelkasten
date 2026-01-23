@@ -45,3 +45,6 @@ aliases:
 - [[POSIX]]
 - [[Zero Trust Security|Zero Trust]]
 - [[Octal Mask]]
+### Week 3
+- [[Linux Redirection]]
+- [[fopen]]
