@@ -4,6 +4,7 @@ tags:
   - lisp
 aliases:
   - Racket Variable
+  - Racket defn
 ---
 Defining a variable in racket.
 ```lisp

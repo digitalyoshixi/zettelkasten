@@ -36,7 +36,8 @@ racket -f myfile.rkt -i
 - [[Racket Vector]]
 - [[Racket Hash Table]]
 - [[Read-eval-print-loop]]
-### Functions
+- [[Racket Procedure]]
+### PRocedures
 - [[Racket add]]
 - [[Racket subtract]]
 - [[Racket multiply]]
@@ -48,3 +49,5 @@ racket -f myfile.rkt -i
 - [[Racket and]]
 - [[Racket or]]
 - [[Racket if]]
+- [[Racket cond]]
+- [[Racket lambda]]
