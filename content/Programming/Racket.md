@@ -37,6 +37,7 @@ racket -f myfile.rkt -i
 - [[Racket Hash Table]]
 - [[Read-eval-print-loop]]
 - [[Racket Procedure]]
+- [[Racket Higher Order Procedure]]
 ### PRocedures
 - [[Racket add]]
 - [[Racket subtract]]
