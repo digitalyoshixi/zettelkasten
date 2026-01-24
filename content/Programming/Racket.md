@@ -54,3 +54,4 @@ racket -f myfile.rkt -i
 - [[Racket lambda]]
 - [[Racket map]]
 - [[Racket fold]]
+- [[Racket apply]]
