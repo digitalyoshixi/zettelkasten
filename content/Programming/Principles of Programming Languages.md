@@ -48,3 +48,4 @@ aliases:
 - [[Grammar Delimiter]]
 ### Week 3
 - [[Racket]]
+- [[Evaluation by Substitution]]

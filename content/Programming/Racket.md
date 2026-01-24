@@ -24,4 +24,22 @@ Or:
 racket -f myfile.rkt -i
 ```
 # Concepts
+### Foundational
 - [[Racket Expression]]
+- [[Racket Datatypes]]
+- [[Racket Symbol]]
+- [[Racket Boolean]]
+- [[Racket Pair]]
+- [[Racket List]]
+- [[Racket String]]
+- [[Racket Vector]]
+- [[Racket Hash Table]]
+- [[Read-eval-print-loop]]
+### Functions
+- [[Racket add]]
+- [[Racket subtract]]
+- [[Racket multiply]]
+- [[Racket divide]]
+- [[Racket remainder]]
+- [[Racket remainder]]
+- [[Racket quote]]

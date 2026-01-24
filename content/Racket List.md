@@ -1,0 +1,16 @@
+---
+tags:
+  - programming
+  - lisp
+---
+```lisp
+'()
+'(a b)
+'(1 2 foo 3.14)
+```
+- Each list can be represented by a [[Racket Pair]] ([[Pair List Equivalence]])
+# Selectors
+- `first`
+- `rest`
+# Value
+List `(f . (arg0 ... argN))` has value `f(arg0, ... , argN)`
