@@ -26,6 +26,7 @@ racket -f myfile.rkt -i
 # Concepts
 ### Foundational
 - [[Racket Expression]]
+- [[Racket Definitions]]
 - [[Racket Datatypes]]
 - [[Racket Symbol]]
 - [[Racket Boolean]]
@@ -43,3 +44,7 @@ racket -f myfile.rkt -i
 - [[Racket remainder]]
 - [[Racket remainder]]
 - [[Racket quote]]
+- [[Racket equal?]]
+- [[Racket and]]
+- [[Racket or]]
+- [[Racket if]]
