@@ -46,3 +46,5 @@ aliases:
 - [[Parse Tree]]
 - [[Syntactic Ambiguity]]
 - [[Grammar Delimiter]]
+### Week 3
+- [[Racket]]
