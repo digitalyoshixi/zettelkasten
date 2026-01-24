@@ -52,3 +52,5 @@ racket -f myfile.rkt -i
 - [[Racket if]]
 - [[Racket cond]]
 - [[Racket lambda]]
+- [[Racket map]]
+- [[Racket fold]]
