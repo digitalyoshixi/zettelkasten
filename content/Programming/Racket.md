@@ -40,7 +40,8 @@ racket -f myfile.rkt -i
 - [[Racket Higher Order Procedure]]
 - [[Racket Parameter List]]
 - [[Racket Scope]]
-### PRocedures
+- [[Racket Closure]]
+### Procedures
 - [[Racket add]]
 - [[Racket subtract]]
 - [[Racket multiply]]

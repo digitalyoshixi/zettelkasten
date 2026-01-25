@@ -49,3 +49,7 @@ aliases:
 ### Week 3
 - [[Racket]]
 - [[Evaluation by Substitution]]
+- [[Function Closures|Closure]]
+- [[Higher Order Function]]
+- [[Lambda Function]]
+- [[Equality of Functions]]
