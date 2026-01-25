@@ -2,8 +2,7 @@
 tags:
   - security
 ---
-Free online hacking resources provided by the university of arizona
-
+Free online hacking resources provided by the university of arizona.
 # Starting challenges
 1. Select the `Start` on challenge. ![[PwnCollege-20231218005651958.webp]]
 2. Go to urls: 
