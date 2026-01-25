@@ -12,4 +12,5 @@ A python exploitation framework for reconassaince and exploiting binaries.
 - [[Pwntools Address to Byte Representation]]
 - [[Pwntools Byte to Address Representation]]
 - [[Pwntools Shellcraft]]
+- [[Pwntools Assemble Shellcode]]
 - [[Pwntools CryptoCat Template]]

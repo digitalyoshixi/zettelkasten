@@ -12,6 +12,7 @@ Oftentimes this payload is to spawn a [[Shell]] for arbitrary command execution
 # Tools
 - [[Python Pipe Shellcode]]
 - [[GCC Building Shellcode]]
+- [[as ld Building Shellcode]]
 - [[rappel]]
 - [[Pwntools Shellcraft]]
 - [[MSFvenom]]
@@ -22,3 +23,4 @@ Oftentimes this payload is to spawn a [[Shell]] for arbitrary command execution
 - [[Shellcode Explicit Bytesize Technique]]
 - [[Shellcode Bypass Forbidden Bytes Technique]]
 - [[Shellcode Multistage Shellcode]]
+- [[Shellcode Debugging with strace]]
