@@ -11,3 +11,5 @@ A closure is a record containing:
 	(lambda (y) (+ x y))
 )
 ```
+# Free Variables
+In expression `(lambda (y) (+ x y))`, `x` is a free variable
