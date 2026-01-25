@@ -24,3 +24,4 @@ Oftentimes this payload is to spawn a [[Shell]] for arbitrary command execution
 - [[Shellcode Bypass Forbidden Bytes Technique]]
 - [[Shellcode Multistage Shellcode]]
 - [[Shellcode Debugging with strace]]
+- [[Shellcode Pwntools Immediate Shellcode Debugging]]
