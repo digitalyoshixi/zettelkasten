@@ -24,7 +24,7 @@ Or:
 racket -f myfile.rkt -i
 ```
 # Concepts
-### Foundational
+### Fundamental
 - [[Racket Expression]]
 - [[Racket Definitions]]
 - [[Racket Datatypes]]
@@ -38,6 +38,8 @@ racket -f myfile.rkt -i
 - [[Read-eval-print-loop]]
 - [[Racket Procedure]]
 - [[Racket Higher Order Procedure]]
+- [[Racket Parameter List]]
+- [[Racket Scope]]
 ### PRocedures
 - [[Racket add]]
 - [[Racket subtract]]
