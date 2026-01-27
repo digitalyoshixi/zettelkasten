@@ -47,7 +47,7 @@ tags:
 - Parsec clone, but actually good
 - Metamath visualizer
 - Show hacker news wrapped
-- [[Theory of Everything|Unified Theory of Everything]]. Wikipedia but organized like a obsidian graph
+- [[Theory of Everything|Unified Theory of Everything]]. Wikipedia but organized like a obsidian graph - THIS IS REALLY GOOD FOR RAG
 - [[Cell Learning Theory|Biological Computing]] physical [[Malware]], infects computers via airborne means
 - [[ePub]] reader
 - [[Anki]] but with voice recognition, and can directly see how close you are to the answer, autoflips aswell
@@ -65,4 +65,5 @@ tags:
 - Make a text editor
 - Make a UI library like [[Dear ImGUI]]
 - Three satelites that always point to somewhere, you can move around in 3d space and satelites will track that movement and generate a 3d image (Google maps)
-- Make a wiki page
+- Make a wikipedia clone
+- [[Chinese Room]] video game
