@@ -4,6 +4,7 @@ tags:
   - programming
 ---
 A tool used to assist in compiling and lining [[C]] code.
+makefiles are defined in `./makefile`
 # Example
 ```c
 all: hellow

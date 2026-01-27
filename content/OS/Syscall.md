@@ -18,3 +18,7 @@ You can view each syscall's with [[man]], like: `man open`
 - [[munmap()]]
 # System Call Errors
 Syscalls will keep their error enum in [[errno]] that can be printed with [[perror()]]
+# Resources
+- https://www.felixcloutier.com/x86/
+- https://syscall.sh/
+- http://ref.x86asm.net/coder64.html

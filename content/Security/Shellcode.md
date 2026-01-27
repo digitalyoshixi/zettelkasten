@@ -12,13 +12,13 @@ Oftentimes this payload is to spawn a [[Shell]] for arbitrary command execution
 # Tools
 - [[Python Pipe Shellcode]]
 - [[GCC Building Shellcode]]
+- [[as ld Building Shellcode]]
 - [[rappel]]
 - [[Pwntools Shellcraft]]
 - [[MSFvenom]]
-- https://www.felixcloutier.com/x86/
-- https://syscall.sh/
-- http://ref.x86asm.net/coder64.html
 # Tips
 - [[Shellcode Explicit Bytesize Technique]]
 - [[Shellcode Bypass Forbidden Bytes Technique]]
 - [[Shellcode Multistage Shellcode]]
+- [[Shellcode Debugging with strace]]
+- [[Shellcode Pwntools Immediate Shellcode Debugging]]

@@ -6,7 +6,7 @@ tags:
 # Non SUID
 During gdb instance:
 ```
-set disable-randomization off
+set disable-randomization on
 ```
 # With [[suid]]
 Create a non SUID shell with:
