@@ -11,9 +11,9 @@ ret
 ```
 # Rop Gadget Finder
 ```
-pip install ROPGadget
+pip install ROPgadget
 ```
 ### Usage
 ```
-
+ROPgadget --binary ./myfile | grep -P "(mov|add|sub|pop) rdx"
 ```

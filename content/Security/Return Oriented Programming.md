@@ -9,11 +9,16 @@ Modifying the stack such that you can call arbitrary functions with arbitrary ar
 This is possible if you perform a buffer overflow and override some part of memory that is returned to.
 # Concepts
 - [[ROP Gadget]]
+- [[ret Slide]]
 - [[Weird Machine]]
 - [[Accidental Turing Completeness]]
+- [[Magic Gadget]]
 # Tips
 - [[Janitorial Gadget]]
 - [[Register Popping Gadget]]
+- [[Storing Address into Registers Gadget]]
+- [[Stack Pivot]]
+- [[Data Transfer Gadget]]
 # Tools
 - [[ropper]]
 - [[ROP Gadget|ROPGadget]]
