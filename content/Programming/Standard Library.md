@@ -4,6 +4,7 @@ tags:
 aliases:
   - libc
 ---
+A giant library of a variety of functions.
 ### IO
 - [[printf()]]
 - [[scanf()]]

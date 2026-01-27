@@ -13,6 +13,10 @@ This is possible if you perform a buffer overflow and override some part of memo
 - [[Weird Machine]]
 - [[Accidental Turing Completeness]]
 - [[Magic Gadget]]
+- [[Gadget-less Binaries]]
+- [[kBouncer]]
+- [[ROPecker]]
+- [[Control Flow Integrity]]
 # Tips
 - [[Janitorial Gadget]]
 - [[Register Popping Gadget]]
