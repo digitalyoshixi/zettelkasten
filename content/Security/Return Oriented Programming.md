@@ -11,9 +11,12 @@ This is possible if you perform a buffer overflow and override some part of memo
 - [[ROP Gadget]]
 - [[Weird Machine]]
 - [[Accidental Turing Completeness]]
+# Tips
+- [[Janitorial Gadget]]
+- [[Register Popping Gadget]]
 # Tools
 - [[ropper]]
-- [[ROPGadget]]
+- [[ROP Gadget|ROPGadget]]
 # Example
 ```c
 #include <stdio.h>
