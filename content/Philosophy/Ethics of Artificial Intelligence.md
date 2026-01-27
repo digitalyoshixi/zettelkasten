@@ -97,3 +97,4 @@ aliases:
 - [[LLM Stochastic Parrot Argument]]
 - [[LLM Memorization Argument]]
 - [[LLM Sensory Grounding Argument]]
+- [[Moral Patiency]]
