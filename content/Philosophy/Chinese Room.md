@@ -18,3 +18,5 @@ C: Implementing a program isnt sufficient for having a mind
 
 Knowing a language requires:
 - Having an interpretation to those symbols
+# Counter Arguments
+- [[Whole System Objection]]
