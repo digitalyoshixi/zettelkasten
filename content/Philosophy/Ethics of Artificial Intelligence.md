@@ -73,3 +73,6 @@ aliases:
 - [[Models of Computation Equivalence]]
 - [[John Searle]]
 - [[AI Semantic Gap]]
+### Week 4
+- [[Interpretationalism]]
+- [[Representationalism]]
