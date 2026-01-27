@@ -8,9 +8,11 @@ tags:
 ```python
 import pwn 
 pwn.context.log_level = 'debug'
+pwn.context.arch = 'amd64'
 r = pwn.process("./buffer_overflow", aslr=True)
-r.send(b"A"*24)
+r.sendline(b"A"*24)
 print(r.readall())
+r.interactive()
 ```
 # Send After Prompt
 ```python
