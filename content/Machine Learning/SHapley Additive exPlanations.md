@@ -8,9 +8,9 @@ aliases:
 A form of [[Explainable Machine Learning|Model Agnostic Interpretability]]
 Based on [[Cooperative Game Theory]]
 Each feature has an importance value for prediction ([[Shapley Values]])
-
+Often used in medical AI.
 # Shapely Value for Feature
-Shapely valyue for feature $i$ is:
+Shapely value for feature $i$ is:
 $$
 \phi_{i} = \sum_{i=1}^{n} \left[ S| \frac{!(M-|S|-1)!}{M} \right] \times [f(S \cup \{ i \}) - f(S)]
 $$
@@ -20,3 +20,6 @@ $$
 - [[LinearSHAP]]
 - [[KernelSHAP]]
 - [[PartitionSHAP]]
+# Viewing SHAP Values
+- [[Waterfall Plot]]
+- [[Beeswarm Plot]]

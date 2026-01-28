@@ -18,3 +18,4 @@ Given a [[Black Box]] model $f$, and explainable AI algorithm constructs in an [
 - [[Saliency Map]]
 - [[Local Interpretable Model-agnostic Explanations|LIME]]
 - [[SHapley Additive exPlanations|SHAP]]
+- [[Attention Map]]
