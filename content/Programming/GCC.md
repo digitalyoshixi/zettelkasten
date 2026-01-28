@@ -17,6 +17,8 @@ The gnu compiler for languages like:
 # Flags
 ### `-o`
 sets the output name
+### `-S`
+Assembles program and creates `.s` file
 ### `-g`
 adds debugger symbols
 ### `-wall`
