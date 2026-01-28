@@ -72,4 +72,7 @@ aliases:
 - [[Race Condition]]
 - [[File Descriptor]]
 - [[Buffer Flush]]
+- [[Process Control Block]]
 - [[File Descriptor Table]]
+- [[System-Wide Open File Table]]
+- [[Vnode Table]]
