@@ -11,6 +11,8 @@ A giant library of a variety of functions.
 - [[getchar()]]
 - [[putchar()]]
 - [[getline()]]
+- [[fopen()]]
+- [[rewind()]]
 ### Strings
 - [[strcpy()]]
 	- [[strncpy()]]

@@ -69,3 +69,7 @@ aliases:
 - [[Linux IO System Calls Interface]]
 - [[Protection Ring|Userland]]
 - [[Data Random Read Write Performance|Data IOPS]]
+- [[Race Condition]]
+- [[File Descriptor]]
+- [[Buffer Flush]]
+- [[File Descriptor Table]]

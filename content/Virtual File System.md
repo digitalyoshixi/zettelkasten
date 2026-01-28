@@ -1,6 +1,0 @@
----
-tags:
-  - os
-aliases:
-  - VFS
----

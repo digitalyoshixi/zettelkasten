@@ -12,7 +12,7 @@ Measured in IOPS (Input Outputs per Second) or MBps.
 # OS Level
 Operations with physical hardware are often the slowest part of a program.
 We measure IOPS during:
-- Finding a file
+- Finding a file ([[ls]])
 - Opening a file
 - Reading a file
 - Writing to a file
