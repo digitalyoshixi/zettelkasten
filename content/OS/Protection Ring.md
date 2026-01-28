@@ -9,6 +9,8 @@ aliases:
   - Ring 1
   - Ring 2
   - Ring 3
+  - User Space
+  - Kernel Space
 ---
 The layers of access and permissions software in an [[IT/Operating System]] can have.
 ![[Protection Ring-20240726014623769.webp]]

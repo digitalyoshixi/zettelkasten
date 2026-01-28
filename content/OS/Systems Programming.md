@@ -15,10 +15,10 @@ aliases:
 	- it-ia3170-50.utsc-labs.utoronto.ca
 - Need to use VPN access to connect via [[Secure Shell Protocol|SSH]] into lab (https://security.utoronto.ca/services/vpn/usage-guide/)
 - Labs not graded
-- Ethics module 5%
+- Ethics module 5% (Opens feb 2)
 - PCRS prep 2%
 - Assignment 1 8%
-- Midterm 25%
+- Midterm 25% : March 6 (7pm-10pm)
 - Assignment 2 10%
 - Assignment 3 10%
 - Final exam 40%
@@ -61,3 +61,11 @@ aliases:
 - [[fseek()]]
 - [[Syscall]]
 - [[perror()]]
+### Week 4
+- [[File System]]
+- [[Virtual File System]]
+- [[File Block]]
+- [[Linux File System Architecture]]
+- [[Linux IO System Calls Interface]]
+- [[Protection Ring|Userland]]
+- [[Data Random Read Write Performance|Data IOPS]]

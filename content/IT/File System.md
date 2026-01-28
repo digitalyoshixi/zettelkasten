@@ -3,6 +3,8 @@ tags:
   - partitioning
   - file_system
   - os
+aliases:
+  - FS
 ---
 The system of addressing files.
 Blocks of data are separated into groups called clusters. The size of these clusters varies according to file system.
@@ -24,3 +26,5 @@ Blocks of data are separated into groups called clusters. The size of these clus
 - [[Unlink]]
 - [[Disk Fragmentation]]
 - [[Encrypting File System]]
+- [[File Block]]
+- [[Inode]]

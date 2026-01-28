@@ -2,7 +2,7 @@
 tags:
   - linux
 ---
-A data structure that describes a file or directory.
+A data structure that describes a file or directory. On the OS level.
 - Last modified
 - [[Metadata]]
 - Parent
