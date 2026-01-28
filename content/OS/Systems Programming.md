@@ -76,3 +76,7 @@ aliases:
 - [[File Descriptor Table]]
 - [[System-Wide Open File Table]]
 - [[Vnode Table]]
+- [[Pointer Arithmetic]]
+- [[Array Decay]]
+- [[Virtual Memory Space|Program Memory Layout]]
+- [[Out of Memory Killer]]

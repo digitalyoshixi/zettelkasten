@@ -4,6 +4,8 @@ tags:
 aliases:
   - RAM Layout
   - Program Memory Layout
+  - Program Address Space
+  - Virtual Address Space
 ---
 The space that a [[Linux Process]] gets during [[Linux Process Loading]].
 ![[Program Memory Layout-20250829224210554.webp|427]]
