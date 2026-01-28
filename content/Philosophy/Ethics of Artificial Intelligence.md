@@ -84,7 +84,6 @@ aliases:
 - [[Occurant States]]
 - [[Dispositional States]]
 - [[Probe]]
-### Week 5
 - [[Semi Perpendicular Text Embeddings]]
 - [[Intentionality]]
 	- [[Information Criteria for Intentionality]]
@@ -98,3 +97,4 @@ aliases:
 - [[LLM Memorization Argument]]
 - [[LLM Sensory Grounding Argument]]
 - [[Moral Patiency]]
+- [[Emergent World Representation]]
