@@ -84,6 +84,10 @@ From these, you can make an
 - [[Shallow Copy]]
 - [[Deep Copy]]
 - [[C Memory Model]]
+- [[C malloc|malloc]]
+- [[C calloc]]
+- [[C realloc]]
+- [[free()]]
 ### In-line [[Assembly]]
 - [[C asm volatile]]
 ### Other
