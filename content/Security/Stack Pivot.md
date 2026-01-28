@@ -12,7 +12,7 @@ We can change rsp with:
 ```
 pop <reg>                <=== return pointer
 <reg value>
-xchg <rag>, rsp
+xchg <reg>, rsp
 ```
 ### leave; ret
 This instruction can overwrite rbp

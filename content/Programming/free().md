@@ -3,6 +3,8 @@ tags:
   - programming
   - c
   - cpp
+aliases:
+  - C free
 ---
 ```
 free(*ptr)
