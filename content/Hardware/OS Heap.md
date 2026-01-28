@@ -14,3 +14,7 @@ Anything in the heap must be accessed with an [[Memory Addresses|Address]]
 - [[Defragmentation]]
 - [[Bin]]
 - [[Heap Allocator]]
+- [[Heap Security Lifecycle]]
+# Heap Hardening
+- [[Valgrind]]
+- [[glibc Heap Hardening Techniques]]
