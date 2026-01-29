@@ -12,3 +12,7 @@ tags:
 ```
 sudo rm /var/lib/pacman/db.lck
 ```
+# Clear Package Cache
+```
+pacman -Sc
+```
