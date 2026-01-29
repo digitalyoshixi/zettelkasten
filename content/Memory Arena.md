@@ -3,7 +3,9 @@ tags:
   - os
   - memory
 ---
-All the available memory left retrieved from the [[Operating System|OS]] to serve all potential malloc calls for a particular thread.
+The management structure that manages the heap.
+Contains a pointer to [[Top Chunk]] of the local thread
+Responsible for managing available memory to serve all potential malloc calls for a particular **thread**.
 ![[Memory Arena-20260129055011318.webp|372]]
 # Number of Arenas
 A concurrent application can support 
