@@ -19,6 +19,7 @@ switch (c){
 		break;
 	case 'b':
 		break;
-	// so on so forth
+	default:
+		break;
 }
 ```
