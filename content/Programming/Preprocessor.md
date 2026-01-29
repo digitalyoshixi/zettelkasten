@@ -9,4 +9,4 @@ It:
 - Removes comments
 - Ensures each file ends with newline
 - Fufills [[Preprocessor Directives]] (Literally adds header file code)
-- Performs [[C Macros|Macro Substitution]]
+- Performs [[C Macro|Macro Substitution]]

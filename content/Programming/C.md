@@ -48,7 +48,7 @@ From these, you can make an
 - [[C Structures]]
 - [[C Unions]]
 ##### Variable Types
-- [[C Macros]]
+- [[C Macro]]
 ##### Scope
 - [[Local Variables]]
 - [[Global Variables]]
@@ -87,6 +87,7 @@ From these, you can make an
 - [[C malloc|malloc]]
 - [[C calloc]]
 - [[C realloc]]
+- [[C memalign]]
 - [[free()]]
 ### In-line [[Assembly]]
 - [[C asm volatile]]

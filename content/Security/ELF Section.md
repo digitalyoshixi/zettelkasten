@@ -9,7 +9,7 @@ Includes all information required at [[Linker|Link Time]] for linking the target
 each section is a [[ELF32_Shdr]] 
 - **.text**: code
 - **.data**: initialized global data
-- **.rodata**: initialized read-only data for [[C Macros|C Constants]]
+- **.rodata**: initialized read-only data for [[C Macro|C Constants]]
 - **.bss**: uninitialized global data
 - **.plt**: procedure linkage table ([[Import Address Table|IAT]] equivalent)
 - **.got**: GOT entries dedicated to dynamically linked global variables

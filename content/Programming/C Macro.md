@@ -21,4 +21,3 @@ int main(){
 #define max(A, B) ((A) > (B) ? (A) : (B))
 ```
 Uses the [[Conditional Operator|Ternary Operator]]
-

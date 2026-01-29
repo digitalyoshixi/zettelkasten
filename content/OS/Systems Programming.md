@@ -81,3 +81,4 @@ aliases:
 - [[Virtual Memory Space|Program Memory Layout]]
 - [[Out of Memory Killer]]
 - [[Preprocessor]]
+- [[C Function Pointers]]
