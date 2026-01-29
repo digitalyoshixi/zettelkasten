@@ -4,7 +4,9 @@ tags:
   - linux
 ---
 # Automatic
-`sudo pacman -S archlinux-keyring`
+```
+sudo pacman -S archlinux-keyring
+```
 # Manual
 https://forum.manjaro.org/t/signature-is-invalid/94500/16
 1. `sudo pacman -Scc`. answer `y` to everything

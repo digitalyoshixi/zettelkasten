@@ -58,3 +58,6 @@ racket -f myfile.rkt -i
 - [[Racket map]]
 - [[Racket fold]]
 - [[Racket apply]]
+- [[Racket first]]
+- [[Racket rest]]
+- [[Racket append]]
