@@ -5,6 +5,7 @@ tags:
   - security
 ---
 # Setting up Heap Variables
+- Ensure you have [[glibc Debug Info]]
 - You can see the heap variables with `heap-config`
 
 - You can set `glibc` by using `info sharedlibrary`

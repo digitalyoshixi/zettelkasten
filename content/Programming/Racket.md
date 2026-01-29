@@ -41,6 +41,7 @@ racket -f myfile.rkt -i
 - [[Racket Parameter List]]
 - [[Racket Scope]]
 - [[Racket Closure]]
+- [[Racket Full Function Definition]]
 ### Procedures
 - [[Racket add]]
 - [[Racket subtract]]
@@ -61,3 +62,5 @@ racket -f myfile.rkt -i
 - [[Racket first]]
 - [[Racket rest]]
 - [[Racket append]]
+# Libraries
+- [[Racket Tests]]
