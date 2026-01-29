@@ -2,11 +2,10 @@
 tags:
   - programming
 ---
-A recursive function where the recursive call is the last statement executed by a function.
+A recursive function where the recursive call is the **last statement executed by a function**.
 - Requires that there is some partial value to be called forward.
 
 This is a more optimized way to write [[Recursion]], as the last statement of the final call will result in each subsequent stack frame being destroyed aswell.
-
 # Example
 ### Non-Tail Function
 ```c

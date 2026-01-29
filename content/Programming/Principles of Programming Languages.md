@@ -53,3 +53,7 @@ aliases:
 - [[Higher Order Function]]
 - [[Lambda Function]]
 - [[Equality of Functions]]
+### Week 4
+- [[Racket Full Function Definition]]
+- [[Racket fold]]
+- [[Recursion]]
