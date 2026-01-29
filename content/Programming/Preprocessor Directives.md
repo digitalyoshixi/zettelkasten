@@ -1,9 +1,11 @@
 ---
 aliases:
   - Compiler Directive
+  - Macro
 tags:
   - c
   - cpp
+cssclasses:
 ---
 lines preceded with a hash sign(#). these are special lines of code that the [[Preprocessor]] resolves before running other lines. They can be:
 - [[Header File]] imports like `#include <iostream>`

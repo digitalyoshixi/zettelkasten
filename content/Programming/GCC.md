@@ -17,8 +17,12 @@ The gnu compiler for languages like:
 # Flags
 ### `-o`
 sets the output name
-### `-S`
-Assembles program and creates `.s` file
+### `-c filename.c`
+Compiles without linking  to make `filename.o`
+### `-S filename.c`
+Assembles program and creates `.s` file to `filename.s`
+### `-D MACRO=val`
+Passes in a custom macro with a custom value
 ### `-g`
 adds debugger symbols
 ### `-wall`
