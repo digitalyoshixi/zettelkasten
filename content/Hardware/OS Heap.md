@@ -18,6 +18,7 @@ Heap is a collection of [[Heap Chunk]]
 - [[Heap Allocator]]
 - [[Heap Security Lifecycle]]
 - [[Thread Local Caching]]
+- [[Chunk Metadata Overlapping]]
 # Heap Hardening
 - [[Valgrind]]
 - [[glibc Heap Hardening Techniques]]
