@@ -87,6 +87,7 @@ From these, you can make an
 - [[C malloc|malloc]]
 - [[C calloc]]
 - [[C realloc]]
+- [[C memalign]]
 - [[free()]]
 ### In-line [[Assembly]]
 - [[C asm volatile]]

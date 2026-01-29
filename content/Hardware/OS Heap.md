@@ -15,6 +15,7 @@ Anything in the heap must be accessed with an [[Memory Addresses|Address]]
 - [[Bin]]
 - [[Heap Allocator]]
 - [[Heap Security Lifecycle]]
+- [[Thread Local Caching]]
 # Heap Hardening
 - [[Valgrind]]
 - [[glibc Heap Hardening Techniques]]
