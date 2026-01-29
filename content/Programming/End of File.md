@@ -13,7 +13,7 @@ it is `CTRL+Z` in windows
 
 EOF is either -1 or 0.
 In newer C language, EOF is set as -1.
-[[stdio.h]] automatically defines EOF as a [[C Macros]]
+[[stdio.h]] automatically defines EOF as a [[C Macro]]
 
 https://stackoverflow.com/questions/1782080/what-is-eof-in-the-c-programming-language
 

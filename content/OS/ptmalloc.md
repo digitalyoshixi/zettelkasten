@@ -1,8 +1,10 @@
 ---
 tags:
   - memory
+aliases:
+  - pthreads malloc version 2
 ---
-Used in the [[C]] language.
+[[Heap Allocator]] used in some versions of [[C]], derived from [[dlmalloc]].
 Uses a [[Data Segment]] with [[brk()]] and [[sbrk()]] to manage memory
 
 # Allocating

@@ -5,8 +5,10 @@ aliases:
   - Heap
 ---
 A memory structure that stores memory without organization.
-Anything in the heap must be accessed with an [[Memory Addresses|Address]]
+Anything in the heap must be accessed with an [[Memory Addresses|Address]].
+Heap is a collection of [[Heap Chunk]]
 # Concepts
+- [[Memory Arena]]
 - [[Heap Chunk]]
 - [[Chunk Coalescing]]
 - [[Chunk Splitting]]

@@ -48,7 +48,7 @@ From these, you can make an
 - [[C Structures]]
 - [[C Unions]]
 ##### Variable Types
-- [[C Macros]]
+- [[C Macro]]
 ##### Scope
 - [[Local Variables]]
 - [[Global Variables]]
