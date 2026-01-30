@@ -4,6 +4,7 @@ tags:
   - forensics
 aliases:
 ---
+![[Forensics Process-20260130155212417.webp]]
 # General
 1. [[exiftool]]
 2. [[binwalk]]
