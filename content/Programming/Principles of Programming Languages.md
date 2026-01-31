@@ -46,6 +46,7 @@ aliases:
 - [[Parse Tree]]
 - [[Syntactic Ambiguity]]
 - [[Grammar Delimiter]]
+- [[Sequential Composition]]
 ### Week 3
 - [[Racket]]
 - [[Evaluation by Substitution]]
