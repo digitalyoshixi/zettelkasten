@@ -2,7 +2,10 @@
 tags:
   - internet_culture
   - philosophy
+aliases:
+  - REISUB
+  - Magic SysRq
 ---
 [https://wiki.archlinux.org/title/Keyboard_shortcuts](https://wiki.archlinux.org/title/Keyboard_shortcuts)
-
-idk why its in this article, but there is this concept called Reboot Event If System Utterly Broken (REISUB)
+A way to reboot a system softly, ensuring no data is lost.
+- `ALT+SYYREQ(PrintScr)+R+E+I+S+U+B`
