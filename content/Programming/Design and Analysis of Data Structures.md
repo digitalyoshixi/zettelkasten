@@ -36,4 +36,4 @@ aliases:
 - [[Splay Tree]]
 # Week 3
 - [[AVL Tree]]
-- 
+- [[Rank AVL Tree]]

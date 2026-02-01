@@ -6,7 +6,7 @@ aliases:
   - Adelson-Velskii-Landis Tree
 ---
 A type of [[Self-Balancing Binary Search Tree]].
-Uses a [[Balance Factor]]
+- Ensures a [[Balance Factor]] $BF \in \{ -1, 0, 1 \}$ holds for every node in the tree
 # Height
 Finding height is a $O(\log n)$ operation.
 $$
