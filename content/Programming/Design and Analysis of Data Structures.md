@@ -13,7 +13,7 @@ aliases:
 - Midterm Test: 25%
 - Final: 40%
 - Allow up to two business days for response after email
-# Week 1
+### Week 1
 - [[Data Structures and Algorithms]]
 - [[Data Structure]]
 - [[Algorithm Analysis]]
@@ -27,13 +27,15 @@ aliases:
 - [[Time Complexity|Runtime Complexity]]
 - [[Runtime Bounding]]
 - [[Big Omega Notation]]
-# Week 2
+### Week 2
 - [[Limit Theorem for Runtime Bounding]]
 - [[Binary Search Tree|BST]]
 - [[AVL Tree]]
 - [[Red-Black Tree]]
 - [[B-Trees]]
 - [[Splay Tree]]
-# Week 3
+### Week 3
 - [[AVL Tree]]
 - [[Rank AVL Tree]]
+### Week 5
+- [[Weight Balanced Binary Search Tree]]
