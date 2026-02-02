@@ -14,3 +14,7 @@ https://google.github.io/styleguide/cppguide.html
 - Use `.cc` files
 - Every `.cc` file has a corresponding `.h` [[Header Files|Header File]]
 - Every header has [[Header Guard]] using `#define`
+# Using Style Guide
+```
+clang-format -style=Google --dry-run myfile.c
+```
