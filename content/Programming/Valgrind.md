@@ -3,4 +3,8 @@ tags:
   - linux
   - c
 ---
-A memory leak finding tool for [[Linux]] devices.
+A dynamic memory leak finding tool for [[Linux]] devices.
+# Usage
+```
+valgrind --show-leak-kinds=all --leak-check=full ./myfile args
+```
