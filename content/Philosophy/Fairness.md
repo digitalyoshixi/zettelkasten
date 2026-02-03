@@ -22,7 +22,7 @@ The concept of allowing actions to affect a wider population correctly.
 - [[Equality of False Positives]]
 - [[Equality of Position Predicated Value]]
 # Problems
-- [[Impossibility Theorem]]
+- [[Fairness Impossibility Theorem]]
 - [[Algorithmic Gerrymandering]]
 # Concepts
 - [[Ex-ante Fairness]]

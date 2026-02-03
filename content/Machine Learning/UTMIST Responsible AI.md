@@ -6,7 +6,7 @@ tags:
 - [[Responsible AI]]
 - [[COMPAS]]
 - [[CORELS]]
-- [[Impossibility Theorem]]
+- [[Fairness Impossibility Theorem]]
 - [[Fairness]]
 # Week 2
 - [[Black Box]]
