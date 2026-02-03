@@ -104,3 +104,7 @@ aliases:
 - [[Differential Privacy]]
 - [[Pareto Curve]]
 - [[Pareto Distribution]]
+- [[Hume Internal Representation]]
+- [[Social and Ethical Issues in AI]]
+- [[AI Fairness Issues]]
+- [[AI Bias]]
