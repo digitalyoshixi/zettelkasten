@@ -19,4 +19,4 @@ It is also the ability to relate thoughts to activities done in the external wor
 - [[Causal Power Criteria for Intentionality]]
 - [[Folk Psychology Criteria for Intentionality]]
 - [[Structural Isomorphism Criteria for Intentionality]]
-- [[Selection Criteria for Intentionality]]
+- [[Teleosemantics Criteria for Intentionality]]

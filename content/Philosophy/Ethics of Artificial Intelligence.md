@@ -74,6 +74,7 @@ aliases:
 - [[John Searle]]
 - [[AI Semantic Gap]]
 ### Week 4
+- [[Does ChatGPT Have a Mind]]
 - [[Interpretationalism]]
 - [[Representationalism]]
 - [[Blockhead]]
@@ -90,7 +91,7 @@ aliases:
 	- [[Causal Power Criteria for Intentionality]]
 	- [[Folk Psychology Criteria for Intentionality]]
 	- [[Structural Isomorphism Criteria for Intentionality]]
-	- [[Selection Criteria for Intentionality]]
+	- [[Teleosemantics Criteria for Intentionality]]
 - [[Golden Gate Claude]]
 - [[Othello GPT]]
 - [[LLM Stochastic Parrot Argument]]
@@ -99,3 +100,7 @@ aliases:
 - [[Moral Consideration|Moral Patiency]]
 - [[Emergent World Representation]]
 ### Week 5
+- [[Fairness]]
+- [[Differential Privacy]]
+- [[Pareto Curve]]
+- [[Pareto Distribution]]

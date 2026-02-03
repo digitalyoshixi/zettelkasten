@@ -2,6 +2,8 @@
 tags:
   - psychology
   - politics
+aliases:
+  - 80-20 Rule
 ---
 A common-ratio found in nature similar to the [[Golden Ratio]]
 # Crime

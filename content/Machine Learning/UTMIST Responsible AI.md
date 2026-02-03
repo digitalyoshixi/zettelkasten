@@ -9,7 +9,7 @@ tags:
 - [[COMPAS]]
 - [[CORELS]]
 - [[Impossibility Theorem]]
-- [[Algorithmic Fairness]]
+- [[Fairness]]
 # Week 2
 - [[Black Box]]
 - [[Explainable Machine Learning]]
