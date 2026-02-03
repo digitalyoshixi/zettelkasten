@@ -69,4 +69,6 @@ aliases:
 - [[Confidence Intervals for Population Proportion]]
 ### Week 5
 - [[Test of Hypothesis]]
-- 
+- [[Simple Hypothesis]]
+- [[Composite Hypothesis]]
+- [[Test Statistic]]

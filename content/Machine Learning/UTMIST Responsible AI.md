@@ -4,8 +4,6 @@ tags:
 ---
 # Week 1
 - [[Responsible AI]]
-- [[Harm-based Fairness]]
-- [[Epistemological Fairness]]
 - [[COMPAS]]
 - [[CORELS]]
 - [[Impossibility Theorem]]
