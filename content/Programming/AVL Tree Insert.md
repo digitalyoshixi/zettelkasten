@@ -8,3 +8,8 @@ tags:
 2. Put new node in there
 3. Rebalance and update heights if needed
 Time complexity $O(\log n)$
+
+# Code
+```
+
+```
