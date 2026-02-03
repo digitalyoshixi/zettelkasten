@@ -96,5 +96,6 @@ aliases:
 - [[LLM Stochastic Parrot Argument]]
 - [[LLM Memorization Argument]]
 - [[LLM Sensory Grounding Argument]]
-- [[Moral Patiency]]
+- [[Moral Consideration|Moral Patiency]]
 - [[Emergent World Representation]]
+### Week 5

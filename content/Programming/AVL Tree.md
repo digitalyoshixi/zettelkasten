@@ -19,3 +19,6 @@ $$
 - [[AVL Tree Insert]]
 - [[AVL Tree Delete]]
 - [[AVL Tree Rotation]]
+- [[AVL Tree Union]]
+- [[AVL Tree Intersection]]
+- [[AVL Tree Difference]]

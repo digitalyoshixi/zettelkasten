@@ -2,6 +2,8 @@
 tags:
   - philosophy
   - bioethics
+aliases:
+  - Moral Patiency
 ---
 The ability for an entity to be given morality, and to have [[Ethics]] apply to it.
 # Criteria

@@ -7,6 +7,7 @@ aliases:
 ---
 Representing things in the external world.
 It is also the ability to relate thoughts to activities done in the external world.
+- Forming thoughts about goals affecting your fate
 # Intentional States
 - [[Beliefs]]
 - [[Desires]]

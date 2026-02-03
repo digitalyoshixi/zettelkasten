@@ -35,6 +35,7 @@ aliases:
 - [[B-Trees]]
 - [[Splay Tree]]
 ### Week 3
+- [[Augmented Data Structure]]
 - [[AVL Tree]]
 - [[Rank AVL Tree]]
 ### Week 4
