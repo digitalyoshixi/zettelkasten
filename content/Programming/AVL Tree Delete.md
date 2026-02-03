@@ -36,4 +36,12 @@ AVL_Node* delete(AVL_Node* node, int key) {
   updateHeight(node);
   updateSize(node);
   int bf = balanceFactor(node);
+  int lbf = balanceFactor(node->left);
+  int rbf = balanceFactor(node->right);
+  if (bf > 1 && lbf >= 0) return rightRotation(node);
+  if (bf < -1 && rbf <= 0) return leftRotation(node);
+  if (bf > 1 && lbf < 0) return leftRightRotation(node);
+  if (bf < -1 && rbf > 0) return rightLeftRotation(node);
+  return node;
+
 ```
