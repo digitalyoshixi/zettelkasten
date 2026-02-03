@@ -37,5 +37,7 @@ aliases:
 ### Week 3
 - [[AVL Tree]]
 - [[Rank AVL Tree]]
+### Week 4
+- [[AVL Tree Union]]
 ### Week 5
 - [[Weight Balanced Binary Search Tree]]
