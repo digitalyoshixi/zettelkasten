@@ -12,3 +12,28 @@ tags:
 		2. Find successor of $v$ with complexity 
 		3. Move key vlaue pair of $s$ into $v$
 		4. Delete $s$, s's parent adopts $s$ child child
+# Code
+```c
+AVL_Node* delete(AVL_Node* node, int key) {
+  if (node == NULL) return NULL;
+
+  if (key < node->key) {
+    node->left = delete(node->left, key);
+  }
+
+  else if (key > node->key) {
+    node->right = delete(node->right, key);
+  }
+
+  else {
+    if (node->left == NULL) return node->right;
+    if (node->right == NULL) return node->left;
+    RAVL_Node* succ = successor(node);
+    node->key = succ->key;
+    node->right = delete(node->right, succ->key);
+  }
+
+  updateHeight(node);
+  updateSize(node);
+  int bf = balanceFactor(node);
+```
