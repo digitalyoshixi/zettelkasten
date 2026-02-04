@@ -2,6 +2,8 @@
 tags:
   - math
   - continuous_probability
+aliases:
+  - CI
 ---
 Range of estimates at an unknown parameter. Computer at a designated [[Confidence Level]]
 

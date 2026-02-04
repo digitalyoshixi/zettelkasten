@@ -64,3 +64,11 @@ aliases:
 - [[Sample Mean Independent of Population Variance]]
 - [[Chi Squared Variance Independent Distribution]]
 - [[Covariance Does Not Imply Independence]]
+### Week 4
+- [[Confidence Intervals]]
+- [[Confidence Intervals for Population Proportion]]
+### Week 5
+- [[Test of Hypothesis]]
+- [[Simple Hypothesis]]
+- [[Composite Hypothesis]]
+- [[Test Statistic]]

@@ -28,6 +28,7 @@ Taken two ways:
 - [[Model Inversion]]
 - [[Membership Inferrence]]
 - [[Glitch Token]]
+- [[Fast Gradient Sampling]]
 ### Blue Team
 - [[Canonical Form]]
 - [[Polkadots Against Computer Vision]]

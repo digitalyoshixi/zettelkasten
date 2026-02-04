@@ -64,3 +64,4 @@ racket -f myfile.rkt -i
 - [[Racket append]]
 # Libraries
 - [[Racket Tests]]
+- [[Racket trace]]
