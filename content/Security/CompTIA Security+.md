@@ -338,7 +338,7 @@ aliases:
 ### Chapter 5
 ##### 5.1
 - [[Guideline]]
-- [[Policy]]
+- [[Security/Policy]]
 - [[International Organization for Standardization|ISO]]
 	- [[ISO 27001]]
 	- [[ISO 27002]]

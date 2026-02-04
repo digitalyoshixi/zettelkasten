@@ -19,3 +19,8 @@ tags:
 - [[Model Privacy Performance Trade-off]]
 - [[GDPR Right to Erase|GDPR Right to be Forgotten]]
 - [[Machine Unlearning]]
+# Week 3
+- [[AI Governance]]
+- [[Human Centered AI]]
+- [[Forms of Governance]]
+- [[Directive on Automated Decision Making]]
