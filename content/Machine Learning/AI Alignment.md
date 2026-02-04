@@ -8,6 +8,7 @@ The mission to align [[Artificial Intelligence|AI]] goals to be that of ours, to
 - https://bluedot.org/courses/alignment
 # Problems
 - [[Sycophancy]]
+- [[Proxy Training Problem]]
 # Concepts
 - [[Artificial General Intelligence|AGI]]
 - [[Transformative AI]]
