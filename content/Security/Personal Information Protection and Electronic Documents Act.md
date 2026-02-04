@@ -4,7 +4,7 @@ tags:
 aliases:
   - PIPEDA
 ---
-The canadian policy for privacy
+The Canadian policy for privacy
 # Principles
 ### Principle 4
 Collect only as much as necessary

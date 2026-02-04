@@ -21,6 +21,9 @@ tags:
 - [[Machine Unlearning]]
 # Week 3
 - [[AI Governance]]
-- [[Human Centered AI]]
 - [[Forms of Governance]]
 - [[Directive on Automated Decision Making]]
+- [[Quebec Law 25]]
+- [[Real Risk of Significant Harm]]
+- [[Artificial Intelligence and Data Act]]
+- [[Human Centered AI]]
