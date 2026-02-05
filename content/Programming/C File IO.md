@@ -3,6 +3,7 @@ tags:
   - programming
   - c
 ---
+
 ```c
 int main(){
 	FILE *scores_file, *output_file;
