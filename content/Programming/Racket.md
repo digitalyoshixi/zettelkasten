@@ -42,6 +42,9 @@ racket -f myfile.rkt -i
 - [[Racket Scope]]
 - [[Racket Closure]]
 - [[Racket Full Function Definition]]
+- [[Racket Evaluation]]
+- [[Reducible Expression]]
+- [[Continuation]]
 ### Procedures
 - [[Racket add]]
 - [[Racket subtract]]

@@ -60,5 +60,10 @@ aliases:
 - [[Recursion]]
 ### Week 5
 - [[Tail Recursion]]
-- [[Continuation Passing Style]]
 - [[Function Call Scratch Paper Analogy]]
+- [[Python Tail Recursion Elimination]]
+- [[Python Traceback]]
+- [[Racket Evaluation]]
+	- [[Reducible Expression|Redex]]
+	- [[Continuation]]
+- [[Continuation Passing Style]]
