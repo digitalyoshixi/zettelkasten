@@ -61,3 +61,4 @@ aliases:
 ### Week 5
 - [[Tail Recursion]]
 - [[Continuation Passing Style]]
+- [[Function Call Scratch Paper Analogy]]
