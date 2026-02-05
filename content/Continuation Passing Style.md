@@ -30,5 +30,9 @@ The call trace could look like:
 ; [len '[2] [ lambda [v] [id [+ 1 v]]]]
 ; [len '[] [lambda [v2] [ [lambda [v] [id [+ 1 v]]] [+ 1 v2]]]]
 ; [lambda [v2] [ [lambda [v] [id [+ 1 v]]] [+ 1 v2]]] 0]
-; [ [ [lambda [v] [i]]]]
+; [ [ [lambda [v] [id [+ 1 v] [+ 1 0]]]]]
+; [ [lambda [v] [id [+ 1 v]]] 1]
+; [id [+ 1 1]]
+; [id 2]
+; 2
 ```
