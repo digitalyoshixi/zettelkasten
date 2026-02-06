@@ -6,7 +6,6 @@ aliases:
   - CI
 ---
 Range of estimates at an unknown parameter. Computer at a designated [[Confidence Level]]
-
 ### Calculating Confidence Intervals from [[Confidence Level]]
 $\overline x-z_{\frac{a}{2}}(\frac{\sigma}{\sqrt{n}})$ < $\mu$ < $\overline x+z_{\frac{a}{2}}(\frac{\sigma}{\sqrt{n}})$ 
 
