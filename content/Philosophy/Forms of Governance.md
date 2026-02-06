@@ -4,7 +4,7 @@ tags:
 ---
 # Types
 - Programs
-- [[Policy]]
+- [[Philosophy/Policy]]
 - Strategic plans
 - Standards
 - Ethics statements
