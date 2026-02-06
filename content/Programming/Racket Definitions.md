@@ -5,6 +5,7 @@ tags:
 aliases:
   - Racket Variable
   - Racket defn
+  - Racket local
 ---
 Binding a name to  a constant or function in racket.
 # Constants
@@ -21,4 +22,16 @@ Binding a name to  a constant or function in racket.
 	   (square y)
 	)
 )
+```
+# Local Definitions
+Defining in a local space like [[Racket Scope|Racket let]]
+```lisp
+(define (multiples-of n ilist)
+    (local
+        [;; (is-mult? m) produces true if m is a multiple of n,
+         ;; and false otherwise
+         ;; is-mult?: Int -> Bool
+         (define (is-mult? m)
+            (zero? (remainder m n)))]
+        (filter is-mult? ilist)))
 ```

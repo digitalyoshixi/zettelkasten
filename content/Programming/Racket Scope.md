@@ -5,6 +5,7 @@ tags:
 aliases:
   - Racket let
   - Racket let*
+  - Racket letrec
 ---
 # Non-reference Scope `let`
 ```lisp
