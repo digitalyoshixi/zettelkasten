@@ -7,6 +7,7 @@ This is the cell of a [[Neural Network|Neural Net]].
 Holds an activation which is a continuous number from $0$ to $1$.
 - A neuron is 'lit up' if its activation is 1
 - A neuron is 'dark' if its activation is 0
+![[Neuron-20260206224206179.webp]]
 # Activation Formula
 $$n = f(w_{1}n_{1} +\dots + w_{k}n_{k} + B)$$
 Where:
