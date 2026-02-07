@@ -26,7 +26,8 @@ aliases:
 - Crowdmark to submit homework for hand-written
 # Concepts
 ### Week 1
-- [[Philosophy/Language|Language]]
+- [[Programming/Language|Language]]
+- [[Translation]]
 - [[High-Level Language]]
 - [[Low-Level Language]]
 - [[Assembly]]

@@ -12,6 +12,6 @@ $T(x^{*}, y^{*}) = (x,y)$
 - $(x^{*}, y^{*})$ input
 - $(x,y)$ output
 # Implementations
-- [[Translation]]
+- [[Math/Translation]]
 - [[Linear Transform|Linear Map]]
 - [[Polar to Cartesian Transformation]]
