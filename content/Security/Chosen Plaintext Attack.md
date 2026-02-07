@@ -6,4 +6,4 @@ tags:
 aliases:
   - CPA
 ---
-A cryptographic attack system that assumes an attacker can obtain ciphertexts for arbitrary plaintexts.
+A cryptographic attack system that assumes an attacker can obtain ciphertexts for a single batch of plaintexts.

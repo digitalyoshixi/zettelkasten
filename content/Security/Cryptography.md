@@ -40,7 +40,6 @@ The [[Mathematics]] used to secure data.
 	- [[Public Key]]
 	- [[Private Key]]
 - [[Keygen]]
-- [[Chosen Plaintext Attack|CPA]]
 - [[Cryptographic Threat Models]]
 - [[Secrecy]]
 - [[Integrity]]

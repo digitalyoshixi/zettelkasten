@@ -7,6 +7,10 @@ aliases:
 ---
 These are specific threats we are accounting for when designing cryptosystems.
 # Games
+- [[Ciphertext-Only Attack]]
 - [[Known Plaintext Attack]]
-- [[Indistinguishability Under Chosen Plaintext Attack|IND-CPA]]
-- [[Indistinguishability Under Chosen Ciphertext Attack|IND-CCA]]
+- [[Replay Attack]]
+- [[Chosen Plaintext Attack|CPA]]
+- [[Adaptive Chosen Plaintext Attack|ACPA]]
+- [[Chosen Ciphertext Attack|CCA]]
+- [[Chosen Plaintext Ciphertext Attack|CPCA]]
