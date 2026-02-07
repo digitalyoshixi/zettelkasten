@@ -55,6 +55,7 @@ The [[Mathematics]] used to secure data.
 - [[Salting]]
 - [[Peppering]]
 - [[Elliptic Curve Cryptography|ECC]]
+- [[Message Authentication Code]]
 - [[Transport Layer Security|TLS]]
 # Mathematical Cryptography
 ### Notions of Security
