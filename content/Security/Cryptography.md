@@ -54,6 +54,8 @@ The [[Mathematics]] used to secure data.
 	- [[Public Key Cryptography Standards|PKCS]]
 - [[Salting]]
 - [[Peppering]]
+- [[Elliptic Curve Cryptography|ECC]]
+- [[Transport Layer Security|TLS]]
 # Mathematical Cryptography
 ### Notions of Security
 - [[Indistinguishability Under Chosen Plaintext Attack|IND-CPA]]
