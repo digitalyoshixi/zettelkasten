@@ -7,11 +7,6 @@ aliases:
   - Cryptographic Vulnerability
 ---
 The [[Mathematics]] used to secure data.
-# Definitions
-- [[Indistinguishability Under Chosen Plaintext Attack|IND-CPA]]
-- [[Indistinguishability Under Chosen Ciphertext Attack|IND-CCA]]
-- [[Semantic Security]]
-- [[Information-Theoretic Security]]
 # [[Metauni]] Lectures
 - [[Cryptography Seminar 1 - Foundations]]
 - [[Cryptography Seminar 3 - Protocols]]
@@ -49,6 +44,8 @@ The [[Mathematics]] used to secure data.
 - [[Known Plaintext Attack]]
 - [[Indistinguishability Under Chosen Plaintext Attack|IND-CPA]]
 - [[Indistinguishability Under Chosen Ciphertext Attack|IND-CCA]]
+- [[Secrecy]]
+- [[Integrity]]
 - [[Symmetric Cryptography]]
 	- [[Cipher]]
 - [[Public-Key Cryptography|Asymmetric Cryptography]]
@@ -58,6 +55,11 @@ The [[Mathematics]] used to secure data.
 - [[Salting]]
 - [[Peppering]]
 # Mathematical Cryptography
+### Notions of Security
+- [[Indistinguishability Under Chosen Plaintext Attack|IND-CPA]]
+- [[Indistinguishability Under Chosen Ciphertext Attack|IND-CCA]]
+- [[Semantic Security]]
+- [[Information-Theoretic Security]]
 ### Modularity
 - [[Modulus|Modulo]]
 - [[Legendre Symbol]]

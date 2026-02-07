@@ -9,7 +9,7 @@ https://policybase.cma.ca/viewer?file=%2Fmedia%2FPolicyPDF%2FPD19-03.pdf#page=1
 - [[Compassion]]
 - [[Honesty]]
 - [[Humility]]
-- [[Integrity]]
+- [[Moral Integrity]]
 - [[Prudence]]
 # Commitments
 - Commitment to wellbeing of patient
