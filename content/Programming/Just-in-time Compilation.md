@@ -15,3 +15,4 @@ Commonly used in tandem with [[Interpreter|Interpreters]].
 - [[Code Monitor]]
 - [[Common Subexpression Elimination]]
 - [[Deoptimization]]
+- [[Optimization Stub]]
