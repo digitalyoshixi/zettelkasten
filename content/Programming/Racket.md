@@ -34,6 +34,7 @@ racket -f myfile.rkt -i
 - [[Racket List]]
 - [[Racket String]]
 - [[Racket Vector]]
+- [[Racket Lookup Table]]
 - [[Racket Hash Table]]
 - [[Read-eval-print-loop]]
 - [[Racket Procedure]]
