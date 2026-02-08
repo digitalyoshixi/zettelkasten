@@ -8,7 +8,7 @@ It is a [[Imperative Programming|Imperative Language]] with a [[Functional Progr
 - Static scoping
 - Dynamic typing
 - Uniform treatment of program and data
-- Properly [[Tail Recursion]]
+- Proper [[Tail Recursion]]
 - Functions are values
 - Pass by value
 # Installation

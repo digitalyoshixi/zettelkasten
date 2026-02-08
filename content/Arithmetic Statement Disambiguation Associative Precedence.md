@@ -8,6 +8,17 @@ Allowing for [[Associative|Left Associative]] or [[Associative|Right Associative
 # Example
 Converting a grammar like this into a left associative one
 ```
+<expn> -->  <expn> <add-op> <expn> | <mult-exp>
+<mult-exp> --> <mult-exp> <mult-op> <mult-exp> | <pow-exp>
+<pow-exp> --> <pow-exp> ^ <pow-exp> | <br-exp>
+<pow-exp> --> <pow-exp> ^ <pow-exp> | <br-exp>
+<br-exp> --> (<expn>)| <simple>
+<simple> --> <identifier> | <literal>
+<add-op> --> + | -
+<mult-op> --> * | /
+```
+We can make it left associative by putting recursive  terms before non-recursive ones
+```
 <expn> --> <expn> <add-op> <mult-exp> | <mult-exp>
 <mult-exp> --> <mult-exp> <mult-op> <pow-exp> | <pow-exp>
 <pow-exp> --> <br-exp> ^ <pow-exp> | <br-exp>
@@ -15,15 +26,4 @@ Converting a grammar like this into a left associative one
 <simple> --> <identifier> | <literal>
 <add-op> --> + | -
 <mult-op> --> * | /
-```
-We put all recursive terms before non-recursive ones
-```
-<expn> -->  <expn> <add-op> <mult> | 
-			<expn> - <expn> |
-			<expn> * <expn> |
-			<expn> / <expn> |
-			<expn> ^ <expn> |
-			(<expn>)  |
-			<identifier> |
-			<literal>
 ```

@@ -28,7 +28,7 @@ We disambiguate with precedence.
 <add-op> --> + | -
 <mult-op> --> * | /
 ```
-We can remove ambiguity with left or right associativity
+We can remove ambiguity with left or right associativity ([[Arithmetic Statement Disambiguation Associative Precedence]])
 ```
 <expn> --> <expn> <add-op> <mult-exp> | <mult-exp>
 <mult-exp> --> <mult-exp> <mult-op> <pow-exp> | <pow-exp>
