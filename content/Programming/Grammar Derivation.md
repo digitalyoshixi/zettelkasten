@@ -3,7 +3,7 @@ tags:
   - programming
   - math
 ---
-A [[Non-terminal]] $\beta$ is derived by [[Non-Terminal]] $\alpha$ if there is a series of [[Production|Production Rules]] that can be applied to turn $\alpha$ into $\beta$
+The set of [[Production|Production Rules]] that can be applied to [[Non-terminal]] $\alpha$ into [[Non-terminal]] $\beta$.
 # Formal Definition
 - Let $\alpha, \beta \in (V \cup \Sigma)^{*}$
 - A derivation of $\beta$ from $\alpha$ in [[Programming/Grammar|Grammar]] $G$ is the series of strings $s_{1},\dots,s_{n}$  where:
