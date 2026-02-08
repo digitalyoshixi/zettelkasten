@@ -5,7 +5,7 @@ tags:
 Bad chapter. We already went over this.
 
 # Families
-- [[Family]]
+- [[Function Family]]
 
 # Problem Solving
 - [[Flatting Roots]]
