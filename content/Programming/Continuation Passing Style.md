@@ -5,9 +5,24 @@ aliases:
   - CPS
 ---
 A form of recursion that does not generate extra stack frames.
-Functions do not return values, but instead pass control to a [[Continuation]].
+Functions do not return values, but instead direct control to a new [[Continuation|Continuation Function]].
+Used by [[Python Generator]].
 ![[Continuation Passing Style-20260204143939596.webp]]
-# Example
+# Example 1
+For factorial $n!$
+```lisp
+(define (fact-cps n)
+	(local [(define (fcps n k)
+			(if (= n 0)
+				(k 1) ; k is a continuation
+				(fcps (- n 1) (lambda (v) (k (* n v))))
+			)
+	)]
+	(fcps n (lambda (x) x))
+	)
+)
+```
+# Example 2
 For a given function
 ```lisp
 (define (my-length-cps xs) ; return length[xs]
