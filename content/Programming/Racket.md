@@ -43,6 +43,8 @@ racket -f myfile.rkt -i
 - [[Racket Closure]]
 - [[Racket Full Function Definition]]
 - [[Racket Evaluation]]
+	- [[Evaluation by Substitution]]
+	- [[Racket Special Forms]]
 - [[Reducible Expression]]
 - [[Continuation]]
 - [[Racket Comment]]

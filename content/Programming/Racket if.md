@@ -10,5 +10,5 @@ Can be thought of as:
 ```
 (if condition expr0 expr1)
 ```
-- If condition is true, then evaluate `expr0`
-- If condition is false, then evaluate `expr1`
+- If condition not `#f`, then evaluate `expr0`
+- If condition is `#f`, then evaluate `expr1`
