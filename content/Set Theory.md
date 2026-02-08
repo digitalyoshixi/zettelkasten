@@ -16,5 +16,3 @@ A theory for describing items in mathematics
 - [[Axiomatic Set Theory]]
 # Alternatives
 - [[Type Theory]]
-# Problems
-- [[Russell's Paradox]]

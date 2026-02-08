@@ -2,4 +2,5 @@
 tags:
   - math
 ---
-A assumed [[Type Theory]] from [[Bertrand Russel]] that is not yet formalized.
+A [[Type Theory]] from [[Bertrand Russel]] that uses:
+- [[Axiom of Reducibility]]

@@ -5,9 +5,14 @@ tags:
 aliases:
   - Closure
 ---
-Handling of [[Scope]] in a function.
-![[Function Closures-20250107002659705.webp|587]]
-- A closed function is one that does not know of the outer scope.
-- A open function knows and can access variables in its outer scope
+A record storing a [[Subroutine|Function]] and its [[Function Environment]] in a function such that:
+- Subsequent calls to the same closure can have the same [[Function Environment]]
+- Functions can oftentimes pass their [[Function Environment]] to outer closure
+
 Languages that implement closures often can also handle inner-closures, similar to [[List Processor|LISP]].
-![[Function Closures-20250629234311074.webp]]
+# Inner vs Outer Closure
+![[Function Closures-20260208045546675.webp|477]]
+### Inner Closure
+The region within a function
+### Outer Closure
+The region surrounding a function

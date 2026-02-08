@@ -16,3 +16,5 @@ In contrast to [[Axiomatic Set Theory]].
 # Types
 - [[Universal Set]]
 - [[Empty Set]]
+# Problems
+- [[Russell's Paradox]]
