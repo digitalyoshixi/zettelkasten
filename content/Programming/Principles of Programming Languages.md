@@ -57,6 +57,7 @@ aliases:
 - [[Lambda Function]]
 - [[Equality of Functions]]
 ### Week 4
+- [[Java Stream]]
 - [[Racket Full Function Definition]]
 - [[Racket fold]]
 - [[Recursion]]

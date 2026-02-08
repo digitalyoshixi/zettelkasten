@@ -4,7 +4,9 @@ tags:
 aliases:
   - Queue ADT
   - FIFO
-  - First in Last out
+  - First in First Out
+  - Last in Last Out
+  - LILO
 ---
 ![[Queue ADT-20250222022128754.webp]]
 A variation of the [[List ADT]] that has:

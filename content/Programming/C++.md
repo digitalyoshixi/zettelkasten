@@ -117,6 +117,7 @@ int main(int argc, char const *argv[])
 - [[C++ Variant]]
 - [[C++ Stack]]
 - [[C++ Iterator]]
+- [[C++ transform]]
 # Guides
 - [[C++ Vector Slice]]
 # Specific Functions

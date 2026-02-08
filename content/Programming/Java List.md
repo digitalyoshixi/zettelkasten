@@ -3,7 +3,12 @@ tags:
   - java
 ---
 This is a [[Linked List|List]] implementation in [[Java]].
-Not to be confused with [[Java ArrayList]]
+# Children
+- [[Java ArrayList]]
+- [[Java CopyOnWriteArrayList]]
+- [[Java LinkedList]]
+- [[Java Stack]]
+- [[Java Vector]]
 # Boilerplate
 ```java
 // Java program to show the use of List Interface

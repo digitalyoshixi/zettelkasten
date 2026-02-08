@@ -48,11 +48,13 @@ public class Main {
 - [[Java FileWriter]]
 - [[Java PrintWriter]]
 ### Types
+- [[Java Collection]]
 - [[Java List]]
 - [[Java ArrayList]]
 - [[Java HashSet]]
 - [[Java Typecasting]]
 - [[Java Parsing]]
+- [[Java Stream]]
 - [[Serialization]]
 - [[instanceof]]
 ### [[Object Oriented Programming|OOP]]

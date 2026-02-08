@@ -15,6 +15,7 @@ aliases:
 - [[Stack]]
 - [[Min Stack]]
 - [[Queue]]
+- [[Double Ended Queue|Deque]]
 - [[Least Recently Used Cache|LRU Cache]]
 - [[Hashmap]]
 - [[Skip List]]
