@@ -46,6 +46,7 @@ aliases:
 - [[Extended Backus Naur Form]]
 - [[Parse Tree]]
 - [[Syntactic Ambiguity]]
+- [[Ambiguous Context Free Grammar|Grammar Disambiguation]]
 - [[Grammar Delimiter]]
 - [[Sequential Composition]]
 ### Week 3

@@ -6,3 +6,4 @@ A method to deal with [[Syntactic Ambiguity]].
 # Types
 - [[Conditional Statement Delimiter]]
 - [[Arithmetic Statement Disambiguation Delimiter]]
+- [[Arithmetic Statement Disambiguation Precedence]]
