@@ -32,7 +32,7 @@ aliases:
 - [[Segment Tree]]
 - [[Fenwick Tree]]
 - [[Spanning Tree]]
-- [[Disjoint Set Union|Union-Find]]
+- [[Disjoint Set Union Find|Union-Find]]
 - [[Suffix Tree]]
 - [[2-3 Tree]]
 - [[B+ Tree]]
