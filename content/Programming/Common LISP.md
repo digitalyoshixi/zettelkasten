@@ -5,7 +5,7 @@ tags:
 aliases:
   - CLISP
 ---
-The modern implementation of [[List Processor|LISP]].
+The modern implementation of [[List Processor|LISP]] that proritizes many features for practical programming.
 # Interpreter Installation
 ```
 sudo pacman -S clisp
@@ -38,5 +38,6 @@ clisp myfile.lisp
 - [[LISP Constant Variable]]
 - [[LISP Function]]
 - [[LISP Loop]]
+- [[Common Lisp Object System|CLOS]]
 ### Libraries
 - [[LISP Format]]

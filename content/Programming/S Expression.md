@@ -2,6 +2,8 @@
 tags:
   - lisp
   - programming
+aliases:
+  - S-Expr
 ---
 These are expressions of the form 
 ```
