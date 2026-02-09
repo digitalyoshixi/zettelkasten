@@ -18,4 +18,5 @@ $\text{output} = f(n,key)$
 - [[Threefry]]
 ### Secure PRNGs
 - [[Block-Cipher]] in counter mode or output feedback mode
+	- [[HMAC-DRBG]]
 - [[Stream-Cipher]]

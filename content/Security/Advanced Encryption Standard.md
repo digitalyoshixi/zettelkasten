@@ -5,6 +5,7 @@ aliases:
   - AES
 ---
 A [[Post-Quantum Cryptography]] safe algorithm.
+Deemed to be a sbustitution-permutation network.
 128 bit Symmetric Cipher.
 - The key is constructed out of 64 bits
 Takes a message and a key.
