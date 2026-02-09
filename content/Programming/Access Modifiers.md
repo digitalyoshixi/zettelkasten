@@ -4,6 +4,9 @@ tags:
   - programming
 aliases:
   - Information Hiding
+  - public
+  - protected
+  - private
 ---
 ![[Pasted image 20231212133227.png]]
 # Public

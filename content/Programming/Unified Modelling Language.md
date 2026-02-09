@@ -21,6 +21,7 @@ colon (:) data type
 ### First
 - Minus(-): method is private 
 - Plus(+): method is public
+- Hash(#): method is protected
 ### Followed By
 methods/behavior name
 underline for static variables
