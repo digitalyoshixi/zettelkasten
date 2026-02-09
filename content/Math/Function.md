@@ -14,3 +14,8 @@ A [[Binary Relation]], [[Total Relation|Left Total Relation]] and [[Unique Relat
 - Then, $f(S)= \{ f(x) | x \in S \}$
 # Types
 - [[Multi-Variate Function]]
+- [[Involution]]
+- [[Bijective Functions|Bijective]]
+- [[Surjective Functions|Surjective]]
+- [[Injective Functions|Injective]]
+- [[Isomorphism|Isomorphic]]

@@ -4,12 +4,16 @@ tags:
 ---
 These are [[Java Classes]] that cannot be directly [[Object|Instantiated]].
 - Can have [[Abstract Methods]]
-- Cannot have [[Concrete Methods]]
+- Conventionally shouldn't have [[Concrete Methods]], but you can add them
 Commonly, you do not define any body for the abstract methods within the class.
 # Boilerplate
 ```java
 // Abstract class
 abstract class Sunstar {
+	private int a;
+	public Sunstar(int a){
+		this.a = a;
+	}
     abstract void printInfo();
 }
 

@@ -4,7 +4,7 @@ tags:
 ---
 # Types
 - [[Multiplicative Counting Principle]]
-- [[Permutations]]
+- [[Permutation]]
 - [[Combinations]]
 # Counting Rules
 - [[Counting Product Rule]]

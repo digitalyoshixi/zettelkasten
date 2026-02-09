@@ -43,7 +43,7 @@ Course taught by Prof. Sotos.
 - [[Discrete Uniform Probability Space]]
 - [[Counting]]
 	- [[Multiplicative Counting Principle]]
-	- [[Permutations]]
+	- [[Permutation]]
 	- [[Combinations]]
 - [[Partial Derivative]]
 - [[Jacobian Matrix]]

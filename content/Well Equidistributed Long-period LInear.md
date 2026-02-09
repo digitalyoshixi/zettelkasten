@@ -4,4 +4,4 @@ tags:
 aliases:
   - WELL
 ---
-A [[Pseudo Random Number Generator|PRNG]] based off linear recursion
+A [[Pseudo Random Number Generator|PRNG]] based off linear recursion.
