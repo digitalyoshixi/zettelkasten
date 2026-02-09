@@ -9,6 +9,7 @@ aliases:
 The [[Mathematics]] used to secure data.
 # [[Metauni]] Lectures
 - [[Cryptography Seminar 1 - Foundations]]
+- [[Cryptography Seminar 3 - Protocols]]
 # Vulnerabilities
 - [[CA Compromise]]
 - [[Key Compromise]]
@@ -39,10 +40,12 @@ The [[Mathematics]] used to secure data.
 	- [[Public Key]]
 	- [[Private Key]]
 - [[Keygen]]
-- [[Chosen Plaintext Attack|CPA]]
-- [[Known Plaintext Attack]]
-- [[Indistinguishability Under Chosen Plaintext Attack|IND-CPA]]
-- [[Indistinguishability Under Chosen Ciphertext Attack|IND-CCA]]
+- [[Cryptographic Threat Models]]
+- [[Secrecy]]
+- [[Integrity]]
+- [[Authenticity]]
+- [[Kerckhoff's Principle]]
+- [[Shannon's Maxim]]
 - [[Symmetric Cryptography]]
 	- [[Cipher]]
 - [[Public-Key Cryptography|Asymmetric Cryptography]]
@@ -51,7 +54,15 @@ The [[Mathematics]] used to secure data.
 	- [[Public Key Cryptography Standards|PKCS]]
 - [[Salting]]
 - [[Peppering]]
+- [[Elliptic Curve Cryptography|ECC]]
+- [[Message Authentication Code]]
+- [[Transport Layer Security|TLS]]
 # Mathematical Cryptography
+### Notions of Security
+- [[Indistinguishability Under Chosen Plaintext Attack|IND-CPA]]
+- [[Indistinguishability Under Chosen Ciphertext Attack|IND-CCA]]
+- [[Semantic Security]]
+- [[Information-Theoretic Security]]
 ### Modularity
 - [[Modulus|Modulo]]
 - [[Legendre Symbol]]

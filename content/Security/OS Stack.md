@@ -21,6 +21,6 @@ Organized memory where program data resides. Stores:
 ![[Drawing 2025-06-24 20.46.23.excalidraw]]
 - Oftentimes, the return address is 4 bytes, so 4 bytes of junk are used as padding
 # Concepts
-- [[Last in First Out|LIFO]]
+- [[Stack|LIFO]]
 - [[Stack Frame]]
 - [[Python2 for Crafting Payloads]]

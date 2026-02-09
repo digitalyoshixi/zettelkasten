@@ -8,7 +8,7 @@ It is a [[Imperative Programming|Imperative Language]] with a [[Functional Progr
 - Static scoping
 - Dynamic typing
 - Uniform treatment of program and data
-- Properly [[Tail Recursion]]
+- Proper [[Tail Recursion]]
 - Functions are values
 - Pass by value
 # Installation
@@ -34,6 +34,7 @@ racket -f myfile.rkt -i
 - [[Racket List]]
 - [[Racket String]]
 - [[Racket Vector]]
+- [[Racket Lookup Table]]
 - [[Racket Hash Table]]
 - [[Read-eval-print-loop]]
 - [[Racket Procedure]]
@@ -43,6 +44,9 @@ racket -f myfile.rkt -i
 - [[Racket Closure]]
 - [[Racket Full Function Definition]]
 - [[Racket Evaluation]]
+	- [[Evaluation by Substitution]]
+	- [[Racket Special Forms]]
+	- [[Racket Continuation]]
 - [[Reducible Expression]]
 - [[Continuation]]
 - [[Racket Comment]]

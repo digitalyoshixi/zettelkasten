@@ -5,5 +5,5 @@ aliases:
   - Formalized Set Theory
 ---
 Describing mathematical sets in formal language to avoid paradoxes like:
-- [[Russells Paradox]]
+- [[Russell's Paradox]]
 - [[Burali-Forti Paradox]]

@@ -2,10 +2,11 @@
 tags:
   - math
 ---
-This is how elements of a set are related.
+A set of [[Tuple]] showing how a set is related.
 # Formal Definition
-A relation is a subset of [[Cartesian Product]] of two sets.
-$R \subset A \times B$
+A relation $R$ is a subset of [[Cartesian Product]] of two sets with a relation operation.
+$R \subset A \times B$.
+- $\{ (a,b) | aRb \}$
 # Properties
 ### [[Reflexive]]
 $R$ is reflexive if $\forall a \in A, (a,a) \in R$
@@ -17,3 +18,9 @@ $R$ is transitive if $\forall a,b,c \in A, (a,b) \in \mathbb{R} \wedge (b,c) \in
 R is antisymmetric if $\forall a,b \in A$ s.t $a \neq b, (a,b) \in R \implies (b,a) \not \in R$
 ### [[Partial Order]]
 $R$ is a partial order if it is [[Antisymmetric]] and [[Transitive]]
+# Example
+$\{ (x,y) |x \text{ loves } y \}$
+# Types
+- [[Binary Relation]]
+- [[Unique Relation]]
+- [[Total Relation]]

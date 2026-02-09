@@ -1,8 +1,13 @@
 ---
 tags:
   - programming
+aliases:
+  - Last In First Out
+  - LIFO
+  - FILO
+  - First In Last Out
 ---
-A [[Abstract Data Type|ADT]] that follows [[Last in First Out|LIFO]] principle.
+A [[Abstract Data Type|ADT]] that follows [[Stack|LIFO]] principle.
 Able to push and pop values.
 ![[Stack-20251023160413772.webp]]
 # Data Structure

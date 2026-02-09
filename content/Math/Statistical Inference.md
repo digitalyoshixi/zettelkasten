@@ -9,4 +9,4 @@ aliases:
 # Types
 - [[Point Estimation]]
 - [[Interval Estimation]]
-- [[Hypothesis Testing]]
+- [[Test of Hypothesis|Hypothesis Testing]]

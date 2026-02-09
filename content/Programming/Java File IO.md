@@ -6,7 +6,7 @@ tags:
 - [[Java Exceptions]]
 - [[Java Try Catch Blocks]]
 # Streams
-- [[Streams]]
+- [[Stream]]
 - [[Java FileWriter]]
 - [[Java File]]
 # Other

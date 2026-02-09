@@ -25,4 +25,5 @@ A programming language used in [[Webapp|Webapps]] promoted for its:
 - [[Javascript Equivalences]]
 - [[Javascript Base64]]
 - [[Javascript map]]
+- [[Javascript apply]]
 # Boilerplate

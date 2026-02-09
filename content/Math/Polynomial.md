@@ -12,7 +12,7 @@ A form of numbers that takes from a field.
 - [[Leading Coefficient]]
 - [[Local Extrema|Turning Points]]
 - [[Global Extrema]]
-- [[Family]]
+- [[Function Family]]
 - [[Even and Odd Functions]]
 	- [[Even and Odd Functions from Factored Form]]
 - [[Polynomial from Finite Differences]]

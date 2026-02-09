@@ -26,7 +26,8 @@ aliases:
 - Crowdmark to submit homework for hand-written
 # Concepts
 ### Week 1
-- [[Philosophy/Language|Language]]
+- [[Programming/Language|Language]]
+- [[Translation]]
 - [[High-Level Language]]
 - [[Low-Level Language]]
 - [[Assembly]]
@@ -45,6 +46,7 @@ aliases:
 - [[Extended Backus Naur Form]]
 - [[Parse Tree]]
 - [[Syntactic Ambiguity]]
+- [[Ambiguous Context Free Grammar|Grammar Disambiguation]]
 - [[Grammar Delimiter]]
 - [[Sequential Composition]]
 ### Week 3
@@ -55,6 +57,9 @@ aliases:
 - [[Lambda Function]]
 - [[Equality of Functions]]
 ### Week 4
+- [[Java Stream]]
+- [[Java Lambda Function]]
+- [[Java Method Reference]]
 - [[Racket Full Function Definition]]
 - [[Racket fold]]
 - [[Recursion]]

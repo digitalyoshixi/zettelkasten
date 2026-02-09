@@ -2,7 +2,7 @@
 tags:
   - probability
 ---
-Describing mathematical sets in natural language.
+Describing [[Set Theory]] in natural language.
 In contrast to [[Axiomatic Set Theory]].
 # Definition
 - Sets are unordered collections of distinct [[Element|Elements]].
@@ -16,3 +16,5 @@ In contrast to [[Axiomatic Set Theory]].
 # Types
 - [[Universal Set]]
 - [[Empty Set]]
+# Problems
+- [[Russell's Paradox]]

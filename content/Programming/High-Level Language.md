@@ -2,7 +2,7 @@
 tags:
   - programming
 aliases:
-  - Programming Languages
+  - Programming Language
 ---
 These are languages meant for human understanding.
 - [[Python]]

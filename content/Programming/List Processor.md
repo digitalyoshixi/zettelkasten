@@ -14,3 +14,5 @@ LISP will teach you how to program better.
 - [[Scheme]]
 - [[Racket]]
 - [[tinylisp]]
+- [[MLisp]]
+- [[Clojure]]

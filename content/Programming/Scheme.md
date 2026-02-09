@@ -3,4 +3,6 @@ tags:
   - programming
   - lisp
 ---
-A [[List Processor|LISP]] variant.
+A [[List Processor|LISP]] variant that prioritizes:
+- [[Tail Recursion]]
+- [[Continuation|First Class Continuations]]

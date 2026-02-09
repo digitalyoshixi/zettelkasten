@@ -4,6 +4,7 @@ tags:
   - math
 aliases:
   - PV
+  - Proposition
 ---
 A variable that can be evaluated as true or false.
 

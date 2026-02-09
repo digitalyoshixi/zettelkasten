@@ -40,7 +40,7 @@ aliases:
 - [[C]]
 - [[C Command Line Arguments]]
 - [[File Descriptor]]
-- [[Streams]]
+- [[Stream]]
 - [[Access Control Model|ACL]]
 - [[POSIX]]
 - [[Zero Trust Security|Zero Trust]]

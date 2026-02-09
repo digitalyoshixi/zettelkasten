@@ -67,6 +67,7 @@ aliases:
 ### Week 4
 - [[Confidence Intervals]]
 - [[Confidence Intervals for Population Proportion]]
+- [[Analysis of Variance]]
 ### Week 5
 - [[Test of Hypothesis]]
 - [[Simple Hypothesis]]

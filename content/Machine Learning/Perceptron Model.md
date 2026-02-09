@@ -1,7 +1,6 @@
 ---
 tags:
   - machine_learning
-  - machine_learning
 ---
 A simple model of neurons that can learn to classify inputs by adjusting numbers from a learning rule.
 [https://pabloinsente.github.io/the-perceptron](https://pabloinsente.github.io/the-perceptron)

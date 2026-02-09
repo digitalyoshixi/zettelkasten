@@ -19,6 +19,7 @@ A utility that:
 - [[Basic Expression Parsing]]
 - [[Binary Expression Parsing]]
 - [[Pratt Parser]]
+- [[Earley Parser]]
 - [[Look Ahead Left-to-Right Parser]]
 - [[Left to Right Leftmost Derivation Parsing]]
 # Further Reading

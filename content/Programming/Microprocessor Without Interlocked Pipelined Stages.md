@@ -6,6 +6,9 @@ aliases:
   - MIPS
 ---
 A [[Reduced Instruction Set Compiler|RISC]] [[Microprocessor]] with [[Microprocessor Without Interlocked Pipelined Stages Assembly|MIPS Assembly]].
+Used in:
+- [[Nintendo64]]
+- Playstation 2
 # CPU Diagram
 ![[Microprocessor Without Interlocked Pipelined Stages-20250610200447957.webp]]
 # Flags
