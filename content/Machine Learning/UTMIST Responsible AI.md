@@ -4,7 +4,7 @@ tags:
 ---
 # Week 1
 - [[Responsible AI]]
-- [[COMPAS]]
+- [[Correctional Offender Management Profiling for Alternative Sanctions]]
 - [[CORELS]]
 - [[Fairness Impossibility Theorem]]
 - [[Fairness]]

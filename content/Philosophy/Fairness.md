@@ -28,5 +28,5 @@ The concept of allowing actions to affect a wider population correctly.
 - [[Ex-ante Fairness]]
 - [[Ex-post Fairness]]
 - [[Ex-ante Ex-post Example]]
-- [[COMPAS]]
+- [[Correctional Offender Management Profiling for Alternative Sanctions]]
 - [[Amazon AI Recruitment Bias]]
