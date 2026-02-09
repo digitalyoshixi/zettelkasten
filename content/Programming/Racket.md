@@ -47,6 +47,7 @@ racket -f myfile.rkt -i
 - [[Continuation]]
 - [[Racket Comment]]
 - [[Racket Style Guide]]
+- [[Racket Print Debugging]]
 ### Procedures
 - [[Racket add]]
 - [[Racket subtract]]
