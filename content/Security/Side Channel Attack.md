@@ -9,3 +9,7 @@ Often rely on extra non-private information about devices.
 - [[Circuit Characterization from Waveform View]]
 - [[Circuit Characterization from Current Usage]]
 - [[Timing Attack]]
+- [[Replay Attack]]
+- [[Black-Bag Cryptanalysis]]
+- [[Rubber-host Cryptanalysis]]
+- [[Man-In-The-Middle]]
