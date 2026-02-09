@@ -19,8 +19,8 @@ underline for static variables
 colon (:) data type
 # Methods
 ### First
-Minus(-): method is private 
-Plus(+): method is public
+- Minus(-): method is private 
+- Plus(+): method is public
 ### Followed By
 methods/behavior name
 underline for static variables
