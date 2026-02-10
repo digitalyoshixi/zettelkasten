@@ -108,3 +108,5 @@ aliases:
 - [[Social and Ethical Issues in AI]]
 - [[AI Fairness Issues]]
 - [[AI Bias]]
+### Week 6
+- [[Calibration Within Groups]]
