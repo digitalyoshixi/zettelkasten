@@ -13,5 +13,5 @@ tags:
 - [[Proportionality|Statistical Parity]]
 - [[Equality of False Negatives]]
 - [[Equality of False Positives]]
-- [[Equality of Position Predicated Value]]
+- [[Equality of Positive Predicated Value]]
 - 

@@ -5,4 +5,4 @@ aliases:
   - Equality of Position Predicted Value
   - PPV
 ---
-Given classification score means the same thing regardless of group membership.
+Given [[True Positive]] rate is the same across all relevant groups.
