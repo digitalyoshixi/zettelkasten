@@ -6,7 +6,7 @@ aliases:
 ---
 A [[Post-Quantum Cryptography]] safe algorithm.
 Deemed to be a sbustitution-permutation network.
-128 bit Symmetric Cipher.
+128 bit Symmetric [[Block-Cipher]].
 - The key is constructed out of 64 bits
 Takes a message and a key.
 The key can be 128bits, 192bits or 256bits.
@@ -18,7 +18,18 @@ The key can be 128bits, 192bits or 256bits.
 - [[Counter Mode|CTR]]
 - [[Output Feedback|OFB]]
 - [[Galois Counter Mode|GCM]]
+# Concepts
+- [[Block]]
+# Attacks
+- [[Biclique Attack]]
 # Encryption Process
+1. Our 16-byte input is converted into a $4 \times 4$ [[Matrix]]
+2. Key Expansion: The 16-byte key is turned into $n$ number of [[Round Key]] which are also $4 \times 4$ matrix
+	1. $n = 10$ if AES-128
+	2. $n = 12$ if AES-192
+	3. $n = 14$ if AES-256
+3. 
+### Diagram
 ![[Advanced Encryption Standard-20240410021859196.webp]]
 ![[Advanced Encryption Standard-20240410021907720.webp]]
 ![[Advanced Encryption Standard-20240410021922409.webp]]
