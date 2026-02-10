@@ -20,3 +20,4 @@ A form of numbers that takes from a field.
 	- [[Factorial]]
 	- [[Graphs In Different Degrees]]
 - [[Polynomials over a Field]]
+- [[Quartic Polynomial Solving Process]]
