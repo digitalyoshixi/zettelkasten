@@ -4,6 +4,7 @@ tags:
   - react
 ---
 A [[JavaScript]] library that uses client-side JS, to create dynamic webpages.
+
 It is responsible only for making user interfaces.
 Maintained by [[Facebook]]
 It is:
