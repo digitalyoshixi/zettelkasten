@@ -23,7 +23,7 @@ The key can be 128bits, 192bits or 256bits.
 - [[Biclique Attack]]
 # Encryption Process
 1. Our 16-byte input is converted into a $4 \times 4$ [[Matrix]]
-2. Key Expansion: The 16-byte key is turned into $n$ number of [[Round Key]] which are also $4 \times 4$ matrix
+2. [[Key Expansion]]: The 16-byte key is turned into $n$ number of [[Round Key]] which are also $4 \times 4$ matrix
 	1. $n = 10$ if AES-128
 	2. $n = 12$ if AES-192
 	3. $n = 14$ if AES-256
