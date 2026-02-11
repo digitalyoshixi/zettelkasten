@@ -6,7 +6,7 @@ tags:
 ## University
 ### Weekly Activites
   - [x] Weekly philosophy ✅ 2026-02-10
-  - [ ] Weekly systems programming
+  - [x] Weekly systems programming
   - [x] Weekly C24 assignments ✅ 2026-02-11
 ### Midterms
   - [ ] [[Principles of Programming Languages|CSCC24]] midterm

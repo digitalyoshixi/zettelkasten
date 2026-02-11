@@ -88,3 +88,4 @@ aliases:
 - [[Process]]
 - [[fork]]
 - [[Make]]
+- [[Gnu Scientific Library]]

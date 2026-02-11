@@ -1,5 +1,6 @@
 ---
 tags:
+  - philosophy
 ---
 Based off [[Brian Hedden's People Coins and Rooms Through Experiment]]
 # Argument
