@@ -72,3 +72,6 @@ aliases:
 	- [[Reducible Expression|Redex]]
 	- [[Continuation]]
 - [[Continuation Passing Style]]
+### Week 6
+- [[Haskell]]
+- [[Glasgow Haskell Compiler Interactive|ghci]]

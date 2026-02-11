@@ -5,14 +5,14 @@ tags:
 aliases:
   - Haskell Application Operator
 ---
-```
+```haskell
 ($) :: (a->b) -> a -> b
 ```
 Applies a function to an argument, but evaluated right-to-left
 - Right associative
 - Low precedence
 # Example
-```
+```haskell
 -- Instead of:
 print (show (1 + 2))
 

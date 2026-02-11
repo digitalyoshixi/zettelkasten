@@ -22,7 +22,6 @@ tags:
   - [ ] Workshop on Cryptography
   - [ ] Intro seminar on CTFs
   - [ ] Work on discord bot features
-
 ## Competitons
 - [ ] crackmes.one
 - [ ] ISSessionsCTF

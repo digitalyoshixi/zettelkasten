@@ -10,10 +10,10 @@ A [[Post-Quantum Cryptography]] safe algorithm. Deemed to be a sbustitution-perm
 Takes a message and a key.
 The key can be 128bits, 192bits or 256bits.
 # Modes
+- [[Electronic Code Block|ECB]]
 - [[Cipher Block Chaining|CBC]]
 - [[Cipher Block Chaining Message Authentication Code]]
 - [[Cipher Feedback|CFB]]
-- [[Electronic Code Block|ECB]]
 - [[Counter Mode|CTR]]
 - [[Output Feedback|OFB]]
 - [[Galois Counter Mode|GCM]]

@@ -3,4 +3,7 @@ tags:
   - programming
   - haskell
 ---
-This is an array of haskell chars.
+This is an [[Haskell List]] of haskell chars.
+```
+String
+```

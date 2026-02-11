@@ -34,7 +34,7 @@ in `Main.hs`
 - [[Haskell Interface File]]
 - [[Hoogle]]
 ### Essential
-- [[Haskell Operators]]
+- [[Haskell Operations]]
 - [[Haskell Type]]
 - [[Haskell Boxed Types]]
 - [[Haskell Unboxed Type|Haskell Primative]]
@@ -96,3 +96,5 @@ in `Main.hs`
 - [[Haskell map]]
 - [[Haskell zipWith]]
 - [[Haskell filter]]
+- [[Haskell concat]]
+- [[Haskell Colon Operator]]
