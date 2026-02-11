@@ -13,3 +13,6 @@ Used for programming [[Application Specific Integrated Circuit|ASIC]] with an [[
 - [[Verilog]]
 - [[VHDL]]
 - [[System Verilog]]
+- [[Prolog]]
+# Cool Tricks
+- [[Assertion Programming]]

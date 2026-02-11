@@ -5,8 +5,8 @@ aliases:
   - CPS
 ---
 A form of recursion that does not generate extra stack frames.
-Functions do not return values, but instead direct control to a new [[Continuation|Continuation Function]].
-Used by [[Python Generator]].
+Functions do not return values, but instead direct control to a new [[Continuation|Continuation Function]], wherein the final call has the return value.
+
 ![[Continuation Passing Style-20260204143939596.webp]]
 # Example 1
 For factorial $n!$
@@ -51,3 +51,8 @@ The call trace could look like:
 ; [id 2]
 ; 2
 ```
+# Usages
+- [[Function and Value Return with CPS]]
+- [[Multithreading with CPS]]
+- [[Exception Handling with CPS]]
+- [[Logic Programming with CPS]]

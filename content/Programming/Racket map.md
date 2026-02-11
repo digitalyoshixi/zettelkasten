@@ -15,3 +15,15 @@ Applies the function proc against all the inputs `l1`, ..., `ln`
 >>> (map + '(1 2 3) '(1 2 3))
 '(2 4 6)
 ```
+# Tail Call Implementation
+```lisp
+(define (custom-map f l)
+	(define (map-iter l accum)
+		(cond   
+        [(empty? l) (accum l)]
+				[else (map-iter (rest l) (lambda (x) (accum (cons (f (first l)) x))) )]
+		)
+	)
+	(map-iter l (lambda (x) x))
+)
+```
