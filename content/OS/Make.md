@@ -4,7 +4,10 @@ tags:
   - programming
 ---
 A tool used to assist in compiling and lining [[C]] code.
-makefiles are defined in `./makefile`
+makefiles are defined in:
+- `makefile`
+- `Makefile`
+- `GNUmakefile`
 # Example
 ```c
 all: hellow
@@ -23,3 +26,7 @@ Has commands:
 - `make all`
 - `make hellow`
 - `make clean`
+# Concepts
+- [[Make Variable]]
+- [[Make Target]]
+- [[Make PHONY Target]]

@@ -29,5 +29,10 @@ adds debugger symbols
 Shows all the warnings
 ### `-lm`
 For linking [[math.h]] library
-# `-std=c++20`
+### `-std=c++20`
 For setting the current version to c++ 20
+# Compiler Flags
+- `-O0` : No optimizations
+- `-O1` : Default optimizations
+- `-O2` : Optimize that does not involve a speed-space tradeoff
+- `O3` : Maximum optimization
