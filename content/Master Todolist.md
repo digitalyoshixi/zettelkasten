@@ -7,7 +7,7 @@ tags:
 ### Weekly Activites
   - [x] Weekly philosophy ✅ 2026-02-10
   - [ ] Weekly systems programming
-  - [ ] Weekly C24 assignments
+  - [x] Weekly C24 assignments ✅ 2026-02-11
 ### Midterms
   - [ ] [[Principles of Programming Languages|CSCC24]] midterm
   - [ ] [[Ethics of Artificial Intelligence|PHlB18]] midterm
@@ -28,6 +28,7 @@ tags:
 - [ ] AtHack
 - [ ] Deerhacks
 	- [ ] Workshop on compilers
+- [ ] Gamejam
 ## Courses
 - [ ] [[Bluedot Technical AI Safety]]
 ## Jobs

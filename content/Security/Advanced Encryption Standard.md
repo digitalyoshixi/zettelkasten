@@ -11,12 +11,13 @@ Takes a message and a key.
 The key can be 128bits, 192bits or 256bits.
 # Modes
 - [[Electronic Code Block|ECB]]
+- [[Cipher Feedback|CFB]]
 - [[Cipher Block Chaining|CBC]]
 - [[Cipher Block Chaining Message Authentication Code]]
-- [[Cipher Feedback|CFB]]
 - [[Counter Mode|CTR]]
 - [[Output Feedback|OFB]]
 - [[Galois Counter Mode|GCM]]
+- [[Propagating Cipher Block Chaining]]
 # Concepts
 - [[Block]]
 # Attacks
