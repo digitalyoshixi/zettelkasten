@@ -73,7 +73,8 @@ racket -f myfile.rkt -i
 - [[Racket first]]
 - [[Racket rest]]
 - [[Racket append]]
+- [[Racket list-ref]]
+- [[Racket length]]
 # Libraries
 - [[Racket Tests]]
 - [[Racket trace]]
-# Guides

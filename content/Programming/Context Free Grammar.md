@@ -4,6 +4,7 @@ tags:
   - linguistics
 aliases:
   - CFG
+  - Type-2 Grammar
 ---
 A finite collection of [[Production|Production Rules]] which tell us whether certain strings or sentences are grammatical or not.
 

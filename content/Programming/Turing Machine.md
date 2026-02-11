@@ -22,6 +22,7 @@ A Turing Machine $T$ is a 7-[[Tuple]] that consists of:
 	- $\delta(r,c) = \delta(r,d,Y)$
 	- Where $a,b,c,d \in \sum \cup \{ B \}$, $X,Y \in \{ L,R \}$
 # Turing Machines
+- [[Linear Bounded Automata]]
 - [[Binary Turing Machine]]
 - [[Turing Time Machine]]
 - [[Oracle Machine]]

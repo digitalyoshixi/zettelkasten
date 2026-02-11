@@ -9,4 +9,9 @@ tags:
 - `proc` is a n-ary [[Racket Procedure]]
 Applies the function proc against all the inputs `l1`, ..., `ln`
 # Example
-- `(map (lambda (x) (* x x) '(1 2 3))`
+```
+>>> (map (lambda (x) (* x x) '(1 2 3))
+'(1 4 9)
+>>> (map + '(1 2 3) '(1 2 3))
+'(2 4 6)
+```

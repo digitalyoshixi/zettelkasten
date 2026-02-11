@@ -50,7 +50,7 @@ aliases:
 - [[Blockchain]]
 - [[Digital Certificate]]
 - [[Self Encrypting Device]]
-- [[GNU Privacy Guard]]
+- [[Security/GNU Privacy Guard]]
 - [[Advanced Encryption Standard|AES]]
 - [[Key Distribution Center]]
 ### Chapter 2

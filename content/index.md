@@ -11,8 +11,11 @@ I aim to make this obsidian vault bloated asf
 - [[Systems Programming|CSCB09]]
 - [[Design and Analysis of Data Structures|CSCB63]]
 - [[Principles of Programming Languages|CSCC24]]
-- [[Introduction to Statistics|STAB57]]
 - [[Ethics of Artificial Intelligence|PHlB18]]
 # Current Learning
+- [[Cryptography]]
+- [[Bluedot Technical AI Safety]]
 - [[Emulation|Emulator]]
-- [[Homomorphic Encryption Project]] 
+- [[UTMIST Mechanistic Interpretability Workshops]]
+# Currently Reading
+- [[If Anyone Builds It Everyone Dies]]

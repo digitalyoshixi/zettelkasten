@@ -1,6 +1,8 @@
 ---
 tags:
   - programming
+aliases:
+  - Type-3 Grammar
 ---
 A restricted version of [[Control Flow Guard|CFG]] that must be limited in [[Production|Production Rules]] that are:
 - [[Left Recursive Grammar]]

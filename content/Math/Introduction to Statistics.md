@@ -4,6 +4,7 @@ tags:
 aliases:
   - STAB57
 ---
+**Dropped this course, taking it again next fall probably**
 # Notes
 - A course taught by Shahriar Shams
 - sharir.shams@utoronto.ca
