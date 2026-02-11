@@ -19,4 +19,9 @@ dist:
 - `$^` - filename of all prerequisites sepereated by space
 - `$+` - similar to `$^` but includes duplicates
 - `$?` - names of all prerequisites 
-
+# Environment Variable Check
+Variables that will take on environment variables if they exist, if not then defaults to a default value.
+```c
+# if not defined in ENV variables, then take on default value '.'
+GSL_INC ?= .
+```

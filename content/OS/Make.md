@@ -2,6 +2,8 @@
 tags:
   - linux
   - programming
+aliases:
+  - Makefile
 ---
 A tool used to assist in compiling and lining [[C]] code.
 makefiles are defined in:
@@ -10,7 +12,13 @@ makefiles are defined in:
 - `GNUmakefile`
 # Example
 ```c
+CC = gcc
+
+CCFLAGS = -I$(GSL_INC) -O2
+LDFLAGS = -L$(GSL_LIB)
+
 all: hellow
+
 hellow: hellow.c
 	gcc -o hellow hellow.c
 	
