@@ -5,7 +5,7 @@ tags:
 aliases:
   - CSCC24
 ---
-# Notes
+You can only harm someone if they are aware of the# Notes
 - Course taught by Anya Tafliovich - call her Anya
 - Course website: https://www.utsc.utoronto.ca/~atafliovich/cscc24/
 - Syllabus: https://www.utsc.utoronto.ca/~atafliovich/cscc24/admin/courseinfosheet.pdf
