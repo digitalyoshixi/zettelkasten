@@ -18,6 +18,7 @@ All processes will have a process ID that can be viewed with `ps -a`
 In [[IT/Windows]], we can use [[Windows Task Manager]]
 # Process Concepts
 - [[Process ID]]
+- [[Process Control Block]]
 - [[Process States]]
 - [[Process Creation]]
 - [[Process Scheduling]]

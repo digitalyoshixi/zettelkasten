@@ -5,9 +5,10 @@ tags:
 aliases:
   - PCB
 ---
+![[Process Control Block-20260211163442156.webp]]
 A segment of a process that includes:
 - Process state. Is it running, waiting, terminated?
-- Process number/id. Special identifier for this process
+- [[Process ID|PID]]. Special identifier for this process
 - Program counter. Tells us the current line of code being executed
 - Registers. Tells us the memory address
 - Memory limits. Represents memory currently being used
