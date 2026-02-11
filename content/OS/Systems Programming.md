@@ -83,7 +83,7 @@ aliases:
 - [[Preprocessor]]
 - [[C Function Pointers]]
 ### Week 5
-
+- [[Privacy Harms]]
 ### Week 6
 - [[Process]]
 - [[fork]]

@@ -1,7 +1,6 @@
 ---
 tags:
   - machine_learning
-  - machine_learning
   - algorithm
 aliases:
   - kNN
