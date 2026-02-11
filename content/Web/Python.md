@@ -20,6 +20,8 @@ Python is a bytecode virtual machine. You can see the [[Python Bytecode]] and ex
 - [[Python Type Hinting]]
 # Guides
 - [[Python Write Binary File]]
+- [[Python Pipe Shellcode]]
+- [[Python Convert Hexstring to ASCII Stirng]]
 # Libraries
 - [[Python os]]
 - [[Sci-kit Learn]]
