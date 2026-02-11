@@ -1,6 +1,6 @@
 ---
 tags:
-  - control_flow
+  - programming
 ---
 ![[Pasted image 20230913145315.png]]
 So, just a if statement that is one line.

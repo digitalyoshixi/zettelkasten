@@ -23,6 +23,14 @@ Or:
 ```
 racket -f myfile.rkt -i
 ```
+# Boilerplate
+```
+#lang racket
+
+(provide export1 export2)
+
+; body
+```
 # Concepts
 ### Fundamental
 - [[Racket Expression]]
@@ -50,8 +58,8 @@ racket -f myfile.rkt -i
 - [[Reducible Expression]]
 - [[Continuation]]
 - [[Racket Comment]]
-- [[Racket Style Guide]]
-- [[Racket Print Debugging]]
+- [[Racket provide]]
+- [[Racket require]]
 ### Procedures
 - [[Racket add]]
 - [[Racket subtract]]
@@ -75,6 +83,12 @@ racket -f myfile.rkt -i
 - [[Racket append]]
 - [[Racket list-ref]]
 - [[Racket length]]
+- [[Racket member]]
+- [[Racket reverse]]
 # Libraries
 - [[Racket Tests]]
 - [[Racket trace]]
+# Guides
+- [[Racket Style Guide]]
+- [[Racket Early Exit]]
+- [[Racket Print Debugging]]

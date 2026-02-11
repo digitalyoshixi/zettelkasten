@@ -3,7 +3,7 @@ tags:
   - IO
 ---
 # Exceptions
-- [[Java Exceptions]]
+- [[Java Exception]]
 - [[Java Try Catch Blocks]]
 # Streams
 - [[Stream]]

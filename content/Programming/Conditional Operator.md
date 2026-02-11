@@ -4,8 +4,8 @@ tags:
 aliases:
   - Ternary Operator
 ---
-c ? x : y
-If conditional `c` is `true` then evaluate `x`, otherwise evaluate `y`
+`c ? x : y`
+- If conditional `c` is `true` then evaluate `x`, otherwise evaluate `y`
 Its a shorthand [[C Conditional Statements]]
 It also counts as an expression, so you can use it with a similar purpose as a lambda function
 ```cpp

@@ -1,9 +1,18 @@
 ---
 tags:
-  - control_flow
+  - programming
 aliases:
   - Middle Tested Loops
+  - Early Exit
 ---
-just a simple `break` to exit the current code loop.
-
-the opposite of this is [[Continue]] which will skip the current code block to continue the loop
+`break` to exit the current code loop.
+- Opposite of [[Continue]]
+# Example
+```java
+while (true){
+	if (x % 2 == 0){
+		continue;
+	}
+	x--;
+}
+```

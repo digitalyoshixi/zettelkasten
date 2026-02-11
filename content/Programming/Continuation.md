@@ -4,6 +4,7 @@ tags:
 ---
 A expression with context surrounding a [[Reducible Expression]].
 Continuations of an expression becomes functions with a given argument representing what needs to be done to the [[Reducible Expression|Redex]] to get the final value.
+- *Like where the program needs to return to after finishing a [[Stack Frame]] (Program line + Stack status)*
 # Example
 ### Example 1
 - `(- 4 [])` is a continuation

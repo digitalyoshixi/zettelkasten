@@ -4,6 +4,7 @@ tags:
   - c
 ---
 The if-statement continues if the input is **non-zero.**
+[[Shorthand If Statements]]
 # Single statement conditional
 ```cpp
 if (booleanvalue) //something one;

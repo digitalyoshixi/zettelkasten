@@ -1,7 +1,17 @@
 ---
 tags:
-  - control_flow
+  - programming
+aliases:
+  - Early Exit
 ---
 `continue` skip the current code block and go to next iteration of loop.
-
-the opposite of this is [[Break]] which will escape the current code block loop
+Opposite of [[Break]].
+# Example
+```java
+while (true){
+	if (x % 2 == 0){
+		continue;
+	}
+	x--;
+}
+```

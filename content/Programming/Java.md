@@ -75,6 +75,6 @@ public class Main {
 ### Memory Management
 - [[String Pooling]]
 ### Testing
-- [[Java Exceptions]]
+- [[Java Exception]]
 ### Conventions
 - [[Java Coding Conventions]]

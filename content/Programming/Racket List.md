@@ -14,3 +14,7 @@ tags:
 - `rest`
 # Value
 List `(f . (arg0 ... argN))` has value `f(arg0, ... , argN)`
+# Functions
+- [[Racket length]]
+- [[Racket list-ref]]
+- [[Racket member]]
