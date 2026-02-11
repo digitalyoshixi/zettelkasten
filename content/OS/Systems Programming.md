@@ -87,3 +87,4 @@ aliases:
 ### Week 6
 - [[Process]]
 - [[fork]]
+- [[Make]]

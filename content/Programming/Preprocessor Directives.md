@@ -2,6 +2,7 @@
 aliases:
   - Compiler Directive
   - Macro
+  - Precompiler Instruction
 tags:
   - c
   - cpp
