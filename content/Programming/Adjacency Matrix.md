@@ -13,7 +13,8 @@ It is also more space expensive.
 # Directed Graph
 - Matrix is not symmetrical
 - Diagonals do not necessarily need to be 0
-# Graph Operations
+# Complexity
+With $n = |V|$, $m = |E|$
 - Adding an edge ($i,j$)
 	- Worst case : $O(1)$
 - Remove edge ($i,j$)
@@ -24,3 +25,4 @@ It is also more space expensive.
 	- Worst case: $O(n^{2})$
 - Deleting a node
 	- Worst case: $O(n)$
+- Space complexity $\Theta(n^{2})$

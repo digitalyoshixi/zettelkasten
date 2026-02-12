@@ -6,6 +6,7 @@ tags:
 A data structure that involves:
 - Nodes
 - Links
+It is a [[Programming/Graph|Graph]] that is [[Graph Connected|Connected]] without [[Graph Cycle|Cycles]]
 # Structure
 - Root node
 - Children nodes of parent nodes

@@ -9,7 +9,7 @@ tags:
   - [x] Weekly systems programming
   - [x] Weekly C24 assignments ✅ 2026-02-11
 ### Midterms
-  - [ ] [[Principles of Programming Languages|CSCC24]] midterm
+  - [x] [[Principles of Programming Languages|CSCC24]] midterm ✅ 2026-02-11
   - [ ] [[Ethics of Artificial Intelligence|PHlB18]] midterm
   - [ ] [[Systems Programming|CSCB09]] midterm
   - [ ] [[Design and Analysis of Data Structures|CSCB63]] midterm

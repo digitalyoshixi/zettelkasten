@@ -12,3 +12,5 @@ A formal presentation of how to develop [[Type System]] or alternatives to [[Set
 - [[Zermello-Frankel Set Theory]]
 - [[Intuitionistic Type Theory]]
 - [[Typed Lambda Calculus]]
+# Paradoxes
+- [[Girard's Paradox]]

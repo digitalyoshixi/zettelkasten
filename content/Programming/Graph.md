@@ -24,3 +24,8 @@ Graph has a
 - [[Graph Path]]
 - [[Graph Cycle]]
 - [[Path Finding]]
+- [[Vertex Incident]]
+- [[Edge Endpoint]]
+- [[Vertex Degree]]
+- [[Vertex Adjacency]]
+- [[Graph Connected]]
