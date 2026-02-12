@@ -12,6 +12,8 @@ aliases:
 # Types
 - [[Haskell Unboxed Type|Haskell Primative]]
 - [[Haskell Boxed Types]]
+- [[Haskell Any]]
+- [[Haskell Generalized Algebraic Datatype]]
 # Type Checking
 ```
 :type x
