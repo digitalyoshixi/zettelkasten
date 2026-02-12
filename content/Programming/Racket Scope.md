@@ -29,6 +29,7 @@ aliases:
 - Creates local variables and bind them to expression results
 - [[Scope]] of these variables is in the body of the let statement
 - The variable `sqr` can be referenced
+- TLDR: You need to define something before you call it
 # Forward-Backward-Self Reference Scope `letrec`
 - Definitions can be recursive
 ```lisp
