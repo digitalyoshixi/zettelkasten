@@ -85,6 +85,7 @@ racket -f myfile.rkt -i
 - [[Racket length]]
 - [[Racket member]]
 - [[Racket reverse]]
+- [[Racket set!]]
 # Libraries
 - [[Racket Tests]]
 - [[Racket trace]]

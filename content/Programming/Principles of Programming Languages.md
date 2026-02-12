@@ -77,3 +77,4 @@ aliases:
 - [[Glasgow Haskell Compiler Interactive|ghci]]
 - [[Scope]]
 - [[Parallelism Advantage]]
+- [[Functional Programming Proofs]]
