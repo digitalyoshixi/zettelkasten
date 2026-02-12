@@ -51,3 +51,4 @@ aliases:
 - [[Directed Graph]]
 ### Week 6
 - [[Strongly Connected Component]]
+- [[Transposed Graph]]
