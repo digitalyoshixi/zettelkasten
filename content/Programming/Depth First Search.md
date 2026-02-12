@@ -12,6 +12,7 @@ A [[Bottom-up Programming]] algorithm for [[Path Finding]]. Uses a [[Stack]]
 3. If we are not the base case, then visit all [[Neighbourhood|Neighbors]]
 # Concepts
 - [[DFS Ordering]]
+- [[DFS Cycle Detection]]
 # Complexity
 - Finding node:
 	- Avg/Best/Worst: $O(V+E)$ where:

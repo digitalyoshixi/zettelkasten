@@ -29,3 +29,5 @@ Graph has a
 - [[Vertex Degree]]
 - [[Vertex Adjacency]]
 - [[Graph Connected]]
+- [[Out Degree]]
+- [[In Degree]]

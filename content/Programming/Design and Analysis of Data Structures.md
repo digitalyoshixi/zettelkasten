@@ -47,3 +47,7 @@ aliases:
 - [[Tree]]
 - [[Forest]]
 - [[Breadth First Search]]
+- [[Depth First Search]]
+- [[Directed Graph]]
+### Week 6
+- [[Strongly Connected Component]]
