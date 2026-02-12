@@ -78,3 +78,5 @@ aliases:
 - [[Scope]]
 - [[Parallelism Advantage]]
 - [[Functional Programming Proofs]]
+- [[Type Safe]]
+- [[Verifying Compiler]]
