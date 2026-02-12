@@ -9,3 +9,4 @@ As opposed to [[Haskell Unboxed Type]]
 # Types
  - [[Haskell Tuple]]
  - [[Haskell List]]
+ - [[Haskell Any]]

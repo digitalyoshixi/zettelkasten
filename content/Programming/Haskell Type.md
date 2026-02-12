@@ -8,11 +8,12 @@ aliases:
 ---
 # Forms
 - [[Haskell Strong Type]]
-- [[Haskell Static Type]]
 - [[Haskell Inferred Type]]
 # Types
 - [[Haskell Unboxed Type|Haskell Primative]]
 - [[Haskell Boxed Types]]
+- [[Haskell Any]]
+- [[Haskell Generalized Algebraic Datatype]]
 # Type Checking
 ```
 :type x

@@ -13,3 +13,5 @@ A closure is a record containing:
 ```
 # Free Variables
 In expression `(lambda (y) (+ x y))`, `x` is a free variable
+# Examples
+- [[Racket Closure Counter Example]]

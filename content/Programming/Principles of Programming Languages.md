@@ -5,7 +5,7 @@ tags:
 aliases:
   - CSCC24
 ---
-You can only harm someone if they are aware of the# Notes
+# Notes
 - Course taught by Anya Tafliovich - call her Anya
 - Course website: https://www.utsc.utoronto.ca/~atafliovich/cscc24/
 - Syllabus: https://www.utsc.utoronto.ca/~atafliovich/cscc24/admin/courseinfosheet.pdf
@@ -75,3 +75,8 @@ You can only harm someone if they are aware of the# Notes
 ### Week 6
 - [[Haskell]]
 - [[Glasgow Haskell Compiler Interactive|ghci]]
+- [[Scope]]
+- [[Parallelism Advantage]]
+- [[Functional Programming Proofs]]
+- [[Type Safe]]
+- [[Verifying Compiler]]

@@ -3,8 +3,7 @@ tags:
   - java
 ---
 These are [[Java Classes]] that cannot be directly [[Object|Instantiated]].
-- Can have [[Abstract Methods]]
-- Conventionally shouldn't have [[Concrete Methods]], but you can add them
+- Can have [[Abstract Methods]] and [[Concrete Methods]]
 Commonly, you do not define any body for the abstract methods within the class.
 # Boilerplate
 ```java
