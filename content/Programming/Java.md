@@ -65,6 +65,7 @@ public class Main {
 - [[Java Objects]]
 - [[Java Interface]]
 - [[Java Generics]]
+- [[Java BinaryOperator]]
 ### Other Libraries
 - [[Java Math]]
 - [[Java ArrayList]]

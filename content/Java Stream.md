@@ -14,7 +14,15 @@ Created to allow:
 ```java
 Stream<Integer> stream = Stream.of(1,2,3,4,5,6,7,8,9);
 stream.forEach(p -> System.out.println(p));
+
+// stream from list
+List<String> list = Arrays.asList("myst", "tone", "wavers");
+Stream<String> stream = list.stream();
+
+// convert back to list
+List<String> backtolist = stream.toList();
 ```
 # Running Functions on Stream
-- [[Java Stream filter]]
 - [[Java Stream map]]
+- [[Java Stream filter]]
+- [[Java Stream reduce]]

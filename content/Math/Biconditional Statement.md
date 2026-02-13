@@ -16,7 +16,6 @@ $P \Leftarrow Q$ (if)
 $P \implies Q$ (only if)
 # Equivalent Logical Statement
 $$P \Longleftrightarrow Q \equiv (P \wedge Q) \vee (\neg P \wedge \neg Q)$$
-$$P \Longleftrightarrow Q \equiv (P \wedge Q) \vee (\neg P \wedge \neg Q)$$
 
 # Bi-conditional Negation
 For the statement: $P \leftrightarrow Q$, the logical negation is:
