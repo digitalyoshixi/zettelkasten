@@ -7,6 +7,8 @@ aliases:
   - Implies
   - Necessary
   - Sufficient
+  - Implication
+  - z
 ---
 $P \implies Q$.
 
