@@ -8,4 +8,10 @@ This is a [[Java]] keyword that specifies:
 # Boilerplate
 ```java
 final myvar = 20;
+
+// ...
+
+protected final BooleanExpression getOperand(){
+	return this.operand;
+}
 ```
