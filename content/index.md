@@ -16,6 +16,5 @@ I aim to make this obsidian vault bloated asf
 - [[Cryptography]]
 - [[Bluedot Technical AI Safety]]
 - [[Emulation|Emulator]]
-- [[UTMIST Mechanistic Interpretability Workshops]]
 # Currently Reading
 - [[If Anyone Builds It Everyone Dies]]
