@@ -12,3 +12,4 @@ A course offered by [[Bluedot]].
 - [[AI Impacts]]
 - [[Outer Misalignment|Specification Gaming]]
 - [[Young Business Person Alignment Analogy]]
+- [[MechaHitler]]
