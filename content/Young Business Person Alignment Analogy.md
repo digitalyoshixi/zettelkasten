@@ -2,7 +2,7 @@
 tags:
   - ai_safety
 ---
-A thought experiment concerning the problems with deep learning.
+A thought experiment concerning the problems with AI alignment
 # Thought Experiment
 - Suppose you are an 8-year old and your parents left you a trillion dollar company with no adult to serve as a guide to the world
 - You must hire an adult to run the company as a CEO
