@@ -14,12 +14,15 @@ https://phoenixnap.com/kb/install-maven-windows
 ### [[Arch Linux]]
 1. `sudo pacman -S maven`
 # Setup Maven Project
-1. `mvn archetype:generate -DgroupId=cscb07 -DartifactId=lab4 -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.5 -DinteractiveMode=false`
-2. You should have the following folders in `/src`:
+1. 
+```
+mvn archetype:generate -DgroupId=cscb07 -DartifactId=lab4 -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.5 -DinteractiveMode=false
+```
+1. You should have the following folders in `/src`:
    ![[Maven-20250609135552088.webp]]
-3. Run `mvn compile`
-4. You can run `cd /target/classes` and then run the compiled classes
+2. Run `mvn compile`
+3. You can run `cd /target/classes` and then run the compiled classes
    ![[Maven-20250609135944522.webp]]
-5. Run `mvn test` to run each test file within the test folder, and get a test results output
+4. Run `mvn test` to run each test file within the test folder, and get a test results output
 # Guides
 - [[VSCode Maven]]
