@@ -11,3 +11,4 @@ A course offered by [[Bluedot]].
 - [[AI Alignment]]
 - [[AI Impacts]]
 - [[Outer Misalignment|Specification Gaming]]
+- [[Young Business Person Deep Learning Analogy]]
