@@ -10,3 +10,4 @@ A course offered by [[Bluedot]].
 - [[Stockfish AI Cheating]]
 - [[AI Alignment]]
 - [[AI Impacts]]
+- [[Outer Misalignment|Specification Gaming]]

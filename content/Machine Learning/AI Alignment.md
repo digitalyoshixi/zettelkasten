@@ -6,8 +6,8 @@ aliases:
   - Intent Alignment
 ---
 The mission to align [[Artificial Intelligence|AI]] goals to be that of ours, to prevent misuse.
-# Courses
-- https://bluedot.org/courses/alignment
+# Formal Definition
+AI $A$ is aligned with operator $H$ if $A$ is trying to do what $H$ wants it to do.
 # Problems
 - [[Misalignment]]
 	- [[Inner Misalignment]]
@@ -29,3 +29,5 @@ The mission to align [[Artificial Intelligence|AI]] goals to be that of ours, to
 - [[AI Governance]]
 - [[AI Resilience]]
 # Talks
+# Courses
+- https://bluedot.org/courses/alignment
