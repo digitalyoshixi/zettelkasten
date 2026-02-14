@@ -10,4 +10,7 @@ Technological developments result in lower birth rates overall.
 ### Stage 1 - Early Death
 A starting population will have poor living standards
 ### Stage 2 - Explosive Growth
-A population
+A population explosion due to technology causing fewer deaths
+### Stage 3 - Stability
+Fewer deaths causes fewer births later on
+### Stage 4 - 
