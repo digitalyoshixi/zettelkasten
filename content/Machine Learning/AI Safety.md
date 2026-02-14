@@ -3,10 +3,13 @@ tags:
   - machine_learning
 aliases: []
 ---
-This is a [[Pre-Paradigm]] [[Artificial Intelligence|AI]] field
+This is a [[Pre-Paradigm]] [[Artificial Intelligence|AI]] field concerned with reducing risks and harms in AI systems
 # Fields
 - [[AI Alignment]]
+- [[Ethics|Moral Philosophy]]
+- [[AI Competence]]
 - [[AI Governance]]
+- [[AI Resilience]]
 - [[AI Security]]
 # Concepts
 - [[Responsible AI]]
@@ -15,3 +18,6 @@ This is a [[Pre-Paradigm]] [[Artificial Intelligence|AI]] field
 - [[AI Sandbagging]]
 # Books
 - [[If Anyone Builds It Everyone Dies]]
+# Courses
+- [[UTMIST Responsible AI]]
+- [[Bluedot Technical AI Safety]]

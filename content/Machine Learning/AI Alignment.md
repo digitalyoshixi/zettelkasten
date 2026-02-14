@@ -2,21 +2,29 @@
 tags:
   - ai_safety
   - philosophy
+aliases:
+  - Intent Alignment
 ---
 The mission to align [[Artificial Intelligence|AI]] goals to be that of ours, to prevent misuse.
 # Courses
 - https://bluedot.org/courses/alignment
 # Problems
+- [[Misalignment]]
+	- [[Inner Misalignment]]
+	- [[Outer Misalignment]]
 - [[Sycophancy]]
+- [[Goal Misgeneralization]]
 - [[Proxy Training Problem]]
 # Concepts
 - [[Artificial General Intelligence|AGI]]
 - [[Transformative AI]]
-- [[Extinction]]
-- [[Existential Catastrophe]]
+- [[AI Impacts]]
+	- [[Extinction]]
+	- [[Existential Catastrophe]]
 - [[Safety Washing]]
 - [[Mechanistic Interpretability]]
 - [[Neurointerpretability]]
+- [[Shard Theory]]
 # Contrast
 - [[AI Governance]]
 - [[AI Resilience]]
