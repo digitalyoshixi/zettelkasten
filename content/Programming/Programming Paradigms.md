@@ -21,3 +21,5 @@ Programmer declares how to get a desired result but not how to compute it.
 - [[Prototype Programming]]
 - [[Differentiable Programming]]
 - [[Meta Programming]]
+- [[Return Oriented Programming|ROP]]
+- [[Data-Oriented Programming]]
