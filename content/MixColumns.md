@@ -4,6 +4,12 @@ tags:
   - cryptography
 ---
 A step in [[Advanced Encryption Standard|AES]]
+# Process
+1. Given a $4 \times 4$ matrix representing the state 
+2. Each column of bytes treated as a polynomial $b_{3}x^{3} + b_{2}x^{2}+b_{1}x+b_{0}$ with each byte in the [[Finite Field|Galois Field]] $128$, coefficients in prime sub-[[Finite Field|Galois Field]] $2$
+3. Each column is multiplied with fixed polynomial $a(x)=3x^{3}+x^2+x+2$ module $x^{4}+1$
+# Video
+- https://invidious.yoshixi.net/watch?v=Tpq8X3ZibZA
 # Implementation
 ```python
 def mix_single_column(a):

@@ -3,7 +3,11 @@ tags:
   - cryptography
   - math
 ---
-A step in [[Advanced Encryption Standard|AES]]
+A step in [[Advanced Encryption Standard|AES]]:
+1. First row in matrix remains the same
+2. Second row shift one column left
+3. Third row shift two columns to left
+4. Fourth row shift three columns by left
 # Implementation
 ```python
 def shift_rows(s):
