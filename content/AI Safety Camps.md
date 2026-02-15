@@ -7,6 +7,7 @@ These are schools of thought in how we can align AI systems.
 We use policy and organizations to build AI systems:
 - [[CERN for AI]]
 - [[Carefully Bootstrapped Alignment]]
+- [[AI Sweden]]
 # AI for AI Safety
 We move fast enough so that we can control AI before anyone else can.
 - [[Pragmatic Safety]]
