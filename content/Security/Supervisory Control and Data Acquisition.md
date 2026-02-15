@@ -15,7 +15,7 @@ Used in industrial settings:
 - Building facilities ([[Heating Ventilation Air Conditioning]])
 - Manufacturing
 - Logistics
-- Indusstrial
+- Industrial
 Very big targets for cyber crime.
 Often requires [[Network Segmentation]]
 # Levels
