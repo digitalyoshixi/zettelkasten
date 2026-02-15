@@ -9,22 +9,13 @@ A [[Post-Quantum Cryptography]] safe algorithm. Deemed to be a sbustitution-perm
 - The key is constructed out of 64 bits
 Takes a message and a key.
 The key can be 128bits, 192bits or 256bits.
-# Modes
-- [[Electronic Code Block|ECB]]
-- [[Cipher Feedback|CFB]]
-- [[Cipher Block Chaining|CBC]]
-- [[Cipher Block Chaining Message Authentication Code]]
-- [[Counter Mode|CTR]]
-- [[Output Feedback|OFB]]
-- [[Galois Counter Mode|GCM]]
-- [[Propagating Cipher Block Chaining]]
 # Concepts
 - [[Block]]
 # Attacks
 - [[Biclique Attack]]
 # Encryption Process
-1. Our 16-byte input is converted into a $4 \times 4$ [[Matrix]]
-2. [[Key Expansion]]: The 16-byte key is turned into $n$ number of [[Round Key]] which are also $4 \times 4$ matrix
+1. Our input is split into 16-byte block, each block is converted into a $4 \times 4$ [[Matrix]]
+2. [[Key Expansion]]: The 16-byte key segments is turned into $n$ number of [[Round Key]] which are also $4 \times 4$ matrix
 	1. $n = 10$ if AES-128
 	2. $n = 12$ if AES-192
 	3. $n = 14$ if AES-256
