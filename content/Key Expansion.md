@@ -2,8 +2,13 @@
 tags:
   - cryptography
   - math
+aliases:
+  - Key Schedule
 ---
 A step in [[Advanced Encryption Standard|AES]]
+- $n = 11$ if AES-128
+- $n = 13$ if AES-192
+- $n = 15$ if AES-256
 # Implementation
 ```python
 def expand_key(master_key):

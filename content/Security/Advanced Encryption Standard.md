@@ -16,9 +16,9 @@ The key can be 128bits, 192bits or 256bits.
 # Encryption Process
 1. Our input is split into 16-byte block, each block is converted into a $4 \times 4$ [[Matrix]]
 2. [[Key Expansion]]: The 16-byte key segments is turned into $n$ number of [[Round Key]] which are also $4 \times 4$ matrix
-	1. $n = 10$ if AES-128
-	2. $n = 12$ if AES-192
-	3. $n = 14$ if AES-256
+	1. $n = 11$ if AES-128
+	2. $n = 13$ if AES-192
+	3. $n = 15$ if AES-256
 3. Set the current state to the 16-byte input matrix
 4. Repeat for $n$ rounds:
 	1. [[AddRoundKey]]: XOR current state with current round key $n$ (Every cell of state, XORed with corresponding cell in round key)
