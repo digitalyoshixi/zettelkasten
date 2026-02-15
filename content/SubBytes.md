@@ -6,7 +6,7 @@ aliases:
   - Inverse SubBytes
   - InvSubBytes
 ---
-A step in [[Advanced Encryption Standard|AES]]
+A step in [[Advanced Encryption Standard|AES]] that uses the [[Rijndael S-box]]
 # Implementation
 ```python
 s_box = (

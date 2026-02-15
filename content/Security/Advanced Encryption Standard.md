@@ -11,6 +11,7 @@ Takes a message and a key.
 The key can be 128bits, 192bits or 256bits.
 # Concepts
 - [[Block]]
+- [[Rijndael S-box]]
 # Attacks
 - [[Biclique Attack]]
 # Encryption Process
