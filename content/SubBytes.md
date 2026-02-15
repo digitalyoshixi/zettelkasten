@@ -2,6 +2,9 @@
 tags:
   - math
   - cryptography
+aliases:
+  - Inverse SubBytes
+  - InvSubBytes
 ---
 A step in [[Advanced Encryption Standard|AES]]
 # Implementation

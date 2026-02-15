@@ -5,10 +5,23 @@ tags:
 aliases:
   - Key Schedule
 ---
-A step in [[Advanced Encryption Standard|AES]]
+A step in [[Advanced Encryption Standard|AES]], creates $n$ round keys
 - $n = 11$ if AES-128
 - $n = 13$ if AES-192
 - $n = 15$ if AES-256
+# Process
+![[Key Expansion-20260215202355878.webp]]
+The round key expansion is a recursive process.
+1. We split our initial key into 32-bit length vectors
+	1. 4 vectors for AES-128
+	2. 6 vectors for AES-192
+	3. 8 vectors for AES-256
+2. We take the last vector, run it through:
+	1. RotWord
+	2. SubWord
+	3. RCon
+3. We [[Exclusive Or|XOR]] the result of RCon with all previous vectors of the last key to get the next round-key
+4. Repeat...
 # Implementation
 ```python
 def expand_key(master_key):
