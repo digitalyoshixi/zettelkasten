@@ -10,19 +10,19 @@ A middleware to create [[Rest API]] or [[GraphQL]]
 ```python
 from fastapi import FastAPI
 
+items = []
 app = FastAPI()
 
-@app.get("/")
+@app.get("/", status_code=200)
 def root():
 	return {"Hello" : "World"}
 
-items = []
-@app.post("/items")
+@app.post("/items", status_code=201)
 def create_item(item : str):
 	items.append(item)
 	return items
 	
-@app.get("/items/{item_id}")
+@app.get("/items/{item_id}", status_code=200)
 def get_item(item_id : int) -> str:
 	item = items[item_id]
 	return item
