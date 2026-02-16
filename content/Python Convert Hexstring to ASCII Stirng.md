@@ -2,8 +2,12 @@
 tags:
   - programming
   - scifi
+aliases:
+  - Python Hexstring to Bytes
+  - Python Convert Hexstring to Bytes
 ---
 
 ```python
-mystr = bytes.fromhex(my_hex_string)
+mystrbytes = bytes.fromhex(my_hex_string)
+mystr = mystrbytes.decode('utf-8')
 ```

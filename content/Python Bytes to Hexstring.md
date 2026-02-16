@@ -6,5 +6,5 @@ tags:
 ```python
 import binascii
 decrypted = b'...'
-binascii.hexlify(decrypted)
+binascii.hexlify(decrypted).decode('utf-8')
 ```

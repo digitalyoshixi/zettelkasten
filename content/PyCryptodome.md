@@ -5,6 +5,7 @@ tags:
   - cryptography
 aliases:
   - Python PyCryptodome
+  - Python Cryptography
 ---
 A cryptography library for python
 # Installation
@@ -32,3 +33,8 @@ def encrypt(plaintext):
     return {"ciphertext": encrypted.hex()}
 
 ```
+# Common Conversions
+- [[Python Convert Hexstring to ASCII Stirng]]
+- [[Python XOR Bytes]]
+- [[Python Bytes to Hexstring]]
+- [[Python Bytes to Bits]]
