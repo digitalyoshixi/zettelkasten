@@ -7,6 +7,7 @@ Attempts to follow [[Indistinguishability Under Chosen Ciphertext Attack|IND-CCA
 # List
 - [[Block-Cipher]]
 - [[Stream-Cipher]]
+- [[Classical Cipher]]
 # Secure Properties
 - [[Encryption Confusion]]
 - [[Encryption Diffusion]]
