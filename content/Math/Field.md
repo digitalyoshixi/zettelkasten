@@ -23,7 +23,7 @@ With axioms of
 - [[Real Number]]
 - [[Rational Number]]
 - [[Complex Number]] (As its a superset of [[Real Number]])
-- [[Integer Modulo n]] (if $n$ is [[Prime Number]])
+- [[Finite Field]]
 # Non-Examples
 - [[Natural Number]] (No additive inverses)
 - [[Integers]] (No multiplicative inverses)

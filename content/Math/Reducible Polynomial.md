@@ -5,6 +5,7 @@ tags:
 aliases:
   - Irreducible Polynomial
   - Prime Polynomial
+  - Irreducible Primitive
 ---
 # Definition
 A [[Polynomial]] $p \in \mathbb{F}[x]$ is a prime polynomial if:
