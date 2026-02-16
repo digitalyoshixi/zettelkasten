@@ -10,3 +10,4 @@ Aims to maximize benefits and minimize hazards across multiple levels.
 # Existing Legislation
 - [[Canada AI Governance]]
 # Forms of Governance
+- [[Manhattan Project]]
