@@ -5,6 +5,7 @@ tags:
 So based.
 # Concepts
 - [[Linux Kernel]]
+- [[Linux Distro]]
 # Distros
 - [[Arch Linux|Arch]]
 - [[Debian]]
