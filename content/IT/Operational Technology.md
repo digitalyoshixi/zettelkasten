@@ -19,10 +19,12 @@ Hardware or software used to monitor and control physical devices and processes.
 - [[OT CVE Decision Tree]]
 # Tools
 - [[MITRE Caldera]]
-# Attacks
+# Historical Attacks
 - [[Stuxnet]]
 - [[Triton]]
 - [[German Steel Mill Attack]]
 - [[Ukraine Power Grid 2015 Attack]]
 - [[nmap OT System Shutdown]]
 - [[Poland Power Grid Attack]]
+# Common Attacks
+- [[GOOSE Replay Attack]]
