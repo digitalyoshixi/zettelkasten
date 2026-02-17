@@ -15,8 +15,13 @@ Hardware or software used to monitor and control physical devices and processes.
 - [[Modbus]]
 - [[Distributed Network Protocol 3]]
 - [[IEC 61850]]
+- [[Switched Port Analyzer|SPAN]]
+- [[Network Tap]]
 - [[IT-OT Connectivity]]
 - [[OT CVE Decision Tree]]
+- [[Open Platform Communications]]
+- [[Open Platform Communications Unified Architecture]]
+- [[Network Determinism]]
 # Tools
 - [[MITRE Caldera]]
 # Historical Attacks

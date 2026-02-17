@@ -21,3 +21,4 @@ DISCOVER > OFFER > REQUEST > ACK (DORA)
 - [[DHCP Reservation]]
 - [[DHCP Leasing]]
 - [[DHCP Pool]]
+- [[DHCP Starvation]]

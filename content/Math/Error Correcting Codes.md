@@ -11,3 +11,6 @@ Commonly used in [[CD Players]], [[Hard Drive|Hard Drives]] to recover lost data
 - [[Majority Vote ECC]]
 - [[Hamming Codes]]
 - [[Reed Solomon Codes]]
+- [[Checksum]]
+- [[Cyclic Redundancy Check|CRC]]
+- [[Longitudinal Redundancy Check|LRC]]

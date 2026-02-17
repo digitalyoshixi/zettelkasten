@@ -11,9 +11,10 @@ Uses [[Serial Communication]] with [[Serial Cable|DB-9]]
 - [[Modbus ASCII]]
 - [[Modbus Plus]]
 - [[Enron Modbus]]
+# Concepts
+- [[Modbus Function Code]]
 # Protocol
 - Uses coil registers numbered for specific data transfers
 ![[Modbus-20260217192236567.webp]]
 - Each server is assigned a server ID from 1-247
-- Second bytes sent use a function code
-![[Modbus-20260217192327998.webp]]
+- Second bytes sent use a [[Modbus Function Code]]
