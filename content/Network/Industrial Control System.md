@@ -15,3 +15,4 @@ An embedded device used to monitor all aspects of the manufacturing such as:
 - [[Human Machine Interface]]
 - [[Supervisory Control and Data Acquisition|SCADA]]
 - [[Intelligent Electronic Device|IED]]
+- [[Remote Terminal Unit|RTU]]
