@@ -4,8 +4,16 @@ tags:
   - cryptography
 aliases:
   - PRNG
+  - PRF
 ---
 A random number generated from [[Deterministic Algorithm]].
+A PRF should generate an arbitrary length random value from a given seed. The output should be indistinguishable from random data.
+# Formal Definition
+A PRF is an algorithm that takes in:
+- Secret input $i$
+- Desired number of bits $n$
+- Seed data $s$
+Returns an output [[String]] $o \in \{ 0,1 \}^{*}$
 # Implementations
 ### Linear Recursion
 - [[Linear Congruential Generator|LCG]]
@@ -20,3 +28,5 @@ $\text{output} = f(n,key)$
 - [[Block-Cipher]] in counter mode or output feedback mode
 	- [[HMAC-DRBG]]
 - [[Stream-Cipher]]
+# Subtypes
+- [[Key Derivation Function]]
