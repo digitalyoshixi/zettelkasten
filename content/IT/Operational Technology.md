@@ -22,6 +22,7 @@ Hardware or software used to monitor and control physical devices and processes.
 - [[Open Platform Communications]]
 - [[Open Platform Communications Unified Architecture]]
 - [[Network Determinism]]
+- [[Virtual Patching]]
 # Tools
 - [[MITRE Caldera]]
 # Historical Attacks
@@ -33,3 +34,8 @@ Hardware or software used to monitor and control physical devices and processes.
 - [[Poland Power Grid Attack]]
 # Common Attacks
 - [[GOOSE Replay Attack]]
+# Security Standards and Frameworks
+- [[IEC 62443]]
+- [[NIST SP 800-82]]
+- [[NERC CIP]]
+- [[ISO 27019]]
