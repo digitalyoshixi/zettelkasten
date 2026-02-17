@@ -4,4 +4,4 @@ tags:
 aliases:
   - Trisis
 ---
-A [[Malware]] attack on safety systems
+A [[Malware]] attack on [[Safety Instrumented Systems]]

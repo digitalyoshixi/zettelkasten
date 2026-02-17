@@ -23,9 +23,9 @@ Often requires [[Network Segmentation]]
 Includes physical equipment like [[Sensor]], [[Actuator]], [[Motor]], [[Pump]], etc
 ### Controller Level (Level 1)
 Involves real-time control of physical devices like [[Programmable Logic Controllers|PLC]] that can recieve input from sensors on plan level.
-### Coordinating Computer Level (Level 2)
+### [[Human Machine Interface|HMI]] Level (Level 2)
 Involves supervisory computers or [[Human Machine Interface|HMI]] systems that provide centralized views of plant operations.
 Often collects data from level 1 controllers and display them
-### Program Logic Controller Level (Level 3)
+### [[Programmable Logic Controllers|PLC]] Level (Level 3)
 Level includes controlling overall production processes.
 Includes advanced software systems that can coordinate multiple production lines and log for analysis.
