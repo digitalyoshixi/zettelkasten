@@ -42,7 +42,6 @@ Hi, my name is David.
 ### Time when you were under pressure, how did you deal with it
 - Situation: Midterm season, ended after competition, club responsibility
 - Solution: I created a priority list, I crossed removed routines that took excess time, crossed out things in my schedule, started waking up earlier to do more things. Worked to try to achieve as much as possible in each task. So this was skimming through the exam and making note sheets, creating basic outlines for deliverables, reading things in the bus, etc
-
 # Who are you
 - CS + Stats Major at UofT
 - Part of UofTCTF and CSEC where i teach people cybersecurity and systems programming
