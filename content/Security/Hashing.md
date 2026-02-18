@@ -12,6 +12,11 @@ Often hashes are numerical.
 Used for:
 - [[Hashmap]]
 - [[Proof of Integrity]]
+- [[Lossy Compression]]
+- [[Pseudo Random Number Generator|PRNG]]
+- [[Elliptic Curve Cryptography|ECC]]
+- [[Checksum]]
+- [[Digital Fingerprint]]
 ![[Hashing-20250709030513308.webp]]
 # Algorithms
 - [[Message Digest Algorithm 5|MD5]]
