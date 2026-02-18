@@ -22,6 +22,9 @@ def send_req(msg : str) -> str:
 def xor_bytes(one : bytes, two : bytes) -> bytes:
     return bytes(a ^ b for (a, b) in zip(one, two))
 
+def and_bytes(a : bytes, b : bytes) -> bytes:
+    return bytes([_a & b for _a, _b in zip(a, b)])
+
 def bytes_to_bitstring(b : bytes) -> str:
 	return ''.join(f"{byte:08b}" for byte in b)
 
