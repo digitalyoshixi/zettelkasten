@@ -35,4 +35,8 @@ def hexstring_to_bytes(hexstr : str) -> bytes:
 
 def bytes_to_hexstring(b : bytes) -> str:
     return binascii.hexlify(b).decode('utf-8')
+    
+def xor_hexstring(one : str, two : str) -> str:
+    return bytes_to_hexstring(xor_bytes(hexstring_to_bytes(one), hexstring_to_bytes(two)))
+
 ```
