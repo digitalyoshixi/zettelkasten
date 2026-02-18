@@ -31,3 +31,4 @@ Used for:
 - [[Length Extension Attack]]
 - [[Partial Collision Attack]]
 - [[Second Preimage Attack]]
+- [[Puzzle Friendliness]]
