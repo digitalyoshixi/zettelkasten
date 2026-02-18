@@ -25,4 +25,7 @@ class Template(object):
         print self.other_value
         print self.constant_value
         print ""
+        
+    def __repr__(self):
+	    return "my serialized string representation here"
 ```
