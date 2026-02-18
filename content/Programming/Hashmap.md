@@ -3,6 +3,7 @@ tags:
   - programming
 aliases:
   - Hash Table
+  - Map
 ---
 This is a one-way mapping from one datatype to another.
 ```python
