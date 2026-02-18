@@ -52,8 +52,12 @@ def F(B,C,D,i):
 def combine(A, plaintext, i)
 	return redbox(XOR(XOR(A, F(B,C,D,i)), plaintext[i]))
 
-def redbox()
+def redbox(inp, i, b):
+	return XOR(Rotate(XOR(inp, K[i]), r[i]), b)
 ```
 ![[Message Digest Algorithm 5-20260218171555993.webp]]
 ##### Redbox
-- MD5 
+![[Message Digest Algorithm 5-20260218181025373.webp]]
+- MD5 has a constant array of 64 constants $K[64]$ for additions
+- MD5 has a constant array of 64 constants $r[64]$ for rotations
+- We take the input, XOR it with $K[i]$, rotate left by $r[i]$, XOR it with $B$
