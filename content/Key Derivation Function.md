@@ -7,4 +7,4 @@ aliases:
 ---
 A [[Pseudo Random Number Generator|PRNG]] that has a:
 - [[Salting|Salt]]
-- [[Slow Down]] mechanism
+- [[Slow Down Mechanism]] mechanism
