@@ -27,3 +27,7 @@ Used for:
 # Concepts
 - [[Hash Collision]]
 - [[Collision Attack]]
+- [[Preimage Attack]]
+- [[Length Extension Attack]]
+- [[Partial Collision Attack]]
+- [[Second Preimage Attack]]
