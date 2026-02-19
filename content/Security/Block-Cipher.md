@@ -12,6 +12,7 @@ A cipher that involves using [[Matrix]] operations to produce encrypted messages
 - [[Data Encryption Standard|DES]]
 - [[Triple DES|3DES]]
 - [[COCONUT98]]
+- [[SHACAL]]
 # Modes
 These are modes to allow block ciphers to work with larger plaintexts.
 Requires a splitting of the plaintext message into block-sizes.

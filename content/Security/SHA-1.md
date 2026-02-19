@@ -14,3 +14,6 @@ Based off [[Merkle Damgard Construction]]
 sha1sum ./file
 ```
 # Algorithm
+![[SHA-1-20260219003854320.webp]]
+# Uses
+- [[SHACAL]]
