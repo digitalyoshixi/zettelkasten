@@ -17,6 +17,7 @@ $$
 - [[Integrity]]
 # Types
 - [[Secret Prefix MAC]]
+- [[Secret Suffix MAC]]
 - [[Global Message Authentication Code|GMAC]]
 - [[Cipher-Based Message Authentication Code|CMAC]]
 - [[Hash-based Message Authentication Code|HMAC]]
