@@ -5,4 +5,5 @@ tags:
 aliases:
   - HMAC
 ---
-A [[Message Authentication Code|MAC]] generated from a hashing algorithm and a [[Security/Key|Secret Key]]
+A type of [[Hashing]] algorithm designed to produce [[Message Authentication Code|MAC]].
+Allows Separation of message from [[Key|Secret Key]] so that the order of secret key + message doesn't matter.
