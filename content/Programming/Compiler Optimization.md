@@ -5,6 +5,7 @@ tags:
 ---
 # Theories
 - [[Full Employment Theorem for Compiler Writers]]
+- [[Machine Learning Guided Compiler Optimizations Framework]]
 - [[Optimization Recommendations]]
 - [[Optimizations Stages]]
 # Methods
