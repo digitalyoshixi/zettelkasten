@@ -6,6 +6,7 @@ aliases:
 ---
 This is a [[Hashing]] algorithm that is most commonly used for image files.
 **Not Secure** for sensitive data.
+Based off [[Merkle Damgard Construction]]
 # Algorithm
 ![[Message Digest Algorithm 5-20260218210442609.webp]]
 - Takes in 512-bit (64-byte) input (can be [[PKCS 7|Padded]])
