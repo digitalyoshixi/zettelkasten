@@ -19,6 +19,7 @@ Used for:
 - [[Digital Fingerprint]]
 ![[Hashing-20250709030513308.webp]]
 # Algorithms
+- [[Message Digest Algorithm 4|MD4]]
 - [[Message Digest Algorithm 5|MD5]]
 - [[Secure Hashing Algorithm]]
 - [[Hash-based Message Authentication Code|HMAC]]

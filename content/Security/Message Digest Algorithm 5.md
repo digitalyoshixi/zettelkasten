@@ -5,6 +5,11 @@ aliases:
   - MD5
 ---
 This is a [[Hashing]] algorithm that is most commonly used for image files.
+- Input size 512-bits
+- Output size 128-bits
+- 64 rounds
+- Collision resistance: $2^{18}$ operations - less than a second on modern computers
+- Preimage resistance: $2^{123.4}$ operations
 **Not Secure** for sensitive data.
 Based off [[Merkle Damgard Construction]]
 # Algorithm
