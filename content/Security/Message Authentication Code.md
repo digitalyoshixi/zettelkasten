@@ -6,6 +6,12 @@ aliases:
   - MAC
 ---
 A code used for integrity checks.
+$$
+\text{MAC} = \text{Hash}(M|s)
+$$
+- $M$ is the message
+- $\text{Hash}$ is the hash funciton
+- $s$ is the secret key
 # Types
 - [[Global Message Authentication Code|GMAC]]
 - [[Cipher-Based Message Authentication Code|CMAC]]
