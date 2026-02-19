@@ -14,6 +14,11 @@ Based off [[Merkle Damgard Construction]]
 sha1sum ./file
 ```
 # Algorithm
-![[SHA-1-20260219003854320.webp]]
+![[SHA-1-20260219025511312.webp]]
+- With $F$ as a non-linear [[Compression Function]] that varies
+- With a left-bit rotations
+- With $W_{i}$ as the segment of the splitted plaintext message
+- With $K_{i}$ as the segment of the round constant
+- With $\boxplus$ as addition in $\mod 2^{32}$
 # Uses
 - [[SHACAL]]
