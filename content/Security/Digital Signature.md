@@ -8,6 +8,9 @@ A method to verify the validity of the sender of a document through:
 - A hashing algorithm
 - A public key
 ![[Digital Signature-20251130030102392.webp]]
+# Properties
+- [[Non-Repudiation]]
+- Communication without [[Key Exchange Protocol|Key Exchange Algorithms]]
 # Definition
 A digital signature is a scheme that consists of 3 algorithms:
 1. A [[Keygen]] algorithm that selects a private key [[Uniform Discrete Probability Distribution|Uniformly]] from a set of possible private keys. Outputs the private and corresponding public key
