@@ -22,8 +22,8 @@ Talk at [[Defcon Toronto]]
 	- Control panel layer:
 		- Emulates the monitoring tools ([[Programmable Logic Controllers|PLC]])
 	- Attack & Observation layer:
-		- sricata for attacks
-		- zeke - ics monitor
+		- [[Sricata]] for attacks
+		- [[Zeke]] - ics monitor
 - Key terms:
 	- [[MQTT]]
 	- [[Modbus TCP]]
@@ -64,3 +64,18 @@ Talk at [[Defcon Toronto]]
 	- Power flow calculation for state estimator is the brain operation, if that is messed up, ripple effect for rest of the system
 	- [[Industrial Control System|ICS]] detection rules blind to [[False Data Injection Attack|FDIA]]
 	- [[Human Machine Interface|HMI]] replay hides this data
+- Full chain attack: 
+	- [[Distributed Energy Resources|DER]] + [[False Data Injection Attack|FDIA]] + [[Session Hijacking|Measurement Replay]]
+	- First find [[MQTT]] protocol from edge devices
+	- Second, attacker attacks control systems by [[Modbus TCP]] register attacks
+	- Third, attacker injects sensors with [[False Data Injection Attack|FDIA]]
+	- Leads to full collapse of the system
+- If operator can actually see things, they can cut off load, but [[False Data Injection Attack|FDIA]] provides false data so the operator cannot see things
+- First attack can actually be monitored by logs on network
+- Conclusion is that most protocols used in [[Industrial Control System|ICS]] systems are still based off trust, many attack surfaces still open 
+	- Detection requires cross-layer correlation
+- Many ML-based [[False Data Injection Attack|FDIA]] detection tools being created
+- Power system in Canada, not many [[Distributed Control Systems|DCS]], not many [[Internet of Things|IoT]] - smaller attack surface
+- [[Distributed Energy Resources|DER]] - like [[Ontario Power Grid|OPG]], legacy systems
+- HydroOne does not want to use more technology - makes them defenseless
+- China already has double the energy the

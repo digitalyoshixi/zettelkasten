@@ -11,6 +11,7 @@ Hardware or software used to monitor and control physical devices and processes.
 - [[Supervisory Control and Data Acquisition|SCADA]]
 - [[Distributed Control Systems]]
 - [[Industrial Control System|ICS]]
+- [[Internet of Things|IoT]]
 # Concepts
 - [[Modbus]]
 - [[Distributed Network Protocol 3]]
