@@ -62,3 +62,75 @@ union(T1, T2):
 	R' = union(R, T_2.right)
 	return join(L', k, R')
 ```
+# Implementation
+```cpp
+TreeNode* rebalance(TreeNode* node) {
+  if (node == NULL) return NULL;
+  updateHeight(node);
+  int bf = balanceFactor(node);
+  if (bf > 1) {
+    if (balanceFactor(node->left) < 0)
+      return leftRightRotation(node);
+    return rightRotation(node);
+  }
+  if (bf < -1) {
+    if (balanceFactor(node->right) > 0)
+      return rightLeftRotation(node);
+    return leftRotation(node);
+  }
+  return node;
+}
+
+TreeNode* join(TreeNode* L, int k, TreeNode* G){
+  if (height(L) - height(G) > 1){
+    TreeNode* q = create_node(k);
+    q->left = L->right;
+    q->right = G;
+    L->right = rebalance(q);
+    return rebalance(L);
+  }
+  else if (height(G) - height(L) > 1){
+    TreeNode* q = create_node(k);
+    q->right = G->left;
+    q->left = L;
+    G->left = rebalance(q);
+    return rebalance(G);
+  }
+  else {
+    TreeNode* retnode = create_node(k);
+    retnode->left = L;
+    retnode->right = G;
+    updateHeight(retnode);
+    return retnode;
+  }
+}
+
+std::tuple<TreeNode*, TreeNode*> split(TreeNode* root, int key){
+  if (root == NULL){
+    return std::tuple<TreeNode*,TreeNode*>{NULL,NULL};
+  }
+  else if (key == root->key){
+    return std::tuple<TreeNode*,TreeNode*>{root->left,root->right};
+  }
+  else if (key < root->key){
+    std::tuple<TreeNode*, TreeNode*> newtuple = split(root->left, key);
+    TreeNode* newright = join(std::get<1>(newtuple), root->key, root->right);
+    return std::tuple<TreeNode*,TreeNode*>{std::get<0>(newtuple), newright};
+  }
+  else {
+    std::tuple<TreeNode*, TreeNode*> newtuple = split(root->right, key);
+    TreeNode* newleft = join(root->left, root->key, std::get<0>(newtuple));
+    return std::tuple<TreeNode*,TreeNode*>{newleft, std::get<1>(newtuple)};
+  }
+}
+
+TreeNode* AVLunion(TreeNode* T1, TreeNode* T2){
+  if (T1 == NULL) return T2;
+  if (T2 == NULL) return T1;
+  int key = T2->key;
+  std::tuple<TreeNode*, TreeNode*> newtuple = split(T1, key);
+  TreeNode* newleft = AVLunion(std::get<0>(newtuple), T2->left);
+  TreeNode* newright = AVLunion(std::get<1>(newtuple), T2->right);
+  return join(newleft, key, newright);
+}
+```
