@@ -78,4 +78,7 @@ Talk at [[Defcon Toronto]]
 - Power system in Canada, not many [[Distributed Control Systems|DCS]], not many [[Internet of Things|IoT]] - smaller attack surface
 - [[Distributed Energy Resources|DER]] - like [[Ontario Power Grid|OPG]], legacy systems
 - HydroOne does not want to use more technology - makes them defenseless
-- China already has double the energy the
+- China already has double the energy they need usually for data centers
+- [[Blockchain]] for distributed systems for logging ([[OCPP]]) - charging systems
+- [[Internet of Things|IoT]] used everywhere in china is a lot better - far more data, far more **control**
+- ECC conference in july
