@@ -13,6 +13,14 @@ aliases:
 - Midterm Test: 25%
 - Final: 40%
 - Allow up to two business days for response after email
+# Term Test
+- [[Algorithm Analysis|Asymptotic Analysis]]
+- [[AVL Tree]]
+- Augmenting trees
+- [[Weight Balanced Binary Search Tree|WBT]]
+- [[Programming/Graph|Graph]]
+- [[Heap]]
+- [[Strongly Connected Component|SCC]]
 ### Week 1
 - [[Data Structures and Algorithms]]
 - [[Data Structure]]

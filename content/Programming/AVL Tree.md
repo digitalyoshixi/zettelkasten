@@ -15,6 +15,8 @@ $$
 - With $\phi$ as [[Golden Ratio]]
 - With $h$ as the height of the sub tree
 # Operations
+- [[AVL Tree Height]]
+- [[AVL Tree Size]]
 - [[AVL Tree Search]]
 - [[AVL Tree Insert]]
 - [[AVL Tree Delete]]
