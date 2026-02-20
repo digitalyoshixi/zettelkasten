@@ -26,7 +26,7 @@ split(T, k);
 		(L,R) = split(T.left, k)
 		R' = join(R, T.key, T.right)
 		return (L, R')
-	if k > T.ket:
+	if k > T.key:
 		(L, R) = split(T.right, k)
 		L' = join(T.left, T.key, L)
 		return (L', R)
