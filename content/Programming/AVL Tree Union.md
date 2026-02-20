@@ -20,20 +20,6 @@ Can be implemented with a [[Divide and Conquer]] algorithm
 3. Build unions of smaller trees
 4. Merge results into union of $T_{1}$ and $T_{2}$
 ```pascal
-// returns a new tree pair, T1 is all elements less than k, T2 is all elements greater than k
-split(T, k);
-	if T == nil:
-		return (nil, nil)
-	if k == T.key:
-		return (T.left, T.right)
-	if k < T.key:
-		(L,R) = split(T.left, k)
-		R' = join(R, T.key, T.right)
-		return (L, R')
-	if k > T.key:
-		(L, R) = split(T.right, k)
-		L' = join(T.left, T.key, L)
-		return (L', R)
 
 // returns the union of tree L and G based off root k
 join(L, k, G):
@@ -49,6 +35,21 @@ join(L, k, G):
 		...symmetrical..
 	else:
 		return new node(key=k, left=L, right=G)
+
+// returns a new tree pair, T1 is all elements less than k, T2 is all elements greater than k
+split(T, k);
+	if T == nil:
+		return (nil, nil)
+	if k == T.key:
+		return (T.left, T.right)
+	if k < T.key:
+		(L,R) = split(T.left, k)
+		R' = join(R, T.key, T.right)
+		return (L, R')
+	if k > T.key:
+		(L, R) = split(T.right, k)
+		L' = join(T.left, T.key, L)
+		return (L', R)
 
 union(T1, T2):
 	if T1 == nil:
