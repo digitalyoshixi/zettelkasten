@@ -7,4 +7,60 @@ Talk at [[Defcon Toronto]]
 - Practical attack on power systems
 - Cyber physical system:
 	- Attacks that happen on a cyber size, result in a physical consequence ([[Stuxnet]] is the most famous one)
-- 
+- Agenda:
+	- Start with baseline - what is the system
+	- Go over [[MQTT]] takeover
+	- Go over [[Modbus]] injection
+	- Go over false data injection
+	- Go over full attack chain
+- American power systems more old than chinese ones
+- People that operate power systems are not tech savvy people
+- CPPS-SEC Lab:
+	- Want to emulate three layers of a ICS system
+	- Physical layer: 
+		- Emulates using a python library for each circuit
+	- Control panel layer:
+		- Emulates the monitoring tools ([[Programmable Logic Controllers|PLC]])
+	- Attack & Observation layer:
+		- sricata for attacks
+		- zeke - ics monitor
+- Key terms:
+	- [[MQTT]]
+	- [[Modbus TCP]]
+	- [[Rest API]]
+- Baseline operation:
+	- Power system operator will see two terminals:
+		- Power flow terminal - energy flow calculated with non-linear equations - calculate active and reactive power based off demand and response
+		- Control panel system terminal - lots of control systems 
+- Calculate baselines power draw
+- Calculate the baselines for transmission lines
+- Operator can see two parameters:
+	- Voltage amplitude and angle
+	- View of physical characteristics (Uses [[MQTT]] to monitor edge devices and modbus for legacy control)
+- First attack: [[MQTT]] take-over - this attack involves attacker attacking edge devices, commands MQTT protocol to shut down generation at the origin
+	- [[MQTT Broker]] can provide anonymous access
+	- Old systems do not have authentication
+	- Attacker will attack the broker, shut down generation points in the grid
+	- DER Setpoint manipulation
+	- Physical response of MQTT takeover - the data bus throughput decreased
+	- Operator will not see anything on their side - they can't see why this is happening, because of lack of monitoring
+	- This MQTT attack can happen in distributed energy systems where the [[MQTT Broker]] is required
+- Second attack: [[Modbus TCP]] command injection
+	- Attacker changes the three registers of the [[Programmable Logic Controllers|PLC]]
+	- Attacking the demand endpoint (load control system endpoint)
+	- FC3 reads for register enumeration
+	- FC6 issues command injection - write to 3 registers
+	- This attack specifically for increasing load and demand
+	- Load increase causes a voltage drop
+	- Operator will not see anything
+	- A network [[Intrusion Detection System|IDS]] will detect everything
+- Third attack: [[False Data Injection Attack]] - similar to what happened with [[Stuxnet]]
+	- We blind the system
+	- Everytime the energy is being calculated, we attack the system at its [[Sensor]] - the system calculation operator does not compute what is happening as it doesnt get any real information
+	- This causes failure of control system
+	- [[Stuxnet Echo]] - injected with USB
+	- We can execute via [[Phase Measurement Unit|PMU]] or other sensors
+	- System is blind to this 
+	- Power flow calculation for state estimator is the brain operation, if that is messed up, ripple effect for rest of the system
+	- [[Industrial Control System|ICS]] detection rules blind to [[False Data Injection Attack|FDIA]]
+	- [[Human Machine Interface|HMI]] replay hides this data
