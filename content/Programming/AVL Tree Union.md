@@ -1,6 +1,9 @@
 ---
 tags:
   - programming
+aliases:
+  - AVL Tree Split
+  - AVL Tree Union
 ---
 Given two [[AVL Tree]] $T_{1}, T_{2}$ the union of $T_{1}, T_{2}$ is a tree that contains the key-value pairs from $T_{1}$ and $T_{2}$
 $$
@@ -17,6 +20,7 @@ Can be implemented with a [[Divide and Conquer]] algorithm
 3. Build unions of smaller trees
 4. Merge results into union of $T_{1}$ and $T_{2}$
 ```pascal
+// returns a new tree pair, T1 is all elements less than k, T2 is all elements greater than k
 split(T, k);
 	if T == nil:
 		return (nil, nil)
@@ -31,6 +35,7 @@ split(T, k);
 		L' = join(T.left, T.key, L)
 		return (L', R)
 
+// returns the union of tree L and G based off root k
 join(L, k, G):
 	if height(L) - height(G) > 1:
 		p = L
@@ -44,7 +49,6 @@ join(L, k, G):
 		...symmetrical..
 	else:
 		return new node(key=k, left=L, right=G)
-
 
 union(T1, T2):
 	if T1 == nil:
