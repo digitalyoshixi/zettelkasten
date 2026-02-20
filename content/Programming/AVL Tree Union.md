@@ -12,11 +12,11 @@ $\Theta(n \log(\frac{m}{n}+1))$
 - $m = \text{numnodes}(T_{2})$
 # Algorithm 
 Can be implemented with a [[Divide and Conquer]] algorithm
-1. Split $T_{1}$ into smaller trees
-2. Split $T_{2}$ into smaller trees
+1. Split $T_{1}$ into smaller trees based off key
+2. Split $T_{2}$ into smaller trees based off key
 3. Build unions of smaller trees
 4. Merge results into union of $T_{1}$ and $T_{2}$
-```
+```pascal
 split(T, k);
 	if T == nil:
 		return (nil, nil)
