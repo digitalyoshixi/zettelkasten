@@ -11,6 +11,10 @@ Keeping:
 - $O(\log n)$ delete
 Requires some certain [[Weight Balance Factor]].
 Can be used to implement [[Hashmap]]
+# Weight
+$$
+weight(x) = size(x) + 1 = \text{\# of nodes}(x) + 1
+$$
 # Balance
 Tree is balanced if 
 $$\frac{1}{3}\leq\frac{size(n.left)+1}{size(n.right)+1} \leq 3$$
