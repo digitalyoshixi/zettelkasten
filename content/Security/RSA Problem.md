@@ -11,7 +11,7 @@ where:
 - $C$ is the cipher text
 - $m$ is the original message
 - $e$ is an exponent
-- $n$ is the product of 2 large [[Prime Numbers]]
+- $n$ is the product of 2 large [[Prime Number]]
 The question is how we can get the message 'm'
 # Factoring Modulus $n$
 - [[Wiener's Attack]]

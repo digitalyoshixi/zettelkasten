@@ -26,7 +26,7 @@ https://www.k5learning.com/free-math-worksheets/fifth-grade-5
 - [[Exponents]]
 # Factoring
 - [[Factors]]
-- [[Prime Numbers]]
+- [[Prime Number]]
 - [[GCF]]
 - [[LCM]]
 # Algebra

@@ -13,27 +13,25 @@ Often used as:
 Uses a pair of [[Commutative Encryption|Commutative Keys]].
 https://www.youtube.com/watch?v=Pq8gNbvfaoM 
 # Commonly Used Terminology
-- **P and Q:** 2 Prime \#s used in generation
-- **N**: Product of 2 primes
-- **T**: [[Euler's Totient Function|Totient]] of 2 primes
-- **E**: Public key
-- **D**: Private key
+- $p,q$ 2 [[Prime Number]] used in generation
+- $n$: Product of 2 primes
+- $\phi$: [[Euler's Totient Function|Totient]] of 2 primes
+- $e$: Public key
+- $d$: Private key
 # Generating Keys
-1. Select 2 prime numbers P and Q.
-2. Calculate the product **N**. P\*Q. *note: this number is semi-prime because 2 primes multiplied to get it*
-3. Calculate the totient **T**. (P-1)\*(Q-1)
+1. Select 2 prime numbers $p,q$
+2. Calculate the product $n = p*q$. Note this number is [[Coprime]]
+3. Calculate the totient $\phi = (p-1)(q-1)$
 Now you can create the public and private keys
-The public key **E**:
-- Must be prime
-- Must be less than the totient
-- Must not be a factor of the totient.
-The private key **D** must fulfill:
-- $(private key*public key )\% totient = 1$
-	- The remainder must be 1
+4. Choose public key $e$ such that:
+	1. $e$ is [[Prime Number]]
+	2. $1 < e < \lambda(n)$
+5. Choose private key $d$ such that:
+	1. $(d*e)\% \lambda (n) = 1$
 # Encrypting/Decrypting
 ### Encrypting
-$(Message^E)\%N = Cipher$
+$(\text{Message}^e)\%n = \text{Cipher}$
 ### Decrypting
-$(Cipher^D)\%N = Message$
+$(\text{Cipher}^d)\%n = \text{Message}$
 
 Because this is [[Commutative]], you can also encrypt with the private key and decrypt with the public key.
