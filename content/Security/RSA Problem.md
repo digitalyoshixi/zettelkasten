@@ -15,5 +15,5 @@ where:
 The question is how we can get the message 'm'
 # Factoring Modulus $n$
 - [[Wiener's Attack]]
-- [[Carmicheal Lambda]]
+- [[Carmicheal Lambda Totient]]
 - [[Chinese Remainder Theorem]]

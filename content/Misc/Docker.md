@@ -41,6 +41,7 @@ echo \
 - [[Kubernetes Pod]]
 - [[Dockerfile]]
 - [[Docker Node]]
+- [[Docker API]]
 # Practical Use Cases
 - Make a [[Docker Compose]] file which automates the process of creating gitlab servers
 - You can use docker like a linux server where you SSH into

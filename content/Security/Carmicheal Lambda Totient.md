@@ -2,7 +2,8 @@
 tags:
   - cryptography
 ---
-A solution to the [[RSA Problem]]
+A step in the [[RSA]] generation.
+Can be used to solve the [[RSA Problem]]
 # Python Implementation
 https://stackoverflow.com/questions/49818392/how-to-find-reverse-of-powa-b-c-in-python
 
