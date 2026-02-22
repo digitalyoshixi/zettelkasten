@@ -2,7 +2,7 @@
 tags:
   - programming
 ---
-A [[Leetcode]] [[Priority Queue]] problem.
+A [[Leetcode]] [[Min-Heap]] problem.
 # Problem
 https://leetcode.com/problems/kth-largest-element-in-a-stream/
 # Soln

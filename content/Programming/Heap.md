@@ -8,6 +8,6 @@ aliases:
 A [[Binary Tree]]-based data structure where all levels are filled except the lowest.
 # Types
 - [[Heap Sort]]
-- [[Priority Queue|Min-Heap]]
+- [[Min-Heap|Min-Heap]]
 # Height
 $O(\log n)$

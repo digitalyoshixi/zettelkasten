@@ -8,6 +8,7 @@ aliases:
   - DSA
 ---
 # Data Structures
+A method to store and organize data in order to facilitate access and modifications.
 ### Arrays
 - [[Array]]
 - [[Linked List]]
@@ -26,8 +27,9 @@ aliases:
 - [[AVL Tree]]
 - [[B-Trees]]
 - [[Heap]]
-	- [[Priority Queue]]
+	- [[Min-Heap]]
 	- [[Heap Sort]]
+- [[Priority Queue]]
 - [[Trie]]
 - [[Segment Tree]]
 - [[Fenwick Tree]]

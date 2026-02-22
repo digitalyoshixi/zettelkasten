@@ -24,7 +24,7 @@ aliases:
 - [[Master Theorem]]
 ### Week 1
 - [[Data Structures and Algorithms]]
-- [[Data Structure]]
+- [[Data Structures and Algorithms]]
 - [[Algorithm Analysis]]
 - [[Big O Notation]]
 - [[Big Theta Notation]]
@@ -58,6 +58,7 @@ aliases:
 - [[Breadth First Search]]
 - [[Depth First Search]]
 - [[Directed Graph]]
+- [[Min-Heap]]
 - [[Heap]]
 ### Week 6
 - [[Strongly Connected Component]]
