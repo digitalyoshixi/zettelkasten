@@ -5,7 +5,8 @@ aliases:
   - Binary Heap
   - Nearly Complete Binary Tree
 ---
-A [[Binary Tree]]-based data structure where all levels are filled except the lowest.
+A [[Binary Tree]]-based data structure where all levels are mostly filled (except sometimes the lowest) starting from left to right
+![[Heap-20260222205303684.webp]]
 # Types
 - [[Heap Sort]]
 - [[Min-Heap|Min-Heap]]
