@@ -21,6 +21,7 @@ aliases:
 - [[Programming/Graph|Graph]]
 - [[Heap]]
 - [[Strongly Connected Component|SCC]]
+- [[Master Theorem]]
 ### Week 1
 - [[Data Structures and Algorithms]]
 - [[Data Structure]]
