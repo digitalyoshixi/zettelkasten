@@ -58,6 +58,7 @@ aliases:
 - [[Breadth First Search]]
 - [[Depth First Search]]
 - [[Directed Graph]]
+- [[Heap]]
 ### Week 6
 - [[Strongly Connected Component]]
 - [[Transposed Graph]]
