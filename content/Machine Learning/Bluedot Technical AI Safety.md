@@ -16,3 +16,7 @@ A course offered by [[Bluedot]].
 - [[Multi-Agent]]
 - [[Agent Miscoordination]]
 - [[Ecosystem Graph]]
+### Week 2
+- [[Input Data Filtration]]
+- [[Machine Unlearning]]
+- [[Deep Ignorance]]
