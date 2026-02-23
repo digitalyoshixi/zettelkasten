@@ -20,3 +20,7 @@ A course offered by [[Bluedot]].
 - [[Input Data Filtration]]
 - [[Machine Unlearning]]
 - [[Deep Ignorance]]
+- [[Anthropic Pretraining Filtering Guidelines]]
+- [[LLM Training Data Poisoning]]
+- [[Reinforcement Learning from Human Feedback|RLHF]]
+- [[Reinforcement Learning from AI Feedback]]

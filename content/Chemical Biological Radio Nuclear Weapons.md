@@ -1,4 +1,7 @@
 ---
 tags:
+  - war
+aliases:
+  - CBRN
 ---
-t
+A collection of scientific weapons deemed dangerous as information ([[Cognitohazard]])
