@@ -11,6 +11,7 @@ Machine learning is the process of training an adaptable algorithm from a set of
 - [[Reinforcement Learning]]
 - [[Self Supervised Learning]]
 - [[Semi Supervised Learning]]
+- [[Inverse Reward Design]]
 # Uses
 - [[Regression]]
 - [[Anomaly Detection]]

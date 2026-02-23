@@ -2,6 +2,7 @@
 tags:
   - ai_safety
 ---
-We use AI systems to supervise, critique and improve other systems.
+Techniques we can use to align AI systems more intelligent than us. We use AI systems to supervise, critique and improve other systems.
 # Methods
 - [[Iterated Distillation and Amplification]]
+- [[Task Decomposition]]

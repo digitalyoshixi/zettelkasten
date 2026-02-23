@@ -15,3 +15,5 @@ We are expected to reach AGI by 2026.
 General intellgence is achieved when 90% of economic tasks can be done by an AI.
 # Methods
 - [[Process for Automating Scientific and Technological Advancement]]
+# Risks
+![[Artificial General Intelligence-20260223183424436.webp]]

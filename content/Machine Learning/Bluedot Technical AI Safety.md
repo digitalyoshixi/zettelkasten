@@ -27,3 +27,4 @@ A course offered by [[Bluedot]].
 - [[CICERO]]
 - [[CoastRunners RL Failure]]
 - [[Scalable Oversight]]
+- [[Deepmind Frontier Safety Framework]]
