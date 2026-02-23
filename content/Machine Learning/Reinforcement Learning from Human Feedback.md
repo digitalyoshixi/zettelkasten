@@ -8,10 +8,12 @@ aliases:
 A process of [[Reinforcement Learning]] wherein outputs are given human feedback for tailored reasoning.
 - Doesn't change what the model is, just teaches it what not to say
 Similar to an [[ELO Rating System]]
-
-![[Pasted image 20260223130904.png]]
+![[Reinforcement Learning from Human Feedback-20260223212757319.webp]]
+- Step 1: Human collected data to describe how the AI should behave. Human demonstrated data is harmful vs harmful data pairs
+- Step 2: SFT model creates a judge RM model
+- Step 3: Optimize policy with [[Proximal Policy Optimization|PPO]]
 # RL
-- TRPO
+- [[Trust Region Policy Optimization]]
 - CRPO
 - [[Proximal Policy Optimization]]
 # Process
