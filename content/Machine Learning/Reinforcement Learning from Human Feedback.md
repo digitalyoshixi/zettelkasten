@@ -12,3 +12,6 @@ Similar to an [[ELO Rating System]]
 - TRPO
 - CRPO
 - [[Proximal Policy Optimization]]
+# Weaknesses
+- [[Sycophancy]]
+- [[Deception]]

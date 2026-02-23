@@ -24,3 +24,6 @@ A course offered by [[Bluedot]].
 - [[LLM Training Data Poisoning]]
 - [[Reinforcement Learning from Human Feedback|RLHF]]
 - [[Reinforcement Learning from AI Feedback]]
+- [[CICERO]]
+- [[CoastRunners RL Failure]]
+- [[Scalable Oversight]]
