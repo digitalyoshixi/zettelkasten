@@ -17,7 +17,7 @@ Similar to an [[ELO Rating System]]
 - CRPO
 - [[Proximal Policy Optimization]]
 # Process
-- Human given prompt -> outputs. Ranks each output against eachother.
+- Human given prompt -> outputs. Ranks each output against each other.
 - Create a values coach from these responses, a small [[Language Model|LM]] that checks if responses cohere with our indicated values
 - Create a coherence coach, a copy of the model that is used to check if responses are coherent
 - Model is given reward by a combination of values coach and coherence coach rewards
