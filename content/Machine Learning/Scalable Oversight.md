@@ -6,3 +6,7 @@ Techniques we can use to align AI systems more intelligent than us. We use AI sy
 # Methods
 - [[Iterated Distillation and Amplification]]
 - [[Task Decomposition]]
+- [[Expert Iteration|ExIt]]
+- [[Recursive Reward Model|RRM]]
+- [[Constitutional AI]]
+- [[AI Debate Reinforcement Learning]]

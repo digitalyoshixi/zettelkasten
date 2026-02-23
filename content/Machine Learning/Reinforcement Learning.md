@@ -9,5 +9,6 @@ The process of [[Machine Learning]] that starts [[Unsupervised Learning|Unsuperv
 # Methods
 - [[Automated Reinforcement Learning]]
 - [[Reinforcement Learning from Human Feedback|RLHF]]
+- [[Expert Iteration]]
 # Alternatives
 - [[Supervised Fine Tuning]]
