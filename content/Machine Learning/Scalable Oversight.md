@@ -10,3 +10,4 @@ Techniques we can use to align AI systems more intelligent than us. We use AI sy
 - [[Recursive Reward Model|RRM]]
 - [[Constitutional AI]]
 - [[AI Debate Reinforcement Learning]]
+- [[Weak to Strong Generalization]]
