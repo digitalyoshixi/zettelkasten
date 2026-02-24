@@ -2,6 +2,8 @@
 tags:
   - philosophy
   - ai_safety
+aliases:
+  - Selection Criteria for Intentionality
 ---
 # Criterion
 A mental state acts as a representation depending on a function ([[Selection]] from [[Teleosemantics]]).
