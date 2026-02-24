@@ -18,8 +18,10 @@ The concept of allowing actions to affect a wider population correctly.
 # Beliefs
 - [[Utilitarianism]]
 - [[Egalitarianism]]
+- [[Luck Egalitarianism]]
 - [[Prioritarianism]]
-- [[]]
+- [[Formal Equality of Opportunity|Meritocracy]]
+- [[Fair Equality of Opportunity|Opportunity Meritocracy]]
 # Algorithmic Fairness
 ### Fairness for Risk Scores
 - [[Calibration Within Groups]]
