@@ -48,3 +48,5 @@ The concept of allowing actions to affect a wider population correctly.
 - [[Amazon AI Recruitment Bias]]
 - [[Calibration]]
 - [[Statistical Parity by Status]]
+- [[Score Function]]
+- [[Classifier]]
