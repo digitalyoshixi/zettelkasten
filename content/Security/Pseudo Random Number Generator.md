@@ -32,3 +32,5 @@ $\text{output} = f(n,key)$
 - [[Stream-Cipher]]
 # Subtypes
 - [[Key Derivation Function]]
+# Tests
+- [[Spectral Test]]
