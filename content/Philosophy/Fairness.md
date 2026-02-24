@@ -13,10 +13,14 @@ The concept of allowing actions to affect a wider population correctly.
 # Types
 - [[Individual Fairness]]
 - [[Group Fairness]]
-# Problems
-- [[Fairness Impossibility Theorem]]
-- [[Algorithmic Gerrymandering]]
-# Interpretations
+- [[Ex-ante Fairness]]
+- [[Ex-post Fairness]]
+# Beliefs
+- [[Utilitarianism]]
+- [[Egalitarianism]]
+- [[Prioritarianism]]
+- [[]]
+# Algorithmic Fairness
 ### Fairness for Risk Scores
 - [[Calibration Within Groups]]
 - [[Balance for the Positive Class]]
@@ -33,9 +37,10 @@ The concept of allowing actions to affect a wider population correctly.
 - [[Equality of False-Positive Rate to False-Negative Rate]]
 - [[Equal Overall Error Rates]]
 - [[Equal Ratios of Predicted Positives to Actual Positives]]
+# Problems
+- [[Fairness Impossibility Theorem]]
+- [[Algorithmic Gerrymandering]]
 # Concepts
-- [[Ex-ante Fairness]]
-- [[Ex-post Fairness]]
 - [[Ex-ante Ex-post Example]]
 - [[Correctional Offender Management Profiling for Alternative Sanctions]]
 - [[Amazon AI Recruitment Bias]]

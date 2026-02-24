@@ -11,3 +11,6 @@ A predictive models' scores should have same meaning across different groups.
 $$
 P(Y=1|S=s, A=a) = s, \forall s \in \mathbb{R}, a \in A
 $$
+Where:
+- $Y$ is a binary event $\{ 0,1 \}$
+- $s$
