@@ -118,3 +118,9 @@ aliases:
 ### Week 6
 - [[Calibration Within Groups]]
 - [[Brian Hedden's Fairness Argument]]
+### Week 7
+- [[Cobb Douglas Production Function]]
+- [[Bowley's Law]]
+- [[Industrial Revolution]]
+- [[Agricultural Revolution]]
+- [[Globalization]]

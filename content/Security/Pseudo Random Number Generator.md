@@ -5,6 +5,8 @@ tags:
 aliases:
   - PRNG
   - PRF
+  - Deterministic Random Bit Generator
+  - DRBG
 ---
 A random number generated from [[Deterministic Algorithm]].
 A PRF should generate an arbitrary length random value from a given seed. The output should be indistinguishable from random data.
