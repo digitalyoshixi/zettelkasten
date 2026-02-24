@@ -3,6 +3,7 @@ tags:
   - math
 ---
 To find all the factors, of any number, you will need to find a set of prime factors.
+This is a [[Polynomial Time]] algorithm
 ![[Pasted image 20231002191712.png]]
 This works for all numbers.
 The set of prime factors will **Always** be the same
@@ -29,4 +30,3 @@ Say you have a number 3600, you want to get all perfect square factors.
 The prime factorization of 3600 is $2^4*3^2*5^2$
 A perfect square occurs when the degrees of the terms are even.
 So $2^0*3^2*5^2$ or $2^4*3^2*5^0$ as examples, there are a lot more.
-
