@@ -4,7 +4,8 @@ tags:
   - programming
 aliases:
   - Church Turing Thesis
+  - Models of Computation Equivalence
 ---
 Functional representations are equivalent to state based representations.
 # Formal Definition
-A [[Function]] of [[Natural Number|Natural Numbers]] can be calculated by an [[Effective Method]] $\Longleftrightarrow$ it is computable by a [[Turing Machine]]
+[[Recursion]], [[Lambda Calculus]] and [[Turing Machine]] are all equivalent in power

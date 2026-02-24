@@ -20,3 +20,4 @@ Knowing a language requires:
 - Having an interpretation to those symbols
 # Counter Arguments
 - [[Whole System Objection]]
+- [[Memorization to Understanding]]

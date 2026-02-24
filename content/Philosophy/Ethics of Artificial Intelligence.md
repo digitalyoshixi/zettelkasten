@@ -77,7 +77,7 @@ aliases:
 - [[Phenomenal Consciousness]]
 - [[Intentionality]]
 - [[Alan Turing]]
-- [[Models of Computation Equivalence]]
+- [[Church Turing Hypothesis]]
 - [[John Searle]]
 - [[AI Semantic Gap]]
 ### Week 4

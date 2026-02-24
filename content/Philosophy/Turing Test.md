@@ -12,7 +12,7 @@ P1: We are able to convert any cognitive task to precise finite rules in a forma
 P2: Any cognitive task done by a set of finite rules can be done on a computer (Church Turing Thesis)
 C: Any computer can do any human task
 ```
-- For premise two, this is supported by the ([[Models of Computation Equivalence]])
+- For premise two, this is supported by the ([[Church Turing Hypothesis]])
 # Objections
 - [[Turing Test Theological Objection]]
 - [[Turing Test Heads in the Sand Objection]]

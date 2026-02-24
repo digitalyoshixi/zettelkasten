@@ -1,8 +1,11 @@
 ---
 tags:
   - philosophy
+aliases:
+  - Goldstein & Levinstein Argument
 ---
-# Criteria for [[Intentionality]]
+# Argument
+An [[Artificial Intelligence|AI]] has [[Intentionality]] if it has all the criteria for intentionality:
 - [[Information Criteria for Intentionality]]
 - [[Causal Power Criteria for Intentionality]]
 - [[Folk Psychology Criteria for Intentionality]]
