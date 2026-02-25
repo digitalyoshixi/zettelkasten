@@ -15,3 +15,5 @@ Easy to compute, and well supported for [[Embedded Device|Embedded Devices]]
 # Implementations
 - [[Elliptic-Curve Diffie Hellman Ephemeral|ECDHE]]
 - [[Elliptic Curve Digital Signature Algorithm]]
+# Problems
+- [[Elliptic Curve Discrete Logarithm]]
