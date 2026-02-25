@@ -12,4 +12,4 @@ Both signed/unsigned operations are the same. The [[Least Significant Bit]] is r
 00101 << 1
 = 01010
 ```
-- A shift of a << n is equivalent to multiplying a \* 2^n
+`- A shift of a << n is equivalent to multiplying a \* 2^n
