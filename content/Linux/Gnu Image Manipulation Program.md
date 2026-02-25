@@ -6,3 +6,4 @@ aliases:
 ---
 # Guides
 - [[GIMP Recolor Image]]
+- [[GIMP Add Outline Stroke]]
