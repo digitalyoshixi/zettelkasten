@@ -17,6 +17,8 @@ A PRF is an algorithm that takes in:
 - Seed data $s$
 Returns an output [[String]] $o \in \{ 0,1 \}^{*}$
 # Implementations
+### Squares
+- [[Middle Square Algorithm]]
 ### Linear Recursion
 - [[Linear Congruential Generator|LCG]]
 - [[Mersenne Twister]]
@@ -33,4 +35,5 @@ $\text{output} = f(n,key)$
 # Subtypes
 - [[Key Derivation Function]]
 # Tests
+- [[Uniform Randomness Test]]
 - [[Spectral Test]]

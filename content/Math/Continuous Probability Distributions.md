@@ -16,8 +16,6 @@ aliases:
 # Skews
 - [[Skewed Distribution]]
 # Other
-### Uniform In Continuous
-- [[Uniform In Continuous Distributions]]
 ### Continuous Probability Problems
 - [[Continuous Probability Problems]]
 ### The Exponential Waiting Time Distribution
