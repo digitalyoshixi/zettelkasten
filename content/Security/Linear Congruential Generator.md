@@ -17,5 +17,8 @@ The LCG repeats itself. 634763476347634763476347. is a example output that it gi
 
 # Breaking LCG
 If m is known to the attacker, and a,b are not known, then you can break LCG.
+- [[LCG Recovering Parameters]]
 # Implementations
 - [[RANDU]]
+# Vulnerabilities
+- [[DVSorder Vulnerability]]
