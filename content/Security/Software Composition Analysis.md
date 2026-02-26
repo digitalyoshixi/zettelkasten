@@ -10,3 +10,4 @@ The tracking of dependencies and how software pieces together.
 - [[Sonatype]]
 - [[Blackduck]]
 - [[debricked]]
+- [[Dependabot]]

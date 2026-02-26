@@ -14,13 +14,13 @@ A talk at [[Toronto Area Security Klatch|TASK]]
 	- 2015 - NIST says we should submit new algorithms for quantum cryptography
 	- 2016 - Short listen 69 algorithms that can be used - lattice based, hash based, [[Elliptic Curve Cryptography|ECC]] based
 	- NIST 203, 204, 205 released
-- [[NIST 203]]
+- [[Kyber|NIST 203]]
 - [[NIST 204]]
 - [[SPHINCS+|NIST 205]]
 - [[Lattice]] - its a grid with dotted points in thousands of dimensions
 - [[Module Learning With Errors Problem|Module LWE]]
 - [[Module Short Integer Solution]]
-- A 768-bit public key can result in 37x increase ([[NIST 203|ML-KEM]] public key)
+- A 768-bit public key can result in 37x increase ([[Kyber|ML-KEM]] public key)
 - [[NIST 204|ML-DSA]] - how PQ signing works
 - You have a context tree, everytime you do a signature, different applications can also do a signature. The verification is ad-hoc.
 	- For every new application, we must send a different context then
@@ -31,13 +31,47 @@ A talk at [[Toronto Area Security Klatch|TASK]]
 	- 2. Dataflow like TPM, units change the key size, if you dont it will break
 	- 3. Application type - decide on different algorithms (IOT device must use a smaller key size)
 - Most OpenSSL and nginx already have integration these algorithms
-- [[TLS 1.3]] allows [[NIST 203|ML-KEM]] to be plugged in nicely.
+- [[TLS 1.3]] allows [[Kyber|ML-KEM]] to be plugged in nicely.
 - [[TLS 1.3]] allows classical keys and quantum keys (Hybrid approach)
 - Performance between quantum and classical:
-	- [[NIST 203|ML-KEM]] key generation 12x faster
-	- [[NIST 203|ML-KEM]] encapsulation is far faster than RSA, but similar to [[Elliptic Curve Cryptography|ECC]]
-	- TLS-handshake with hybrid [[NIST 203|ML-KEM]] 2ms of overhead, but then settles on a symmetric key, so no overhead after that
+	- [[Kyber|ML-KEM]] key generation 12x faster
+	- [[Kyber|ML-KEM]] encapsulation is far faster than RSA, but similar to [[Elliptic Curve Cryptography|ECC]]
+	- TLS-handshake with hybrid [[Kyber|ML-KEM]] 2ms of overhead, but then settles on a symmetric key, so no overhead after that
 	- [[NIST 204|ML-DSA]] ~14kb for each handshake
 	- IETF TA WG actively in development unfortunately, PKI is not secure key
 - A docker image openquantumsafe allows for very experimental setup (https://hub.docker.com/u/openquantumsafe), you can test some quantum algorithm and some hybrid ones
-- 
+- TLS handshake is slow, what dominates is network latency
+- ATMs and physical machines have hard-coded crypto, haha its harder to migrate
+- How to scan your cryptographic estate:
+	- Use existing sources (Cert managers, HSM logs, EDR/NDR tools SBOM extensions)
+	- Filesystem scans detect crypto library calls, key files to detect what algos you are using
+	- Wireshark to check for what algos are being used (TLS handshake)
+	- testssl.sh to use command line check
+	- static analysis of the code, [[Semgrep]]
+- Crypto agility, but there are more agilities now:
+	- Protocol agility
+	- Hardware agility
+	- API agaility
+	- Design agility
+- Only 7% of US agencies are quantum secure
+- Five phase quantum migration roadmap:
+	- Discover what crypto systems you are already using
+	- Assess risk, what data is at risk, categorize the risk levels
+	- Experiment with different PQC algorithms, use docker images, openSSL modes of operation
+	- Migrate, first migrate with hybrid, then depending on the circumstances you can move to pure quantum
+	- Governance policy, crypto [[Software Bill of Materials|SBOM]]
+- Key takewaways:
+	- Post quantum crypto migration is a hard deadline 2035, 2030 is when everything should be moved
+	- Start with hybrid movement to TLS endpoints
+	- Tons of complexity involved like key size increase or API endpoints
+	- API breaking changes could be caused, when configurations are changed
+	- Make sure to build crypto agility
+- RFCs in progress by [[Internet Engineering Task Force|IETF]]:
+	- VPN 
+	- Hybrid scheme
+	- Digital certificates
+- Resources:
+	- Open quantum safe - lots of docker images
+	- New standards  NIST standards
+	- NCCoE migration guide
+- [[NIST 204|ML-DSA]] has the option for you to use ephemeral seeds, so if you care about space, this is an option aswell

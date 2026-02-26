@@ -22,8 +22,8 @@ Talk at [[Defcon Toronto]]
 	- Control panel layer:
 		- Emulates the monitoring tools ([[Programmable Logic Controllers|PLC]])
 	- Attack & Observation layer:
-		- [[Sricata]] for attacks
-		- [[Zeke]] - ics monitor
+		- [[Suricata]] for attacks
+		- [[Zeek]] - ics monitor
 - Key terms:
 	- [[MQTT]]
 	- [[Modbus TCP]]

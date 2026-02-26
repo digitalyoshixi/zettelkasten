@@ -56,8 +56,12 @@ The [[Mathematics]] used to secure data.
 - [[Peppering]]
 - [[Elliptic Curve Cryptography|ECC]]
 - [[Message Authentication Code]]
+- [[Pseudo Random Number Generator|PRNG]]
+- [[Key Derivation Function]]
+- [[Key Encapsulation]]
 - [[Transport Layer Security|TLS]]
 - [[Public Key Cryptography Standards|PKCS]]
+- [[Post-Quantum Cryptography]]
 # Mathematical Cryptography
 ### Notions of Security
 - [[Indistinguishability Under Chosen Plaintext Attack|IND-CPA]]

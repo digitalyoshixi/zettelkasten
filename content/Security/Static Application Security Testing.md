@@ -14,3 +14,4 @@ SAST is very noisy.
 - [[Bandit]]
 - [[Semgrep]]
 - [[Amazon CodeGuru]]
+- [[Trivy]]
