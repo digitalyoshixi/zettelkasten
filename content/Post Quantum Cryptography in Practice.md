@@ -10,4 +10,34 @@ A talk at [[Toronto Area Security Klatch|TASK]]
 - Grovers search will reduce security level of symmetric crypto. But, you can increase the key size of symmetirc crypto and it usually will be safe
 - Grover's search increases the speed of the algorithm by a quadratic factor
 - [[Harvest Now Decrypt Later]], no quantum computers at the moment, but future we will have
+- NIST POC standardization timeline:
+	- 2015 - NIST says we should submit new algorithms for quantum cryptography
+	- 2016 - Short listen 69 algorithms that can be used - lattice based, hash based, [[Elliptic Curve Cryptography|ECC]] based
+	- NIST 203, 204, 205 released
+- [[NIST 203]]
+- [[NIST 204]]
+- [[SPHINCS+|NIST 205]]
+- [[Lattice]] - its a grid with dotted points in thousands of dimensions
+- [[Module Learning With Errors Problem|Module LWE]]
+- [[Module Short Integer Solution]]
+- A 768-bit public key can result in 37x increase ([[NIST 203|ML-KEM]] public key)
+- [[NIST 204|ML-DSA]] - how PQ signing works
+- You have a context tree, everytime you do a signature, different applications can also do a signature. The verification is ad-hoc.
+	- For every new application, we must send a different context then
+- Hybrid algorithms: both classical algorithms and quantum algorithms
+- Dont know what will happen forward with quantum algorithms - we need to have a hybrid approach to be safe
+- Layers of complexity:
+	- 1. Configure APIs - [[OpenSSL]] and [[nginx]] already have existing configuration options
+	- 2. Dataflow like TPM, units change the key size, if you dont it will break
+	- 3. Application type - decide on different algorithms (IOT device must use a smaller key size)
+- Most OpenSSL and nginx already have integration these algorithms
+- [[TLS 1.3]] allows [[NIST 203|ML-KEM]] to be plugged in nicely.
+- [[TLS 1.3]] allows classical keys and quantum keys (Hybrid approach)
+- Performance between quantum and classical:
+	- [[NIST 203|ML-KEM]] key generation 12x faster
+	- [[NIST 203|ML-KEM]] encapsulation is far faster than RSA, but similar to [[Elliptic Curve Cryptography|ECC]]
+	- TLS-handshake with hybrid [[NIST 203|ML-KEM]] 2ms of overhead, but then settles on a symmetric key, so no overhead after that
+	- [[NIST 204|ML-DSA]] ~14kb for each handshake
+	- IETF TA WG actively in development unfortunately, PKI is not secure key
+- A docker image openquantumsafe allows for very experimental setup (https://hub.docker.com/u/openquantumsafe), you can test some quantum algorithm and some hybrid ones
 - 

@@ -3,6 +3,8 @@ tags:
   - cryptography
 aliases:
   - Quantum Safe
+  - PQ
+  - PQC
 ---
 This is methods of cryptography after [[Quantum Computing]] becomes commercialized.
 # Concepts
