@@ -11,6 +11,7 @@ A system of:
 to manage [[Digital Certificate|Digital Certificates]] and [[Public-Key Cryptography]]
 ![[Public Key Infrastructure-20260226145443425.webp]]
 # Concepts
+- [[Certificate Management Protocol]]
 - [[Public Key]]
 - [[Private Key]]
 - [[Key Escrow]]

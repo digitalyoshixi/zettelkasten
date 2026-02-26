@@ -7,6 +7,7 @@ aliases:
   - ZTA
 ---
 Human trust is flawed. Assume the attacker is already inside the system.
+Give everything a [[Digital Certificate|X509 Certificate]]
 ![[Zero Trust Security-20250711024701537.webp|666]]
 # Principles
 1. Never trust, always verify. Every connection attempt should be authenticated and authorized. Use [[Adaptive Identity]]

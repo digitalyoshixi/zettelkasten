@@ -4,6 +4,7 @@ tags:
 aliases:
   - Certificate
   - X509 Certificate
+  - X.509 Certificate
 ---
 A document used to link a [[Public Key]] to an entity.
 Often includes:
