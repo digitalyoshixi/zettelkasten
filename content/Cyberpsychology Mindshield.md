@@ -41,4 +41,21 @@ A talk by mindshield at [[Toronto Area Security Klatch|TASK]]
 	- Tara has high obediance can be manipulated
 	- Chris has high empahy can be manipulated
 - Then, we can know why they fall for why they fell, improved [[Security Awareness|Security Awareness Training]]
+- Why do we fall for it, cyberpsychology buckets it:
+	- Prevalent factors (your predisposition)
+		- Psychological factors
+		- experimental factors
+		- Motivations
+	- State dependent factors (heightened factors during crisis moments)
+		- Cognitive biases
+		- Emotional intelligence
+- Emerging branches of cyber psychology
+	- [[User Cyberpsychology]]
+	- [[Forensic Cyberpsychology]]
+	- [[Social Cyberpsychology]]
+	- [[Cyber-psycho-somantics]]
+	- [[Ethics of Artificial Intelligence|AI Ethics]]
+- Cyberpsychology is sexy
+- [[Behavioral Economics]] is a subdomain of [[Cyberpsychology]]
+- Sales tactics, learning these you can't unsee them, you can only fall for them if you don't know them
 - 

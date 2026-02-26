@@ -8,3 +8,4 @@ Studying individual business systems.
 - [[Scarcity]]
 - [[Needs vs Wants]]
 - [[Opportunity Cost]]
+- [[Behavioral Economics]]
