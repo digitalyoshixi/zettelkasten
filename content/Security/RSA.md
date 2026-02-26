@@ -28,7 +28,7 @@ Now you can create the public and private keys
 	1. $e$ is [[Prime Number]]
 	2. $1 < e < \lambda(n)$
 6. Choose private key $d$ such that:
-	1. $(d*e) \mod \lambda (n) = 1$
+	1. $(d*e) \mod \lambda (n) = 1$ ([[Modular Multiplicative Inverse]])
 # Encrypting/Decrypting
 ### Encrypting
 $(\text{Message}^e)\%n = \text{Cipher}$
