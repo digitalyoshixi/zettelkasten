@@ -1,6 +1,8 @@
 ---
 tags:
   - security
+aliases:
+  - RA
 ---
 An intermediary between the [[Certificate Authority|CA]] and [[Public Key Infrastructure|PKI]] system.
 Used to:
