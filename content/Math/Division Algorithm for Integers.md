@@ -3,6 +3,7 @@ tags:
   - math
 aliases:
   - Euclidean Algorithm for Integers
+  - Extended Euclidean Algorithm
 ---
 # Theorem
 1. If $f \in \mathbb{Z}$
