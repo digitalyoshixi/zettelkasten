@@ -1,0 +1,44 @@
+---
+tags:
+  - security
+  - psychology
+---
+A talk by mindshield at [[Toronto Area Security Klatch|TASK]]
+# Notes
+- New imminent field to be brought into the wider space
+- Speaker is taking their [[Doctor of Philosophy|PhD]] in [[Cyberpsychology]]
+- Early on she made documentaries, but could not confidently guarantee the safety and security of the people she interviewed. Google developed distortion technology, can convert them into AI avatars
+- Hyper-personalized advertising used by certain companies (precursor to [[Deepfake]])
+- We have no great way to manage social media technology
+- [[Cyberpsychology Mindshield]] intersects (tech, psychology, security)
+- Specific threats:
+	- Phishing, inside threats, information war, cyber criminals, cyber bullying, addicitons, human AI relationship, Ai bias, dark UI/UX design ([[Dark Pattern]]), predatory marketting
+	- Common thread is manipulation
+- [[Moores Psychology Law|Thomas Friedman Psychology Law]] 
+- Results us into constantly playing mental catch-up
+- Attacks become cheaper, anonymous, personalized, dont need to be skilled
+- Increased fatigue, burnout, overload
+- The one technology not changed over past thousand years is the human brain
+- Cognitive vulnerabilities -> solutions:
+	- Fear (Fight, flight, freeze) -> regulation
+	- Panic -> [[Reflexivity]]
+	- Bias -> Awareness
+	- Distration -> Attention
+	- Cognitive overload -> optimal cognitive load
+- AI revolution replacement? Third possibility! AI and humans merge 
+	- [[Brain Computer Interaction|BCI]]
+	- [[Cybernetics]]
+- Cyberpsychology is not the same as mental health
+- Add in a new step in security process. Add the behavior check-in step - put it near [[Security Awareness|Security Awareness Training]]
+- [[Cyber Kill Chain]], now [[Cognitive Kill Chain]]
+- Thought experiment:
+	- Tara is an immigrant, recently come to canada, want to get a job, recently got a job after six months as a administrator, just wants to do a good job
+	- Chris with same company with about 20 years, deep understanding of how organization runs
+	- Phishing simulation - CEO impersonation scam, Tara fell for it, Chris did not because Tara has never experienced such questions before, her culture has not been used to questioning authority, Chris will call management to ask
+	- Another phish, for donations that hit Florida, Tara did not donate and she is kind of broke, Chris had family and donated, fell for the scam
+- From a cybersecurity perspective, would take both people and take them through the same [[Security Awareness|Security Awareness Training]]
+- A cyberpsychologist would be able to see that:
+	- Tara has high obediance can be manipulated
+	- Chris has high empahy can be manipulated
+- Then, we can know why they fall for why they fell, improved [[Security Awareness|Security Awareness Training]]
+- 

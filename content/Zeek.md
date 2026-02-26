@@ -2,4 +2,4 @@
 tags:
   - security
 ---
-An open source network securit
+An open source network security monitoring tool.

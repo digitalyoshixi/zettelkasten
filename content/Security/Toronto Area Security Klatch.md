@@ -14,3 +14,4 @@ aliases:
 - [[A Cognitive Kill Chain - The Psychological Impact of LLMs]]
 - [[Emerging Tech, Burnout and the Future of War]]
 - [[Post Quantum Cryptography in Practice]]
+- [[Cyberpsychology Mindshield]]

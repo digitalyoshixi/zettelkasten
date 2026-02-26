@@ -18,3 +18,5 @@ aliases:
 - https://www.damnvulnerabledefi.xyz/
 - https://capturetheether.com/
 - https://workshop.neodyme.io/setup.html
+- https://github.com/SunWeb3Sec/DeFiHackLabs
+- https://github.com/paradigmxyz/paradigm-ctf-infrastructure
