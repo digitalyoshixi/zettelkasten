@@ -73,3 +73,6 @@ The [[Mathematics]] used to secure data.
 - [[Legendre Symbol]]
 - [[Quadratic Residue]]
 - [[Quadratic Reciprocity]]
+### [[Cryptography Hard Problem]]
+- [[Discrete Logarithm Problem|DLP]]
+- [[Elliptic Curve Discrete Logarithm|ECC DLP]]
