@@ -18,3 +18,4 @@ to manage [[Digital Certificate|Digital Certificates]] and [[Public-Key Cryptogr
 - [[Registration Authority|RA]]
 - [[Certificate Authority|CA]]
 - [[Object Identifier|OID]]
+- [[Client Certificate]]
