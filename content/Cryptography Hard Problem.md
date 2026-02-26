@@ -7,3 +7,4 @@ Problems where there is no known solution to circumvent. Establishes the securit
 - [[Discrete Logarithm Problem|DLP]]
 - [[Elliptic Curve Discrete Logarithm|ECC DLP]]
 - [[Learning With Errors|LWE]]
+- [[Diffie-Hellman Assumption]]
