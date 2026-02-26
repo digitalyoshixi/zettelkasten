@@ -9,7 +9,7 @@ A system of:
 - Users
 - Procedures
 to manage [[Digital Certificate|Digital Certificates]] and [[Public-Key Cryptography]]
-![[Public Key Infrastructure-20260226145443425.webp]]
+![[Public Key Infrastructure-20260226145443425.webp] ]
 # Concepts
 - [[Public Key]]
 - [[Private Key]]
