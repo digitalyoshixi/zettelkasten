@@ -9,6 +9,7 @@ A [[Post-Quantum Cryptography]] safe algorithm. Deemed to be a sbustitution-perm
 - The key is constructed out of 64 bits
 Takes a message and a key.
 The key can be 128bits, 192bits or 256bits.
+The message must be
 # Concepts
 - [[Block]]
 - [[Rijndael S-box]]
