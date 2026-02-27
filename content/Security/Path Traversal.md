@@ -8,7 +8,7 @@ A [[Web Security]] vulnerability targets webservers who's paths allow direct tra
 # Common Paths
 - `/etc/passwd`
 - `/etc/shadow`
-- `/erc`
+- `/etc`
 - `/var/www/html`
 - `../`
 - `/root`
