@@ -36,3 +36,6 @@ $(\text{Message}^e)\%n = \text{Cipher}$
 $(\text{Cipher}^d)\%n = \text{Message}$
 
 Because this is [[Commutative]], you can also encrypt with the private key and decrypt with the public key.
+
+# Attacks
+- [[Common Modulus Attack]]
