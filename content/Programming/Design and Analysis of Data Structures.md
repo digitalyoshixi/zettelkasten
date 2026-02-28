@@ -16,7 +16,7 @@ aliases:
 # Term Test
 - [x] [[Algorithm Analysis|Asymptotic Analysis]] ✅ 2026-02-28
 - [ ] [[AVL Tree]]
-- [ ] Augmenting trees
+o- [ ] Augmenting trees
 - [ ] [[Weight Balanced Binary Search Tree|WBT]]
 - [ ] [[Programming/Graph|Graph]]
 - [ ] [[Heap]]
