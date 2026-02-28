@@ -22,7 +22,10 @@ aliases:
 - [[Chained Cross Site Request Forgery Attack]]
 - [[Type Confusion]]
 - [[Insecure Direct Object Reference|IDOR]]
+- [[MIME Sniffing]]
 # Concepts
 - [[Basic Authentication]]
 - [[Session Token]]
 - [[JSON Web Token|JWT Token]]
+- [[Open Auth|OAuth]]
+- [[OWASP Top 10]]
