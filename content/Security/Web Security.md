@@ -19,3 +19,7 @@ aliases:
 - [[Cache Poisoning]]
 - [[Web Cache Deception]]
 - [[Evil Regex]]
+# Concepts
+- [[Basic Authentication]]
+- [[Session Token]]
+- [[JSON Web Token|JWT Token]]
