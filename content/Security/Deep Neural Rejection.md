@@ -11,4 +11,4 @@ Involves creating a second model that summarizes important layers in the [[Neura
 # Process
 1. Train your initial model
 2. Find inputs that badly mess up the outputs of the model
-3. Apply DNR wrapper to the model, for it to be able to detect outlier inputs and refuse to evaluate them. You give it the option to say "I don-'t know"
+3. Apply DNR wrapper to the model, for it to be able to detect outlier inputs and refuse to evaluate them. You give it the option to say "I don't know"

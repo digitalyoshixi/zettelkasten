@@ -7,8 +7,8 @@ tags:
 - A Neural Network scrabble solver
 - A LLM truth verifier (like virustotal kind of. grok is this true? gemini is this true?)
 - A LLM prompt injection fuzzer. Uses various existing techniques
-- Deep Neural Rejection implementation
-- Using SecML find inputs that mess up a neural networks output horribly
+	- Using SecML find inputs that mess up a neural networks output horribly
+	- Deep Neural Rejection implementation
 - Perplexity that can generate new formats for responses like CSVs or graphs
 - Something DAO related
 - Decentralized app store
