@@ -14,14 +14,14 @@ aliases:
 - Final: 40%
 - Allow up to two business days for response after email
 # Term Test
-- [[Algorithm Analysis|Asymptotic Analysis]]
-- [[AVL Tree]]
-- Augmenting trees
-- [[Weight Balanced Binary Search Tree|WBT]]
-- [[Programming/Graph|Graph]]
-- [[Heap]]
-- [[Strongly Connected Component|SCC]]
-- [[Master Theorem]]
+- [ ] [[Algorithm Analysis|Asymptotic Analysis]]
+- [ ] [[AVL Tree]]
+- [ ] Augmenting trees
+- [ ] [[Weight Balanced Binary Search Tree|WBT]]
+- [ ] [[Programming/Graph|Graph]]
+- [ ] [[Heap]]
+- [ ] [[Strongly Connected Component|SCC]]
+- [ ] [[Master Theorem]]
 ### Week 1
 - [[Data Structures and Algorithms]]
 - [[Data Structures and Algorithms]]

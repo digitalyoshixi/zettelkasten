@@ -27,4 +27,3 @@ app.use(cors({ origin : "http://somerequestedweb.com"}))
 ```
 # Auxilliary Concepts
 - [[CORS Preflight]]
-

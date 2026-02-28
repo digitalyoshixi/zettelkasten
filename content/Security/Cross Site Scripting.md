@@ -13,6 +13,10 @@ Non-persistent because it exploits sessions
 ### Example:
 A site has a user input field that returns a paragraph tag with the input inside it. If a user inputs javascript. it can be arbitrarily ran.
 ![[Cross Site Scripting-20250208013518414.webp|499]]
+### Example2:
+```
+https://site.com/search?q=
+```
 # Persistent/Stored XSS
 - Attacker posts payload that is stored on the webserver
 - Everybody who visits that website also gets the payload

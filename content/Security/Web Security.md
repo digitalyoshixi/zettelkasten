@@ -19,6 +19,9 @@ aliases:
 - [[Cache Poisoning]]
 - [[Web Cache Deception]]
 - [[Evil Regex]]
+- [[Chained Cross Site Request Forgery Attack]]
+- [[Type Confusion]]
+- [[Insecure Direct Object Reference|IDOR]]
 # Concepts
 - [[Basic Authentication]]
 - [[Session Token]]

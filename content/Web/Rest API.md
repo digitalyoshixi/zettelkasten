@@ -26,15 +26,20 @@ Use a program to send a http protocol to a server.
 ### GET
 Retrieving data from the server.
 - Used for non-sensitive data
+- Not protected with site redirects
 ### POST
 Send data to the server
 - Used for authentication
 - Used to create things
+- Protected further with [[Cross Origin Resource Sharing|CORS]]
 ### PUT
 Updating information
 - SQL
+- Protected further with [[Cross Origin Resource Sharing|CORS]]
 ### DELETE
 Delete a resource on the server
 ### HEAD
 Retrieve resource headers without the resource itself.
 Similar to GET, but has no resource body
+# Concepts
+- [[HTTP Request Headers]]

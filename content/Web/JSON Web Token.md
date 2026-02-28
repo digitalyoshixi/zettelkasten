@@ -21,7 +21,7 @@ JWT claims can be passed around as identification to bypass authentication by id
 - aud: indended recipient API, service
 - iss: who issued the token
 # Token Lifecycle
-Since JWT does not update session for client, the client must frequently get new tokens. It has 
+Since JWT does not update session for client, the client must frequently get new tokens. It has an identity token (refresh token) and access token.
 ### Access Tokens
 - Used for API requests, short expiry limits exposure (15mins)
 - Usually, you define role, perms, everything required
@@ -29,5 +29,11 @@ Since JWT does not update session for client, the client must frequently get new
 ### Refresh Tokens
 - Used to get access to new tokens, rotated on each use (7 days)
 - Contains the sub, expirty date, issued at, etc
+# JWT Common Pitfalls
+Non-implemented security things in JWT:
+- Missing exp claim
+- Stored in [[Javascript Local Storage]]
+- No refresh rotation, no new tokens are generated
+- Not invalidated on logout
 # Cracking
 - [[JWT Cracking Guide]]
