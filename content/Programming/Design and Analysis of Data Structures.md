@@ -17,8 +17,8 @@ aliases:
 - [x] [[Algorithm Analysis|Asymptotic Analysis]] ✅ 2026-02-28
 - [x] [[AVL Tree]] ✅ 2026-03-01
 - [x] Augmenting trees ✅ 2026-03-01
-- [ ] [[Weight Balanced Binary Search Tree|WBT]]
-- [ ] [[Programming/Graph|Graph]]
+- [x] [[Weight Balanced Binary Search Tree|WBT]]
+- [x] [[Programming/Graph|Graph]] ✅ 2026-03-01
 - [ ] [[Heap]]
 - [ ] [[Strongly Connected Component|SCC]]
 - [ ] [[Master Theorem]]

@@ -2,9 +2,12 @@
 tags:
   - programming
 ---
+# Intuition
+- For all nodes in the graph:
+	- Try to visit all paths from that node, incrementing the visited list for each path, if the first node repeats then we have a cycle, backtrack after end-of-the road
 # Pseudocode
 ```
-mark all verices white
+mark all vertices white
 for each vertex s:
 	if s is white:
 		if has-cycle(s): return True

@@ -31,3 +31,4 @@ Graph has a
 - [[Graph Connected]]
 - [[Out Degree]]
 - [[In Degree]]
+- [[Bipartite Graph]]
