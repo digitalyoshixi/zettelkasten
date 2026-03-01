@@ -19,6 +19,11 @@ $$
 Tree $n$ is balanced if 
 $$\frac{1}{3}\leq\frac{size(n.left)+1}{size(n.right)+1} \leq 3$$
 $$\frac{1}{3}\leq\frac{weight(n.left)}{weight(n.right)} \leq 3$$
+# Height
+$$
+Height(T) \leq \frac{\log(weight(T))}{\log(\frac{4}{3})}
+$$
+Proof: [[WBT Height]]
 # Operations
 - [[Weight Balance Tree Rebalance]]
 - [[WBT Rotation]]
