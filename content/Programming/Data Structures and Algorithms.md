@@ -28,7 +28,7 @@ A method to store and organize data in order to facilitate access and modificati
 - [[B-Trees]]
 - [[Heap]]
 	- [[Min-Heap]]
-	- [[Heap Sort]]
+	- [[Max-Heap]]
 - [[Priority Queue]]
 - [[Trie]]
 - [[Segment Tree]]

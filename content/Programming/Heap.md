@@ -9,6 +9,7 @@ A [[Binary Tree]]-based data structure where all levels are mostly filled (excep
 ![[Heap-20260222205303684.webp]]
 # Types
 - [[Heap Sort]]
+  [[Max-Heap]]
 - [[Min-Heap|Min-Heap]]
 # Height
 $O(\log n)$
