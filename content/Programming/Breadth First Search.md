@@ -9,8 +9,11 @@ A [[Path Finding|Graph Traversal]] algorithm that searches in 'rings'. Uses a [[
 # Algorithm
 ### [[Top-down Programming]]
 1. Starts at vertex 0
-2. Save all previously visited nodes in a [[Queue]]
-3. Continue until there is no more adjacent nodes that have not been met
+2. Save to-visit nodes in a [[Queue]]
+3. Mark first node as visited
+4. Add the first neighbour nodes to the queue
+5. Go through each node in queue until queue is empty
+	1. For all the current node's neighbours unvisited, mark them visited and add them to queue
 # Complexity
 - Finding Node: 
 	- Avg/Best/Worst: $O(V+E)$ where
