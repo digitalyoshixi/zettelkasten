@@ -21,6 +21,8 @@ With $n = |V|$, $m = |E|$
 	- Worst case: $O(1)$
 - Edge Query
 	- Worst case: $O(1)$
+- Neighbour Query
+	- Worst case: $O(n)$
 - Adding a node
 	- Worst case: $O(n^{2})$
 - Deleting a node

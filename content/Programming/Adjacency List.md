@@ -16,6 +16,8 @@ With $n = |V|$, $m = |E|$
 - Edge query
 	- Avg case $\Theta(deg(v))$
 	- Worst case: $O(n)$
+- Neighbour Query
+	- Worst case: $O(1)$
 - Adding node
 	- Worst case: $O(n)$
 - Deleting a node
