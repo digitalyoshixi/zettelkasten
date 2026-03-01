@@ -12,4 +12,4 @@ A [[Binary Tree]]-based data structure where all levels are mostly filled (excep
   [[Max-Heap]]
 - [[Min-Heap|Min-Heap]]
 # Height
-$O(\log n)$
+$Height = \log(n)+1$

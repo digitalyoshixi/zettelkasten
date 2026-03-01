@@ -18,4 +18,7 @@ extract-max():
 	max_j = root.job
 	swap last/bottom/right-most node with the root
 	remove the last node (the previous root)
+	while root has child c with c.priority > root.priority:
+		swap c and root
+	return the max (that last node we removed)
 ```
