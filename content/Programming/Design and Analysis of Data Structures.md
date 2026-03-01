@@ -15,8 +15,8 @@ aliases:
 - Allow up to two business days for response after email
 # Term Test
 - [x] [[Algorithm Analysis|Asymptotic Analysis]] ✅ 2026-02-28
-- [ ] [[AVL Tree]]
-- [ ] Augmenting trees
+- [x] [[AVL Tree]] ✅ 2026-03-01
+- [x] Augmenting trees ✅ 2026-03-01
 - [ ] [[Weight Balanced Binary Search Tree|WBT]]
 - [ ] [[Programming/Graph|Graph]]
 - [ ] [[Heap]]
