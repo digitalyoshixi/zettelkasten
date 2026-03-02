@@ -11,5 +11,5 @@ Often rely on extra non-private information about devices.
 - [[Timing Attack]]
 - [[Replay Attack]]
 - [[Black-Bag Cryptanalysis]]
-- [[Rubber-host Cryptanalysis]]
+- [[Rubber-hose Cryptanalysis]]
 - [[Man-In-The-Middle]]

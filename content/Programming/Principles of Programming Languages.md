@@ -27,7 +27,7 @@ aliases:
 # Concepts
 ### Week 1
 - [[Programming/Language|Language]]
-- [[Translation]]
+- [[Programming/Translation]]
 - [[High-Level Language]]
 - [[Low-Level Language]]
 - [[Assembly]]
