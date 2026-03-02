@@ -19,11 +19,9 @@ aliases:
 - [x] Augmenting trees ✅ 2026-03-01
 - [x] [[Weight Balanced Binary Search Tree|WBT]]
 - [x] [[Programming/Graph|Graph]] ✅ 2026-03-01
-- [ ] [[Heap]]
-- [ ] [[Strongly Connected Component|SCC]]
-- [ ] [[Master Theorem]]
+- [x] [[Heap]]
+- [x] [[Strongly Connected Component|SCC]]
 ### Week 1
-- [[Data Structures and Algorithms]]
 - [[Data Structures and Algorithms]]
 - [[Algorithm Analysis]]
 - [[Big O Notation]]

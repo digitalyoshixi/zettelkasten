@@ -7,13 +7,13 @@ A operation on an AVL tree that fixes rotations.
 # Rotation Types
 ![[Drawing 2026-02-01 15.52.27.excalidraw]]
 ### Left Rotation
-Done if [[AVL Balance Factor]] $> 1$
+Done if [[AVL Balance Factor]] $< -1$
 ### Right Rotation
-Done if [[AVL Balance Factor]] $< 1$
+Done if [[AVL Balance Factor]] $> 1$
 ### Left-Right Rotation
-Done if [[AVL Balance Factor]] $> 1$ and the left subtree [[AVL Balance Factor]] $< 1$
+Done if [[AVL Balance Factor]] $> 1$ and the left subtree [[AVL Balance Factor]] $< -1$
 ### Right-Left Rotation
-Done if [[AVL Balance Factor]] $< 1$ and right subtree [[AVL Balance Factor]] $> 1$
+Done if [[AVL Balance Factor]] $< -1$ and right subtree [[AVL Balance Factor]] $> 1$
 # Code
 ```pascal
 if height(v.left) - height(v.right) > 1:
