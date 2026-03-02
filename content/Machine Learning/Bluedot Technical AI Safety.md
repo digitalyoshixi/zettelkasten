@@ -28,3 +28,5 @@ A course offered by [[Bluedot]].
 - [[CoastRunners RL Failure]]
 - [[Scalable Oversight]]
 - [[Deepmind Frontier Safety Framework]]
+### Week 3
+- [[AI Evaluations]]
