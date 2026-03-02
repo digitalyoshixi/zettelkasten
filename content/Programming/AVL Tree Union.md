@@ -4,6 +4,7 @@ tags:
 aliases:
   - AVL Tree Split
   - AVL Tree Union
+  - AVL Tree Join
 ---
 Given two [[AVL Tree]] $T_{1}, T_{2}$ the union of $T_{1}, T_{2}$ is a tree that contains the key-value pairs from $T_{1}$ and $T_{2}$
 $$

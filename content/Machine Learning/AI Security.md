@@ -37,6 +37,7 @@ Taken two ways:
 - [[System Prompt Canary]]
 - [[AI Firewall]]
 - [[Probe]]
+- [[Deep Ignorance]]
 # AI For Security
 - [[Ghidra MCP]]
 # Concepts
