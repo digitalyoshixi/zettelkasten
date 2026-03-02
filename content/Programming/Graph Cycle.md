@@ -16,3 +16,5 @@ A cycle wherein:
 - First vertex is last vertex
 - Verticies are distinct except first and last which are the same (no repeats)
 - $\langle v \rangle$ is not a cycle
+# Detection
+- [[DFS Cycle Detection]]
