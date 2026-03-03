@@ -16,4 +16,6 @@ A good RSP should cover:
 # RSP Falloffs
 - Slower development, to keep up with competition, you must reduce the RSP scope
 - Requires consistent evaluations that sound false alarms
-- 
+- GA
+# Implementations
+- [[Anthropic Responsible Scaling Policy]]

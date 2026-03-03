@@ -38,3 +38,4 @@ A course offered by [[Bluedot]].
 - [[Catastrophic Cyber Capabilities Benchmark|3cb]]
 - [[HonestCyberBenchmark]]
 - [[Autonomous Replication and Adaptation]]
+- [[Anthropic Responsible Scaling Policy]]
