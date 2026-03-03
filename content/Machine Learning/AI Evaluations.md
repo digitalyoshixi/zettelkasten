@@ -21,4 +21,3 @@ We analyze two things:
 - [[ELO Rating System|ELO]] ranking system used does not find reliability and transitivity
 # Ideas
 - [[Science of Evals]]
-- [[Goodharts Law]]
