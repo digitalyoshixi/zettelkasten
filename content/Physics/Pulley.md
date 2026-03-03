@@ -14,7 +14,7 @@ A pulley is a simple machine. It reduces the work required to move an object.
 A 2 Time mechanical advantage shown as below
 ![[Pulley-20240301131136893.webp]]
 Force would be halved.
-However, distance increases. Since [[Work]] is the same, but force is half, then distance must be doubled.
+However, distance increases. Since [[Physics/Work]] is the same, but force is half, then distance must be doubled.
 
 # Assumptions
 ### Rope

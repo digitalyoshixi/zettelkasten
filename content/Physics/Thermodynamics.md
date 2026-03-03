@@ -3,7 +3,7 @@ tags:
   - physics
   - philosophy
 ---
-The science of [[Heat]], [[Work]] and [[Temperature]] and their relation to [[Energy]] and [[Entropy]]
+The science of [[Heat]], [[Physics/Work]] and [[Temperature]] and their relation to [[Energy]] and [[Entropy]]
 # Laws
 - [[Zeroth Law of Thermodynamics]]
 - [[First Law of Thermodynamics]]

@@ -21,13 +21,6 @@ aliases:
 	- Raise a point of confusion
 - Midterm exam 20%
 - Final exam 40%
-### Midterm
-- 10 multiple choice
-- 10 Fill in the blank
-- 5 Vocabulary questions (what is deep learning, what is intetionality)
-- 3 short answers
-	- (Describe one reason for denying LLM might have genuine representation of things in external world)
-	- Explain heddens argument that statistical fairness criteria besides [[Calibration Within Groups|CWG]] arent genuine requirements
 # Concepts
 ### Week 1
 - [[Machine Learning]]
@@ -124,3 +117,6 @@ aliases:
 - [[Industrial Revolution]]
 - [[Agricultural Revolution]]
 - [[Globalization]]
+### Week 8
+- [[Work]]
+- [[Hedonism]]

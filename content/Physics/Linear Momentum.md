@@ -16,7 +16,7 @@ $$\overrightarrow p = m \overrightarrow v$$
 ### SI Units
 $\frac{kgm}{s}$
 # Conservation of Linear Momentum
-Following the [[Work|Conservation of Energy]],
+Following the [[Physics/Work|Conservation of Energy]],
 The total momentum of a system remains constant in all points of time if:
 - No external or unbalanced forces are acting on the objects
 - The object has $\overrightarrow a = 0$ and $\overrightarrow F_{net} = 0$
