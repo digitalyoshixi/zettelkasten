@@ -37,3 +37,4 @@ A course offered by [[Bluedot]].
 - [[OpenAI Shutdown Avoidance]]
 - [[Catastrophic Cyber Capabilities Benchmark|3cb]]
 - [[HonestCyberBenchmark]]
+- [[Autonomous Replication and Adaptation]]
