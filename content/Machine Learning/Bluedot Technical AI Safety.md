@@ -36,3 +36,4 @@ A course offered by [[Bluedot]].
 - [[Anthropic AI Blackmail]]
 - [[OpenAI Shutdown Avoidance]]
 - [[Catastrophic Cyber Capabilities Benchmark|3cb]]
+- [[HonestCyberBenchmark]]
