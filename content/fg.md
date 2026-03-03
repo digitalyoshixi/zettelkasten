@@ -2,7 +2,7 @@
 tags:
   - linux
 ---
-A command to bring a background task back into the foreground
+A command to bring a [[Background Process]] back into the foreground
 # Bring First Background Task
 ```
 fg

@@ -9,3 +9,7 @@ These are [[Process|Processes]] that run independently of the user. They run in 
 ![[Background Process-20240705204553959.webp]]
 # Running Process in Background
 `; & exec command`
+# Viewing Background Process
+- [[bg]]
+# Bringing Background Process Back
+- [[fg]]
