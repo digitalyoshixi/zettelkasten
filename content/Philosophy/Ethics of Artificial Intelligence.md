@@ -124,5 +124,7 @@ aliases:
 - [[Objective List Theory]]
 - [[Ordinary Life]]
 - [[Bullshit Jobs]]
-- [[Playing Games]]
+- [[Post-Work]]
 - [[Principle of Rationality]]
+- [[Lying Flat]]
+- [[Antiwork]]
