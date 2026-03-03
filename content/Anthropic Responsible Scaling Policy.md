@@ -37,3 +37,5 @@ Designed to check if model has gone above a capability threshold
 - AI research evaluation suite 1 and 2 to test if models can do AI/ML research
 # Full Report
 - https://assets.anthropic.com/m/64823ba7485345a7/Claude-Opus-4-5-System-Card.pdf
+# Concepts
+- [[Frontier Safety Roadmap]]

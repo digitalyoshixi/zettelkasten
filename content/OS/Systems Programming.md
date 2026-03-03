@@ -89,3 +89,7 @@ aliases:
 - [[fork]]
 - [[Make]]
 - [[Gnu Scientific Library]]
+### Week 7
+- [[]]
+### Week 8
+- [[Signal]]

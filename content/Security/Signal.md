@@ -8,4 +8,5 @@ Whenever these signals are sent to the process, the program must halt and handle
 # Signal List
 https://www.computerhope.com/unix/signals.htm
 - [[SYSALRM]]
+- [[SIGINT]]
 - [[SYSEGV]]
