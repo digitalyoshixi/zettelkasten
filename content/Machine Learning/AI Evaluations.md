@@ -19,4 +19,3 @@ We analyze two things:
 - Very dependent on metric used (accuracy, log-likelihood)
 - Techniques of the time bias the true abilities of [[Language Model|LM]]
 - [[ELO Rating System|ELO]] ranking system used does not find reliability and transitivity
-- 

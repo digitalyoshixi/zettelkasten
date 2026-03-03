@@ -33,3 +33,6 @@ A course offered by [[Bluedot]].
 - [[Responsible Scaling Policy]]
 - [[Model Cards]]
 - [[Algorithmic Auditing]]
+- [[Anthropic AI Blackmail]]
+- [[OpenAI Shutdown Avoidance]]
+- [[Catastrophic Cyber Capabilities Benchmark|3cb]]
