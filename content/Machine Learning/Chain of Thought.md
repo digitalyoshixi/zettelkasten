@@ -15,5 +15,6 @@ Allows it to expand attention depth and contextual understanding during [[Autore
 - [[Self-Consistency Chain of Thought]]
 - [[Tree-of-Thought Chain of Thought]]
 - [[Auto Chain of Thought|Programmatic Chain of Thought]]
+- [[Uncertainty Routed Chain of Thought]]
 # Problems
 - [[Obfuscated Chain of Thought]]

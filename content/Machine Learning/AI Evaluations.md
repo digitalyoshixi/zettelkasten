@@ -13,3 +13,10 @@ We analyze two things:
 # Propensities Evaluation
 - [[TruthfulQA]]
 - [[Scheming Evals]]
+# Issues
+- Differences in formatting lead to very different results
+- Restructuring an evaluation as multiple choice can lead to different results
+- Very dependent on metric used (accuracy, log-likelihood)
+- Techniques of the time bias the true abilities of [[Language Model|LM]]
+- [[ELO Rating System|ELO]] ranking system used does not find reliability and transitivity
+- 

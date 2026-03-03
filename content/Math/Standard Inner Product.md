@@ -18,7 +18,7 @@ $$\langle \alpha |  \alpha \rangle = ||\alpha||^{2}$$
 3. $\langle u,av \rangle = a \langle v,u \rangle$
 4. $\langle u,u \rangle \geq 0$ with equality if $u = \overrightarrow{0}$
 # Implementations
-Defined differently for the [[Field]]:
+Defined differently for the [[Math/Field]]:
 - [[Standard Inner Product for Real Numbers]] (Dot product)
 - [[Standard Inner Product for Complex Numbers]]
 - [[Standard Inner Product for Vector Spaces]]

@@ -8,13 +8,13 @@ aliases:
   - Magnitude
   - Valuation
 ---
-This is a [[Function]] that takes a element within a [[Integral Domain]] to convert it into its length/size representation within a [[Field]].
+This is a [[Function]] that takes a element within a [[Integral Domain]] to convert it into its length/size representation within a [[Math/Field]].
 # Definition
 - $f : D \to \mathbb{R}$ s.t
 - $f(x) > 0$
 - if $f(x) \neq 0 \wedge f(y) \neq 0 \implies f(x) \leq f(x)f(y)$
 # Properties
-With $\mathcal{D}$ as an [[Integral Domain]] or [[Field]]
+With $\mathcal{D}$ as an [[Integral Domain]] or [[Math/Field]]
 1. $|x| \geq 0, \forall x \in \mathcal{D}$ (Non-negativity)
 2. $|x| = 0 \Longleftrightarrow x = 0$
 3. $|xy| = |x| |y|, \forall x,y \in \mathcal{D}$ ([[Multiplication]])

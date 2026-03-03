@@ -22,7 +22,7 @@ aliases:
 - 30-40% of the assesments will be using the definitions, prove these basic properties...
 # Concepts
 ### Week 0.1
-- [[Field]]
+- [[Math/Field]]
 - [[Finite Field]]
 - [[Congruent Modulo]]
 - [[Equivalence]]
@@ -40,7 +40,7 @@ aliases:
 - [[Euclidean Domain]]
 - [[Additive Subgroup]]
 - [[Ideal]]
-- [[Field]]
+- [[Math/Field]]
 ### Week 1.2
 - [[Generator for Ideal]]
 - [[Greatest Common Divisor|Euclid's Algorithm to find GCD]]

@@ -2,4 +2,4 @@
 tags:
   - academia
 ---
-This is a field that does not have any dominant [[Paradigm]] yet.
+This is a [[Field]] that does not have any dominant [[Paradigm]] yet.

@@ -15,7 +15,7 @@ tags:
 - Both, $d(a,b)$ and $d(b,a)$ minimize the same set, thus they are equal
 ### Showing $d(a,b) = 0 \Longleftrightarrow a = b$
 - First observe, $d(a,b) = 0$ is equivalent to $a +_{\mod p} (-b) = 0$ or $b +_{\mod p}(-a) = 0$
-- We know that [[Finite Field|Integer Modulo p]] is a [[Field]]
+- We know that [[Finite Field|Integer Modulo p]] is a [[Math/Field]]
 - As the additive inverse is unique,
 	- $a +_{\mod p} (-b) = 0 \Longleftrightarrow -b = -a$
 	- $\Longleftrightarrow a = b$

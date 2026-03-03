@@ -6,7 +6,7 @@ aliases: []
 ---
 Any [[Linear Transform|Linear Map]] that takes in a vector space and outputs a scalar in the same field.
 # Formal Definition
-- With $V$ as a [[Vector Space]] over [[Field]] $\mathbb{F}$
+- With $V$ as a [[Vector Space]] over [[Math/Field]] $\mathbb{F}$
 - [[Linear Transform|Linear Map]] $f \in \mathcal{L}(V,\mathbb{F})$ are called linear functionals
 - Linear functional under a vector $\alpha$ are denoted as: $f_{\alpha}(x) = a \cdot x$
 # Implementations

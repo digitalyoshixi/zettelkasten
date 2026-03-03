@@ -4,7 +4,7 @@ tags:
   - linalg
 ---
 # Theorem
-- For any [[Norm]] $| \cdot | : \mathcal{D} \to \mathbb{R}$ of given [[Integral Domain]]/[[Field]]
+- For any [[Norm]] $| \cdot | : \mathcal{D} \to \mathbb{R}$ of given [[Integral Domain]]/[[Math/Field]]
 - With multiplicative identity $\overrightarrow{ 1}$
 - $|\overrightarrow{ 1}| = 1 \in \mathbb{R}$
 # Proof

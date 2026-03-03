@@ -1,6 +1,8 @@
 ---
 tags:
   - ai_safety
+aliases:
+  - MMLU
 ---
 [[AI Evaluations]] used to assess the capabilities of [[Large Language Model|LLM]].
 Tests on:

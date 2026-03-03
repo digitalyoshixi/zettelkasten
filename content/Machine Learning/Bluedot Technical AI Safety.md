@@ -30,3 +30,6 @@ A course offered by [[Bluedot]].
 - [[Deepmind Frontier Safety Framework]]
 ### Week 3
 - [[AI Evaluations]]
+- [[Responsible Scaling Policy]]
+- [[Model Cards]]
+- [[Algorithmic Auditing]]

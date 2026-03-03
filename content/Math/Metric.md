@@ -3,7 +3,7 @@ tags:
   - linalg
 ---
 This is the distance between two objects.
-You can define a metric for [[Number Theory|Number Sets]] that are not [[Field|Fields]] like [[Integers]]!
+You can define a metric for [[Number Theory|Number Sets]] that are not [[Math/Field|Fields]] like [[Integers]]!
 # Definition
 1. $M$ as a set
 2. Let $d:M \times M \to R$ be a function

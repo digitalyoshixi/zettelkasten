@@ -5,7 +5,7 @@ tags:
 aliases:
   - Hilbert Space
 ---
-A [[Standard Inner Product for Vector Spaces|Inner Product]] over [[Field]] $\mathbb{C}$.
+A [[Standard Inner Product for Vector Spaces|Inner Product]] over [[Math/Field]] $\mathbb{C}$.
 
 Every state in this quantum system is represented as a [[Unit Vector]].
 # Example

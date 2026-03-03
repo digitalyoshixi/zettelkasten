@@ -13,12 +13,12 @@ tags:
 7. [[Addition]] [[Distributive|Distributes]] nicely ($(a+b)c = ac+bc$)
 8. If $a,b \in \mathbb{F}$, then if $a \times 0 = 0 \implies a=0 \vee b=0$
 # Examples
-### Showing $Z_{6}$ is not a [[Field|Field]]
+### Showing $Z_{6}$ is not a [[Math/Field|Field]]
 Consider 
 - $3 \times 5 \mod 6 = 15 \mod 6 = 3$
 - $3 \times 1 \mod 6 = 3 \mod 6 = 3$
 - Then, we have more than one element acts as the [[Multiplicative Identity]]. Thus, $Z_{6}$ is not a field!
-### Showing $Z_{p}$  where $p$ is [[Prime Number]] is [[Field|Field]]
+### Showing $Z_{p}$  where $p$ is [[Prime Number]] is [[Math/Field|Field]]
 ##### Proving $\implies$
 [[Proof By Contrapositive]].
 - Suppose $p$ is not prime, then $p$ is a [[Composite Number]]. by defn of [[Congruent Modulo]] as $n \geq 2$

@@ -3,7 +3,7 @@ tags:
   - linalg
   - math
 ---
-A vector space $V$ over a [[Field]] is a set of vectors that has:
+A vector space $V$ over a [[Math/Field]] is a set of vectors that has:
 - [[Closed Under Addition]]
 - [[Closed Under Scalar Multiplication]]
 And both operations follows the 8 axioms:

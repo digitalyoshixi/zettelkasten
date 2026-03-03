@@ -7,7 +7,7 @@ aliases:
 ---
 # Theorem
 [[Norm|Absolute Values]] [[Induce]] a [[Metric]]
-- $\mathcal{D}$ as an [[Integral Domain]] or [[Field]]
+- $\mathcal{D}$ as an [[Integral Domain]] or [[Math/Field]]
 - Let $| \cdot | : \mathcal{D} \to \mathbb{R}$ be an absolute value
 - Let $d(x,y) = |x - y|$
 - For all $x,y \in \mathcal{D}$
