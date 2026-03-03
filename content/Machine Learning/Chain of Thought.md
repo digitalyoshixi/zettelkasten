@@ -8,6 +8,7 @@ A capability that forces a [[Large Language Model|LLM]] to simulate a reasoning 
 
 Allows it to expand attention depth and contextual understanding during [[Autoregressive]].
 # Mathematical Perspective
+![[Chain of Thought-20260303201401000.webp]]
 - With CoT prompting, the model opens up the probability space, and can explore tokens that represent reasoning steps.
 # Types
 - [[Zero-Shot Chain of Thought]]

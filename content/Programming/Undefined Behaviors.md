@@ -10,3 +10,5 @@ int x;
 printf("%d",x); // x given no value. compiler may crash
 ```
 when variables are [[C Declarations|Declared]] but not defined, they get a garbage value from a segment of memory that they are set to.
+# Examples
+- [[Type Punning]]
