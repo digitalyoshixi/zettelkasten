@@ -124,3 +124,5 @@ aliases:
 - [[Objective List Theory]]
 - [[Ordinary Life]]
 - [[Bullshit Jobs]]
+- [[Playing Games]]
+- [[Principle of Rationality]]
