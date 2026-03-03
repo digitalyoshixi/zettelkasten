@@ -5,6 +5,8 @@ aliases:
   - Anthropic RSP
 ---
 The [[Responsible Scaling Policy|RSP]] of [[Anthropic]].
+# RSP 3.0
+- The clause is changed. Anthropic will only halt development on AI systems if they are ahead, and there is enough material to halt development
 # AI Safety Levels
 ![[Anthropic Responsible Scaling Policy-20260303162522519.webp]]
 - ASL-1: small models with no meaningful catastrophic risk
