@@ -16,3 +16,4 @@ A segment of a process that includes:
 - [[File Descriptor Table]]
 - Accounting information. Keeps accounts like info being used, time, memory.
 - I/O status information. Tells us what I/O devices are assigned to this process.
+- [[Signal]] table to point to segment of codes that will be executed once given signals are recieved
