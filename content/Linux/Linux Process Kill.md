@@ -1,6 +1,8 @@
 ---
 tags:
   - linux
+aliases:
+  - kill
 ---
 # Kill from ID
 1. `ps -a`
@@ -13,3 +15,10 @@ pkill "Processname"
 ```
 pgrep -io "PROCESSNAME" | xargs kill 
 ```
+# Sending Specific [[Signal]]
+```
+kill -SIGNAL pid
+```
+- `kill -STOP 3819`
+- `kill -CONT 3819`
+- `kill -INT 3819`

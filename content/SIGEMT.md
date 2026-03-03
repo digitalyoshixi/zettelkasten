@@ -3,6 +3,6 @@ tags:
   - linux
   - os
 ---
-[[Signal]] 3.
-Will softly requests a program to quit.
+[[Signal]] 7.
+Emulates instruction executed.
 Default action is to create [[Core Dump]]

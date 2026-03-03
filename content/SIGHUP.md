@@ -3,4 +3,5 @@ tags:
   - os
   - linux
 ---
-A [[Signal]] used to terminate a process (terminal line hangup).
+[[Signal]] 1.
+Used to terminate a process (terminal line hangup).

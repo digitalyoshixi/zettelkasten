@@ -8,6 +8,8 @@ aliases:
   - Storage Dump
   - System Dump
   - ABEND Dump
+  - Coredump
+cssclasses:
 ---
 A recorded state of program memory at a specific time generated when the program has **crashed**.
 
