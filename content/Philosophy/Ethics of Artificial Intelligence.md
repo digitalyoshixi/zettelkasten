@@ -120,3 +120,7 @@ aliases:
 ### Week 8
 - [[Work]]
 - [[Hedonism]]
+- [[Desire Fulfilment Theory]]
+- [[Objective List Theory]]
+- [[Ordinary Life]]
+- [[Bullshit Jobs]]
