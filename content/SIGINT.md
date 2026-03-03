@@ -3,7 +3,7 @@ tags:
   - os
   - linux
 ---
-The signal used to interrupt a process and close it.
+The signal used to terminate a process (interrupt program).
 Can be called with:
 - `CTRL+C`
 - `Delete`
