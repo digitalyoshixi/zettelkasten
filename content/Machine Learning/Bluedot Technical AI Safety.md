@@ -39,3 +39,4 @@ A course offered by [[Bluedot]].
 - [[HonestCyberBenchmark]]
 - [[Autonomous Replication and Adaptation]]
 - [[Anthropic Responsible Scaling Policy]]
+- [[Confessions]]
