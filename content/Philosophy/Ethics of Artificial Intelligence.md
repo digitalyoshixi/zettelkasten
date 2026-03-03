@@ -118,7 +118,7 @@ aliases:
 - [[Agricultural Revolution]]
 - [[Globalization]]
 ### Week 8
-- [[Work]]
+- [[Philosophy/Work]]
 - [[Hedonism]]
 - [[Desire Fulfilment Theory]]
 - [[Objective List Theory]]
