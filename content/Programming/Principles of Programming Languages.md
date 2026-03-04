@@ -81,4 +81,8 @@ aliases:
 - [[Type Safe]]
 - [[Verifying Compiler]]
 ### Week 7
-- [[]]
+- [[Type]]
+- [[Haskell Type]]
+- [[Type System]]
+- [[Type Checking]]
+- [[Type Inference]]

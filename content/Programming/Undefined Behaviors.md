@@ -1,6 +1,8 @@
 ---
 tags:
   - c
+aliases:
+  - UB
 ---
 Any behavior that is not documented and may or may not crash the program if not handled well.
 It is up to the compiler to determine if they want to implement some behavior or just let it lead to a crash.
