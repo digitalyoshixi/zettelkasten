@@ -98,6 +98,7 @@ in `Main.hs`
 - [[Haskell fix]]
 - [[Haskell rec]]
 - [[Haskell map]]
+- [[Haskell zip]]
 - [[Haskell zipWith]]
 - [[Haskell filter]]
 - [[Haskell concat]]

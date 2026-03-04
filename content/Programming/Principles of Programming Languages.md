@@ -88,3 +88,8 @@ aliases:
 - [[Type Inference]]
 - [[Haskell Function]]
 - [[Parametric Polymorphism]]
+### Week 8
+- [[Haskell $]]
+- [[Haskell Function Composition]]
+- [[Eta Reduce]]
+- [[hlint]]

@@ -1,0 +1,6 @@
+---
+tags:
+  - programming
+  - haskell
+---
+# Installation
