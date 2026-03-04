@@ -100,3 +100,8 @@ aliases:
 - [[sigaction]]
 - [[C raise()]]
 - [[C kill()]]
+- [[C waitpid]]
+- [[execl]]
+- [[execve]]
+- [[POSIX]]
+- [[posix_spawn]]

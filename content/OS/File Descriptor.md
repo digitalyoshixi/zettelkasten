@@ -1,6 +1,8 @@
 ---
 tags:
   - os
+aliases:
+  - FD
 ---
 Handles to access a file or input output resource.
 - [[Standard Input|stdin]]
