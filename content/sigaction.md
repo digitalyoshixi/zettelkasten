@@ -34,7 +34,7 @@ int main(){
 	struct sigaction newact;
 	newact.sa_handler = handler;
 	newact.sa_flags = 0; // default flags
-	sigemptyset(*newact.sa_mask) ; // block no signals during handler
+	sigemptyset(&newact.sa_mask) ; // block no signals during handler
 	sigaction(SIGINT, &newact, NULL);
 	
 	for (;;){
