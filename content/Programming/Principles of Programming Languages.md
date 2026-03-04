@@ -86,3 +86,5 @@ aliases:
 - [[Type System]]
 - [[Type Checking]]
 - [[Type Inference]]
+- [[Haskell Function]]
+- [[Parametric Polymorphism]]

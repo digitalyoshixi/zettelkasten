@@ -13,3 +13,4 @@ Common in [[Functional Programming]]
 # Examples
 - [[Racket map]]
 - [[Racket apply]]
+- [[Haskell filter]]

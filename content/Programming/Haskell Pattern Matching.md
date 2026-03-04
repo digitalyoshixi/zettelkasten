@@ -9,3 +9,7 @@ Functions are checked from top to bottom.
 zeroToOne 0 = 1
 zeroToOne x = x
 ```
+# Throwaway Pattern
+```haskell
+(_,x,y) = (1,2,3)
+```

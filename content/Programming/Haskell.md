@@ -40,6 +40,7 @@ in `Main.hs`
 - [[Haskell Unboxed Type|Haskell Primative]]
 - [[Haskell Unit]]
 - [[Haskell Typeclass]]
+- [[Haskell Type Synonym]]
 - [[Haskell data|Haskell Data Constructor]]
 - [[Runtime System|RTS]]
 - [[Haskell Monad]]
@@ -59,6 +60,7 @@ in `Main.hs`
 - [[Haskell Let]]
 - [[Haskell Where]]
 - [[Haskell Import]]
+- [[Haskell Section]]
 ### FP
 - [[Haskell $]]
 - [[Haskell Function]]
@@ -100,3 +102,5 @@ in `Main.hs`
 - [[Haskell filter]]
 - [[Haskell concat]]
 - [[Haskell Colon Operator]]
+- [[Haskell choose]]
+- [[Haskell swap]]
