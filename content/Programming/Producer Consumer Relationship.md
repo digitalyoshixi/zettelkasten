@@ -2,7 +2,8 @@
 tags:
   - programming
 ---
-A [[Systems Design]] concept that partitions code into a:
+A [[Systems Design]] concept that partitions systems into a:
 - Producer: creates resources
 - Consumer: consumes resources
-Essential for [[Queue]] that are blocking
+That each consume and produce at different rates.
+Uses a [[Queue]] that to ensure non-blocking communication.

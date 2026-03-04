@@ -90,7 +90,9 @@ aliases:
 - [[Make]]
 - [[Gnu Scientific Library]]
 ### Week 7
-- [[Pipes]]
+- [[Pipe]]
+- [[C pipe()]]
+- [[dup2]]
 ### Week 8
 - [[Signal]]
 - [[sigaction]]

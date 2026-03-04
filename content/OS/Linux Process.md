@@ -7,7 +7,7 @@ A program that is currently running.
 - Has [[Linux Process State]]
 - Process priority
 - Parents, siblings, child processes
-- Shared memory resources ([[File]], [[Pipes]], [[Sockets]])
+- Shared memory resources ([[File]], [[Pipe]], [[Sockets]])
 - Virtual memory space
 - Security context:
 	- Effective uid and gid
