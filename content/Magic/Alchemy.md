@@ -6,6 +6,8 @@ The [[Pseudoscience]] of material transmutation. Evolved into [[Chemistry]].
 # Concepts
 - [[Alchemical Symbols]]
 - [[Orphic Egg]]
+- [[Philosopher Stone]]
+- [[Elixir of Life]]
 # Materials
 - [[Limestone]]
 # Resources

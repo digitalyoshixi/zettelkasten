@@ -46,6 +46,7 @@ aliases:
 - [[Half Adder]]
 - [[Full Adder]]
 - [[Ripple Carry Adder]]
+- [[Multiplier]]
 - [[2's Complement]]
 - [[Subtractor]]
 - [[Comparator]]
