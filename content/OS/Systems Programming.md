@@ -87,6 +87,7 @@ aliases:
 ### Week 6
 - [[Process]]
 - [[fork]]
+- [[execl]]
 - [[Make]]
 - [[Gnu Scientific Library]]
 ### Week 7
