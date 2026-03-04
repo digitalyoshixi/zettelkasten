@@ -32,6 +32,7 @@ in `Main.hs`
 - [[Side Effects]]
 - [[Glasgow Haskell Compiler Interactive|ghci]]
 - [[Haskell Interface File]]
+- [[Pointfree]]
 - [[Hoogle]]
 ### Essential
 - [[Haskell Operations]]

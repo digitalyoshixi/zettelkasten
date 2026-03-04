@@ -3,6 +3,7 @@ tags:
   - programming
 ---
 A programming convention.
+- Try and reduce the number of arguments you define in custom functions
 If you have a function, you can just replace the function definition with another function.
 # Example
 ```haskell
