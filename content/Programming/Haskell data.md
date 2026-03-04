@@ -4,6 +4,7 @@ tags:
   - haskell
 aliases:
   - Haskell Data Constructor
+  - Haskell User Defined Datatype
 ---
 A keyword used to define a new [[Haskell Type|Haskell Datatype]].
 Involves a:

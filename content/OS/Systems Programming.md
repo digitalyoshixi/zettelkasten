@@ -105,9 +105,10 @@ aliases:
 - [[system]]
 - [[Interprocess Communication|IPC]]
 - [[Buffer]]
-- [[C read()]]
-- [[C open()]]
-- [[C pipe()]]
+- [[read()]]
+- [[open()]]
+- [[write()]]
+- [[pipe()]]
 ### Week 8
 - [[Signal]]
 - [[sigaction]]
