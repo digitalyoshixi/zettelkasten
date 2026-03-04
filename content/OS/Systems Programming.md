@@ -88,6 +88,7 @@ aliases:
 - [[Process]]
 - [[fork]]
 - [[execl]]
+- [[C Wait]]
 - [[Make]]
 - [[Gnu Scientific Library]]
 ### Week 7

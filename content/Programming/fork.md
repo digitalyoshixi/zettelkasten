@@ -9,6 +9,7 @@ fork()
 ```
 - Returns `0` if process is a child process
 - Returns new child's [[Process ID|PID]] if process is parent process
+- May fail if there are no more processes that can be handed out
 # [[Process Control Block|PCB]] Changes
 - [[Program Counter Register|PC]] is the exact same as the parent process
 - [[File Descriptor]] is exactly the same as the parent processes (Allows [[Pipe]] communications)

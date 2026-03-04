@@ -80,3 +80,5 @@ aliases:
 - [[Functional Programming Proofs]]
 - [[Type Safe]]
 - [[Verifying Compiler]]
+### Week 7
+- [[]]
