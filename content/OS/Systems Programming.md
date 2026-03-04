@@ -94,7 +94,8 @@ aliases:
 ### Week 7
 - [[Unix Pipe]]
 - [[Pipe]]
-- [[dup2]]
+- [[dup()]]
+- [[dup2()]]
 - [[exec]]
 - [[execl]]
 - [[execv]]
