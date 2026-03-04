@@ -88,6 +88,7 @@ aliases:
 - [[Type Inference]]
 - [[Haskell Function]]
 - [[Parametric Polymorphism]]
+- [[Type Definition from Tree Representation]]
 ### Week 8
 - [[Haskell $]]
 - [[Haskell Function Composition]]

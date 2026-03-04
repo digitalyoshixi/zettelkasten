@@ -43,6 +43,7 @@ in `Main.hs`
 - [[Haskell Typeclass]]
 - [[Haskell Type Synonym]]
 - [[Haskell data|Haskell Data Constructor]]
+- [[Haskell Enumerated Types]]
 - [[Runtime System|RTS]]
 - [[Haskell Monad]]
 - [[Glasgow Haskell Compiler Interactive|ghci]]

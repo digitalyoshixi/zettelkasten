@@ -13,13 +13,17 @@ aliases:
 - [[Haskell Unboxed Type|Haskell Primative]]
 - [[Haskell Boxed Types]]
 - [[Haskell Any]]
-- [[Haskell Generalized Algebraic Datatype]]
 # Type Checking
 ```
 :type x
 ```
 Returns the type of `x`
 ![[Haskell Type-20250908141453183.webp]]
-# Creating New Datatypes
+# Custom Defined Data Types
 - [[Haskell data]]
 - [[Haskell Type Synonym]]
+- [[Haskell Enumerated Types]]
+- [[Haskell Variant Types]]
+- [[Haskell Recursive Types]]
+- [[Haskell Polymorphic Types]]
+- [[Haskell Generalized Algebraic Datatype]]
