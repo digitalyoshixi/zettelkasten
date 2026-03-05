@@ -27,3 +27,4 @@ Returns the type of `x`
 - [[Haskell Recursive Types]]
 - [[Haskell Polymorphic Types]]
 - [[Haskell Generalized Algebraic Datatype]]
+- [[Haskell Mutually Recursive Types]]

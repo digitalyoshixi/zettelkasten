@@ -37,6 +37,7 @@ Has commands:
 # Concepts
 - [[Make Variable]]
 - [[Make Suffix Rules]]
+- [[Make Pattern Rules]]
 - [[Make Target]]
 - [[Make PHONY Target]]
 - [[Make Dependency Graph]]
