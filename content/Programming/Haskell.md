@@ -74,6 +74,7 @@ in `Main.hs`
 - [[Haskell Maybe]]
 ### Haskell Libraries
 - [[Haskell base]]
+- [[HUnit]]
 ### Specific Functions
 - [[Haskell succ]]
 - [[Haskell min]]

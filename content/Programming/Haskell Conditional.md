@@ -4,6 +4,7 @@ tags:
   - haskell
 aliases:
   - Haskell Ternary Statement
+  - Haskell If
 ---
 ```
 if cond
