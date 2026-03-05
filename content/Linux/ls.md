@@ -12,3 +12,5 @@ Shows the:
 - bytesize
 # ls -a
 Shows all hidden files
+# ls -i
+Shows the [[Directory]] data with filename and [[Inode]]
