@@ -12,5 +12,6 @@ ZFS ensures data stored on discs cannot be lost due to:
 - Physical errors
 - [[Bit Rot]]
 - [[Data Corruption]]
+- Uses [[dnode]] instead of [[Inode]]
 # Snapshots
 ZFS has snapshot cloning which is one of its most powerful features
