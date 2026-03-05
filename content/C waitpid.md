@@ -5,9 +5,12 @@ tags:
 aliases:
   - waitpid
 ---
-A process wants to wait for its child.
+[[C Wait|wait]], but we wait for a specific child.
 ```c
 pid_t waitpid(pid_t pid, int *status, int options);
 ```
 - Process wants to block when no child has terminated
-- Option is 0, waitpid blocks like [[C Wait]]
+- Status have the exit status of the child written to it
+- Options explains how to wait
+	- If option is 0, waitpid blocks like [[C Wait]]
+	- If option is `WNOHANG`, it immediately returns 0 instead of blocking if there is no existing terminated child

@@ -88,7 +88,7 @@ aliases:
 - [[Privacy Harms]]
 ### Week 6
 - [[Process]]
-- [[fork]]
+- [[fork()]]
 - [[execl]]
 - [[C Wait]]
 - [[Make]]
@@ -98,7 +98,7 @@ aliases:
 - [[Pipe]]
 - [[dup()]]
 - [[dup2()]]
-- [[exec]]
+- [[exec()]]
 - [[execl]]
 - [[execv]]
 - [[execve]]

@@ -2,11 +2,18 @@
 tags:
   - programming
   - os
+aliases:
+  - wait
+  - reap
 ---
-A function that waits until a process finishes.
+A function that;
+- Suspends execution until one of the child processes terminates
+- Returns early if there is already a PID of a terminated child
 ```c
-pid_t wait(int wstatus)
+pid_t wait(int* status)
 ```
+- Returns the [[Process ID|PID]] of the child or `-1` if there are no child processes
+- Writes to the status the [[exit()]] status of the child process
 # Example
 ```c
 pid_t child_pid, wpid;

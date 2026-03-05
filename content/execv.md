@@ -3,4 +3,4 @@ tags:
   - programming
   - os
 ---
-A usage of [[exec]] for specific processes.
+A usage of [[exec()]] for specific processes.

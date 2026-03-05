@@ -7,7 +7,7 @@ aliases:
   - System Verilog Join Any
   - System Verilog Join None
 ---
-This will [[join]] the [[fork|forked]] processes from [[System Verilog Fork]]
+This will [[join]] the [[fork()|forked]] processes from [[System Verilog Fork]]
 # `join`
 ```verilog
 //...

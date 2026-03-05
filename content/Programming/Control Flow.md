@@ -23,7 +23,7 @@ https://invidious.yoshixi.net/watch?v=Ju3KKu_mthg&list=PLw5h0DiJ-9PA1lEOk2KFA37Y
 - [[delay]]
 - [[force]]
 ### [[Multithreading]]
-- Thread create [[fork]]
+- Thread create [[fork()]]
 - Thread stop
 - Thread yield
 ### [[Python Generator|Generators]]

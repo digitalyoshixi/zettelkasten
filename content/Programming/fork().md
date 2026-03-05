@@ -2,10 +2,12 @@
 tags:
   - programming
   - os
+aliases:
+  - fork
 ---
 A [[Syscall]] that is able to make a copy of the current [[Linux Process]].
-```
-fork()
+```c
+pid_t fork(void)
 ```
 - Returns `0` if process is a child process
 - Returns new child's [[Process ID|PID]] if process is parent process

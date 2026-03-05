@@ -4,7 +4,7 @@ tags:
   - programming
   - hardware
 ---
-Used to [[fork]] a process.
+Used to [[fork()]] a process.
 # Example
 ```verilog
 module fork;

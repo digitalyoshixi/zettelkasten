@@ -2,4 +2,8 @@
 tags:
   - syscall
 ---
-A [[Syscall]] used to terminate a program. [[Process Termination]]
+A [[Syscall]] used to terminate a program. [[Process Termination]].
+# Viewing Exit Status of Previous Program
+```
+echo $?
+```

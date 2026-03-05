@@ -6,7 +6,7 @@ tags:
 A [[Linux Process]]
 # Process
 ### Creation
-- Parent process copies itself with [[fork]] or [[clone]]
+- Parent process copies itself with [[fork()]] or [[clone]]
 - Child process calls [[execve]] to replace itself with the actual process it should be
 ### Loading
 - [[OS/Kernel]] checks if we have executable permissions for this file. If the file is not executable, then [[execve]] will fail.
