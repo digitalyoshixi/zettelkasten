@@ -5,6 +5,9 @@ aliases:
   - Struct
   - Compound Datatypes
   - CDT
+  - Record
+  - UDT
+  - User Defined Datatype
 ---
 A user defined datatype that allows you to combine several datatypes.
 They are passed by value.
