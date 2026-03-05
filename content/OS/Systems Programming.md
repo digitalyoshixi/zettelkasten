@@ -32,7 +32,7 @@ aliases:
 - [[Operating System]]
 - [[File]]
 	- [[Inode]]
-- [[Data Block]]
+	- [[File Block]]
 - [[Directory]]
 - [[File Descriptor]]
 - [[Link]]
