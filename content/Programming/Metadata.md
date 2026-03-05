@@ -9,3 +9,4 @@ External data not relevant to the function of a file. Used to provide meta infor
 ```
 stat ./filename
 ```
+Uses the [[stat()]] [[Syscall]]

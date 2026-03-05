@@ -16,6 +16,7 @@ You can view each syscall's with [[man]], like: `man open`
 - [[write()]]
 - [[mmap()]]
 - [[munmap()]]
+- [[stat()]]
 # System Call Errors
 Syscalls will keep their error enum in [[errno]] that can be printed with [[perror()]]
 # Resources
