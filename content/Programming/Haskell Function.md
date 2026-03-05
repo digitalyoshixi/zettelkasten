@@ -15,6 +15,8 @@ You can view function signatures using [[Haskell Type|Haskell :type]]
 - [[Haskell Infix Function]]
 - [[Haskell Prefix Function]]
 - [[Haskell Postfix Function]]
+- [[Haskell Traditional Function]]
+- [[Haskell Currying]]
 # Defined Functions
 ```haskell
 myfunction :: Int -> Int -> Int

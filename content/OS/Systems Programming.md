@@ -84,6 +84,7 @@ aliases:
 - [[Preprocessor]]
 - [[C Function Pointers]]
 ### Week 5
+- [[Memory Leak]]
 - [[Privacy Harms]]
 ### Week 6
 - [[Process]]

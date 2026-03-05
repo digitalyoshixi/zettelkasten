@@ -100,6 +100,7 @@ in `Main.hs`
 - [[Haskell fix]]
 - [[Haskell rec]]
 - [[Haskell map]]
+- [[Haskell foldr]]
 - [[Haskell zip]]
 - [[Haskell zipWith]]
 - [[Haskell filter]]
