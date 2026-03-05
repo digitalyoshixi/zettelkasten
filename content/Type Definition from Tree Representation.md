@@ -10,7 +10,7 @@ tags:
 data MathExpr = 
 	  Leaf int
 	| Unary (Int -> Int, MathExpr)
-	| BInary (Int -> Int -> Int, MathExpr, MathExpr)
+	| Binary (Int -> Int -> Int, MathExpr, MathExpr)
 	
 eval (Left v) = v
 eval (Unary (f,t)) = f (eval t)

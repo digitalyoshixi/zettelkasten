@@ -9,4 +9,3 @@ enum Example
 	A = 0, B = 1, C = 2
 };
 ```
-
