@@ -4,7 +4,7 @@ tags:
 aliases:
   - CSCB09
 ---
-# Notes
+`# Notes
 - Professor: Marcelo Ponce (m.ponce@utoronto.ca)
 - Two ethics modules require in person participation
 - Mathlab:
