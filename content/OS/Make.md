@@ -41,3 +41,5 @@ Has commands:
 - [[Make Target]]
 - [[Make PHONY Target]]
 - [[Make Dependency Graph]]
+# Examples
+- [[Make File Featurefull Example]]

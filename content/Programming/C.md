@@ -28,8 +28,8 @@ From these, you can make an
 - [[Executable]]
 - [[Dynamic Linked Library]]
 # Boilerplate
-# Concepts
 - [[C Boilerplate]]
+# Concepts
 - [[C Declarations]]
 - [[C Initialization]]
 - [[Undefined Behaviors]]
