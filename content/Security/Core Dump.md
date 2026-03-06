@@ -16,6 +16,10 @@ A recorded state of program memory at a specific time generated when the program
 It includes:
 - Register information
 - Flags
+# Finding Coredump
+```
+/var/lib/systemd/coredump/core.yourpid
+```
 # Generating Coredump
 1. `sudo pacman -S gdb`
 2. `pgrep -f firefox`, and save this PID
