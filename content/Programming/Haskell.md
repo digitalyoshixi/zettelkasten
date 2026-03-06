@@ -73,6 +73,7 @@ in `Main.hs`
 - [[Haskell Show]]
 - [[Haskell Maybe]]
 ### Haskell Libraries
+- [[cabal]]
 - [[Haskell base]]
 - [[HUnit]]
 ### Specific Functions
