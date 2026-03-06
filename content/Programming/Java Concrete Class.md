@@ -4,7 +4,7 @@ tags:
 ---
 These are [[Java Classes]] that can be directly instantiated into [[Java Objects]].
 ```java
-public clas Main{
+public class Main{
 	int x = 5;
 }
 ```
