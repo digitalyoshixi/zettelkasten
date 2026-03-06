@@ -29,6 +29,7 @@ for (int id=0; id<n; id++) {
 }
 
 while ((wpid = wait(&status)) > 0); // this way, the father waits for all the child processes 
+printf("%d", WEXITSTATUS(status)); // get the return code
 
 //Father code (After all child processes end)
 
