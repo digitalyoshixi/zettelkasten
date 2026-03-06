@@ -20,11 +20,11 @@ LDFLAGS = -L$(GSL_LIB)
 all: hellow
 
 hellow: hellow.c
-	gcc -o hellow hellow.c
+	$(CC) $(CCFLAGS) $(LDFLAGS) $@ $^
 	
 .PHONY: clean // not a file, but a command
 clean:
-	rm -f hellow
+	rm -f hellow *.o
 
 %.o: %.c sorts.h
 	gcc -c $< -o $@
