@@ -11,6 +11,7 @@ Python is a bytecode virtual machine. You can see the [[Python Bytecode]] and ex
 - [[Python Function Design Recipe]]
 - [[Python Lambda Functions]]
 - [[Python Map]]
+- [[Python Zip]]
 - [[Global Interpreter Lock]]
 - [[Python Duck Typing]]
 - [[Python Yield]]

@@ -20,3 +20,5 @@ def get_total(values : List[int]) --> int:
 - [[Python extend]]
 - [[Python List Addition]]
 - [[Python Slicing]]
+# Concepts
+- [[Python List Comprehension]]
