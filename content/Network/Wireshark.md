@@ -23,8 +23,6 @@ Allows change in the packet list for log colors so its not an ocean of blue.
 
 Also order matters. Bad TCP will take priority over TCP SYN color.
 
-  
-
 ### Filters
 
 1. click this button at the top

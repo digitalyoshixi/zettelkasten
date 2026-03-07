@@ -14,6 +14,15 @@ Seen commonly in:
 - Pet/Animal Identification
 - Inventory tracking
 Certain tags may include methods to power this antenna, other tags may be standalone transponders.
+# Data Stored
+Could include but not limited to:
+- Identity
+- Control data
+- Tag's internal configuration
+- Tag's manufacturer data
+- Tag's [[Globally Unique Identifier|UUID]]
+- [[Application Family Identifier|AFI]]
+- [[Data Storage Format Identifier|DSFID]]
 # Vulnerabilities
 - [[RFID Cloning]]
 - [[RFID Interception]]
