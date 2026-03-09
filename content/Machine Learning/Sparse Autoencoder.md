@@ -18,3 +18,6 @@ $$L = || X - \hat{X} || + \lambda * \text{Penalty}(s)$$
 - Can be used to find unexpected base64 encodings in small models
 - Can be used to find hidden goals
 - Used to create [[Golden Gate Claude]]
+# Details
+- Encodes into a larger encoding
+- Decodes into the original layer

@@ -23,6 +23,7 @@ Not to be confused with [[Explainable Machine Learning]]
 - [[Direct Logit Attribution|DLA]]
 - [[Causal Intervention]]
 - [[Token Forcing|Prefill Attack]]
+- [[Feature Visualization]]
 # Tools
 - [[TransformerLens]]
 - [[nnsight]]
