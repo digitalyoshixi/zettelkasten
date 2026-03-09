@@ -6,3 +6,6 @@ aliases:
 ---
 The interpretability of a machine learning model's inner workings.
 Oftentimes uses AI architecture with a high level of transparency ([[Intrinsically Interpretable Models]])
+# Camps
+- [[Basic Science Interpretability]]
+- [[Pragmatic Intepretability]]

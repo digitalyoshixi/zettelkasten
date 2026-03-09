@@ -40,3 +40,10 @@ A course offered by [[Bluedot]].
 - [[Autonomous Replication and Adaptation]]
 - [[Anthropic Responsible Scaling Policy]]
 - [[Confessions]]
+### Week 4
+- [[Model Transparency|Model Interpretability]]
+- [[Transformation Robustness]]
+- [[Neuron Superposition|Polysemanticity]]
+- [[Feature Steering]]
+- [[Model Circuit]]
+- [[Universality Hypothesis]]
