@@ -21,4 +21,4 @@ Allows it to expand attention depth and contextual understanding during [[Autore
 - [[Uncertainty Routed Chain of Thought]]
 # Problems
 - [[Obfuscated Chain of Thought]]
-- [[Sandbox Omniscience]]
+- [[Sandbox Awareness]]

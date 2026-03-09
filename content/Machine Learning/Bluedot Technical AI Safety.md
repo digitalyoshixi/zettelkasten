@@ -60,3 +60,5 @@ A course offered by [[Bluedot]].
 - [[MRI Scan for AI]]
 - [[Probe]]
 - [[Chain of Thought Monitorability]]
+- [[Model Organisms of Misalignment]]
+- [[Hallucination Probe]]

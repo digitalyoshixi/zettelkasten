@@ -14,4 +14,5 @@ CoT monitoring is an automated system that reads [[Chain of Thought|CoT]] of a m
 - Catching how existing monitorability techniques are at catching misbehavior of LLM agents in proxy environments
 # Limitations
 - Sometimes the model does not always need to think out loud
-- Monitoring for dangerous tasks may not catch all r
+- Monitoring for dangerous tasks may not catch all relevant harms
+- CoT monitoring doesnt work when models perform [[Obfuscated Chain of Thought]]
