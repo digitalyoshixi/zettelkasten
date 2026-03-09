@@ -13,3 +13,8 @@ Commonly used in [[Natural Language Processing]] and [[Mechanistic Interpretabil
 - Should not be used when there are [[Residual Connection]] (Representations are not [[Linearly Seperable]])
 # Types
 - [[Probe|Linear Probe]]
+# Downsides
+- Probes tell us the [[Prevalence of Condition]], but not the effect that it has on the output
+- Probes capabilities are independent of the model. Our probe could be too simple for the model or too complex
+- Probes have a hard time finding [[Emergent Ability of LLMs]]
+- Probes cannot detect capabilities beyond what humans can identify and label

@@ -58,3 +58,5 @@ A course offered by [[Bluedot]].
 - [[Simultaneous Authentication of Equals|SAE]]
 - [[Top-Down Interpretability]]
 - [[MRI Scan for AI]]
+- [[Probe]]
+- [[Chain of Thought Monitorability]]
