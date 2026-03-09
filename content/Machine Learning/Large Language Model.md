@@ -23,5 +23,7 @@ Input can be text, video, image.
 - [[Mixture of Experts]]
 - [[Chain of Empathy]]
 - [[Seed Crystal Approach]]
+- [[Instruct Model]]
+- [[Reasoning Model]]
 ### Testing
 - [[LLM Interface Testing]]
