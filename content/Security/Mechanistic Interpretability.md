@@ -4,6 +4,8 @@ tags:
 aliases:
   - Mech Interp
   - MI
+  - Bottom-Up Interpretability
+  - Neats
 ---
 This is a safety theory that involves reverse engineering models to find the inner circuits that determine what algorithm a [[Neural Network|Neural Net]] is replicating.
 [[Model Transparency|Model Interpretability]] by analyzing weights and activations.
