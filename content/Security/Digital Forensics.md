@@ -13,6 +13,10 @@ The practice of finding hidden data from digital traces like:
 - Audio
 # Concepts
 - [[Forensics Process]]
+- [[Steganography]]
+- [[Network Forensics]]
+- [[Memory Forensics]]
+- [[Disk Forensics]]
 # Process
 ![[Forensics-20250810024703919.webp|245]]
 ### Collection
