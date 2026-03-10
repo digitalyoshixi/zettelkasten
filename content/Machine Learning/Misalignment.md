@@ -5,3 +5,5 @@ tags:
 # Types
 - [[Outer Misalignment]]
 - [[Inner Misalignment]]
+# Ideas
+- [[Default Misalignment]]

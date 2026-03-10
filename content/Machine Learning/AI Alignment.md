@@ -14,8 +14,10 @@ AI $A$ is aligned with operator $H$ if $A$ is trying to do what $H$ wants it to 
 	- [[Outer Misalignment]]
 - [[Sycophancy]]
 - [[Goal Misgeneralization]]
+- [[Domain Generalization]]
 - [[Proxy Training Problem]]
 # Concepts
+- [[Orthogonality Thesis]]
 - [[Artificial General Intelligence|AGI]]
 - [[Transformative AI]]
 - [[AI Impacts]]
@@ -25,9 +27,9 @@ AI $A$ is aligned with operator $H$ if $A$ is trying to do what $H$ wants it to 
 - [[Mechanistic Interpretability]]
 - [[Neurointerpretability]]
 - [[Shard Theory]]
+- [[Default Misalignment]]
 # Contrast
 - [[AI Governance]]
 - [[AI Resilience]]
-# Talks
 # Courses
 - https://bluedot.org/courses/alignment

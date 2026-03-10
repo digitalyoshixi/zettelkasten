@@ -4,7 +4,7 @@ tags:
   - philosophy
 ---
 A book about the risks of AI that is [[Grown Rather Than Crafted]].
-By Eliezer Yudkowsky and Nate Soares
+By [[Eliezer Yudkowsky]] and Nate Soares
 # Main Premises
 1. [[Artificial Superintelligence|ASI]] would be capable of destroying humanity if it wanted to
 2. Such an AI surely will want something that, as a side effect destroys us

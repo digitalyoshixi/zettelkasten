@@ -140,3 +140,6 @@ aliases:
 - [[Rogue AI Risk Case]]
 - [[Fallacy of Dumb Superintelligence]]
 - [[Recursive Self Improvement]]
+- [[Intelligence Advantage]]
+- [[Group Advantage]]
+- [[Strength Advantage]]

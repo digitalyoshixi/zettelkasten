@@ -8,3 +8,4 @@ Regardless of final objective, a system has incentives to:
 - Preserve itself
 - Avoid being shutdown
 - Increase its influence
+- Self enhancement

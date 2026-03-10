@@ -2,6 +2,8 @@
 tags:
   - machine_learning
   - ai_safety
+aliases:
+  - Imperfect Proxy
 ---
 Instead of specifying what we want, models are trained by proxies:
 - Reward functions
