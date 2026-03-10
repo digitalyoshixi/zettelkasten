@@ -128,3 +128,8 @@ aliases:
 - [[Principle of Rationality]]
 - [[Lying Flat]]
 - [[Antiwork]]
+- [[Windfall Clause]]
+### Week 9
+- [[Objective Driven AI|ODAI]]
+- [[If Anyone Builds It Everyone Dies]]
+- [[AGI Risk Cas]]
