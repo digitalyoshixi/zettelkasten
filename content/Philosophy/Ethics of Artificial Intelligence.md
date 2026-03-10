@@ -132,4 +132,11 @@ aliases:
 ### Week 9
 - [[Objective Driven AI|ODAI]]
 - [[If Anyone Builds It Everyone Dies]]
-- [[AGI Risk Case]]
+- [[AI Impacts|AI Risks]]
+	- [[Rogue Humans]]
+	- [[Stable Totalitarianism]]
+	- [[Rogue AI]]
+	- [[Gradual Disempowerment]]
+- [[Rogue AI Risk Case]]
+- [[Fallacy of Dumb Superintelligence]]
+- [[Recursive Self Improvement]]
