@@ -132,4 +132,4 @@ aliases:
 ### Week 9
 - [[Objective Driven AI|ODAI]]
 - [[If Anyone Builds It Everyone Dies]]
-- [[AGI Risk Cas]]
+- [[AGI Risk Case]]

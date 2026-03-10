@@ -12,3 +12,13 @@ An argument of [[Existential Catastrophe]] arising from all intances of [[Artifi
 3. If most goal directed [[Artificial Superintelligence|ASI]] will hav bad goals, the future will be very bad
 # Counter Arguments
 - [[AGI Is Not Goal Directed]]
+- Goal directed systems may not always be bad
+	- Small differences in utility functions may not be catastrophic
+	- Human and AI values may be similar
+	- Maybe value isnt fragile
+- Human success isnt from individual intelligence
+- AI agents may not be radically superior to combinations of humans and non-agentic machines
+- Intelligence may not be an overwhelming advantage
+- Unclear if many goals incentive taking over the universe
+- Speed of intelligence growth is ambiguous
+- Argument proves too much about corporations
