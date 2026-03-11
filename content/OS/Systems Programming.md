@@ -118,3 +118,5 @@ aliases:
 - [[C raise()]]
 - [[C kill()]]
 - [[C waitpid]]
+### Week 9
+- [[Shell]]

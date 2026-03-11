@@ -13,14 +13,16 @@ aliases:
 	- `sh thefile.sh`
 	- `./thefile.sh` if the sh file has `chmod a+x` permissions
 - SYNTAX MATTERS
-# Things u can do
-Literally you have access to your entire OS with user privileges(you can even go root)
+# Concepts
+- [[Command Line Substitution|CLS]]
 - [[Bash Printing]]
 - [[Bash Comments]]
 - [[Bash Variables]] 
 - [[Bash User Inputs]]
+- [[Bash Conditionals]]
 - [[Bash Arguments]]
-
-# Bash script into command
-Just add your directory to the path
-[[Aliases]]
+- [[Shell Aliases]]
+# Useful Commands
+- [[echo]]
+- [[expr]]
+- [[test]]
