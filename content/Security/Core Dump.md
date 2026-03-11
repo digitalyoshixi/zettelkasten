@@ -11,10 +11,10 @@ aliases:
   - Coredump
 cssclasses:
 ---
-A recorded state of program memory at a specific time generated when the program has **crashed**.
+ state of program memory at a specific time generated when the program has **crashed**.
 
-It includes:
-- Register information
+I includes:
+t- Register information
 - Flags
 # Finding Coredump
 ```
