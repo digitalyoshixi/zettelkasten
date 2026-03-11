@@ -51,6 +51,12 @@ tags:
 - Can't do this well with [[AWS Lambda]], since these run for 2 or 3s, use [[Static Application Security Testing|SAST]] instead
 	- Lambda not supported well anyways for security
 - Automatically get vulnerabilities fixed with [[AI Agent]]
-- Appsec people have no reason to talk to the [[Security Operation Center|SOC]] using [[Splunk]], [[AWS Pagerduty]], but not alot of logs from appsec
+- Appsec people have no reason to talk to the [[Security Operation Center|SOC]] using [[Splunk]], [[AWS Pagerduty]], but not a lot of logs from appsec
 - If you have [[Application Detection and Response|ADR]], you can feed it into the [[Security Operation Center|SOC]]
-- 
+- Agent may have false positives, sometimes apps are insecure by design
+- Site that has two backends, one backend generates HTML and embedded JS, send to the other backend [[Expression Language Injection]]
+- Context:
+	- Request coming in
+	- Stack trace
+	- [[Dataflow Analysis]]
+- AI patches it afterwards given the path is anomalous
