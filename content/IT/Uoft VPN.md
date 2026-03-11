@@ -11,3 +11,7 @@ Required to get into [[Uoft Grouper]]
 1. Open [[Cisco AnyConnect]]
 2. Enter `general.vpn.utoronto.ca`
 3. Login with [[UTORID]]
+# Course Specific Directories
+```
+/courses/courses/cscb09w26/share/
+```
