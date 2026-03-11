@@ -1,0 +1,56 @@
+---
+tags:
+  - security
+---
+# Notes
+- [[Application Detection and Response]] - new term like [[Static Application Security Testing|SAST]], [[Dynamic Application Security Testing|DAST]], [[Software Composition Analysis|SCA]]
+- We have EDR on local networks
+- We have [[Wiz]] of behavior based analysis on cloud
+- We have no real method to secure apps yet, one of the hardest problems to solve
+	- Too many languages
+	- Hard to find a silver bullet
+- SAST is sometimes very inaccurate, most of time used to triage results
+- We write specific [[Regular Expression|Regex]] patterns in [[Static Application Security Testing|SAST]]
+- Similar with [[Web Application Firewall|WAF]], bunch of patterns, hard to predict type of attack to happen
+	- Good at finding DDOS attacks, bottleneck in network
+	- Hard to use WAF to find application attacks, they are more sophisticated
+- Main idea: no scanning, real time monitoring
+- Instead of: anytime CI/CD runs, static scan, dast scan 8hrs
+- We allow app to run and watch at all times
+- [[Application Detection and Response|ADR]] tool will automatically respond
+- We must use an agent to monitor
+- One method is to drop the agent directly on the app server
+	- Java app: sitting on a VM with [[Apache Tomcat]] or inside [[Kubernetes]] as [[Microservices]]
+- Instrumentation: good for performance
+	- [[Datadog]] uses these agents for observability, looks at how much percentage of this data is used
+		- High # of joins
+- May choose instead to just use [[Extended Berkley Packet Filter|eBPF]] filters to sandbox it, and use [[OpenTelemetry]] to give into a hook of the application
+	- Less observability
+	- Super easy install
+- Agents are watching:
+	- Data flow of application
+	- Identify if dataflow is missing any security controls
+	- Example:
+		- Search button, can search and get results
+		- Agent can identify as we go through backend, are we applying the appropriate security control
+		- If [[Java]]:
+			- Have you use auto escaping
+		- If [[dot NET|.NET]]:
+			- Have you used procedures correctly?
+	- If untrusted input can cause dangerous function s.t it alters the semantics of the fn, altering logic, then we have a vulnerability 100%
+- Example for SQLI:
+	- Someone enters input `something AND sleep 5`
+	- Then, somebody has altered the semantics, easy detection
+- [[Type Confusion]], it can detect this
+- Attacker's path goes through a different path, different from baseline
+- [[Contrast Security]]
+- Agent might introduce additional points of failure
+	- Agent follows [[Hippocratic Oath]]
+	- App runs, but crashes with agent, its fine just don't attach the agent
+	- Performance is really bad, agent should exit out
+- Can't do this well with [[AWS Lambda]], since these run for 2 or 3s, use [[Static Application Security Testing|SAST]] instead
+	- Lambda not supported well anyways for security
+- Automatically get vulnerabilities fixed with [[AI Agent]]
+- Appsec people have no reason to talk to the [[Security Operation Center|SOC]] using [[Splunk]], [[AWS Pagerduty]], but not alot of logs from appsec
+- If you have [[Application Detection and Response|ADR]], you can feed it into the [[Security Operation Center|SOC]]
+- 

@@ -2,6 +2,8 @@
 tags:
   - security
   - web
+aliases:
+  - NoSQL Type Confusion
 ---
 A attack against [[Object Relational Mapping|ORM]] to handle strings differently to trigger [[Structured Query Language|SQL]] injection. Make javascript handle types differently.
 Send a javascript object that the [[Object Relational Mapping|ORM]] treats as a different type to trigger injections
