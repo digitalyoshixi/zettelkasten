@@ -5,4 +5,6 @@ tags:
 ---
 Creating new operators for different datatypes.
 Can allow for:
-- [[String Concatenation]]
+- `+` for [[String Concatenation]]
+# Implementations
+- [[Python Operator Overloading]]

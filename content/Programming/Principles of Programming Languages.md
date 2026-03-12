@@ -107,3 +107,4 @@ aliases:
 - [[Haskell Eq]]
 - [[Haskell Class]]
 - [[Haskell Instance]]
+- [[Polymorphism]]
