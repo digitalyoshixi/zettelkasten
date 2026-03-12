@@ -12,7 +12,7 @@ The practice of finding hidden data from digital traces like:
 - Images
 - Audio
 # Concepts
-- [[Artifact]]
+- [[Forensic Artifact]]
 - [[Forensics Analysis Process]]
 - [[Forensics Process]]
 - [[Steganography]]
