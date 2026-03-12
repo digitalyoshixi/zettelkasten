@@ -4,6 +4,7 @@ tags:
 aliases:
   - Network Protocols
   - Protocol
+  - Networking Protocol
 ---
 # Protocol Types
 ### Connection-Oriented

@@ -24,6 +24,11 @@ aliases:
 	- Ivan Bratko - Prolog - Programming for Artificial Intelligence
 - Markus to submit homework exercises for programming
 - Crowdmark to submit homework for hand-written
+# Midterm
+- There will be [[Functional Programming Proofs]]
+- There will be [[Eta Reduce]] questions
+- Definitely haskell questions
+- Might be java questions, racket questions
 # Concepts
 ### Week 1
 - [[Programming/Language|Language]]
@@ -97,3 +102,6 @@ aliases:
 - [[hlint]]
 - [[Haskell List Comprehension]]
 - [[HUnit]]
+### Week 9
+- [[Lazy Evaluation]]
+- [[Haskell Eq]]
