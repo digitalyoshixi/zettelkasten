@@ -4,6 +4,7 @@ tags:
   - haskell
 ---
 These are [[Haskell Function]] that is placed between operands.
+
 ```haskell
 a `function` b
 ```

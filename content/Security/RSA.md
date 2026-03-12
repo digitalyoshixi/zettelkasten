@@ -9,7 +9,6 @@ A [[Public-Key Cryptography|Asymmetric Cryptosystem]] based off the [[Discrete L
 Often used as:
 - [[Signature Algorithm]]
 - [[Key Exchange Protocol|Key Exchange Algorithm]]
-
 Uses a pair of [[Commutative Encryption|Commutative Keys]].
 https://www.youtube.com/watch?v=Pq8gNbvfaoM 
 # Commonly Used Terminology
@@ -36,6 +35,5 @@ $(\text{Message}^e)\%n = \text{Cipher}$
 $(\text{Cipher}^d)\%n = \text{Message}$
 
 Because this is [[Commutative]], you can also encrypt with the private key and decrypt with the public key.
-
 # Attacks
 - [[Common Modulus Attack]]
