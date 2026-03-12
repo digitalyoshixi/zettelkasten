@@ -41,6 +41,8 @@ in `Main.hs`
 - [[Haskell Unboxed Type|Haskell Primative]]
 - [[Haskell Unit]]
 - [[Haskell Typeclass]]
+- [[Haskell Class]]
+- [[Haskell Instance]]
 - [[Haskell Type Synonym]]
 - [[Haskell data|Haskell Data Constructor]]
 - [[Haskell Enumerated Types]]

@@ -105,3 +105,5 @@ aliases:
 ### Week 9
 - [[Lazy Evaluation]]
 - [[Haskell Eq]]
+- [[Haskell Class]]
+- [[Haskell Instance]]

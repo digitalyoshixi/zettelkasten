@@ -12,5 +12,5 @@ If you don't define the equals method, [[Haskell]] will create the Eq method:
 data First = Pair Int Int
 
 instance Eq First where
-	(Pair x _) == (Pair y +) = (x == y)
+	(Pair x _) == (Pair y _) = (x == y)
 ```
