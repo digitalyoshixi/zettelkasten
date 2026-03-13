@@ -5,5 +5,5 @@ tags:
 These are encoded files.
 They can be:
 - [[JPEG]]
-- [[PNG]]
+- [[Portable Network Graphics]]
 - [[Executable]]
