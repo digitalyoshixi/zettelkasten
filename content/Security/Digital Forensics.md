@@ -22,3 +22,5 @@ The practice of finding hidden data from digital traces like:
 - [[Disk Forensics]]
 - [[Sterile Media]]
 - [[Write Blocking]]
+- [[Forensic Copy]]
+- [[Logical Forensic Copy]]

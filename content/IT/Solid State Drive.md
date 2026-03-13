@@ -4,7 +4,6 @@ tags:
 aliases:
   - SSD
 ---
-![[Solid State Drive-20240628193841449.webp|395]]
 Permanent storage based off of [[Semi Conductor|Semi Conductors]] and [[Transistor|Transistors]] inside of [[NAND Chip|NAND Flash]].
 SSDs tend to be faster, but carry less capacity and are more expensive than [[Hard Drive|HDD]].
 For an SSD to work with the OS, the SSD has circuitry to 'fool' the OS into thinking the SSD is a traditional spinning drive.
@@ -33,3 +32,6 @@ Tends to reach 1,000,000 IOPS
 - [[Memory Latency]]
 - [[Storage Controller]]
 - [[Advanced Technology Attachment Standards|ATA]]
+- [[Wear Leveling]]
+- [[Trim]]
+- [[Block Garbage Collection]]

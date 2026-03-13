@@ -22,3 +22,6 @@ It will display a 2-character post code to tell you the issue
 # USB POST cards
 ![[Power-On Self-Test-20240625185653870.webp|228]]
 Like regular post expansion cards, but they can be connected via [[Universal Serial Bus|USB]]
+# Post POST Handoff
+After POST, the [[Basic Input Output System|BIOS]] or [[Unified Extensible Firmware Interface|UEFI]] starts
+![[Power-On Self-Test-20260313195422139.webp]]
