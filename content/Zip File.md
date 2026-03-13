@@ -18,6 +18,13 @@ Entries that describe file data compressed with [[DEFLATE]]
 - Uncompressed file size
 - Extra fields
 	- Exploited to support a ZIP64 format, [[WinZip]] compatibility, [[Advanced Encryption Standard|AES]] encryption, file attributes, [[New Technology File System|NTFS]], [[Unixtime]]
+### Data Descriptor
+An optional section added when a zip file is encrypted.
+Contains information for decryption.
+![[Zip File-20260313164905021.webp]]
+- Magic Number
+- [[Cyclic Redundancy Check|CRC]]
+- Compressed size
 ### Central Directory (DIR Entry)
 Comprised of directory entries (can be thought of as the expanded form of the local header in records)
 ![[Zip File-20260313144827455.webp]]
