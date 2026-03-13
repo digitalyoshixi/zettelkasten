@@ -14,6 +14,7 @@ Partitions are sectored based off [[Logical Block Addressing|LBA]].
 ### Protective MBR (LBA 0)
 Protective MBR is serves to have backwards compatability with MBR. It is also commonly used to prevent MBR disk utility software from overwriting GPT disks accidentally.
 ### GPT Header (LBA 1)
+![[GUID Partition Table-20260313225952027.webp]]
 Includes a [[Pointer]] to the Partition Entry Array.
 A GPT Header backup exists in the final LBA aswell.
 ### Partition Entry Array (LBA 2)
