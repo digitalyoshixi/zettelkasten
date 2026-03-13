@@ -6,7 +6,6 @@ aliases:
 ---
 A [[Archive File Format]] that support [[Lossless Compression]].
 - [[Multipurpose Internet Mail Extensions|MIME]] `application/zip`
-
 # Format
 ### Records
 ![[Zip File-20260313142336953.webp|400]]
@@ -20,7 +19,15 @@ Entries that describe file data compressed with [[DEFLATE]]
 - Extra fields
 	- Exploited to support a ZIP64 format, [[WinZip]] compatibility, [[Advanced Encryption Standard|AES]] encryption, file attributes, [[New Technology File System|NTFS]], [[Unixtime]]
 ### Central Directory (DIR Entry)
-Comprised of directory entries
+Comprised of directory entries (can be thought of as the expanded form of the local header in records)
+![[Zip File-20260313144827455.webp]]
 ### End of Central Directory Record
 - Located at the end.
 - Can be moved to add new files to the zip archive
+- Can be modified to hide a file from being unzipped
+![[Zip File-20260313143452737.webp]]
+Contains:
+- Number of dir entries in central directory
+- Offset of the first directory entry
+- Size and offset of itself
+- Comments
