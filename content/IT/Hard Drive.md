@@ -14,6 +14,7 @@ There is are read/write heads which are [[Transducers]] controlled by [[Servo Mo
 There is a read/write head on the very topmost disc, and another read/write head on the bottom of the disc.
 - Usually reaches 200 IOPS
 - 15000 RPM
+- Originally used [[Cylinder Head Sector|CHS]] addressing, now uses [[Logical Block Addressing|LBA]]
 # Form Factors
 ![[HDD Form Factors-20240628170028751.webp]]
 - [[3.5inch HDD]]
