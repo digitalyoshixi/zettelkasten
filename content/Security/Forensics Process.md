@@ -10,7 +10,7 @@ aliases:
 2. [[binwalk]]
 # Zip Files
 1. [[exiftool]]
-2. [[Linux 7zip]]
+2. [[7zip]]
 3. [[Ghidra]]
 4. [[binwalk]]
 # [[Steganography Process]]
