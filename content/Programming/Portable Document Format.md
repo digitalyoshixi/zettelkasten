@@ -25,5 +25,8 @@ Comprised of objects:
 - Indirect object – object that has a unique ID, the object starts with the keyboard `obj` and ends with `endobj` other objects can reference the object using its ID. For example a reference to object with ID 3 we would look like this: `3 0 R`
 - Null objects
 ### Footer
-##### Index Table
-- Contains byte offset from start of file for each indirect object 
+- Starts with `startxref` for index table
+- Each entry starts with `xref` keyword
+	- Contains byte offset from start of file for each indirect object 
+- If xref streams are not used, then contains `trailer` followed by a dictionary of references
+- `%%EOF` marker
