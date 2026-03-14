@@ -108,3 +108,5 @@ aliases:
 - [[Haskell Class]]
 - [[Haskell Instance]]
 - [[Polymorphism]]
+- [[Multiple Inheritance]]
+- [[Diamond Problem]]

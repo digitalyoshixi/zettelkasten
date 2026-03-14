@@ -1,6 +1,8 @@
 ---
 tags:
   - python
+aliases:
+  - Python dict
 ---
 # Creation of dictionary
 ```python
