@@ -25,3 +25,5 @@ There is a read/write head on the very topmost disc, and another read/write head
 - [[Hard Drive Bays]]
 - [[Hard Drive Troubleshooting]]
 - [[Data Destruction]]
+- [[Host Protected Area|HPA]]
+- [[Device Configuration Overlay|DCO]]

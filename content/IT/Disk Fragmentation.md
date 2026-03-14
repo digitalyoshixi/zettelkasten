@@ -8,4 +8,4 @@ This may mean that half of the file is in one cluster space, while the other hal
 Excessive fragmentation will slow down the system's read/write speed.
 # Defragmenters
 - [[Windows Disk Defragmenter]]
-- [[trim]]
+- [[Trim]]

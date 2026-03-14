@@ -92,7 +92,7 @@ aliases:
 - [[Type Checking]]
 - [[Type Inference]]
 - [[Haskell Function]]
-- [[Parametric Polymorphism]]
+- [[Parametric Polymorphism 1]]
 ### Week 8
 - [[Type Definition from Tree Representation]]
 - [[Haskell $]]

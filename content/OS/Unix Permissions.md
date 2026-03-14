@@ -18,4 +18,4 @@ Permission types:
 ![[Unix Permissions-20260109155853954.webp]]
 - Read (r) - you can run [[ls]]
 - Write (w) - you can create and delete files in directory
-- Execute (x) You can [[IT/Linux/cd|cd]] into the directory and access files according to their file permissions
+- Execute (x) You can [[Linux/cd|cd]] into the directory and access files according to their file permissions

@@ -9,6 +9,10 @@ File system most commonly used on drives with less than 32GB (like [[USB Flash D
 The cluster size varies, but for our example lets say clusters are one [[Hard Drive|Block]] (4096 bytes or 4-KB). 
 Most files are larger than 4096 bytes, so they must be stored in several clusters.
 If a file is smaller than 4096 bytes, then we have wasted space (which we have to just accept because most of the time this wont happen)
+# Areas
+![[File Allocation Table-20260314000942844.webp]]
+- System area: stores volume boot record and FAT tables
+- Data area: stores root directory and files
 # File Allocation Table
 Keeps trace of which clusters files are stored at.
 Every cluster is given an [[Logical Block Addressing|LBA]] address, and a cluster status.
@@ -23,3 +27,5 @@ Every cluster is given an [[Logical Block Addressing|LBA]] address, and a cluste
 - [[FAT16]]
 - [[FAT32]]
 - [[exFAT]]
+# Concepts
+- [[Volume Boot Record]]
