@@ -5,6 +5,7 @@ tags:
   - os
 aliases:
   - FS
+  - Filesystem
 ---
 The system of addressing files.
 Blocks of data are separated into groups called clusters. The size of these clusters varies according to file system.

@@ -1,6 +1,12 @@
 ---
 tags:
-  - projects
+  - hardware
+aliases:
+  - CXL Protocol
+  - CXL
+  - Memory As A Service
+  - MaaS
+banner:
 ---
 # List
 - Ragebait AI. looks through your posts and finds things to piss you off. does OSINT on you
@@ -34,7 +40,7 @@ tags:
 - Rigorous prover. Convert a written algorithm into [[Rocq]] or [[LEAN]]
 - [[n8n]] for [[Security Orchestration Automation and Response|SOAR]]
 - You have to make a [[Interpreter|Interpreted]] language where you can edit the source code, and it changes the program behavior in real time + a tool for you to see the current line being interpreted and a AST view aswell (Literally [[List Processor|LISP]] utils)
-- Pool everything. Like https://stablehorde.net/, set aside some system resources to add to a shared [[Resource Pools|Resource Pool]] for general purpose things. Also use [[Homomorphic Encryption]]
+- Pool everything. Like https://stablehorde.net/, set aside some system resources to add to a shared [[Resource Pools|Resource Pool]] for general purpose things. Also use [[Homomorphic Encryption]] + [[Project Idea Masterlist|CXL]]
 - A programming language with [[F*]] correctness, but with the usability of [[Zig]] or [[Go]]
 - A [[Large Language Model|LLM]] to help you translate snippets of [[C]] code into [[F*]], asking you for the expected constraints, and helping you with codegen
 - General purpose [[Neural Network|Neural Net]] pruning and [[Model Extraction|Model Distillation]] tool, takes any model and returns smaller model made specifically for [[Embedded Device|Embedded Devices]]
@@ -67,3 +73,4 @@ tags:
 - Three satelites that always point to somewhere, you can move around in 3d space and satelites will track that movement and generate a 3d image (Google maps)
 - Make a wikipedia clone
 - [[Chinese Room]] video game
+- Cybernetics cola dispensor for stomach or baha blast machine
