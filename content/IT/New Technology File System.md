@@ -4,8 +4,8 @@ tags:
 aliases:
   - NTFS
 ---
-Window's prefered file system.
-Uses clusters of blocks and file allocations tables like [[File Allocation Table|FAT]] does, but improves on:
+Window's preferred file system.
+Uses clusters of blocks and file allocations tables like [[File Allocation Table Filesystem|FAT]] does, but improves on:
 - Redundancy
 - Security
 - Compression

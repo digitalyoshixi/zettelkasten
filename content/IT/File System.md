@@ -11,7 +11,7 @@ The system of addressing files.
 Blocks of data are separated into groups called clusters. The size of these clusters varies according to file system.
 # File System Types
 ### Windows
-- [[File Allocation Table]]
+- [[File Allocation Table Filesystem]]
 - [[exFAT]]
 - [[vFAT]]
 - [[New Technology File System]]
