@@ -10,7 +10,9 @@ A [[Computer Vision]] python library used for:
 - [[Object Detection]]
 - Image rendering
 # Installation
-`pip install opencv-contrib-python`
+```
+pip install opencv-contrib-python
+```
 # Concepts
 - [[OpenCV Python Read Image]]
 - [[OpenCV Python Save Image]]
