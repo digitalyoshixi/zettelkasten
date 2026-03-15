@@ -70,7 +70,7 @@ banner:
 - Browser extension that will summarize a whole page for you, and can TTS a page aswell
 - Make a text editor
 - Make a UI library like [[Dear ImGUI]]
-- Three satelites that always point to somewhere, you can move around in 3d space and satelites will track that movement and generate a 3d image (Google maps)
+- Three satelites that always point to somewhere, you can move around in 3d space and satelites will track that movement and generate a 3d image (Google maps) - could use [[MapboxGL]] as well
 - Make a wikipedia clone
 - [[Chinese Room]] video game
 - Cybernetics cola dispensor for stomach or baha blast machine
