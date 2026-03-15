@@ -8,10 +8,12 @@ A real-time communication protocol. Often used to allow browser-to-browser appli
 - Video chat 
 - File sharing
 # Protocol
-### Establish Connection
+### Signalling
+![[WebRTC-20260315021014634.webp]]
 Establish connection to share [[Session Description Protocol|SDP]].
 1. Establish an initial connection via websocket
 2. Uses [[Interactive Connectivity Establishment]]
+3. Uses a [[STUN Server]] for [[Network Address Translation|NAT]] traversal
 ![[WebRTC-20260315001434650.webp]]
 
-3. Setup an initial connection via websocket
+4. Setup an initial connection via websocket
