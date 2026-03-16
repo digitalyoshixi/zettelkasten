@@ -72,3 +72,4 @@ A course offered by [[Bluedot]].
 	- [[Untrusted Monitoring with Monitor Tests]]
 - [[AI Firewall]]
 - [[Constitutional Classifier]]
+- [[AI Enabled Coups]]
