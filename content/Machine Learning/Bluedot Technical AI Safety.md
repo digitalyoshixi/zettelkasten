@@ -70,6 +70,8 @@ A course offered by [[Bluedot]].
 	- [[Trusted Monitoring]]
 	- [[Untrusted Monitoring]]
 	- [[Untrusted Monitoring with Monitor Tests]]
+	- [[Human Approval Control]]
+	- [[Task Decomposition and Reconstruction]]
 - [[AI Firewall]]
 - [[Constitutional Classifier]]
 - [[AI Enabled Coups]]
