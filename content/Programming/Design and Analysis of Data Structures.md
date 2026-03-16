@@ -27,7 +27,7 @@ aliases:
 - [[Big O Notation]]
 - [[Big Theta Notation]]
 - [[Programming/Algorithm]]
-- [[Human Genome project]]
+- [[Human Genome Project]]
 - [[Electronic Commerce]]
 - [[Abstract Data Type|ADT]]
 - [[Insertion Sort]]
