@@ -13,8 +13,6 @@ I aim to make this obsidian vault bloated asf
 - [[Principles of Programming Languages|CSCC24]]
 - [[Ethics of Artificial Intelligence|PHlB18]]
 # Current Learning
-- [[Cryptography]]
+- [[Digital Forensics]]
 - [[Bluedot Technical AI Safety]]
 - [[Emulation|Emulator]]
-# Currently Reading
-- [[If Anyone Builds It Everyone Dies]]
