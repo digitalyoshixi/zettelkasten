@@ -62,3 +62,8 @@ A course offered by [[Bluedot]].
 - [[Chain of Thought Monitorability]]
 - [[Model Organisms of Misalignment]]
 - [[Hallucination Probe]]
+### Week 5
+- [[Attack Policy]]
+- [[P(Doom)]]
+- [[Upfront Auditing]]
+- [[Trusted Monitoring]]
