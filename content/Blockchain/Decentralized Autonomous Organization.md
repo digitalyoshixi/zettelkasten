@@ -5,6 +5,7 @@ tags:
 aliases:
   - DAO
 ---
+A form of [[Algorithmic Governance]].
 These are organizations who's decisions are voted for by shareholders, later enforced by [[Smart Contract|Smart Contracts]].
 - Each shareholder owns [[Blockchain Token|Tokens]], representative of their voting power
 Often used as [[Venture Capitalist]] funds
