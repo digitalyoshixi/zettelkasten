@@ -8,6 +8,7 @@ As opposed to full-scale societal collapse, AI can cause gradual loss of social 
 # Concepts
 - [[Society]]
 - [[Society Replacement Theory]]
+- [[AI Is a Eugenics Project]]
 # Implications
 - Automated economy -> Value of human labor falls to nothing
 - AI companionship -> Loneliness
