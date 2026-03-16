@@ -2,7 +2,7 @@
 tags:
   - politics
 ---
-Followed [[Economics/Marxism|Marxism]] principles.
+Followed [[Marxism|Marxism 1]] principles.
 He wrote a decree on land.
 # Decree on Land
 1. Private ownership of land shall be abolished forever

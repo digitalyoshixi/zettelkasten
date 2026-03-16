@@ -20,7 +20,7 @@ Looking at the wider economic spectrum and how it impacts countries as a whole
 - [[Monetary Policy]]
 # Income Inequality
 - [[Equity]]
-- [[Marxism 1]]
+- [[Marxism]]
 - [[Market Economy|Capitalism]]
 - [[Human Development Index]]
 - [[Lorenz Curve]]
