@@ -73,3 +73,4 @@ A course offered by [[Bluedot]].
 - [[AI Firewall]]
 - [[Constitutional Classifier]]
 - [[AI Enabled Coups]]
+- [[Gradual Disempowerment]]
