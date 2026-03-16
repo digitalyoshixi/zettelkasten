@@ -70,4 +70,5 @@ A course offered by [[Bluedot]].
 	- [[Trusted Monitoring]]
 	- [[Untrusted Monitoring]]
 	- [[Untrusted Monitoring with Monitor Tests]]
-- [[Content Filtering]]
+- [[AI Firewall]]
+- [[Constitutional Classifier]]
