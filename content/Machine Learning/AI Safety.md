@@ -11,6 +11,7 @@ This is a [[Pre-Paradigm]] [[Artificial Intelligence|AI]] field concerned with r
 - [[AI Governance]]
 - [[AI Resilience]]
 - [[AI Security]]
+- [[AI Control]]
 # Concepts
 - [[Responsible AI]]
 - [[Ethical AI]]

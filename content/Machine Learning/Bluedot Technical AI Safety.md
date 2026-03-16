@@ -65,5 +65,9 @@ A course offered by [[Bluedot]].
 ### Week 5
 - [[Attack Policy]]
 - [[P(Doom)]]
-- [[Upfront Auditing]]
-- [[Trusted Monitoring]]
+- [[AI Control]]
+	- [[Upfront Auditing]]
+	- [[Trusted Monitoring]]
+	- [[Untrusted Monitoring]]
+	- [[Untrusted Monitoring with Monitor Tests]]
+- [[Content Filtering]]
