@@ -3,7 +3,7 @@ tags:
   - programming
   - haskell
 ---
-A [[Parametric Polymorphism 1]] [[Haskell Function]]
+A [[Parametric Polymorphism]] [[Haskell Function]]
 # Implementation
 ```haskell
 swap (x,y) = (y,x)
