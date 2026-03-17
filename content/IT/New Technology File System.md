@@ -12,9 +12,9 @@ Uses clusters of blocks and file allocations tables like [[File Allocation Table
 - Encryption
 - Disk quota
 - Smaller [[Cluster|Clusters]]
-# Master File Table (MFT)
-An enhanced FAT table that exists in first chunks of the disc.
-A backup of the MFT exists in the middle of the disk.
+# Concepts
+- [[Master File Table]]
+- [[NTFS System Files]]
 # Compression
 NTFS can auto compress files when you need it to, however OS must decompress everytime it wants to access it which takes a lot of time
 # Encryption
