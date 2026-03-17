@@ -5,11 +5,12 @@ tags:
 aliases:
   - Haskell Data Constructor
   - Haskell User Defined Datatype
+  - Haskell Type Cosntructor
 ---
 A keyword used to define a new [[Haskell Type|Haskell Datatype]].
 Involves a:
 - [[Haskell Typeclass]] constructor `Typectr` for defining the type
-- Specific Value constructor `Valctr` to create a value of the type
+- Specific [[Haskell Value Constructor]] `Valctr` which is a [[Haskell Function]] to create a value of the type
 - A collection of components/fields with varying datatypes
 ```haskell
 data Typectr = Valctr Datatype1 Datatype2 ...

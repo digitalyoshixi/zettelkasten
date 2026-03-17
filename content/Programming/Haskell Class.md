@@ -2,6 +2,8 @@
 tags:
   - programming
   - haskell
+aliases:
+  - Haskell Custom Typeclass
 ---
 A method to assign [[Haskell Typeclass]] to a collection of virtual methods.
 ```haskell

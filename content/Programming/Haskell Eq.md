@@ -7,6 +7,12 @@ A [[Haskell Typeclass]] that can be used to check for equivalence or non-equival
 If you don't define the equals method, [[Haskell]] will create the Eq method:
 - The type is only equal to itself
 - Will check types recursively, if the pairwise equalities are equal then its equal
+```
+class Eq a where
+	(==), (/=) :: a -> a -> Bool
+	x /= y = not (x == y)
+	x == y = not (x /= y)
+```
 # Custom Defined Eq Example
 ```haskell
 data First = Pair Int Int
