@@ -5,6 +5,7 @@ tags:
 aliases:
   - Haskell String Concatenation
   - Haskell append
+  - Haskell ++
 ---
 A way to concatenate two strings.
 ```haskell

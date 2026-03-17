@@ -94,6 +94,7 @@ aliases:
 - [[Type Inference]]
 - [[Haskell Function]]
 - [[Parametric Polymorphism]]
+- [[Haskell Pattern Matching]]
 ### Week 8
 - [[Type Definition from Tree Representation]]
 - [[Haskell $]]
