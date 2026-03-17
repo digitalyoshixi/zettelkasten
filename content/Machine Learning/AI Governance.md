@@ -18,6 +18,7 @@ Aims to maximize benefits and minimize hazards across multiple levels.
 - [[SB53]]
 - [[Algorithm Registry]]
 - [[International Artificial Intelligence Agency]]
+- [[Regulatory Market Model]]
 # Concepts
 - [[Decision Maker Cost Disparity]]
 - [[Collingridge Dilemma]]
