@@ -26,3 +26,5 @@ tags:
 >>> evens_squared [1,2,3,4]
 [4,16]
 ```
+# Use Cases
+- [[Haskell quicksort]]
