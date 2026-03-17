@@ -11,8 +11,16 @@ Aims to maximize benefits and minimize hazards across multiple levels.
 - [[Omnibus Approach]]
 # Definitions
 - [[Attard-Frost AI Governance]]
-# Existing Legislation
+# Implementations
 - [[Canada AI Governance]]
-# Forms of Governance
 - [[Manhattan Project]]
 - [[Algorithmic Governance]]
+- [[SB53]]
+- [[Algorithm Registry]]
+- [[International Artificial Intelligence Agency]]
+# Concepts
+- [[Decision Maker Cost Disparity]]
+- [[Collingridge Dilemma]]
+- [[Innovation Regulation Disparity]]
+- [[Governance Technical Deficit]]
+- [[Governance Democratic Deficit]]
