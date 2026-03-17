@@ -81,6 +81,7 @@ aliases:
 - [[Haskell]]
 - [[Glasgow Haskell Compiler Interactive|ghci]]
 - [[Scope]]
+- [[Function Closures|Closure]]
 - [[Parallelism Advantage]]
 - [[Functional Programming Proofs]]
 - [[Type Safe]]
