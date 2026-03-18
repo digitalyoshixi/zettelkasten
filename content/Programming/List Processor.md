@@ -10,7 +10,7 @@ A general purpose programming language that allows for direct [[Abstract Syntax 
 LISP will teach you how to program better.
 # Implementations
 - [[Common LISP]]
-- [[Closure]]
+- [[Programming/Closure]]
 - [[Scheme]]
 - [[Racket]]
 - [[tinylisp]]

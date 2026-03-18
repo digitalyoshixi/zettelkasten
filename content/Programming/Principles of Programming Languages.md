@@ -112,3 +112,5 @@ aliases:
 - [[Polymorphism]]
 - [[Multiple Inheritance]]
 - [[Diamond Problem]]
+### Week 10
+- [[Closure Lemma]]
