@@ -13,6 +13,8 @@ aliases:
 - [[Haskell Unboxed Type|Haskell Primative]]
 - [[Haskell Boxed Types]]
 - [[Haskell Any]]
+- [[Haskell Concrete Type]]
+- [[Haskell Non-concrete Type]]
 # Type Checking
 ```
 :type x
