@@ -3,7 +3,7 @@ tags:
   - programming
   - java
 ---
-These are functions without names.
+These are [[Java Function]] without names.
 - [[Java BinaryOperator]]
 # Defining Lambdas
 ```java
