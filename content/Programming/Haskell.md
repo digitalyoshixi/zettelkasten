@@ -106,6 +106,7 @@ in `Main.hs`
 - [[Haskell rec]]
 - [[Haskell map]]
 - [[Haskell foldr]]
+- [[Haskell foldl]]
 - [[Haskell zip]]
 - [[Haskell zipWith]]
 - [[Haskell filter]]
