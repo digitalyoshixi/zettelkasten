@@ -7,7 +7,7 @@ aliases:
   - Haskell append
   - Haskell ++
 ---
-A way to concatenate two strings.
+A way to concatenate two or lists.
 ```haskell
 a = "hello "
 b = "world"

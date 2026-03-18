@@ -4,7 +4,7 @@ tags:
   - haskell
 ---
 A arbitrary size collection of the same datatype.
-```
+```haskell
 [1,2,3,4]
 ['a','b','c']
 ```
