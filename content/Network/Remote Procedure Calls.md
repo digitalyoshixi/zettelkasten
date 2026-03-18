@@ -6,6 +6,7 @@ aliases:
 ---
 Protocol one program uses to request services from another program on a network WITHOUT knowing the network’s details. 
 
+
 Similar to an [[Interprocess Communication]], but we must use message based communication as processes are executing on separate systems.
 
 The messages being sent on the networks are more advanced than the ones sent through IPC. Each message is sent to a RPC daemon(background process) listening to a port on the remote system. The message contains function identifier and parameters to pass that is then executed and sends the output back to the original sender.

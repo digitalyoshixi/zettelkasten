@@ -5,6 +5,8 @@ aliases:
   - TCP
 ---
 A connection oriented communication protocol that ensures **no data loss** in communication.
+# Packet Structure
+![[Transmission Control Protocol-20260318164940591.webp]]
 # Protocol
 ![[Transmission Control Protocol-20250424163508860.webp]]
 1. Device sends a request to get a packet of a certain TCP ID

@@ -5,14 +5,15 @@ tags:
 ---
 A socket [[Point-to-point Communication|Full Duplex]] [[File Descriptor]] that acts an endpoint for network communication. 
 Identified by [[IP Address]] + [[Port]]
-- 2 processes want to communicate over a network ->  2 sockets are made.
+- 2 processes want to communicate over a network ->  2 sockets are made
+![[Sockets-20260318164613945.webp]]
 # Socket Creation Process
 1. Client initiates request for connection. It is assigned a random port greater than 1024
 2. Server waits for client requests from specific port
 3. Request is received
 4. Server accepts connection from client
-# Socket/Node programming
-[https://www.youtube.com/watch?v=_FVvlJDQTxk](https://www.youtube.com/watch?v=_FVvlJDQTxk)
+# Socket Communication
+![[Sockets-20260318164717046.webp]]
 
 A method of two-way communication between 2 applications on the same network. It utilizes sockets/endpoint bound by port number on an ip so that the tcp layer can identify applications. A socket/endpoint is the combination of an ip address and port number.
 
