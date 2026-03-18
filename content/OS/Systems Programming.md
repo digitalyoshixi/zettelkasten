@@ -120,3 +120,8 @@ aliases:
 - [[C waitpid]]
 ### Week 9
 - [[Shell]]
+### Week 10
+- [[Interprocess Communication|IPC]]
+- [[Sockets]]
+- [[Client Server Paradigm]]
+- [[Peer to Peer]]
