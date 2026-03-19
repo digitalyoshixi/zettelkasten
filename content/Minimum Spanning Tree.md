@@ -12,5 +12,8 @@ A subgraph of [[Programming/Graph|Graph]] $G$ that:
 - Contains all vertices
 - Is [[Graph Connected|Connected]]
 - Has no [[Graph Cycle|Cycle]]
+# Properties
+- [[MST Cut Property]]
 # Algorithms
 - [[Kruskal's Algorithm]]
+- [[Prim's Algorithm]]

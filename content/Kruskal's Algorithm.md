@@ -1,6 +1,8 @@
 ---
 tags:
   - programming
+aliases:
+  - Kruskals Algorithm
 ---
 An algorithm to find a [[Minimum Spanning Tree|MST]] from a [[Weighted Graph]]
 # Algorithm
