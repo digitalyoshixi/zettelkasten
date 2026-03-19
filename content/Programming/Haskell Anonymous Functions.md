@@ -8,3 +8,7 @@ aliases:
 ```haskell
 \(arg) -> (body)
 ```
+# Example
+```haskell
+\x y -> x + y
+```

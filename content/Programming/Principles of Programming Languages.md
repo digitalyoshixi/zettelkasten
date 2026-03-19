@@ -84,6 +84,7 @@ aliases:
 - [[Function Closures|Closure]]
 - [[Parallelism Advantage]]
 - [[Functional Programming Proofs]]
+- [[Closure Lemma]]
 - [[Type Safe]]
 - [[Verifying Compiler]]
 ### Week 7
@@ -105,12 +106,13 @@ aliases:
 - [[Haskell List Comprehension]]
 - [[HUnit]]
 ### Week 9
-- [[Lazy Evaluation]]
 - [[Haskell Eq]]
 - [[Haskell Class]]
 - [[Haskell Instance]]
 - [[Polymorphism]]
+### Week 10
 - [[Multiple Inheritance]]
 - [[Diamond Problem]]
-### Week 10
-- [[Closure Lemma]]
+- [[Lazy Evaluation]]
+- [[Thunk]]
+- [[Haskell Lazy Evaluation Example]]
