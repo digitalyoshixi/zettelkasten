@@ -23,6 +23,7 @@ The specific [[Haskell data|Haskell Data Constructor]] are defined independently
 - [[Haskell Eq]]
 - [[Haskell Ord]]
 - [[Haskell Read]]
+- [[Haskell Foldable]]
 # Concepts
 - [[Haskell Curried Type Constructor]]
 - [[Haskell Class]]

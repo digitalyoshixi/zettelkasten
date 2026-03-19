@@ -2,6 +2,9 @@
 tags:
   - programming
   - lisp
+aliases:
+  - Racket foldr
+  - Racket foldl
 ---
 ```lisp
 (foldr op id lst)
