@@ -9,6 +9,10 @@ tags:
 '(1 2 foo 3.14)
 ```
 - Each list can be represented by a [[Racket Pair]] ([[Pair List Equivalence]])
+# Create a List
+```lisp
+(list 2)
+```
 # Selectors
 - `first`
 - `rest`
