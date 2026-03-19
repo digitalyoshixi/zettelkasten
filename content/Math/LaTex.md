@@ -62,3 +62,13 @@ f(x) = \begin{cases}
        \end{cases}
 $$
 
+### Embed Images
+```latex
+\usepackage{graphicx}
+
+\begin{document}
+
+\includegraphics[width=\linewidth]{"./q1.png"}
+
+\end{document}
+```

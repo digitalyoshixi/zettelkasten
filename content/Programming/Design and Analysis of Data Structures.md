@@ -62,6 +62,8 @@ aliases:
 ### Week 6
 - [[Strongly Connected Component]]
 - [[Transposed Graph]]
+- [[Condensation Graph]]
 ### Week 7
+- [[Minimum Spanning Tree]]
 ### Week 8
 ### Week 9
