@@ -66,4 +66,5 @@ aliases:
 ### Week 7
 - [[Minimum Spanning Tree]]
 ### Week 8
+- [[Djikstra's Algorithm]]
 ### Week 9
