@@ -21,3 +21,7 @@ length [42^1234, 42^2345, 42^3456]
 = 1 + 1 + 1 + 0
 = 3
 ```
+# Lazy Evaluation [[Fibonacci Series]]
+```haskell
+fibs = 0 : 1 : zipWith (+) fibs (tail fibs)
+```
