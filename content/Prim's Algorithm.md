@@ -13,6 +13,22 @@ A [[Greedy Algorithm|Greedy]] [[Data Structures and Algorithms|Algorithm]] to fi
 - Look at all visit-able edges from nodes inside the visited list, add the minimum edge's node to the `visited` list if it is not already within the `visited` list
 - priority(v) = minimum weight of any edge between v and tree
 - priority(v) = inf if no such edge
+# Pseudocode
+```pascal
+S := new container() for edges
+PQ = new min-heap()
+start := pick a vertex
+PQ.insert(0, start)
+for each vertex v != start: PQ.insert(v, inf)
+while not PQ.is_empty():
+	u := PQ.extract_min()
+	S.add({u.pred, u})
+	for each z in u's adjacency list:
+		if z in PQ && weight(u,z) < priority of z:
+			PQ.decrease_priority(z, weight(u,z))
+			z.pred := u
+return S
+```
 # Complexity
 - Vertex enter/leave min-heap: $O(\log n)$ each, $O(n \log n)$ full
 - Edge call decrease-priority: $O(\log n)$ each for $O(m \log n)$ full
