@@ -7,6 +7,7 @@ aliases:
 A [[Archive File Format]] that support [[Lossless Compression]].
 - [[Multipurpose Internet Mail Extensions|MIME]] `application/zip`
 # Format
+![[Zip File-20260320225342652.webp]]
 ### Records
 ![[Zip File-20260313142336953.webp|400]]
 Entries that describe file data compressed with [[DEFLATE]]
