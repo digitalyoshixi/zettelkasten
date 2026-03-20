@@ -117,3 +117,5 @@ aliases:
 - [[Thunk]]
 - [[Haskell Lazy Evaluation Example]]
 - [[Logical Programming]]
+- [[Java Default Methods]]
+- [[Java Advanced Generics]]
