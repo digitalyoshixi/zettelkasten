@@ -26,4 +26,4 @@ The specific [[Haskell data|Haskell Data Constructor]] are defined independently
 - [[Haskell Foldable]]
 # Concepts
 - [[Haskell Curried Type Constructor]]
-- [[Haskell Class]]
+- [[Haskell Class|Haskell Custom Typeclass]]
