@@ -27,8 +27,7 @@ while not PQ.is-empty():
 	for each v in u's adjacency list, v in PQ:
 		d' := u.d + weight(u,v)
 		if d' < v.d:
-			PQ.decrease-priority(v, d')
-			v.d := d'
+			v.d := d' //PQ.decrease-priority(v, d')
 			v.pred := u
 ```
 # Complexity
