@@ -116,3 +116,4 @@ aliases:
 - [[Lazy Evaluation]]
 - [[Thunk]]
 - [[Haskell Lazy Evaluation Example]]
+- [[Logical Programming]]
