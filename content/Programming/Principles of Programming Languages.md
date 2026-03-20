@@ -118,4 +118,4 @@ aliases:
 - [[Haskell Lazy Evaluation Example]]
 - [[Logical Programming]]
 - [[Java Default Methods]]
-- [[Java Advanced Generics]]
+- [[Java Generics]]
