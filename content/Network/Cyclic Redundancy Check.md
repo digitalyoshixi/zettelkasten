@@ -15,6 +15,7 @@ A CRC can be:
 ![[Cyclic Redundancy Check-20240716162152283.webp|580]]
 Often put at the end of a packet frame
 # Concepts
-- 
+- CRC algorithm finder: https://crccalc.com/?crc=123456789&method=&datatype=ascii&outtype=hex
+- [[reveng]]
 # Similar Methods
 - [[Frame Check Sequence|FCS]]
