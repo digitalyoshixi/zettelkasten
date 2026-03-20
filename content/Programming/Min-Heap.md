@@ -14,3 +14,4 @@ Items are inserted greatest to lowest priority.
 # Operations
 - [[enqueue]]
 - [[dequeue]]
+- [[Bubble Up]]
