@@ -7,6 +7,14 @@ aliases:
   - CRC Checksum
 ---
 A [[n-Error Detecting Code]] used in the [[Ethernet Protocol]] to determine if any errors occurred during data transmission. 
+Can be used as a [[Error Correcting Codes|ECC]] with [[Bitfilter]].
+A CRC can be:
+- 8 bits
+- 16 bits
+- 32 bits
 ![[Cyclic Redundancy Check-20240716162152283.webp|580]]
-The CRC is 4 bytes at the end of the frame.
-A similar method is used in [[Point-to-Point Protocol|PPP]] and [[High-Level Data Link Control Protocol|HDLC]] called [[Frame Check Sequence|FCS]]
+Often put at the end of a packet frame
+# Concepts
+- 
+# Similar Methods
+- [[Frame Check Sequence|FCS]]
