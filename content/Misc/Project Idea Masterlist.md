@@ -74,3 +74,4 @@ banner:
 - Make a wikipedia clone
 - [[Chinese Room]] video game
 - [[Cybernetics]] cola dispensor for stomach or baha blast machine
+- [[Content Disarm and Reconstruction]] tool
