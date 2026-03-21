@@ -12,6 +12,11 @@ A interface for a device to communicate with the computer network.
 - [[ip]]
 - [[ipconfig]]
 # Modes
+### Capture
 - [[Managed Mode]]
 - [[Promiscuous Mode]]
 - [[Monitor Mode]]
+### Management
+- [[Ad-Hoc Mode]]
+- [[Access Point Mode]]
+- [[Mesh Mode]]

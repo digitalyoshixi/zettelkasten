@@ -3,4 +3,4 @@ tags:
   - networking
 ---
 A [[Network Interface]] mode.
-- Filters incoming frames based off destination [[Media Access Control Address|MAC Address]]
+Only accepts frames that have the destination of its own [[Media Access Control Address|MAC Address]].
