@@ -13,8 +13,8 @@ Embedding secret messages within images or audio files.
  - [[Printer Tracking Dots]]
  - [[Spectrogram]]
  - [[Frequency Shift Keying]]
- - [[SSTV]]
+ - [[Slow Scan Television]]
  - [[Echo Steganography]]
- - [[CFG Steganography]]
+ - [[Control Flow Graph Steganography]]
 # Weirdness
 - [[Steganographic File System]]
