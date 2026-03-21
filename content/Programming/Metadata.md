@@ -29,7 +29,7 @@ Data about how components are organized:
 - [[ID3]]
 - [[Dublin Core]]
 ### Filesystems
-- [[Inode Metadata]]
+- [[Inode]]
 - [[Extended Attributes|xattrs]]
 ### Web
 - [[Email Metadata]]

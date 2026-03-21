@@ -6,10 +6,10 @@ aliases:
 ---
 Window's preferred file system.
 Uses clusters of blocks and file allocations tables like [[File Allocation Table Filesystem|FAT]] does, but improves on:
-- Redundancy
-- Security
-- Compression
-- Encryption
+- [[IT/Journalling|Journalling]]
+- [[Permissions]]
+- [[Compression Algorithm|Compression]]
+- [[Full Disk Encryption|FDE]]
 - Disk quota
 - Smaller [[Cluster|Clusters]]
 # Concepts

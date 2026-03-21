@@ -2,7 +2,7 @@
 tags:
   - IT
 ---
-Backups for a file/data during a period of time that exists on the local machine.
-Changes are written to the journal before committing to the filesystem or database.
+The practice of writing to a journal before committing to the filesystem/database.
+- The journal is stored temporarily in the local machine
+- Allows recovery during crash (its slow)
 File journalling is handled by the specific [[File System]].
-Often slower to recover.
