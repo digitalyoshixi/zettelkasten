@@ -12,3 +12,4 @@ Protocol to get [[Media Access Control Address|MAC Address]] from [[IP Address]]
 4. The first device stores this [[IP Address]] : [[Media Access Control Address|MAC Address]] mapping in a ARP cache
 # Vulnerabilities
 - [[ARP Poisoning]]
+- [[ARP Spoofing]]
