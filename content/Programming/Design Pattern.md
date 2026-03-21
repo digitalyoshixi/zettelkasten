@@ -3,7 +3,8 @@ tags:
   - programming
 ---
 These are development patterns.
-# Classificaitons
+![[Design Pattern-20260321223613007.webp]]
+# Classifications
 ### Creational Patterns
 These are pattern revolved around code creation
 - [[Factory Method]]
@@ -17,6 +18,7 @@ These are patterns revolved around code structure
 - [[Facade Method]]
 - [[Flyweight Method]]
 - [[Proxy Method]]
+- [[Monad|Monad Design Pattern]]
 ### Behavioral Patterns
 These are patterns revolved around the behavior of code
 - [[Chain of Responsibility Method]]
@@ -29,3 +31,4 @@ These are patterns revolved around the behavior of code
 - [[State Method]]
 - [[Strategy Method]]
 - [[Template Method]]
+- [[Visitor Pattern]]

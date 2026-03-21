@@ -35,5 +35,5 @@ if __name__ == "__main__": # if running this file directly
 # Web Dev Concepts
 - [[Application Endpoints]]
 - [[Curl]]
-- [[Session]]
+- [[Web/Session]]
 - [[Cookies]]

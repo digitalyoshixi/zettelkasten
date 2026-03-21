@@ -4,7 +4,7 @@ tags:
 aliases:
   - TCP
 ---
-A connection oriented communication protocol that ensures **no data loss** in communication.
+A [[Connection Oriented]] communication protocol that ensures **no data loss** in communication.
 # Packet Structure
 ![[Transmission Control Protocol-20260318164940591.webp]]
 # Protocol

@@ -21,6 +21,8 @@ These are ways to mitigate vulnerabilities present within [[IT/Operating System|
 - [[Syslog]]
 - User education
 - [[Backup Types|Backups]]
+### Full Guides
+- https://www.cs.ryerson.ca/~zereneh/cn8822/Linux_Security.pdf
 # Concepts
 - [[Microsoft Group Policy]]
 - [[Security Enhanced Linux|SELinux]]
