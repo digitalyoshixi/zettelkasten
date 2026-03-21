@@ -20,8 +20,17 @@ Data about how components are organized:
 - Chapters of ebook
 - File size
 # List
-- [[Document File Metadata]]
+### Images/Video/Audio
 - [[Exchangeable Image File Format|EXIF Metadata]]
-- [[Email Metadata]]
+- [[Extensible Metadata Platform|XMP]]
+- [[International Press Telecommunications Council Metadata]]
+- [[QuickTime Metadata]]
+- [[Material Exchange Format|MXF]]
+- [[ID3]]
+- [[Dublin Core]]
+### Filesystems
 - [[Inode Metadata]]
 - [[Extended Attributes|xattrs]]
+### Web
+- [[Email Metadata]]
+- [[HTML meta]]
