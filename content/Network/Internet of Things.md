@@ -3,6 +3,8 @@ tags:
   - networking
 aliases:
   - IoT
+  - Cyber-Physical System
+  - CPS
 ---
 Devices that manage equipment that can be configured through an internet connection.
 Includes devices like:
