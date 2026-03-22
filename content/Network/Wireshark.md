@@ -10,8 +10,10 @@ Tool to analyze packets. Pivotal in retaliation and forensics.
 - [[Berkley Packet Filter]]
 # Guides
 - [[Wireshark Profiles]]
-- [[Wireshark Conversations]]
+- [[Wireshark Streams]]
 - [[Wireshark Dissector]]
 - [[Wireshark Analysis]]
 - [[Wireshark Monitor Mode]]
 - [[Wireshark Protocol Hierarchy|Wireshark Anomaly Detection]]
+- [[Wireshark Export Files]]
+- [[Wireshark Conversation]]

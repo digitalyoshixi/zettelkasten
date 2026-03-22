@@ -4,7 +4,6 @@ tags:
 aliases:
   - Wireshark Streams
 ---
-Used to read how each packet interacts with each other.
-`Statistics > Conversations`
+Used to read the back and forth between communication during a [[Session]]
 # Follow Specific Stream
 `Right click packet > Follow > TCP Stream`
