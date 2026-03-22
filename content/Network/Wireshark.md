@@ -9,4 +9,5 @@ Tool to analyze packets. Pivotal in retaliation and forensics.
 - [[Wireshark Profiles]]
 - [[Wireshark Conversations]]
 - [[Wireshark Dissector]]
+- [[Wireshark Analysis]]
 - [[Wireshark Monitor Mode]]
