@@ -7,3 +7,7 @@ A [[Memory Forensics]] RAM discovery tool.
 ```
 sudo pacman -S volatility3
 ```
+# Usage
+```
+vol
+```

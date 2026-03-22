@@ -46,3 +46,5 @@ RAM can be x32bit or x64bit
 - [[RAM Troubleshooting]]
 - [[RAM Data Transfer Rate]]
 - [[Virtual Memory Space]]
+- [[Memory Segmentation]]
+- [[Page File|Paging]]
