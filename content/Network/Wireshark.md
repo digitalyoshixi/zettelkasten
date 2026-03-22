@@ -8,4 +8,5 @@ Tool to analyze packets. Pivotal in retaliation and forensics.
 - [[Dumpcap]]
 - [[Wireshark Profiles]]
 - [[Wireshark Conversations]]
+- [[Wireshark Dissector]]
 - [[Wireshark Monitor Mode]]
