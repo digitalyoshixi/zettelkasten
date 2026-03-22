@@ -4,10 +4,14 @@ tags:
   - security
 ---
 Tool to analyze packets. Pivotal in retaliation and forensics.
-# Guides
+# Concepts
 - [[Dumpcap]]
+- [[tcpdump]]
+- [[Berkley Packet Filter]]
+# Guides
 - [[Wireshark Profiles]]
 - [[Wireshark Conversations]]
 - [[Wireshark Dissector]]
 - [[Wireshark Analysis]]
 - [[Wireshark Monitor Mode]]
+- [[Wireshark Protocol Hierarchy|Wireshark Anomaly Detection]]
