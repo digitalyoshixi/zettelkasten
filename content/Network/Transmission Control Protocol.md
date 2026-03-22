@@ -36,12 +36,15 @@ A [[Connection Oriented]] communication protocol that ensures **no data loss** i
 ### [[Three Way Handshake]]
 - Gets the initial sequence number (ISN)
 ### Communication
+![[Transmission Control Protocol-20260322023943925.webp]]
 1. Alice sends packet with SEQ=ISN+1
 2. Alice is able to continue sending until she reaches the window size specified by Bob
-3. Bob after every second received packet. replies with acknowledgement: ACK=SEQ+data size+1
+3. Bob after [[Delayed Acknowledgement]]. replies with acknowledgement: ACK=SEQ+data size+1
 4. If the ACK does not match what alice should receive, receiver starts TCP retransmission
 ### Retransmission
-- 
+![[Transmission Control Protocol-20260322023900256.webp]]
+1. If we dont recieve an ACK in 200ms, we resend the message from cache
+2. If the server recieves two of the same message, then we know we had a failure in ACK, so we resend the same ACK from cache
 # Additional Features
 ### Flow Control
 Ability to limit the data sent 
