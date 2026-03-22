@@ -5,6 +5,7 @@ aliases:
   - TCP
 ---
 A [[Connection Oriented]] communication protocol that ensures **no data loss** in communication.
+![[Transmission Control Protocol-20250424163508860.webp]]
 # Packet Structure
 ![[Transmission Control Protocol-20260318164940591.webp]]
 - Source port: 16-bits, represents sending port
@@ -30,16 +31,24 @@ A [[Connection Oriented]] communication protocol that ensures **no data loss** i
 - Checksum: 16-bits a [[Checksum]]
 - Urgent Pointer: 16-bits: if set, indicates the offset from sequence number is the last urgent data byte
 # Protocol
-![[Transmission Control Protocol-20250424163508860.webp]]
-1. Device sends a request to get a packet of a certain TCP ID
-2. Send TCP ID packet to device
-3. Device replies with received
-4. If the ID's have a gap, then one message was lost, the reciever asks for that lost message
+- SEQ: used to track bytes sent
+- ACK: used to track bytes received
+### [[Three Way Handshake]]
+- Gets the initial sequence number (ISN)
+### Communication
+1. Alice sends packet with SEQ=ISN+1
+2. Alice is able to continue sending until she reaches the window size specified by Bob
+3. Bob after every second received packet. replies with acknowledgement: ACK=SEQ+data size+1
+4. If the ACK does not match what alice should receive, receiver starts TCP retransmission
+### Retransmission
+- 
 # Additional Features
 ### Flow Control
 Ability to limit the data sent 
 # Concepts
 - [[Three Way Handshake]]
+- [[Delayed Acknowledgement]]
+- [[TCP WIndow Size]]
 # Vulnerabilities
 - [[Denial of Service|DoS]]
 - [[Connection Hijacking]]
