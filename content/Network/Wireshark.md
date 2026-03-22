@@ -9,6 +9,7 @@ Tool to analyze packets. Pivotal in retaliation and forensics.
 - [[tcpdump]]
 - [[Berkley Packet Filter]]
 # Guides
+- [[Wireshark Filters]]
 - [[Wireshark Profiles]]
 - [[Wireshark Streams]]
 - [[Wireshark Dissector]]
