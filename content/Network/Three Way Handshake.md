@@ -2,12 +2,12 @@
 tags:
   - networking
 ---
-Used in [[Transmission Control Protocol|TCP]] for connection-oriented communication.
+Used in [[Transmission Control Protocol|TCP]] establishing a [[Network Session|Session]] by transmitting an initial sequence number.
 ![[Three Way Handshake-20240816174930305.webp]]
 Can be used to find which ports are open
 # SYN
 The client sends a synchronization packet.
-This includes the sequence number of its next packet
+This includes the initial sequence number of its next packet
 # SYN-ACK
 The server responds with and acknowledgement packet signifying the next expected packet the server wants
 # ACK
