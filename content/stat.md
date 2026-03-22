@@ -10,10 +10,10 @@ A linux command used to read [[Metadata]]
 stat ./filename
 ```
 Uses the [[stat()]] [[Syscall]]
-# Timestamps ([[Modified Access Creation]])
+# Timestamps ([[Modified Access Changed]])
 - Modified ([[mtime]])
 - Accessed (Toggled by OS [[atime]] sometimes set off)
-- Created ([[ctime]])
+- Changed ([[ctime]])
 - Date Changed (MFT)
 	- Updated after Inode modification
 - Filename Date Created (MFT)

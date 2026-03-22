@@ -13,7 +13,7 @@ Essential data about the content of a file:
 - [[Exchangeable Image File Format]]
 ### Administrative
 Data about management details:
-- [[Modified Access Creation|MAC]]
+- [[Modified Access Changed|MAC]]
 - Access rights
 ### Structural Metadata
 Data about how components are organized:
