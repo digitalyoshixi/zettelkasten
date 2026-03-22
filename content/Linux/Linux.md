@@ -6,6 +6,7 @@ So based.
 # Concepts
 - [[Linux Kernel]]
 - [[Linux Distro]]
+- [[Linux Main Directories]]
 # Distros
 - [[Arch Linux|Arch]]
 - [[Debian]]
