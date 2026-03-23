@@ -7,7 +7,10 @@ A [[Memory Forensics]] RAM discovery tool.
 ```
 git clone https://github.com/volatilityfoundation/volatility3.git
 cd volatility3
+pip install --user -e ".[full]"
 ```
+# Concepts
+- [[Volatility Symbol Tables]]
 # Usage
 ```
 python3 vol.py -f <FILE> <PLUGIN_NAME> (<PLUGIN_OPTION>)
@@ -19,3 +22,4 @@ python3 vol.py -f <FILE> <PLUGIN_NAME> (<PLUGIN_OPTION>)
 - [[Volatility Windows Dump File]]
 - [[Volatility Windows View Command Line Commands]]
 - [[Volatility Windows View Netstat]]
+- [[Volatility Windows Get Password Hashes]]
