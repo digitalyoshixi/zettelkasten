@@ -22,5 +22,5 @@ Almost everything in windows is configured through the registry, or configures t
 - `regedit`
 # Concepts
 - [[Registry Hive]]
-- [[Registry Keys]]
+- [[Registry Key]]
 - [[Registry Values]]
