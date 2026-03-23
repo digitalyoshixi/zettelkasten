@@ -4,14 +4,35 @@ tags:
 ---
 ![[4575916404506624-1971567252.gif|427]]
 Created by [[Massachusets Institute of Technology|MIT]].
-An [[Single Sign On]] authentication protocol used while the user is logged in. Grants them tickets for the current session.
-Ensures packets are encrypted for authentication.
-Protects against [[Man-In-The-Middle|MITM]] and [[Replay Attack]]
+A [[Single Sign On]] authentication protocol used while the user is logged in. Grants them tickets for the current session.
+- Uses [[Symmetric Cryptography|Symmetric Encryption]].
+- Ensures packets are encrypted for authentication.
+- Protects against [[Man-In-The-Middle|MITM]] and [[Replay Attack]].
+# Protocol
+We want host $A$ to talk to file server $B$
+1. Assumed shared key both [[Authentication Server]] and host knows (could be host's password in [[Windows Active Directory|AD]])
+2. Request a ticket from kerberos server to get [[Ticket Granting Ticket|TGT]]
+	1. Send a request to talk to [[Ticket Server|Ticket Granting Server]], pass in $n_{a}$
+3. [[Key Distribution Center|KDC]] returns a message that is [[Cryptography|Encrypted]] with a session ticket $K_{as}$ containing:
+	1. Shared symmetric key $K_{at}$
+	2. $n_{a}$
+	3. $T$ time
+	4. $L$ lifespan
+	5. OK to talk to [[Ticket Server|TGS]]
+4. [[Key Distribution Center|KDC]] returns the [[Ticket Granting Ticket|TGT]] containing:
+	1. Shared symmtric key $K_{at}$
+	2. OK to talk to $A$
+	3. $L$ lifespan
+5. Host $A$ sends request to talk to fileserver $B$
+	1. Host sends request:
+		1. $A$
 # Concepts
+- [[Key Distribution Center]]
+	- [[Authentication Server]]
+	- [[Ticket Server]]
 - [[Kerberoasting Attack]]
 - [[Kerberos SSO Process]]
 - [[Ticket Granting Ticket]]
 - [[Updated Sequence Number|USN]]
 - [[Mutual Authentication]]
 - [[ntds]]
-- [[Authentication Server]]
