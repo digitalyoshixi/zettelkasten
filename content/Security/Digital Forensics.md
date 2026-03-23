@@ -24,3 +24,4 @@ The practice of finding hidden data from digital traces like:
 - [[Write Blocking]]
 - [[Forensic Copy]]
 - [[Logical Forensic Copy]]
+- [[Windows Forensics]]
