@@ -32,7 +32,7 @@ An [[Interpreter|Interpreted]] programming language.
 	- ...
 	- `VF` - also used as [[Carry Bit|Carry Flag]] register
 	- `I` - instruction register
-- Font characters represented as [[Bitmap]] 4px by 5px tall
+- Font characters represented as [[Bitmap File]] 4px by 5px tall
 - Speed of ~ 700 instructions per second is natural
 # References
 - https://tobiasvl.github.io/blog/write-a-chip-8-emulator/

@@ -5,11 +5,11 @@ aliases:
   - GDI
 ---
 Component of [[IT/Windows]] to create [[Raster]] images like:
-- [[Bitmap]]
+- [[Bitmap File]]
 - PNG
 - Fonts
 - Vector graphics
-For printing, it will convert all it sees as input including fonts into [[Bitmap]] images before sending it to the printer.
+For printing, it will convert all it sees as input including fonts into [[Bitmap File]] images before sending it to the printer.
 
 In Win32 API, it can be used to draw images to the screen.
 https://zetcode.com/gui/winapi/gdi/
