@@ -5,6 +5,6 @@ tags:
 aliases:
   - Coq
 ---
-A interactive theorem prover based off [[Calculus of Constructions]]
+A interactive [[Theorem Prover]] based off [[Calculus of Constructions]]
 # Tools
 - [[Rocq]]

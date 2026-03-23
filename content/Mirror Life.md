@@ -1,6 +1,8 @@
 ---
 tags:
   - biology
+aliases:
+  - Black Swan Biology
 ---
 [[Synthetic Biology]] organisms whose DNA and protiens are mirror images of those that appear in nature.
 Used in therapeutics.

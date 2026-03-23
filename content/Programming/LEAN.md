@@ -3,7 +3,7 @@ tags:
   - programming
 ---
 ![[LEAN-20250527010620518.webp]]
-A interactive theorem prover to verify code correctness and mathematical theorems.
+A interactive [[Theorem Prover]] to verify code correctness and mathematical theorems.
 It is mainly for:
 - [[Mathematics]]
 - Software/Hardware verification

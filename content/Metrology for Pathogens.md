@@ -9,3 +9,5 @@ Early detection and identification of dangerous pathogens.
 - Sensors deployed in labs to provide early warning of breach of containment
 - Hard to acquire samples being provided from major corporations or donation centers
 - [[MetAgenomic Toolset for Rapid Inference and eXploration]]
+- [[AlphaCell]]
+- [[BioShield]]

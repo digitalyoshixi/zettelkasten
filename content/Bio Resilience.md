@@ -11,3 +11,7 @@ Involves creating rapid response capacities.
 - [[Spread Suppression]]
 - [[Rapid Pandemic Mitigation]]
 ![[Bio Resilience-20260323160146243.webp]]
+# Risks
+- [[Mirror Life]]
+- [[Advanced Persistent Threat|APT]]
+- Implementing this at government, who should be in control?
