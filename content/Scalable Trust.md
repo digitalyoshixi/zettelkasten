@@ -8,3 +8,4 @@ Enabling trustworthy common knowledge through networks tha thave reputation, def
 - [[Post Annotations]]
 - New types of [[Infofinance]] (index fund info finance)
 - [[Computable Knowledge]]
+- [[Transparent Chains of Attribution]]

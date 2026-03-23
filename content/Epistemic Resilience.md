@@ -10,4 +10,7 @@ Resilience against [[Gradual Disempowerment]].
 - [[Reliable Discovery]]
 - [[Scalable Trust]]
 - [[Epistemic Health]]
-# Research
+# Risks
+- Political polarisation
+- Epistemic over-reliance (i.e the abacus instead of mental math)
+- Thought policing
