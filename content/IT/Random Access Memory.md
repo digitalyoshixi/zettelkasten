@@ -8,8 +8,11 @@ aliases:
 ---
 ![[Random Access Memory-20240516212846751.webp]]
 Device responsible for holding data that the CPU requires. This data includes:
-- Program machine code
-- Program data
+- Opened [[Process]] and sub-processes
+- Data in processes (i.e images, js, videos in a webpage)
+- Opened files with file data (can be unencrypted when in use)
+- Opened [[Stream|File Handle]]
+- Content in shared buffers (can have usernames, passwords, etc..)
 # RAM
 ### RAM Chips
 ![[Random Access Memory-20240523005510612.webp|298]]

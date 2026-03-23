@@ -23,3 +23,4 @@ python3 vol.py -f <FILE> <PLUGIN_NAME> (<PLUGIN_OPTION>)
 - [[Volatility Windows View Command Line Commands]]
 - [[Volatility Windows View Netstat]]
 - [[Volatility Windows Get Password Hashes]]
+- [[Volatility Windows View Registry]]
