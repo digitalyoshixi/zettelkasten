@@ -8,8 +8,12 @@ aliases:
 ---
 Page file is the file that contains all processes to be swapped in [[Virtual Memory]].
 This is similar to swap partitions in linux
-# Windows pagefile.sys
-Certain times, issues may arise with the auto-generated pagefile (C:/pagefile.sys). You can delete it and windows will automatically make a new one.
+# `pagefile.sys`
+Windows will automatically create a pagefile located at:
+```
+C:\pagefile.sys
+```
+If deleted, windows will make a new one
 # Process
 ![[Virtual Memory-20240524053746233.webp|665]]
 1. A new process wants to load, but there is not enough free RAM for it
