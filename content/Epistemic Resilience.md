@@ -5,3 +5,4 @@ aliases:
   - End Game Epistemic Security
 ---
 Resilience against [[Gradual Disempowerment]].
+# Research
