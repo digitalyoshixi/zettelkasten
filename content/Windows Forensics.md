@@ -14,6 +14,8 @@ tags:
 	- [[Most Recently Used Lists]]
 	- [[ShimCache]]
 	- [[UserAssist Registry Key]]
+	- [[Background Activity Monitor]]
+	- [[Desktop Activity Monitor]]
 - [[Page File]]
 - [[Hibernation File]]
 - [[Windows Transaction Logs]]
