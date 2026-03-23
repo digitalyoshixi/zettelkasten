@@ -14,3 +14,4 @@ A piece of [[Assembly]] code called whenever the [[Processor]] recieves an [[Sys
 # Types of Handlers
 - [[Polled Handling]]
 - [[Vectored Handling]]
+- [[Interrupt Descriptor Table]]
