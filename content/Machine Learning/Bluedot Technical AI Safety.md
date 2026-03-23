@@ -80,3 +80,4 @@ A course offered by [[Bluedot]].
 - [[Research Connectors]]
 - [[Research Iterators]]
 - [[Research Amplifiers]]
+- [[AI Resilience]]

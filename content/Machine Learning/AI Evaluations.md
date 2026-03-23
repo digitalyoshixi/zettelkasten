@@ -7,7 +7,7 @@ aliases:
 We analyze two things:
 - Capabilities (upper bounds of what model can do)
 - Propensitives (model behavior tendencies)
-# Capability Evaluations
+# Capabili!ty Evaluations
 - [[Massive Multitask Language Understanding|MMLU]]
 - [[ARC-AGI]]
 # Propensities Evaluation
