@@ -3,6 +3,7 @@ tags:
   - security
 ---
 Protecting civilizations ability to push frontier of scientific knowledge.
-# Research
+# Proposed Ideas
 - [[Verifiable Sensors]]
 - [[NeoArXiv]]
+- [[Research Prediction Market]]
