@@ -15,7 +15,7 @@ pip install --user -e ".[full]"
 ```
 python3 vol.py -f <FILE> <PLUGIN_NAME> (<PLUGIN_OPTION>)
 ```
-### Specific Usage
+### Windows Plugins
 - [[Volatility Windows Viewing Dump Info]]
 - [[Volatility Windows Viewing All Processes]]
 - [[Volatility Windows Viewing All Open File Handles]]
@@ -24,3 +24,5 @@ python3 vol.py -f <FILE> <PLUGIN_NAME> (<PLUGIN_OPTION>)
 - [[Volatility Windows View Netstat]]
 - [[Volatility Windows Get Password Hashes]]
 - [[Volatility Windows View Registry]]
+### Extra
+- [[Volatility View IDT]]
