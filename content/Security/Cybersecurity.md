@@ -28,3 +28,4 @@ aliases:
 - Critical Infrastructure Security
 - [[Financial Transaction Security]]
 - [[Smart Contract Security|Blockchain Security]]
+- [[Biosecurity]]
