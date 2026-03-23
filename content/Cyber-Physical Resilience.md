@@ -10,3 +10,7 @@ Resilience against cyber attacks or physical attacks from accelerated [[Artifici
 - [[Hacking Resistant Interfaces]]
 - [[Secure and Bounded Autonomy]]
 - [[Secure and Governable Compute Hardware]]
+# Residual Risks
+- Pure physical attacks of infrastructure
+- [[Social Engineering]]
+- Supply chain security - tamper-secure sensors
