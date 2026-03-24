@@ -25,3 +25,4 @@ The practice of finding hidden data from digital traces like:
 - [[Forensic Copy]]
 - [[Logical Forensic Copy]]
 - [[Windows Forensics]]
+- [[Linux Forensics]]

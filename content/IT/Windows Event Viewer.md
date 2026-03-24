@@ -30,7 +30,14 @@ If you want to make your own, then right click custom view key > Create Custom V
 - 4624: Logon events
 - 4648: Admin logon
 - 4656: Access attempt to object is made
+- 4658: Accessing of object ended
 - 4660: Object is deleted
-- 4653: Attempt to open object (4656) is successful
+- 4663: Attempt to open object (4656) is successful
+- 4698: Scheduled task created
+- 4698: Scheduled task created
+- 4699: Scheduled task deleted
+- 4700: Scheduled task enabled
+- 4701: Scheduled task disabled
+- 4702: Scheduled task updated
 # Tips
 - [[Windows Enable Object Access Logging]]
