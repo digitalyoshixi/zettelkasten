@@ -26,3 +26,11 @@ There are 4 categories within windows' logs:
 These are log filters.
 ![[Windows Event Viewer-20240706024648654.webp]]
 If you want to make your own, then right click custom view key > Create Custom View.
+# Common Event Ids
+- 4624: Logon events
+- 4648: Admin logon
+- 4656: Access attempt to object is made
+- 4660: Object is deleted
+- 4653: Attempt to open object (4656) is successful
+# Tips
+- [[Windows Enable Object Access Logging]]

@@ -26,3 +26,10 @@ tags:
 - [[Windows Event Viewer]]
 - [[Windows Recent Activity]]
 - [[Windows Internet Explorer History]]
+- [[Windows Search Database]]
+- [[Windows AutoRuns]]
+# Techniques
+- [[PowerShell Script Block Logging]]
+# Tools
+- [[System Resource Usage Monitor|SRUM]]
+- [[Windows Event Viewer]]

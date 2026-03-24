@@ -21,3 +21,6 @@ An enhanced FAT table that exists in first chunks of the disc.
 # MFT Fields
 - In use: if unchecked, its a deleted object
 - Has Ads: Indicates if object contains [[Alternate Data Stream|ADS]]
+# Exploring $MFT
+- [[r-studio]]
+- [[MFTECmd]]

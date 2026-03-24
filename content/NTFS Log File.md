@@ -5,4 +5,5 @@ tags:
 aliases:
   - $LogFile
 ---
-Contains transactions of log of system file metadata changes.
+Contains transactions of low-level changes of files.
+Can use [[NTFS Log Tracker]]

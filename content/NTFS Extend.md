@@ -8,4 +8,4 @@ File system directory containing various optional extension like:
 - `$Quota`
 - `$ObjId`
 - `$Reparse`
-- `$UsnJrnl`
+- [[NTFS Update Sequence Number Journal|$UsnJrnl]]

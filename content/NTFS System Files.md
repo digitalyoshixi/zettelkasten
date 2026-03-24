@@ -15,4 +15,6 @@ tags:
 - [[NTFS Boot|$Boot]]
 - [[NTFS Secure|$Secure]]
 - [[NTFS UpCase|$UpCase]]
-- [[NTFS Extend]]
+- [[NTFS Extend|$Extend]]
+	- [[NTFS Update Sequence Number Journal|$UsnJrnl]]
+- [[NTFS Index Attributes|$I30]]
