@@ -20,3 +20,6 @@ tags:
 - [[Hibernation File]]
 - [[Windows Transaction Logs]]
 - [[New Technology File System|NTFS]]
+	- [[Master File Table|MFT]]
+- [[Windows Prefetch Files]]
+- [[Windows Event Viewer]]

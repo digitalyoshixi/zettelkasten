@@ -7,6 +7,9 @@ aliases:
 Windows collects logs of every event that happens in its programs. The logs are collected and can be viewed in the event viewer.
 ![[Windows Event Viewer-20240706023925443.webp]]
 # Logs
+```
+C:\Windows\System32\winevt\Logs
+```
 ### Windows Logs
 There are 4 categories within windows' logs:
 1. **System:** Logs about drivers and system files
