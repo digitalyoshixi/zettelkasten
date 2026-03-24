@@ -184,3 +184,5 @@ aliases:
 - [[Do Plants Think]]
 - [[Global Workspace Theory]]
 - [[Chalmers Consciousness Criteria]]
+- [[Chalmers Could a Large Language Model be Conscious]]
+- [[Schwitzgebel AI and Consciousness]]

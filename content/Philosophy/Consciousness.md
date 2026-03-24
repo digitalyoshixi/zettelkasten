@@ -27,6 +27,11 @@ It is not strictly:
 - [[Local Recurence]]
 - [[Panpsychism]]
 	- [[Integral Information Theory]]
+- [[Chalmers Consciousness Criteria]]
 # Markers
 - [[Self Report Criteria]]
 - [[Introspective Ability]]
+- [[Folk Psychology Criteria for Intentionality]]
+- [[Sensory Grounding]]
+- [[Turing Test]]
+- [[Domain General Intelligence]]
