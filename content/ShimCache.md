@@ -4,6 +4,7 @@ tags:
   - windows
 aliases:
   - Application Compatibility Cache
+  - AppCompatCache
 ---
 Feature to maintain compatibility for applications running on newer [[Operating System|OS]].
  - Logs information about executable files that have ran on the system (When executable run from any source, an entry is made)
