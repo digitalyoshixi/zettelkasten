@@ -4,6 +4,7 @@ tags:
   - security
   - windows
 ---
+![[Windows Forensics-20260324001312371.webp]]
 # Artifacts
 - [[Windows Registry]]
 	- [[AmCache]]
@@ -23,3 +24,5 @@ tags:
 	- [[Master File Table|MFT]]
 - [[Windows Prefetch Files]]
 - [[Windows Event Viewer]]
+- [[Windows Recent Activity]]
+- [[Windows Internet Explorer History]]

@@ -13,7 +13,6 @@ Uses clusters of blocks and file allocations tables like [[File Allocation Table
 - Disk quota
 - Smaller [[Cluster|Clusters]]
 # Concepts
-- [[Master File Table]]
 - [[NTFS System Files]]
 # Compression
 NTFS can auto compress files when you need it to, however OS must decompress everytime it wants to access it which takes a lot of time
