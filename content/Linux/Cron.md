@@ -14,3 +14,8 @@ Managed by background [[Daemon Process]] `crond`
 3. Write your task: `* */5 * * * /sbin/shutdown -r now` (will reboot every 5hrs)
 4. After saving, cron will update right away, no extra steps required.
 5. `crontab -l` to view saved tasks
+# Cron Job Location
+```
+/var/spool/cron/crontabs
+/etc/crontab
+```

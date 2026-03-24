@@ -12,5 +12,4 @@ Hives are located at:
 - `SOFTWARE`: contains keys about computer software configuration
 - `SYSTEM`: contains info stored in `HKLM\SYSTEM` about computer system config like event log policies
 - `DEFAULT`: contains default system info stored in key `HKEY_USERS\DEFAULT`
-- [[AmCache]]
 - [[Ntuser]]

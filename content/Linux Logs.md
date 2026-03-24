@@ -11,3 +11,5 @@ tags:
 - `cron.log`: contains information about creation of [[Cron]] jobs
 - `user.log`
 - `boot.log`
+# Alternative Logging Systems
+- [[journalctl]]
