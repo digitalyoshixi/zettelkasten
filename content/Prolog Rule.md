@@ -2,6 +2,8 @@
 tags:
   - programming
   - prolog
+aliases:
+  - Prolog Relation
 ---
 A [[Conditional Statement|Implication]] rule that specifies when a rule is true
 ```verilog
@@ -12,8 +14,9 @@ sibling(X,Y) :- parent(P,X),parent(P,Y).
 person(X) :- male(X).
 person(X) :- female(X).
 ```
-# Optional Variables
+# Function Notation
 ```
-isaParent(?X)
+isaParent(+X, ?Y)
 ```
-- `X` is an optional variable
+- `X` is always given
+- `Y` is an optional variable

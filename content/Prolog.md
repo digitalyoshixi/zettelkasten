@@ -19,3 +19,5 @@ Files end with `.pl`
 - [[Prolog SAT Solver]]
 - [[Prolog Trace]]
 - [[gtrace]]
+- [[Prolog Negation as Failure]]
+- [[Prolog Peano Axioms]]
