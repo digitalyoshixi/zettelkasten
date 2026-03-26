@@ -2,6 +2,8 @@
 tags:
   - PE
   - malware
+aliases:
+  - .data
 ---
 Part of the [[Section Table]]
 # Data section

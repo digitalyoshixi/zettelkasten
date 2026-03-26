@@ -20,6 +20,7 @@ A method to store and organize data in order to facilitate access and modificati
 - [[Least Recently Used Cache|LRU Cache]]
 - [[Hashmap]]
 - [[Skip List]]
+- [[Ring Buffer]]
 ### Trees
 - [[Tree]]
 - [[Binary Tree]]

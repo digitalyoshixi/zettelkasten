@@ -7,7 +7,7 @@ aliases:
   - Swap
 ---
 Page file is the file that contains all processes to be swapped in [[Virtual Memory]].
-This is similar to swap partitions in linux
+- Not allowed in data centers
 # `pagefile.sys`
 Windows will automatically create a pagefile located at:
 ```

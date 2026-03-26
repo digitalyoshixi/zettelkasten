@@ -2,6 +2,9 @@
 tags:
   - os
   - cpu
+aliases:
+  - Simultaneous Multithreading
+  - SMT
 ---
-A [[Central Processing Unit|CPU]] technology that allows one CPU to behave like multiple processors.
-Allows for [[Threads]]
+A usage of [[Multithreading]] for [[Intel]] processors. Allows for processes to have [[Process Thread]].
+![[Multithreading-20240731003448743.webp|513]]
