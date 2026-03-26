@@ -4,6 +4,8 @@ tags:
 aliases:
   - Linux Output Redirection
   - Linux Input Redirection
+  - Stream Redirection
+  - Bash Redirection
 ---
 Changing the standard input and standard output from the command line.
 # Input Redirection

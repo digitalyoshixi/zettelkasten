@@ -11,3 +11,4 @@ The scripting language that also allows you to automatically run commands are [[
 - [[Bash ;]]
 - [[Bash &]]
 - [[Bash &&]]
+- [[Linux Redirection|Stream Redirection]]
