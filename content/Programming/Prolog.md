@@ -3,7 +3,8 @@ tags:
   - programming
   - hardware
 ---
-A [[Hardware Description Language|Logical Programming]] language that heavily uses search.
+A [[Hardware Description Language|Logical Programming]] language that heavily uses search. Used heavily in [[Machine Learning]].
+- A prolog program is a [[Set]] of positive [[Horn Clause]]
 Files end with `.pl`
 # Concepts
 ### Core

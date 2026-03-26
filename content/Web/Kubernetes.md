@@ -17,7 +17,7 @@ Developed at [[Google]].
 - [[Docker Node]]
 - [[Docker Cluster]]
 - [[etcd]]
-- [[Declarative]]
+- [[Declarative Programming]]
 - [[minikube]]
 - [[kubectl]]
 - [[Kubernetes API]]

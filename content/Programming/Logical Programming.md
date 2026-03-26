@@ -1,6 +1,8 @@
 ---
 tags:
   - programming
+aliases:
+  - Logic Programming
 ---
 A form of [[Declarative Programming]] that specifies [[Relation]] between objects.
 System [[Instantiation|Instantiates]] objects to make relations true.

@@ -2,7 +2,7 @@
 tags:
   - math
 ---
-A set of [[Tuple]] showing how a set is related.
+A set of [[Tuple|Tuples]] indicating some relationship that each tuple satisfies.
 # Formal Definition
 A relation $R$ is a subset of [[Cartesian Product]] of two sets with a relation operation.
 $R \subset A \times B$.
