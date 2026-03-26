@@ -6,19 +6,24 @@ tags:
 A [[Hardware Description Language|Logical Programming]] language that heavily uses search.
 Files end with `.pl`
 # Concepts
+### Core
 - [[Prolog Fact]]
 - [[Prolog Query]]
 - [[Prolog Atom]]
 - [[Prolog Variable]]
 - [[Prolog Dont Care Variable]]
-- [[Prolog Rule]]
+- [[Prolog Functor]]
 - [[Prolog Operators]]
+- [[Prolog List]]
 - [[Unification]]
 - [[Backtracking]]
-- [[Warren Abstract Machine]]
-- [[swi-prolog]]
-- [[Prolog SAT Solver]]
 - [[Prolog Trace]]
 - [[gtrace]]
 - [[Prolog Negation as Failure]]
+- [[Warren Abstract Machine]]
+### Tools
+- [[swi-prolog]]
+### Cool Examples
+- [[Prolog SAT Solver]]
 - [[Prolog Peano Axioms]]
+- [[Prolog List Membership]]

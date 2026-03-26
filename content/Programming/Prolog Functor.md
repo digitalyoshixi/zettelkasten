@@ -4,7 +4,7 @@ tags:
   - prolog
 aliases:
   - Prolog Relation
-  - Prolog Functor
+  - Prolog Rule
 ---
 A [[Conditional Statement|Implication]] rule that specifies when a rule is true
 # Rules
