@@ -1,6 +1,9 @@
 ---
 tags:
   - programming
+aliases:
+  - Instance
+  - Instantiates
 ---
 A application of a [[Substitution]] to all of the free variables in a [[Propositional Formula|Formula]] or [[First Order Term|Term]].
 

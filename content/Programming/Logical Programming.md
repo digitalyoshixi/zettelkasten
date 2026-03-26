@@ -3,8 +3,8 @@ tags:
   - programming
 ---
 A form of [[Declarative Programming]] that specifies [[Relation]] between objects.
-System instantiates objects to make relations true.
-Thing are proven by search.
+System [[Instantiation|Instantiates]] objects to make relations true.
+Thing are proven by [[Search Algorithms]].
 # List
 - [[Prolog]]
 - [[Verilog]]
