@@ -119,3 +119,6 @@ aliases:
 - [[Logical Programming]]
 - [[Java Default Methods]]
 - [[Java Generics]]
+### Week 11
+- [[Horn Clause]]
+- [[Prolog Variable]]
