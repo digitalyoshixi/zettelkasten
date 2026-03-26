@@ -121,4 +121,12 @@ aliases:
 - [[Java Generics]]
 ### Week 11
 - [[Horn Clause]]
-- [[Prolog Variable]]
+- [[Prolog Variable Universality]]
+- [[Unification]]
+- [[Backward Chaining]]
+- [[Backtracking]]
+- [[Substitution]]
+- [[Instantiation]]
+- [[Common Instance]]
+- [[Unifier]]
+- [[Most General Unifier]]
