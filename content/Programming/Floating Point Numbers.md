@@ -2,21 +2,21 @@
 tags:
   - cpp
   - programming
+aliases:
+  - Float
 ---
-numerical values that hold decimal points.
-float: 4 bytes
-double: 8 bytes
-long double: 8,12,16 bytes
-
-you must use the `f` suffix after the value to denote they are floats. If you just make it decimal, it would default to double.
+Numerical values that hold decimal points can be [[Rational Number]] or [[Irrational Number]].
+- float: 4 bytes
+- double: 8 bytes
+- long double: 8,12,16 bytes
+Uses the `f` suffix in [[C++|CPP]]
 # Floating point precision
 Since, a decimal number can have infinite decimals, we cannot be able to store all digits.
-A float has 6 digits of lossless precision
-double values have 15 digits of lossless precision
-long double has at max 33 digits of lossless precision.
+- A float has 6 digits of lossless precision
+- double values have 15 digits of lossless precision
+- long double has at max 33 digits of lossless precision.
 
 [[iomanip]] can alter the precision of your digits
-
 # Scientific notation
 `123.453e-7` and `0.123E3` are all valid.
 every float is considered to be double, so the `e` notation serves for both float and double.

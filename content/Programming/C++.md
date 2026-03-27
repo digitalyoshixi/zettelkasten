@@ -90,7 +90,7 @@ int main(int argc, char const *argv[])
 - [[Header Files]]
 - [[Arithmetic Overflow]]
 - [[Fixed Width Integers]]
-- [[Floating Point Integers]]
+- [[Floating Point Numbers]]
 - [[C++ Booleans]]
 - [[C++ Typecasting]]
 - [[C++ Constants]]

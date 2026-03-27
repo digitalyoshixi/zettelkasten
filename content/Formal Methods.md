@@ -8,3 +8,6 @@ Using [[Rigor|Rigorous]] methods to meet [[Specification]] of a software or hard
 - [[Specification|Formal Specification]]
 - [[Program Synthesis|Formal Synthesis]]
 - [[Software Verification|Formal Verification]]
+# Techniques
+# Cases
+- [[Ariane 5 Rocket Explosion]]
