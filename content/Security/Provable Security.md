@@ -8,6 +8,7 @@ Proving aspects of a security system with regard to a [[Specification]] being th
 - [[Control Flow Graph|CFG]]
 - [[Calculus of Constructions|CoC]]
 - [[Cryptographic Attestation]]
+- [[Rice's Theorem]]
 # Papers
 - [[AI Assisted Formal Verification]]
 # Reading List

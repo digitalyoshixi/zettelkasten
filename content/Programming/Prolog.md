@@ -27,6 +27,7 @@ Files end with `.pl`
 - [[Warren Abstract Machine]]
 ### Tools
 - [[swi-prolog]]
+### Existing [[P]]
 ### Cool Examples
 - [[Prolog SAT Solver]]
 - [[Prolog Peano Axioms]]

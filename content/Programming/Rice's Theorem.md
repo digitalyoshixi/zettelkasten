@@ -2,6 +2,9 @@
 tags:
   - programming
   - compilers
+  - security
+aliases:
+  - Rices Theorem
 ---
 All non-trivial semantic properties of a program are [[Undecidable]].
 # Theorem
