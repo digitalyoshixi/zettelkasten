@@ -15,6 +15,7 @@ $$
 ```verilog
 sibling(X,Y) :- parent(P,X),parent(P,Y).
 ```
+- Uses [[Prolog Conjunction]]
 ### Disjoint Antecedents
 $$
 a_{1} \vee \dots \vee a_{n} \to c

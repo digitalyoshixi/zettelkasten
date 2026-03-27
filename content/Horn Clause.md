@@ -3,6 +3,8 @@ tags:
   - programming
   - machine_learning
 aliases:
+  - Negative Clause
+  - Positive Clause
 ---
 A [[Sentence|Clause]] that has a conclusion of antecedents.
 $$
@@ -18,5 +20,8 @@ There are no known solutions for defining rules for expression:
 - $a_{1} \wedge \dots \wedge a_{3} \to c_{1} \wedge c_{2}$
 - $a_{1} \wedge \dots \wedge a_{3} \to c_{1} \vee c_{2}$
 # [[Polarity]]
-- $\neg S \wedge \neg T \to c$
-- $\neg S \wedge \neg T \to c$
+- Negative clause: comprised of only negative terms
+	- $\neg S \wedge \neg T \to c$
+- Positive clause: comprised of terms that can be positive
+	- $S \wedge T \to c$
+	- $(\neg S \vee T) \wedge (\neg Q \vee S) \to c$
