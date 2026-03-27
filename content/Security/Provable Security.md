@@ -21,3 +21,6 @@ Proving aspects of a security system with regard to a [[Specification]] being th
 - https://aigi.ox.ac.uk/publications/verification-for-international-ai-governance/
 - https://arxiv.org/pdf/2303.07406
 - https://www.sandia.gov/app/uploads/sites/222/2024/02/twofv23_report.pdf
+- https://arxiv.org/pdf/1606.08514
+- https://arxiv.org/pdf/2109.10317
+- https://link.springer.com/article/10.1007/BF00849196
