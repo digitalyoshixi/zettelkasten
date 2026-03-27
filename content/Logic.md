@@ -10,3 +10,5 @@ The formal approach to studying reasoning.
 # Concepts
 - [[Subject]]
 - [[Predicate]]
+- [[Logical Connectives]]
+- [[Quantifier]]

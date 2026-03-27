@@ -19,3 +19,5 @@ python myfile.pyc
 marshal.loads()
 #Takes in a bytes object of the pyc object code
 ```
+# Decompiling
+- https://www.pylingual.io/
