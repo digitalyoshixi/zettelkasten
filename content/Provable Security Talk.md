@@ -13,3 +13,6 @@ tags:
 - [[Specification|Formal Specification]]
 - [[Program Synthesis|Formal Synthesis]]
 - [[Software Verification|Formal Verification]]
+### Specifications
+- [[Specification Language]]
+- [[Z Notation]]

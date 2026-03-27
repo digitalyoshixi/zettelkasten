@@ -5,7 +5,6 @@ tags:
   - philosophy
 aliases:
   - Formal Logic
-  - Symbolic Logic
   - Inference Rule
 ---
 Figures out what is true from something else.
