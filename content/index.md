@@ -16,6 +16,7 @@ I aim to make this obsidian vault bloated asf
 - [[Digital Forensics]]
 - [[Bluedot Technical AI Safety]]
 - [[Emulation|Emulator]]
+- [[Provable Security Talk]]
 # To Be Read
 - [[Blog Reading List]]
 - [[Textbook Reading List]]

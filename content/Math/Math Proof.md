@@ -2,11 +2,14 @@
 tags:
   - math
   - proofs
+aliases:
+  - Proofs
 ---
 A logical argument supported with established facts, following a logical sequence to establish the truth of a [[Lemma]]/[[Theorem]].
 1. You have a $F$ [[Theorem]] that you want to prove or disprove [[Rigor|Rigourously]]
 2. You work through steps to prove it
 # Statement Types
+- [[Implicati]]
 ### $P \Longrightarrow Q$
 First assume $P$ is true, then show $Q$ is also true
 We call $P$ the hypothesis, and $Q$ the conclusion.

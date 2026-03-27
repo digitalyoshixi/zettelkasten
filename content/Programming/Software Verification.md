@@ -1,8 +1,7 @@
 ---
 tags:
-  - software
-  - reverse_engineering
-  - programming
+  - projects
+  - verification
 aliases:
   - Formal Verification
 ---
