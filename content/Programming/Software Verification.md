@@ -11,6 +11,9 @@ The process of proving a software conforms to some formal standard.
 ### Static Verification
 - [[Software Proof]]
 - [[Software Inspections]]
+- [[Theorem Prover]]
+- [[Model Checking]]
+- [[Abstract Interpretation]]
 ### Dynamic Verification
 - [[Testing]]
 - [[Fuzzing]]
