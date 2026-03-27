@@ -13,7 +13,6 @@ Proving aspects of a security system with regard to a [[Specification]] being th
 - [[AI Assisted Formal Verification]]
 # Reading List
 - https://www.thegreatrefactor.org/
-- https://aiprospects.substack.com/p/breaking-software-bottlenecks
 - https://atlascomputing.org/ai-assisted-fv-toolchain.pdf
 - https://ifp.org/faster-ai-diffusion-through-hardware-based-verification/
 - https://flexheg.com/
