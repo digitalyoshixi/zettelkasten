@@ -24,6 +24,7 @@ Files end with `.pl`
 - [[Backtracking]]
 - [[gtrace]]
 - [[Prolog Negation as Failure]]
+- [[Prolog Cut]]
 - [[Warren Abstract Machine]]
 ### Tools
 - [[swi-prolog]]

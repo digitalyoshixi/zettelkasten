@@ -20,4 +20,5 @@ X;Y % OR
 X xor Y % XOR
 X -> Y % Implication
 X == Y % equality
+X is Y % arithmetic equality
 ```
