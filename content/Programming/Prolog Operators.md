@@ -2,6 +2,8 @@
 tags:
   - programming
   - prolog
+aliases:
+  - Prolog Connectives
 ---
 ![[Prolog Operators-20260325141416484.webp]]
 # List
@@ -12,5 +14,10 @@ tags:
 ### Binary
 ```
 X \= Y % not equal
-X = Y % equal
+X = Y % unification
+X,Y % AND
+X;Y % OR
+X xor Y % XOR
+X -> Y % Implication
+X == Y % equality
 ```

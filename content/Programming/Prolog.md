@@ -29,7 +29,8 @@ Files end with `.pl`
 - [[swi-prolog]]
 ### Existing [[Prolog Functor]]
 - [[Prolog append]]
-### Cool Examples
+- [[Prolog length]]
+### Custom Prolog Programs
 - [[Prolog SAT Solver]]
 - [[Prolog Peano Axioms]]
 - [[Prolog List Membership]]

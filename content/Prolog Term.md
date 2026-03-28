@@ -8,3 +8,4 @@ aliases:
 [[Induction|Inductive]] definition:
 - [[Prolog Atom|Prolog Constant]] or [[Prolog Variable]]
 - Applications to a n-ary [[Functor]]
+Must be evaluated to `true` or `false`
