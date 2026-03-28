@@ -20,6 +20,7 @@ Files end with `.pl`
 - [[Prolog Term]]
 - [[Prolog Operators]]
 - [[Prolog List]]
+- [[Prolog Pair]]
 - [[Unification]]
 - [[Backtracking]]
 - [[gtrace]]
