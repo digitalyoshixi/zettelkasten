@@ -119,6 +119,11 @@ int main(int argc, char const *argv[])
 - [[C++ Stack]]
 - [[C++ Iterator]]
 - [[C++ transform]]
+### FP
+- [[C++ Lambda Expressions]]
+- [[C++ FP Map]]
+- [[C++ Filter]]
+- [[C++ Fold]]
 # Guides
 - [[C++ Vector Slice]]
 # Specific Functions
