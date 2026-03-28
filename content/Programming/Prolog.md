@@ -29,6 +29,8 @@ Files end with `.pl`
 - [[Warren Abstract Machine]]
 ### Tools
 - [[swi-prolog]]
+### Libraries
+- [[PLUnit]]
 ### Existing [[Prolog Functor]]
 - [[Prolog append]]
 - [[Prolog length]]
