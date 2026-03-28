@@ -13,5 +13,5 @@ corepack prepare yarn@4.12.0 --activate
 ```
 # Using Yarn
 ~~~
-yarn
+corepack yarn
 ~~~
