@@ -4,7 +4,7 @@ tags:
 aliases:
   - Evaluation Strategy
 ---
-The method that a language uses to evaluate expressions
+eThe method that a language uses to evaluate expressions
 # Expression Evaluation
 - [[Eager Evaluation]]
 - [[Lazy Evaluation]]
