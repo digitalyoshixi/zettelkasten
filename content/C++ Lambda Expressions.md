@@ -16,3 +16,12 @@ The first segment of a lambda function is its capture clause `[]`.
 - `[&]`: capture all external variables by reference
 - `[=]`: capture all external variables by value
 - `[a, &b]`: capture variable 'a' by value, b by refernce
+```cpp
+std::string search{};
+std::cin >> search;
+
+// Capture @search                                vvvvvv
+auto found{ std::find_if(arr.begin(), arr.end(), [search](std::string_view str) {
+  return str.find(search) != std::string_view::npos;
+}) };
+```
