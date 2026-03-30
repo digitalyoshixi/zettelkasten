@@ -6,6 +6,7 @@ tags:
 aliases:
   - JIT Compilation
   - Run-time Compilation
+  - JIT
 ---
 A program that is compiled during execution time, rather than before execution.
 Commonly used in tandem with [[Interpreter|Interpreters]].

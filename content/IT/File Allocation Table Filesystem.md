@@ -10,6 +10,7 @@ The cluster size varies, but for our example lets say clusters are one [[Hard Dr
 Most files are larger than 4096 bytes, so they must be stored in several clusters.
 If a file is smaller than 4096 bytes, then we have wasted space (which we have to just accept because most of the time this wont happen)
 # FAT Types
+- [[FAT12]]
 - [[FAT16]]
 - [[FAT32]]
 - [[exFAT]]

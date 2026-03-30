@@ -49,3 +49,4 @@ The part of the CPU that computes arithmetic
 - [[CPU Overheating]]
 - [[CPU Architecture]]
 - [[CPU Cache]]
+- [[CPU Thread]]

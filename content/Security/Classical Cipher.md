@@ -10,5 +10,6 @@ Not cryptographically secure.
 - [[Polyalphabetic Substitution]]
 - [[Polygraphic Substitution]]
 - [[Keyphrase Substitution]]
+- [[Bacon Cipher]]
 # Attacks
 - [[Frequency Analysis]]

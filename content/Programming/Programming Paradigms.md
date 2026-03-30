@@ -15,7 +15,7 @@ The programmer instructs the machine how to change its state
 # [[Declarative Programming]]
 Programmer declares how to get a desired result but not how to compute it.
 - [[Functional Programming]]
-- [[Hardware Description Language|Logical Programming]]
+- [[Logical Programming]]
 - [[Reactive Programming]]
 # Other
 - [[Prototype Programming]]

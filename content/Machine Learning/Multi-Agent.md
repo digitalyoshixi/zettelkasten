@@ -2,6 +2,8 @@
 tags:
   - ai_safety
   - machine_learning
+aliases:
+  - Compound AI Systems
 ---
 An approach where multiple [[AI Agent|AI Agents]] are used to complete tasks.
 # Risks

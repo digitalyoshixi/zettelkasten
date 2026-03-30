@@ -1,6 +1,9 @@
 ---
 tags:
   - python
+aliases:
+  - Python Get Environment Variables
+  - Python Get env
 ---
 # Installation
 `pip install python-dotenv`

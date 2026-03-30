@@ -76,3 +76,8 @@ A course offered by [[Bluedot]].
 - [[Constitutional Classifier]]
 - [[AI Enabled Coups]]
 - [[Gradual Disempowerment]]
+### Week 6
+- [[Research Connectors]]
+- [[Research Iterators]]
+- [[Research Amplifiers]]
+- [[AI Resilience]]

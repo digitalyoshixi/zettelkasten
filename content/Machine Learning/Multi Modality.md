@@ -14,3 +14,4 @@ Allows machine learning models to take from different formats:
 - [[Time Series Data]]
 - [[Programming/Graph|Graph]] data
 - [[Set-Valued Data]]
+- Use [[Robot|Robotic Arms]]

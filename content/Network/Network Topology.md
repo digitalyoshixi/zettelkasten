@@ -25,7 +25,7 @@ Most common network topology
 ### Tree Topology
 ![[Network Topology-20240716170603208.webp|326]]
 Hierarchical topology where the main bus branches off into star-topologies.
-### Mesh Topology (WMN)
+### Mesh Topology ([[Wifi Mesh Network]])
 ![[Network Topology-20240716170704327.webp]]
 Every device on the network has a point-point connection with every other device on the network.
 This means each device can function similarly to a router.

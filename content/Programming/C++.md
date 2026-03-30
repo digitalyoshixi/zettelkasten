@@ -90,7 +90,7 @@ int main(int argc, char const *argv[])
 - [[Header Files]]
 - [[Arithmetic Overflow]]
 - [[Fixed Width Integers]]
-- [[Floating Point Integers]]
+- [[Floating Point Numbers]]
 - [[C++ Booleans]]
 - [[C++ Typecasting]]
 - [[C++ Constants]]
@@ -118,7 +118,12 @@ int main(int argc, char const *argv[])
 - [[C++ Variant]]
 - [[C++ Stack]]
 - [[C++ Iterator]]
-- [[C++ transform]]
+- [[Programming/C++ transform]]
+### FP
+- [[C++ Lambda Expressions]]
+- [[C++ Transform]]
+- [[C++ Filter]]
+- [[C++ Accumulate]]
 # Guides
 - [[C++ Vector Slice]]
 # Specific Functions

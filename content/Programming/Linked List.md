@@ -23,6 +23,7 @@ typedef struct node{
 Points to forward node and behind node
 ### Circular Linked List
 Last element is linked to first element. Thus no pointer points to NULL
+### [[Embedded Doubly Linked Lists]]
 # Guides
 - [[C Linked List Traversal]]
 - [[C Linked List Deletion]]

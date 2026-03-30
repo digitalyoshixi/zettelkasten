@@ -8,7 +8,7 @@ aliases:
 ---
 ![[Controllers-20240524195641944.webp|320]]
 Early Intel motherboards had 2 chipsets. 
-North bridge chip controlls:
+North bridge chip controls:
 - [[Central Processing Unit|CPU]]
 - [[Peripheral Component Interconnect Express]]
 - [[Random Access Memory|Memory]]

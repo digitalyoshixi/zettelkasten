@@ -1,6 +1,8 @@
 ---
 tags:
   - programming
+aliases:
+  - Java Linter
 ---
 A [[Java]] style checking tool.
 # Installation

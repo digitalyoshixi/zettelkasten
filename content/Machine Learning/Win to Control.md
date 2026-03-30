@@ -1,6 +1,9 @@
 ---
 tags:
   - ai_safety
+aliases:
+  - Race to the Top
+  - AI Arms Race
 ---
 A proposed method for keeping AI systems safe in lack of unified efforts.
 

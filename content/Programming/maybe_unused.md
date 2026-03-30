@@ -2,8 +2,7 @@
 tags:
   - cpp
 ---
-
-# \[\[maybe_unused\]\]
+A [[C++ Attribute Specifier]]
 To prevent warnings from occuring due to unused variables, before the variable type \[\[maybe_unused\]\]
 ```cpp
 int main()

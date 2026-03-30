@@ -7,3 +7,4 @@ tags:
 - Firmware vulnerabilities
 - [[End Of Life|EOL]]
 - [[Legacy Applications]]
+- [[Hardware Trojan]]

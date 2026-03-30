@@ -26,3 +26,4 @@ aliases:
 - [[echo]]
 - [[expr]]
 - [[test]]
+- [[shift]]

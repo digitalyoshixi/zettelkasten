@@ -20,6 +20,6 @@ aliases:
 4. [[zsteg]]
 5. [[steghide]]
 6. [[stegseek]]
-# [[Pcap]] Files
+# [[pcap]] Files
 1. https://apackets.com/
 2. [[Wireshark]]

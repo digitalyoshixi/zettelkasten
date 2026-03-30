@@ -5,7 +5,7 @@ tags:
   - philosophy
 aliases:
   - Formal Logic
-  - Symbolic Logic
+  - Inference Rule
 ---
 Figures out what is true from something else.
 To show that two arguments are equivalent, we could use a [[Truth Table]], but we could also use [[Deductive Reasoning]].

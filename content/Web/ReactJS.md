@@ -8,7 +8,7 @@ A [[JavaScript]] library that uses client-side JS, to create dynamic webpages.
 It is responsible only for making user interfaces.
 Maintained by [[Facebook]]
 It is:
-- [[Declarative]]
+- [[Declarative Programming]]
 - Client-sided. It can be very performance heavy on the end user's device.
 - Uses [[Single Page App Model]]
 [[React Native]] is for mobile applications.

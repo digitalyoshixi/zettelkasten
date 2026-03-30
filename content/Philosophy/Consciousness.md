@@ -10,7 +10,7 @@ It is not strictly:
 - [[Wakefulness]]
 - Responsiveness/awareness
 - [[Self-Consciousness]]
-# Concepts
+# Types
 - [[Ecological Consciousness]]
 - [[Developmental Consciousness]]
 - [[Medical Consciousness]]
@@ -18,3 +18,20 @@ It is not strictly:
 - [[Self-Consciousness]]
 - [[Unconsciousness]]
 - [[Phenomenal Consciousness]]
+- [[Access Consciousness]]
+- [[Self-Consciousness]]
+- [[Sentience]]
+# Theories
+- [[Global Workspace Theory]]
+- [[High Order Thought Theory]]
+- [[Local Recurence]]
+- [[Panpsychism]]
+	- [[Integral Information Theory]]
+- [[Chalmers Consciousness Criteria]]
+# Markers
+- [[Self Report Criteria]]
+- [[Introspective Ability]]
+- [[Folk Psychology Criteria for Intentionality]]
+- [[Sensory Grounding]]
+- [[Turing Test]]
+- [[Domain General Intelligence]]

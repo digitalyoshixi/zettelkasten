@@ -22,9 +22,10 @@ instance YesNo Integer where
 	yesno 0 = False
 	yesno _ = True
 
-instance YesNo [a] where
+instance (Show a) => YesNo [a] where -- a has a type restriction example
 	yesno [] = False
 	yesno _ = True
 ```
 # Examples
 - [[Haskell Eq]]
+- [[Haskell Show]]

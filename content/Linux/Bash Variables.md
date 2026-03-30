@@ -10,4 +10,5 @@ Callinga  variable is done by preprending a `$`. `echo $variablename`
 #!/bin/bash
 name=lintux # remember NO SPACES
 echo $name
+echo ${name}taro #echo only given ammount
 ```

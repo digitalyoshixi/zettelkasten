@@ -4,4 +4,10 @@ tags:
 aliases:
   - OSI Layer 6
 ---
-Defines and negotiates data formats like ASCII text, EBCDIC text, binary, BCD, JPEG and etc. Everything to do with formatting, even **encryption** is defined as a presentation layer service.
+Used for:
+- Negotiating data formats like ASCII text, [[EBCDIC]] text, binary, BCD, JPEG,etc.
+- Formatting
+- Encryption
+# Protocols
+- [[Transport Layer Security|TLS]]
+- [[Secure Sockets Layer|SSL]]

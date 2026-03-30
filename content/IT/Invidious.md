@@ -2,7 +2,7 @@
 tags:
   - IT
 ---
-A [[Youtube]] frontend for private video streaming.
+- [ ] A [[Youtube]] frontend for private video streaming.
 Uses [[yt-dlp]] as a backend for downloading videos.
 # Installation (Manual)
 https://docs.invidious.io/companion-installation/

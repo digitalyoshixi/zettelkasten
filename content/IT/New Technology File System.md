@@ -6,14 +6,13 @@ aliases:
 ---
 Window's preferred file system.
 Uses clusters of blocks and file allocations tables like [[File Allocation Table Filesystem|FAT]] does, but improves on:
-- Redundancy
-- Security
-- Compression
-- Encryption
+- [[IT/Journalling|Journalling]]
+- [[Permissions]]
+- [[Compression Algorithm|Compression]]
+- [[Full Disk Encryption|FDE]]
 - Disk quota
 - Smaller [[Cluster|Clusters]]
 # Concepts
-- [[Master File Table]]
 - [[NTFS System Files]]
 # Compression
 NTFS can auto compress files when you need it to, however OS must decompress everytime it wants to access it which takes a lot of time
