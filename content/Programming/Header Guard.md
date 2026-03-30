@@ -7,7 +7,7 @@ We need to avoid accidental double declarations.
 This may occur if we create a function inside a code that references the header file to a source code with the same function.
 
 # Solution
-put `#pragma once` at the start of each header file.
+Put `#pragma once` at the start of each header file.
 This is what `#pragma once` does:
 ```cpp
 #ifndef SOME_UNIQUE_NAME_HERE
