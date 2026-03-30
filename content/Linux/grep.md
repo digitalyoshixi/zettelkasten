@@ -11,3 +11,5 @@ Recursively search through all files for matches of a specific string.
 Search for a string and dont care about case
 # `grep -B3 -A3 "string"
 Search for string and also include 3 lines before, 3 lines after
+# `grep -oP "regex"`
+Returns all matches for a give [[Regular Expression|Regex]].
