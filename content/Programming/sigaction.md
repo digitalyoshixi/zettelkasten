@@ -40,8 +40,8 @@ int main(){
 	sigaction(SIGINT, &newact, NULL);
 	
 	for (;;){
-		if ((1++ % 50000000) == 0){
-			fprintf("stderr",".");
+		if ((i++ % 50000000) == 0){
+			fprintf(stderr,".");
 		}
 	}
 	return 0;
