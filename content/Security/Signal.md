@@ -2,6 +2,7 @@
 tags:
   - linux
   - os
+aliases:
 ---
 Communication signals sent from the OS to a process.
 Whenever these signals are sent to the process, the program must halt and handle this signal with its custom-defined handler function

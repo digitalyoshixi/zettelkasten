@@ -3,6 +3,7 @@ tags:
   - philosophy
 aliases:
   - Underground Octopus Experiment
+  - Bendu's Octopus
 ---
 # Thought Experiment
 - Imagine two humans communicate another through cables across two islands

@@ -189,3 +189,10 @@ aliases:
 ### Week 12
 - [[Moravec's Paradox]]
 - [[MMAcevedo]]
+- [[Agency Detection]]
+- [[Goodhart's Law]]
+- [[The Hard Problem of Consciousness]]
+- [[Teleology]]
+- [[Biocentrism]]
+- [[Moosavi Teleology Argument]]
+- [[Cell Learning Theory|Biological Computing]]

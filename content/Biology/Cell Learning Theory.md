@@ -10,3 +10,4 @@ A branch of [[Computer Science]] that seeks to compute with biological [[Biology
 - Good for finding the best path ([[Slime Mold Pathfinding]])
 # Concepts
 - [[Biological Circuits]]
+- [[Brain Emulation]]

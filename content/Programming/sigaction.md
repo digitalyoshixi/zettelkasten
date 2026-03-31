@@ -1,6 +1,8 @@
 ---
 tags:
   - programming
+aliases:
+  - C Signal Handling
 ---
 A [[C]] function that is used to overwrite the [[Process Control Block|PCB]] signal table so that once a signal is recieved, it will call a given function.
 ```c

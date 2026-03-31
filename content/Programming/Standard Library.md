@@ -27,3 +27,4 @@ A giant library of a variety of functions.
 # Libraries
 - [[stdio.h]]
 - [[stdbool.h]]
+- [[signal.h]]
