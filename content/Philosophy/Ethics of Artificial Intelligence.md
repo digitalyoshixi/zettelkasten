@@ -186,3 +186,6 @@ aliases:
 - [[Chalmers Consciousness Criteria]]
 - [[Chalmers Could a Large Language Model be Conscious]]
 - [[Schwitzgebel AI and Consciousness]]
+### Week 12
+- [[Moravec's Paradox]]
+- [[MMAcevedo]]
