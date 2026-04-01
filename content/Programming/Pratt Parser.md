@@ -13,3 +13,5 @@ To create it you must define a:
 # Binding Power
 This is the degree to which an operator should be preferred. There is a table of operators and their precedence.
 ![[Pratt Parser-20250129023941736.webp]]
+# Blogs
+- https://louis.co.nz/2026/03/26/pratt-parsing.html
