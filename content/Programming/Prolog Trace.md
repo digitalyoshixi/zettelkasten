@@ -2,6 +2,7 @@
 tags:
   - programming
 ---
+Follows the [[Byrd Box Model]]
 # Enter Trace Mode
 ```
 trace.

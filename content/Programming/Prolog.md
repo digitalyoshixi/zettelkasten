@@ -28,6 +28,7 @@ Files end with `.pl`
 - [[Prolog Negation as Failure]]
 - [[Prolog Cut]]
 - [[Warren Abstract Machine]]
+- [[Byrd Box Model]]
 ### Tools
 - [[swi-prolog]]
 ### Libraries
