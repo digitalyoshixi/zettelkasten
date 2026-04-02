@@ -31,6 +31,7 @@ Files end with `.pl`
 - [[Byrd Box Model]]
 - [[Prolog Instantiation]]
 - [[Prolog is]]
+- [[Prolog not]]
 ### Tools
 - [[swi-prolog]]
 ### Libraries

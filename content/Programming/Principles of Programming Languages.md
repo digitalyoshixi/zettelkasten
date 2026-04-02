@@ -134,3 +134,5 @@ aliases:
 - [[Prolog Search Tree]]
 - [[Logical Programming]]
 - [[Prolog List]]
+### Week 12
+- [[Closed World Assumption]]

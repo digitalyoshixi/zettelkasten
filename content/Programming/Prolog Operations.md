@@ -8,9 +8,7 @@ aliases:
 ![[Prolog Operators-20260325141416484.webp]]
 # List
 ### Unary
-```
-\+X % negation of X
-```
+- [[Prolog not]]
 ### Binary
 ```
 X \= Y % not equal

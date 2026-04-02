@@ -11,4 +11,4 @@ disjoint(X,Y) :- \+(overlap(X,Y)).
 false.
 ```
 - Overlap tries to become true first, since it becomes true, then disjoint will always be false
-- 
+It is hard to say when things are false.
