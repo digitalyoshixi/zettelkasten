@@ -28,7 +28,11 @@ aliases:
 - There will be [[Functional Programming Proofs]]
 - There will be type inference
 - There will be [[Tail Recursion]] with [[Continuation Passing Style|CPS]]
-- Racket [[Function Closures|Closure]]
+- [[Racket Closure]]
+- Prolog basic concepts
+- Java FP
+- Java type system
+- Haskell datatype and folding over them (ex4)
 # Concepts
 ### Week 1
 - [[Programming/Language|Language]]
