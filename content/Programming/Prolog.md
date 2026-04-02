@@ -29,6 +29,8 @@ Files end with `.pl`
 - [[Prolog Cut]]
 - [[Warren Abstract Machine]]
 - [[Byrd Box Model]]
+- [[Prolog Instantiation]]
+- [[Prolog is]]
 ### Tools
 - [[swi-prolog]]
 ### Libraries

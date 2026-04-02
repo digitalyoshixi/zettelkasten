@@ -8,6 +8,7 @@ A general purpose programming language that allows for direct [[Abstract Syntax 
 - [[Interpreter|Interpreted]]
 - [[Programming Paradigms|Multi-Paradigm]]
 LISP will teach you how to program better.
+![[List Processor-20260402153930186.webp]]
 # Implementations
 - [[Common LISP]]
 - [[Programming/Closure]]
