@@ -24,11 +24,11 @@ aliases:
 	- Ivan Bratko - Prolog - Programming for Artificial Intelligence
 - Markus to submit homework exercises for programming
 - Crowdmark to submit homework for hand-written
-# Midterm
+# Final
 - There will be [[Functional Programming Proofs]]
-- There will be [[Eta Reduce]] questions
-- Definitely haskell questions
-- Might be java questions, racket questions
+- There will be type inference
+- There will be [[Tail Recursion]] with [[Continuation Passing Style|CPS]]
+- Racket [[Function Closures|Closure]]
 # Concepts
 ### Week 1
 - [[Programming/Language|Language]]
