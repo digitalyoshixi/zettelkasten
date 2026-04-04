@@ -12,6 +12,7 @@ A method to store and organize data in order to facilitate access and modificati
 ### Arrays
 - [[Array]]
 - [[Linked List]]
+- [[Array List]]
 - [[Hash Array]]
 - [[Stack]]
 - [[Min Stack]]

@@ -69,3 +69,4 @@ aliases:
 - [[Djikstra's Algorithm]]
 ### Week 9
 - [[Amortized Time]]
+- [[Array List]]
