@@ -72,6 +72,7 @@ banner:
 - Make a UI library like [[Dear ImGUI]]
 - Three satelites that always point to somewhere, you can move around in 3d space and satelites will track that movement and generate a 3d image (Google maps) - could use [[MapboxGL]] as well
 - Make a wikipedia clone
-- [[Chinese Room]] video game
+- [[Chinese Room]] video game like overcooked
 - [[Cybernetics]] cola dispensor for stomach or baha blast machine
 - [[Content Disarm and Reconstruction]] tool
+- [[Code Synthesis]] compiler

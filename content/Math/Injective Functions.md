@@ -16,7 +16,7 @@ $\forall x_{1},x_{2}\in A:(f(x_{1}) = f(x_{2})) \implies (x_{1}=x_{2})$
 $T$ is injective $\Longleftrightarrow$ $ker(T) = \{  0 \}$
 # List of injective functions
 - [[Exponential functions]]
-- [[Logarithms]]
+- [[Logarithm]]
 - [[Even and Odd Functions|Odd Function]]
 # Theorems
 - [[Kernels and Injectivity Theorem]]

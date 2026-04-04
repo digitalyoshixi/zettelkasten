@@ -15,7 +15,7 @@ Where:
 - $v =g(x)$ is [[Differentiability|Differentiable]]
 ### Solving Process
 1. Pick $u$ and $dv$
-	1. Usually pick $u$ as a [[Logarithms]] or [[Inverse Trigonometric Functions]] if there is one in the LHS
+	1. Usually pick $u$ as a [[Logarithm]] or [[Inverse Trigonometric Functions]] if there is one in the LHS
 2. Compute $du$ and $v$
 3. Check $\int u\,dv = uv - \int v\,du$
 4. Remember there is one $+c$ at the very end

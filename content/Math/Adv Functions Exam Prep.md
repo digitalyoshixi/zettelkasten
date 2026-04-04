@@ -52,7 +52,7 @@ tags:
 
 # Unit 6/7
 - [[Exponential Functions]]
-- [[Logarithms]]
+- [[Logarithm]]
 - [[Logarithm Scales]]
 
 # Unit 8

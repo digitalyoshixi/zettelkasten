@@ -11,4 +11,4 @@ tags:
 - [[Similarity]]
 - 
 # Logarithms
-- [[Logarithms]]
+- [[Logarithm]]

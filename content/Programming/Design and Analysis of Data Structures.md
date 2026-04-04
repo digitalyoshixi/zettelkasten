@@ -71,6 +71,8 @@ aliases:
 - [[Amortized Time]]
 - [[Array List]]
 - [[Disjoint Set]]
+- [[Logarithm Star]]
 ### Week 10
+- [[Fibbonach]]
 ### Week 11
 ### Week 12
