@@ -73,6 +73,6 @@ aliases:
 - [[Disjoint Set]]
 - [[Logarithm Star]]
 ### Week 10
-- [[Fibbonach]]
+- [[Fibonacci Heap]]
 ### Week 11
 ### Week 12
