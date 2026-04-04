@@ -5,6 +5,9 @@ tags:
 # Definition
 - Given a data structure, let $D$ be size of data structure (size of stack, size of list, etc..)
 - Define a potential function $\phi(D_{i}) = \text{size of data structure after i operations}$
+	- Tracks number of stored elements
+	- Tracks distance from threshold
+	- Tracks how unbalanced a structure is
 - Let $t_{i} = time(\text{operation i})$
 - Let total time $t = \sum_{i=1}^{n}t_{i}$
 - Let the amortized cost $a_{i} = t_{i}+\phi(D_{i})-\phi(D_{i-1})$
@@ -14,3 +17,13 @@ tags:
 2. Prove $\phi(D_{n}) \geq \phi(D_{0})$ for all $n > n_{0}$ sequences of operations
 3. Let $t_{i} = time(\text{operation i})$
 4. Then, $a_{i}=t_{i}+phi(D_{i})-\phi(D_{i-1})$ (Note that this can be different for diff operations)
+# Example
+- Suppose data structure is [[Array List|Expandable Array]]
+- Define invariant as $\text{capacity}\leq 2 * size$
+- Define $\phi(D) = 2 * size - \text{capacity}$
+- Then, $\phi(D_{i}) \geq 0, \forall i$
+- Prove $\phi(D_{n}) - \phi (D_{0})\geq 0, \forall n \geq n_{0}=0$ operations
+- `get()`, `size()`, `set(i,x)` do not change size or capacity, $O(1)$
+- `add(x)`:
+	- If no copying (no resizing): $a_{i} = t_{i}+\phi(D_{i}) - \phi (D_{i-1}) = 1 + (2*(s+1)-c) - (2*s-c) = 3$
+	- If copying: $a_{i}=t_{i}+\phi(D_{i})-\phi(D_{i-1})=(c+1)+(2 * (s+1) - 2*c)-(2*s-c) = 3$

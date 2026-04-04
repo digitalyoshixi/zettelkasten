@@ -1,6 +1,9 @@
 ---
 tags:
   - programming
+aliases:
+  - Dynamic Array
+  - Expandable Array
 ---
 A general [[Data Structures and Algorithms|Data Structure]] that can grow/shrink in size.
 - [[C++ Vectors]]
