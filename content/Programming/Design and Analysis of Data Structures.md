@@ -70,3 +70,7 @@ aliases:
 ### Week 9
 - [[Amortized Time]]
 - [[Array List]]
+- [[Disjoint Set]]
+### Week 10
+### Week 11
+### Week 12

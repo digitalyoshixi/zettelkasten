@@ -4,7 +4,7 @@ tags:
 aliases:
   - Amortized Analysis
 ---
-A given method to analyze complexity of an algorithm by looking at resource usage on average.
+A given method to analyze complexity of an algorithm where multiple operations are performed that differ in expensiveness. 
 Amortized time is the total amortized cost divided by all operations performed.
 Gives a tighter bound than worse case analysis.
 ![[Amortized Time-20260404213259172.webp]]
