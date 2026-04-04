@@ -68,3 +68,4 @@ aliases:
 ### Week 8
 - [[Djikstra's Algorithm]]
 ### Week 9
+- [[Amortized Time]]
