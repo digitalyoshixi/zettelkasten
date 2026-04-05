@@ -14,6 +14,8 @@ mymap = {
 	"quint" : 1.2239
 }
 ```
+# Data Structure
+A array of size $m$ with a [[Hashing|Hash Function]] $h : U \to [0,\dots,m-1]$
 # Operations
 - `insert(k,v)`: insert a new key-value pair `k-v`
 - `delete(k)`: delete the node with key `k`

@@ -3,6 +3,8 @@ tags:
   - math
   - statistics
   - probability
+aliases:
+  - Uniform Probability
 ---
 # Definition
 $X \sim \text{Uniform}(u,l)$ takes values in interval $[l,u], l<u\in\mathbb{R}$ s.t probability of any subinterval $[a,b]$ is proportional to its length:

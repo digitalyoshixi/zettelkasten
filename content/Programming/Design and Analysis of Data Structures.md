@@ -83,3 +83,4 @@ aliases:
 - [[Collision Resolution]]
 - [[Independent Uniform Hashing]]
 - [[Load Factor]]
+- [[Universal Hashing]]
