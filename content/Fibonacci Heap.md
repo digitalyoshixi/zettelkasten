@@ -89,5 +89,27 @@ decrease-priority(H,x,k):
 				cut(H,y,y.parent)
 				y := y.parent
 		if x.key < H.min.key:
-			H.min := 
+			H.min := x
+cut(H,x,y): # remove a node from its parent y and move it to root list
+	remove x from children of y
+	add x to H.root_list
+	x.marked := false
+	if x.key < H.min.key:
+		H.min := x
 ```
+# Complexity Analysis
+Define:
+- $t(H)$: number of trees in heap $H$ (nodes in root list)
+- $d(H)$: degree of node with maximum heap in heap $H$
+- $D(n)$: maximum possible degree of fibonacci heap with $n$ nodes
+- $m(H)$: number of marked nodes in heap
+Then worst-case analysis:
+- `extract-min()` has complexity $O(t(H)+D(n))$
+- `decrease-priority(n,p)` has complexity $O(m(H))$
+We can define potential function $\phi(H) = t(H)+2*m(H)$
+- Insert changes potential with $\triangle(\phi) = \phi(H_{i})-\phi(H_{i-1}) = t(H_{i})+2*m(H_{i})-t(H_{i-1})-2*m(H_{i-1})=1$
+- Then, $a_{i} = t_{i}+ \triangle(\phi)=O(1) = \pi$
+- Amortized cost of decrease-priority is $O(1)$
+- Amortized cost of extract-min is $O(D(n))$
+Note that:
+- $N(d) = fib(d+2)$ - hence the name fibonacci heap

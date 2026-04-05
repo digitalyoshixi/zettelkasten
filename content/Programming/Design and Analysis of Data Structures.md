@@ -75,4 +75,8 @@ aliases:
 ### Week 10
 - [[Fibonacci Heap]]
 ### Week 11
+- [[Expected Analysis]]
+- [[Quick Sort]]
+- [[Randomized Quick Sort]]
 ### Week 12
+- [[Hashmap]]
