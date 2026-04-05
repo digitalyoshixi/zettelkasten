@@ -111,6 +111,6 @@ We can define potential function $\phi(H) = t(H)+2*m(H)$
 - Insert changes potential with $\triangle(\phi) = \phi(H_{i})-\phi(H_{i-1}) = t(H_{i})+2*m(H_{i})-t(H_{i-1})-2*m(H_{i-1})=1$
 - Then, $a_{i} = t_{i}+ \triangle(\phi)=O(1) = \pi$
 - Amortized cost of decrease-priority is $O(1)$
-- Amortized cost of extract-min is $O(D(n))$
+- Amortized cost of extract-min is $O(D(n))$ equivalent to $O(\log n)$
 Note that:
 - $N(d) = fib(d+2)$ - hence the name fibonacci heap
