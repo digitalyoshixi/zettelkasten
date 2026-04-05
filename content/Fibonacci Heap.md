@@ -90,6 +90,7 @@ decrease-priority(H,x,k):
 				y := y.parent
 		if x.key < H.min.key:
 			H.min := x
+			
 cut(H,x,y): # remove a node from its parent y and move it to root list
 	remove x from children of y
 	add x to H.root_list
