@@ -18,4 +18,5 @@ mymap = {
 - `insert(k,v)`: insert a new key-value pair `k-v`
 - `delete(k)`: delete the node with key `k`
 - `search(k)`: find node with key `k`
-- 
+# Types
+- [[Direct Addressing Hashmap]]

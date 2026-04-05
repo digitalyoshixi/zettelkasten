@@ -80,3 +80,6 @@ aliases:
 - [[Randomized Quick Sort]]
 ### Week 12
 - [[Hashmap]]
+- [[Collision Resolution]]
+- [[Independent Uniform Hashing]]
+- [[Load Factor]]

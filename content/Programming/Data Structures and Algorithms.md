@@ -65,3 +65,4 @@ A method to store and organize data in order to facilitate access and modificati
 - [[Dijkstra's Algorithm]]
 - [[Bellman-Ford Algorithm]]
 - [[A* Pathfinding]]
+- [[Collision Resolution]]

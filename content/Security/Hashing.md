@@ -5,7 +5,7 @@ tags:
 aliases:
   - Hash
   - Hashing Algorithms
-banner:
+  - Hash Function
 ---
 These are algorithms that provide one-way encodings.
 Often hashes are numerical.
