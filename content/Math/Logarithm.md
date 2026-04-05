@@ -39,4 +39,4 @@ $\log _b(\frac{m}{n})=\log_{b}(m)-\log_{b}(n)$
 - [[Logarithm Transformation|Example with Transformation]]
 # Concepts
 - [[Natural Logarithms]]
-- [[Logarithm Star]]
+- [[Iterated Logarithm]]

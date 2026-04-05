@@ -71,7 +71,7 @@ aliases:
 - [[Amortized Time]]
 - [[Array List]]
 - [[Disjoint Set]]
-- [[Logarithm Star]]
+- [[Iterated Logarithm]]
 ### Week 10
 - [[Fibonacci Heap]]
 ### Week 11
