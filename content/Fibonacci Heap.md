@@ -13,7 +13,7 @@ struct node_structure{
 	struct node_structure* right; 
 	struct node_structure* child; // ptr to one child
 	int degree; // number of children
-	bool marked; // used during decrease priority
+	bool marked; // indicates whether node has lost a child
 }
 ```
 ### Heap Structure
