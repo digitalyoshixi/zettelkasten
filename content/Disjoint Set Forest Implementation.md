@@ -36,7 +36,10 @@ find-set(node):
 		return find-set(node.parent)
 	return node
 ```
-Does not update ranks
+##### Path Compression Variant
+Find-set will update the parent link directly to the root.
+- Continue to go up parent until root node, assign parent to root
+![[Disjoint Set Forest Implementation-20260405164905036.webp]]
 # Complexity Analysis
 - Best disjoint set implementation is forests
 - Worse-case for $k$ operations with $n$ make-sets is $O(ka(n)) \in O(k \log^{*} n)$ 
