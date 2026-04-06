@@ -82,6 +82,8 @@ decrease-priority(H,x,k):
 	y := x.parent
 	if y != null and y.key > x.key:
 		cut(H,x,y)
+		
+		// cascading cut
 		while y.parent != null:
 			if not y.marked:
 				y.marked := true
@@ -89,6 +91,7 @@ decrease-priority(H,x,k):
 			else:
 				cut(H,y,y.parent)
 				y := y.parent
+				
 		if x.key < H.min.key:
 			H.min := x
 			
