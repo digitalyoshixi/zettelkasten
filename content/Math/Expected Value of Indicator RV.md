@@ -3,6 +3,8 @@ tags:
   - math
   - probability
   - statistics
+aliases:
+  - Expectation of Indicator RV
 ---
 The expected value of an indicator is the probability of its defining event
 # Theorem
