@@ -14,9 +14,10 @@ tags:
 - Then, the total amortized time is: $\sum_{i=1}^{n}a_{i} =t+\phi(D_{n})-\phi(D_{0})$
 # Proving Process
 1. Define $\phi(D_{i})$
-2. Prove $\phi(D_{n}) \geq \phi(D_{0})$ for all $n > n_{0}$ sequences of operations
-3. Let $t_{i} = time(\text{operation i})$
-4. Then, $a_{i}=t_{i}+phi(D_{i})-\phi(D_{i-1})$ (Note that this can be different for diff operations)
+2. Show $\phi(S) \geq 0, \forall S \in \Omega$ (greater than 0 for all states)
+3. Prove $\phi(D_{n}) \geq \phi(D_{0})$ for all $n > n_{0}$ sequences of operations
+4. Let $t_{i} = time(\text{operation i})$
+5. Then, $a_{i}=t_{i}+phi(D_{i})-\phi(D_{i-1})$ (Note that this can be different for diff operations)
 # Example
 - Suppose data structure is [[Array List|Expandable Array]]
 - Define invariant as $\text{capacity}\leq 2 * size$
