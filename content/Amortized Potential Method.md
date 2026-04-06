@@ -2,6 +2,7 @@
 tags:
   - programming
 ---
+A revision of the [[Amortized Accounting Method]] that is stateless and uses a potential function.
 # Definition
 - Given a data structure, let $D$ be size of data structure (size of stack, size of list, etc..)
 - Define a potential function $\phi(D_{i}) = \text{size of data structure after i operations}$
@@ -14,9 +15,9 @@ tags:
 - Then, the total amortized time is: $\sum_{i=1}^{n}a_{i} =t+\phi(D_{n})-\phi(D_{0})$
 # Proving Process
 1. Define $\phi(D_{i})$
-2. Show $\phi(S) \geq 0, \forall S \in \Omega$ (greater than 0 for all states)
-3. Prove $\phi(D_{n}) \geq \phi(D_{0})$ for all $n > n_{0}$ sequences of operations
-4. Let $t_{i} = time(\text{operation i})$
+2. Show $\phi(D) \geq 0, \forall D \in \Omega$ (greater than 0 for all states)
+3. Prove $\phi(D_{n}) \geq \phi(D_{n_{0}})$ for all $n > n_{0}$ sequences of operations
+4. Let $t_{i} = \text{actual time}(\text{operation i})$
 5. Then, $a_{i}=t_{i}+phi(D_{i})-\phi(D_{i-1})$ (Note that this can be different for diff operations)
 # Example
 - Suppose data structure is [[Array List|Expandable Array]]
