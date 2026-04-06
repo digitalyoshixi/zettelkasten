@@ -58,6 +58,7 @@ extract-min(H):
 	consolidate(H)	
 ```
 ### `consolidate(H)`
+Attempts to make sure all nodes in the list have a unique degree. Will find nodes that have the same degree and make the larger key a child of the node with the smaller key
 ```perl
 consolidate(H):
 	for each node n in H.root_list:
