@@ -3,7 +3,8 @@ tags:
   - programming
 ---
 A [[Heap]] operation that will bubble-down the top-most element as much as needed to maintain the heap property.
-![[Heapify-20260406203925909.webp]]
+Has a time complexity of $O(\log n)$
+![[Heapify-20260406204247608.webp]]
 # Algorithm ([[Max-Heap]])
 ```cpp
 #include <iostream>

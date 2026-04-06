@@ -3,6 +3,7 @@ tags:
   - programming
 ---
 Checks every element in the array. If the element to the left is smaller, then continuously swap until there is nothing smaller.
+Has a time complexity of $O(n^{2})$
 ![[Insertion Sort-20241122211007603.webp]]
 # Intuition
 You have a left hand and right hand. The left hand will have everything sorted, and the right hand is everything unsorted. Continue to pick from right hand that you insert into the left hand in order.
