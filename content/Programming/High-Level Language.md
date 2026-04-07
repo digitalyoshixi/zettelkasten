@@ -4,7 +4,7 @@ tags:
 aliases:
   - Programming Language
 ---
-These are languages meant for human understanding.
+These are languages meant for human understanding. They are a set of conventions for communication an [[Data Structures and Algorithms|Algorithm]].
 - [[Python]]
 - [[C]]
 - [[JavaScript]]
