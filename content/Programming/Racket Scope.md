@@ -37,14 +37,14 @@ aliases:
 			(lambda (x)
 				(if (= x 0))
 				#t
-				(my-odd? (-x 1))
+				(my-odd? (- x 1))
 			)
 		]
 		[my-odd?
 			(lambda (x)
 				(if (= x 0))
 				#f
-				(my-even? (-x 1))
+				(my-even? (- x 1))
 			)	
 		]
 		)
