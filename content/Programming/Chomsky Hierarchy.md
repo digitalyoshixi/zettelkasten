@@ -4,7 +4,7 @@ tags:
   - math
   - compilers
 ---
-# Hierarchy (Less restrictive to most restrictive)
+# Hierarchy (Most restrictive to least restrictive)
 1. [[Regular Grammar]]
 2. [[Context Free Grammar]]
 3. [[Context Sensitive Grammar]]
