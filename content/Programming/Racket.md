@@ -11,6 +11,7 @@ It is a [[Imperative Programming|Imperative Language]] with a [[Functional Progr
 - Proper [[Tail Recursion]]
 - Functions are values
 - Pass by value
+- [[Eager Evaluation]]
 # Installation
 ```
 sudo pacman -S racket
