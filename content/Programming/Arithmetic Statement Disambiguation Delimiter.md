@@ -17,7 +17,7 @@ A method to disambiguate [[Ambiguous Context Free Grammar]] by adding delimiters
 This is ambiguous and can produce `8 - 3 * 2`
 We can disambiguate with delimiters
 ```
-<expn> ->   (<expn>) + <expn> |
+<expn> ->   (<expn>) + (<expn>) |
 			(<expn>) - (<expn>) |
 			(<expn>) * (<expn>) |
 			(<expn>) / (<expn>) |
