@@ -48,7 +48,6 @@ racket -f myfile.rkt -i
 - [[Read-eval-print-loop]]
 - [[Racket Procedure]]
 - [[Racket Higher Order Procedure]]
-- [[Racket Parameter List]]
 - [[Racket Scope]]
 - [[Racket Closure]]
 - [[Racket Full Function Definition]]

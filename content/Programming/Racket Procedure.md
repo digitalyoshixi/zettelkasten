@@ -5,6 +5,7 @@ tags:
 aliases:
   - Racket Function
   - Racket Variable Length Argument Procedure
+  - Racket Parameter Lists
 ---
 A function.
 Applying a procedure has the form:

@@ -28,6 +28,6 @@ aliases:
 - `(foldr + 0 '(1 2 3)) => (+ 1 (+ 2 (+3 0)))`
 
 - `(foldl op id '()) => id`
-- `(foldl op id '(e1 e2 ... em)) => (((id op e1) op e2) ... op en) 
+- `(foldl op id '(e1 e2 ... em)) =>  (op en (op en-1 (op ... (op e1 id))))`
 # Ideas
 - [[fold and cons Correspondance]]
