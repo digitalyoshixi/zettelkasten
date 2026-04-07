@@ -6,3 +6,6 @@ tags:
 ```lisp
 "hello world!"
 ```
+# Queries
+- `string?`
+- `immutable?`
