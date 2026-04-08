@@ -125,6 +125,7 @@ aliases:
 - [[Java Generics]]
 - [[Relation]]
 ### Week 11
+- [[Prolog]]
 - [[Horn Clause]]
 - [[Prolog Variable Universality]]
 - [[Unification]]
