@@ -11,14 +11,15 @@ Similar to [[Continuation]]. *When you're done, call this next*
 # Example
 ```javascript
 
-hello(goodbye);
+sum(2,3,displayConsole);
 
-function hello(callback){
-	console.log("Hello");
-	callback();
+function sum(x, y, callback){
+	let result = x+y;
+	callback(result);
 }
 
-function goodbyte(){
-	console.log("Goodbye");
+function displayConsole(result){
+	console.log(result);
 }
+
 ```
