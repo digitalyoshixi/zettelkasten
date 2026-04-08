@@ -16,5 +16,4 @@ I aim to make this obsidian vault bloated asf
 - [[Emulation|Emulator]]
 - [[Provable Security Talk]]
 # To Be Read
-- [[Blog Reading List]]
-- [[Textbook Reading List]]
+- [[Reading List]]
