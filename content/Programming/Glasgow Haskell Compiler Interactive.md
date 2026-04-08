@@ -18,3 +18,5 @@ With `baby.hs` in the local directory,
 ```
 :q
 ```
+# Concepts
+- [[Join Points]]
