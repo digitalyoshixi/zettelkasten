@@ -5,5 +5,5 @@ tags:
 ---
 A [[Intermediate Operation]]
 ```java
-list.stream().map(number -> number * 3);
+list.stream().map((number) -> number * 3);
 ```

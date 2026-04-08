@@ -26,4 +26,5 @@ List<String> backtolist = stream.toList();
 - [[Java Stream map]]
 - [[Java Stream filter]]
 - [[Java Stream reduce]]
+- [[Java Stream sorted]]
 - [[Java Stream forEach]]
