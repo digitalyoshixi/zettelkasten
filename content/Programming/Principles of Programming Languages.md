@@ -141,3 +141,6 @@ aliases:
 - [[Prolog List]]
 ### Week 12
 - [[Closed World Assumption]]
+- [[Prolog Negation as Failure]]
+- [[Prolog Instantiation]]
+- [[Prolog Cut]]
