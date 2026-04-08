@@ -29,3 +29,5 @@ Philosophy is not:
 - [[Indian Philosophy]]
 - [[Chinese Philosophy]]
 - [[Western Philosophy]]
+# Tools
+- [[Philosophy Toolkit]]

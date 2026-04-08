@@ -2,7 +2,6 @@
 tags:
   - philosophy
 ---
-
 # Highlight all [[Definite Description]]s
 ### 'The'
 'The' is a common [[Definite Description]] that usually indicates that there is exactly one of **X**
@@ -19,7 +18,7 @@ If an argument is saying that the human visual system is poor, contrast the huma
 - Most notions of good are relative to something else.
 # Start with extreme counter-examples
 The best counter-examples are those that are extreme cases.
-- Politician telling you to never follow the advice of politicians ([[Self-referential Paradoxes]])
+- Politician telling you to never follow the advice of politicians ([[Self-Referential Paradox]])
 - X do not independently of minds -> minds do not exist independently of minds (Flipping the claim on its head)
 # [[Infinite Regress]]
 - Showing that a claim depends on some other propositions until there is no end
