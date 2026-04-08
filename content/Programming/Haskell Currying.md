@@ -7,6 +7,7 @@ aliases:
   - Uncurring
   - curry
   - uncurry
+  - Haskell Partial Evaluation
 ---
 The ability for [[Haskell Function]] to take portions of arguments, to define the rest of the function to work with an already supplied expression.
 # Example

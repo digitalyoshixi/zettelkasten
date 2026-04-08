@@ -17,3 +17,6 @@ tags:
 | \\=      | Check if not equal and return [[Haskell Type\|Boolean]] |
 | &&       | [[And]] and return [[Haskell Type\|Boolean]]            |
 | \|\|     | [[Or]] and return [[Haskell Type\|Boolean]]             |
+# Concepts
+- [[Haskell Function Operator Switching]]
+- [[Haskell Section]]

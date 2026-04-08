@@ -35,7 +35,7 @@ in `Main.hs`
 - [[Pointfree]]
 - [[Hoogle]]
 ### Essential
-- [[Haskell Operations]]
+- [[Haskell Operators]]
 - [[Haskell Type]]
 - [[Haskell Boxed Types]]
 - [[Haskell Unboxed Type|Haskell Primative]]
@@ -71,6 +71,7 @@ in `Main.hs`
 - [[Haskell Function]]
 - [[Haskell Anonymous Functions]]
 - [[Haskell Function Composition]]
+- [[Haskell Function Operator Switching]]
 ### Specific [[Haskell Typeclass]]
 - [[Haskell Show]]
 - [[Haskell Maybe]]
