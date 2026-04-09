@@ -79,6 +79,7 @@ racket -f myfile.rkt -i
 - [[Racket fold]]
 - [[Racket apply]]
 - [[Racket first]]
+- [[Racket second]]
 - [[Racket rest]]
 - [[Racket append]]
 - [[Racket list-ref]]
