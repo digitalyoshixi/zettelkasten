@@ -9,7 +9,7 @@ A goal `!` that always succeeds. Once satisfied, disallows:
 [[Tree Pruning|Prunes]] derivation tree of other choices on the way up to and including point in derivation tree.
 # Cut Colors
 - Green cut: cut does not change answers you get
-- Red cut: cut removes one of the solutions, try to avoid.
+- Red cut: cut removes one of the solutions. Okay in some instances where you only want one solution, but try to avoid.
 https://homepage.divms.uiowa.edu/~hzhang/c188/notes/ch08b-cut.pdf
 # Analogies
 - [[Cut River Analogy]]
