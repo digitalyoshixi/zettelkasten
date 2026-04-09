@@ -1,5 +1,7 @@
 ---
 tags:
   - programming
+aliases:
 ---
-A unevaluated value with a recipe that explains how to evaluate it.
+A [[Arity|Nilad]] function representing code to evaluate a expression.
+The thunk stores the unevaluated expression, to evaluate you must call the thunk.

@@ -8,6 +8,7 @@ tags:
 - [[Machine Learning Guided Compiler Optimizations Framework]]
 - [[Optimization Recommendations]]
 - [[Optimizations Stages]]
+- [[Pessimization]]
 # Methods
 - [[Static Single Assignment|SSA]]
 - [[Three Address Code]]
@@ -41,5 +42,6 @@ tags:
 - [[Global Value Numbering]]
 - [[Partial Redundancy Elimination]]
 - [[Register Allocation]]
+- [[Indirection Optimization]]
 # Courses
 - [[CS744]]
