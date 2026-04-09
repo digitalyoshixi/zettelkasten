@@ -17,7 +17,7 @@ tags:
 - [[Specification Language]]
 - [[Z Notation]]
 # Reading List
-- https://www.thegreatrefactor.org/
+- https://www.cs.utexas.edu/~bornholt/courses/cs345h-24sp/schedule/
 - https://atlascomputing.org/ai-assisted-fv-toolchain.pdf
 - https://ifp.org/faster-ai-diffusion-through-hardware-based-verification/
 - https://flexheg.com/

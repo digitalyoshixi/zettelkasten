@@ -16,3 +16,4 @@ tags:
 ### Reverse Engineering
 - https://www.msreverseengineering.com/program-analysis-reading-list
 ### [[Software Verification|Formal Verification]]
+- [[Provable Security Talk]]
