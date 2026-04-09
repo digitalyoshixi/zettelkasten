@@ -7,6 +7,10 @@ tags:
 (map proc '(l1 l2 ... ln))
 ```
 - `proc` is a n-ary [[Racket Procedure]]
+- `l1` is a list
+- `l2` is a list
+- ...
+- `ln` is a list
 Applies the function proc against all the inputs `l1`, ..., `ln`
 # Example
 ```
