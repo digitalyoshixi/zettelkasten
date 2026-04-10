@@ -16,7 +16,9 @@ a(_,X) :- b(X), c(X), !. -- cut at the end as soon as all goals suceed (used whe
 # Cut Colors
 - Green cut: cut does not change answers you get
 - Red cut: cut removes one of the solutions. Okay in some instances where you only want one solution, but try to avoid.
-https://homepage.divms.uiowa.edu/~hzhang/c188/notes/ch08b-cut.pdf
+	- If taking out cut produces more answers, the cut is red
+### Good Red Cut Example
+![[Prolog Cut-20260410165605925.webp]]
 # Analogies
 - [[Cut River Analogy]]
 # Example

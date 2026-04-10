@@ -32,6 +32,7 @@ Files end with `.pl`
 - [[Prolog Instantiation]]
 - [[Prolog is]]
 - [[Prolog not]]
+- [[Prolog call]]
 ### Tools
 - [[swi-prolog]]
 ### Libraries
