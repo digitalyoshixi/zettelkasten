@@ -117,3 +117,4 @@ in `Main.hs`
 - [[Haskell swap]]
 # Programs
 - [[Haskell Infinite Odd List]]
+- [[Haskell Last Element of List]]

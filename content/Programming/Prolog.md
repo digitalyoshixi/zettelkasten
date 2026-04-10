@@ -41,6 +41,7 @@ Files end with `.pl`
 ### Existing [[Prolog Functor]]
 - [[Prolog append]]
 - [[Prolog length]]
+- [[Prolog sort]]
 ### Custom Prolog Programs
 - [[Prolog SAT Solver]]
 - [[Prolog Peano Axioms]]
@@ -49,3 +50,4 @@ Files end with `.pl`
 - [[Prolog Factorial]]
 - [[Prolog Sum List]]
 - [[Prolog Equal Lists]]
+- [[Prolog Second Largest in List]]
