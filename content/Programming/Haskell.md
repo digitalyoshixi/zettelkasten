@@ -119,3 +119,6 @@ in `Main.hs`
 - [[Haskell Infinite Odd List]]
 - [[Haskell Last Element of List]]
 - [[Haskell Flatten Nested List]]
+- [[Haskell Compress List]]
+- [[Haskell Pack Sublists]]
+- [[Haskell Runtime Length Encoding]]
