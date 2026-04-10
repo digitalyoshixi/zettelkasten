@@ -45,3 +45,7 @@ Files end with `.pl`
 - [[Prolog SAT Solver]]
 - [[Prolog Peano Axioms]]
 - [[Prolog List Membership]]
+- [[Prolog Power]]
+- [[Prolog Factorial]]
+- [[Prolog Sum List]]
+- [[Prolog Equal Lists]]
