@@ -124,3 +124,4 @@ in `Main.hs`
 - [[Haskell Runtime Length Encoding]]
 - [[Haskell Modified Runtime Length Encoding]]
 - [[Haskell Decode Modified Runtime Length Encoding]]
+- [[Haskell Drop Elements of List]]
