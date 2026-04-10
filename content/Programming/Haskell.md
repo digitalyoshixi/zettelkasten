@@ -122,3 +122,5 @@ in `Main.hs`
 - [[Haskell Compress List]]
 - [[Haskell Pack Sublists]]
 - [[Haskell Runtime Length Encoding]]
+- [[Haskell Modified Runtime Length Encoding]]
+- [[Haskell Decode Modified Runtime Length Encoding]]
