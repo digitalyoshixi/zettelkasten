@@ -118,3 +118,4 @@ in `Main.hs`
 # Programs
 - [[Haskell Infinite Odd List]]
 - [[Haskell Last Element of List]]
+- [[Haskell Flatten Nested List]]
