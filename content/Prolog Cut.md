@@ -6,7 +6,13 @@ tags:
 A goal `!` that always succeeds. Once satisfied, disallows:
 - [[Backtracking]] over the cut
 - [[Backtracking]] and applying a different clause to same predicate to satisfy present goal
-[[Tree Pruning|Prunes]] derivation tree of other choices on the way up to and including point in derivation tree.
+[[Tree Pruning|Prunes]] derivation tree of other choices on the way up to and including point in derivation tree. In essence, we commit to our branch, no backtracking.
+# Cut Placement
+```prolog
+a(1,X) :- !, b(X), c(X). -- cut at the front means we commit as soon as unification succeeds
+a(_,X) :- b(X), !, c(X). -- cut in the middle as soon as a subgoal suceeds
+a(_,X) :- b(X), c(X), !. -- cut at the end as soon as all goals suceed (used when you have ; or cases)
+```
 # Cut Colors
 - Green cut: cut does not change answers you get
 - Red cut: cut removes one of the solutions. Okay in some instances where you only want one solution, but try to avoid.
