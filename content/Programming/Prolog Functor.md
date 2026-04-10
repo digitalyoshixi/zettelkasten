@@ -6,7 +6,8 @@ aliases:
   - Prolog Relation
   - Prolog Rule
 ---
-A [[Conditional Statement|Implication]] rule that specifies when a rule is true
+A [[Conditional Statement|Implication]] rule that specifies when a rule is true.
+The arguments must be [[Prolog Variable]] (NOT [[Prolog Atom]]).
 # Rules
 ### Conjoined Antecedents
 $$
