@@ -115,3 +115,5 @@ in `Main.hs`
 - [[Haskell Colon Operator]]
 - [[Haskell choose]]
 - [[Haskell swap]]
+# Programs
+- [[Haskell Infinite Odd List]]
