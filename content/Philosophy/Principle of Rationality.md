@@ -4,4 +4,5 @@ tags:
 aliases:
   - Rational Principle
 ---
-Activities aim at something worthwhile by drawing upon faculties and prosposition whose exercise gives pleasure to the doer and enlarges the doers understanding of reality
+Agents act objectively in the manner that suits them the best in all situtations.
+Humans act drawing upon their faculties and perceptions, and exercise to improve one's reality
