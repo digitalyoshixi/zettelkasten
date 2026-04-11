@@ -18,4 +18,3 @@ AI can have goals, but those goals do not constitute [[Moral Consideration|Moral
 - During training AI acts as a agent pursuing a goal.
 - Evolution is similar to [[Machine Learning]]. Evolution produces entities with teleos.
 - AI learns subgoals for given goal. Maybe these learned subgoals are your own goals.
-- 
