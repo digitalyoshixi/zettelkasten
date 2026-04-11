@@ -11,10 +11,10 @@ An argument of [[Existential Catastrophe]] arising from all intances of [[Artifi
 - P2: [[AI Agent|Agentic AI]] will arise that will be goal directed
 	- if goal directed superhuman AI is built, their output will be as bad as an empty universe by human lights
 	- Superhuman AI will inherently, even if its an [[Oracle Machine]], can be used with a [[Agent Harness]] to make it agentic
-- P3: [[Default Misalignment]]: If most goal directed [[Artificial Superintelligence|ASI]] will hav bad goals, the future will be very bad
+- P3: [[Default Misalignment]]: If most goal directed [[Artificial Superintelligence|ASI]] will have bad goals, the future will be very bad
 - P4: Alignment is difficult. Checking if AI is hard because we don't know until deployment
 - P5: [[Catastrophic Capability]]: AI agent misaligned goals -> Catastrophic outcome for humanity
-- C: We have non-trivial risk of [[Existential Catastrophe]] from Ai development
+- C: We have non-trivial risk of [[Existential Catastrophe]] from AI development
 # Counter Arguments
 - [[AGI Is Not Goal Directed]]
 - Goal directed systems may not always be bad
