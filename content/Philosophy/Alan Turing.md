@@ -8,6 +8,7 @@ tags:
 # Papers
 - [[Computational Machines and Intelligence]]
 # Concepts
+- [[Turing Test]]
 - [[Turing Machine]]
 - [[Halting Problem]]
 - [[Psychic|ESP]]
