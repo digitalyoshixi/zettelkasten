@@ -10,4 +10,4 @@ A argument by [[Ada Lovelace]] on the [[Analytical Engine]]
 # Turing Response
 - We can't assume AI can't do this, it will definitely change
 - Humans also don't do anything new, we only do things that we were already previously taught
-	- We never do anything wholy original
+	- We never do anything wholly original

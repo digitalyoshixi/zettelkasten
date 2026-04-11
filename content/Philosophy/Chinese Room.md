@@ -10,7 +10,7 @@ If you only understood the mappings between the english language to the Chinese 
 # Argument
 ```standardform
 P1. Person in chinese room doesn't understand chinese
-P1. Person in chinese room implements same program as if its someone who does understand chinese
+P2. Person in chinese room implements same program as if its someone who does understand chinese
 -- Conj --
 IC: Implementing a program isnt sufficient for understanding chinese
 C: Implementing a program isnt sufficient for having a mind

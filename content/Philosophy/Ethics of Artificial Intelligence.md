@@ -3,7 +3,7 @@ tags:
   - philosophy
   - machine_learning
 aliases:
-  - PHlB18
+  - PHLB18
   - AI Ethics
 ---
 # Notes
