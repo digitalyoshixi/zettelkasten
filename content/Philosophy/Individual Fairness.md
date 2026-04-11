@@ -5,4 +5,4 @@ tags:
 Fairness for specific individuals.
 Considers:
 - [[Merit]]
-- Equal chance
+- Equal opportunity chance
