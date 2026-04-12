@@ -28,6 +28,7 @@ It is not strictly:
 - [[Panpsychism]]
 	- [[Integral Information Theory]]
 - [[Chalmers Consciousness Criteria]]
+- [[Attention Schema Theory]]
 # Markers
 - [[Self Report Criteria]]
 - [[Introspective Ability]]
