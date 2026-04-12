@@ -11,7 +11,7 @@ AI can have goals, but those goals do not constitute [[Moral Consideration|Moral
 - P4: Teleology of artifacts are [[Constitutionally Derivative Goal|Constitutively Derivative]]
 - P5: The only evidence that AI is not an artifact comes from the process its created by ([[Machine Learning|ML]])
 - P6: ML does not give rise to non-derivative teleos, it only teaches subgoals that do not have its orgiginal goal. These are goals someone else gives it
-- P7: AI is smart but it was designed to mimic ([[Mimicry Argument]])
+- P7: Non-biological empathy doesn't work because we cant attribute the same reasoning for us to them. AI is smart but it was designed to mimic ([[Mimicry Argument]])
 - C: No evidence that AI will be morally patient
 # Objections
 - AI could actually show a [[Consciousness|Theory of Consciousness]] aside from [[Teleology]]

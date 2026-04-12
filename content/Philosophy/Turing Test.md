@@ -6,6 +6,7 @@ tags:
 If a human cannot tell if they are speaking to an AI or [[Turing Machine]], then that [[Artificial Intelligence]] can be considered intelligent.
 # Concepts
 - [[Imitation Game]]
+- [[Turing Indistinguishably]]
 # AI Knowledge Argument
 ```standardform
 P1: We are able to convert any cognitive task to precise finite rules in a formal language

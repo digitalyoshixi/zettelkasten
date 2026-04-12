@@ -9,3 +9,4 @@ tags:
 # Formal Definition
 Suppose observable feature $F_{1}$ provide good evidence for feature $F_{2}$.
 If you learn that a system is designed to $mimic(F_{1})$, then this evidential reason is undercut.
+![[Mimicry Argument-20260412193100045.webp]]
