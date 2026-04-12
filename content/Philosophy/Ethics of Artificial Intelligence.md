@@ -21,6 +21,11 @@ aliases:
 	- Raise a point of confusion
 - Midterm exam 20%
 - Final exam 40%
+# Exam Format
+- 15 multiple choice
+- 15 fill in the blank
+- 10 vocabulary questions
+- 5 short answer questions (summarize arguments)
 # Concepts
 ### Week 1
 - [[Machine Learning]]
