@@ -24,7 +24,7 @@ It is not strictly:
 # Theories
 - [[Global Workspace Theory]]
 - [[High Order Thought Theory]]
-- [[Local Recurence]]
+- [[Local Recurrence]]
 - [[Panpsychism]]
 	- [[Integral Information Theory]]
 - [[Chalmers Consciousness Criteria]]
