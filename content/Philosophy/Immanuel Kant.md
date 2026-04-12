@@ -19,5 +19,4 @@ It follows [[Moral Relativism|Moral Universality]]. For something to be good, it
 - [[Categorical Imperatives]]
 - [[Kant's Rule]]
 - [[Means to an End]]
-- [[End]]
 - [[External World Skepticism]]

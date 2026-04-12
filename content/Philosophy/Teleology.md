@@ -8,5 +8,8 @@ That rocks are sculpted to be the way they are not on accident.
 Many arguments attempt to prove purpose by expressing that there are [[Intellectual Design|Intellectual Designs]] created by higher beings.
 # Arguments
 - [[Paleys Watch]]
+- [[Default Maintenance Goal]]
 # Subdomains
 - [[Vitalism]]
+# Concepts
+- [[Constitutionally Derivative Goal|Constitutionally Derivative]]

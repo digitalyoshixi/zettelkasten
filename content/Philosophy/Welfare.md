@@ -9,3 +9,4 @@ Quantified by:
 - [[Hedonism]]
 - [[Preference Theory]]
 - [[Objective List Theory]]
+- [[Etiological Welfare]]

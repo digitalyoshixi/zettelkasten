@@ -3,6 +3,7 @@ tags:
   - biology
 aliases:
   - Darwinism
+  - Natural Selection
 ---
 The automatic process to change your capacities.
 # Conflict With Moral Realism
