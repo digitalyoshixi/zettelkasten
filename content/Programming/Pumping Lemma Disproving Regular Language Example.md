@@ -7,7 +7,7 @@ tags:
 With $\Sigma = \{ 0, 1 \}$
 With $L = \{ x \in \Sigma^{*} : x^{R} = x \}$
 Prove $L$ is not regular.
-- Suppose [[Proof By Direct Proof|For sake of Contradiction]], that $L$ is [[Regular Language]]
+- Suppose [[Proof By Contradiction|For Sake of Contradiction]], that $L$ is [[Regular Language]]
 - Let $n$ be as in the [[Pumping Lemma]]
 - Let $x = 0^{n} 1 0^{n} \in L$
 - Then, $|x| = 2n + 1 \geq n$

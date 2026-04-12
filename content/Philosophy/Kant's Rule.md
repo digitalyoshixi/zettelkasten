@@ -4,7 +4,6 @@ tags:
   - ethics
 ---
 *Act that you use humanity, whether in your own person or in the person of any other. Always at the same time as an end, never merely as a means*
-
 # Understanding This Rule
 ### Rationality is Sacred
 Kant believed that rationality is sacred. We are the only known creatures that can weigh moral decisions. 

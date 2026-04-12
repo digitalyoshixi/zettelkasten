@@ -199,5 +199,6 @@ aliases:
 - [[The Hard Problem of Consciousness]]
 - [[Teleology]]
 - [[Biocentrism]]
+- [[Will Intelligent Machines Become Moral Patients]]
 - [[Moosavi Teleology Argument]]
 - [[Cell Learning Theory|Biological Computing]]

@@ -2,6 +2,8 @@
 tags:
   - math
   - proofs
+aliases:
+  - For Sake of Contradiction
 ---
 Assume $P$ and $\neg Q$. End up with a contradiction. This would show that the inditial statement was false and prove $P \implies Q$
 Or
