@@ -10,4 +10,4 @@ tags:
 4. Cultural and international diversity (Names & Titles, Colors & Icons, Characters, Literacy)
 5. Users with disabilities (Applied to disability act)
 6. Older adult users (Variability in colors, and sizes)
-7. Children (variability in sizes, etc)
+7. Children (variability in sizes, etc)[[Human Computer Interaction]]
