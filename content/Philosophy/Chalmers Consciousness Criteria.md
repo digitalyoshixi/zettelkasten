@@ -4,7 +4,7 @@ tags:
   - philosophy
 ---
 # Criteria
-- Sensory experience
+- Sensory experience (perception)
 - Affective experience (feelings, emotions)
 - Cognitive experience (reasoning)
 - Agentic experience (action)
