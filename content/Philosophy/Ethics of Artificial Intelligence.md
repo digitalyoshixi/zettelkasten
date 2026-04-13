@@ -137,6 +137,7 @@ aliases:
 - [[Lying Flat]]
 - [[Antiwork]]
 - [[Windfall Clause]]
+- [[Universal Basic Income|UBI]]
 ### Week 9
 - [[Objective Driven AI|ODAI]]
 - [[If Anyone Builds It Everyone Dies]]
