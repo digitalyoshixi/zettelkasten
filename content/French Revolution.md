@@ -22,3 +22,11 @@ A event in 1788 created during the [[The Enlightenment]].
 - Revolution raid the Bastille to get weaponry
 - National assembly creates [[Declaration of Rights of Man and of the Citizen]]
 - Women demanded audience with king in Versaille, king moved to Paris
+- King let into revolutionary demand
+- King and queen flee to [[Austria]], caught
+- Revolutionary protest, revolutionary national guard fires upon own revolutionaries causing massacre
+- Revolution is split into radicals and moderates
+- French goes to war with Austria, fails
+- King and queen arrested
+- [[The Enlightenment]] moves
+- 
