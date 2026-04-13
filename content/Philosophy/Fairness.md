@@ -34,6 +34,7 @@ The concept of allowing actions to affect a wider population correctly.
 - [[Pareto Curve]]
 - [[Equality of False Negatives]]
 - [[Equality of False Positives]]
+- [[Equality of False Positives Within Groups]]
 - [[Equality of Positive Predicated Value]]
 - [[Equality of Negative Predictive Value]]
 - [[Equality of False-Positive Rate to False-Negative Rate]]
