@@ -122,6 +122,9 @@ aliases:
 - [[Industrial Revolution]]
 - [[Agricultural Revolution]]
 - [[Globalization]]
+- [[Economic Complement]]
+- [[Economic Substitute]]
+- [[AI Capital Substitution Problem]]
 ### Week 8
 - [[Philosophy/Work]]
 - [[Hedonism]]
@@ -192,6 +195,7 @@ aliases:
 - [[Chalmers Could a Large Language Model be Conscious]]
 - [[Schwitzgebel AI and Consciousness]]
 ### Week 12
+- [[Measurement Problem for Consciousness]]
 - [[Moravec's Paradox]]
 - [[MMAcevedo]]
 - [[Agency Detection]]

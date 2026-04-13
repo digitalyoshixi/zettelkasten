@@ -18,5 +18,8 @@ The ability for an entity to be given morality, and to have [[Ethics]] apply to 
 - [[Survivability Viability Criteria for Moral Consideration]]
 - [[Kamm Criteria for Moral Consideration]]
 - [[Good of Its Own Criteria for Moral Consideration]]
+- [[Teleology]]
+- [[Autonomy]]
+- [[Rationality]]
 ### Empirical Criteria
 - [[Relation Criteria for Moral Consideration]]
