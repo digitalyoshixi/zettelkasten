@@ -9,4 +9,5 @@ A form of [[Fairness]] that believes we should ascribe our actions from proporti
 - No groups should have more more acceptance than another
 # Example
 - Accept 25% of students from group A and 25% of students from group B
-- Problematic if the size of both groups is different
+- Problematic if the size of both groups is drastically different
+![[Proportionality-20260413030500217.webp]]
