@@ -114,7 +114,7 @@ aliases:
 - [[pipe()]]
 ### Week 8
 - [[Signal]]
-- [[sigaction]]
+- [[sigaction()]]
 - [[C raise()]]
 - [[C kill()]]
 - [[C waitpid]]

@@ -5,4 +5,5 @@ tags:
 ---
 The library for handling [[Signal]] in [[C]].
 # Exports
-- [[sigaction]]
+- [[sigaction()]]
+- [[signal()]]

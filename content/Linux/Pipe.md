@@ -6,6 +6,9 @@ A method used to establish [[Interprocess Communication|IPC]] between processes 
 1. Children share the same pipe. Allows for child-parent process communication
    ![[Pipe-20260304011051194.webp]]
 2. Pipes are unidirectional. You can read and write from the same pipe
+# Reading Writing Pipe
+- The writing pipe will write only if the reading pipe is empty or null
+- The reading pipe can read only if the writing pipe is empty or null
 # Pipe Communication Types
 ### Self Communication
 1. Create a pipe

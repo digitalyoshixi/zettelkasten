@@ -8,7 +8,7 @@ A [[C]] function that is used to overwrite the [[Process Control Block|PCB]] sig
 ```c
 int sigaction(int signum, const struct sigaction *act, struct sigaction *oldact)
 ```
-- `signum` is the [[Signal]]'s number\
+- `signum` is the [[Signal]]'s number
 - `act` is the sigaction struct
 - `oldact` is the previous state of the signal
 # Sigaction struct
