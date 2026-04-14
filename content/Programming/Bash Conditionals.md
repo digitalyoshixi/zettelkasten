@@ -4,8 +4,9 @@ tags:
   - bash
 ---
 ```bash
-if condition
-then
+if [ condition ]; then
+	action
+elif [ condition ]; then
 	action
 else
 	action

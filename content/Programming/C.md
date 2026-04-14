@@ -90,7 +90,7 @@ From these, you can make an
 - [[C memalign]]
 - [[free()]]
 ### In-line [[Assembly]]
-- [[C asm volatile]]
+- [[C asm]]
 ### Other
 - [[2's Complement]]
 # Experienced C Tricks

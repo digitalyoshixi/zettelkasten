@@ -76,7 +76,7 @@ int main(int argc, char const *argv[])
 - [[C++ Operators]]
 - [[C++ Functions]]
 - [[Metasyntactic Variables]]
-- [[Exit Enums]]
+- [[Exit Codes]]
 - [[C Conditional Statements]] 
 - [[C++ While Loops]]
 - [[C++ Forward Declaration]]

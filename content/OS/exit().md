@@ -7,3 +7,6 @@ A [[Syscall]] used to terminate a program. [[Process Termination]].
 ```
 echo $?
 ```
+# Concepts
+- [[Exit Codes]]
+- [[WIFEXITED()]]

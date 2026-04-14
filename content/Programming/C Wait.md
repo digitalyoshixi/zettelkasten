@@ -32,5 +32,7 @@ while ((wpid = wait(&status)) > 0); // this way, the father waits for all the ch
 printf("%d", WEXITSTATUS(status)); // get the return code
 
 //Father code (After all child processes end)
-
 ```
+# Exit Macros
+- [[WIFEXITED()]]
+- [[WEXITSTATUS()]]

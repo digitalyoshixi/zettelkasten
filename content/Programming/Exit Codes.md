@@ -3,8 +3,7 @@ aliases:
 tags:
   - cpp
 ---
-at the end of every main function, we return 0. this means that the program can exit successfully.
-Additionally, we can return 1 to say the program had an error
+The standard output meaning of [[exit()]]
 
 | exit code | meaning                                                           |     |     |     |     |
 | --------- | ----------------------------------------------------------------- | 

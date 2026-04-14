@@ -148,3 +148,4 @@ aliases:
 - [[POSIX Threads]]
 ### Week 12
 - [[Shell]]
+- [[Bash Programming|Shell Scripting]]

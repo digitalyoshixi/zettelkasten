@@ -2,6 +2,8 @@
 tags:
   - programming
   - c
+aliases:
+  - C inline Assembly
 ---
 Allows embedding of assembly instructions within C code.
 ```c
