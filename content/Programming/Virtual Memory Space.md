@@ -9,6 +9,7 @@ aliases:
 ---
 The space that a [[Linux Process]] gets during [[Linux Process Loading]].
 ![[Program Memory Layout-20250829224210554.webp|427]]
+- Size is from 0-$2^{32}-1$
 # Sections
 - Libraries
 - [[OS Stack]]

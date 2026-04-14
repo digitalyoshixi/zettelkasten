@@ -10,7 +10,6 @@ tags:
 #include <string.h>
 
 int main() {
-
     FILE *input_stream = fopen(filename, "rb");
     if (input_stream == NULL) {
         perror(filename);
