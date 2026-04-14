@@ -16,12 +16,15 @@ aliases:
 - SYNTAX MATTERS
 # Concepts
 - [[shebang]]
+- [[Command Substitution]]
 - [[Command Line Substitution|CLS]]
 - [[Bash Printing]]
 - [[Bash Comments]]
 - [[Bash Variables]] 
 - [[Bash User Inputs]]
+- [[Bash Quotes]]
 - [[Bash Conditionals]]
+- [[Bash Array]]
 - [[Bash Arguments]]
 - [[Shell Aliases]]
 # Useful Commands
