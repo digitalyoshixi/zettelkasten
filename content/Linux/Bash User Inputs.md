@@ -9,5 +9,5 @@ done with the `read` method. You dont even need to [[Initialization]] the variab
 ```bash
 #!/bin/sh
 read a
-echo $a
+echo "$a" # use quotations to allow whitespace, stars, etc
 ```

@@ -29,3 +29,9 @@ then
 	echo this is very suprising
 fi
 ```
+### Example 3
+```bash
+if [ $# -lt 1 ] then
+	echo "mymsg"
+fi
+```

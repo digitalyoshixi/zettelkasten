@@ -1,8 +1,0 @@
----
-tags:
-  - programming
-  - bash
----
-```bash
-
-```
