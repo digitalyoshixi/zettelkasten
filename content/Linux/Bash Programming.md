@@ -6,6 +6,7 @@ tags:
 aliases:
   - Shell Scripting
   - Bash Scripting
+  - Shell Programming
 ---
 - File has `.sh` file extension 
 - All bash scripts must start with the [[shebang]]: `#!/bin/sh` to run the bash shell
@@ -14,6 +15,7 @@ aliases:
 	- `./thefile.sh` if the sh file has `chmod a+x` permissions
 - SYNTAX MATTERS
 # Concepts
+- [[shebang]]
 - [[Command Line Substitution|CLS]]
 - [[Bash Printing]]
 - [[Bash Comments]]

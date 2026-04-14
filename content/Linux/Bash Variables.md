@@ -4,11 +4,12 @@ tags:
   - programming
 ---
 Creating a variable is done simply with: `variablename = value`
-Callinga  variable is done by preprending a `$`. `echo $variablename`
+Calling a variable is done by preprending `$`. `echo $variablename`
 
 ```bash
 #!/bin/bash
-name=lintux # remember NO SPACES
-echo $name
-echo ${name}taro #echo only given ammount
+NAME=linux # remember NO SPACES
+me="daniel" 
+echo $NAME
+echo ${NAME}taro #echo only given ammount
 ```

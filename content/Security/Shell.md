@@ -8,6 +8,7 @@ An interface between user and the OS systems kernel.
 They have two primary modes:
 - Interactive mode
 - Script mode stored [[Bash Programming|Shell Script]]
+List of shells stored at `/etc/shells`  
 # Shells
 - [[sh]]
 	- [[Version 7 Shell]]
@@ -27,3 +28,4 @@ They have two primary modes:
 5. Repeat
 # Concept
 - [[Command Line Substitution]]
+- [[Subshell]]
