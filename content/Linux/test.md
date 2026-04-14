@@ -1,6 +1,8 @@
 ---
 tags:
   - linux
+aliases:
+  - Bash test
 ---
 A command used to return 0 or 1 as an [[Exit Codes]].
 ```bash
@@ -10,6 +12,11 @@ $ echo $?
 $ test 3 -lt 3
 $ echo $?
 1
+```
+# Shorthand
+```bash
+test -d nodes
+[ -d nodes ] # equivalent
 ```
 # Numerical Comparisons
 ```bash
@@ -36,5 +43,6 @@ $a -ne $b # a != b
 -w filename # exists as writable
 -x filename # exists as executable
 -z string # exists as emptystring
-
+1 -a 1 # 1 and 1
+1 -o 0 # 1 or 0
 ```

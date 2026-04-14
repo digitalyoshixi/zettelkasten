@@ -24,6 +24,7 @@ aliases:
 - [[Bash User Inputs]]
 - [[Bash Quotes]]
 - [[Bash Conditionals]]
+- [[Bash Switch Statements]]
 - [[Bash Array]]
 - [[Bash Arguments]]
 - [[Shell Aliases]]
