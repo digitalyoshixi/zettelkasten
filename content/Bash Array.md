@@ -2,6 +2,8 @@
 tags:
   - programming
   - bash
+aliases:
+  - Bash List
 ---
 ```bash
 $ my_array=(apple banana orange)
