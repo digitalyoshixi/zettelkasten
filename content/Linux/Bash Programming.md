@@ -27,6 +27,7 @@ aliases:
 - [[Bash Array]]
 - [[Bash Arguments]]
 - [[Shell Aliases]]
+- [[Bash Expression]]
 # Useful Commands
 - [[echo]]
 - [[expr]]

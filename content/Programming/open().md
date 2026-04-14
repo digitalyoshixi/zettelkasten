@@ -2,6 +2,8 @@
 tags:
   - programming
   - c
+aliases:
+  - C open()
 ---
 ```c
 int open(const char *path, int flags)
