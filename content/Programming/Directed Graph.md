@@ -11,5 +11,5 @@ Often used for:
 - Prerequisites
 # Definition
 A directed graph $G$ is a pair $(V,E)$ of:
-- $V$ - [[Set]] of [[Graph Node|Vertices]]
-- $E$ - [[Set]] of [[Graph Edge|Edges]] where each edge specifies one direction $(a,b)$ is $a\to b$
+- $V$ - [[Math/Set]] of [[Graph Node|Vertices]]
+- $E$ - [[Math/Set]] of [[Graph Edge|Edges]] where each edge specifies one direction $(a,b)$ is $a\to b$

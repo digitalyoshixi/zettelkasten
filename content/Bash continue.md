@@ -3,14 +3,15 @@ tags:
   - programming
   - bash
 ---
-Used as a [[Break]] to exit out of loops.
+Used as a [[Continue]] within bash loops.
 ```bash
 #!/bin/bash
 
 for i in `seq 100`; do
   if [ $i -eq 20 ]; then
-    break
+    continue
   fi
   echo $i
 done
+
 ```

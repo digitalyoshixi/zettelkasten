@@ -6,7 +6,7 @@ A theory for describing items in mathematics
 # Axioms
 - [[Axiom of Choice|Axiom of Choice]]
 # Concepts
-- [[Set]]
+- [[Math/Set]]
 - [[Element]]
 - [[Subset]]
 - [[Intersection]]

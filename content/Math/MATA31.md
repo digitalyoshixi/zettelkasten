@@ -9,7 +9,7 @@ aliases:
 - Write down the rules you use during simplification
 - Think about what level of the course the question is to determine how much justification you need to give every question (for week 6 and above, you don't need to prove by inequality)
 # Precalculus Concepts
-- [[Set]]
+- [[Math/Set]]
 - [[Mathematical Symbols]]
 # Proof Terminology
 - [[Math Proof]]

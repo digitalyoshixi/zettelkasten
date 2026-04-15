@@ -3,7 +3,7 @@ tags:
   - math
   - linalg
 ---
-A [[Set]] $(R,+, \times)$ with [[Addition]] and [[Multiplication]] operators such that:
+A [[Math/Set]] $(R,+, \times)$ with [[Addition]] and [[Multiplication]] operators such that:
 1. [[Closed Under Addition]] ($\forall a,b \in R, a +b \in R$)
 2. [[Closed Under Multiplication]] $\forall a,b \in R, a \times b \in R$
 # Axioms

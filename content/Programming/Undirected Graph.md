@@ -6,5 +6,5 @@ tags:
 Links without any specific meaning.
 # Formal Definition
 A undirected graph is a pair $(V,E)$ of:
-- $V$ : [[Set]] of [[Graph Node|Vertices]] $\{ a,b,c,d,e \}$
-- $E$ : [[Set]] of edges where an edge is a [[Tuple|Pair]] of [[Graph Node|Vertice]]
+- $V$ : [[Math/Set]] of [[Graph Node|Vertices]] $\{ a,b,c,d,e \}$
+- $E$ : [[Math/Set]] of edges where an edge is a [[Tuple|Pair]] of [[Graph Node|Vertice]]

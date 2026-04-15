@@ -10,7 +10,7 @@ functions only return one output.
 # Formal Definition
 A [[Binary Relation]], [[Total Relation|Left Total Relation]] and [[Unique Relation|Right Unique Relation]]
 # Functions With Set Input
-- With [[Set]] $S$
+- With [[Math/Set]] $S$
 - Then, $f(S)= \{ f(x) | x \in S \}$
 # Types
 - [[Multi-Variate Function]]

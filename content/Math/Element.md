@@ -6,4 +6,4 @@ tags:
 aliases:
   - Elements
 ---
-An primary item belonging to a [[Set]]
+An primary item belonging to a [[Math/Set]]

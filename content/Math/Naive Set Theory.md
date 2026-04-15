@@ -12,7 +12,7 @@ In contrast to [[Axiomatic Set Theory]].
 # Generality
 - [[Sample Space]] $\sim$ [[Universal Set]]
 - [[Outcome]] $\sim$ [[Element|Elements]]
-- [[Event|Events]] $\sim$ [[Set|Sets]]
+- [[Event|Events]] $\sim$ [[Math/Set|Sets]]
 # Types
 - [[Universal Set]]
 - [[Empty Set]]

@@ -4,7 +4,7 @@ tags:
 aliases:
   - Union Find
 ---
-A [[Data Structures and Algorithms|Data Structure]] representing a [[Set]] that can perform set operations. Created to solve the [[Dynamic Connectivity Problem]].
+A [[Data Structures and Algorithms|Data Structure]] representing a [[Math/Set]] that can perform set operations. Created to solve the [[Dynamic Connectivity Problem]].
 Often used in [[Kruskal's Algorithm|Kruskals Algorithm]]
 # Operations
 - `make-set(x)`: create a set that contains `x`

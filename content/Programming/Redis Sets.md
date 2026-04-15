@@ -2,7 +2,7 @@
 tags:
   - database
 ---
-These are [[Set|Sets]] where items cannot be repeated.
+These are [[Math/Set|Sets]] where items cannot be repeated.
 # Operations
 - [[Redis SADD]]
 - [[Redis SMEMBERS]]
