@@ -12,24 +12,15 @@ Identified by [[IP Address]] + [[Port]]
 2. Server waits for client requests from specific port
 3. Request is received
 4. Server accepts connection from client
-# Socket Communication
+# UNIX Socket Communication
 ![[Sockets-20260318164717046.webp]]
-
-# Functions
+# UNIX Functions
 - [[socket()]]
-socket.socket() - create a socket
-socket.bind(host,port) - bind the socket to a host and a port
-
-**Socket send. instigate**
-
-socket.send() - send a signal
-
-**Socket receiving process**
-
-socket.listen() - constantly listen for a send signal
-
-socket.recv() - received the signal and decode the message
-
-**Socket closing**
-
-socket.close() - close the socket
+- [[socket send()]]
+- [[bind()]]
+- [[socket recv()]]
+- [[socket listen()]]
+- [[socket close()]]
+# Concepts
+- [[UNIX Socket Families]]
+- [[UNIX Socket Connection Type]]
