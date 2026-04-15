@@ -3,7 +3,7 @@ tags:
   - programming
   - c
 ---
-A function used to flush all the contents of a buffer into a given [[Stream]]
-```
-int fflush(FILE * stream);
+A function used to [[Flush]] all the contents of a buffer into a given [[Stream]]
+```c
+int fflush(FILE* stream);
 ```

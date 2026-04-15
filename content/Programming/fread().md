@@ -2,9 +2,11 @@
 tags:
   - programming
   - c
+aliases:
+  - C fread()
 ---
-Reads n items of data, each with size bytes nmemb byte long.
-Returns the number of items read or written.
+```c
+size_t fread(void *ptr, size_t size, size_t n, FILE *stream)
 ```
-size_t fread(void *ptr, size_t size, size_t nmemb, FILE *stream)
-```
+- Reads n items of data, each with size bytes n byte long.
+- Returns the number of items read or written.

@@ -2,8 +2,10 @@
 tags:
   - programming
   - c
+aliases:
+  - C rewind
 ---
+```c
+void rewind(FILE* stream)
 ```
-int fseek(FILE *stream, long offset, int whence)
-```
-Resets the internal file seek pointer to zero.
+Resets the internal [[fseek()|file seek]] pointer to zero.

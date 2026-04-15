@@ -7,11 +7,15 @@ aliases:
 ---
 A C function used to open a file.
 ```c
-FILE *fopen(cons char* path, const char* mode);
+FILE *fopen(const char* path, const char* mode);
 ```
 - `mode` can be:
 	- `"r"`: read
-	- `"r"`: read
+	- `"r+"`: read and write
+	- `"w"`: write
+	- `"w+"`: read and write, file created if doesn't exist
+	- `"a"`: append
+	- `"a+"`: read and append
 # Example
 ```c
 FILE *myfile = fopen("myfile.txt", "w");
