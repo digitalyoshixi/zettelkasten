@@ -7,7 +7,7 @@ Transmission of several messages across a single channel.
 - Return which blocks are ready
 - Return the original data
 # Methods
-- [[C select]]
-- [[C poll]]
-- [[epoll]]
+- [[select()]]
+- [[poll()]]
+- [[epoll()]]
 - [[kqueue]]
