@@ -152,11 +152,11 @@ aliases:
 - [[poll()]]
 - [[epoll()]]
 - [[Concurrency]]
-- [[Process Thread]]
+- [[Process Control Thread]]
 - [[Race Condition]]
 - [[Synchronization]]
 - [[Producer Consumer Relationship]]
-- [[POSIX Threads]]
+- [[POSIX Thread]]
 ### Week 12
 - [[Shell]]
 - [[Bash Programming|Shell Scripting]]

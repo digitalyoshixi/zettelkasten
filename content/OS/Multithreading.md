@@ -5,7 +5,7 @@ aliases:
   - Hyper-Threading Technology
   - HTT
 ---
-The protocols to manage multiple [[Process Thread]] per [[Process]].
+The protocols to manage multiple [[Process Control Thread]] per [[Process]].
 # Models
 - [[Multithreading Many to One]]
 - [[Multithreading One to One]]
