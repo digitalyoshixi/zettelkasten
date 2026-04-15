@@ -4,4 +4,4 @@ tags:
   - c
   - networking
 ---
-Family of [[Sockets]] for the Unix pipe facility.
+Family of [[Socket]] for the Unix pipe facility.

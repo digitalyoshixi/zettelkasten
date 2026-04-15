@@ -19,3 +19,4 @@ Often preferred because it makes [[Binary Addition]], [[2's Complement|Binary Su
 - The [[Most Significant Bit|MSB]] is stored first (leftmost)
 - The [[Least Significant Bit|LSB]] is stored `last (rightmost)
 ![[Endness-20250708160232230.webp|197]]
+Often used to transfer data over to network

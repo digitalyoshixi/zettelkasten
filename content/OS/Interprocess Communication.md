@@ -11,4 +11,4 @@ Allowing two processes that are executing together to communicate (share memory,
 - Convenience. User can delete a task without larger effect
 # Methods
 - [[Pipe]]
-- [[Sockets]]
+- [[Socket]]

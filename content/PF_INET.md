@@ -4,4 +4,4 @@ tags:
   - c
   - networking
 ---
-Family of [[Sockets]] for the Internet family.
+Family of [[Socket]] for the Internet family.

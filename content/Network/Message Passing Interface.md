@@ -4,4 +4,4 @@ tags:
 aliases:
   - MPI
 ---
-A usage of [[Sockets]] for quick network communication.
+A usage of [[Socket]] for quick network communication.
