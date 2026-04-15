@@ -36,9 +36,12 @@ Has commands:
 - `make clean`
 # Concepts
 - [[Make Variable]]
+- [[Make Rules]]
 - [[Make Suffix Rules]]
 - [[Make Pattern Rules]]
 - [[Make Target]]
+- [[Make Command]]
+- [[Make Invisible Command]]
 - [[Make PHONY Target]]
 - [[Make Dependency Graph]]
 # Examples

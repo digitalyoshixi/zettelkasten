@@ -20,6 +20,11 @@ Overwrites entire file
 ```
 ./program > result.txt
 ```
+### Redirection with [[File Descriptor]]
+```
+./somethingthatprintstostderr 2> output.txt
+```
+- Pipes [[Standard Error|stderr]] ([[File Descriptor|FD]] 2) to output.txt
 # Append Redirection
 Outputs results by appending into file
 ```
