@@ -15,18 +15,9 @@ Identified by [[IP Address]] + [[Port]]
 # Socket Communication
 ![[Sockets-20260318164717046.webp]]
 
-A method of two-way communication between 2 applications on the same network. It utilizes sockets/endpoint bound by port number on an ip so that the tcp layer can identify applications. A socket/endpoint is the combination of an ip address and port number.
-
-Nodes are colloquial terms for devices. One node listens on a particular port of an ip while the other reaches out the instigate a connection.
-
-  
-
-We are responsible for programming socket commands that perform different actions depending on what signal another node sends. The following is the process:
-
-**Socket creation**
-
+# Functions
+- [[socket()]]
 socket.socket() - create a socket
-
 socket.bind(host,port) - bind the socket to a host and a port
 
 **Socket send. instigate**

@@ -11,6 +11,8 @@ int sigaction(int signum, const struct sigaction *act, struct sigaction *oldact)
 - `signum` is the [[Signal]]'s number
 - `act` is the sigaction struct
 - `oldact` is the previous state of the signal
+- Returns 0 on success
+- Returns -1 on error
 # Sigaction struct
 ```c
 struct sigaction{
@@ -21,6 +23,15 @@ struct sigaction{
 	void (*sa_restorer)(void);
 }
 ```
+# Signal Masks
+```c
+int sigemptyset(sigset_t *set); // set mask no signal numbers
+int sigfillset(sigset_t *set); // set mask all signal numbers
+int sigaddset(sigset_t *set, int signo); // add signal to set
+int sigdelset(sigset_t *set, int signo); // remove signal to set
+int signalismember(sigset_t *set, int signo); // returns non-zero if signal part of set
+```
+- Used to store set of signals currently blocked
 # Example
 ```c
 #include <stdio.h>

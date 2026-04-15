@@ -117,8 +117,10 @@ aliases:
 ### Week 8
 - [[Signal]]
 - [[sigaction()]]
+- [[sigprocmask()]]
+- [[signal()]]
 - [[C raise()]]
-- [[C kill()]]
+- [[kill()]]
 - [[waitpid()]]
 ### Week 9
 - [[Shell]]
@@ -133,6 +135,7 @@ aliases:
 - [[Peter Singers Drowning Child]]
 - [[Morris Worm]]
 - [[Curious Burglar]]
+- [[]]
 ### Week 11
 - [[Endness]]
 - [[htonl]]
