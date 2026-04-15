@@ -90,7 +90,8 @@ aliases:
 - [[Process]]
 - [[fork()]]
 - [[execl]]
-- [[C Wait]]
+- [[wait()]]
+- [[waitpid()|waitpid]]
 - [[Make]]
 - [[Gnu Scientific Library]]
 ### Week 7
@@ -112,12 +113,13 @@ aliases:
 - [[open()]]
 - [[write()]]
 - [[pipe()]]
+- [[exit()]]
 ### Week 8
 - [[Signal]]
 - [[sigaction()]]
 - [[C raise()]]
 - [[C kill()]]
-- [[C waitpid]]
+- [[waitpid()]]
 ### Week 9
 - [[Shell]]
 ### Week 10

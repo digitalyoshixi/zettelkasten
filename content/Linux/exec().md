@@ -13,4 +13,4 @@ exec()
 - On success, does not return
 - On failure, returns -1
 Keeps:
-- [[Process ID|PID]], [[Parent Process ID]]
+- [[Process ID|PID]], [[Parent Process ID]], [[Signal]] table

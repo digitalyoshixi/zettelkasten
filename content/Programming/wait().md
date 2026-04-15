@@ -5,6 +5,7 @@ tags:
 aliases:
   - wait
   - reap
+  - C wait()
 ---
 A function that;
 - Suspends execution until one of the child processes terminates

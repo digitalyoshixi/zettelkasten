@@ -3,7 +3,13 @@ aliases:
 tags:
   - cpp
 ---
-The standard output meaning of [[exit()]]
+A number from $0-255$ representing the output status of a program.
+Sent by the [[exit]] syscall.
+
+Can be viewed with:
+- [[WEXITSTATUS()]]
+- [[WIFEXITED()]]
+# Standard Meanings
 
 | exit code | meaning                                                           |     |     |     |     |
 | --------- | ----------------------------------------------------------------- | 
