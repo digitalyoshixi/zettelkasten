@@ -6,6 +6,6 @@ tags:
 Used for pattern matching strings.
 - `%` can match zero or more characters
 ```c
-%.txt : %.html:
+%.txt : %.html
 	lynx -dump $< > $@
 ```
