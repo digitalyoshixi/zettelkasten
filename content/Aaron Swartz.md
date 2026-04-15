@@ -6,7 +6,7 @@ tags:
 aliases:
   - AaronSw
 ---
-A [[Martyr]] programmer that was killed by [[USA|US]] government.
+A [[Martyr]] programmer that was pressured into suicide by justice system.
 Activist for open free media.
 - Mass downloaded court documents, bypassing paywalls
 - Mass downloaded JSTOR papers, bypassing [[Rate Limitting]]
