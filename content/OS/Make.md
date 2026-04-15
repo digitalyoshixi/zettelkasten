@@ -34,6 +34,23 @@ Has commands:
 - `make all`
 - `make hellow`
 - `make clean`
+# Usage
+```
+make
+```
+- Runs the first rule it finds
+```
+make rule
+```
+- Runs the given rule
+```
+make -j 8
+```
+- Run 8 jobs to execute recipes simultaneously
+```
+make help
+```
+- Returns the self-written [[Make Comments]]
 # Concepts
 - [[Make Variable]]
 - [[Make Rules]]
@@ -44,5 +61,6 @@ Has commands:
 - [[Make Invisible Command]]
 - [[Make PHONY Target]]
 - [[Make Dependency Graph]]
+- [[Make Comments]]
 # Examples
 - [[Make File Featurefull Example]]

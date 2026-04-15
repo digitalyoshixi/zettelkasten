@@ -3,14 +3,19 @@ tags:
   - internet_culture
   - history
   - politics
+aliases:
+  - AaronSw
 ---
-A programmer that was killed by [[USA|US]] government.
+A [[Martyr]] programmer that was killed by [[USA|US]] government.
 Activist for open free media.
 - Mass downloaded court documents, bypassing paywalls
 - Mass downloaded JSTOR papers, bypassing [[Rate Limitting]]
+- Performed [[MAC Address Spoofing]], IP address changing
 # Creations
 - [[Really Simple Syndication|RSS]]
-- [[Reddit]] port from [[List Processor|LISP]] to [[Python]]
+- [[Reddit]]
 - [[Internet Archive]]
 - [[Creative Commons]]
+# Movements
 - [[Guerilla Open Access Manifesto]]
+- [[Internet Go Dark]]
