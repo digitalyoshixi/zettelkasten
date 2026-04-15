@@ -2,8 +2,17 @@
 tags:
   - programming
   - c
+aliases:
+  - C fopen()
 ---
 A C function used to open a file.
+```c
+FILE *fopen(cons char* path, const char* mode);
+```
+- `mode` can be:
+	- `"r"`: read
+	- `"r"`: read
+# Example
 ```c
 FILE *myfile = fopen("myfile.txt", "w");
 

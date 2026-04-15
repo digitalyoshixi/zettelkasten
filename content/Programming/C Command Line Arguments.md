@@ -8,9 +8,9 @@ inside the main method, you can take a few arguments.
 ```c
 int main(int argc, char *argv[])
 ```
-`argc` will be how many arguments are given. arguments delimited by space ' '
-`argv` is a array of strings. just index it normally
-
+- `argc` will be how many arguments are given. arguments delimited by space ' '
+- `argv` is a array of strings. just index it normally
+	- `argv[0]` is the program name
 # Printing all arguments
 The first argument will always be the file name
 ```c
