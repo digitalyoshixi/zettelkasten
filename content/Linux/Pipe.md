@@ -3,9 +3,9 @@ tags:
   - linux
 ---
 A method used to establish [[Interprocess Communication|IPC]] between processes of the parent and child.
-1. Children share the same pipe. Allows for child-parent process communication
+- [[Child Process]] shares the same pipes to allow for child-parent communication
+- Pipes are unidirectional, you can read and write from same ppe
    ![[Pipe-20260304011051194.webp]]
-2. Pipes are unidirectional. You can read and write from the same pipe
 # Reading Writing Pipe
 - The writing pipe will write only if the reading pipe is empty or null
 - The reading pipe can read only if the writing pipe is empty or null

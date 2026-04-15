@@ -7,6 +7,11 @@ aliases:
 ---
 A [[Syscall]] used to create a [[Pipe]].
 ```c
+int pipe(int pipefd[2]);
+```
+- Returns `0` on success
+- Returns `-1` on error
+```c
 int fd[2]; // two arrays, fd[0] is read, fd[1] is write
 pipe(fd);
 ```
