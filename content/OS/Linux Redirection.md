@@ -6,6 +6,7 @@ aliases:
   - Linux Input Redirection
   - Stream Redirection
   - Bash Redirection
+  - Append Redirection
 ---
 Changing the standard input and standard output from the command line.
 # Input Redirection
@@ -14,7 +15,13 @@ Provides hello as input
 ./program < "hello"
 ```
 # Output Redirection
-Outputs the results into a file
+Outputs the results into a file.
+Overwrites entire file
 ```
 ./program > result.txt
+```
+# Append Redirection
+Outputs results by appending into file
+```
+./program >> result.txt
 ```

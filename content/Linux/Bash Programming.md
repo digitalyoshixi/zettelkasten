@@ -36,6 +36,12 @@ aliases:
 - [[Bash continue]]
 - [[Bash Wildcard]]
 - [[Bash Functions]]
+# Useful Shell Features
+- [[Unix Pipe|Bash Pipe]]
+- [[Linux Redirection|Bash Redirection]]
+- [[Environment Variables]]
+- [[awk]]
+- [[sed]]
 # Useful Commands
 - [[echo]]
 - [[expr]]
@@ -45,3 +51,4 @@ aliases:
 - [[set]]
 - [[shift]]
 - [[read]]
+- [[trap]]
