@@ -22,7 +22,6 @@ aliases:
 - [[Bash Comments]]
 - [[Bash Variables]] 
 - [[Bash User Inputs]]
-- [[Bash Quotes]]
 - [[Bash Conditionals]]
 - [[Bash Switch Statements]]
 - [[Bash Array]]

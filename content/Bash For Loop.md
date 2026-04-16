@@ -4,7 +4,7 @@ tags:
   - bash
 ---
 ```bash
-for arg in [list] do
+for arg in list do
 	command
 done
 ```
