@@ -15,3 +15,4 @@ pid_t waitpid(pid_t pid, int *status, int options);
 - Options explains how to wait
 	- If option is 0, waitpid blocks like [[wait()]]
 	- If option is `WNOHANG`, it immediately returns 0 instead of blocking if there is no existing terminated child
+- Returns process of waited child on success, -1 on failure
