@@ -24,6 +24,8 @@ struct sigaction{
 }
 ```
 # Signal Masks
+Signal mask defined by a [[Bitmap]] `sigset_t sa_mask` corresponds to the signals that we want to block while the signal handler is running. So, on recieving signals, we will not interrupt the process.
+Can be modified with:
 ```c
 int sigemptyset(sigset_t *set); // set mask no signal numbers
 int sigfillset(sigset_t *set); // set mask all signal numbers
@@ -31,7 +33,6 @@ int sigaddset(sigset_t *set, int signo); // add signal to set
 int sigdelset(sigset_t *set, int signo); // remove signal to set
 int signalismember(sigset_t *set, int signo); // returns non-zero if signal part of set
 ```
-- Used to modify [[Bitmap]] of signals to block 
 - You can use [[sigprocmask()]] to manage this bitmap as well
 # Signal Flags
 ```c
@@ -47,7 +48,7 @@ SA_RESETHAND // restore signal to default action on entry to signal handler
 #include <unistd.h>
 
 void handler(int code){
-	fprintf(stderr, "Signal %d caught\n", code);
+	write(stderr, "Signal %d caught\n", 40); // write is async safe
 }
 int main(){
 	int i = 0;

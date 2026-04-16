@@ -3,12 +3,12 @@ tags:
   - c
   - cpp
 ---
-General-purpose format conversion function that will output the given arguments with a given format to stdout.
-
-Example:
-`printf("%d %4 haha", 7,2314);`
-`7 2314 haha`
-
+General-purpose format conversion function that will output the given arguments with a given format to [[Standard Output|stdout]].
+Is not [[C Async Safe]]
+```c
+> printf("%d %4 haha", 7,2314);
+7 2314 haha
+```
 ### % formats
 | symbol | meaning                                                                         |
 | ------ | ------------------------------------------------------------------------------- |
