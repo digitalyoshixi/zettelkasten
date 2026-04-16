@@ -76,3 +76,4 @@ banner:
 - [[Cybernetics]] cola dispensor for stomach or baha blast machine
 - [[Content Disarm and Reconstruction]] tool
 - [[Code Synthesis]] compiler
+- A [[SIGSTOP]] and [[SIGCONT]] program/malware

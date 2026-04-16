@@ -4,5 +4,5 @@ tags:
   - linux
 ---
 [[Signal]] 17.
-Stop that cant be caught or ignored.
-Default action is to stop the process
+Stop until you receive [[SIGCONT]]. 
+Cannot be overwritten by [[signal()]]

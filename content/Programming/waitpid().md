@@ -10,7 +10,8 @@ aliases:
 ```c
 pid_t waitpid(pid_t pid, int *status, int options);
 ```
-- Process wants to block when no child has terminated
+- Process waits until given child has terminated
+	- if pid is -1, waits for any child
 - Status have the exit status of the child written to it
 - Options explains how to wait
 	- If option is 0, waitpid blocks like [[wait()]]

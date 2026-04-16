@@ -7,6 +7,10 @@ aliases:
 # Kill from ID
 1. `ps -a`
 2. `kill <pid>`
+# Kill with [[SIGKILL]]
+```
+kill -9 pid
+```
 # Pkill
 ```
 pkill "Processname"
