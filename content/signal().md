@@ -2,6 +2,8 @@
 tags:
   - programming
   - c
+aliases:
+  - C signal()
 ---
 ```c
 int signal(int signum, sighandler_t handler)
