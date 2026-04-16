@@ -157,6 +157,7 @@ aliases:
 - [[Synchronization]]
 - [[Producer Consumer Relationship]]
 - [[POSIX Thread]]
+- [[OpenMP]]
 ### Week 12
 - [[Shell]]
 - [[Bash Programming|Shell Scripting]]

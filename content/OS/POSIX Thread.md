@@ -15,10 +15,64 @@ The most common thread package on [[Unix]] systems.
 - [[pthread_exit()]]
 - [[pthread_detach()]]
 - [[pthread_self()]]
-# Example
+- [[pthread_mutex_init()]]
+- [[pthread_mutex_lock()]]
+- [[pthread_mutex_trylock()]]
+- [[pthread_mutex_unlock()]]
+- [[pthread_mutex_destroy()]]
+# Examples
+### Simple Fn Call Example
 ```c
-pthread_t thread_ID;
-int fd = open("afile", "r");
-int result = pthread_create(&thread_ID, NULL, myThreadFn, (void*)&fd);
-if (result != 0) printf("%s", strerror(result));
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <fcntl.h>
+#include <unistd.h>
+#include <pthread.h>
+
+typedef struct myArg {
+	int fd;
+	char name[25];
+} MyArg;
+
+void* myThreadLength(void *p){
+	MyArg *theArg = (MyArg*)p;
+	int* length = (int*)malloc(sizeof(int));
+	*length = strlen(theArg->name);
+	return length;
+}
+
+int main(){
+	int fd = open("afile", O_RDWR);
+	MyArg* p = (MyArg*)malloc(sizeof(MyArg));
+	p->fd = fd;
+	strncpy(p->name, "daniel", 7);
+  p->name[6]='\0';
+
+	pthread_t thread_ID;
+	void* status;
+	int err = pthread_create(&thread_ID, NULL, myThreadLength, (void*)p);
+	if (err != 0) {
+		printf("%s", strerror(err));
+	}
+  pthread_join(thread_ID, &status);
+  printf("%d", *(int*)status);
+
+  close(fd);
+  return 0;
+}
+```
+### Mutex Example
+```c
+pthread_mutex_t myMutex;
+int status;
+
+status = pthread_mutex_init(&myMutex, NULL);
+if (status != 0) printf("%s", strerror(status));
+pthread_mutex_lock(&myMutex);
+// critical section here
+pthread_mutex_unlock(&myMutex);
+
+status = pthread_mutex_destroy(&myMutex);
+if (status != 0) printf("%s", strerror(status));
 ```
