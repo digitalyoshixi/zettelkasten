@@ -24,8 +24,8 @@ aliases:
 - [[Time Complexity|Runtime Complexity]]
 - [[Runtime Bounding]]
 - [[Big O Notation]]
-- [[Big Theta Notation]]
 - [[Big Omega Notation]]
+- [[Big Theta Notation]]
 ### Week 2
 - [[Limit Theorem for Runtime Bounding]]
 - [[Binary Search Tree|BST]]
