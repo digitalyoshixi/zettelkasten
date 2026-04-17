@@ -54,9 +54,10 @@ int main(){
 	int i = 0;
 	struct sigaction newact;
 	newact.sa_handler = handler;
-	newact.sa_flags = 0; // default flags
-	sigemptyset(&newact.sa_mask) ; // block no signals during handler
 	newact.sa_flags = SA_RESTART; // allow automatic restart of interrupted syscalls
+	// newact.sa_flags = 0; // default flags
+	sigemptyset(&newact.sa_mask) ; // block no signals during handler
+	sigaddset(&newact.sa_mask, SIGINT); // allow blocking of interrupt signal
 	sigaction(SIGINT, &newact, NULL);
 	
 	for (;;){
