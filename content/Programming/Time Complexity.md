@@ -13,8 +13,9 @@ Input size depends on type of object:
 Running time $T(n)$ of an algorithm for input size $n$ is number of primitive operations/steps executed
 - Steps are machine independent
 # Complexity Types
-- Best-case
-- Average-case
-- Worst-case
+- Best-case ($T(n) = min_{|x|=n}\{ t(n) \}$)
+- Average-case ($T(n) = avg_{|x|=n}\{ t(n) \}$)
+- Worst-case ($T(n) = max_{|x|=n}\{ t(n) \}$)
+- [[Amortized Time]]
 # Calculating Runtime Complexity
 Total running time = $\text{machine dependent cost} * \text{num of times}$

@@ -16,8 +16,6 @@ aliases:
 ### Week 1
 - [[Data Structures and Algorithms]]
 - [[Algorithm Analysis]]
-- [[Big O Notation]]
-- [[Big Theta Notation]]
 - [[Programming/Algorithm]]
 - [[Human Genome Project]]
 - [[Electronic Commerce]]
@@ -25,6 +23,8 @@ aliases:
 - [[Insertion Sort]]
 - [[Time Complexity|Runtime Complexity]]
 - [[Runtime Bounding]]
+- [[Big O Notation]]
+- [[Big Theta Notation]]
 - [[Big Omega Notation]]
 ### Week 2
 - [[Limit Theorem for Runtime Bounding]]
