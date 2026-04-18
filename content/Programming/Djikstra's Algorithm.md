@@ -3,17 +3,19 @@ tags:
   - programming
 ---
 A shortest [[Path Finding|Graph Traversal]] algorithm on a [[Programming/Graph|Graph]].
-# Algorithm
+# Distance Algorithm
+A version of djikstra that will find the distance from a root node to all other nodes
+### Distance Algorithm
 - Given a [[Weighted Graph]]
 - Given a list of all nodes
 - Creating a empty list representing the distance from root node to each of the other nodes. Set all distances to infinity
 ![[Djikstra's Algorithm-20251023162944273.webp|327]]
-Algorithm repeats until finished:
+Algorithm repeats until no more unvisited nodes:
 1. Visit all [[Neighbour]] nodes, and update the distance by adding current node distance and the weighted edge and comparing if its smaller than the current distance
 ![[Djikstra's Algorithm-20251023163222601.webp|321]]
 2. Set current node to the neighbour with the smallest distance, and cross it out in unvisited node
 ![[Djikstra's Algorithm-20251023163240334.webp|325]]
-# Pseudocode
+### Pseudocode
 ```pascal
 PQ := new min-heap()
 PQ.insert(0, start) 
@@ -30,7 +32,7 @@ while not PQ.is-empty():
 			v.d := d' //PQ.decrease-priority(v, d')
 			v.pred := u
 ```
-# Complexity
+### Complexity
 - $n = |V|$
 - $m = |E|$
 - Total time worst case $O( (n+m)\log n)$

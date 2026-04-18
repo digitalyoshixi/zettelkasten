@@ -62,6 +62,7 @@ aliases:
 - [[Minimum Spanning Tree]]
 - [[Kruskal's Algorithm]]
 - [[Prim's Algorithm]]
+- [[General Cut Revision Theorem]]
 ### Week 8
 - [[Djikstra's Algorithm]]
 ### Week 9
