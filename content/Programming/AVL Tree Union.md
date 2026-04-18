@@ -14,7 +14,12 @@ $$
 $\Theta(n \log(\frac{m}{n}+1))$
 - $n = \text{numnodes}(T_{1})$
 - $m = \text{numnodes}(T_{2})$
-# Algorithm 
+# Algorithm
+### Join
+![[AVL Tree Union-20260418003724180.webp]]
+### Split
+![[AVL Tree Union-20260418004628815.webp]]
+### Union
 Can be implemented with a [[Divide and Conquer]] algorithm
 1. Split $T_{1}$ into smaller trees based off key
 2. Split $T_{2}$ into smaller trees based off key
