@@ -10,5 +10,5 @@ aliases:
 A specific element in a graph, that is optionally connected with a [[Graph Edge]]
 # Properties
 - [[Vertex Incident]]
-- [[Vertex Degree]]
+- [[Graph Degree|Vertex Degree]]
 - [[Vertex Adjacency]]

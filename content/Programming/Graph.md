@@ -16,6 +16,7 @@ Graph has a
 - [[Unweighted Graph]]
 # Concepts
 - [[Neighbour]]
+- [[Graph Degree|Vertex Degree]]
 - [[Graph Node]]
 - [[Graph Edge]]
 - [[Neighbourhood]]
@@ -26,7 +27,6 @@ Graph has a
 - [[Path Finding]]
 - [[Vertex Incident]]
 - [[Edge Endpoint]]
-- [[Vertex Degree]]
 - [[Vertex Adjacency]]
 - [[Graph Connected]]
 - [[Out Degree]]
