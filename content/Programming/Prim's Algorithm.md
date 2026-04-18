@@ -6,16 +6,20 @@ aliases:
   - Prims Algorithm
 ---
 A [[Greedy Algorithm|Greedy]] [[Data Structures and Algorithms|Algorithm]] to find [[Minimum Spanning Tree|MST]] by [[Breadth First Search|BFS]]
+![[Prim's Algorithm-20260418215614589.webp]]
 # Algorithm
+- Create a empty MST list of edges
 - Create a [[Priority Queue|Minimum Priority Queue]] of nodes to visit `to_visit[]` Each node has:
 	- A priority representing the shortest weighted edge connecting to the node
 	- A parent representing parent of edge to this node
 	- Queue has additional operation to change priority when-ever: `decrease-priority(vertex, new-priority)`
-- AlSet all the priorities to elements in `to_visit[]`
+- All all nodes of graph into `to_visit[]` with infinite priority
 - Pick an arbitrary node, add node to `to_visit[]` with 0 priority, no parent
-- Look at all visit-able edges from nodes inside the visited list, add the minimum edge's node to the `visited` list if it is not already within the `visited` list
-- priority(v) = minimum weight of any edge between v and tree
-- priority(v) = inf if no such edge
+- While to `to_visit[]` queue is non-empty:
+	- Extract the minimum element `u` of `to_visit`
+	- If `u.parent` not null, add the edge `(u, u.parent)` to MST
+	- Look at all visit-able edges:
+		- If the edge has a smaller weight for the corresponding endpoint node `node` in `to_visit`, update that `to_visit[node]` to have this edge weight as priority and `u` as parent
 # Pseudocode
 ```pascal
 S := new container() for edges

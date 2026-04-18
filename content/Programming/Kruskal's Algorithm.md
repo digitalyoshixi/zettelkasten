@@ -9,6 +9,7 @@ An algorithm to find a [[Minimum Spanning Tree|MST]] from a [[Weighted Graph]]
 1. Keep finding the minimum edges that don't result in a [[Graph Cycle|Cycle]] for the MST
 2. Do it again...
 # Storing Cluster
+![[Kruskal's Algorithm-20260418215635838.webp]]
 1. Each cluster is a linked list
 2. Merging two clusters is merging two linked lists
 # Complexity
