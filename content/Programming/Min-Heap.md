@@ -15,3 +15,4 @@ Items are inserted greatest to lowest priority.
 - [[enqueue]]
 - [[dequeue]]
 - [[Bubble Up]]
+- [[Heapify]]

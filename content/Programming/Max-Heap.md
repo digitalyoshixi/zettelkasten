@@ -11,3 +11,6 @@ Often used as a [[Sorting Algorithms|Sorting Algorithm]]
 - [[Heap Sort]]
 - [[Heap Insert]]
 - [[Heap Extract Max]]
+# Operations
+- [[Bubble Up]]
+- [[Heapify]]

@@ -12,8 +12,10 @@ A [[Binary Tree]]-based data structure where all levels are mostly filled (excep
 - right `2i + 2`
 - parent `Math.floor(i-1/2)`
 # Types
-- [[Heap Sort]]
-  [[Max-Heap]]
+- [[Max-Heap]]
 - [[Min-Heap|Min-Heap]]
+# Operations
+- [[Bubble Up]]
+- [[Heapify]]
 # Height
 $Height = \log(n)+1$
