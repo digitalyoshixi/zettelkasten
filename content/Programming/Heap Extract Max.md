@@ -10,7 +10,7 @@ extract-max(heap)
 ```
 - Removes the first element (max element) of the heap
 - Make the right-most element of the list the first element
-- Replace the first element with the left or right child (depending on if left > right or right > left) repeatedly given the heap property (bubble-down)
+- Replace the first element with the left or right child (depending on if left > right or right > left) repeatedly given the heap property ([[Heapify]])
 # Pseudocode
 ```
 extract-max():

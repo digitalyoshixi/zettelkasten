@@ -1,6 +1,8 @@
 ---
 tags:
   - programming
+aliases:
+  - Bubble Down
 ---
 A [[Heap]] operation that will bubble-down the top-most element as much as needed to maintain the heap property.
 Has a time complexity of $O(\log n)$
