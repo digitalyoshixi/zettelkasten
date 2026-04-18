@@ -4,7 +4,7 @@ tags:
 ---
 A revision of the [[Amortized Accounting Method]] that is stateless and uses a potential function.
 # Definition
-- Given a data structure, let $D$ be size of data structure (size of stack, size of list, etc..)
+- Given a data structure, let $D$ be state of data structure
 - Define a potential function $\phi(D_{i}) = \text{size of data structure after i operations}$
 	- Tracks number of stored elements
 	- Tracks distance from threshold
