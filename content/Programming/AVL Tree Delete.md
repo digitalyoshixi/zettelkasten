@@ -9,8 +9,8 @@ tags:
 	2. Case 2: V has one children: $O(1)$
 	3. Case 3: V has two children: $O(\log n)$
 		1. Find [[Successor Node]] $s$
-		2. Replace value of  key value pair of $s$ into $v$
-		3. Delete $s$, s's parent adopts $s$ child child
+		2. Replace value of node $v$ with $s$
+		3. Delete $s$, s's parent adopts $s$ right child
 # Code
 ```c
 AVL_Node* delete(AVL_Node* node, int key) {

@@ -5,7 +5,7 @@ aliases:
   - WBT Rebalance
   - WBT Rotation
 ---
-# Case 1 - Right Heavy Tree
+# Case 1 - Right Heavy Tree (Left Rotate)
 Assuming:
 - WBT is right-heavy ($\text{weight}(v.\text{right}) > \text{weight}(v.\text{left}) \times 3$)
 - $\text{weight(v.right.left)} < \text{weight(v.right.right)} \times 2$
@@ -53,5 +53,5 @@ balance by single counter-clockwise rotation.
 		12. $t+1 \leq 3(s+1)\leq 3(r+s+2)$ by 8.1
 		13. $r+1 < t+1 \leq 3(s+1)$ by 8.1, 10
 		14. $s+1 \leq 3(r+2)-t-1 = 3(r+1)+2-t \leq 3(r+1)$ when $t \geq 2$
-# Case 2 - Left Heavy Tree
+# Case 2 - Left Heavy Tree (Right rotate)
 When the [[Weight Balanced Binary Search Tree|WBT]] is left-heavy - single counter-clockwise rotation.
