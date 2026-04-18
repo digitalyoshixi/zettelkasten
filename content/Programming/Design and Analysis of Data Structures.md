@@ -60,6 +60,8 @@ aliases:
 - [[Kosaraju's Algorithm]]
 ### Week 7
 - [[Minimum Spanning Tree]]
+- [[Kruskal's Algorithm]]
+- [[Prim's Algorithm]]
 ### Week 8
 - [[Djikstra's Algorithm]]
 ### Week 9
