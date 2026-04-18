@@ -7,9 +7,12 @@ aliases:
 ---
 A [[Greedy Algorithm|Greedy]] [[Data Structures and Algorithms|Algorithm]] to find [[Minimum Spanning Tree|MST]] by [[Breadth First Search|BFS]]
 # Algorithm
-- Create a [[Priority Queue|Minimum Priority Queue]] of visited nodes `visited[]`
-	- Additional operation `decrease-priority(vertex, new-priority)`
-- Pick an arbitrary node, add node to `visited`  list
+- Create a [[Priority Queue|Minimum Priority Queue]] of nodes to visit `to_visit[]` Each node has:
+	- A priority representing the shortest weighted edge connecting to the node
+	- A parent representing parent of edge to this node
+	- Queue has additional operation to change priority when-ever: `decrease-priority(vertex, new-priority)`
+- AlSet all the priorities to elements in `to_visit[]`
+- Pick an arbitrary node, add node to `to_visit[]` with 0 priority, no parent
 - Look at all visit-able edges from nodes inside the visited list, add the minimum edge's node to the `visited` list if it is not already within the `visited` list
 - priority(v) = minimum weight of any edge between v and tree
 - priority(v) = inf if no such edge
