@@ -6,7 +6,7 @@ tags:
 - For all nodes in the graph:
 	- Try to visit all paths from that node, incrementing the visited list for each path, if the first node repeats then we have a cycle, backtrack after end-of-the road
 # Pseudocode
-```
+```pascal
 mark all vertices white
 for each vertex s:
 	if s is white:
