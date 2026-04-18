@@ -2,7 +2,7 @@
 tags:
   - programming
 ---
-zn algorithm used to find [[Strongly Connected Component|SCC]]
+An algorithm used to find [[Strongly Connected Component|SCC]]
 
 https://invidious.yoshixi.net/watch?v=QlGuaHT1lzA
 # Computing SCCs

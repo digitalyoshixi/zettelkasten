@@ -57,6 +57,7 @@ aliases:
 - [[Strongly Connected Component]]
 - [[Transposed Graph]]
 - [[Condensation Graph]]
+- [[Kosaraju's Algorithm]]
 ### Week 7
 - [[Minimum Spanning Tree]]
 ### Week 8
