@@ -138,5 +138,5 @@ Note that:
 - $N(d) = fib(d+2)$ - hence the name fibonacci heap
 # Fibonacchi Relation
 ![[Fibonacci Heap-20260419012647565.webp]]
-The size of the heaps has a similar structure to the [[Fibonacci Sequence]] where the size of a large heap is proportional in size to the previous smaller heaps.
+The size of the heaps has a similar structure to the [[Fibonacci Series]] where the size of a large heap is proportional in size to the previous smaller heaps.
 Implies an exponential growth of [[Golden Ratio]]
