@@ -24,15 +24,6 @@ aliases:
 	- Ivan Bratko - Prolog - Programming for Artificial Intelligence
 - Markus to submit homework exercises for programming
 - Crowdmark to submit homework for hand-written
-# Final
-- There will be [[Functional Programming Proofs]]
-- There will be type inference
-- There will be [[Tail Recursion]] with [[Continuation Passing Style|CPS]]
-- [[Racket Closure]]
-- Prolog basic concepts
-- Java FP
-- Java type system
-- Haskell datatype and folding over them (ex4)
 # Concepts
 ### Week 1
 - [[Programming/Language|Language]]
