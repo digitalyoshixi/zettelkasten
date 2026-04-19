@@ -76,6 +76,7 @@ consolidate(H):
 	update H.min
 ```
 ### `decrease-priority(H,x,k)`
+![[Fibonacci Heap-20260419012001654.webp|404]]![[Fibonacci Heap-20260419012010077.webp|410]]
 ```perl
 decrease-priority(H,x,k):
 	if k >= x.key: return
@@ -119,3 +120,7 @@ We can define potential function $\phi(H) = t(H)+2*m(H)$
 - Amortized cost of extract-min is $O(D(n))$ equivalent to $O(\log n)$
 Note that:
 - $N(d) = fib(d+2)$ - hence the name fibonacci heap
+# Fibonacchi Relation
+![[Fibonacci Heap-20260419012647565.webp]]
+The size of the heaps has a similar structure to the [[Fibonacci Sequence]] where the size of a large heap is proportional in size to the previous smaller heaps.
+Implies an exponential growth of [[Golden Ratio]]

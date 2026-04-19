@@ -10,6 +10,7 @@ r_quicksort(A,p,r):
 		g = r_partition(A,p,r)
 		r_quicksort(A,p,g-1)
 		r_quicksort(A,g+1,p)
+		
 r_partition(A,p,r):
 	exchange A[r] with A[random(p,r)]
 	x := A[r]
