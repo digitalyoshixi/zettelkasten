@@ -16,7 +16,11 @@ Implemented in memory with an [[Array]]
 ### Zero Indexed Language Parent/Children
 - left = `2i + 1`
 - right `2i + 2`
-- parent `Math.floor(i-1/2)`
+- parent `floor(i-1/2)`
+# M-Ary Heap
+### 1-Indexed
+- k-th child: `m(i-1)+k+1`
+- Parent: `floor( (m+i-2)/m )`
 # Types
 - [[Max-Heap]]
 - [[Min-Heap|Min-Heap]]
