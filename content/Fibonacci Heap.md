@@ -38,8 +38,24 @@ insert(H,k):
 	if k < H.min.key:
 		H.min = new_root	
 ```
+### `union_by_rank(H,n1,n2)`
+A amortized $O(n)$ operation ($O(\alpha(n))$ amortized) to merge two trees into one
+```perl
+union_by_rank(H, n1, n2){
+	if n1.rank > n2.rank:
+		remove n1 from H root list
+		make n2 child of n1
+	else if n1.rank < n2.rank:
+		remove n2 from H root list
+		make n1 child of n2
+	else: # doesn't matter which child is replaced
+		remove n2 from H root list
+		make n1 child of n2
+		n2.rank++
+}
+```
 ### `union(H,H_1,H_2)`
-A $O(1)$ operation
+A $O(1)$ operation to merge two heaps into each other
 ```perl
 union(H, H1, H2):
 	H.root_list := H1.root_list + H2.root_list
@@ -70,7 +86,7 @@ consolidate(H):
 			if x.key > y.key:
 				x,y := y, x
 			remove y from H.root_list
-			make y child of x
+			union_by_rank(H,y,x) # will make y child of x
 			y.marked := false
 		A[x.degree] := x
 	update H.min

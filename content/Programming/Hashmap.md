@@ -24,3 +24,6 @@ A array of size $m$ with a [[Hashing|Hash Function]] $h : U \to [0,\dots,m-1]$
 - [[Direct Addressing Hashmap]]
 - [[Collision Resolution Chaining]]
 - [[Collision Resolution Probe Sequence]]
+# Implementations
+- [[Array]]
+- [[AVL Tree]]
