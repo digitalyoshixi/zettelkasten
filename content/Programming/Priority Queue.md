@@ -9,5 +9,6 @@ A collection of priority-job pairs.
 - Can return `max()` job with max priority
 - Can `extract-max()`: remove and return job with max priority
 # Implementations
-### [[Min-Heap]]
-### [[Heap Sort|Max-Heap]]
+- [[Min-Heap]]
+- [[Max-Heap]]
+- [[Fibonacci Heap]]

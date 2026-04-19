@@ -5,7 +5,13 @@ aliases:
   - Binary Heap
   - Nearly Complete Binary Tree
 ---
-A [[Binary Tree]]-based data structure where all levels are mostly filled (except sometimes the lowest) starting from left to right
+A [[Tree]] where all levels are mostly filled (except sometimes the lowest) starting from left to right.
+Most often represented as a [[Binary Tree]], but does not require it.
+Contains a heap property which is a relation of a node to its parent:
+- `node` <= `parent` ([[Max-Heap]])
+- `node` >= `parent` ([[Min-Heap]])
+Implemented in memory with an [[Array]]
+# Binary Heap
 ![[Heap-20260222205303684.webp]]
 ### Zero Indexed Language Parent/Children
 - left = `2i + 1`

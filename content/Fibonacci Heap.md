@@ -2,7 +2,7 @@
 tags:
   - programming
 ---
-A [[Heap]] with the union operation implemented as a [[Forest]] of [[Min-Heap]] connected by a [[Linked List|Double Linked List]].
+A data structure for [[Priority Queue]] with the union operation implemented as a [[Forest]] of [[Min-Heap]] connected by a [[Linked List|Double Linked List]].
 ![[Fibonacci Heap-20260404231737016.webp]]
 # Structure
 ### Node Structure
@@ -58,7 +58,8 @@ extract-min(H):
 	consolidate(H)	
 ```
 ### `consolidate(H)`
-Attempts to make sure all nodes in the list have a unique degree. Will find nodes that have the same degree and make the larger key a child of the node with the smaller key
+![[Fibonacci Heap-20260419010159671.webp]]
+Attempts to make sure all roots in the list have a unique degree. Will find nodes that have the same degree and make the larger key a child of the node with the smaller key
 ```perl
 consolidate(H):
 	for each node n in H.root_list:
@@ -74,7 +75,7 @@ consolidate(H):
 		A[x.degree] := x
 	update H.min
 ```
-### `decrease-priority(H)`
+### `decrease-priority(H,x,k)`
 ```perl
 decrease-priority(H,x,k):
 	if k >= x.key: return
