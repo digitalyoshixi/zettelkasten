@@ -15,6 +15,7 @@ A subgraph of [[Programming/Graph|Graph]] $G$ that:
 - Has no [[Graph Cycle|Cycle]]
 # Properties
 - [[MST Cut Property]]
+- [[Unique Edge Implies MST Theorem]]
 # Algorithms
 - [[Kruskal's Algorithm]]
 - [[Prim's Algorithm]]
