@@ -11,9 +11,9 @@ Done if [[AVL Balance Factor]] $< -1$
 ### Right Rotation
 Done if [[AVL Balance Factor]] $> 1$
 ### Left-Right Rotation
-Done if [[AVL Balance Factor]] $> 1$ and the left subtree [[AVL Balance Factor]] $< -1$
+Done if [[AVL Balance Factor]] $> 1$ and the left subtree [[AVL Balance Factor]] $\leq -1$
 ### Right-Left Rotation
-Done if [[AVL Balance Factor]] $< -1$ and right subtree [[AVL Balance Factor]] $> 1$
+Done if [[AVL Balance Factor]] $< -1$ and right subtree [[AVL Balance Factor]] $\geq 1$
 # Code
 ```pascal
 if height(v.left) - height(v.right) > 1:
