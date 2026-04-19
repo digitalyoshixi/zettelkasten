@@ -4,6 +4,7 @@ tags:
 aliases:
   - Weight Balanced BST
   - WBT
+  - BB[Alpha] Tree
 ---
 Keeping:
 - $O(\log n)$ insert
