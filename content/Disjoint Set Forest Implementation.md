@@ -20,14 +20,15 @@ make-set():
 With `node1` present in one tree and `node2` present in another tree, makes the root of the shorter tree a child of the taller tree.
 ```perl
 union(node1, node2):
-	link(find-set(node1), find-set(node2))
-	link(root1, root2)
+	root1 = find-set(node1)
+	root2 = find-set(node2)
 	if root1.rank > root2.rank:
 		root2.parent := root1
+	else if root1.rank < root2.rank:
+		root1.parent := root2
 	else:
 		root1.parent := root2
-		if root1.rank = root2.rank:
-			root2.rank++	
+		root2.rank++	
 ```
 ### `find-set(node)`
 ```perl
