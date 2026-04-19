@@ -1,6 +1,10 @@
 ---
 tags:
   - programming
+aliases:
+  - Collision Linear Probing
+  - Collision Quadratic Probing
+  - Collision Double Probing
 ---
 A method for [[Collision Resolution]].
 In case of hash collision, gets a next available position using a probe function. Probe index `i` stored for future retrieval.
