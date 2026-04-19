@@ -78,7 +78,10 @@ aliases:
 - [[Randomized Quick Sort]]
 ### Week 12
 - [[Hashmap]]
+- [[Direct Addressing Hashmap]]
 - [[Collision Resolution]]
+- [[Collision Resolution Chaining]]
+- [[Collision Resolution Probe Sequence]]
 - [[Independent Uniform Hashing]]
 - [[Load Factor]]
 - [[Universal Hashing]]

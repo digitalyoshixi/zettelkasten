@@ -17,36 +17,25 @@ Time complexity of:
 6. Base case is when the list is size of 1
 # Pseudocode
 ```perl
-quick_sort(A, p, r):
-	if p < r:
-		g := partition(A,p,r)
-		quicksort(A,g,g-1)
-		quicksort(A,g+1,r)
-partition(A,p,r):
-	x := A[r]
-	i := p-1
-	for j in p, ..., r-1:
-		if A[j] <= x:
-			i := i + 1
-			exchange A[i] with A[j]
-	exchange A[i+1] with A[r]
-	return i+1
-```
-```perl
 quick_sort(A, low, high):
+	# takes entire list or sublist and recursively sorts it with partition
 	if low < high:
-		g := partition(A,low,high)
-		quicksort(A,g,g-1)
-		quicksort(A,g+1,r)
-partition(A,p,r):
-	x := A[r]
-	i := p-1
-	for j in p, ..., r-1:
+		pivot := partition(A,low,high)
+		quicksort(A,low,pivot-1)
+		quicksort(A,pivot+1,high)
+
+partition(A, low, high):
+	# takes the subarray, the start of array with low, end of array with high, swaps based off a pivot which is last element and returns pivot index
+	x := A[high]
+	i := low-1 # i indicates end of smaller partition
+	j := low # j indicates end of higher partition
+	while j < high:
 		if A[j] <= x:
 			i := i + 1
 			exchange A[i] with A[j]
-	exchange A[i+1] with A[r]
-	return i+1
+		j++
+	exchange A[i+1] with A[x]
+	return i+1 # returns the pivot's final index
 ```
 # Correctness Proof
 Uses [[Loop Invariant]]:

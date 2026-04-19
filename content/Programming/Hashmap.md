@@ -22,3 +22,5 @@ A array of size $m$ with a [[Hashing|Hash Function]] $h : U \to [0,\dots,m-1]$
 - `search(k)`: find node with key `k`
 # Types
 - [[Direct Addressing Hashmap]]
+- [[Collision Resolution Chaining]]
+- [[Collision Resolution Probe Sequence]]

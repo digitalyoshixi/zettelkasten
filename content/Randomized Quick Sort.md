@@ -2,26 +2,7 @@
 tags:
   - programming
 ---
-A revised [[Quick Sort]] algorithm that uses [[Sampling Techniques|Random Sampling]].
-# Pseudocode
-```perl
-r_quicksort(A,p,r):
-	if p < r:
-		g = r_partition(A,p,r)
-		r_quicksort(A,p,g-1)
-		r_quicksort(A,g+1,p)
-		
-r_partition(A,p,r):
-	exchange A[r] with A[random(p,r)]
-	x := A[r]
-	i := p-q
-	for j in p, ..., r-1:
-		if A[j] <= x:
-			i := i + 1
-			exchange A[i] with A[j]
-	exchange A[i+1] with A[r]
-	return 1+1
-```
+A revised [[Quick Sort]] algorithm that uses [[Sampling Techniques|Random Sampling]] to pick the pivot value (not always the final element of sublist).
 # Complexity Analysis
 - Quicksort is $O(n+X)$ where:
 	- $n$ is length of array $A$
