@@ -35,4 +35,6 @@ while not PQ.is-empty():
 ### Complexity
 - $n = |V|$
 - $m = |E|$
+- Inserting into priority queue, with potential for [[Bubble Up]] $O(n * \log n)$
+- Possible decrease priority for every edge $O(m \log n)$
 - Total time worst case $O( (n+m)\log n)$
