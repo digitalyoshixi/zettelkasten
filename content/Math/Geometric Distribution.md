@@ -12,7 +12,7 @@ A [[Discrete Distribution]] that can lead to [[Countable Infinity|Countably Infi
 
 Commonly used when:
 - Finding the waiting time of something to occur
-It is [[Memorylessness]]
+It is [[Memorylessness|Memoryless]]
 # [[Probability Mass Function|PMF]]
 - $p$ = probability of success.
 - $q$ = probability of failure
@@ -23,7 +23,8 @@ $$P(Y=y)=q^{y-1}p, \forall y \in \mathbb{N}$$
 # [[Cumulative Distribution Function|CDF]]
 $$F_{X}(x) = P(X < x) = \sum_{k=0}^{x } p_{x}(k) = 1-q^{x+1}, \forall x \in \mathbb{N}$$
 # Expectation formula
-$E(Y)=\sum\limits_{y=1}^\infty = \frac{q}{p}$
+$E(Y)= \frac{q}{p}$
+$E(X)= \frac{1}{p}$
 # Variance
 $\sigma^{2} = \frac{q}{p^{2}}$
 # [[Moment Generating Function]]

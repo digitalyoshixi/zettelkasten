@@ -15,15 +15,8 @@ $$P(X=x) = \frac{\binom{M}{x} \binom{N-M}{n-x}}{\binom{N}{n}}, \forall \begin{ca
 x \geq max \{ 0, n-(N-M) \}\\
 x \leq min \{ n, M\}\\
 \end{cases}$$
-# Formula
-The probability of outcomes *x* successful outcomes in *r* trials is:
-$$\frac{_{a}C_{x} * _{n-a}C_{r-x}}{_{n}C_{r}}$$
-r : # of selections
-a : what random variable x will take from. the success set. number of possible successes
-n : population total set(universal set fit within the selection space)
 ### Memorizing the formula
 ![[Hypergeometric Distribution-20240122210727030.webp]]
-![[Pasted image 20240122210828.png]]
 # Expectations
 $$E(x) = \frac{nM}{N}$$
 # Variance

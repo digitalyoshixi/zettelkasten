@@ -53,6 +53,7 @@ aliases:
 - [[Heap]]
 - [[Min-Heap]]
 - [[Max-Heap]]
+- [[Bipartite Graph]]
 ### Week 6
 - [[Strongly Connected Component]]
 - [[Transposed Graph]]
