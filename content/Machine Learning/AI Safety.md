@@ -12,6 +12,7 @@ This is a [[Pre-Paradigm]] [[Artificial Intelligence|AI]] field concerned with r
 - [[AI Resilience]]
 - [[AI Security]]
 - [[AI Control]]
+- [[Eugenics|Super Babies]] that are smarter than us to solve the problem
 # Concepts
 - [[Responsible AI]]
 - [[Ethical AI]]
