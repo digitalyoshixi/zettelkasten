@@ -13,6 +13,8 @@ The [[Fertility-Intelligence Paradox]] means that the average of intelligence wi
 - [[Genetic Counselling]]
 - [[Stem Cell Embryo]]
 - [[In Virto Fertilization|IVF]]
+- [[Fluorescence Guided Sperm]]
+- [[Embryo Cloning]]
 # Rules
 - [[Gene Editing Scaling Laws]]
 - [[Embryo Selection Scaling Law]]
@@ -22,5 +24,8 @@ The [[Fertility-Intelligence Paradox]] means that the average of intelligence wi
 # Counterarguments
 - [[Brave New World]]
 - [[Genetic Diversity Argument]]
+- [[Fertility-Intelligence Paradox]]
 # Parallels
 - [[Incest and Eugenics Inconsistency]]
+# Concepts
+- [[Superbaby Creation Process]]

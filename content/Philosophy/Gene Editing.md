@@ -8,3 +8,4 @@ Editing genetic data via:
 # Techniques
 - [[Jiankui CRISPR]]
 - [[Iterated CRISPR]]
+- [[Super-SOX]]
