@@ -11,6 +11,9 @@ The [[Fertility-Intelligence Paradox]] means that the average of intelligence wi
 - [[Holocaust]]
 - [[Gene Editing]]
 - [[Genetic Counselling]]
+# Rules
+- [[Gene Editing Scaling Laws]]
+- [[Embryo Selection Scaling Law]]
 # Counterarguments
 - [[Brave New World]]
 - [[Genetic Diversity Argument]]
