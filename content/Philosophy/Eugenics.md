@@ -12,6 +12,7 @@ The [[Fertility-Intelligence Paradox]] means that the average of intelligence wi
 - [[Gene Editing]]
 - [[Genetic Counselling]]
 - [[Stem Cell Embryo]]
+- [[In Virto Fertilization|IVF]]
 # Rules
 - [[Gene Editing Scaling Laws]]
 - [[Embryo Selection Scaling Law]]

@@ -5,3 +5,6 @@ tags:
 ---
 Editing genetic data via:
 - [[CRISPR]]
+# Techniques
+- [[Jiankui CRISPR]]
+- [[Iterated CRISPR]]

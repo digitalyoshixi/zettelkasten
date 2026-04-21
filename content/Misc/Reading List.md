@@ -7,6 +7,7 @@ tags:
 - https://x.com/lessin/status/2043370537280532771
 - https://www.politico.com/magazine/story/2017/03/cia-art-spying-espionage-spies-military-terrorism-214875/
 - https://www.youtube.com/watch?v=A9WLYbE0p-I
+- https://philarchive.org/archive/ANOTEO-2v13
 # Papers
 - https://www.eecg.utoronto.ca/~steffan/carg/readings/jacm.hoare.pdf
 - https://lyptusresearch.org/research/offensive-cyber-time-horizons
