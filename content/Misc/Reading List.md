@@ -10,6 +10,7 @@ tags:
 # Papers
 - https://www.eecg.utoronto.ca/~steffan/carg/readings/jacm.hoare.pdf
 - https://lyptusresearch.org/research/offensive-cyber-time-horizons
+- file:///tmp/mozilla_david0/Arrhenius+(2000),+'An+impossibility+theorem+for+welfarist+axiologies'.pdf
 # Books
 ### Horror
 ### OS Dev
