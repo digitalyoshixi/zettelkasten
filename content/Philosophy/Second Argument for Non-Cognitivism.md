@@ -8,7 +8,7 @@ tags:
 1. Accepting a moral claim involves the giving/accepting of a [[Commands|Command]]
 2. One can assert the existence of something without offering [[Commands]]
 ### Conclusion
-Cognitivism allows for making moral claims without commands. This is [[Absurd]]
+Cognitivism allows for making moral claims without commands. This is [[Absurdism]]
 # Counterargument
 ### Rejecting Premise 1
 Deny that there is a connection between believing claims and accepting commands.

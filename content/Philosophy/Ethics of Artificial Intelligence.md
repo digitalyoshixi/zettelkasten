@@ -138,6 +138,7 @@ aliases:
 - [[Antiwork]]
 - [[Windfall Clause]]
 - [[Universal Basic Income|UBI]]
+- [[Superfluity Risk]]
 ### Week 9
 - [[Objective Driven AI|ODAI]]
 - [[If Anyone Builds It Everyone Dies]]

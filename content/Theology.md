@@ -8,6 +8,7 @@ Oftentimes provides a life beyond the grave.
 # Types
 - [[Polytheism]]
 - [[Monotheism]]
+- [[Judaism]]
 # Religions
 - [[Christianity]]
 # Concepts

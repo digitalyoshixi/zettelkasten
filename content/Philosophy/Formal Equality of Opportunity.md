@@ -4,7 +4,6 @@ tags:
 aliases:
   - FEO
   - Merit Fairness
-  - Meritocracy
 ---
 A notion of fairness that is decided upon by law.
 Requires:

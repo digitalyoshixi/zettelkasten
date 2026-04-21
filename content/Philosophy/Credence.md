@@ -12,7 +12,7 @@ Credence should also change when given new information.
 # Degrees
 - 0 credence is certainty of falsehood
 	- [[Contradiction]] propositions
-	- [[Absurd]] propositons
+	- [[Absurdism]] propositons
 - 1 credence is certainty of truth
 	- [[Tautology]] propositions
 # Concepts

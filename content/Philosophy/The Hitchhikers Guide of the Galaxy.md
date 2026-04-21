@@ -2,7 +2,7 @@
 tags:
   - scifi
 ---
-[[Absurd|Absurdist]] space tale
+[[Absurdism|Absurdist]] space tale
 # Ideas
 - [[42]]
 - [[Towel]]
