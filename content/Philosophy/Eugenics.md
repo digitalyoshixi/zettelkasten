@@ -11,11 +11,13 @@ The [[Fertility-Intelligence Paradox]] means that the average of intelligence wi
 - [[Holocaust]]
 - [[Gene Editing]]
 - [[Genetic Counselling]]
+- [[Stem Cell Embryo]]
 # Rules
 - [[Gene Editing Scaling Laws]]
 - [[Embryo Selection Scaling Law]]
 - [[Natural Genetic Deviation Risk]]
 - [[DIsease Reduction Risk]]
+- [[Mutual Disease Reduction Phenomena]]
 # Counterarguments
 - [[Brave New World]]
 - [[Genetic Diversity Argument]]
