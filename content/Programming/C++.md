@@ -121,7 +121,7 @@ int main(int argc, char const *argv[])
 - [[Programming/C++ transform]]
 ### FP
 - [[C++ Lambda Expressions]]
-- [[C++ Transform]]
+- [[C++ Transform 1]]
 - [[C++ Filter]]
 - [[C++ Accumulate]]
 # Guides
