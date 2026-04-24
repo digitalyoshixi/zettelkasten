@@ -7,3 +7,5 @@ aliases:
 # Guides
 - [[GIMP Recolor Image]]
 - [[GIMP Add Outline Stroke]]
+- [[Gimp Palette]]
+- [[Gimp Grid]]
