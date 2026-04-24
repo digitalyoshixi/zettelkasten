@@ -9,6 +9,8 @@ This is the map of my homelab:
 # [[AWS Elastic Compute Cloud|AWS EC2]]
 - [[Command and Control Server|C2]] server
 # To Do
+- Power cycle server
+- Setup smartRG as a switch for linux to work with
 - Setup the backups to automatically create [[vzdump]] (https://invidious.yoshixi.net/watch?v=JiLyEeerLGA)
 - Migrate to proxmox 9
 # Old Ass Desktop

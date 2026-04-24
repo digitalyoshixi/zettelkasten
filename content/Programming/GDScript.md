@@ -4,7 +4,7 @@ tags:
   - game_dev
 ---
 A [[Dynamically Typed]] [[Python]]-based language.
-[[Zero Indexed]]
+- [[Zero Indexed]]
 # Concepts
 ### Fundamental
 - [[GDScript Variables]]
