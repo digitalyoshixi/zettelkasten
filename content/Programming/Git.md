@@ -36,3 +36,4 @@ Then proceed to [[Github|Github Signin]]
 - [[git submodule]]
 # Guides
 - [[git Change Upstream URL]]
+- [[git Commit With Revised Gitignore]]
