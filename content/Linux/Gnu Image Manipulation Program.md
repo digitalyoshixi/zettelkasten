@@ -8,4 +8,4 @@ aliases:
 - [[GIMP Recolor Image]]
 - [[GIMP Add Outline Stroke]]
 - [[Gimp Palette]]
-- [[Gimp Grid]]
+- [[GIMP Grid]]
