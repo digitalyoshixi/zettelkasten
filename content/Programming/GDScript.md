@@ -27,6 +27,7 @@ A [[Dynamically Typed]] [[Python]]-based language.
 - [[Godot Signals]]
 - [[Godot Getters and Setters]]
 - [[GDScript Class]]
+- [[GDScript Lambda Function]]
 # Boilerplate
 ```python
 extends Node
