@@ -21,7 +21,7 @@ func exit() -> void:
 	# logic on exit
 	pass
 
-@abstract func setup(actor : Actor -> void
+@abstract func setup(actor : Actor) -> void
 @abstract func process_physics_frame(delta: float) -> Name
 
 ```
@@ -31,14 +31,15 @@ extends State
 class_name IdleState
 
 func enter() -> void:
-	# logic
+	# on enter logic
 	pass
+	
 func exit() -> void:
-	# logic
 	pass
 func setup(actor : Actor) -> void:
-	# logic
-	pass
+	self.actor = actor
+	self.state_name = State.Name.IDLE
+	
 func process_physics_frame(delta : float) -> State.Name:
 	# logic
 ```
