@@ -21,3 +21,4 @@ sudo pacman -S godot
 - [[Godot Resource Saving System]]
 - [[Godot Area2D]]
 - [[Godot Sleep]]
+- [[Godot State Machine]]
