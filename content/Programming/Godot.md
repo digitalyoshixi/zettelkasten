@@ -22,3 +22,4 @@ sudo pacman -S godot
 - [[Godot Area2D]]
 - [[Godot Sleep]]
 - [[Godot State Machine]]
+- [[Godot Pathfinding]]
