@@ -25,3 +25,4 @@ https://inv.nadeko.net/watch?v=GoZaMgEgrHw&listen=false
 - [[Proxmox NGINX Guide]]
 - [[Proxmox Certificate Guide]]
 - [[Proxmox Excalidraw Guide]]
+- [[Proxmox Restore Backup]]
