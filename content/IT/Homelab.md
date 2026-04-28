@@ -9,8 +9,11 @@ This is the map of my homelab:
 # [[AWS Elastic Compute Cloud|AWS EC2]]
 - [[Command and Control Server|C2]] server
 # To Do
-- Setup the backups to automatically create [[vzdump]] (https://invidious.yoshixi.net/watch?v=JiLyEeerLGA)
-- Migrate to proxmox 9
+- Setup invidious
+- Setup cloudflare again properly
+	- [[Cloudflare Tunnel]]
+	- [[Cloudflare DNS]]
+- Setup printer
 # Old Ass Desktop
 - [x] [[Proxmox]] for virtualizing all services ✅ 2025-04-23
 - [x] Porkbun DDNS update script
