@@ -15,3 +15,4 @@ aliases:
 - [[Emerging Tech, Burnout and the Future of War]]
 - [[Post Quantum Cryptography in Practice]]
 - [[Cyberpsychology Mindshield]]
+- [[From Zero to Exit]]

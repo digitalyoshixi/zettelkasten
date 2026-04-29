@@ -18,6 +18,7 @@ Blocks of data are separated into groups called clusters. The size of these clus
 ### Mac
 - [[Apple File System]]
 ### Linux
+- [[Unix File System]]
 - [[Fourth Extended File System|ext4]]
 - [[Zettabyte File System]]
 - [[BTRFS]]
