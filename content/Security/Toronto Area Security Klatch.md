@@ -16,3 +16,4 @@ aliases:
 - [[Post Quantum Cryptography in Practice]]
 - [[Cyberpsychology Mindshield]]
 - [[From Zero to Exit]]
+- [[Guide to Security Leadership]]

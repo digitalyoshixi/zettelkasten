@@ -26,9 +26,13 @@ This is the map of my homelab:
 - [ ] [[Nextcloud]] for file-sync
 - [ ] [[Jellyfin]] for watching shows
 - [x] [[Cloudflare Tunnel]]?
+- [ ] [[Suricata]]
+- [ ] [[Snort]]
+- [ ] A SoC, any SoC, find a SoC
 - [ ] [[Samba]] for SMB?
 - [ ] [[TOR]] relay (bridge node)
 - [x] [[OTEL-LGTM Stack]] monitoring box ✅ 2025-10-30
 - [ ] Setup Network Printer
+- [ ] [[Vaultwarden]]
 # Personal Journal
 - [[My Homelab Setup Journey]]
