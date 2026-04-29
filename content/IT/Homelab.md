@@ -9,7 +9,6 @@ This is the map of my homelab:
 # [[AWS Elastic Compute Cloud|AWS EC2]]
 - [[Command and Control Server|C2]] server
 # To Do
-- Setup invidious
 - Setup cloudflare again properly
 	- [[Cloudflare Tunnel]]
 	- [[Cloudflare DNS]]
