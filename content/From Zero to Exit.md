@@ -2,7 +2,7 @@
 tags:
   - security
 ---
-A talk at [[Toronto Area Security Klatch|TASK]] about creating cybersecurity companies.
+A talk at [[Toronto Area Security Klatch|TASK]] about creating cybersecurity companies by Dave Millier
 # Notes
 - Started company Dexagon a general IT company for resolving security breaches
 	- Did too many things, hosting, IT, security, just generalists
@@ -17,4 +17,27 @@ A talk at [[Toronto Area Security Klatch|TASK]] about creating cybersecurity com
 - Nowadays, people like operational expenses to pay on monthly basis
 - Went to trade-show, had a mockup website with basic CSV as database, First customer now had to acutally create company
 - First customer introduced to other clients
+- MGM resorts deal through word of mouth
+- Once established, some employees were poached to different companies
+- Many partners picked that don't have the same overlap as this company. Partners that have overlap can betray you
+	- Work with Bell to establish their service, Bell later leaves agreement and does it themselves
+- Selling security is a challenge - companies need to look at it like insurance
+	- Try really hard, people that are polite will show buying signals even if they cant afford it
+- Don't put your prices on the webpage - allows competitors to upsell you
+- First few people you hire define the company, vitally important
+- Person that helped you get to 1 million may not be the person that helps you get to 5 million
+	- Process you used to get to 1 million no longer works. Not scalable (manual work, answering phone yourself, working at 3am, etc)
+- Less about effort, more about results, allow remote work
+- Initial early days did not directly sell security, sold networking, systems and weaved security within that
+- Person sold to would often ask if they are willing to sell, connection to beforehand, they wanted to have the employees, contracts, shut company down since they are a competitor
+- Contract is only as good as how it is enforced, legal system is super slow
+- Oftentimes non-compete agreements will hurt, for him it was 6mo so didnt hurt as much
+- Acquisition did not want the developers, he made a new [[Software as a Service|SaaS]] company (10-20x revenue valuations) called Uzado
+- Now selling to new customers, biggest customer is Scalar Decisions, they wanted to buy a [[Security Operation Center|SOC]] engine.
+- Old clients came back after the non-compete ended
+- Uzado became a [[Managed Service Provider|MSP]] again
+- Hire for attitude, train for success
+- Uzado built with the expectation of a quick sale, small-scale project
+- In security, trust is your product
+- Mid-market is under-served. Mid-size businesses have same problems as large companies but less budget
 - 
