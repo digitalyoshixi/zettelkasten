@@ -9,10 +9,6 @@ This is the map of my homelab:
 # [[AWS Elastic Compute Cloud|AWS EC2]]
 - [[Command and Control Server|C2]] server
 # To Do
-- Setup cloudflare again properly
-	- [[Cloudflare Tunnel]]
-	- [[Cloudflare DNS]]
-- Setup printer
 # Old Ass Desktop
 - [x] [[Proxmox]] for virtualizing all services ✅ 2025-04-23
 - [x] Porkbun DDNS update script
@@ -33,5 +29,6 @@ This is the map of my homelab:
 - [ ] [[Samba]] for SMB?
 - [ ] [[TOR]] relay (bridge node)
 - [x] [[OTEL-LGTM Stack]] monitoring box ✅ 2025-10-30
+- [ ] Setup Network Printer
 # Personal Journal
 - [[My Homelab Setup Journey]]

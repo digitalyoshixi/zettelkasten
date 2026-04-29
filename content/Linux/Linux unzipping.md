@@ -18,3 +18,7 @@ tags:
 `tar -xf somearchive.tar.gz`
 ### Tarball (zst)
 `tar --use-compress-program=unzstd -xvf somearchive.tar.zst`
+# [[BZip2]]
+```
+bzip2 -d ./myarchive.bz2
+```
