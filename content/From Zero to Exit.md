@@ -40,4 +40,10 @@ A talk at [[Toronto Area Security Klatch|TASK]] about creating cybersecurity com
 - Uzado built with the expectation of a quick sale, small-scale project
 - In security, trust is your product
 - Mid-market is under-served. Mid-size businesses have same problems as large companies but less budget
-- 
+- Good culture means employees want to come to work everyday
+- When selling, get a specialized M&A lawyer, not just your corporate lawyer
+- Build a data-room from day one, this stores documents, etc for sale
+- New business: Quick Intelligence, a [[Managed Service Provider|MSP]] with incident response/remediation team that can patch vulnerabilities for businesses. Focused on data and infrastructure
+- Insurance companies work with [[Managed Service Provider|MSP]] to already establish the insurance criteria. If you are partnered with MSP X -> You meet criteria
+- Still a convincing game for investing in cyber insurance
+- Can build a company with paperclip, virtual company with AI agents
