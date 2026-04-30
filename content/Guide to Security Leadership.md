@@ -121,3 +121,8 @@ Example budget backlog format:
 - Evaluate the vendor on how they respond to problems
 	- Are they transparent
 	- Are they absorbing feedback about problems?
+- Renewals are easy, just repeat the buying email but label it renewal and send it again 
+- If in cost-cutting crisis, redo the process but differently
+- Be the first to suggest cutting your own tools, don't wait for someone else and then agree, erodes political capital
+- If it shouldn't be cut never suggest it be cut
+- Acquiring open source software, see the roadmap of the work you need to do to get it equivalent to paid software, sometimes you can ask the vendor of paid software for this roadmap
