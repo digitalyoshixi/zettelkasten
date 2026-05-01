@@ -19,6 +19,8 @@ aliases:
 - [[Secure Cookie]]
 - [[Static Application Security Testing|SAST]]
 - [[Dynamic Application Security Testing|DAST]]
+- [[Interactive Application Security Testing]]
+- [[Out-of-Bound Application Security Testing|OAST]]
 - [[Code Signing]]
 - [[Secure Coding]]
 - [[Sandbox]]

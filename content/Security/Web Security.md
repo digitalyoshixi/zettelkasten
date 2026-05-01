@@ -29,3 +29,4 @@ aliases:
 - [[JSON Web Token|JWT Token]]
 - [[Open Auth|OAuth]]
 - [[OWASP Top 10]]
+- [[Out-of-Bound Application Security Testing]]
