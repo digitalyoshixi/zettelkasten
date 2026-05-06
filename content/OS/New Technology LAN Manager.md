@@ -13,6 +13,7 @@ Often used for [[Authentication]] during:
 Vulnerable to [[Pass The Hash Attack]]. 
 # Concepts
 - [[Local Security Authority Subsystem Service|LSASS]] 
+- [[Challenge Response Authentication Method]]
 ### Auth
 - [[LAN Manager]]
 - [[NTLMv1]]
