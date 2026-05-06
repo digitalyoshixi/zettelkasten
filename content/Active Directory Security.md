@@ -2,10 +2,11 @@
 tags:
   - security
 ---
-# Auth
+# Vulns
+### Auth
 - [[Kerberoasting Attack]]
 - [[NTLMv1 Downgrade Attack]]
-# Escalation
+### Escalation
  - [[ESC1]]
  - [[ESC2]]
  - [[ESC3]]
@@ -22,5 +23,8 @@ tags:
  - [[ESC14]]
  - [[ESC15]]
  - [[ESC16]]
-# [[Domain Controller]]
+### [[Domain Controller]]
 - [[DCSync]]
+# Tools
+- [[impacket secretsdump]]
+- [[crackmapexec]]
