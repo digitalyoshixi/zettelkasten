@@ -29,6 +29,11 @@ tags:
 ### [[Address Coercion]]
 - [[PetitPotam]]
 - [[DFSCoerce]]
+- [[NTLM Reflection]]
+- [[PrinterBug]]
+- [[MS-EVEN]]
+### [[Man-In-The-Middle|MITM]]
+- [[SMB Relay Attack]]
 # Tools
 - [[impacket secretsdump]]
 - [[crackmapexec]]
