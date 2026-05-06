@@ -2,6 +2,17 @@
 tags:
   - security
 ---
+# 2025
+1. Broken [[Access Control]]
+2. Security misconfiguraitons
+3. [[Supply Chain Vulnerability|Supply Chain Attack]]
+4. [[Injection Attack]]
+5. Authentication failures
+6. Software or data integrity
+7. Logging and alerting
+8. Mishandling of exceptional
+9. Security logging and alerting failures
+10. Mishandling of exceptions
 # 2021
 1. Broken [[Access Control]]
 2. Cryptographic failures
