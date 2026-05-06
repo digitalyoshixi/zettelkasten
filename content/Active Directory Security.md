@@ -1,6 +1,8 @@
 ---
 tags:
   - security
+aliases:
+  - AD Security
 ---
 # Vulns
 ### Auth
@@ -26,7 +28,7 @@ tags:
  - [[ESC16]]
 ### [[Domain Controller]]
 - [[DCSync]]
-### [[Address Coercion]]
+### [[Authentication Coercion]]
 - [[PetitPotam]]
 - [[DFSCoerce]]
 - [[NTLM Reflection]]
