@@ -3,6 +3,7 @@ tags:
   - security
   - windows
 ---
+A [[Authentication Coercion|NTLM Relay Attack]]
 A reflection attack to impersonate users, escalate privileges and gain admin access without requiring passwords.
 Abuses the fact that system-level processes view certain domains including substrings like:
 - 

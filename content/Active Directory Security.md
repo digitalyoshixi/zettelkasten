@@ -31,9 +31,10 @@ aliases:
 ### [[Authentication Coercion]]
 - [[PetitPotam]]
 - [[DFSCoerce]]
-- [[NTLM Reflection]]
 - [[PrinterBug]]
 - [[MS-EVEN]]
+### [[NTLM Relay]]
+- [[NTLM Reflection]]
 ### [[Man-In-The-Middle|MITM]]
 - [[SMB Relay Attack]]
 # Tools
