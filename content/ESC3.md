@@ -1,11 +1,17 @@
 ---
 tags:
   - security
+aliases:
+  - Enrollment Agent Certificate Template
 ---
 An attack against [[Active Directory Certificate Services]] that can cause [[Privilege Escalation]].
 Exploits [[Active Directory Enrollment Agent]] to enroll new certificates with higher privileges.
 
-# Finding w
+# Finding with [[certipy]]
+With [[certipy]] `find`:
+- `ESC3 : Template hsa Certificate request Agent EKU set`
+- `ESC3 Target Template : Template can be targeted as part of ESC3 exploitation`
+- `[+] User Enrollable Principals`
 # Attack Process
 1. Obtain a [[Active Directory Enrollment Agent]] certificate ([[Object Identifier|OID]] 1.3.6.1.4.1.311.20.2.1)
 	1. A certificate template is created specifically for Enrollment Agents
