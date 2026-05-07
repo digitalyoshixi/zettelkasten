@@ -33,6 +33,8 @@ In the Users tab, right clicking the properties of a User, you can:
 - [[Windows Domain]]
 - [[Active Directory Forest]]
 - [[Domain Controller]]
+- [[Domain Admin]]
+- [[Active Directory Enrollment Agent]]
 - [[Active Directory Forest]]
 - [[Organizational Unit|OU]]
 - [[Global Catalog]]
@@ -44,6 +46,7 @@ In the Users tab, right clicking the properties of a User, you can:
 - [[Active Directory Site]]
 - [[Kerberos]]
 - [[Flexible Single Master Operation|FSMO]]
+- [[Active Directory Certificate Services|ADCS]]
 ### Tools
 - [[gporeport]]
 - [[Windows Group Policy Management Console|gpmc.msc]]
