@@ -17,3 +17,5 @@ A [[ADCS Privilege Escalation]] vulnerability that abuses any [[Active Directory
 - [[Bloodhound]]
 # Exploitation
 1. Identify a weak mapping (i.e `X509:<S>CN=DAUserBackupCert`)
+2. Obtain a matching certificate that satisfies criteria of this weak mapping
+3. Authenticate as a target account
