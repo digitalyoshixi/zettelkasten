@@ -27,3 +27,6 @@ Use the [[certipy]] `find` command:
 - Look for `User Enrollable Principals` showing a group accessible to many users like `CORP.LOCAL\Domain Users`
 - Look for `Requires Manager Approval : False`
 - Look for `Authorized Signatures Required : 0`
+# Exploitation
+1. Request the cert using the vulnerable template injective the identity of a privileged target ([[certipy]] `req`)
+2. Use the certificate to authenticate as the target via [[Pass The Hash Attack]] ([[certipy]] `auth`r)
