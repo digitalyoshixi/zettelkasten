@@ -28,3 +28,4 @@ These are ways to mitigate vulnerabilities present within [[IT/Operating System|
 - [[Security Enhanced Linux|SELinux]]
 # Vulnerabilities
 - [[BlueKeep]]
+ - [[NTLMv1 Downgrade Attack]]
