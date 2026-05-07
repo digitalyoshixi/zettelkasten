@@ -79,9 +79,7 @@ we can catch a specific http request with [[Security/Burpsuite]]
     
 
 
-### [[File Inclusion]]:
-
-Local file inclusion:
+[[Path Traversal]]:
 
 Take advantage of url navigation. If it opens files that are local, then you can manipulate the directories like /somedir/file.php or ../websiteimages/nudes.png the ../ is meaning to go backwards. By the way, you can also view it through terminal instead of a webapp since it is stored locally.
 to find directories, we can use [[Gobuster]] or [[Wfuzz]]

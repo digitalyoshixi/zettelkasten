@@ -2,15 +2,17 @@
 tags:
   - blockchain
 ---
-A shared ledger that is designed to be:
+A shared [[Distributed Ledger]] that is designed to be:
 - Write-only
-- Decentralized
-Comprised as a series of [[Transaction Block|Transaction Blocks]] inserted via a [[Consensus Algorithm]]
+- [[Decentralized]]
+Comprised as a series of [[Transaction Block|Transaction Blocks]] arranged via a [[Consensus Algorithm]]
+![[Blockchain-20260506024831644.webp]]
 # Utilization
 - [[Decentralized App|dApp]]
 - [[Cryptocurrency]]
 - [[Blockchain Power Grid]]
 # Concepts
+- [[Double Spend]]
 - [[Consensus Algorithm]]
 	- [[Proof of Work]]
 	- [[Proof of Stake]]
@@ -21,8 +23,7 @@ Comprised as a series of [[Transaction Block|Transaction Blocks]] inserted via a
 - [[Web3js]]
 # Smart Contracts
 - [[Tokenized Vault]]
-### Attacks
-- [[Re-entrancy Attack]]
+# [[Smart Contract Security|Blockchain Security]]
 # Tokens
 - [[ERC20]]
 - [[Non-Fungible Token|ERC21]]

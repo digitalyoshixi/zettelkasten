@@ -9,5 +9,5 @@ tags:
 - Utilize keywords from the job posting
 - Have a proof of context, that points to the experience section
 ### Experience
-- Has [[RATS]] or [[SER]] statements
+- Has [[RATS]] or [[Skills Experience Result]] statements
 - 

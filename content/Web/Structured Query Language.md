@@ -25,6 +25,7 @@ Data is stored in tables
 - [[SQLite Rename Column]]
 - [[SQLite Insert Column]]
 - [[SQL Change Column Datatype]]
+- [[SQL Order By]]
 # SQL Constaints
 - [[SQL Serial Constraint]]
 - [[SQL Primary Constraint]]

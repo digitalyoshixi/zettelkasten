@@ -9,6 +9,7 @@ A [[Single Sign On]] authentication protocol used while the user is logged in. G
 - Ensures packets are encrypted for authentication.
 - Protects against [[Man-In-The-Middle|MITM]] and [[Replay Attack]].
 # Protocol
+![[Kerberos-20260503223319665.webp]]
 We want host $A$ to talk to file server $B$
 1. Assumed shared key both [[Authentication Server]] and host knows (could be host's password in [[Windows Active Directory|AD]])
 2. Request a ticket from kerberos server to get [[Ticket Granting Ticket|TGT]]
@@ -35,7 +36,6 @@ We want host $A$ to talk to file server $B$
 	2. $n_{a}$ random number
 	3. $T_{t}$ time
 	4. $L$ lifespan
-	5. 
 # Concepts
 - [[Key Distribution Center]]
 	- [[Authentication Server]]

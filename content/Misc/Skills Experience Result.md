@@ -2,7 +2,7 @@
 tags:
   - jobs
 aliases:
-  - Skills Experience Result
+  - SER
 ---
 # Skill
 Strong action verb

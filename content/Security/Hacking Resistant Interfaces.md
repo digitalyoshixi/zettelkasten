@@ -10,5 +10,5 @@ The hardening of robots and sensors against tampering and sabotage so capabiliti
 - [[AI Assisted Formal Verification]]
 - [[Contract Based Multi Agent Systems]]
 - [[Runtime Cross Validation]]
-- Dedicated physical interface akin to [[Blockchain Ledger]] wallets
+- Dedicated physical interface akin to [[Distributed Ledger]] wallets
 - [[Least Privilege Modular AI Systems]]

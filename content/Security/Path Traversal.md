@@ -3,6 +3,7 @@ tags:
   - security
 aliases:
   - Directory Traversal
+  - File Inclusion
 ---
 A [[Web Security]] vulnerability targets webservers who's paths allow direct traversal with unregulated logic.
 # Common Paths
@@ -12,6 +13,9 @@ A [[Web Security]] vulnerability targets webservers who's paths allow direct tra
 - `/var/www/html`
 - `../`
 - `/root`
+- `%00` : null byte
+- `%2f` : `/`
+- `%2e` : `.`
 # Prevention
 - Setup input sanitization
 - Setup [[Stored Procedures]]

@@ -5,6 +5,6 @@ tags:
 aliases:
   - OU
 ---
-Ability to divide groups of users by their organization in [[Windows Active Directory]].
-Can be good if you have different offices. You can give each office their own OU
+Containers within a [[Windows Domain]] that can hold users, groups computers and other OU.
+- Can be good if you have different offices. You can give each office their own OU
 

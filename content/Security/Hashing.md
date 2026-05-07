@@ -24,7 +24,7 @@ Used for:
 - [[Secure Hashing Algorithm]]
 - [[Hash-based Message Authentication Code|HMAC]]
 - [[RIPEMD]]
-- [[Keccak]] (used in [[Ethereum]])
+- [[KECCAK-256]] (used in [[Ethereum]])
 # Concepts
 - [[Hash Collision]]
 - [[Collision Attack]]
