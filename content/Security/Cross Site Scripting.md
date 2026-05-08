@@ -23,3 +23,5 @@ https://site.com/search?q=
 ![[Cross Site Scripting-20250208013845670.webp|720]]
 # Solutions
 - Disabling all javascript. May be unpleasant as most webpages require javascript to function
+- Setup input validation
+- Setup output encoding
