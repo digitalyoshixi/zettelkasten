@@ -13,7 +13,7 @@ Defines allowsed sources for scripts, styles and other resources
 default-src 'self',
 s
 ```
-# HSTS
+# HSTS & Strict-Transport-Security
 Forces browsers to always use HTTPS for your domain
 ```
 Strict-Transport-Security
@@ -22,4 +22,9 @@ max-age=3160000, includeSubDomains
 # X-Content-Type-Options
 ```
 X-Content-Type-Options: nosniff
+```
+# Referrer-Policy
+Controls how much referrer information is sent with requests to improve privacy
+```
+
 ```

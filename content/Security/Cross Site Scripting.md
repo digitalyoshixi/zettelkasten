@@ -24,4 +24,4 @@ https://site.com/search?q=
 # Solutions
 - Disabling all javascript. May be unpleasant as most webpages require javascript to function
 - Setup input validation
-- Setup output encoding
+- Setup output encoding to only return certain symbols

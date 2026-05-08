@@ -27,8 +27,13 @@ curl -X POST https://reqbin.com/echo/post/form
 ```
 curl -F 'image=@./perplexed' http://127.0.0.1:5000/genai/image
 ```
-### Detailed Request
+### Get Headers Only
 ```
 curl -I http://127.0.0.1:5000/hello
 ```
 ![[Curl-20241004034547712.webp]]
+### Allow Insecure
+```
+curl -k http://site.com
+```
+Does not care about [[Hyper Text Transfer Protocol Secure|HTTPS]], [[Secure File Transfer Protocol|SFTP]], [[Secure Copy|SCP]]

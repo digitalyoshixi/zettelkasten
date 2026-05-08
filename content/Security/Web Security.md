@@ -23,6 +23,7 @@ aliases:
 - [[Insecure Direct Object Reference|IDOR]]
 - [[MIME Sniffing]]
 - [[Prototype Pollution]]
+- [[HTML Injection]]
 # Concepts
 - [[Basic Authentication]]
 - [[Session Token]]
@@ -30,3 +31,5 @@ aliases:
 - [[Open Auth|OAuth]]
 - [[OWASP Top 10]]
 - [[Out-of-Bound Application Security Testing]]
+- [[Content Security Policy|CSP]]
+- [[Cross Origin Resource Sharing|CORS]]
