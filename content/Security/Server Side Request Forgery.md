@@ -14,3 +14,7 @@ A [[Forgery Attack]] in [[Web Security]] wherein an attacker forces a server to 
 # Techniques
 - [[SSRF Localhost Bypass Technique]]
 - [[SSRF Internal Hosts Bypass Technique]]
+- [[SSRF Cloud Bypass Technique]]
+- [[SSRF Redirection Bypass Technique]]
+# Mitigation
+- Use [[Whitelist]] of IPs with strict regex
