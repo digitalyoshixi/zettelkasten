@@ -4,6 +4,7 @@ tags:
 aliases:
   - Directory Traversal
   - File Inclusion
+  - Local File Inclusion
 ---
 A [[Web Security]] vulnerability targets webservers who's paths allow direct traversal with unregulated logic.
 # Common Paths
