@@ -20,4 +20,4 @@ This is a mode for typical [[Block-Cipher|Block Ciphers]] to work with larger pl
 ![[Cipher Block Chaining-20260215233217279.webp]]
 # Attacks
 - [[Padding Oracle Attack]]
-- [[Padding Oracle On Downgraded Legacy Encryption]]
+- [[Security/Padding Oracle On Downgraded Legacy Encryption]]
