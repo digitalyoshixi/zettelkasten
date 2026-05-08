@@ -10,9 +10,9 @@ Most commonly used for securing websites in [[Hyper Text Transfer Protocol Secur
 # Protocol
 
 # Versions
-- [[TLS 1.0]]
-- TLS 1.1
-- TLS 1.2
+- [[TLS 1.0]] (insecure)
+- [[TLS 1.1]] (insecure)
+- [[TLS 1.2]]
 - [[TLS 1.3]]
 # Vulnerabilities
 - [[Padding Oracle On Downgraded Legacy Encryption]]
