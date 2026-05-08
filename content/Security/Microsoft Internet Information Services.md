@@ -7,3 +7,4 @@ aliases:
 A general purpose [[Web Server]] used to host:
 - Pages
 - Files
+Similar to [[nginx]] or [[Apache]].
