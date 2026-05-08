@@ -48,3 +48,4 @@ aliases:
 - [[Rich Internet Application Cross Domain Policy]]
 - [[Session Management Schema]]
 - [[Common Gateway Interface]]
+- [[Server Side Include]]

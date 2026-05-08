@@ -77,3 +77,4 @@ banner:
 - [[Content Disarm and Reconstruction]] tool
 - [[Code Synthesis]] compiler
 - A [[SIGSTOP]] and [[SIGCONT]] program/malware
+- [[Common Gateway Interface|CGI]]
