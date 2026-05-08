@@ -22,6 +22,7 @@ aliases:
 - [[Type Confusion]]
 - [[Insecure Direct Object Reference|IDOR]]
 - [[MIME Sniffing]]
+- [[Prototype Pollution]]
 # Concepts
 - [[Basic Authentication]]
 - [[Session Token]]
