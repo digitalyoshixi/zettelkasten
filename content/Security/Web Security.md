@@ -38,6 +38,8 @@ aliases:
 - [[CSS Injection]]
 - [[Cross Site Flashing]]
 - [[Clickjacking]]
+### Subdomains
+- [[GraphQL Security]]
 # Concepts
 - [[Basic Authentication]]
 - [[Session Token]]
