@@ -19,3 +19,4 @@ npm i express express-graphql graphql
 - [[GraphQL Query]]
 - [[GraphQL Schema]]
 - [[GraphQL Resolvers]]
+- [[GraphQL Voyager]]

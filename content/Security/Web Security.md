@@ -35,6 +35,9 @@ aliases:
 - [[XPath Injection]]
 - [[IMAP Injection]]
 - [[Command Injection]]
+- [[CSS Injection]]
+- [[Cross Site Flashing]]
+- [[Clickjacking]]
 # Concepts
 - [[Basic Authentication]]
 - [[Session Token]]
