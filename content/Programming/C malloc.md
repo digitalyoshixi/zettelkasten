@@ -7,7 +7,7 @@ aliases:
   - malloc
 ---
 Is a C function to allow memory allocation to the [[OS Heap]].
-Requires [[stdlib.h]]
+Requires [[Standard Library]]
 `malloc` syntax is as follows: `(type*)malloc(size_t)`.
 - `size_t` - unsigned integer representing size to allocate
 - `type*` is what the pointer is typecasted to. 

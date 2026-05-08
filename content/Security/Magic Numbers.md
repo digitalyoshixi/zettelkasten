@@ -3,6 +3,8 @@ tags:
   - software
   - os
   - internet_culture
+aliases:
+  - Magic Bytes
 ---
 Magic is well, magic is ambiguous. Magic is something we don’t know! Magic is science, but science is spirituality, but spirituality is magic, and the whole thing gets flipped on its head.
 

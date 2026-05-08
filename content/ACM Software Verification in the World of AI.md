@@ -23,4 +23,6 @@ A talk at [[Association of Computing Machinery]]
 	- ![[ACM Software Verification in the World of AI-20260508002320216.webp]]
 	- Uses [[Eiffel]] to enforce contracts\
 - Agents still fail in producing verified code
-- You need a entire process involving the human who still is
+- You need a entire process involving the human who still is a little more powerful than AI
+- We require AI as a process
+- His paper: https://arxiv.org/abs/2601.16239
