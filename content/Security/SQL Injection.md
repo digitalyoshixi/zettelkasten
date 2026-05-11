@@ -17,6 +17,7 @@ A [[Security Vulnerability|Vulnerability]] that exists when input validation for
 ' OR '1'='1' --
 ```
 # Techniques
+### Returned SQL
 - [[SQLI Comments]]
 - [[SQLI UNION Attack]]
 - [[SQLI Determining Number of Columns]]
@@ -24,3 +25,6 @@ A [[Security Vulnerability|Vulnerability]] that exists when input validation for
 - [[SQLI Concatenation]]
 - [[SQLI Determining Database Type]]
 - [[SQLI View Tables]]
+### Blind SQL
+Unable to see query results, but results change behavior of the site
+- [[Blind SQLI Conditional Triggering]]
