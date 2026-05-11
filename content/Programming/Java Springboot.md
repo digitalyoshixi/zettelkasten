@@ -38,3 +38,10 @@ public class MyController {
 - [[Database Layer]]
 - [[Model-View-Presenter]]
 - [[Inversion of Control]]
+# Common Endpoints
+- `/env`
+- `/info`
+- `/mappings`
+- `/httptrace`
+- `/logfile`
+- `/heapdump`

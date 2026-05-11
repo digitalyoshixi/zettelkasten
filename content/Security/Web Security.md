@@ -54,3 +54,25 @@ aliases:
 - [[Session Management Schema]]
 - [[Common Gateway Interface]]
 - [[Server Side Include]]
+# Enumeration
+### [[Open Source Intelligence|OSINT]]
+- [[Google Dorking]]
+- [[Github OSINT]]
+- [[Swagger]]
+- https://securitytrails.com
+- https://crt.sh/
+### Passive Enumeration
+- [[Wappalyzer]]
+- Unminify [[JavaScript]] and use regex to search for:
+	- API endpoints
+	- Secrets
+	- API keys
+	- Comments
+	- Dev shortcuts
+	- Application logic
+### Active Enumeration
+- [[Gobuster]]
+- [[Nmap]]
+- [[Tinyproxy]]
+- [[IIS Private IP Disclosure]]
+- [[IIS Tilde Enumeration]]

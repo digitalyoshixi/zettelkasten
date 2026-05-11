@@ -12,4 +12,4 @@ https://mywebsite/v2/swagger.json
 https://app.swaggerhub.com/home
 - Search for company name
 - Search for web app name
-- Search for API
+- Search for API URL

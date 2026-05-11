@@ -14,7 +14,3 @@ This is using the public [[World Wide Web]] to find sensitive data.
 - Research papers
 # OSINT Framework
 https://osintframework.com/
-# Website OSINT
-- [[Google Dorking]]
-- [[Github OSINT]]
-- [[Swagger]]
