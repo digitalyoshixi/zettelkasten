@@ -3,4 +3,13 @@ tags:
   - redteam
   - web
 ---
-Same as gobuster. It is a web fuzzer which can view the directories in a webpage. However, you can sort using this. Double flags like --hl 81 will hide all lines that are 81 characters. Or you can hide error codes aswell
+A web [[Fuzzing|Fuzzer]] that can test multiple [[Rest API|HTTP Request]]. 
+# Usage
+```
+wfuzz -w /usr/share/wordlists/mywordlist.txt 'http://127.0.0.1:500/api/v1/books?id=FUZZ'
+```
+# Flags
+```
+-hl # hide lines
+-hc 404 # hide error code 404s
+```
