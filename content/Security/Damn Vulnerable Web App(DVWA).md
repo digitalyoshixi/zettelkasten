@@ -73,7 +73,7 @@ Changing a url to already pre-include form information. There are 3 main conditi
 
 This requires social engineering to send this URL.
 
-we can catch a specific http request with [[Security/Burpsuite]]
+we can catch a specific http request with [[Burp Suite]]
 
 
     

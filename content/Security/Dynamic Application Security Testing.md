@@ -8,5 +8,5 @@ aliases:
 A method to analyze the security of an app with [[Black Box Testing]].
 # Tools
 - [[CyberRes Fortify]]
-- [[Burpsuite]]
+- [[Burp Suite]]
 - [[Acunetix]]
