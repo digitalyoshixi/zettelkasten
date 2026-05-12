@@ -10,4 +10,4 @@ A address on a [[Blockchain Network]] that contains [[Cryptocurrency]].
 ### Software Wallet
 - [[Metamask]]
 ### Hardware Wallet
-- [[]]
+- 

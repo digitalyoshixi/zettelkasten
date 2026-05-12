@@ -12,6 +12,8 @@ Comprised as a series of [[Transaction Block|Transaction Blocks]] arranged via a
 - [[Cryptocurrency]]
 - [[Blockchain Power Grid]]
 # Concepts
+- [[Blockchain Node]]
+- [[Blockchain Miner]]
 - [[Double Spend]]
 - [[Consensus Algorithm]]
 	- [[Proof of Work]]
@@ -21,6 +23,7 @@ Comprised as a series of [[Transaction Block|Transaction Blocks]] arranged via a
 - [[Scalability Trilemma]]
 - [[Blockchain Network]]
 - [[Web3js]]
+- [[Mempool]]
 # Smart Contracts
 - [[Tokenized Vault]]
 # [[Smart Contract Security|Blockchain Security]]
