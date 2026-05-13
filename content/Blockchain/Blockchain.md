@@ -7,6 +7,8 @@ A shared [[Distributed Ledger]] that is designed to be:
 - [[Decentralized]]
 Comprised as a series of [[Transaction Block|Transaction Blocks]] arranged via a [[Consensus Algorithm]]
 ![[Blockchain-20260506024831644.webp]]
+# Blockchain Appending
+1. Recieve new blocks broadcast by [[Blockchain Miner|Miners]]
 # Utilization
 - [[Decentralized App|dApp]]
 - [[Cryptocurrency]]
