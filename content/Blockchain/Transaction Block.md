@@ -10,6 +10,7 @@ A block contains:
 - A [[Nonce]]
 - A block hash (computed by [[Consensus Algorithm]])
 - A [[Digital Signature]] signed by the party's [[Private Key]]
+- [[Blockchain World State]]
 ```
 Alice pays Bob $500
 Bob pays Charlie $400
