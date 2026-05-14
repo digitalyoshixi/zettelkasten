@@ -13,6 +13,13 @@ Comprised as a series of [[Transaction Block|Transaction Blocks]] arranged via a
 - [[Decentralized App|dApp]]
 - [[Cryptocurrency]]
 - [[Blockchain Power Grid]]
+# Layers
+![[Blockchain-20260514021448498.webp]]
+- [[Blockchain Layer 0]]
+- [[Blockchain Layer 1]]
+- [[Blockchain Layer 2]]
+- [[Blockchain Layer 3]]
+- [[Sidechain]]
 # Concepts
 - [[Blockchain Node]]
 - [[Blockchain Miner]]
@@ -26,10 +33,6 @@ Comprised as a series of [[Transaction Block|Transaction Blocks]] arranged via a
 - [[Blockchain Network]]
 - [[Web3js]]
 - [[Mempool]]
-- [[Blockchain Layer 0]]
-- [[Blockchain Layer 1]]
-- [[Blockchain Layer 2]]
-- [[Blockchain Layer 3]]
 # Smart Contracts
 - [[Tokenized Vault]]
 # [[Smart Contract Security|Blockchain Security]]
