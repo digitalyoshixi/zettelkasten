@@ -6,7 +6,6 @@ tags:
 https://portswigger.net/research/stealing-httponly-cookies-with-the-cookie-sandwich-technique
 A method to steal httponly cookies.
 Allows bypassing [[Web Application Firewall|WAF]] through legacy cookies like `$Version` that allow special characters to be included within the cookie value.
-
 # Example Exploit
 ```js
 document.cookie = `$Version=1;`;
