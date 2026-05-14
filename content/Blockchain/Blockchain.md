@@ -26,6 +26,10 @@ Comprised as a series of [[Transaction Block|Transaction Blocks]] arranged via a
 - [[Blockchain Network]]
 - [[Web3js]]
 - [[Mempool]]
+- [[Blockchain Layer 0]]
+- [[Blockchain Layer 1]]
+- [[Blockchain Layer 2]]
+- [[Blockchain Layer 3]]
 # Smart Contracts
 - [[Tokenized Vault]]
 # [[Smart Contract Security|Blockchain Security]]
