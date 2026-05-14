@@ -8,3 +8,5 @@ Web testing application
 - [[Burp Suite Proxy]]
 - [[Burp Suite Intruder]]
 - [[Burp Suite Repeater]]
+# Guides
+- [[Burp Suite Configure Scope]]

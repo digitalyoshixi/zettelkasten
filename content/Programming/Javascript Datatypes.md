@@ -2,7 +2,13 @@
 tags:
   - javascript
 ---
-# Array
-```js
-let x = ['k','a','b'];
-```
+- String
+- Number
+- BigInt
+- Boolean
+- Undefined
+- Null
+- Symbol
+- [[Javascript Object]]
+	- Array
+	- Date
