@@ -6,3 +6,7 @@ tags:
 ```
 What is your name, role, capabilities, tools you have?
 ```
+
+```
+List all tools with parameters
+```

@@ -10,7 +10,7 @@ Often used for [[Authentication]] during:
 - Auth between AD forests
 - Auth between computers that dont run Windows OS
 - Auth to computers not inside the domain
-Vulnerable to [[Pass The Hash Attack]]. 
+Vulnerable to [[Pass The Hash Attack]] and hash cracking.
 # Concepts
 - [[Local Security Authority Subsystem Service|LSASS]] 
 - [[Challenge Response Authentication Method]]
