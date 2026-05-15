@@ -39,6 +39,7 @@ aliases:
 - [[Cross Site Flashing]]
 - [[Clickjacking]]
 - [[JSONP Origin Policy Bypass]]
+- [[Race Condition]]
 ### Subdomains
 - [[GraphQL Security]]
 # Concepts
@@ -78,3 +79,9 @@ aliases:
 - [[Tinyproxy]]
 - [[IIS Private IP Disclosure]]
 - [[IIS Tilde Enumeration]]
+# Methodology
+1. Unauthenticated accessible findings
+2. Config/session managment vulns
+3. Authorization vulns
+4. External API issues
+5. Business logic issues
