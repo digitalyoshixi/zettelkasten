@@ -12,6 +12,7 @@ Hardware or software used to monitor and control physical devices and processes.
 - [[Distributed Control Systems]]
 - [[Industrial Control System|ICS]]
 - [[Internet of Things|IoT]]
+- [[Industrial Internet of Things|IIoT]]
 # Concepts
 - [[Modbus]]
 - [[Distributed Network Protocol 3]]
@@ -24,6 +25,7 @@ Hardware or software used to monitor and control physical devices and processes.
 - [[Open Platform Communications Unified Architecture]]
 - [[Network Determinism]]
 - [[Virtual Patching]]
+- [[OT Industry Maturity]]
 # Tools
 - [[MITRE Caldera]]
 # Historical Attacks
