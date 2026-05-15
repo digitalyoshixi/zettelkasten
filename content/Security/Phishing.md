@@ -9,6 +9,7 @@ A method of gathering data by [[Impersonation|Impersonating]] or enticing users 
 - [[Vishing]]
 - [[War Dialing]]
 - [[Robocalling]]
+- [[Direct Mail Injection]]
 # Well-Known Techniques
 - [[Spoofed Communication Phishing]]
 - [[Urgent Phishing]]
