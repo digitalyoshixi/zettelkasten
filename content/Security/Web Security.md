@@ -40,7 +40,8 @@ aliases:
 - [[Clickjacking]]
 - [[JSONP Origin Policy Bypass]]
 - [[Race Condition]]
-- [[Business Logic Vulnerabilities]]
+- [[Business Logic Vulnerability]]
+- [[Mass Assignment Vulnerability]]
 ### Subdomains
 - [[GraphQL Security]]
 # Concepts
