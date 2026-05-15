@@ -10,6 +10,7 @@ aliases:
 - [[Re-entrancy Attack]]
 - [[Sybil Attack]]
 - [[Eclipse Attack]]
+- [[Maximal Extractable Value Problem]]
 # Tools
 - [[Remix IDE]]
 ### Transaction Explorers

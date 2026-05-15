@@ -4,4 +4,5 @@ tags:
 ---
 A temporary queue of transactions that [[Blockchain Miner]] will fetch from
 # Concepts
-- [[P]]
+- [[Private Mempool]]
+- [[Maximal Extractable Value Problem]]
