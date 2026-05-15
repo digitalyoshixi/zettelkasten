@@ -16,3 +16,7 @@ SSH is secure because it uses public/private keys to encrypt and decrypt data.
 An SSH key is often a 256 byte file that contains symbols used to encrypt/decrypt data.
 You can create a key with [[OpenSSH]]
 - [[OpenSSH Keygen]]
+# Guides
+- [[OpenSSH Keygen]]
+- [[SSH Port Forwarding]]
+- [[OpenSSH SOCKS5 Proxy]]
