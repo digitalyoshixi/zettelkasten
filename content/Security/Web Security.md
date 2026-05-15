@@ -38,9 +38,11 @@ aliases:
 - [[CSS Injection]]
 - [[Cross Site Flashing]]
 - [[Clickjacking]]
+- [[JSONP Origin Policy Bypass]]
 ### Subdomains
 - [[GraphQL Security]]
 # Concepts
+- [[Same Origin Policy]]
 - [[Basic Authentication]]
 - [[Session Token]]
 - [[JSON Web Token|JWT Token]]
