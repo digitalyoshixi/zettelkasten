@@ -3,5 +3,11 @@ tags:
   - hardware
 aliases:
   - CAN Bus
+  - CAN
 ---
-A [[Data Bus|Bus]] linked to the [[Vehicle Control Unit|VCU]] used to manage communication in a [[Car]].
+A communication protocol between components of a vehicle implemented as a [[Data Bus|Bus]] linked to the [[Vehicle Control Unit|VCU]] used to manage communication in a [[Vehicle]].
+Cheap and reliable protocol. 
+# Alternatives
+- [[Controller Area Network Flexible Data-Rate]]
+- [[FlexRay]]
+- [[Automotive Ethernet]]
