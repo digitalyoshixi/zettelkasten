@@ -10,8 +10,16 @@ tags:
 - [[Controller Area Network Flexible Data-Rate]]
 - [[FlexRay]]
 - [[Automotive Ethernet]]
-- [[RAMN]]
+- [[Unified Diagnostic Services]]
+- [[ISO 15765-2]]
+- [[Universal Asynchronous Receiver Transmitter|UART]]
+- [[High-Speed-Fahrzeug-Zugang]]
+- [[Diagnostic over IP]]
+# Tools
+- [[Resistant Automotive Miniature Network|RAMN]]
+- [[Instrument Cluster Simulation]]
 # Vulnerabilities
--
+- [[Fault Injection]]
+- [[Invasive Fault Injection]]
 # Attacks
 - [[2014 Jeep Hack]]

@@ -3,7 +3,6 @@ tags:
   - security
 ---
 [[Security Framework]] to categorize a threat
-
 # Damage Potential
 - Measures the extend of harm an attacker could cause
 # Reproducibility
