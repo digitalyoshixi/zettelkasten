@@ -13,6 +13,7 @@ Comprised as a series of [[Transaction Block|Transaction Blocks]] arranged via a
 - [[Decentralized App|dApp]]
 - [[Cryptocurrency]]
 - [[Blockchain Power Grid]]
+- [[Decentralized Autonomous Organization|DAO]]
 # Layers
 ![[Blockchain-20260514021448498.webp]]
 - [[Blockchain Layer 0]]

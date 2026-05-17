@@ -9,3 +9,4 @@ Uses [[Solidity]] to write smart contracts.
 - [[Smart Contract]]
 - [[Solidity]]
 - [[Ethereum Virtual Machine|EVM]]
+- [[Ethereum Name Service]]

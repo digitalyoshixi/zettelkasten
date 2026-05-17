@@ -10,3 +10,7 @@ tags:
 - Often standardized
 - Often easily providable
 In contrast to [[Services]].
+# Types
+![[Goods-20260517020148290.webp]]
+- [[Excludable]]
+- [[Rivalrous]]
