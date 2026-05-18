@@ -18,7 +18,7 @@ So based.
 - [[top]]
 - [[find]]
 - [[grep]]
-- [[sed]]
+- [[Stream Editor]]
 - [[awk]]
 - [[suid]]
 # Guides

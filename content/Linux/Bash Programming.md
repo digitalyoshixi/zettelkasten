@@ -40,7 +40,7 @@ aliases:
 - [[Linux Redirection|Bash Redirection]]
 - [[Environment Variables]]
 - [[awk]]
-- [[sed]]
+- [[Stream Editor]]
 # Useful Commands
 - [[echo]]
 - [[expr]]
