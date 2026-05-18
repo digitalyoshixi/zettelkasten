@@ -11,3 +11,4 @@ Uses [[Solidity]] to write smart contracts.
 - [[Ethereum Virtual Machine|EVM]]
 - [[Ethereum Name Service]]
 - [[Recursive Length Protocol eXchange|RLPx]]
+- [[Ethereum Function Selector]]
