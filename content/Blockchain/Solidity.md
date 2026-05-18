@@ -44,6 +44,8 @@ contract Counter {
 - [[Solidity Event]]
 - [[Solidity Call]]
 - [[Solidity DelegateCall]]
+- [[EVM Account Storage]]
+- [[Ethereum Proxy Pattern]]
 - [[Solidity Error Handling]]
 - [[truffle-config.js]]
 - [[truffle console]]

@@ -16,6 +16,9 @@ while(true){
 They are:
 - Immutable. If you want to change a smart contract you need to make a new one and then tell all users to migrate to using the new one
 - Distributed. All users have the same smart contract
+# Structure
+- [[Smart Contract Dispatcher]]
+- Various [[Ethereum Bytecode|EVM Opcode]] functions
 # Subtypes
 - [[Multi-Signature Smart Contract]]
 # Utilizations

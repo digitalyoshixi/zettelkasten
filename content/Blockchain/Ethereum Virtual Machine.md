@@ -16,5 +16,6 @@ Able to run on most operating systems.
 - [[EVM Stack]]
 - [[EVM Heap]]
 - [[Ethereum Bytecode]]
+- [[EVM Account Storage]]
 # Tools
 - [[Ethereum Toolkit]]

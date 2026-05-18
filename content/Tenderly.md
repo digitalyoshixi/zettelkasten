@@ -5,6 +5,7 @@ tags:
 ---
 A [[Transaction Block]] explorer.
 https://dashboard.tenderly.co/explorer
+Can debug transactions that have already occured.
 # Support
 - [[Ethereum]]
 - Polygon
