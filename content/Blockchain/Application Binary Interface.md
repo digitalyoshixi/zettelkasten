@@ -5,6 +5,9 @@ aliases:
   - ABI
 ---
 A interface [[Ethereum Bytecode]] in a [[Smart Contract]] running on the [[Ethereum Virtual Machine|EVM]].
+Contains:
+- [[Solidity Function]] signatures
+- [[Solidity Event]]
 # Concepts
 - [[Ethereum Function Selector]]
 # Finding Available ABIs

@@ -36,9 +36,13 @@ contract Counter {
 5. Migrate with `truffle migrate --reset`
 # Concepts
 - [[Solidity Contract]]
+- [[Solidity Context]]
 - [[Solidity Migration]]
 - [[Solidity Struct]]
 - [[Solidity Map]]
+- [[Solidity Function]]
+- [[Solidity Event]]
+- [[Solidity Error Handling]]
 - [[truffle-config.js]]
 - [[truffle console]]
 - [[solc]]
