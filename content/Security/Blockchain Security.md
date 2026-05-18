@@ -3,17 +3,20 @@ tags:
   - security
   - blockchain
 aliases:
-  - Blockchain Security
 ---
 # Vulnerabilities
 - [[51% Attack]]
-- [[Re-entrancy Attack]]
 - [[Sybil Attack]]
 - [[Eclipse Attack]]
 - [[Flash Loan]]
 - [[Long Range Attack]]
-- [[Nothing at Stake Attack]]
+- [[Nothing at Stake Problem]]
 - [[Bribery Attack]]
+- [[Blockchain Routing Attack]]
+- [[Double Spend]]
+- [[Blockchain Replay Attack]]
+### Smart Contract Vulnerabilities
+- [[Re-entrancy Attack]]
 # Tools
 - [[Remix IDE]]
 ### Transaction Explorers

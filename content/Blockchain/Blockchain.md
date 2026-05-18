@@ -36,7 +36,7 @@ Comprised as a series of [[Transaction Block|Transaction Blocks]] arranged via a
 - [[Mempool]]
 # Smart Contracts
 - [[Tokenized Vault]]
-# [[Smart Contract Security|Blockchain Security]]
+# [[Blockchain Security|Blockchain Security]]
 # Tokens
 - [[ERC20]]
 - [[Non-Fungible Token|ERC21]]

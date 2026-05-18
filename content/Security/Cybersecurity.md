@@ -27,5 +27,5 @@ aliases:
 - Compliance and Security Standards
 - Critical Infrastructure Security
 - [[Financial Transaction Security]]
-- [[Smart Contract Security|Blockchain Security]]
+- [[Blockchain Security|Blockchain Security]]
 - [[Biosecurity]]

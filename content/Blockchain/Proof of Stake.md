@@ -12,4 +12,5 @@ If gas fees are high, transaction fees are [[Gas Burning|Burned]]
 - [[Chain-Based Proof of Stake]]
 - [[Nominated Proof of Stake]]
 - [[Byzantine Fault Tolerant Proof of Stake]]
-- [[Delegated Proof of Stake]]
+# Concepts
+- [[Stake Slashing]]
