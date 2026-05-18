@@ -9,3 +9,4 @@ A [[Pseudo Random Number Generator|PRNG]] that is backed by [[Public-Key Cryptog
 - Created by private key
 - Verified by public key
 # Algorithms
+ - [[ECVRF]]
