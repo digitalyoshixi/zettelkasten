@@ -15,6 +15,7 @@ aliases:
 - [[Blockchain Routing Attack]]
 - [[Double Spend]]
 - [[Blockchain Replay Attack]]
+- [[Finney Attack]]
 ### Smart Contract Vulnerabilities
 - [[Re-entrancy Attack]]
 # Tools
