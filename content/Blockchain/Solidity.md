@@ -42,6 +42,8 @@ contract Counter {
 - [[Solidity Map]]
 - [[Solidity Function]]
 - [[Solidity Event]]
+- [[Solidity Call]]
+- [[Solidity DelegateCall]]
 - [[Solidity Error Handling]]
 - [[truffle-config.js]]
 - [[truffle console]]
