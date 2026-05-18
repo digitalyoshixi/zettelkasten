@@ -7,7 +7,7 @@ What the [[Smart Contract]] stores.
 - Transaction & Message call context
 	- `msg.sender`
 	- `tx.gasprice`
-- Block context (`block.blockshash`)
+- Block context (`block.blockhash`)
 - Address object (`address.balance`, `address.send(amount)`)
 - Built-in-functions
 	- `addmod`

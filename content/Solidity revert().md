@@ -3,4 +3,7 @@ tags:
   - programming
   - solidity
 ---
-A function that will stop execution and create an error message
+A function that will stop execution and create an error message.
+```solidity
+revert("error!!!")
+```

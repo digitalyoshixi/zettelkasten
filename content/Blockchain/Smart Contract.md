@@ -23,5 +23,6 @@ They are:
 - [[Blockchain Insurance]]
 - [[Token Switching]]
 - [[Blockchain Real Estate]]
-# Management Tools
+# Tools
 - [[OpenZeppelin Defender]]
+- [[OpenZeppelin Contract Wizard]]
