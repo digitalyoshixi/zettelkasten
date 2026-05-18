@@ -7,6 +7,8 @@ aliases:
 ---
 A [[Proof of Work]] algorithm.
 Requires clients concatenate a [[Salting|Salt]] to string and continuously hash until a hash beginning with a certain number of zeroes is found.
+
+![[Proof of Work-20260512030224997.webp]]
 # Hashcash Format
 ### Header
 ```

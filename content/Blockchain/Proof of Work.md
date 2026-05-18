@@ -1,8 +1,14 @@
 ---
 tags:
   - cryptography
+aliases:
+  - PoW
 ---
-A [[Consensus Algorithm]] that requires the user to compute a hash less than a required target for a [[Transaction Block]], so that it can be added to a [[Blockchain]]
-![[Proof of Work-20260512030224997.webp]]
+A [[Consensus Algorithm]] that involves large compute to solve a challenge.
+# Types
+### Challenge-Response
+Provider gives a challenge with a known solution, client solves with answer
+### Solution-Verification
+Problem is self-imposed. Provider must check problem and solution to verify
 # Algorithms
 - [[Hashcash]]
