@@ -4,7 +4,7 @@ tags:
   - security
 ---
 A code pattern to prevent against [[Re-entrancy Attack]].
-```sol
+```solidity
 function withdraw(uint amount) public {
 	require(balances[msg.sender] >= amount); // check
 	balances[msg.sender] -= amount; // effect
