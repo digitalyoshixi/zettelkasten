@@ -1,6 +1,9 @@
 ---
 tags:
   - database
+aliases:
+  - Schema Definition Language
+  - SDL
 ---
 ```
 type Creator{

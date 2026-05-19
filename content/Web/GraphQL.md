@@ -11,14 +11,19 @@ Multiple [[Rest API]] requests can be packed into a single GraphQL request.
 - Only POST requests
 - Queries can impact server performance
 - Always responds with HTTP 200
+	- Errors are included in payload
 # Installation ([[ExpressJS]])
 ```
 npm i express express-graphql graphql
 ```
 # Concepts
 - [[GraphQL Query]]
+- [[GraphQL Mutation]]
+- [[GraphQL Subscription]]
 - [[GraphQL Schema]]
 - [[GraphQL Resolvers]]
 - [[GraphQL Voyager]]
 - [[GraphQL Threat Matrix]]
-- [[Schema Definition Language]]
+- [[GraphQL Introspection]]
+# Tools
+- [[Altair]]
