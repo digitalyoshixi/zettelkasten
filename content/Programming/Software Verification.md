@@ -8,6 +8,8 @@ aliases:
 The process of proving a software conforms to some formal standard.
 *It is correct because I proved that certain errors do not exist in the system*
 # Concepts
+- [[Specification Implementation Gap]]
+- [[World Specification Gap]]
 ### Static Verification
 - [[Software Proof]]
 - [[Software Inspections]]

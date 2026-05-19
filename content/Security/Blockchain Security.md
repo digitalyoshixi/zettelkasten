@@ -22,7 +22,7 @@ aliases:
 - [[Unexpected Ether Attack]]
 - [[DelegateCall Attack]]
 - [[Blockchain Oracle Tampering]]
-- [[Short Parameter Attack]]
+- [[Short Address Attack]]
 - [[Constructors with Care]]
 # Tools
 - [[Remix IDE]]
