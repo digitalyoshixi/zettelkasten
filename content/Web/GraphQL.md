@@ -21,3 +21,4 @@ npm i express express-graphql graphql
 - [[GraphQL Resolvers]]
 - [[GraphQL Voyager]]
 - [[GraphQL Threat Matrix]]
+- [[Schema Definition Language]]
