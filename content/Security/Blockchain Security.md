@@ -21,7 +21,7 @@ aliases:
 - [[Arithmetic Overflow]]
 - [[Unexpected Ether Attack]]
 - [[DelegateCall Attack]]
-- [[Entropy Illusion]]
+- [[Blockchain Oracle Tampering]]
 - [[Short Parameter Attack]]
 - [[Constructors with Care]]
 # Tools
