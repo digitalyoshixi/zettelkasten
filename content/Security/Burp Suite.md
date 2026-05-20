@@ -8,12 +8,12 @@ Web testing application
 - [[Burp Suite Proxy]]
 - [[Burp Suite Intruder]]
 - [[Burp Suite Repeater]]
-- [[Burp Suite Discovery Scan]]
+- [[Burp Content Discovery]]
 # Guides
 - [[Burp Suite Configure Scope]]
 - [[Burp Suite Match and Replace]]
 # Extensions
-- ActiveScan++
+- [[ActiveScan++]]
 - Content-Type Converter (JSON - XML)
 - Hackvector
 - HTTP Request Smuggler
@@ -26,3 +26,4 @@ Web testing application
 - J2EEScan
 - [[OpenAPI Parser]]
 - [[JS Link Finder]]
+- [[Param Miner]]

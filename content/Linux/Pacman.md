@@ -16,3 +16,7 @@ sudo rm /var/lib/pacman/db.lck
 ```
 pacman -Sc
 ```
+# View Package Installation Location
+```
+pacman -Ql pkgname
+```
