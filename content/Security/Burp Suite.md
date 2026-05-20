@@ -17,10 +17,12 @@ Web testing application
 - Content-Type Converter (JSON - XML)
 - Hackvector
 - HTTP Request Smuggler
-- JWT Editor
+- [[JWT Editor]]
 - Transfuzz
 - GraphQL Raider
 - WASDLer
 - IIS Tilde Enumeration Scanner
 - Padding Oracle Hunter
 - J2EEScan
+- [[OpenAPI Parser]]
+- [[JS Link Finder]]
