@@ -16,3 +16,6 @@ tags:
 - [[Movfuscator]]
 - [[Shikata ga nai]]
 - [[Function Inlining]] and [[Function Outlining]]
+- [[API Hashing]]
+# Encodings
+- [[IPv6 Obfuscation]]
