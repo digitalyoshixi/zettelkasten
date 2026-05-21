@@ -16,6 +16,10 @@ typedef struct some_struct
 	// entries in the struct
 } datatypename;
 ```
+# TypeDef [[C Function Pointers]]
+```c
+typedef return_type (*alias_name)(parameter_types and numbers....);
+```
 # Example
 ```c
 typedef struct Node {

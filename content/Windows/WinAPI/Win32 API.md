@@ -24,6 +24,10 @@ http://www.winprog.org/tutorial/start.html
 - [[MessageBox()]]
 - [[VirtualAlloc]]
 - [[VirtualFree]]
+- [[VirtualProtect]]
+- [[RtlIpv6StringToAddress]]
 - [[CreateWindow]]
+- [[GetProcAddress()]]
+- [[GetModuleHandle()]]
 # Guides
 - https://github.com/7etsuo/windows-api-function-cheatsheets
