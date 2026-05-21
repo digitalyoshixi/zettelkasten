@@ -13,3 +13,7 @@ sudo pacman -S trufflehog
 trufflehog
 ```
 Will open the trufflehog wizard
+# Scan Local Directory
+```
+trufflehog filesystem .
+```
