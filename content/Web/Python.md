@@ -23,6 +23,7 @@ Python is a bytecode virtual machine. You can see the [[Python Bytecode]] and ex
 - [[Python Write Binary File]]
 - [[Python Pipe Shellcode]]
 - [[Python Convert Hexstring to ASCII Stirng]]
+- [[Python Format Specifier String]]
 # Libraries
 - [[Python os]]
 - [[Sci-kit Learn]]
