@@ -42,6 +42,7 @@ aliases:
 - [[Race Condition]]
 - [[Business Logic Vulnerability]]
 - [[Mass Assignment Vulnerability]]
+- [[Host Header Injection Vulnerability]]
 ### Subdomains
 - [[GraphQL Security]]
 # Concepts
