@@ -22,5 +22,6 @@ Often includes:
 - [[EDR Last Stack Call Tracing]]
 - [[EDR Function Hooking]]
 - [[EDR Direct Syscall Removal]]
+- [[Memory Scanner]]
 # Concepts
 - [[EDR Bypass]]

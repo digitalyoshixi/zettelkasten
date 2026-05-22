@@ -2,7 +2,7 @@
 tags:
   - linux
 ---
-So based.
+A [[File Oriented Operating System]] So based.
 # Concepts
 - [[Linux Kernel]]
 - [[Linux Distro]]

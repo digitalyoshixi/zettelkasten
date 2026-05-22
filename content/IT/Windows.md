@@ -3,7 +3,7 @@ tags:
   - windows
   - os
 ---
-OS made by [[Microsoft]] that steals all your data.
+[[Object Oriented Operating System]] made by [[Microsoft]] that steals all your data.
 # Windows Versions
 - [[MS-DOS]]
 - [[Windows XP]]
@@ -14,6 +14,10 @@ OS made by [[Microsoft]] that steals all your data.
 - [[Windows 10]]
 - [[Windows 11]]
 # Concepts
+### OS-Structure
+- [[EPROCESS]]
+- [[Process Environment Block]]
+### User Concepts
 - [[Windows Workgroups]]
 - [[Windows Domain]]
 - [[Windows Group Policies]]

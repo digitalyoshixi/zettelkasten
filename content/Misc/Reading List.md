@@ -18,5 +18,11 @@ tags:
 - https://brokenthorn.com/Resources/OSDevIndex.html
 ### Reverse Engineering
 - https://www.msreverseengineering.com/program-analysis-reading-list
+- https://scribe.r4fo.com/@patrarajarshi20/indirect-syscalls-a-tale-never-ending-2573fb84cd45
+- https://github.com/stephenfewer/ReflectiveDLLInjection
+- https://github.com/mobdk/WinSpoof
+- https://scribe.r4fo.com/@0waizkhan/spoofing-call-stacks-to-evade-edr-detection-0113cf6a44d6
+- https://scribe.r4fo.com/@jonny-johnson/understanding-telemetry-kernel-callbacks-1a97cfcb8fb3
+- https://github.com/am0nsec/HellsGate
 ### [[Software Verification|Formal Verification]]
 - [[Provable Security Talk]]
