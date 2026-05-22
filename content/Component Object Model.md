@@ -51,6 +51,13 @@ $Shortcut.Save()
 - [[TypeLib]]
 - [[ProgID]]
 - [[AppID]]
+- [[InterfaceID]]
 # Tools
 - [[TypeLibWalker]]
 - [[OleViewDotNet]]
+- [[MonikerHound]]
+# Blogs
+- https://mohamed-fakroud.gitbook.io/red-teamings-dojo/windows-internals/playing-around-com-objects-part-1
+- https://www.221bluestreet.com/offensive-security/windows-components-object-model/demystifying-windows-component-object-model-com
+# Exploits
+- [[LeakedWallpaper]]
