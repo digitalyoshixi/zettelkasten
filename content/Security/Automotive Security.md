@@ -2,6 +2,8 @@
 tags:
   - security
   - hardware
+aliases:
+  - Car Security
 ---
 # Concepts
 - [[Vehicle Control Unit|ECU]]
@@ -15,6 +17,7 @@ tags:
 - [[Universal Asynchronous Receiver Transmitter|UART]]
 - [[High-Speed-Fahrzeug-Zugang]]
 - [[Diagnostic over IP]]
+- [[Remote Keyless Entry]]
 # Tools
 - [[Resistant Automotive Miniature Network|RAMN]]
 - [[Instrument Cluster Simulation]]
