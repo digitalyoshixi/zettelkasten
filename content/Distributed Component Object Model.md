@@ -1,0 +1,6 @@
+---
+tags:
+  - windows
+aliases:
+  - DCOM
+---
