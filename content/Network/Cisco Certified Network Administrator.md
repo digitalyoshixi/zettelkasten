@@ -19,6 +19,7 @@ The best networking certification you can get.
 	- [[TCP & IP Model]]
 	- [[OSI Model]]
 - [[Network/Encapsulation|Encapsulation]]
+- [[Bit Transmission]]
 - [[Network Messages]]
 - [[Protocol Data Unit|PDU]]
 ### Chapter 2

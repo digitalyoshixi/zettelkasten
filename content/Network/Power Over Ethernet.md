@@ -30,4 +30,4 @@ Can also be used to:
 ##### Type 4
 - 71.3W of DC power
 - 960 mA max current
-- Works with [[Ethernet Flavours|10GBASE-T]]
+- Works with [[Ethernet Speeds|10GBASE-T]]

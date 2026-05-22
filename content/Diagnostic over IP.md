@@ -11,4 +11,4 @@ Involves:
 - Connection of vehicles
 - Data routing to vehicle components
 Port `tcp/13400`
-Communicates over [[Ethernet Flavours|100BASE-T]]
+Communicates over [[Ethernet Speeds|100BASE-T]]

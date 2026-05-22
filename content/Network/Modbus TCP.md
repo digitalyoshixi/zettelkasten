@@ -4,7 +4,7 @@ tags:
 aliases:
   - Modbus/TCP
 ---
-A [[Modbus RTU]] wrapped in [[Ethernet Flavours|802.3]] connection.
+A [[Modbus RTU]] wrapped in [[Ethernet Speeds|802.3]] connection.
 - `tcp/502` for Modbus/TCP
 - `tcp/802` for Modbus/TCP-Secure
 # Specification

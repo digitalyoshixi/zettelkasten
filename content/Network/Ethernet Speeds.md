@@ -10,6 +10,7 @@ aliases:
   - 802.3ab
   - 10GBASE-T
   - 802.3an
+  - Ethernet Flavours
 ---
 # Ethernet Flavours
 ![[Ethernet Flavours-20250605130606352.webp]]
