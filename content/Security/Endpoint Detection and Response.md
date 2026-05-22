@@ -20,5 +20,7 @@ Often includes:
 # Techniques
 - [[EDR Direct Shellcode Removal]]
 - [[EDR Last Stack Call Tracing]]
+- [[EDR Function Hooking]]
+- [[EDR Direct Syscall Removal]]
 # Concepts
 - [[EDR Bypass]]
