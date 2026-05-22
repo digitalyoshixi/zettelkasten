@@ -12,6 +12,6 @@ Splitting an original [[IP Address]] into sub-addresses that have different mean
 Subnets are created by doing a bit-wise AND between the [[IP Address]] and a [[Classless Inter-Domain Routing|Subnet Mask]].
 Certain IPs are reserved for:
 - [[Network ID]]
-- [[Broadcast Address]]
+- [[Broadcast]]
 # Concepts
 - [[Classless Inter-Domain Routing|CIDR]]

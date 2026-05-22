@@ -2,4 +2,5 @@
 tags:
   - networking
 ---
-A network wherein every address only represents one [[Network Interface Controller|NIC]].
+An address that represents on one [[Network Interface]].
+In contrast to [[Broadcast]] and [[Multicast]]

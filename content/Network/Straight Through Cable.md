@@ -5,6 +5,8 @@ aliases:
   - Patch Cables
 ---
 ![[Straight Through Cable-20240731175335939.webp|366]]
+- Transmit with pins 1,2
+- Receive with pins 3,6
 Cables where both ends share the same [[RJ-45|RJ-45 Cable Standard]].
 Used for both ends in [[Patch Panel]] installation
 # Use Cases

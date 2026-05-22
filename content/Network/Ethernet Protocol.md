@@ -11,6 +11,5 @@ Not to be confused with an [[RJ-45]] .The Ethernet Protocol is used by RJ45 Cabl
 # Concepts
 - [[RJ-45]]
 - [[Ethernet Frame]]
-- [[RJ-45|Ethernet Cable]]
 - [[Ethernet Speeds]]
 - [[Power Over Ethernet]]

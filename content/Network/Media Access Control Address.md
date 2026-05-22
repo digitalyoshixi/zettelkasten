@@ -5,6 +5,7 @@ aliases:
   - MAC Address
   - MAC Addresses
   - Burned In Address
+  - Ethernet Address
 ---
 ![[Media Access Control Address-20240801210646554.webp]]
 A unique identifier for [[Network Interface]] (that require it). Made for [[Unicast]] networking.

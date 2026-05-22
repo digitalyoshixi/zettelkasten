@@ -31,8 +31,8 @@ The best networking certification you can get.
 - [[Ethernet Frame]]
 - [[Fibre Optic Cable]]
 - [[Unicast]]
-- [[Multicast]]
 - [[Broadcast]]
+- [[Multicast]]
 ### Chapter 3
 - [[Leased Line]]
 - [[Multiprotocol Label Switching|MPLS]]

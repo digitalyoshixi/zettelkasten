@@ -6,6 +6,7 @@ aliases:
   - CSMA/CD
 ---
 A protocol to avoid data collision during communication caused by several devices communicating on one stream.
+Used in [[Point-to-point Communication|Half Duplex]] or [[Hub|Repeater Hub]] networks.
 # Protocol
 1. Each channel is designated as either `idle` or `busy`
 2. If the channel is `idle`, then data can be sent

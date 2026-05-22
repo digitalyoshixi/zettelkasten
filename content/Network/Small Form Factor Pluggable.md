@@ -4,5 +4,6 @@ tags:
 aliases:
   - SFP
 ---
-Network interfaces that largely replaced [[Gigabit Ethernet Interface Converter|GBIC]].
+Network interfaces made to replace [[Gigabit Ethernet Interface Converter|GBIC]].
+- Small size
 - [[Device Hot Swapping|Hot Swappable]]
