@@ -24,5 +24,6 @@ tags:
 - https://scribe.r4fo.com/@0waizkhan/spoofing-call-stacks-to-evade-edr-detection-0113cf6a44d6
 - https://scribe.r4fo.com/@jonny-johnson/understanding-telemetry-kernel-callbacks-1a97cfcb8fb3
 - https://github.com/am0nsec/HellsGate
+- https://www.trustedsec.com/blog/windows-processes-nefarious-anomalies-and-you-memory-regions
 ### [[Software Verification|Formal Verification]]
 - [[Provable Security Talk]]

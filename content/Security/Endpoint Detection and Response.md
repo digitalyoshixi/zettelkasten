@@ -23,5 +23,6 @@ Often includes:
 - [[EDR Function Hooking]]
 - [[EDR Direct Syscall Removal]]
 - [[Memory Scanner]]
+	- [[Clean Stack]] checking
 # Concepts
 - [[EDR Bypass]]
