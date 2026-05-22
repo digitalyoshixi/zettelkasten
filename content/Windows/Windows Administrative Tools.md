@@ -16,5 +16,5 @@ a panel which shows alot of windows tools like:
 - [[Windows Services]]
 - [[Windows System Configuration]]
 - [[Windows System Information]]
-- [[Task Scheduler]]
+- [[Windows Task Scheduler]]
 - [[Windows Defender Firewall]]
