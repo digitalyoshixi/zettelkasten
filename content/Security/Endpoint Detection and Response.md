@@ -17,5 +17,8 @@ Often includes:
 - Forensic analysis
 - Response to threats and instant remediation
 - Endpoint visibility
+# Techniques
+- [[EDR Direct Shellcode Removal]]
+- [[EDR Last Stack Call Tracing]]
 # Concepts
 - [[EDR Bypass]]

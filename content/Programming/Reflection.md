@@ -1,6 +1,8 @@
 ---
 tags:
   - programming
+aliases:
+  - Reflective Programming
 ---
 A feature in [[Meta Programming]].
 Allows querying an object about its attributes at runtime.
