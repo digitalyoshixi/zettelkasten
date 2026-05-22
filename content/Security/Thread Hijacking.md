@@ -10,4 +10,4 @@ A form of [[Binary Obfuscation]] that involves injecting code into a running [[P
 1. [[VirtualAlloc]]
 2. [[VirtualProtect]]
 3. [[GetThreadContext]]
-4. [[SetThreadContxt]]
+4. [[SetThreadContext]]
