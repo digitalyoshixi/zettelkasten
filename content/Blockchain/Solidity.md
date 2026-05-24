@@ -50,5 +50,6 @@ contract Counter {
 - [[truffle-config.js]]
 - [[truffle console]]
 - [[solc]]
+- [[Solidity selfdestruct]]
 # Resources
 - https://solidity-by-example.org/
