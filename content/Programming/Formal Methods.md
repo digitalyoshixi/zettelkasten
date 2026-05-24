@@ -14,5 +14,8 @@ Using [[Rigor|Rigorous]] methods to meet [[Specification]] of a software or hard
 - [[Specification Language]]
 - [[Binary Decision Diagrams]]
 - [[Boolean Satisfiability Problem Solvers|SAT Solvers]]
+# Theorems
+- [[Rice's Theorem|Rices Theorem]]
+- [[Soundness Completeness Impossibility]]
 # Cases
 - [[Ariane 5 Rocket Explosion]]

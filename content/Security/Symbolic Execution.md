@@ -9,6 +9,7 @@ aliases:
 By statically analyzing the program, we can create a system of constrained branches, and apply it to our input to explore interesting execution paths.
 
 It is approaching a program by viewing it as a set of branching paths, rather than analyzing it input by input.
+- For [[Software Verification|Formal Verification]], this is very slow ([[Path Explosion]])
 # Process
 https://www.youtube.com/watch?v=yRVZPvHYHzw
 ![[Symbolic Execution-20240629165834957.webp]]

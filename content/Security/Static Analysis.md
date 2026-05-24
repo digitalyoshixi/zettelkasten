@@ -2,8 +2,9 @@
 tags:
   - malware
 ---
-Dissecting a [[Malware]] sample, without running it.
-# Tools
+Dissecting a program, without running it.
+This [[Formal Methods|Formal Method]] is [[Soundness|Sound]] but not complete with coverage.
+# Methods
 - [[File Signatures]]
 - [[Antivirus]]
 - [[Malware Strings]]
@@ -13,3 +14,5 @@ Dissecting a [[Malware]] sample, without running it.
 - [[Disassembler]]
 - [[Symbolic Execution]]
 - [[Anti-Malware Software]]
+# Tools
+- [[Slither]]
