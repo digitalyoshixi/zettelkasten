@@ -3,6 +3,7 @@ tags:
   - blockchain
 ---
 A feature in blockchain networks that allows users to loan a mass amount only if they return the same amount in the same transaction.
+Can also exploit [[Collateralized Lending]]
 # Money Making
 A money-making technique that involves:
 - Using [[Ethereum]]'s borrowing [[Smart Contract]] to borrow a select amount
