@@ -24,6 +24,7 @@ aliases:
 - [[Blockchain Oracle Tampering]]
 - [[Short Address Attack]]
 - [[Constructors with Care]]
+- [[Smart Contract Uninitalized Pointer Vulnerability]]
 # Tools
 - [[Remix IDE]]
 ### Transaction Explorers

@@ -26,6 +26,7 @@ They are:
 - [[Blockchain Insurance]]
 - [[Token Switching]]
 - [[Blockchain Real Estate]]
+- [[Collateralized Lending]]
 # Tools
 - [[OpenZeppelin Defender]]
 - [[OpenZeppelin Contract Wizard]]

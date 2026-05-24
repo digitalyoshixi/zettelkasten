@@ -4,10 +4,12 @@ tags:
   - programming
 ---
 Using [[Rigor|Rigorous]] methods to meet [[Specification]] of a software or hardware system.
+![[Formal Methods-20260524160140298.webp]]
 # Ideas
 - [[Specification|Formal Specification]]
 - [[Program Synthesis|Formal Synthesis]]
 - [[Software Verification|Formal Verification]]
+- [[Program Analysis]]
 # Techniques
 - [[Specification Language]]
 - [[Binary Decision Diagrams]]

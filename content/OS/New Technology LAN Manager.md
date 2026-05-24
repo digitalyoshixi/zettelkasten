@@ -20,3 +20,5 @@ Vulnerable to [[Pass The Hash Attack]] and hash cracking.
 - [[NTLMv2]]
 # Attacks
 - [[NTLMv1 Downgrade Attack]]
+# Resources
+- https://thievi.sh/blog/ntlm-fully-explained-for-security-professionals/
