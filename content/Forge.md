@@ -4,6 +4,11 @@ tags:
   - programming
 ---
 Tool to compile, test and deploy solidity [[Smart Contract]].
+# Setup
+```
+forge init .
+forge install
+```
 # Install std
 ```
 forge install foundry-rs/forge-std
