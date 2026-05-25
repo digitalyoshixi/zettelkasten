@@ -43,6 +43,7 @@ aliases:
 - [[Business Logic Vulnerability]]
 - [[Mass Assignment Vulnerability]]
 - [[Host Header Injection Vulnerability]]
+- [[User Enumeration]]
 ### Subdomains
 - [[GraphQL Security]]
 # Concepts
