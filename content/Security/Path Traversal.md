@@ -17,6 +17,7 @@ A [[Web Security]] vulnerability targets webservers who's paths allow direct tra
 - `%00` : null byte
 - `%2f` : `/`
 - `%2e` : `.`
+- `..\..\..\windows\win.ini`
 # Prevention
 - Setup input sanitization
 - Setup [[Stored Procedures]]
