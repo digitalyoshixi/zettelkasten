@@ -42,3 +42,4 @@ Retrieve resource headers without the resource itself.
 Similar to GET, but has no resource body
 # Concepts
 - [[HTTP Request Headers]]
+- [[HTTP Response Headers]]
