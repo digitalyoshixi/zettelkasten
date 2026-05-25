@@ -17,3 +17,4 @@ Allows bypassing of [[Endpoint Detection and Response|EDR]] software.
 - [[C2 Redirector]]
 - [[C2 Listening Post]]
 - [[C2 Loader]]
+- [[External C2]]
