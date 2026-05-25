@@ -7,7 +7,7 @@ https://stackoverflow.com/questions/74672197/how-to-add-extensions-to-vs-codium-
 
 
 Find extension.vsix here:
-https://marketplace.visualstudio.com/
+- https://vsixhub.com
 Download the .vsix file from the releases homepage
 Then in the terminal:
 ```
