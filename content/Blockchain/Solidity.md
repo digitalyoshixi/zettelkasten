@@ -51,5 +51,7 @@ contract Counter {
 - [[truffle console]]
 - [[solc]]
 - [[Solidity selfdestruct]]
+### Dev
+- [[Solidity Test File Boilerplate]]
 # Resources
 - https://solidity-by-example.org/

@@ -9,8 +9,8 @@ data = "..."
 tx = {
 	from: "0x...",
 	to: "0x...",
-	value: web3.utils.fromWei(20, 'ether'),
-	gasPrice: web3.utils.fromWei(20, 'gwei'),
+	value: web3.utils.toWei(20, 'ether'),
+	gasPrice: web3.utils.toWei(20, 'gwei'),
 	data : data
 }
 await web3.eth.sendTransaction(tx)
