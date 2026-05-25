@@ -5,8 +5,7 @@ aliases:
   - HTTP Request
 ---
 Most common API. Rest style apis are restful.
-- Stateless. Server doesn't remember anything about client
-- Standard HTTP methods
+- Stateless. Server doesn't remember anything about client - Standard HTTP methods
 - Often uses [[JSON]]
 - Single-request, may cause over-fetching or under-fetching
 Use a program to send a http protocol to a server. 

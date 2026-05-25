@@ -34,7 +34,7 @@ aliases:
 - [[Server Side Include Injection]]
 - [[XPath Injection]]
 - [[IMAP Injection]]
-- [[Command Injection]]
+- [[OS Command Injection]]
 - [[CSS Injection]]
 - [[Cross Site Flashing]]
 - [[Clickjacking]]

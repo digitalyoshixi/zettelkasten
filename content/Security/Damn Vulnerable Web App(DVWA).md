@@ -43,7 +43,7 @@ There are a few types of sql injection techniques. They can all gather various t
     
 - Blind sql injection. No results, but timed attacks.
 
-### [[Command Injection]]:
+### [[OS Command Injection]]:
 
 Following this video.
 

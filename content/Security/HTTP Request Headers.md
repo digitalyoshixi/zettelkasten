@@ -11,7 +11,6 @@ X-Frame-Options: DENY
 Defines allowsed sources for scripts, styles and other resources
 ```
 default-src 'self',
-s
 ```
 # HSTS & Strict-Transport-Security
 Forces browsers to always use HTTPS for your domain
@@ -25,6 +24,7 @@ X-Content-Type-Options: nosniff
 ```
 # Referrer-Policy
 Controls how much referrer information is sent with requests to improve privacy
-```
-
-```
+# Content-Type
+Can be:
+- `application/x-www-form-urlencoded` for single parameter
+- `multipart/form-data` for multiple fields, form data input, can add a [[Binary Large Object|BLOB]] too
