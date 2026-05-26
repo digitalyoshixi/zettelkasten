@@ -40,6 +40,7 @@ contract Counter {
 - [[Solidity Migration]]
 - [[Solidity Struct]]
 - [[Solidity Map]]
+- [[Solidity Address]]
 - [[Solidity Function]]
 - [[Solidity Event]]
 - [[Solidity Call]]

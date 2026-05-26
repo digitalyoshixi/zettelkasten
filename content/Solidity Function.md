@@ -5,10 +5,20 @@ tags:
 aliases:
   - Solidity Function Specifiers
   - Solidity Function Modifiers
+  - Solidity Function Behaviors
 cssclasses:
 ---
+```solidity
+function give_money(address addr, uint256 amt) public payable {
+	require(amt >= 0);
+	require(amt == msg.value);
+	accountBalances[addr]+=amt;
+}
 ```
-function FunctionName([parameters]){public|private|internal|external} [pure|constant|view|payable] [modifiers] [returns (return type)]
+
+
+```solidity
+function FunctionName([parameters]) {public|private|internal|external} [pure|view|payable] [modifiers] [returns (return type)]
 ```
 Defined in [[Application Binary Interface|ABI]] with [[Ethereum Function Selector]]
 # Visibility Modifiers
