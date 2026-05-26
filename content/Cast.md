@@ -1,6 +1,8 @@
 ---
 tags:
   - blockchain
+aliases:
+  - Foundry Cast
 ---
 Tool to:
 - Send [[Remote Procedure Calls|RPC]] calls
@@ -8,7 +10,7 @@ Tool to:
 # Send Transaction
 ```
 cast send <contract_address> \
-          "function_name(arg1,arg2)” <arg1> <arg2> \
+          "function_name(arg1,arg2)(optional_returntype)” <arg1> <arg2> \
           --rpc-url <rpc_url> \
           --from <sender_account> \
           --private-key <sender_privkey> \
@@ -18,7 +20,7 @@ cast send <contract_address> \
 # Emulate Function
 ```
 cast call $CONTRACT \
-  "function_name(arg1,arg2)" <arg1> <arg2> \
+  "function_name(arg1,arg2)(optional_returntype)" <arg1> <arg2> \
   --from $ACCOUNT \
   --value 5ether \
   --rpc-url $RPC_URL
@@ -26,3 +28,8 @@ cast call $CONTRACT \
 - Emulates transaction
 - Does not create a transaction on blockchain
 - Should always be used for read-only functions
+# View Balance of Address
+```
+cast balance $ADDRESS \
+	--rpc-url $RPC_URL
+```

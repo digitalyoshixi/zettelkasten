@@ -34,6 +34,9 @@ Comprised as a series of [[Transaction Block|Transaction Blocks]] arranged via a
 - [[Blockchain Network]]
 - [[Web3js]]
 - [[Mempool]]
+- [[Private Mempool]]
+- [[Flashbots]]
+- [[Blockchain Mixer]]
 # Smart Contracts
 - [[Tokenized Vault]]
 # [[Blockchain Security|Blockchain Security]]
