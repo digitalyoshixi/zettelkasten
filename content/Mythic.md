@@ -12,9 +12,10 @@ git clone https://github.com/its-a-feature/Mythic --depth 1 --single-branch
 2. Have [[Docker]] or [[Orbstack]]
 3. `make`
 4. `mythic-cli install`
-# Installing Extension
+# Installing/Removing Service
 ```
 mythic-cli install folder /path/to/ext
+mythic-cli uninstall servicename
 ```
 # Running/Stopping
 ```
