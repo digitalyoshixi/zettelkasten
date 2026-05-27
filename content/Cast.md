@@ -24,10 +24,12 @@ cast call $CONTRACT \
   --from $ACCOUNT \
   --value 5ether \
   --rpc-url $RPC_URL
+  --trace
 ```
 - Emulates transaction
 - Does not create a transaction on blockchain
 - Should always be used for read-only functions
+- Can trace call stack
 # View Balance of Address
 ```
 cast balance $ADDRESS \
