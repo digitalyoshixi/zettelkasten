@@ -41,6 +41,7 @@ contract Counter {
 - [[Solidity Struct]]
 - [[Solidity Map]]
 - [[Solidity Address]]
+- [[Solidity Block]]
 - [[Solidity Function]]
 - [[Solidity Event]]
 - [[Solidity Call]]

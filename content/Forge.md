@@ -21,8 +21,9 @@ forge test --match-contract CounterTest -vvvvv
 ```
 # Compile & Deploy
 ```
-forge create <path_to_contract.sol> \
+forge create <path_to_contract.sol>:ContractName \
 	--private-key <privatekey> \
 	–-rpc-url <RPC_URL> \
 	--broadcast
+	--constructor-args <ARG1> <ARG2> ...
 ```
