@@ -31,6 +31,8 @@ A high-performance language designed to be used for a website's backend.
 - [[Goroutine]]
 - [[Go Log]]
 - [[Go OS]]
+- [[Garble]]
+- [[Go Export]]
 # Guides
 - [[Go Read File]]
 # Initialize Module
