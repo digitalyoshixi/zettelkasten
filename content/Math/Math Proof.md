@@ -8,6 +8,7 @@ aliases:
 A logical argument supported with established facts, following a logical sequence to establish the truth of a [[Lemma]]/[[Theorem]].
 1. You have a $F$ [[Theorem]] that you want to prove or disprove [[Rigor|Rigourously]]
 2. You work through steps to prove it
+Goal is to convince verifier of a [[Philosophy/Statements|Statement]]
 # Statement Types
 - [[Conditional Statement|Implication]]
 - [[For All|Universal Quantifier]]
