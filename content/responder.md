@@ -3,7 +3,8 @@ tags:
   - windows
   - security
 ---
-A tool for [[LLMNR Poisoning]]
+A tool for [[LLMNR Poisoning]].
+Can capture [[New Technology LAN Manager|NetNTLM Hash]]
 ```
 responder -I networkinterface
 ```
