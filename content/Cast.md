@@ -35,3 +35,7 @@ cast call $CONTRACT \
 cast balance $ADDRESS \
 	--rpc-url $RPC_URL
 ```
+# Read [[EVM Account Storage]]
+```
+cast storage <CONTRACT_ADDR> <storage_slot> --rpc-url <RPC>
+```
