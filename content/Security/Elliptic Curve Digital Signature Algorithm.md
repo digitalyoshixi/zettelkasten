@@ -7,8 +7,10 @@ aliases:
   - ECC Signature
 ---
 # ECC Signature
-$(V,R,S)$:
-- $V$ : 
+$(R,S,V)$:
+- $R$ : X-point on [[Elliptic Curve]]
+- $S$ : proof signer knows private key
+- $V$ : Polarity of curve (positive or negative)
 # Algorithm
 A signature algorithm that uses [[Elliptic Curve Cryptography|ECC]].
 ![[Elliptic Curve Digital Signature Algorithm-20260529013107079.webp]]

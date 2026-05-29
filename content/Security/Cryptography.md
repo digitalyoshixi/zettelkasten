@@ -77,4 +77,4 @@ The [[Mathematics]] used to secure data.
 - [[General Number Field Sieve]]
 ### [[Cryptography Hard Problem]]
 - [[Discrete Logarithm Problem|DLP]]
-- [[Elliptic Curve Discrete Logarithm|ECC DLP]]
+- [[Elliptic Curve Discrete Logarithm Problem|ECC DLP]]

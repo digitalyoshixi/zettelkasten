@@ -8,4 +8,7 @@ $$
 y^{3} \equiv x^{3} + ax + b
 $$
 # Concepts
-- [[ECC Generator]]
+- [[Generator Point]]
+- [[Generator Order]]
+# Operations
+- [[Elliptic Curve Addition]]

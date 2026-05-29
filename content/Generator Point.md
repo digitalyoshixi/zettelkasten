@@ -1,6 +1,8 @@
 ---
 tags:
   - math
+aliases:
+  - ECC Generator
 ---
 A point on a [[Elliptic Curve]] $G$ used to generate other points on a curve.
 # Picking Generator
