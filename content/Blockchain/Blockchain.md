@@ -37,6 +37,7 @@ Comprised as a series of [[Transaction Block|Transaction Blocks]] arranged via a
 - [[Private Mempool]]
 - [[Flashbots]]
 - [[Blockchain Mixer]]
+- [[Off Chain Transaction]]
 # Smart Contracts
 - [[Tokenized Vault]]
 # [[Blockchain Security|Blockchain Security]]

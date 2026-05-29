@@ -3,7 +3,6 @@ tags:
   - blockchain
   - cryptography
 aliases:
-  - Schnorr Signature
 ---
 This is a [[Knowledge Proofs|Proof of Knowledge]] protocol to verify a users identity.
 # Formal Definition
