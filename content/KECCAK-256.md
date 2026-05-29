@@ -3,4 +3,6 @@ tags:
   - security
   - blockchain
 ---
-A [[Hashing|Hash Function]] used in [[Ethereum]]
+The original variant of [[SHA-3|SHA3]].
+Uses a [[Sponge Construction]]
+- Used in [[Ethereum]].

@@ -25,6 +25,7 @@ aliases:
 - [[Short Address Attack]]
 - [[Constructors with Care]]
 - [[Smart Contract Uninitalized Pointer Vulnerability]]
+- [[Signature Maleability]]
 # Tools
 - [[Remix IDE]]
 ### Transaction Explorers
