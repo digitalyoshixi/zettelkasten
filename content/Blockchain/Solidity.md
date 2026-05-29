@@ -53,6 +53,7 @@ contract Counter {
 - [[truffle console]]
 - [[solc]]
 - [[Solidity selfdestruct]]
+- [[Solidity ecrecover]]
 ### Dev
 - [[Solidity Test File Boilerplate]]
 # Resources

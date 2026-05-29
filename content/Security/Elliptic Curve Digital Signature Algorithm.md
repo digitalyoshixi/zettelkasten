@@ -10,8 +10,8 @@ aliases:
 $(R,S,V)$:
 - $R$ : X-point on [[Elliptic Curve]]
 - $S$ : proof signer knows private key
-- $V$ : Polarity of curve (positive or negative)
-	- Either 0(27) or 1(28)
+- $V$ : Recovery bit for public key (positive(0) or negative(1))
+	- In [[Ethereum]] either 0(27) or 1(28)
 # Algorithm
 A signature algorithm that uses [[Elliptic Curve Cryptography|ECC]].
 ![[Elliptic Curve Digital Signature Algorithm-20260529013107079.webp]]
