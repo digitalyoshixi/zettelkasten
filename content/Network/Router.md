@@ -13,3 +13,5 @@ Is able to perform:
 # Concepts
 - [[Default Gateway]]
 - [[Router Interfaces]]
+- [[Routing Table]]
+- [[Routing Protocol]]
