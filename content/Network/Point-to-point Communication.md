@@ -7,6 +7,7 @@ aliases:
   - Simplex
 ---
 In Point-point connections, data sent can either go one way (Simplex) or both ways (Duplex).
+- There is no requirement for addressing (as you already know the guy on the other end)
 # Simplex
 ![[Point-to-point Communication-20240716180246237.webp]]
 There is only one-way that data can go

@@ -1,6 +1,8 @@
 ---
 tags:
   - networking
+aliases:
+  - Router Forwarding
 ---
 A functionality of [[Router|Routers]] to communicate across multiple [[Local Area Network|LANs]]
 # Path Determination
