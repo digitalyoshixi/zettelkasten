@@ -12,6 +12,7 @@ It can only export functions for use in other programs.
 - [[DLL Ordinal]]
 - [[DLLMain]]
 - [[Running DLL]]
+- [[DLL Loader Lock]]
 # DLL Search Process
 1. Search current directory
 2. Search [[System32]]
