@@ -21,3 +21,5 @@ Default filters are:
 - File System
 - Process Activity
 - Network
+# Filters
+- [[Procmon DLL Sideload Filter]]
