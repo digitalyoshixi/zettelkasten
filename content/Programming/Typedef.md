@@ -25,5 +25,12 @@ typedef return_type (*alias_name)(parameter_types and numbers....);
 typedef struct Node {
 	int x;
 	struct Node *next;
-}Node;
+}Node, *PNode;
+```
+- Creates a alias of `Node`
+- Creates a alias of pointer of `Node` `PNode`
+### Example Initalization
+```c
+Node mynode = {.x=0, .next=NULL};
+PNode noteptr = NULL;
 ```

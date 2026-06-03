@@ -17,6 +17,7 @@ tags:
 ### OS-Structure
 - [[EPROCESS]]
 - [[Process Environment Block]]
+- [[NTDLL]]
 ### User Concepts
 - [[Windows Workgroups]]
 - [[Windows Domain]]

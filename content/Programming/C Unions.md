@@ -2,7 +2,8 @@
 tags:
   - c
 ---
-Unions are like structures, but they allow several datatypes to use the same memory location.
+Unions are like [[C Structures|Struct]], but they allow several datatypes to use the same memory location.
+- Changing the value of one member will change the value of all other members
 
 ```c
 union union_tag{
