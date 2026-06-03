@@ -3,7 +3,7 @@ tags:
   - cpp
   - windows
 ---
-how you get c++ on windows
+A toolchain of header files to allow [[Low Level Virtual Machine|LLVM]], [[GCC]] to work on windows.
 
 1. Download https://www.msys2.org/
 2. `pacman -Syu` in the msys2 terminal
