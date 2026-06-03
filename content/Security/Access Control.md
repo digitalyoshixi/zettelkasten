@@ -14,3 +14,7 @@ Goal is to conform to [[Principle of Least Privilege]].
 - [[Role-Based Access Control]]
 - [[Attribute Based Access Control]]
 - [[Rule-Based Access Control]]
+# Vulnerabilities
+- [[Insecure Direct Object Reference|IDOR]]
+- [[Broken Object Level Authorization]]
+- [[Broken Function Level Authorization|BFLA]]
