@@ -15,6 +15,7 @@ tags:
 - [[Windows 11]]
 # Concepts
 ### OS-Structure
+- [[Windows Kernel]]
 - [[EPROCESS]]
 - [[Process Environment Block]]
 - [[NTDLL]]

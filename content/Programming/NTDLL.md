@@ -8,6 +8,7 @@ aliases:
   - Windows Native API
 ---
 the DLL repsonsible for all windows operating system management.
+- Harder to use as its not officially documented
 ![[NTDLL-20260603150030488.webp]]
 # Exports
 - [[NtOpenProcess]]
@@ -15,3 +16,4 @@ the DLL repsonsible for all windows operating system management.
 - [[NtVirtualAllocEx]]
 - [[NtVirtualQuery]]
 - [[NtVirtualQueryEx]]
+- [[NtCreateFile]]
