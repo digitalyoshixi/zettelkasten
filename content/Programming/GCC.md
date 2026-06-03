@@ -36,3 +36,7 @@ For setting the current version to c++ 20
 - `-O1` : Default optimizations
 - `-O2` : Optimize that does not involve a speed-space tradeoff
 - `O3` : Maximum optimization
+# Compiling a [[Dynamic Linked Library|DLL]]
+```
+gcc -c myfile.c && gcc -shared -o myfile.dll myfile.o
+```
