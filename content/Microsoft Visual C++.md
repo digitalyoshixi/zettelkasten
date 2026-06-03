@@ -12,6 +12,11 @@ The microsoft [[C++]] compiler
 - https://visualstudio.microsoft.com/downloads/
 - Download Build Tools for Visual Studio 
 # Usage
+Open `x64 Native Tools Command Prompt For VS`
 ```
 cl ./filename
+```
+### Creating a DLL
+```
+cl /LD ./filename.c user32.lib
 ```
