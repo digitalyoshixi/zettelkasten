@@ -6,6 +6,7 @@ tags:
 aliases:
   - msvc
   - msvc-redist
+  - cl
 ---
 The microsoft [[C++]] compiler
 # Installation (Via Build Tools)
