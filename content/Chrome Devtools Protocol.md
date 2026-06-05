@@ -2,6 +2,8 @@
 tags:
   - web
   - programming
+aliases:
+  - CDP
 ---
 Running the chrome browser in devmode to expose APIs.
 # Running
