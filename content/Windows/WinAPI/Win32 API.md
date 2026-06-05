@@ -29,5 +29,9 @@ http://www.winprog.org/tutorial/start.html
 - [[CreateWindow]]
 - [[GetProcAddress()]]
 - [[GetModuleHandle()]]
+- [[HeapAlloc()]]
+- [[LocalAlloc()]]
+- [[HeapFree()]]
+- [[LocalFree()]]
 # Guides
 - https://github.com/7etsuo/windows-api-function-cheatsheets

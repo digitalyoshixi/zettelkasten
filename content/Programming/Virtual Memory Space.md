@@ -9,6 +9,7 @@ aliases:
   - Process Memory
 ---
 The space that a [[Linux Process]] gets during [[Linux Process Loading]].
+A collection of [[Memory Page]]
 ![[Program Memory Layout-20250829224210554.webp|427]]
 - Size is from 0-$2^{32}-1$
 # Sections
@@ -21,5 +22,6 @@ The space that a [[Linux Process]] gets during [[Linux Process Loading]].
 - The binary
 	- `.text`
 	- `.data`
+# Page States
 # Viewing Virtual Memory space
 You can see the program's memory space at `/proc/self/maps`
