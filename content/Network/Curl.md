@@ -37,3 +37,8 @@ curl -I http://127.0.0.1:5000/hello
 curl -k http://site.com
 ```
 Does not care about [[Hyper Text Transfer Protocol Secure|HTTPS]], [[Secure File Transfer Protocol|SFTP]], [[Secure Copy|SCP]]
+### Websocket Sending
+```
+curl --no-buffer \ --include \ --websocket \ -d '{"action": "subscribe", "topic": "updates"}' \ ws://localhost:8080/ws
+```
+Alternatively use [[websocat]]
