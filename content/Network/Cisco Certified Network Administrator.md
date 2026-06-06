@@ -44,3 +44,5 @@ The best networking certification you can get.
 - [[Ethernet Emulation]]
 - [[Ethernet over Multiprotocol Label Switching]]
 - [[Routing Protocol]]
+- [[Packet Switching]]
+- [[Circuit Switching]]
