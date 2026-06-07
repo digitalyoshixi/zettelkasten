@@ -13,6 +13,7 @@ This is a [[Pre-Paradigm]] [[Artificial Intelligence|AI]] field concerned with r
 - [[AI Security]]
 - [[AI Control]]
 - [[Eugenics|Super Babies]] that are smarter than us to solve the problem
+- [[Boxed AI]]
 # Concepts
 - [[Responsible AI]]
 - [[Ethical AI]]
