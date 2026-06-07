@@ -1,0 +1,6 @@
+---
+tags:
+  - verification
+aliases:
+  - VDM
+---
