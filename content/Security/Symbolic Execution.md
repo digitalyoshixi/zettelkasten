@@ -13,7 +13,7 @@ It is approaching a program by viewing it as a set of branching paths, rather th
 # Process
 https://www.youtube.com/watch?v=yRVZPvHYHzw
 ![[Symbolic Execution-20240629165834957.webp]]
-1. Treat the inputs as symbolic values
+1. Treat the inputs as [[Symbolic Value]]
 2. When we encounter a conditional that affects the symbol, we use it to create a constraint and apply it to our symbol
 3. The split the path into 2, for both possible paths of execution
 Once, we find a branch that leads to a desired execution path, we evaluate the input constraints that lead us there.

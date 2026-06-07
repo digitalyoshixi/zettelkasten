@@ -10,12 +10,14 @@ The process of proving a software conforms to some formal standard.
 # Concepts
 - [[Specification Implementation Gap]]
 - [[World Specification Gap]]
+- [[Proof Brittleness]]
 ### Static Verification
 - [[Software Proof]]
 - [[Software Inspections]]
 - [[Theorem Prover]]
 - [[Model Checking]]
 - [[Abstract Interpretation]]
+- [[Verification-Aware Programming]]
 ### Dynamic Verification
 - [[Testing]]
 - [[Fuzzing]]
