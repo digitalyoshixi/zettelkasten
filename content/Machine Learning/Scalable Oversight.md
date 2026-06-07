@@ -1,6 +1,10 @@
 ---
 tags:
   - ai_safety
+aliases:
+  - Scalable Formal Oversight
+  - SFO
+  - SO
 ---
 Techniques we can use to align AI systems more intelligent than us. We use AI systems to supervise, critique and improve other systems.
 # Methods
