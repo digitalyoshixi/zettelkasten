@@ -14,6 +14,7 @@ Using [[Rigor|Rigorous]] methods to meet [[Specification]] of a software or hard
 - [[Specification Language]]
 - [[Binary Decision Diagrams]]
 - [[Boolean Satisfiability Problem Solvers|SAT Solvers]]
+- [[Runtime Sanitizer]]
 # Theorems
 - [[Curry Howard Correspondance]]
 - [[Rice's Theorem|Rices Theorem]]

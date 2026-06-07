@@ -11,6 +11,7 @@ tags:
 - 'An+impossibility+theorem+for+welfarist+axiologies'
 - https://philarchive.org/archive/ANOTEO-2v13
 - https://apartresearch.com/sprints/secure-program-synthesis-hackathon-2026-05-22-to-2026-05-24
+- https://tractable.for-all.dev/problems/agent-weirdmachines
 # Books
 ### Horror
 ### OS Dev
