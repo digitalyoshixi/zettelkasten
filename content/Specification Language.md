@@ -9,3 +9,5 @@ Not meant to be [[Turing Complete]]. Also, not meant to be executable.
 ![[Specification-20260607215434603.webp]]
 # List
 - [[Z Notation]]
+- [[Vienna Development Method|VDM]]
+- [[Structural Operational Semantics|SOS]]

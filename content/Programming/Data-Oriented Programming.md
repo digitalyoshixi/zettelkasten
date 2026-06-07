@@ -5,7 +5,7 @@ tags:
 aliases:
   - DOP
 ---
-A [[Programming Paradigms]] that focuses on organizing and processing data rather than objects.
+A [[Programming Paradigm]] that focuses on organizing and processing data rather than objects.
 - Classes are used to make custom data structures with the sole purpose of storing and managing data.
 - *Data is treated as a [[First Class Citizen]]*
 - *Just use maps*

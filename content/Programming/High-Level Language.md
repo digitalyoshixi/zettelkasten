@@ -9,7 +9,7 @@ These are languages meant for human understanding. They are a set of conventions
 - [[C]]
 - [[JavaScript]]
 # Concepts
-- [[Programming Paradigms]]
+- [[Programming Paradigm]]
 - [[Formally Defined]]
 - [[Literal]]
 - [[Built-ins]]
