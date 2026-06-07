@@ -20,6 +20,7 @@ The process of proving a software conforms to some formal standard.
 - [[Testing]]
 - [[Fuzzing]]
 - [[Taint Analysis]]
+- [[Secure Program Synthesis|SPS]]
 # Tools
 - [[SmtChecker]]
 - [[Certora]]
