@@ -15,6 +15,7 @@ Using [[Rigor|Rigorous]] methods to meet [[Specification]] of a software or hard
 - [[Binary Decision Diagrams]]
 - [[Boolean Satisfiability Problem Solvers|SAT Solvers]]
 # Theorems
+- [[Curry Howard Correspondance]]
 - [[Rice's Theorem|Rices Theorem]]
 - [[Soundness Completeness Impossibility]]
 # Cases

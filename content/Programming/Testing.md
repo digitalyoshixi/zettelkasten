@@ -14,3 +14,4 @@ tags:
 - [[Functional Testing]]
 - [[Regression Testing]]
 - [[End User Testing]]
+- [[Property Based Testing]]
