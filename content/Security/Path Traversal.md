@@ -20,4 +20,4 @@ A [[Web Security]] vulnerability targets webservers who's paths allow direct tra
 - `..\..\..\windows\win.ini`
 # Prevention
 - Setup input sanitization
-- Setup [[Stored Procedures]]
+- Setup [[Stored Procedure]]
