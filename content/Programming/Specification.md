@@ -18,3 +18,4 @@ Checks:
 - [[Multi-Paradigm Specification]]
 # Concepts
 - [[Specification Language]]
+- [[Specification Refinement]]
