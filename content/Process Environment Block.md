@@ -36,5 +36,7 @@ typedef struct _PEB {
   ULONG                         SessionId;
 } PEB, *PPEB;
 ```
+# Techniques
+- [[Getting PEB Address]]
 # Blogs
 - https://ntopcode.wordpress.com/2018/02/26/anatomy-of-the-process-environment-block-peb-windows-internals/ 
