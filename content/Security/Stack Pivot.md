@@ -3,6 +3,7 @@ tags:
   - security
 ---
 Attacks that move [[rsp]] to a different memory address.
+- Can be used to evade [[Control Flow Enforcement Technology|CET]] for [[Backwards ROP]]
 # ROP Stack Pivot
 https://ir0nstone.gitbook.io/notes/binexp/stack/stack-pivoting
 We can change rsp with:
