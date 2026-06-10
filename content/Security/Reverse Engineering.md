@@ -18,3 +18,4 @@ tags:
 - [[Reverse Engineering Web Assembly]]
 - [[Reverse Engineering Haskell]]
 - [[Reverse Engineering EVM]]
+- [[Reverse Engineering Universal Windows Platform]]
