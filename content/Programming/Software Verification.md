@@ -27,5 +27,6 @@ The process of proving a software conforms to some formal standard.
 - [[SmtChecker]]
 - [[Certora]]
 # Books/Papers
+- [[Hehner Formal Verification Course]]
 - https://www.cs.toronto.edu/~hehner/FMSD/
 - https://www.cs.toronto.edu/~hehner/SPTC.pdf

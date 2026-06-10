@@ -37,6 +37,8 @@ https://jwilson.coe.uga.edu/EMT668/EMAT6680.F99/Challen/proof/proof.html
 - [[Mathematical Communication]]
 - [[Rigor]]
 - [[Mathematical Maturity]]
+- [[Strengthen instead of Weaken]]
+- [[Proofs as a Binary Expression]]
 # Properties, Laws, Axioms, Etc.
 - [[Triangle Inequality]]
 - [[Reverse Triangle Inequality]]
