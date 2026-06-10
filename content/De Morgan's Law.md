@@ -2,6 +2,9 @@
 tags:
   - math
   - proofs
+aliases:
+  - Duality Law
+  - Duality
 ---
 $$\neg(P\wedge Q) \equiv \neg P \vee \neg Q$$
 $$

@@ -13,6 +13,7 @@ aliases:
 $P \implies Q$.
 
 If $P$ is true, than $Q$ is true.
+- *P is falser than or equal to Q*
 $P$ is the **condition/antecedent** and $Q$ is the **result/consequent**
 Can also be $Q \Leftarrow P$, 
 # Examples

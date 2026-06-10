@@ -9,7 +9,7 @@ tags:
 - [[Program Synthesis]]
 - [[Planning Algorithms]]
 # Formal Methods
-- [[Formal Methods]]
+- [[Formal Method]]
 - [[Specification|Formal Specification]]
 - [[Program Synthesis|Formal Synthesis]]
 - [[Software Verification|Formal Verification]]

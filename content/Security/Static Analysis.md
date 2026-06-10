@@ -3,7 +3,7 @@ tags:
   - malware
 ---
 Dissecting a program, without running it.
-This [[Formal Methods|Formal Method]] is [[Soundness|Sound]] but not complete with coverage.
+This [[Formal Method|Formal Method]] is [[Soundness|Sound]] but not complete with coverage.
 # Methods
 - [[File Signatures]]
 - [[Antivirus]]

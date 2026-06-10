@@ -2,8 +2,13 @@
 tags:
   - math
   - philosophy
+aliases:
+  - "True"
 ---
-A formula that is **always** true for the inputs given.
+$$
+\top
+$$
+A [[Binary Expression]] that is **always** true for the inputs given.
 Example: $P \vee\neg P$ will be true for all statements $P$ 
 Opposed to a [[Contradiction]]
 # Tautology Laws
