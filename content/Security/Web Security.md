@@ -61,6 +61,7 @@ aliases:
 - [[Session Management Schema]]
 - [[Common Gateway Interface]]
 - [[Server Side Include]]
+- [[Hyperlink Injection]]
 # Enumeration
 ### [[Open Source Intelligence|OSINT]]
 - [[Google Dorking]]
