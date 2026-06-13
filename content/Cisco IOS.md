@@ -53,3 +53,40 @@ line console 0
 ```
 password hope
 ```
+# View [[Content Addressable Memory Table|CAM Table]]
+```
+show mac address-table dynamic
+```
+```
+show mac address-table dynamic address 0200.1111.1111
+```
+```
+show mac address-table dynamic interface fastEthernet 0/1
+```
+```
+show mac address-table dynamic interface vlan 1
+```
+# Clearing [[Content Addressable Memory Table|CAM Table]]
+```
+clear mac address table dynamic
+```
+```
+clear mac address table vlan <vlan-number>
+```
+```
+clear mac address table interface <interface-id>
+```
+```
+clear mac address table address <mac-address>
+```
+# Show Interfaces
+```
+show interfaces status
+```
+# Show SSH Info
+```
+show ip ssh
+```
+```
+show ssh
+```

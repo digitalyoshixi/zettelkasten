@@ -6,7 +6,6 @@ aliases:
   - CCNA
 ---
 The best networking certification you can get.
-**Current Page: 66**
 # Process
 2. Read the CCNA 200-301 book volume 1
 3. Read the CCNA 200-301 book volume 2
@@ -49,3 +48,6 @@ The best networking certification you can get.
 ### Chapter 4
 - [[Cisco Catalyst Switch]]
 - [[Cisco IOS]]
+### Chapter 5
+- [[LAN Switching]]
+- [[Content Addressable Memory Table]]

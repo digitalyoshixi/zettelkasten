@@ -8,4 +8,5 @@ A company that manufactures networking equipment and protocols.
 - [[Cisco Nexus Switch]]
 - [[Cisco Meraki Switch]]
 - [[Cisco IOS]]
+- [[Cisco IOS Hardening]]
 - [[CatOS]]
