@@ -35,3 +35,20 @@ ip http authentication local
 ```
 username name priority 15 password
 ```
+# Enabling IPv4 
+```
+configure terminal
+	interface vlan 1
+		ip address <ipaddress> <mask>
+		no shutdown
+		ip default-gateway <ipaddress>
+		exit
+ip name-server <ip1> <ip2> ...
+```
+# Enabling DHCP
+```
+configure terminal
+	interface vlan 1
+		no shutdown
+		ip address dhcp
+```

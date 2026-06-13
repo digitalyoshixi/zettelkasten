@@ -3,6 +3,10 @@ tags:
   - networking
 ---
 The cisco operating system for its switches. Replaced [[CatOS]]
+# Concepts
+- [[Cisco IOS Hardening]]
+- [[Cisco IOS Quality Of Life Configuration]]
+- [[Cisco User Levels]]
 # Modes
 ![[Cisco IOS-20260606160715628.webp]]
 ### Configuration Submodes
@@ -89,4 +93,38 @@ show ip ssh
 ```
 ```
 show ssh
+```
+# Verifying IPv4
+```
+show dhcp lease
+```
+```
+show interfaces vlan 1
+```
+```
+show ip default-gateway
+```
+# Showing History
+```
+show history
+```
+# Modify History Size
+```
+history  size <x>
+```
+# Set Console Logging
+```
+no logging console
+```
+```
+logging console
+```
+# Set Synchronized Logging
+These will display logs during `show` command
+```
+logging synchronous
+```
+# Disable Default Domain Lookup
+```
+no ip domain-lookup
 ```
