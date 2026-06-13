@@ -10,6 +10,8 @@ tags:
 - Cannot have a Host ID of 0
 - Cannot have a Host ID of 255
 ![[What-are-the-different-IPv4-Address-Types.webp]]
+# Header
+![[IP Header-20260613020252914.webp]]
 # Assigned IPv4 
 - [[Automatic Private IP Addressing]]
 # Concepts

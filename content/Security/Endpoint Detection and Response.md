@@ -24,5 +24,6 @@ Often includes:
 - [[EDR Direct Syscall Removal]]
 - [[Memory Scanner]]
 	- [[Clean Stack]] checking
+- [[Kernel Callback]]
 # Concepts
 - [[EDR Bypass]]
