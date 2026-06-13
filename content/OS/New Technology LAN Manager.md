@@ -12,6 +12,8 @@ Often used for [[Authentication]] during:
 - Auth to computers not inside the domain
 Vulnerable to [[Pass The Hash Attack]] and hash cracking.
 # Concepts
+- [[LM Hash]]
+- [[NT Hash]]
 - [[Local Security Authority Subsystem Service|LSASS]] 
 - [[Challenge Response Authentication Method]]
 ### Auth
