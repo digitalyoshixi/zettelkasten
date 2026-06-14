@@ -15,7 +15,13 @@ It is mainly for:
 ### Core
 - [[Lean Evaluation]]
 - [[Lean Types]]
+- [[Lean Check]]
+- [[Lean Definitions]]
 - [[Lean Conditional Expression]]
+- [[Lean Foldability]]
+- [[Lean Struct]]
+- [[Lean Replacing Fields in a Struct]]
+- [[Lean Constructor]]
 # Resources
 - https://adam.math.hhu.de/
 - https://leodemoura.github.io/files/CAV2024.pdf
