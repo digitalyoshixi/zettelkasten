@@ -5,6 +5,7 @@ tags:
 ---
 Using [[Rigor|Rigorous]] methods to meet [[Specification]] of a software or hardware system.
 ![[Formal Methods-20260524160140298.webp]]
+![[Formal Method-20260614191857667.webp]]
 # Ideas
 - [[Specification|Formal Specification]]
 - [[Program Synthesis|Formal Synthesis]]

@@ -10,7 +10,7 @@ Inspired by [[Infinite Monkey Theorem]]
 # Process
 ![[Fuzzing-20260524160835017.webp]]
 # Tools
-- [[AFL]]
+- [[American Fuzzy Lop]]
 - [[libfuzzer]]
 ### Java
 - [[Randoop]]
