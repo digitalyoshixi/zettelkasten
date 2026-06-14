@@ -26,5 +26,7 @@ tags:
 - https://scribe.r4fo.com/@jonny-johnson/understanding-telemetry-kernel-callbacks-1a97cfcb8fb3
 - https://github.com/am0nsec/HellsGate
 - https://www.trustedsec.com/blog/windows-processes-nefarious-anomalies-and-you-memory-regions
+- https://www.youtube.com/watch?v=Bq7Z3X4xwCE&t=282s
 ### [[Software Verification|Formal Verification]]
+- https://www.youtube.com/watch?v=eTCW-jQrkxs
 - [[Provable Security Talk]]

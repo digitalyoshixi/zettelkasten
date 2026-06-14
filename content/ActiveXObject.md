@@ -3,4 +3,4 @@ tags:
   - malware
   - javascript
 ---
-A command used to execute code
+A command used to execute code on [[ActiveX]] clients.
