@@ -48,7 +48,11 @@ Point.x
 Point.y
 ```
 # Struct-Specific Functions
-```
+```lean
 def Point.modifyBoth (f : Float -> Float) (p : Point) : Point 
 {x := f p.x, y := f p.y}
+
+def fourAndThree : Point := { x := 4.3, y := 3.4 }
+#eval fourAndThree.modifyBoth Float.floor
+// {x:=4, y:=3}
 ```

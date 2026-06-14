@@ -2,6 +2,8 @@
 tags:
   - verification
   - programming
+aliases:
+  - Lean Datatypes
 ---
 The type system is very robust.
 - Every [[Lean Evaluation|Lean Expression]] must have a [[Type]]
@@ -10,10 +12,12 @@ The type system is very robust.
 - `Int` : Signed numbers
 - `String` : Series of characters, unbounded length
 - `Float` : [[Floating Point Numbers]]
-# Type Aliasing
-```lean
-abbrev MyType : Type := OrigType
-```
-```lean
-abbrev N : Type := Nat
-```
+# Built-In Types
+- [[Lean Option]]
+- [[Lean Prod]]
+- [[Lean Sum]]
+- [[Lean Unit]]
+- [[Lean Empty]]
+# Defining Types
+- [[Lean Type Alias]]
+- [[Lean Inductive Type]]
