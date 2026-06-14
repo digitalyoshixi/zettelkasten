@@ -22,8 +22,10 @@ lean --run File.lean
 - [[Mathlib]]
 - [[LEAN Graph]]
 - [[Parametric Polymorphism]]
+- [[Lean Unicode Shortcuts]]
 ### Core
 - [[Lean Evaluation]]
+- [[Lean Comments]]
 - [[Lean Types]]
 	- [[Lean Type Alias]]
 	- [[Lean Inductive Type]]
@@ -44,6 +46,9 @@ lean --run File.lean
 - [[Lean List]]
 - [[Lean length]]
 - [[Lean let]]
+- [[Lean IO]]
+### Math
+- [[Lean Sorry]]
 # Resources
 - https://adam.math.hhu.de/
 - https://leodemoura.github.io/files/CAV2024.pdf

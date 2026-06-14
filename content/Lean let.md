@@ -8,4 +8,4 @@ aliases:
 ```lean
 let name : Type := expr
 ```
-- Ensure it is on a s
+- Ensure it is on another line seperate from the body or use a semicolon to seperate
