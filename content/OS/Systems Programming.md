@@ -79,7 +79,7 @@ aliases:
 - [[Vnode Table]]
 - [[Pointer Arithmetic]]
 - [[Array Decay]]
-- [[Virtual Memory Space|Program Memory Layout]]
+- [[Linux Virtual Memory Space|Program Memory Layout]]
 - [[Out of Memory Killer]]
 - [[Preprocessor]]
 - [[C Function Pointers]]

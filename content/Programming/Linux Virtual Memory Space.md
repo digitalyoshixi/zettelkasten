@@ -2,11 +2,10 @@
 tags:
   - os
 aliases:
-  - RAM Layout
-  - Program Memory Layout
+  - Linux Program Memory Layout
   - Program Address Space
   - Virtual Address Space
-  - Process Memory
+  - Linux Process Memory
 ---
 The space that a [[Linux Process]] gets during [[Linux Process Loading]].
 A collection of [[Memory Page]]

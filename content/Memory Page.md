@@ -9,7 +9,7 @@ aliases:
   - PAGE_READONLY
 ---
 A 4KB segment of memory.
-Often talked about in context to [[Virtual Memory Space]]
+Often talked about in context to [[Linux Virtual Memory Space]]
 # States
 - Free: Page is not in use, not accessible to process, can be committed or reserved in the future.
 - Reserved: Page reserved for future use. Waiting to be committed.

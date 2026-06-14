@@ -29,6 +29,6 @@ A [[Linux Process]]
 ### Statically Linked ELF Library Loading Process
 1. Libraries are directly inserted into the final memory space
 ### Virtual Memory Space Allocation
-Each linux process gets a [[Virtual Memory Space]]
+Each linux process gets a [[Linux Virtual Memory Space]]
 ### Initialization
 - [[C Constructor|Constructors]] are setup that run before the program is actually launched
