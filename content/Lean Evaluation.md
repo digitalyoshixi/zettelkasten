@@ -3,6 +3,8 @@ tags:
   - math
   - verification
   - programming
+aliases:
+  - Lean Expression
 ---
 # Evaluating in Editor
 ```

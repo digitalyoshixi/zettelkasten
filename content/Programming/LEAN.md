@@ -14,6 +14,7 @@ It is mainly for:
 - [[LEAN Graph]]
 ### Core
 - [[Lean Evaluation]]
+- [[Lean Types]]
 - [[Lean Conditional Expression]]
 # Resources
 - https://adam.math.hhu.de/
