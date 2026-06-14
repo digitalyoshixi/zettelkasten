@@ -8,9 +8,13 @@ It is mainly for:
 - [[Mathematics]]
 - Software/Hardware verification
 # Concepts
+### Meta
 - [[Software Verification|Formal Verification]]
 - [[Mathlib]]
 - [[LEAN Graph]]
+### Core
+- [[Lean Evaluation]]
+- [[Lean Conditional Expression]]
 # Resources
 - https://adam.math.hhu.de/
 - https://leodemoura.github.io/files/CAV2024.pdf
