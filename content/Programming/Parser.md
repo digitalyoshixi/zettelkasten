@@ -4,6 +4,7 @@ tags:
   - llvm
 aliases:
   - Syntactic Analysis
+  - Parsing
 ---
 A utility that:
 - Ensures program is syntactically correct

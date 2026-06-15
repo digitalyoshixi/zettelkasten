@@ -4,6 +4,7 @@ tags:
   - security
 aliases:
   - CSRF
+  - XSRF
 ---
 A web exploitation that targets an authenticated user on one website.
 A fraud website forces the user to send a request to a protected endpoint on the authenticated site, possibly allowing deleting of account or sending of money to attacker.

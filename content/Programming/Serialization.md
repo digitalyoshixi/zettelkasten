@@ -9,3 +9,4 @@ aliases:
   - Unmarshall
 ---
 The practice of converting [[Abstract Data Type|Complex Data Type]] into a [[String]].
+It is the inverse of [[Parser|Parsing]]
