@@ -23,4 +23,3 @@ A targeted attack to employees of an organization designed to extract sensitive 
 - [[Brand Impersonation]]
 - [[Typosquatting]]
 - [[Prompt Injection]] (Special for [[Large Language Model|LLM]] only)
-- 
