@@ -7,3 +7,4 @@ tags:
 A computer where code execution could happen outside the original specification of the program.
 # Programming
 - [[Return Oriented Programming|ROP]]
+- [[Property Oriented Programming|POP]]
