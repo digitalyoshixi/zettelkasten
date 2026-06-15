@@ -5,6 +5,6 @@ tags:
 Smaller particles that make up an [[Atom]].
 [[Heisenberg Uncertainty Principle]] prevents us from knowing the nature of particles.
 # Types
-- [[Quark]]
+- [[Physics/Quark]]
 - [[Lepton]]
 - [[Boson]]

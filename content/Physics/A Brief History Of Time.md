@@ -8,7 +8,7 @@ Book made by stephen hawking to explain cosmic physics
 
 # Key Concepts
 - [[Black Holes]]
-- [[Quark]]
+- [[Physics/Quark]]
 - [[Antimatter]]
 - [[Arrows of Time]]
 - [[Big Bang]]
