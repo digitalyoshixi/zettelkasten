@@ -16,6 +16,7 @@ tags:
 	1. https://www.youtube.com/watch?v=OIKL6wFjFOo
 	2. https://cs.brown.edu/courses/cs173/2012/book/Everything__We_Will_Say__About_Parsing.html
 4. https://www.youtube.com/watch?v=74CN2BBs9kU&list=PLVPTmCr8BDsvGN6rlVDeCo-v3xnxURHa9
+5. https://www.cs.cornell.edu/courses/cs6120/2025fa/
 ### Understanding LLVM
 1. Understand LLVM's [[Intermediate Representation|IR]] (https://mcyoung.xyz/2023/08/01/llvm-ir/#reinterpret-shenanigans)
 2. Understand [[LLVM API]] (https://mukulrathi.com/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/)
