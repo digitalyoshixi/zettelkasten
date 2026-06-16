@@ -3,6 +3,7 @@ tags:
   - security
 ---
 Abusing windows DLL search order to place malicious DLL files in those file locations to cause programs to load different DLLs.
+- Does not work for [[KnownDLLs]] locations
 # Target DLLs
 - Application DLLs that are signed by third parties
 - DLLs that are loaded from working directories (use [[Procmon]])
