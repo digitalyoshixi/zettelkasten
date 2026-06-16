@@ -33,6 +33,12 @@ POST /xmlrpc.php HTTP/1.1
 HOST: ...
 User-Agent: ...
 Content-Length: 68
-<methodCall><methodName>system.listMethods</methodName></methodCall>
+<methodCall>
+<methodName>
+system.listMethods
+</methodName>
+<params>
+</params>
+</methodCall>
 ```
 - Brute force with [[Hydra]]
