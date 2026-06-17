@@ -5,6 +5,7 @@ aliases:
   - Application Vulnerabilities
   - AppSec
 ---
+
 # Vulnerabilities
 - [[Memory Injection]]
 - [[Stack Overflow]]
@@ -24,3 +25,10 @@ aliases:
 - [[Code Signing]]
 - [[Secure Coding]]
 - [[Sandbox]]
+- [[Dataflow Analysis]]
+- [[Control Flow Analysis]]
+- [[Abstract Interpretation]]
+- [[Symbolic Evaluation]]
+- [[Search Algorithms|Constraint Solving]]
+- [[Software Verification]]
+- [[Model Checking]]

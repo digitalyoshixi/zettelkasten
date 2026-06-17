@@ -5,6 +5,7 @@ tags:
 Dissecting a program, without running it.
 This [[Formal Method|Formal Method]] is [[Soundness|Sound]] but not complete with coverage.
 # Methods
+# Malware Methods
 - [[File Signatures]]
 - [[Antivirus]]
 - [[Malware Strings]]

@@ -8,6 +8,7 @@ A cryptographer. Works at [[Citizen Lab]]
 - [[Schneier's Law]]
 - [[Movie Plot Threat]]
 - [[Cryptographic Break]]
+- [[Cryptographic Silver Bullet]]
 # Cryptographic Algorithms
 - [[Blowfish]]
 - [[Twofish]]
