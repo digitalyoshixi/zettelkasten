@@ -3,6 +3,8 @@ tags:
   - windows
   - security
   - malware
+aliases:
+  - Sleep Obfuscation
 ---
 A [[Staged Payload]] technique that involves the stager to:
 - Sleep for a bit
