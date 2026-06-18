@@ -16,4 +16,50 @@ tags:
 	- Retrieved docs
 	- Web page content
 	- Other agents
-- 
+- Methods:
+	- Set privacy controls for the model
+	- [[Paved Road]]
+- Paved roads differ for actual users that use different tools
+	- Engineers (existing dev tools)
+	- Regular (use common tools)
+	- Researchers (new tools)
+- Design constraint:
+	- Plug and play
+	- No unexplainable latency
+	- Secure by default
+	- Auditable: can verify impact
+- Firewall structure:
+	- Untrusted input
+	- Pipeline
+		- PII engine
+		- Injection engine
+		- Response engine
+	- Verdict
+		- LLM provider
+		- Metrics/Audit
+- [[Personally Identifiable Information|PII]] detection - naive way
+	- Replace all names with [NAME_1]
+	- Often comes up with fake names
+- Must add context-preservice pseudonymization
+	- replace PII with structurally valid fakes
+	- Original version:
+		- `Hi Jane Cooper your invice for .. contact jane.cooper@example.com`
+	- Sanitized version:
+		- `Hi Alex Morgan, your invice for .. contact alex.morgan@example.com`
+- 82% false positive rate
+- Make a skip list, a bunch of regex rules for certain rules
+- LLM streams tokens which makes things problematic, you need to create an accumulator, take chunks and group them
+- Prevention of injection attacks, run each 4 layers in parallel:
+	- Heuristic patterns, robust regex list that catches low hanging fruit ("ignore all previous instructions")
+	- Fine-tuned classifier: DeBERTo
+	- Semantic drift: embedding distance from expected topic, catches subtle redirect
+	- LLM as a judge, checks intent of user input, only fires when others are uncertain
+- Response engine watches LLM response (works well in q&a bots):
+	- Checks tool calls user never authorized
+	- Goal drift
+	- Refusal/compliant patterns inconsistent with system prompt
+- You can deploy in-line, everything goes through it
+- You can deploy in parallel, pass down verdict later asynchronously, systems use this verdict
+- You can make per-key configs for every user
+- [[Agent Hooks]]
+	- You can execute code before or after agents run

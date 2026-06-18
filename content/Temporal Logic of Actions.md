@@ -33,3 +33,7 @@ Next ==
 ![[Temporal Logic of Actions-20260614193502153.webp]]
 # Concepts
 - [[Temporal Logic Checker|TLC]]
+- [[Safety]]
+- [[Liveness]]
+- [[Fairnes]]
+https://lamport.azurewebsites.net/tla/safety-liveness.pdf
