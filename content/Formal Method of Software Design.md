@@ -27,7 +27,7 @@ A course taught by [[Eric Hehner]] on [[Formal Method]]
 - [[Process Calculus]]
 - [[Interleaved Histories]]
 - [[Model Checking]]
-- [[Predicative Programming]]
+- [[Predicative Programming|aPToP]]
 ### Lecture 1
 - [[Binary Expression]]
 - [[Theorem]]

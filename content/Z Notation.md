@@ -5,6 +5,8 @@ tags:
 ---
 A [[Specification|Specification Language]] used for describing and modelling computing systems.
 - Predominant in [[Zermello-Frankel Set Theory]].
+# Concepts
+- [[ZFC Type]]
 # ZFC Equivalent Syntaxes
 ![[Z Notation-20260327191610686.webp]]
 # Example
