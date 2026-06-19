@@ -19,6 +19,8 @@ The windows API is weird because of window's insistence on backwards compatibili
 http://www.winprog.org/tutorial/start.html
 - [[Win32 API Boilerplate Program]]
 - [[Win32 API Simplest Program]]
+# DataTypes
+- [[DWORD]]
 # Useful Functions
 - [[WinMain()]]
 - [[MessageBox()]]
