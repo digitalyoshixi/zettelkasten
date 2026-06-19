@@ -4,10 +4,11 @@ tags:
 aliases:
   - UTF-8
   - UTF
+  - Wide String
+  - Long String
 ---
 An extension of [[ASCII]] encoding. However, it is not limited to only 8 bits to represent characters. [[ASCII]] is not able to display Chinese.
-Unicode uses 16bits. Nothing truly genius, but it gets the job done.
-There is only one unicode character set. Your unicode is the same as mine
+- Unicode uses 16bits. 
 # Structure
 - The first 128 Unicode characters are [[ASCII]]
 - The second 128 Unicode characters are ISO extensions to [[ASCII]]

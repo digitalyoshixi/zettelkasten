@@ -15,12 +15,16 @@ The windows API is weird because of window's insistence on backwards compatibili
 - [[Long Strings]]
 - [[Handle Device Context|HDC]]
 - [[Graphics Device Interface|GDI]]
+- [[Out Parameters]]
 ### Quick Startup
 http://www.winprog.org/tutorial/start.html
 - [[Win32 API Boilerplate Program]]
 - [[Win32 API Simplest Program]]
 # DataTypes
 - [[DWORD]]
+- [[size_t]]
+- [[Handle]]
+- [[Module]]
 # Useful Functions
 - [[WinMain()]]
 - [[MessageBox()]]
