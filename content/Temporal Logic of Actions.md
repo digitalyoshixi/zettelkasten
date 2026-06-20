@@ -32,6 +32,7 @@ Next ==
 ```
 ![[Temporal Logic of Actions-20260614193502153.webp]]
 # Concepts
+### Theoretical
 - [[Temporal Logic Checker|TLC]]
 - [[TLA+ Value]]
 - [[TLA+ State]]
@@ -39,8 +40,12 @@ Next ==
 - [[TLA+ Behavior]]
 - [[TLA+ Property]]
 - [[TLA+ Behavior Prefix]]
+- [[TLA+ Behavior Extension]]
 - [[Sharp Operation]]
 - [[TLA+ Safety]]
-- [[Liveness]]
-- [[Fairnes]]
+- [[TLA+ Liveness]]
+- [[TLA+ Machine Closed]]
+- [[TLA+ Fairness]]
+### Practical
+- [[TLA+ Conditional Statement]]
 https://lamport.azurewebsites.net/tla/safety-liveness.pdf
