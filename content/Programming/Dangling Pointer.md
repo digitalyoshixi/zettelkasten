@@ -8,5 +8,5 @@ Could cause [[Use After Free|UAF]].
 ```c
 char *p = malloc(5);
 free(p);
-strcpy(p, "abcd") // BAD!!
+strcpy("abcd", p) // BAD!!
 ```
