@@ -7,7 +7,7 @@ This is a challenge to write a test to detect the problem in the code:
 class BoundedBuffer {
 
 synchronized
-- [ ] void put(Object x) throws InterruptedException {
+void put(Object x) throws InterruptedException {
   while( occupied == buffer.length )
 wait();
   notify();

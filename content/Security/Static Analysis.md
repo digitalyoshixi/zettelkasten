@@ -5,15 +5,15 @@ tags:
 Dissecting a program, without running it.
 This [[Formal Method|Formal Method]] is [[Soundness|Sound]] but not complete with coverage.
 # Methods
-# Malware Methods
-- [[File Signatures]]
-- [[Antivirus]]
-- [[Malware Strings]]
-- [[Portable Executable|PE]]
-- [[Debugger]]
-- [[Decompiler]]
-- [[Disassembler]]
-- [[Symbolic Execution]]
-- [[Anti-Malware Software]]
+- [[Regular Expression|Regex]]
+- [[Taint Analysis]]
+- [[Dataflow Analysis]]
+- [[Control Flow Analysis]]
+- [[Abstract Interpretation]]
+- [[Symbolic Evaluation]]
+- [[Model Checking]]
+# Subfields
+- [[Compiler Analysis|Static Compiler Analysis]]
+- [[Static Malware Analysis]]
 # Tools
 - [[Slither]]
