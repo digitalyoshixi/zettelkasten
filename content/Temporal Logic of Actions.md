@@ -48,4 +48,7 @@ Next ==
 - [[TLA+ Fairness]]
 ### Practical
 - [[TLA+ Conditional Statement]]
+- [[TLA+ Bulleted Connectives]]
+- [[TLA+ Definitions]]
+- [[Temporal Operators]]
 https://lamport.azurewebsites.net/tla/safety-liveness.pdf

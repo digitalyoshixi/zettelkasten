@@ -1,6 +1,8 @@
 ---
 tags:
   - math
+aliases:
+  - Stuttering Step
 ---
 A [[Propositional Formula|Formula]] that has the same output for the given behavior regardless of how many duplicate behaviors evaluated.
 # Example
