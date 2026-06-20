@@ -12,3 +12,4 @@ Can cause programs to crash
 # Finding Leaks
 - [[Valgrind]]
 - [[AddressSanitizer]]
+- [[Static Application Security Testing|SAST]] (not as good as dynamic though)
