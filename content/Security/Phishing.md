@@ -15,3 +15,4 @@ A method of gathering data by [[Impersonation|Impersonating]] or enticing users 
 - [[Urgent Phishing]]
 - [[Competition Winner Phishing]]
 - [[Tax Refund Phishing]]
+- [[HXXP Phishing]]

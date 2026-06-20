@@ -7,6 +7,8 @@ The cisco operating system for its switches. Replaced [[CatOS]]
 - [[Cisco IOS Hardening]]
 - [[Cisco IOS Quality Of Life Configuration]]
 - [[Cisco IOS no]]
+- [[Cisco IOS Interface Status]]
+  [[Cisco IOS Interface Counters]]
 - [[Cisco User Levels]]
 # Modes
 ![[Cisco IOS-20260606160715628.webp]]

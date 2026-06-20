@@ -51,3 +51,13 @@ The best networking certification you can get.
 ### Chapter 5
 - [[LAN Switching]]
 - [[Content Addressable Memory Table]]
+### Chapter 6
+- [[Cisco IOS]]
+### Chapter 7
+- [[Ethernet Speeds]]
+- [[Ethernet Autonegotiation]]
+- [[Auto MDI-X]]
+- [[Cisco IOS]]
+- [[Cisco IOS no]]
+- [[Cisco IOS Interface Status]]
+- [[Duplex Mismatch Issue]]

@@ -5,6 +5,7 @@ aliases:
   - Half Duplex
   - Full Duplex
   - Simplex
+  - Duplex
 ---
 In Point-point connections, data sent can either go one way (Simplex) or both ways (Duplex).
 - There is no requirement for addressing (as you already know the guy on the other end)
