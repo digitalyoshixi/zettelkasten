@@ -8,3 +8,5 @@ A [[Static Application Security Testing|SAST]] that uses semantic [[grep]] rules
 ```
 semgrep scan
 ```
+# Concepts
+- [[Semgrep Rule]]

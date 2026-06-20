@@ -6,6 +6,7 @@ Dissecting a program, without running it.
 This [[Formal Method|Formal Method]] is [[Soundness|Sound]] but not complete with coverage.
 # Methods
 - [[Regular Expression|Regex]]
+- [[Type Checking]]
 - [[Taint Analysis]]
 - [[Dataflow Analysis]]
 - [[Control Flow Analysis]]
