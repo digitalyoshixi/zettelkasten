@@ -14,6 +14,9 @@ aliases:
 ---
 # Ethernet Flavours
 ![[Ethernet Flavours-20250605130606352.webp]]
+# NIC Notations
+- 10/100: port that support 10-100Mbps Ethernet
+- 10/100/100 : port that support 10,100,1000Mbps Ethernet
 ### 10BASE-T (802.3)
 ![[Ethernet Flavours-20240731180145901.webp|428]]
 - Data is transferred at 10Mbps

@@ -6,6 +6,7 @@ The cisco operating system for its switches. Replaced [[CatOS]]
 # Concepts
 - [[Cisco IOS Hardening]]
 - [[Cisco IOS Quality Of Life Configuration]]
+- [[Cisco IOS no]]
 - [[Cisco User Levels]]
 # Modes
 ![[Cisco IOS-20260606160715628.webp]]
@@ -128,3 +129,46 @@ logging synchronous
 ```
 no ip domain-lookup
 ```
+# Checking for [[Ethernet Autonegotiation]]
+```
+interface <interface>
+	speed auto
+	duplex auto
+show running-config interface <interface>
+```
+Alternatively:
+```
+show interfaces status
+```
+Or:
+```
+show interfaces <interface>
+```
+# Setting up [[Auto MDI-X]]
+```
+interface <interface>
+	mdix auto
+show running-config interface <interface>
+```
+Or `no mdix auto` to disable
+# Adding Descriptions to Interfaces
+```
+configure terminal
+	interface <interface>
+		description My description here
+	show interfaces g1/0/1 status
+```
+# Configuring Multiple Interfaces
+```
+configure terminal
+	interface range g1/0/2 - 10
+		description this interface is not in use
+```
+- Configures interfaces `g1/0/2 - 10`
+# Turning On and Shutting Down Interface
+```
+configure terminal
+	interface GigabitEthernet 1/0/1
+		shutdown
+```
+- Alternatively, `no shutdown` to turn it back on

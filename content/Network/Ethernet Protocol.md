@@ -13,3 +13,4 @@ Not to be confused with an [[RJ-45]] .The Ethernet Protocol is used by RJ45 Cabl
 - [[Ethernet Frame]]
 - [[Ethernet Speeds]]
 - [[Power Over Ethernet]]
+- [[Ethernet Autonegotiation]]
