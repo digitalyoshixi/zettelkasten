@@ -14,5 +14,5 @@ A [[Fuzzing|Fuzzer]] developed by google, improved after the original AFL was de
 	- `__AFL_LOOP(1000)` - loop fuzzer this many times
 # Usage
 ```
-afl
+afl-cc myprogram
 ```
