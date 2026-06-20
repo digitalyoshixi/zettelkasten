@@ -47,7 +47,7 @@ aliases:
 - [[test]]
 - [[exit]]
 - [[seq]]
-- [[set]]
+- [[Bash set]]
 - [[shift]]
 - [[read]]
 - [[trap]]
