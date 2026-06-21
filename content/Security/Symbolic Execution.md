@@ -6,7 +6,9 @@ aliases:
   - Dynamic Symbolic Execution
   - symbex
 ---
-By statically analyzing the program, we can create a system of constrained branches, and apply it to our input to explore interesting execution paths.
+A method of [[Static Analysis]] where we execute symbolic values rather than actual values.
+![[Symbolic Execution-20260621204235656.webp|413]]
+- We can create a system of constrained branches, and apply it to our input to explore interesting execution paths.
 
 It is approaching a program by viewing it as a set of branching paths, rather than analyzing it input by input.
 - For [[Software Verification|Formal Verification]], this is very slow ([[Path Explosion]])

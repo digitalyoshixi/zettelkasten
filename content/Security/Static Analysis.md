@@ -10,6 +10,7 @@ This [[Formal Method|Formal Method]] is [[Soundness|Sound]] but not complete wit
 - [[Taint Analysis]]
 - [[Dataflow Analysis]]
 - [[Control Flow Analysis]]
+- [[Control Flow Graph to Lattice]]
 - [[Abstract Interpretation]]
 - [[Symbolic Evaluation]]
 - [[Model Checking]]

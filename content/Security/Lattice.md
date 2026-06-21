@@ -19,5 +19,7 @@ Note that a lattice must have:
 # Concepts
 - [[Lattice from Basis]]
 - [[Fixed Point Theorem]]
-- [[Join Semilattice]]
+- [[Semi Lattice]]
+### [[Static Analysis]]
 - [[Program State as Lattices]]
+- [[Control Flow Graph to Lattice]]
