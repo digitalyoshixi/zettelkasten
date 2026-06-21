@@ -7,7 +7,8 @@ aliases:
 A algebraic structure $(L, \vee, \wedge)$ with binary operators of:
 - $\vee$ : [[Supremum]]
 - $\wedge$ : [[Infimum]]
-Note that a lattice must have a **unique infimum and unique supremum**, thus:
+Note that a lattice must have:
+- unique infimum and unique supremum for each pairs of points:
 ![[Lattice-20260621173828234.webp]]
 # Notations
 - $\top$ is the largest element of the lattice
