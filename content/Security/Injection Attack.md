@@ -9,3 +9,4 @@ Attacks that involves malicious insertion of data into application inputs.
 - [[Insecure Deserialization]]
 - [[Confused Deputy Attack]]
 - [[Ambiguity Attack]]
+- [[Double Encoding]]
