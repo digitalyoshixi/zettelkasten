@@ -3,6 +3,7 @@ tags:
   - math
 aliases:
   - Ordering
+  - Ordered Set
 ---
 A [[Relation]] between items in a [[Set]] that is:
 - [[Reflexive]]
@@ -13,3 +14,15 @@ With $P$ as a set, an order/partial order on $P$ is a [[Binary Relation]] $\leq$
 1. $x\leq x$ ([[Reflexivity]])
 2. $x\leq y \wedge y \leq x \implies x = y$ ([[Antisymmetric]])
 3. $x \leq y \wedge y \leq z \implies x \leq z$ ([[Transitive]])
+# Terms
+- [[Partial Order|Porder]]
+- [[Discrete Order]]
+- [[Quasi-Order]]
+- [[Compatibility]]
+- [[Induced Order]]
+- [[Chain]]
+- [[Antichain]]
+- [[Order Isomorphism]]
+# Auxilliary Concepts
+- [[Programs as Partial Mappings]]
+- [[Program Refinement]]

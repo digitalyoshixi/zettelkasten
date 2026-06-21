@@ -3,6 +3,8 @@ tags:
   - math
 aliases:
   - Mapping
+  - Map
+  - Total Map
 ---
 $$f : A\to B$$
 A function is a mapping from one set $A$ to another set $B$, such that each element x in the domain of $A$ has exactly one element of the [[Codomain]] in set $B$.
@@ -19,3 +21,5 @@ A [[Binary Relation]], [[Total Relation|Left Total Relation]] and [[Unique Relat
 - [[Surjective Functions|Surjective]]
 - [[Injective Functions|Injective]]
 - [[Isomorphism|Isomorphic]]
+- [[Programming/Graph|Graph]]
+- [[Partial Mapping]]
