@@ -9,6 +9,7 @@ A structure $(S, \sqsubset)$ with [[Relation]] $\sqsubset$ between items in a [[
 - [[Reflexive]]
 - [[Transitive]]
 - [[Antisymmetric]]
+- [[Compatibility|Comparable]]
 # Definition
 With $P$ as a set, an order/partial order on $P$ is a [[Binary Relation]] $\leq$ on $P$ s.t $\forall x,y,z \in P$
 1. $x\leq x$ ([[Reflexivity]])

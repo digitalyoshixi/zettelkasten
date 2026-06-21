@@ -18,3 +18,5 @@ Note that a lattice must have a **unique infimum and unique supremum**, thus:
 # Concepts
 - [[Lattice from Basis]]
 - [[Fixed Point Theorem]]
+- [[Join Semilattice]]
+- [[Program State as Lattices]]

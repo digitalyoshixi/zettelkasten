@@ -7,3 +7,5 @@ tags:
 - [[Subgroup]]
 - [[Normal Subgroup]]
 - [[Abelian Group]]
+- [[Order]]
+- [[Lattice]]
