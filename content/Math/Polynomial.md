@@ -8,7 +8,7 @@ A form of numbers that takes from a field.
 # Concepts
 - [[Degree]]
 - [[Degree]]
-- [[Orders|Order]]
+- [[Polynomial Orders|Order]]
 - [[Leading Coefficient]]
 - [[Local Extrema|Turning Points]]
 - [[Global Extrema]]

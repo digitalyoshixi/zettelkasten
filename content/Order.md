@@ -1,0 +1,15 @@
+---
+tags:
+  - math
+aliases:
+  - Ordering
+---
+A [[Relation]] between items in a [[Set]] that is:
+- [[Reflexive]]
+- [[Transitive]]
+- [[Antisymmetric]]
+# Definition
+With $P$ as a set, an order/partial order on $P$ is a [[Binary Relation]] $\leq$ on $P$ s.t $\forall x,y,z \in P$
+1. $x\leq x$ ([[Reflexivity]])
+2. $x\leq y \wedge y \leq x \implies x = y$ ([[Antisymmetric]])
+3. $x \leq y \wedge y \leq z \implies x \leq z$ ([[Transitive]])

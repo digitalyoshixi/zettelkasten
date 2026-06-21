@@ -4,7 +4,7 @@ tags:
 ---
 Of a factored form polynomial, it is built in the form: **a**(x-d)(x-e)...
 with **a** being the vertical stretch.
-So far, we know how to get the factors using [[Orders]] in tandem with [[Bounce and Cross]], but we have yet to figure out the vertical stretch of the function.
+So far, we know how to get the factors using [[Polynomial Orders]] in tandem with [[Bounce and Cross]], but we have yet to figure out the vertical stretch of the function.
 
 ## The method
 So say you have this graph.

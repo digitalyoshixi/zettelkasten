@@ -10,7 +10,7 @@ tags:
 	- Determine Even or Odd [[Degree]] Polynomial
 	- Determine if leading coefficient is positive or negative
 - Find [[Y Intercepts|Y Intercept]] and [[X Intercepts]]
-- Try to factor. Get [[Orders]] of factors
+- Try to factor. Get [[Polynomial Orders]] of factors
 	- Approach from an [[Endpoint Behavior]]. Determine [[Bounce and Cross]] of each factor
 - Find [[Symmetry]]
 
@@ -29,9 +29,9 @@ Odd degree polynomials  will have endpoint behaviors that are diagonal like: Q3-
 **For Factors**
 Bounce: Graph continues in the opposite direction. 
 Cross: Graph continues in the same direction.
-[[Orders|Order]] 2,4,6... even order factors have bounces on the graph.
-[[Orders|Order]] 1.3.5... odd order factors will cross on the graph
-[[Orders|Order]] 0 we don't care about because it is impossible to have order 0 in a factored form polynomial.
+[[Polynomial Orders|Order]] 2,4,6... even order factors have bounces on the graph.
+[[Polynomial Orders|Order]] 1.3.5... odd order factors will cross on the graph
+[[Polynomial Orders|Order]] 0 we don't care about because it is impossible to have order 0 in a factored form polynomial.
 # Transformations
 - [[Transformation from Standard Form]]
 - [[Mapping Rule]]

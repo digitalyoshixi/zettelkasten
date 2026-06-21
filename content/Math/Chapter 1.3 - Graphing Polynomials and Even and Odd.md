@@ -4,7 +4,7 @@ tags:
 ---
 # Equations and graphs of Polynomial functions
 - [[Y Intercepts]]
-- [[Orders]]
+- [[Polynomial Orders]]
 - [[Bounce and Cross]]
 - [[Graph Intervals]]
 - [[Vertical Stretch from Y Intercept]]
