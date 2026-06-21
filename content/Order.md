@@ -5,7 +5,7 @@ aliases:
   - Ordering
   - Ordered Set
 ---
-A [[Relation]] between items in a [[Set]] that is:
+A structure $(S, \sqsubset)$ with [[Relation]] $\sqsubset$ between items in a [[Set]] that is:
 - [[Reflexive]]
 - [[Transitive]]
 - [[Antisymmetric]]
@@ -23,6 +23,9 @@ With $P$ as a set, an order/partial order on $P$ is a [[Binary Relation]] $\leq$
 - [[Chain]]
 - [[Antichain]]
 - [[Order Isomorphism]]
+- [[Order Ideal]]
+- [[Order Filter]]
 # Auxilliary Concepts
 - [[Programs as Partial Mappings]]
 - [[Program Refinement]]
+- [[Hasse Diagrams]]

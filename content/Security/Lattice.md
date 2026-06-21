@@ -1,9 +1,20 @@
 ---
 tags:
   - math
+aliases:
+  - Complete Lattice
 ---
-A lattice for a given [[Basis]] $B = \{ b_{1}, \dots, b_{n} \}$ is;
-$$\mathcal{L}(B) = \{ \sum_{i=1}^{n} z_{i}b_{i} : z_{i} \in \mathbb{Z} \}$$
-# Intuition
-A lattice is a series of points created by two basis vectors
-![[Lattice-20251229032918088.webp]]
+A algebraic structure $(L, \vee, \wedge)$ with binary operators of:
+- $\vee$ : [[Supremum]]
+- $\wedge$ : [[Infimum]]
+Note that a lattice must have a **unique infimum and unique supremum**, thus:
+![[Lattice-20260621173828234.webp]]
+# Notations
+- $\top$ is the largest element of the lattice
+- $\bot$ is the smallest element of the lattice
+# Formal Definition
+- If $\forall x,y \in P, x \vee y, x \wedge y$ exist ([[Infimum]] and [[Supremum]]) then $P$ is a lattice
+- If $\vee S, \wedge S$ exist $\forall S \subset P$, then $P$ is a complete lattice
+# Concepts
+- [[Lattice from Basis]]
+- [[Fixed Point Theorem]]

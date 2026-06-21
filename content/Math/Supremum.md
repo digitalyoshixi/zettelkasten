@@ -4,12 +4,15 @@ tags:
 aliases:
   - Least Upper Bound
   - Approximation Theorem
+  - Join
 ---
 It is the least [[Upper Bound]].
 Assumes the [[Completeness|Completeness Axiom]]
 Most of the time it is the [[Max]], but it can also exist if the maximum doesnt like cases $[0,5)$
 # Notation
 ![[Supremum-20241010094254299.webp]]
+- $A \vee B$ picks the supremum of the two
+- $\wedge_{P}S$ notes that $S$ is infimum of [[Set]] $P$
 Or $s = \sup(S)$
 # Definition
 Let $S \subset R$ and $s \in R$, we say that $s$ is in the [[Supremum]] of $S$ if:
