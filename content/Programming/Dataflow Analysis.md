@@ -12,5 +12,6 @@ Makes conclusions about all paths through a program's [[Control Flow Graph|CFG]]
 - [[Very Busy Expressions]]
 - [[Available Expressions]]
 - [[Live Variables]]
+- [[Worklist Algorithm]]
 # Dataflow Methods
 - [[Kildall's Method]]

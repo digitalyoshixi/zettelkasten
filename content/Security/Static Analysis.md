@@ -9,10 +9,10 @@ This [[Formal Method|Formal Method]] is [[Soundness|Sound]] but not complete wit
 - [[Type Checking]]
 - [[Taint Analysis]]
 - [[Dataflow Analysis]]
-- [[Control Flow Analysis]]
+- [[Control Flow Graph]]
 - [[Control Flow Graph to Lattice]]
+- [[Symbolic Execution]]
 - [[Abstract Interpretation]]
-- [[Symbolic Evaluation]]
 - [[Model Checking]]
 # Subfields
 - [[Compiler Analysis|Static Compiler Analysis]]

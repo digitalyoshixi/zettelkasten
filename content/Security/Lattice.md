@@ -22,4 +22,6 @@ Note that a lattice must have:
 - [[Semi Lattice]]
 ### [[Static Analysis]]
 - [[Program State as Lattices]]
+- [[Lattice Joining]]
+- [[Lattice Widening]]
 - [[Control Flow Graph to Lattice]]
