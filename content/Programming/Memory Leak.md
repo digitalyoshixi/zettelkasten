@@ -9,6 +9,7 @@ Can cause programs to crash
 - [[Unfreed Pointer Memory Leak]]
 - [[Invalid Pointer Access Memory Leak]]
 - [[Dangling Pointer]]
+- [[Handle Leak]]
 # Finding Leaks
 - [[Valgrind]]
 - [[AddressSanitizer]]

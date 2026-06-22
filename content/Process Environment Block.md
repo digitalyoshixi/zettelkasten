@@ -10,8 +10,9 @@ The structure of a [[Windows Process]] being used by programs. Contains:
 - Current directory
 - Loaded [[Dynamic Linked Library|DLL]]
 - Memory regions
-- Threads
+- Threads with [[Thread Environment Block]]
 # Struct
+More robust version here: https://github.com/winsiderss/systeminformer/blob/2c9dd8765011a85fd98774cb37ff4ef52923d8c1/phnt/include/ntpebteb.h#L83
 ```c
 typedef struct _PEB {
   BYTE                          Reserved1[2];
@@ -39,7 +40,8 @@ typedef struct _PEB {
 - `Ldr` is a pointer to [[PEB_LDR_DATA]] that stores information about the process' [[Dynamic Linked Library|DLL]] modules
 - `ProcessParameters` is a [[RTL_USER_PROCESS_PARAMETERS]] data structure containing command line arguments
 - `AtlThunkSListPtr`/`AtlThunkSListPtr32` are used to point to a [[Linked List]] of [[Windows Thunking Functions]]
-- `PostProcessRoutine` used to store a pointer called by the operating system
+- `PostProcessRoutine` used to store a pointer to the [[Thread Local Storage]] callback function
+- `SessionId` unique identifier used to track a user session on the program
 # Techniques
 - [[Getting PEB Address]]
 # Blogs

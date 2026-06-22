@@ -37,10 +37,13 @@ http://www.winprog.org/tutorial/start.html
 - [[CreateWindow]]
 - [[GetProcAddress()]]
 - [[GetModuleHandle()]]
+- [[CloseHandle()]]
 - [[HeapAlloc()]]
 - [[LocalAlloc()]]
 - [[HeapFree()]]
 - [[LocalFree()]]
 - [[GetLastError()]]
+- [[OpenProcess()]]
+- [[OpenThread()]]
 # Guides
 - https://github.com/7etsuo/windows-api-function-cheatsheets
