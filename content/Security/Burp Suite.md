@@ -9,6 +9,7 @@ Web testing application
 - [[Burp Suite Intruder]]
 - [[Burp Suite Repeater]]
 - [[Burp Content Discovery]]
+- [[Burp Macro]]
 # Guides
 - [[Burp Suite Configure Scope]]
 - [[Burp Suite Match and Replace]]
