@@ -13,3 +13,5 @@ Can prevent against:
 - [[Canonical Form]]
 - [[Whitelist]] patterns
 - [[Blacklist]] patterns (least secure)
+- [[Prepared Statements]]
+- [[Stored Procedure]]

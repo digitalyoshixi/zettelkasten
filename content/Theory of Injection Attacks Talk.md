@@ -14,3 +14,4 @@ tags:
 - [[Language-Theoretic Security|LangSec]] : 
 - https://dl.acm.org/doi/epdf/10.1145/3485500
 - https://tractable.for-all.dev/problems/agent-weirdmachines
+- https://www.cs.ru.nl/~erikpoll/ss/2020/slides/7_InputProblems.pdf
