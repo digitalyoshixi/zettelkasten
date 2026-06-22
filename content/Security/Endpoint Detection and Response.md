@@ -21,6 +21,7 @@ Often includes:
 - [[EDR Direct Shellcode Removal]]
 - [[EDR Last Stack Call Tracing]]
 - [[EDR Function Hooking]]
+- [[Import Address Table Hooking|IAT Hooking]]
 - [[EDR Direct Syscall Removal]]
 - [[Memory Scanner]]
 	- [[Clean Stack]] checking
