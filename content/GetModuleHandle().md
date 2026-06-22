@@ -10,3 +10,7 @@ HMODULE GetModuleHandleA(
   [in, optional] LPCSTR lpModuleName
 );
 ```
+Can be used to get the handle of a [[Dynamic Linked Library|DLL]] loaded into memory already
+```c
+HMODULE hModule = GetModuleHandleA("sampleDLL.dll");
+```
