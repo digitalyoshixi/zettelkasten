@@ -5,13 +5,12 @@ tags:
 aliases:
   - PEB
 ---
-The structure of a windows process being used by programs. Contains:
+The structure of a [[Windows Process]] being used by programs. Contains:
 - Process name
 - Current directory
 - Loaded [[Dynamic Linked Library|DLL]]
 - Memory regions
 - Threads
-
 # Struct
 ```c
 typedef struct _PEB {
@@ -36,6 +35,11 @@ typedef struct _PEB {
   ULONG                         SessionId;
 } PEB, *PPEB;
 ```
+- `BeingDebugged` is a boolean indicating whether process is being debugged or not
+- `Ldr` is a pointer to [[PEB_LDR_DATA]] that stores information about the process' [[Dynamic Linked Library|DLL]] modules
+- `ProcessParameters` is a [[RTL_USER_PROCESS_PARAMETERS]] data structure containing command line arguments
+- `AtlThunkSListPtr`/`AtlThunkSListPtr32` are used to point to a [[Linked List]] of [[Windows Thunking Functions]]
+- `PostProcessRoutine` used to store a pointer called by the operating system
 # Techniques
 - [[Getting PEB Address]]
 # Blogs
