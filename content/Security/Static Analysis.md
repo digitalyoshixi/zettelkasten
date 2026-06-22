@@ -14,6 +14,8 @@ This [[Formal Method|Formal Method]] is [[Soundness|Sound]] but not complete wit
 - [[Symbolic Execution]]
 - [[Abstract Interpretation]]
 - [[Model Checking]]
+### Binary Methods
+- [[Value Set Analysis]]
 # Subfields
 - [[Compiler Analysis|Static Compiler Analysis]]
 - [[Static Malware Analysis]]
