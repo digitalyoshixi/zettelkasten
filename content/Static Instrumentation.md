@@ -9,3 +9,6 @@ A method for [[Software Instrumentation|Binary Instrumentation]] that involves a
 # Methods
 - [[Interrupt 3]]
 - [[Instrumented Patch Code]]
+- [[Trampoline Code|Trampoline]]
+- [[Static Instrumentation Indirect Jump Patching]]
+- [[Static Instrumentation on PIE]]
