@@ -16,6 +16,8 @@ The windows API is weird because of window's insistence on backwards compatibili
 - [[Handle Device Context|HDC]]
 - [[Graphics Device Interface|GDI]]
 - [[Out Parameters]]
+- [[Windows System Error Codes]]
+- [[NTSTATUS]]
 ### Quick Startup
 http://www.winprog.org/tutorial/start.html
 - [[Win32 API Boilerplate Program]]
@@ -39,5 +41,6 @@ http://www.winprog.org/tutorial/start.html
 - [[LocalAlloc()]]
 - [[HeapFree()]]
 - [[LocalFree()]]
+- [[GetLastError()]]
 # Guides
 - https://github.com/7etsuo/windows-api-function-cheatsheets

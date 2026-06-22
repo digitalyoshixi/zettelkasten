@@ -10,6 +10,7 @@ It can only export functions for use in other programs.
 # Concepts
 - [[Linker|Linking]]
 - [[DLL Ordinal]]
+- [[DLL Base]]
 - [[DLLMain]]
 - [[Running DLL]]
 - [[DLL Loader Lock]]
