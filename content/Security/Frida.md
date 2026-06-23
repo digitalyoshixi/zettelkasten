@@ -11,9 +11,16 @@ The library is located at `<pythonfolder>/Lib/site-packages/frida-tools`
 The example scripts are located at: `<pythonfolder>/Scripts/`
 ### [[Arch Linux|Arch]]
 `sudo pacman -S python-frida python-frida-tools`
+# Usage
+### Run Binary
+```
+frida -f ./program -l instrumentation.js
+```
 # Concepts
 - [[Frida Control Script]]
 - [[Frida Instrumentation Script]]
 - [[Frida Trace]]
+- [[Frida Interceptor]]
+- [[Frida Stalker]]
 # Guides
 - [[Frida Android]]
