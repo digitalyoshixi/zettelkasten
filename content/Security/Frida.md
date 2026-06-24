@@ -14,8 +14,20 @@ The example scripts are located at: `<pythonfolder>/Scripts/`
 # Usage
 ### Run Binary
 ```
-frida -f ./program -l instrumentation.js
+frida -f ./program -l instrumentation.js --stdio=inherit
 ```
+```
+frida PID -l instrumentation.js --stdio=inherit
+```
+### Trace Binary
+```
+frida-trace -f ./binary -i "CreateFile*" -I "KERNEL32.DLL"
+```
+- Trace binary for CreateFile calls from [[Kernel32]]
+```
+frida-trace PID -a "customLib.DLL!0x1234"
+```
+- Trace binary from PID at a custom function from module offset
 # Concepts
 - [[Frida Control Script]]
 - [[Frida Instrumentation Script]]
