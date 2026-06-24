@@ -4,7 +4,7 @@ tags:
 aliases:
   - BNF
 ---
-A notation used to describe the syntax of programming languages.
+A [[Programming/Grammar|Grammar]] used to describe the syntax of programming languages.
 It provides a structure to define how symbols can be combined to form valid strings in a langauge. Developed for [[FORTRAN]]
 # Concepts
 - [[Terminal]]
