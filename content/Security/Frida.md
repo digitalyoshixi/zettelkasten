@@ -14,7 +14,7 @@ The example scripts are located at: `<pythonfolder>/Scripts/`
 # Usage
 ### Run Binary
 ```
-frida -f ./program -l instrumentation.js --stdio=inherit
+frida -f ./program -l instrumentation.js --runtime=v8
 ```
 ```
 frida PID -l instrumentation.js --stdio=inherit
@@ -34,5 +34,6 @@ frida-trace PID -a "customLib.DLL!0x1234"
 - [[Frida Trace]]
 - [[Frida Interceptor]]
 - [[Frida Stalker]]
+- [[Frida API]]
 # Guides
 - [[Frida Android]]
