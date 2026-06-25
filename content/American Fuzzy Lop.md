@@ -36,6 +36,15 @@ AFL is good for raw binary formats but not so much text formats ([[JSON]], [[Hyp
 ```
 afl fuzz -i in -o out -x testcase/json.dict ./jq @@
 ```
+Example dict:
+```json
+"<="
+"->"
+"alignas"
+"alignof"
+"and"
+"and_eq"
+```
 ### Corpus Minimizer
 Attempts to find smallest set of test cases from existing cases that will still have the widest coverage
 Minimize corpus directory:
