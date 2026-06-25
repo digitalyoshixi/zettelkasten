@@ -1,6 +1,8 @@
 ---
 tags:
   - security
+aliases:
+  - Pintool
 ---
 The tool used to write [[Hook]] in [[C]]/[[C++]]
 # Function Types
