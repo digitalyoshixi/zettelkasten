@@ -18,11 +18,35 @@ A [[Fuzzing|Fuzzer]] developed by google, improved after the original AFL was de
 ```
 afl-cc myprogram
 ```
+### Compile Harness with Instrumentation Assembly Level
+- This is what afl-cc does under the hood (only part where instrumentation is setup)
+```
+afl-as myprogram.s
+```
 ### Fuzz Harness
 ```
-afl-fuzz -i ./corpusdir -o ./out -s 1337 -- ./install/bin/pdftotext @@ ./out
+afl-fuzz -i ./corpusdir -o ./out -s 1337 ./install/bin/pdftotext @@
 ```
 - `-i` is the corpus directory
 - `-o` is the directory that AFL++ stores mutated files
 - `-s` is the static random seed to use
 - `@@` is the placeholder target AFL substitutes for each file name in corpus
+### Fuzz with Custom Syntax-Aware Dictionary
+AFL is good for raw binary formats but not so much text formats ([[JSON]], [[Hypertext Markup Language|HTML]], etc) so sometimes you define custom symbols to use:
+```
+afl fuzz -i in -o out -x testcase/json.dict ./jq @@
+```
+### Corpus Minimizer
+Attempts to find smallest set of test cases from existing cases that will still have the widest coverage
+Minimize corpus directory:
+```
+afl-cmin -i testcase_dir -o testcase_out_dir -- /fuzzed_program
+```
+Minimize single test case:
+```
+afl-tmin -i testcase -o testcase_out_dir -- /fuzzed_program
+```
+### Setup [[tmpfs]]
+```
+sudo mount -t tmpfs -o size=2000m tmpfs /mnt/fuzzing
+```
