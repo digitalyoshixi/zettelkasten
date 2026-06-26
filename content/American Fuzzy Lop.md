@@ -13,6 +13,8 @@ A [[Fuzzing|Fuzzer]] developed by google, improved after the original AFL was de
 	- `__AFL_FUZZ_TESTCASE_YOURNAME()` - fuzzing tag
 	- `__AFL_LOOP(1000)` - loop fuzzer this many times
 ![[American Fuzzy Lop-20260625005741354.webp]]
+# Concepts
+- [[AFL Harness]]
 # Usage
 ### Compile Harness with Instrumentation
 ```
