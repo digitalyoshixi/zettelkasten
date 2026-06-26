@@ -25,6 +25,8 @@ Using [[Rigor|Rigorous]] methods to meet [[Specification]] of a software or hard
 - [[Interleaved Histories]]
 - [[Model Checking]]
 - [[Predicative Programming]]
+- [[Type Checking]]
+- [[Software Verification|Formal Verification]]
 # Theorems
 - [[Curry Howard Correspondance]]
 - [[Rice's Theorem|Rices Theorem]]
