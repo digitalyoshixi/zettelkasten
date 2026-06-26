@@ -14,7 +14,7 @@ A [[Specification|Specification Language]] used for describing and modelling com
 
 ![[Z Notation-20260625231237146.webp]]
 - $\triangle$ means it changes some item in the state
-- $$
+- $\Xi$ means it does not change this state
 # Example
 ![[Z Notation-20260327191629761.webp]]
 ![[Z Notation-20260327191646169.webp]]
