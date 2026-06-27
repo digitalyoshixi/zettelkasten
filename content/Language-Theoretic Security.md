@@ -21,6 +21,7 @@ Therefore, once your data language has enough features, it becomes a accidental 
 - [[Message Sequence Chart]]
 - [[Input Enabled State Machine]]
 - [[Stateful Fuzzing]]
+- [[Types for Special Strings]]
 # Related Vulnerabilities
 ### [[Weird Machine]]
 - [[Code Red Worm]]
@@ -28,3 +29,6 @@ Therefore, once your data language has enough features, it becomes a accidental 
 - [[CVE-2018-10933]]
 - [[MIDPSSH]]
 - [[edentifier2]]
+### [[Injection Attack|Flawed Forwarding]]
+- [[SQL Injection|SQLI]]
+- [[LDAP Injection]]

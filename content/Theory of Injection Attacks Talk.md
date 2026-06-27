@@ -18,8 +18,10 @@ tags:
 # Project Ideas
 ### High
 - Weird machine database creator, as a smart fuzzer to find inputs that can cause memory primatives to exploit weird machines
-- A [[Stateful Fuzzing]] tool for web security
+- A re-look at [[L*]] algorithm and how it can be improved in modern day
 - Mapping out web security backend via state machine, errors, side channel, application fingerprints, etc
 ### Medium
 - Semgrep rules to find [[Shotgun Parser]]
 ### Low
+- Automatic grammars for types based off use ([[Trusted Types]])
+- Overview of langsec ideas

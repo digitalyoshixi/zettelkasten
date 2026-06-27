@@ -1,6 +1,8 @@
 ---
 tags:
   - security
+aliases:
+  - Flawed Forwarding
 ---
 Attacks that involves malicious insertion of data into application inputs.
 # List
