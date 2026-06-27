@@ -1,6 +1,8 @@
 ---
 tags:
   - security
+aliases:
+  - Escape
 ---
 Encoding certain values so they don't cause [[Injection Attack]].
 - `" -> \"`
