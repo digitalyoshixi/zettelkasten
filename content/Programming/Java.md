@@ -61,7 +61,7 @@ public class Main {
 - [[Polymorphism]]
 - [[Dynamic Binding]]
 - [[Dynamic Dispatch]]
-- [[Java Classes]]
+- [[Java Class]]
 - [[Java Objects]]
 - [[Java Interface]]
 - [[Java Generics]]

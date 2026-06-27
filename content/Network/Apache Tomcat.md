@@ -4,7 +4,8 @@ tags:
   - linux
   - debian
 ---
-A servlet container for power web applications
+A [[Jarkata Servlet|Java Servlet]] container to power web applications
+![[Apache Tomcat-20260627155329056.webp]]
 # Installation
 https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-9-on-debian-10
 ### Get Java

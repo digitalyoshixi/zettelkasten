@@ -5,4 +5,4 @@ tags:
 aliases:
   - ELI
 ---
-Application mishandles expression language, and abuses the expression language interpreter.
+Application mishandles [[Expression Language]], and abuses the expression language interpreter.

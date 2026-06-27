@@ -3,7 +3,7 @@ tags:
   - python
   - web
 ---
-These are used in creating template [[Hypertext Markup Language|HTML]] files.
+A [[Templating Language]] used in creating template [[Hypertext Markup Language|HTML]] files.
 # Jinja Segments
 In `app.py`
 ```python

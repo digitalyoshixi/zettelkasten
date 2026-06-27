@@ -2,7 +2,7 @@
 tags:
   - programming
 ---
-Objects are created when you instantiate a [[Java Classes]]
+Objects are created when you instantiate a [[Java Class]]
 Objects are [[Pass by Reference]].
 # Instantiation
 ```java

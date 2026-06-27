@@ -6,7 +6,7 @@ Any datatype that is composed of multiple elements to make a single entity.
 - [[C Structures]]
 - [[C Arrays]]
 - [[C Unions]]
-- [[Java Classes]]
+- [[Java Class]]
 - [[Java Collection]]
 # Fields
 These are the elements part of the aggregate that can be referenced.

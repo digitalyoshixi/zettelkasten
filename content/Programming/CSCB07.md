@@ -10,7 +10,7 @@ aliases:
 # Weeks
 ### Week 1 or 2
 - [[Java]]
-- [[Java Classes]]
+- [[Java Class]]
 - [[Polymorphism]]
 - [[Java super|Java Super]]
 ### Week 3

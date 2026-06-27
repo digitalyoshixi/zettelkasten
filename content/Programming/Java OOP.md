@@ -7,7 +7,7 @@ tags:
 - [[Inheritance]]
 - [[Polymorphism]]
 # [[Programming/Encapsulation]]
-- [[Java Classes]]
+- [[Java Class]]
 - [[Java Objects]]
 - [[Public Classes]]
 - [[Accessor Method]]

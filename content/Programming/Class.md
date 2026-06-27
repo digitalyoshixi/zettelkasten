@@ -20,6 +20,6 @@ And have method types:
 - [[Abstract Methods]]
 # Implementaitons
 - [[C++ Class]]
-- [[Java Classes]]
+- [[Java Class]]
 - [[Javascript Class]]
 - [[Python Class]]
