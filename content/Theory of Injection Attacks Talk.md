@@ -16,4 +16,8 @@ tags:
 - https://tractable.for-all.dev/problems/agent-weirdmachines
 - https://www.cs.ru.nl/~erikpoll/ss/2020/slides/7_InputProblems.pdf
 # Project Ideas
-- Weird machine database, compiler
+### High
+- Weird machine database creator, as a smart fuzzer to find inputs that can cause memory primatives to exploit weird machines
+### Medium
+- Semgrep rules to find [[Shotgun Parser]]
+### Low
