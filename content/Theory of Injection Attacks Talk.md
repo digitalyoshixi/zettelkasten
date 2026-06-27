@@ -18,6 +18,8 @@ tags:
 # Project Ideas
 ### High
 - Weird machine database creator, as a smart fuzzer to find inputs that can cause memory primatives to exploit weird machines
+- A [[Stateful Fuzzing]] tool for web security
+- Mapping out web security backend via state machine, errors, side channel, application fingerprints, etc
 ### Medium
 - Semgrep rules to find [[Shotgun Parser]]
 ### Low

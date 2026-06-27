@@ -4,4 +4,5 @@ tags:
 aliases:
   - Session
 ---
-A time-delimited two-way link between two devices that is often [[State]]
+A series of [[Network Messages|Messages]] in a two-way link between two devices that is time-limited. 
+Can be formalized as a [[Message Sequence Chart]]

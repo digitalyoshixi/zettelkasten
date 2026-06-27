@@ -6,7 +6,7 @@ tags:
 aliases:
   - LangSec
 ---
-The study of how security degrades in a parsing context as the complexity of a language increases.
+The study of how security degrades in a parsing context as the complexity of a input language increases.
 You must:
 - Treat all input as a language and define a clear [[Backus-Naur Form|BNF]] spec for it
 - Parse completely before processing
@@ -17,5 +17,14 @@ Therefore, once your data language has enough features, it becomes a accidental 
 - [[Web Tower of Babel]]
 - [[The Parser Problem]]
 - [[Shotgun Parser]]
+- [[No More Length Fields]]
+- [[Message Sequence Chart]]
+- [[Input Enabled State Machine]]
+- [[Stateful Fuzzing]]
 # Related Vulnerabilities
+### [[Weird Machine]]
 - [[Code Red Worm]]
+### Broken State Machines
+- [[CVE-2018-10933]]
+- [[MIDPSSH]]
+- [[edentifier2]]
