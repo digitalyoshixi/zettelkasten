@@ -18,8 +18,11 @@ tags:
 # Project Ideas
 ### High
 - Weird machine database creator, as a smart fuzzer to find inputs that can cause memory primatives to exploit weird machines
-- A re-look at [[L*]] algorithm and how it can be improved in modern day
-- Mapping out web security backend via state machine, errors, side channel, application fingerprints, etc
+- Automata learning for web security - how to reveal any website's backend
+	- A re-look at [[L*]] algorithm and how it can be improved in modern day. Mapping out web security backend via state machine, errors, side channel, application fingerprints, etc
+	- You can check for bypasses of business logic flows
+	- https://medium.com/@edi.muskardin/automata-learning-a-gentle-introduction-82f7ec21d50d
+	- https://www.cs.ru.nl/~erikpoll/papers/langsec2015.pdf
 ### Medium
 - Semgrep rules to find [[Shotgun Parser]]
 ### Low

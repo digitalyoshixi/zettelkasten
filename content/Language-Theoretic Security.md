@@ -22,6 +22,7 @@ Therefore, once your data language has enough features, it becomes a accidental 
 - [[Input Enabled State Machine]]
 - [[Stateful Fuzzing]]
 - [[Types for Special Strings]]
+- [[Happy Flow]]
 # Related Vulnerabilities
 ### [[Weird Machine]]
 - [[Code Red Worm]]
