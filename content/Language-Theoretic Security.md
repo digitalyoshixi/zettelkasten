@@ -23,6 +23,8 @@ Therefore, once your data language has enough features, it becomes a accidental 
 - [[Stateful Fuzzing]]
 - [[Types for Special Strings]]
 - [[Happy Flow]]
+- [[Starve the Turing Beast]]
+- [[Principle of Least Composition]]
 # Related Vulnerabilities
 ### [[Weird Machine]]
 - [[Code Red Worm]]

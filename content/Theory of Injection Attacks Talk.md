@@ -23,8 +23,12 @@ tags:
 	- You can check for bypasses of business logic flows
 	- https://medium.com/@edi.muskardin/automata-learning-a-gentle-introduction-82f7ec21d50d
 	- https://www.cs.ru.nl/~erikpoll/papers/langsec2015.pdf
+	- Abuse [[Parse Tree Differential Attack]] to fingerprint like nmap
+- Dependency stripper for [[JavaScript]] projects, if a function in a library is never used, never bundle it
 ### Medium
 - Semgrep rules to find [[Shotgun Parser]]
+- [[Starve the Turing Beast]] adjuster, automatically reduce power of your grammers
+- Computational power finder to adhere to [[Starve the Turing Beast]]
 ### Low
 - Automatic grammars for types based off use ([[Trusted Types]])
 - Overview of langsec ideas
