@@ -18,6 +18,7 @@ tags:
 # Project Ideas
 ### High
 - Weird machine database creator, as a smart fuzzer to find inputs that can cause memory primatives to exploit weird machines
+	- https://langsechq.gitlab.io/spw24/papers/LangSec2024-Lesani-slides.pdf
 - Automata learning for web security - how to reveal any website's backend
 	- A re-look at [[L*]] algorithm and how it can be improved in modern day. Mapping out web security backend via state machine, errors, side channel, application fingerprints, etc
 	- You can check for bypasses of business logic flows
@@ -27,7 +28,7 @@ tags:
 - Dependency stripper for [[JavaScript]] projects, if a function in a library is never used, never bundle it
 ### Medium
 - Semgrep rules to find [[Shotgun Parser]]
-- [[Starve the Turing Beast]] adjuster, automatically reduce power of your grammers
+- [[Starve the Turing Beast]] adjuster, automatically reduce power of your grammars
 - Computational power finder to adhere to [[Starve the Turing Beast]]
 ### Low
 - Automatic grammars for types based off use ([[Trusted Types]])
