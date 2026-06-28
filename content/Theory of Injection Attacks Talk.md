@@ -25,11 +25,15 @@ tags:
 	- https://medium.com/@edi.muskardin/automata-learning-a-gentle-introduction-82f7ec21d50d
 	- https://www.cs.ru.nl/~erikpoll/papers/langsec2015.pdf
 	- Abuse [[Parse Tree Differential Attack]] to fingerprint like nmap
+	- These guys fuzz with differential fuzzing (https://langsechq.gitlab.io/spw24/papers/LangSec2024-Jabiyev-challenges-invited.pptx)
 - Dependency stripper for [[JavaScript]] projects, if a function in a library is never used, never bundle it
 ### Medium
 - Semgrep rules to find [[Shotgun Parser]]
 - [[Starve the Turing Beast]] adjuster, automatically reduce power of your grammars
 - Computational power finder to adhere to [[Starve the Turing Beast]]
+- [[Differential Analysis]] for new protocols and automated bug hunting
+- ![[Theory of Injection Attacks Talk-20260628203426495.webp]]
+- Fuck with [[Content Disarm and Reconstruction|CDR]]
 ### Low
 - Automatic grammars for types based off use ([[Trusted Types]])
 - Overview of langsec ideas
