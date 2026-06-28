@@ -15,3 +15,4 @@ https://beza1e1.tuxen.de/articles/accidentally_turing_complete.html
 - [[HTML5 + CSS Turing Completeness]]
 - [[Minecraft]]
 - [[Dwarf Fortess]]
+- [[Font Hinting]]

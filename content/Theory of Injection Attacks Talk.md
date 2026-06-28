@@ -32,3 +32,4 @@ tags:
 ### Low
 - Automatic grammars for types based off use ([[Trusted Types]])
 - Overview of langsec ideas
+- Collection of obfuscation techniques and general methodology to obfuscate things

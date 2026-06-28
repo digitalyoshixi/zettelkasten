@@ -8,7 +8,7 @@ aliases:
 ---
 The study of how security degrades in a parsing context as the complexity of a input language increases.
 You must:
-- Treat all input as a language and define a clear [[Backus-Naur Form|BNF]] spec for it
+- Treat all input as a language and define a clear [[Backus-Naur Form|BNF]] spec for it (try and ensure the grammar is deterministic and [[Context Free Grammar|Context Free]])
 - Parse completely before processing
 # Theorem
 A sufficiently complex parser is indistinguishable from a compiler.
@@ -16,6 +16,7 @@ Therefore, once your data language has enough features, it becomes a accidental 
 # Ideas
 - [[Web Tower of Babel]]
 - [[The Parser Problem]]
+- [[Parser Differentials]]
 - [[Shotgun Parser]]
 - [[No More Length Fields]]
 - [[Message Sequence Chart]]
@@ -25,6 +26,9 @@ Therefore, once your data language has enough features, it becomes a accidental 
 - [[Happy Flow]]
 - [[Starve the Turing Beast]]
 - [[Principle of Least Composition]]
+- [[Parser Combinator]]
+# Tools
+- [[Hammer]]
 # Related Vulnerabilities
 ### [[Weird Machine]]
 - [[Code Red Worm]]
@@ -32,6 +36,8 @@ Therefore, once your data language has enough features, it becomes a accidental 
 - [[CVE-2018-10933]]
 - [[MIDPSSH]]
 - [[edentifier2]]
+- [[Goto Fail]]
 ### [[Injection Attack|Flawed Forwarding]]
 - [[SQL Injection|SQLI]]
 - [[LDAP Injection]]
+- [[Heartbleed]]
