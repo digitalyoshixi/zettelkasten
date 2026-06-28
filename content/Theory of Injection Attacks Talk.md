@@ -19,6 +19,7 @@ tags:
 ### High
 - Weird machine database creator, as a smart fuzzer to find inputs that can cause memory primatives to exploit weird machines
 	- https://langsechq.gitlab.io/spw24/papers/LangSec2024-Lesani-slides.pdf
+- Flow-aware fuzzing for business logic flows
 - Automata learning for web security - how to reveal any website's backend
 	- A re-look at [[L*]] algorithm and how it can be improved in modern day. Mapping out web security backend via state machine, errors, side channel, application fingerprints, etc
 	- You can check for bypasses of business logic flows
@@ -26,6 +27,7 @@ tags:
 	- https://www.cs.ru.nl/~erikpoll/papers/langsec2015.pdf
 	- Abuse [[Parse Tree Differential Attack]] to fingerprint like nmap
 	- These guys fuzz with differential fuzzing (https://langsechq.gitlab.io/spw24/papers/LangSec2024-Jabiyev-challenges-invited.pptx)
+	- Does not seem possible because most of techniques are [[Regular Grammar]] rather than the web's [[Context Sensitive Grammar]]
 - Dependency stripper for [[JavaScript]] projects, if a function in a library is never used, never bundle it
 ### Medium
 - Semgrep rules to find [[Shotgun Parser]]
