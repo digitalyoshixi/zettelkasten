@@ -13,6 +13,12 @@ A abstract machine that have:
 - Output haves are determined by states and transitions
 They are modelled by [[State Diagram]] or [[State Table]]
 ![[Finite State Automata-20250603150758964.webp|320]]
+# Formal Definition
+A finite state machine is a [[Tuple|4-Tuple]] $(Q,q_{0},F,\delta)$
+- $Q$ is a [[Set]] of all states
+- $q_{0}$ is the starting state
+- $F$ is the set of [[Accepting State]]
+- $\delta:Q \times A \to A$ is the transition function
 # FSM Design Steps
 1. Draw a [[State Diagram]]
 2. Derive a [[State Table]] from state diagram

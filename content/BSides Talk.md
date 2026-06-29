@@ -17,6 +17,8 @@ tags:
 	- Does not seem possible because most of techniques are [[Regular Grammar]] rather than the web's [[Context Sensitive Grammar]]
 	- https://github.com/LearnLib/learnlib/discussions/97
 	- [[Daikon]] invariant detector
+	- Must keep in mind [[Cross Site Request Forgery Token|CSRF Token]], [[Multifactor Authentication|MFA]] tokens as these are required to issue actual requests
+	- https://www.youtube.com/watch?v=b38uoZccGuU 
 - Dependency stripper for [[JavaScript]] projects, if a function in a library is never used, never bundle it
 ### Medium
 - Semgrep rules to find [[Shotgun Parser]]
