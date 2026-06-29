@@ -9,4 +9,13 @@ Inspired by [[Reflection]]
 # Process
 - Load reflective DLL with [[LoadLibrary()]]
 - Calculate own image's location
-- Parse host 
+- Parse host process' [[Kernel32]] export table and get addresses of:
+	- [[LoadLibrary()]]
+	- [[GetProcAddress()]]
+	- [[VirtualAlloc]]
+- Allocate region of memory and load own program image, populate import address table, image recolation table, etc
+- Call image's entry point with [[DLLMain]] [[DLL_PROCESS_ATTACH]]
+# Problems
+- Leaves a lot of data that can be signatured
+# Code
+- https://github.com/stephenfewer/ReflectiveDLLInjection/
