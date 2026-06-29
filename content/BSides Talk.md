@@ -7,12 +7,12 @@ tags:
 - Weird machine database creator, as a smart fuzzer to find inputs that can cause memory primatives to exploit weird machines
 	- https://langsechq.gitlab.io/spw24/papers/LangSec2024-Lesani-slides.pdf
 - Flow-aware fuzzing for business logic flows
-- Automata learning for web security - how to reveal any website's backend
+- Abuse [[Parse Tree Differential Attack]] to fingerprint like nmap
+- Side channels and state exploration - Automata learning for web security - how to reveal any website's backend
 	- A re-look at [[L*]] algorithm and how it can be improved in modern day. Mapping out web security backend via state machine, errors, side channel, application fingerprints, etc
 	- You can check for bypasses of business logic flows
 	- https://medium.com/@edi.muskardin/automata-learning-a-gentle-introduction-82f7ec21d50d
 	- https://www.cs.ru.nl/~erikpoll/papers/langsec2015.pdf
-	- Abuse [[Parse Tree Differential Attack]] to fingerprint like nmap
 	- These guys fuzz with differential fuzzing (https://langsechq.gitlab.io/spw24/papers/LangSec2024-Jabiyev-challenges-invited.pptx)
 	- Does not seem possible because most of techniques are [[Regular Grammar]] rather than the web's [[Context Sensitive Grammar]]
 	- https://github.com/LearnLib/learnlib/discussions/97
@@ -41,9 +41,11 @@ tags:
 	- https://www.cs.ru.nl/~erikpoll/ss/2020/slides/7_InputProblems.pdf
 	- Complications:
 		- Mapping HTTP requests to a [[Context Sensitive Grammar]] (this is the lowest grammar you can have), but [[Context Free Grammar]] in most parts excluding MFA, CSRF
-		- [[Cross Site Request Forgery|CSRF]] and [[Multifactor Authentication|MFA]] session handling (requests dont work without them)
+		- [[Cross Site Request Forgery|CSRF]] and [[Multifactor Authentication|MFA]] session handling (requests don't work without them)
 			- You have to have an auxilliary handler that inserts these during learning (shim part of [[L*]])
 		- State explosion?
+			- $10^{7}$ states for some real world apps
+			- [[TTT]] algorithm much more efficient
 		- How do we work with [[Zustand]], [[Redux]]?
 		- Populating time for [[L*]] (200ms per request?, makes things slower)
 		- [[L*]] only works for determistic systems, you must not test random systems or else it breaks
