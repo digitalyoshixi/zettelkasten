@@ -1,6 +1,8 @@
 ---
 tags:
   - programming
+aliases:
+  - Automata
 ---
 # Concepts
 - [[Finite State Automata|FSA]]
