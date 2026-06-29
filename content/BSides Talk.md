@@ -39,6 +39,14 @@ tags:
 	- https://dl.acm.org/doi/epdf/10.1145/3485500
 	- https://tractable.for-all.dev/problems/agent-weirdmachines
 	- https://www.cs.ru.nl/~erikpoll/ss/2020/slides/7_InputProblems.pdf
+	- Complications:
+		- Mapping HTTP requests to a [[Context Sensitive Grammar]] (this is the lowest grammar you can have), but [[Context Free Grammar]] in most parts excluding MFA, CSRF
+		- [[Cross Site Request Forgery|CSRF]] and [[Multifactor Authentication|MFA]] session handling (requests dont work without them)
+			- You have to have an auxilliary handler that inserts these during learning (shim part of [[L*]])
+		- State explosion?
+		- How do we work with [[Zustand]], [[Redux]]?
+		- Populating time for [[L*]] (200ms per request?, makes things slower)
+		- [[L*]] only works for determistic systems, you must not test random systems or else it breaks
 ### Low
 - Automatic grammars for types based off use ([[Trusted Types]])
 - Overview of langsec ideas

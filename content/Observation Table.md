@@ -15,3 +15,4 @@ From the alphabet, you can complete the observation table by adding behaviors to
 2. $\forall t \in S \cdot A, \exists s \in S, row(t) = row(s)$
 	1. The extended rows do not bring any new information
 3. $\forall s_{1}, s_{2} \text{ s.t } row(s_{1}) = row(s_{2}) \implies \forall a \in A, row(s_{1}a)=row(s_{2}a)$
+	1. Two row are the same, it will always be the same
