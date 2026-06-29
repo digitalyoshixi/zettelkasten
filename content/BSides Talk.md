@@ -49,6 +49,7 @@ tags:
 		- How do we work with [[Zustand]], [[Redux]]?
 		- Populating time for [[L*]] (200ms per request?, makes things slower)
 		- [[L*]] only works for determistic systems, you must not test random systems or else it breaks
+		- During verification, multiple sessions in parallel to try and map so it doesn't need to all be at once
 ### Low
 - Automatic grammars for types based off use ([[Trusted Types]])
 - Overview of langsec ideas
