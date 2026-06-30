@@ -4,6 +4,9 @@ tags:
 ---
 A [[Command and Control Server|C2]] that allows for easy development.
 - Everything runs as a [[Docker]] container
+# Architecture
+![[Mythic-20260630163719903.webp]]
+- Communicates with [[Remote Procedure Calls|RPC]] in [[RabbitMQ]]
 # Installation
 1. 
 ```
