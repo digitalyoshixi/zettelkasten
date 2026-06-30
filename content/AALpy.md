@@ -21,7 +21,7 @@ Also install [[GraphViz]]
 # Algorithms
 - [[L*]]
 - [[Stochastic L*]]
-- [[RPNI]]
+- [[Regular Positive and Negative Inference]]
 # Examples
 ### Active Learning
 ```python
