@@ -19,6 +19,10 @@ tags:
 	- [[Daikon]] invariant detector
 	- Must keep in mind [[Cross Site Request Forgery Token|CSRF Token]], [[Multifactor Authentication|MFA]] tokens as these are required to issue actual requests
 	- https://www.youtube.com/watch?v=b38uoZccGuU 
+	- https://arxiv.org/pdf/2412.12745
+	- https://alloytools.org/about.html
+	- https://link.springer.com/chapter/10.1007/978-3-319-11379-1_10
+	- https://ijcrt.org/papers/IJCRTE020017.pdf
 - Dependency stripper for [[JavaScript]] projects, if a function in a library is never used, never bundle it
 ### Medium
 - Semgrep rules to find [[Shotgun Parser]]
