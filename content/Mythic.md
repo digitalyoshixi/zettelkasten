@@ -7,6 +7,10 @@ A [[Command and Control Server|C2]] that allows for easy development.
 # Architecture
 ![[Mythic-20260630163719903.webp]]
 - Communicates with [[Remote Procedure Calls|RPC]] in [[RabbitMQ]]
+- Docker container for the agent to accept RPC messages. Accepts:
+	- Build requests to create a new mythic agent instance
+- Task handler translation server to command (ls) -> encoded command for agent
+- 
 # Installation
 1. 
 ```
