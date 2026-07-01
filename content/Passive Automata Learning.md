@@ -7,10 +7,10 @@ Far quicker, but dependent on data, [[Active Automata Learning]] is far more con
 # Methods
 ### Positive & Negative
 - [[Regular Positive and Negative Inference|RPNI]]
-### Positive & Statistics
+- [[Grammatical Inference by Genetic Search]]
+### Positive & [[Heuristic]]
 - [[Alergia Algorithm]]
-### Positive & [[Occam's Razor|Occams Razor]]
 - [[ATOM Learning Algorithm]]
 - [[Minimum Message Length Algorithm]]
 - [[Minimum Description Length Algorithm]]
-### Positive & [[Evolutionary Algorithm]]
+- [[Genetic Algorithm for Regular Inference]]

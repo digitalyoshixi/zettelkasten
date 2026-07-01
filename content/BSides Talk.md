@@ -2,6 +2,9 @@
 tags:
   - meta
 ---
+# Reading List
+- https://tis.ios.ac.cn/iss/pages/open_projects/automata_simulation.html
+- https://arxiv.org/abs/2209.14031
 # Project Ideas
 ### High
 - Weird machine database creator, as a smart fuzzer to find inputs that can cause memory primatives to exploit weird machines
