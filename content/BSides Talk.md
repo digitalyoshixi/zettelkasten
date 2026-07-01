@@ -26,6 +26,7 @@ tags:
 	- https://alloytools.org/about.html
 	- https://link.springer.com/chapter/10.1007/978-3-319-11379-1_10
 	- https://ijcrt.org/papers/IJCRTE020017.pdf
+	- Must be stochastic
 - Dependency stripper for [[JavaScript]] projects, if a function in a library is never used, never bundle it
 ### Medium
 - Semgrep rules to find [[Shotgun Parser]]
