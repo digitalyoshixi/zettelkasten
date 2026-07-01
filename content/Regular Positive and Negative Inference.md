@@ -16,3 +16,12 @@ $$
 1. Construct a [[Trie|Prefix Tree]] accepting all the positive samples
 2. [[State Merge]] each state pair to generalize the [[Deterministic Finite Automaton|DFA]] state (Note that this will make it a [[Non-Deterministic Finite Automaton|NFA]])
 3. check [[Deterministic Finite Automaton|DFA]] against negative samples to verify [[Deterministic Finite Automaton|DFA]] is not overgeneralizing.
+# Refinement
+Refinement brings the most general language to the most specific language (Represented by a lattice where decision points are the state merges)
+![[Regular Positive and Negative Inference-20260701174059345.webp]]
+# Example From Grammar
+With a series of positive flows:
+$$
+\{ abbaaaaa, ab, ba, aaaaabb \}
+$$
+![[Trie-20260701171526534.webp]]

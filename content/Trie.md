@@ -4,6 +4,7 @@ tags:
 aliases:
   - Prefix Tree
   - Prefix Tree Acceptor
+  - PTA
 ---
 A [[Tree|n-ary Search Tree]] used to represent a [[Hashmap|Dictionary]]/[[Set]].
 - Nodes position determines its key
