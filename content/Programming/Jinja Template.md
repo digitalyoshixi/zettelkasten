@@ -7,6 +7,8 @@ A [[Templating Language]] used in creating template [[Hypertext Markup Language|
 # Jinja Segments
 In `app.py`
 ```python
+app = Flask(__name__, template_folder="templates")
+
 @app.route('/')
 def index():
     return render_template("index.html", myval="DAVID"
