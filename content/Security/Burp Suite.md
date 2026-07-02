@@ -10,6 +10,8 @@ Web testing application
 - [[Burp Suite Repeater]]
 - [[Burp Content Discovery]]
 - [[Burp Macro]]
+- [[Bambda]]
+- [[BCheck]]
 # Guides
 - [[Burp Suite Configure Scope]]
 - [[Burp Suite Cookie Entropy]]
