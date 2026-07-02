@@ -12,6 +12,7 @@ Web testing application
 - [[Burp Macro]]
 # Guides
 - [[Burp Suite Configure Scope]]
+- [[Burp Suite Cookie Entropy]]
 - [[Burp Suite Match and Replace]]
 # Extensions
 - [[ActiveScan++]]
