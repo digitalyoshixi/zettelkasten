@@ -1,6 +1,7 @@
 ---
 tags:
   - windows
+aliases:
 ---
 # Assembly
 ```asm
