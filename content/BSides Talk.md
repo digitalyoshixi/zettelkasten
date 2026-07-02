@@ -58,6 +58,7 @@ tags:
 		- Populating time for [[L*]] (200ms per request?, makes things slower)
 		- [[L*]] only works for determistic systems, you must not test random systems or else it breaks
 		- During verification, multiple sessions in parallel to try and map so it doesn't need to all be at once
+		- Also good for session puzzling (doing things out of order)
 ### Low
 - Automatic grammars for types based off use ([[Trusted Types]])
 - Overview of langsec ideas
