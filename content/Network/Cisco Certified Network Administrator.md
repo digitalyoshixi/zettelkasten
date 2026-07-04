@@ -61,3 +61,12 @@ The best networking certification you can get.
 - [[Cisco IOS no]]
 - [[Cisco IOS Interface Status]]
 - [[Duplex Mismatch Issue]]
+### Chapter 8
+- [[Virtual Local Area Network|VLAN]]
+- [[Single Switch VLAN Setup]]
+- [[VLAN Trunk|Multi Switch VLAN Setup]]
+- [[VLAN With Router Setup]]
+- [[Dynamic Trunking Protocol|DTP]]
+- [[Cisco IOS VLAN Configuration]]
+- [[IP Phone]]
+  [[VLAN Trunking Protocol|VTP]]

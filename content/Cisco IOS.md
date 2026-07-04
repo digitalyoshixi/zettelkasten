@@ -10,6 +10,7 @@ The cisco operating system for its switches. Replaced [[CatOS]]
 - [[Cisco IOS Interface Status]]
   [[Cisco IOS Interface Counters]]
 - [[Cisco User Levels]]
+- [[Cisco IOS VLAN Configuration]]
 # Modes
 ![[Cisco IOS-20260606160715628.webp]]
 ### Configuration Submodes
@@ -174,3 +175,8 @@ configure terminal
 		shutdown
 ```
 - Alternatively, `no shutdown` to turn it back on
+# Checking Interfaces Trunk
+```
+show interfaces trunk
+```
+![[Cisco IOS-20260704180602103.webp]]
