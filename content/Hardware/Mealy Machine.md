@@ -5,6 +5,7 @@ tags:
   - math
 ---
 A [[Finite State Automata|FSM]] that depends on both [[Circuit State]] and current input.
+- All steps produce a output
 For [[State Diagram]], the output is written on the transitions
 ![[Finite State Automata-20250603185824370.webp|341]]
 # Circuit Diagram Labelling
