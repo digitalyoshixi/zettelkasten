@@ -2,6 +2,8 @@
 tags:
   - verification
   - security
+aliases:
+  - Grammatical Inference
 ---
 A technique to model the state machine of a black box model.
 # Concepts

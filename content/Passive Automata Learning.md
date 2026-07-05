@@ -7,6 +7,8 @@ Far quicker, but dependent on data, [[Active Automata Learning]] is far more con
 # Methods
 ### Positive & Negative
 - [[Regular Positive and Negative Inference|RPNI]]
+- [[Blue Fringe RPNI]]
+- [[Evidence Driven State Merging]]
 - [[Grammatical Inference by Genetic Search]]
 ### Positive & [[Heuristic]]
 - [[Alergia Algorithm]]

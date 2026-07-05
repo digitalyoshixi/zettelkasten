@@ -10,4 +10,4 @@ They can be represented by a new common state
 - State $A$
 - State $B$
 - Merged state  $C = Or(A,B)$
-- Replace all rules 
+- All transitons are merged into the new state
