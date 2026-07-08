@@ -2,6 +2,8 @@
 tags:
   - networking
   - philosophy
+aliases:
+  - Location
 ---
 The local information about previous outputs of algorithms.
 # System Configuration

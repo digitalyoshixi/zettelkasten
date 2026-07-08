@@ -6,6 +6,7 @@ aliases:
   - FSA
   - Finite State Machine
   - FSM
+  - State Machine
 ---
 A abstract machine that have:
 - Finite set of states

@@ -9,6 +9,7 @@ aliases:
 ---
 # Definition
 A finite [[Sequence]] of listed numbers.
+$\langle a, \dots, n \rangle$
 # Types
 ### N-Tuple
 A tuple $\{ 1,\dots,n \}$ with size $n$
