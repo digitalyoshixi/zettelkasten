@@ -2,6 +2,12 @@
 tags:
   - reverse_engineering
 ---
-An [[Android Package|APK]] decompilation tool
+An [[Java]] and [[Android Package|APK]] decompilation tool.
 # Decompile
-`jadx file.apk`
+```
+jadx file.apk
+```
+
+```
+jadx file.jar
+```
