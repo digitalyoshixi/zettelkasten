@@ -8,7 +8,18 @@ A [[Finite State Automata|FSM]] that depends on both [[Circuit State]] and curre
 - All steps produce a output
 For [[State Diagram]], the output is written on the transitions
 ![[Finite State Automata-20250603185824370.webp|341]]
+# Formal Definition
+A [[Finite State Automata|FSA]] ($I,O,Q,q_{0}$):
+- $I$ is set of input symbols
+- $O$ set of output symbols
+- $Q$ set of states
+- $q_{0} \in Q$ initial state
+- Transition function:
+$$
+\lambda : Q \times I \to O
+$$
 # Circuit Diagram Labelling
+![[Mealy Machine-20260710010311107.webp]]
 ![[Mealy Machine-20250603191542795.webp|315]]
 # Pros
 - Sometimes fewer overall states
