@@ -11,8 +11,12 @@ Secure version on `tcp/636` ([[Lightweight Directory Access Protocol over Secure
 Can be used to:
 - Query online directories of users, devices, etc
 - Authenticate users by looking at an authentication directory like [[Windows Active Directory]], [[Terminal Access Controller Access-Control System Plus|TACACS+]] or [[Remote Authentication Dial-In User Service|RADIUS]]
+# Concepts
+- [[Lightweight Data Interchange Format]]
 # Implementations
 - [[Windows Active Directory]]
+- [[OpenLDAP]]
+- [[Entra ID]]
 # Alternatives
 - [[Lightweight Directory Access Protocol over Secure Sockets Layer]]
 # Resources
