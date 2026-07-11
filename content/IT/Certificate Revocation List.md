@@ -9,5 +9,4 @@ A blacklist which includes a list of digital certificates holders that have been
 May occur if:
 - Site becomes malicious
 - Site's private key is comprimised
-- 
 Updated periodically.

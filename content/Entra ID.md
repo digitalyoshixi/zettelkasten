@@ -5,6 +5,7 @@ aliases:
   - Azure AD
   - Azure Security
 ---
-An alternate way to manage users similar to [[Windows Active Directory|AD]].
+A [[Lightweight Directory Access Protocol|LDAP]] implementation for setting up [[Hybrid Cloud]] environments, linking on-prem to cloud identities. 
+Similar to [[Windows Active Directory|AD]].
 # Pentesting
 - https://aadinternals.com/aadkillchain/

@@ -4,7 +4,7 @@ tags:
 aliases:
   - LDAP
 ---
-Vendor neutral protocol used for viewing and querying directories.
+Vendor neutral protocol used for viewing and querying [[Directory Name Service]].
 Conventionally seen on port `tcp/389`.
 Secure version on `tcp/636` ([[Lightweight Directory Access Protocol over Secure Sockets Layer|LDAPS]])
 
