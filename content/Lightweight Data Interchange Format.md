@@ -5,6 +5,6 @@ aliases:
   - LDIF
 ---
 The text-format representation of a [[Lightweight Directory Access Protocol|LDAP]] [[Directory Information Tree]]
-![[Lightweight Data Interchange Format-20260711201444913.webp]]
+![[Lightweight Data Interchange Format-20260711201444913.webp|558]]
 - First start with the DN
 - Then setup ObjectClass attributes, if you want custom properties (keys, roles, etc) then you can define them here as well
