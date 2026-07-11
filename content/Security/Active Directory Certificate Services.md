@@ -4,6 +4,7 @@ tags:
   - security
 aliases:
   - ADCS
+  - AD CS
 ---
 A service used to implement [[Public Key Infrastructure|PKI]] in [[Windows Active Directory|AD]].
 # Issuing Protocol

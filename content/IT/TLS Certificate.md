@@ -10,7 +10,7 @@ TLS certificates contain:
 - Certificate's issued domain name
 - Associated subdomains
 - Expiration of certificate
-- [[Digital Signature]]
+- [[Digital Signature]] of the issuer
 - Which [[Certificate Authority]] issued it
 # Invalid Certificate
 1. Check your time synchronization
