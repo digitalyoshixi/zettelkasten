@@ -22,3 +22,4 @@ DISCOVER > OFFER > REQUEST > ACK (DORA)
 - [[DHCP Leasing]]
 - [[DHCP Pool]]
 - [[DHCP Starvation]]
+- [[DHCPv6 DNS Poisoning]]
