@@ -9,14 +9,18 @@ A [[Finite State Automata|FSM]] that depends on both [[Circuit State]] and curre
 For [[State Diagram]], the output is written on the transitions
 ![[Finite State Automata-20250603185824370.webp|341]]
 # Formal Definition
-A [[Finite State Automata|FSA]] ($I,O,Q,q_{0}$):
-- $I$ is set of input symbols
-- $O$ set of output symbols
+A [[Finite State Automata|FSA]] ($\Sigma, \Gamma,Q,q_{0}, \delta, \lambda$):
+- $\Sigma$ : Input [[Alphabet]]
+- $\Gamma$ : Output [[Alphabet]]
 - $Q$ set of states
 - $q_{0} \in Q$ initial state
 - Transition function:
 $$
-\lambda : Q \times I \to O
+\delta : Q \times \Sigma \to Q
+$$
+- Output function:
+$$
+\lambda : Q \times \Sigma \to \Gamma
 $$
 # Circuit Diagram Labelling
 ![[Mealy Machine-20260710010311107.webp]]
