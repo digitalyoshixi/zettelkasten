@@ -8,14 +8,18 @@ A [[Finite State Automata|FSM]] wherein the output depends soley on the current 
 Moore machines are more commonly used in practice.
 ![[Moore Machine-20250603191229476.webp]]
 # Formal Definition
-A [[Finite State Automata|FSA]] ($I,O,Q,q_{0}$):
-- $I$ is set of input symbols
-- $O$ set of output symbols
+A [[Finite State Automata|FSA]] ($\Sigma, \Gamma,Q,q_{0}, \delta, \lambda$):
+- $\Sigma$ : Input [[Alphabet]]
+- $\Gamma$ : Output [[Alphabet]]
 - $Q$ set of states
 - $q_{0} \in Q$ initial state
 - Transition function:
 $$
-\lambda : Q \to O
+\delta : Q \times \Sigma \to Q
+$$
+- Output function:
+$$
+\lambda : Q \to \Gamma
 $$
 # Circuit Diagram Labels
 ![[Moore Machine-20260710010255144.webp]]
