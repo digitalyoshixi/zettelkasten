@@ -13,6 +13,9 @@ A CTF type where you and your opponents have vulnerable boxes
 - [[Gobuster]]
 - [[Pawn Cat]]
 - [[chattr]]
+- [[ataka]]
 ### Blueteam
 - [[who]]
 - [[ps]]
+- [[Shovel]]
+- [[Suricata]]

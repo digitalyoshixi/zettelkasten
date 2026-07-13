@@ -2,4 +2,4 @@
 tags:
   - security
 ---
-A management interface for [[Attack Defense CTF]].
+A management interface to read [[Suricata]] for [[Attack Defense CTF]].
