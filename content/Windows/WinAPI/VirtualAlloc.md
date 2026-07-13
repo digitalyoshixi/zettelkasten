@@ -14,3 +14,8 @@ LPVOID VirtualAlloc(
 );
 ```
 When you save this, it is saved as a [[Pointer|Void pointer]]. You just need the memory address, not the type.
+# Example
+```c
+int out;
+VirtualAlloc(&out, sizeof(int), MEM_RESERVE, PAGE_READWRITE);
+```
