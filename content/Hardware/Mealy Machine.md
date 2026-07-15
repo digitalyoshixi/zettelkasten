@@ -22,6 +22,8 @@ $$
 $$
 \lambda : Q \times \Sigma \to \Gamma
 $$
+# Concepts
+- [[Sink State]]
 # Circuit Diagram Labelling
 ![[Mealy Machine-20260710010311107.webp]]
 ![[Mealy Machine-20250603191542795.webp|315]]
