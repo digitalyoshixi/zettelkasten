@@ -14,16 +14,17 @@ A [[Finite State Automata|FSA]] ($\Sigma, \Gamma,Q,q_{0}, \delta, \lambda$):
 - $\Gamma$ : Output [[Alphabet]]
 - $Q$ set of states
 - $q_{0} \in Q$ initial state
-- Transition function:
+- [[Transition Function]]:
 $$
 \delta : Q \times \Sigma \to Q
 $$
-- Output function:
+- [[Output Function]]:
 $$
 \lambda : Q \times \Sigma \to \Gamma
 $$
 # Concepts
 - [[Sink State]]
+- [[State Machine Run]]
 # Circuit Diagram Labelling
 ![[Mealy Machine-20260710010311107.webp]]
 ![[Mealy Machine-20250603191542795.webp|315]]

@@ -30,3 +30,6 @@ $$
 # Cons
 - May need more states than [[Mealy Machine]]
 - Takes atleast one cycle to respond to input
+# Example
+![[Moore Machine-20260715015348360.webp]]
+![[Moore Machine-20260715015337616.webp]]
