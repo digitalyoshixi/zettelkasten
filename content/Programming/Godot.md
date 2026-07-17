@@ -14,6 +14,8 @@ sudo pacman -S godot
 - [[Godot Project Structure]]
 - [[Godot Scenes]]
 - [[GDScript]]
+- [[Godot Constructive Solid Geometry]]
+- [[Godot 3D Terrain]]
 # Guides
 - [[Godot C++ Setup]]
 - [[Godot ConfigFile]]
