@@ -8,6 +8,8 @@ Can capture [[New Technology LAN Manager|NetNTLM Hash]]
 ```
 responder -I networkinterface
 ```
+- Run in monitor mode
+- Relay specific ip
 # Example
 ```
 responder -I eth0

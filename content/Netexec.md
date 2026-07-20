@@ -13,3 +13,7 @@ A tool to execute any code remotely from the internet
 ```
 nxc smb ips.txt -u usernames.txt -p 'p@ssword'
 ```
+### Read LDAP
+```
+nxc ldap $DC -u $USER -p $PASSOWRD
+```
