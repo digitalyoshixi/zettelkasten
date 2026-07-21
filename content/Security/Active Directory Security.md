@@ -9,6 +9,7 @@ aliases:
 - [[Kerberoasting Attack]]
 - [[NTLMv1 Downgrade Attack]]
 - [[Golden Ticket Attack]]
+- [[noPac]]
 ### [[ADCS Privilege Escalation]]
  - [[ESC1]]
  - [[ESC2]]
