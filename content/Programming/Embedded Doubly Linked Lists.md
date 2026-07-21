@@ -1,6 +1,9 @@
 ---
 tags:
   - programming
+aliases:
+  - Flink
+  - Blink
 ---
 A data structure specific to [[Windows]].
 Embeds a internal `_LIST_ENTRY64` data structure that contains:
