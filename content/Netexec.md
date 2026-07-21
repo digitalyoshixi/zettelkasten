@@ -15,5 +15,9 @@ nxc smb ips.txt -u usernames.txt -p 'p@ssword'
 ```
 ### Read LDAP
 ```
-nxc ldap $DC -u $USER -p $PASSOWRD
+nxc ldap $DC -u $USER -p $PASSWORD
+```
+### Read SMB Data
+```
+nxc smb $DC -u $USER -p $PASSWORD
 ```
