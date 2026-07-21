@@ -5,7 +5,12 @@ aliases:
 ---
 # Assembly
 ```asm
-mov rax, gx:[0x60]
+mov rax, gs:[0x60]
+```
+Or
+```asm
+mov rax, gs:[0x30]    ; Loads from NT_TIB the pointer "Self" (linear address of TEB)
+mov rax, [rax + 0x60] ; Adds offset 0x60 to this address and loads PEB
 ```
 # Visual Studio Macro
 ```c
