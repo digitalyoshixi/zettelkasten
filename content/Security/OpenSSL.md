@@ -7,3 +7,7 @@ But, its pretty bad!
 # Create [[Falcon]] key
 - `openssl genpkey -algorithm falcon512 -provider oqsprovider -provider-path <path_here> -out falcon512.key` (private key)
 - `openssl pkey -in falcon512.key -pubout -out falcon512.pub` (generate public from private)
+# Reading [[Personal Information Exchange|PFX]] file
+```
+openssl pkcs12 -info -in cert.pfx
+```
