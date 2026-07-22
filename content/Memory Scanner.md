@@ -5,7 +5,7 @@ tags:
 ---
 Tools that scan the memory of a process to identify non-standard attributes within the memory region.
 # [[Indicator of Compromise|IOC]]
-- `RWX` memory segment
+- `RWX` memory segment (Associated with [[Reflective Code Loading]], [[C2 Loader|Shellcode Loader]], in-memory code)
 - Non-[[Clean Stack]]
 - High [[Shannon Entropy]] in file
 	- Encryption increases entropy
