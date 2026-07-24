@@ -6,3 +6,11 @@ tags:
 ```
 impacket-smbclient $USER:$PASSWORD@10.10.2.2
 ```
+# Opening Share
+```
+use <sharename>
+```
+# Downloading File
+```
+get <filename>
+```
