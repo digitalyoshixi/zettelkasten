@@ -14,3 +14,7 @@ use <sharename>
 ```
 get <filename>
 ```
+# Downloading All Files in Directory
+```
+mget **
+```
