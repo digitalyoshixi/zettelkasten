@@ -14,4 +14,4 @@ A cryptographer. Works at [[Citizen Lab]]
 - [[Twofish]]
 - [[Skein]]
 # Talks
-- [[Trust and AI Bruce Scheniener]]
+- [[Trust and AI Bruce Schneier]]

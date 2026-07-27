@@ -8,7 +8,7 @@ aliases:
 - [[The End of Click-Ops Security Agent-Driven Applications]]
 - [[Bridging Todays Security with Tomorrows Quantum Threats]]
 - [[Active Directory 101 Why AD Security is Mission Critical]]
-- [[Trust and AI Bruce Scheniener]]
+- [[Trust and AI Bruce Schneier]]
 - [[Nicky The Dumbest Ransomware You Will Ever Respect]]
 - [[The Security Implications of Network Cards]]
 - [[A Cognitive Kill Chain - The Psychological Impact of LLMs]]

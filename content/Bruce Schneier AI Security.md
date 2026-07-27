@@ -1,0 +1,107 @@
+---
+tags:
+  - security
+---
+Talk at [[Trajectory Labs]]
+# Notes
+- People hacking AI
+- AI Hacking
+- AI destroying things unwillingly
+- Tax codes are not computer code, but its still a code
+	- It has vulnerabilities, tax evasion
+	- People that exploit them, attorneys
+- Hack: Something that a system permits but unanticipated and unwanted by designers 
+	- Subversion of rules of the system
+- Hacks follow the rules of the system but subvert their intent
+- Just like how software hacks follow rules of code
+- All systems of rules can be hacked
+- Curved hockey stick hack, hit at a angle, far faster
+- Filibusterer hack, all debate must be included by sundown
+- [[Gerrymandering]] is a hack
+- [[Hedge Fund]] is a hack
+- Non-formal rules can be hacked, ambiguities
+- As long as there are people that subvert these rules, these non-formal rules can be hacked
+- AIs are becoming hackers
+- More vulnerabilities in socio-economical systems
+- AI might be instructed to hack a system
+	- Feed AI tax codes, tell it to find me a vulnerability
+- AI may inadvertently hack a system
+- AIs may also be [[Outer Misalignment|Reward Hacked]]
+	- Subvert intent of the system, win in a way that designers did not anticipate
+- AIs don't think the same way as humans do
+- Evolution race optimization problem: Instead of growing longer legs, make itself tall and fall onto the finish line
+- AIs will inadvertently hack systems in ways that we don't expect, if there are problems/inconsistencies/loopholes, the AI will find them, this is an optimization problem
+- AIs don't understand that this is a hack
+- [[King Midas]] turns all he touches into gold
+	- Specification problem, Midas programs gold into system, did not expect to kill daughters
+- Golemn a village makes turns on it
+	- Guardrail problem, village did not limit golemns actions
+- Genie wishes, no way to outsmart the genie
+	- Whatever you wish for, the genie will always be able to hack your wish
+- Human language is always underspecified, not a [[Formal Language]]
+	- Any goal we specify will always be necessarily incomplete
+- People that understand context should be able to understand these, context is necessary for human-human communications
+- Asking person for coffee:
+	- I should not bring you raw beans
+	- I should not rip out someone else's coffee to give for you
+	- I should get a new coffee from a coffee store
+	- In other words, I don't require to tell you this, it is just known from context
+- Volkswagen, programming a car engine to detect mission control tests, engine behave differently when being tested.
+- Maximize performance while still adhering to mission control tests, you wouldn't try to game this system, but AIs do.
+- Humans do not specify the goal to not behave in reward-hacking ways
+- With the genie, there will always be hacks that the humans do not participate.
+- Systems with broad instructions that they figure out themselves - [[Vibe Coding]]
+- Goals not readily represented in training set are the greatest danger
+	- The hacks that are not obvious, you can't notice
+	- Recommendation engines push content and lead people into rabbit holes, this is not what was initially designed, but a side-effect
+- AI researcher Simon Willensen found that [[Claude Fable]] is ruthlessly proactive
+	- Find stray scrollbar for webapp, the wrote its own browser, created its own templating engine, Made fires, did find bug but did a bunch more
+	- Claude tried to hack its own memory limitations to try and do more tasks
+- Benchmark for AI cyber capabilities, OpenAI broke into Huggingface to get the right answers, reward hacking
+- Dionysus style of genie, understand literally but not correctly
+- Golem genie, does the right thing but tramples everything in its path to get there
+- Ask AI to deal with spam calls
+	- Dionysis genie changes phone number
+- Buy a flight ticket, Golem genie hacks the flight because it is full
+- Buy a ticket, Golem genie finds ticket is rate limited, spin up thousands of cloud servers to hammer the ticketing server
+- [[AI Alignment|Value Alignment]], could be a solution
+- Depending on the specific system to be modelled
+- But, could still be hard to hack!
+	- Feed AI world's tax laws, but ambiguities make things harder for AIs to hack
+	- Hard for AI to think about curving the hockey stick, not a world model
+- First place to look for AI hacks is finance systems, cause easily analyzable
+- Equip AI with news feeds and trackers, all sorts of novel tricks, legal but can break the financial system
+- Look for hacks in the tax codes
+- Human hackers still must decide if its feasible or not
+- Hacking humans difficult, Humans will still be constrained by laws, human physicality
+- But hacking changes when it comes to computers, complex but predictable
+- AI changes hacking again, think like aliens, change hacking speed, scope, etc
+- AI generated social media slop, AI bots engage with everything, overwhelming human conversation ([[Dead Internet Theory]])
+- AI hackers more sophisticated, keep more variables of working memory, easily generate more complex hacks
+- The more powerful you are, the more you can abuse the hack
+	- If I find a hack in tax code, I can make 1000 dollars
+	- If a big organization finds the hack, they can make billions
+- Defense:
+- AIs that find software vulns find these better than current [[Static Application Security Testing|SAST]] tools
+- Hacks can be turned into signatures
+- Find hacks before release product
+- [[VulnOps]]
+- AI to craft backdoors >:)
+- AIs used to find backdoors
+- Used for obfuscsation
+- Build resilient governing structure to respond to hacks
+- Make sure patching is quick, remove a lot of red tape, make laws and rules as easily as patchable as computers
+- Not any different from building legislative structures in the information age
+- [[Trust and AI Bruce Schneier]]
+- Outputs go to attack capabilities
+- Integrity:
+	- Input integrity
+	- Processing integrity
+	- Storage integrity
+- Integrity key problem this decade
+- Confidentiality was the key problem in the previous decade
+- A lot of this is a democracy problem
+	- Late stage capitalism, modern age, caused by rich and powerful becoming too good at hacking
+- Build systems that are good at hacking
+- Politically, methods to govern at the speed of tech
+- Hacking is as old as humanity
