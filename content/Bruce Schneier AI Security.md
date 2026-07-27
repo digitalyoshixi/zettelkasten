@@ -2,7 +2,7 @@
 tags:
   - security
 ---
-Talk at [[Trajectory Labs]]
+Talk at [[Trajectory Labs]].
 # Notes
 - People hacking AI
 - AI Hacking
@@ -34,11 +34,11 @@ Talk at [[Trajectory Labs]]
 - AIs don't understand that this is a hack
 - [[King Midas]] turns all he touches into gold
 	- Specification problem, Midas programs gold into system, did not expect to kill daughters
-- Golemn a village makes turns on it
-	- Guardrail problem, village did not limit golemns actions
+- Golem a village makes turns on it
+	- Guardrail problem, village did not limit golems actions
 - Genie wishes, no way to outsmart the genie
 	- Whatever you wish for, the genie will always be able to hack your wish
-- Human language is always underspecified, not a [[Formal Language]]
+- Human language is always under-specified, not a [[Formal Language]]
 	- Any goal we specify will always be necessarily incomplete
 - People that understand context should be able to understand these, context is necessary for human-human communications
 - Asking person for coffee:
@@ -105,3 +105,7 @@ Talk at [[Trajectory Labs]]
 - Build systems that are good at hacking
 - Politically, methods to govern at the speed of tech
 - Hacking is as old as humanity
+- Germany has a law that says if you do something for sole purpose of evading tax, it is by definition illegal
+- There are legal professionals working on a formal legal language already
+- [[Instrumental Convergence Hypothesis]], AI that is intrinsically misaligned
+	- Open AI that breaks out of sandbox, didn't have separate goals, just tried to follow the goal itself
