@@ -80,7 +80,7 @@ aliases:
 	- Application logic
 ### Active Enumeration
 - [[Gobuster]]
-- [[Nmap]]
+- [[nmap]]
 - [[Tinyproxy]]
 - [[IIS Private IP Disclosure]]
 - [[IIS Tilde Enumeration]]

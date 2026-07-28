@@ -24,7 +24,7 @@ tags:
 - [[Credential Stuffing]]
 # Concepts
 - [[DNS Sinkhole]]
-- [[Nmap]]
+- [[nmap]]
 - [[Wireshark]]
 - [[DNSSEC]]
 - [[Wifi Analyzer]]

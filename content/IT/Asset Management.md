@@ -23,5 +23,5 @@ Required tools for managing and regulating assets.
 - Warranty and License auditing
 - [[GPS Tag]]
 - [[Microsoft Intune]]
-- [[Nmap]] (can identify network devices for accounting)
+- [[nmap]] (can identify network devices for accounting)
 Can allow for detection if any hardware changes. The client-sitting software can alert its current hardware to the asset server.

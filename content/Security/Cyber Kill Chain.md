@@ -14,7 +14,7 @@ Use [[OSINT Fundamentals]]
 ### Active Reconnaissance
 Interact directly with target systems:
 - Probe for open ports
-Use [[Nmap]], [[Metasploit]], [[Netcat]]
+Use [[nmap]], [[Metasploit]], [[Netcat]]
 # Weaponizaiton
 Exploit written as a deliverable payload
 # Delivery

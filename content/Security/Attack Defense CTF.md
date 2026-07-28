@@ -7,7 +7,7 @@ aliases:
 A CTF type where you and your opponents have vulnerable boxes
 # Tools
 ### Redteam
-- [[Nmap]]
+- [[nmap]]
 - [[rustscan]]
 - [[Hydra]]
 - [[Gobuster]]
