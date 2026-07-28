@@ -4,4 +4,5 @@ tags:
 aliases:
   - SPN
 ---
-The name of a computer account.
+The name of a service computer account.
+Allows amy iser 
