@@ -51,3 +51,4 @@ To make these changes permanent, you will need to edit the [[Vim .vimrc]]
 # Tricks
 - [[Vim Replace]]
 - [[Vim Indent]]
+- [[Vim Norm]]
