@@ -26,3 +26,44 @@ A talk at [[Toronto Area Security Klatch|TASK]] by Stephen Litvack.
 	- Establish roles to recover technology upon disruption
 	- Develop recovery procedures to restore critical technology
 	- Re-certify procedures to validate system recovery by confirming system functionality
+- Most of the time alloted in the [[Recovery Time Objective|RTO]] is for delegation and post-incident validation
+- Validation methods:
+	- [[Tabletop Exercise]]
+	- [[Disaster Recovery|DRP]] system recovery tests
+- Governance methods:
+	- [[Security/Policy|Policy]] maintenance
+	- Program status reporting
+- Business resilience, what can go wrong?
+	- Inconsistent Impact Assessment Crieria
+		- What difference does this make to the company itself? that is all that matters
+	- Misaligned priorities
+		- Plan is doing irrelevant things like restoring unessential tools
+	- Confused response
+		- Teams get confused, gets even more confused, etc
+	- Pressure during holidays
+	- Vague and incomplete [[Business Continuity Plan|BCP]] guidance
+	- Incomplete [[Disaster Recovery|DRP]] details
+	- Uncoordinated restoration
+	- Reputation damage
+- Internal links and plans are most effective, if you start branching into external plans with things that can fail, things get messy
+- Illusions of validated plans
+	- [[Tabletop Exercise]] that are superficial
+		- Usually takes 1 full day, even more than a day
+		- You should take it as a test, but people see it as an educational exercise
+	- Meaningless [[Disaster Recovery|DRP]] testing
+- Improper program governance
+	- Policy frameworks unclear
+	- Reporting gap
+- Disaster recovery misconceptions
+	- Is not just a offsite migration (not just failovers, this is [[High Availability]])
+	- No true disaster recovery plan
+	- Overconfidence in fatlover testing but no system recovery testing
+- No plan, recover in a week or week and a half
+- Businesses now like to have a one-size-fit all approach that fits nothing
+- Key takeaways
+	- BIA: people do not prioritize and it goes all wrong
+	- Response guidance gaps: nothing is practical
+	- Plans not tested well
+	- Governance failure, people don't know what they are doing, no delegation
+	- Disaster recovery by just throwing money at recovery sites, is not sufficient
+	- Causes cascading failure, confusion creates confusion, ...

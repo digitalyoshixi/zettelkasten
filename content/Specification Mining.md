@@ -8,7 +8,7 @@ A usage of [[Data Mining]] to infer the formal specification of software.
 - Take from unit tests
 https://homes.cs.washington.edu/~bodik/ucb/spec_mining/
 # Process
-1. Collect traces with a [[Tracer]], ensure you filter with [[Filtering Block]] 
+1. Collect traces with a [[Tracer]]
 2. Annotate with a [[Flow Dependence Annotator]]
 3. Extract scenarios with a [[Scenario Extractor]]
 4. Learn automata with [[Automata Learning]]
