@@ -2,6 +2,8 @@
 tags:
   - windows
   - win32api
+aliases:
+  - Win32API
 ---
 The windows API is weird because of window's insistence on backwards compatibility.
 # VSCode Project Configuration
