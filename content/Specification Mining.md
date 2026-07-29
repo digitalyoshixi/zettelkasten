@@ -2,7 +2,7 @@
 tags:
   - verification
 ---
-A usage of [[Data Mining]] to infer the formal specification of softwares.
+A usage of [[Data Mining]] to infer the formal specification of software.
 - Take from API docs
 - Take from comments
 - Take from unit tests
