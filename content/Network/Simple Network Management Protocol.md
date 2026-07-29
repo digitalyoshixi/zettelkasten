@@ -20,3 +20,5 @@ Traps are sent and received over `udp/162`
 - [[SNMP V1]]
 - [[SNMP V2]]
 - [[SNMP V3]]
+# Pentesting
+- [[snmpwalk]]
