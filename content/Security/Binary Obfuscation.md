@@ -19,3 +19,6 @@ tags:
 - [[API Hashing]]
 # Encodings
 - [[IPv6 Obfuscation]]
+- [[IPv4 Obfuscation]]
+- [[MAC Obfuscation]]
+- [[UUID Obfuscation]]

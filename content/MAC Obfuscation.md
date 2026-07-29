@@ -1,0 +1,133 @@
+---
+tags:
+  - security
+---
+Converting shellcode into [[Media Access Control Address|MAC Addresses]].
+# Obfucsation Code
+```c
+// Function takes in 6 raw bytes and returns them in a MAC address string format
+char* GenerateMAC(int a, int b, int c, int d, int e, int f) {
+	char Output[64];
+
+	// Creating the MAC address and saving it to the 'Output' variable 
+	sprintf(Output, "%0.2X-%0.2X-%0.2X-%0.2X-%0.2X-%0.2X",a, b, c, d, e, f);
+
+	// Optional: Print the 'Output' variable to the console
+	// printf("[i] Output: %s\n", Output);
+
+	return (char*)Output;
+}
+
+// Generate the MAC output representation of the shellcode
+// Function requires a pointer or base address to the shellcode buffer & the size of the shellcode buffer
+BOOL GenerateMacOutput(unsigned char* pShellcode, SIZE_T ShellcodeSize) {
+
+	// If the shellcode buffer is null or the size is not a multiple of 6, exit
+	if (pShellcode == NULL || ShellcodeSize == NULL || ShellcodeSize % 6 != 0){
+		return FALSE;
+	}
+	printf("char* MacArray [%d] = {\n\t", (int)(ShellcodeSize / 6));
+
+	// We will read one shellcode byte at a time, when the total is 6, begin generating the MAC address
+	// The variable 'c' is used to store the number of bytes read. By default, starts at 6.
+	int c = 6, counter = 0;
+	char* Mac = NULL;
+
+	for (int i = 0; i < ShellcodeSize; i++) {
+
+		// Track the number of bytes read and when they reach 6 we enter this if statement to begin generating the MAC address
+		if (c == 6) {
+			counter++;
+			
+			// Generating the MAC address from 6 bytes which begin at i until [i + 5] 
+			Mac = GenerateMAC(pShellcode[i], pShellcode[i + 1], pShellcode[i + 2], pShellcode[i + 3], pShellcode[i + 4], pShellcode[i + 5]);
+			
+			if (i == ShellcodeSize - 6) {
+
+				// Printing the last MAC address
+				printf("\"%s\"", Mac);
+				break;
+			}
+			else {
+				// Printing the MAC address
+				printf("\"%s\", ", Mac);
+			}
+			c = 1;
+
+			// Optional: To beautify the output on the console
+			if (counter % 6 == 0) {
+				printf("\n\t");
+			}
+		}
+		else {
+			c++;
+		}
+	}
+	printf("\n};\n\n");
+	return TRUE;
+}
+```
+# Deobfuscation Code
+```c
+typedef NTSTATUS (NTAPI* fnRtlEthernetStringToAddressA)(
+	PCSTR		S,
+	PCSTR* 		Terminator,
+	PVOID		Addr
+);
+
+BOOL MacDeobfuscation(IN CHAR* MacArray[], IN SIZE_T NmbrOfElements, OUT PBYTE* ppDAddress, OUT SIZE_T* pDSize) {
+
+	PBYTE          pBuffer        = NULL,
+                   TmpBuffer      = NULL;
+
+	SIZE_T         sBuffSize      = NULL;
+
+	PCSTR          Terminator     = NULL;
+
+	NTSTATUS       STATUS         = NULL;
+
+	// Getting RtlEthernetStringToAddressA address from ntdll.dll
+	fnRtlEthernetStringToAddressA pRtlEthernetStringToAddressA = (fnRtlEthernetStringToAddressA)GetProcAddress(GetModuleHandle(TEXT("NTDLL")), "RtlEthernetStringToAddressA");
+	if (pRtlEthernetStringToAddressA == NULL) {
+		printf("[!] GetProcAddress Failed With Error : %d \n", GetLastError());
+		return FALSE;
+	}
+
+	// Getting the real size of the shellcode which is the number of MAC addresses * 6
+	sBuffSize = NmbrOfElements * 6;
+
+
+	// Allocating memeory which will hold the deobfuscated shellcode
+	pBuffer = (PBYTE)HeapAlloc(GetProcessHeap(), 0, sBuffSize);
+	if (pBuffer == NULL) {
+		printf("[!] HeapAlloc Failed With Error : %d \n", GetLastError());
+		return FALSE;
+	}
+
+	TmpBuffer = pBuffer;
+
+	// Loop through all the MAC addresses saved in MacArray
+	for (int i = 0; i < NmbrOfElements; i++) {
+
+		// Deobfuscating one MAC address at a time
+		// MacArray[i] is a single Mac address from the array MacArray
+		if ((STATUS = pRtlEthernetStringToAddressA(MacArray[i], &Terminator, TmpBuffer)) != 0x0) {
+			// if it failed
+			printf("[!] RtlEthernetStringToAddressA Failed At [%s] With Error 0x%0.8X", MacArray[i], STATUS);
+			return FALSE;
+		}
+
+		// 6 bytes are written to TmpBuffer at a time
+		// Therefore Tmpbuffer will be incremented by 6 to store the
+		TmpBuffer = (PBYTE)(TmpBuffer + 6);
+
+	}
+
+	// Save the base address & size of the deobfuscated payload
+	*ppDAddress  = pBuffer;
+	*pDSize      = sBuffSize;
+
+	return TRUE;
+
+}
+```
