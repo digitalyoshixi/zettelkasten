@@ -30,3 +30,5 @@ Comprised of objects:
 	- Contains byte offset from start of file for each indirect object 
 - If xref streams are not used, then contains `trailer` followed by a dictionary of references
 - `%%EOF` marker
+# Guides
+- [[PDF Font]]
