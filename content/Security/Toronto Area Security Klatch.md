@@ -4,6 +4,8 @@ tags:
 aliases:
   - TASK
 ---
+Submit talks to `info@task.to`
+Sector discount `TASK`
 # Talks
 - [[The End of Click-Ops Security Agent-Driven Applications]]
 - [[Bridging Todays Security with Tomorrows Quantum Threats]]
@@ -17,3 +19,5 @@ aliases:
 - [[Cyberpsychology Mindshield]]
 - [[From Zero to Exit]]
 - [[Guide to Security Leadership]]
+- [[Business Resilience In Action - Community Program Pitfalls to Avoid]]
+- [[Preparing TLS and Certificates for the Post-Quantum Era]]
