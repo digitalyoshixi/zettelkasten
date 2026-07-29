@@ -10,3 +10,4 @@ A [[Specification Mining]] architecture.
 # Parts
 - [[Filtering Block]] to filter traces
 - [[Clustering Block]] to cluster traces into groups
+- [[Learning Block]] to [[Automata Learning|Learn Automata]] from clusters
