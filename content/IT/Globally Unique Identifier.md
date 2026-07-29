@@ -12,3 +12,5 @@ A 128-bit integer number used to identify resources like:
 - Data
 Microsoft uses the term GUID.
 Must be kept secret
+# Format
+![[Globally Unique Identifier-20260729152307004.webp]]
