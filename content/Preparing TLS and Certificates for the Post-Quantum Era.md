@@ -49,3 +49,12 @@ A talk at [[Toronto Area Security Klatch|TASK]] by Matthew McPherrin at [[LetsEn
 	- Enable TLS v1.3
 	- Enable ML-KEM key exchange
 	- Automate certificate issuance
+- What is next:
+	- Deploy [[Merkle Tree Certificate]]
+	- Disable non-[[Post-Quantum Cryptography|PQ]] algorithms
+	- Update software
+- Merkle trees being append-only forever, but certificates will expire, CAs will have to be re-issued, never infinite storage of the states
+- One public key in the certificate a ML-KEM key, this can be adapted to other protocols
+- Cant cache, not clear what to cache
+- Revoking works by push bundle of revocations to all, revoke this cert its not good to you
+- ML-DSA not great for internet, but could work for enterprise CAs
