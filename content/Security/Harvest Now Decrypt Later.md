@@ -2,6 +2,8 @@
 tags:
   - security
   - cryptography
+aliases:
+  - HNDL
 ---
 The practice of gathering password hashes, and waiting until [[Quantum Computing]] becomes commercialized to crack them.
 

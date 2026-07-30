@@ -2,11 +2,50 @@
 tags:
   - security
 ---
-A talk at [[Toronto Area Security Klatch|TASK]] by Matthew McPherrin at LetsEncrypt.
+A talk at [[Toronto Area Security Klatch|TASK]] by Matthew McPherrin at [[LetsEncrypt]].
 # Notes
 - [[Secure Sockets Layer|SSL]] first standardized as [[Transport Layer Security|TLS]], same thing
 - TLS security goals:
 	- Keep data private
 	- Keep data intact
 	- Make sure you're connecting to the right website, no [[Man-In-The-Middle|MITM]] attacks
-- Certificates
+- Certificates:
+	- Cryptography gives us keys
+	- How do we know the keys?
+	- Trusted [[Certificate Authority|CA]] binds name to site's public key
+- Lets encrypt is free, open and automated
+- Works with [[Automated Certificate Management Environment]]
+- [[Automated Certificate Management Environment|ACME]] works well in the current day, but the impending threat of [[Quantum Computer]] will impact this
+- [[Quantum Computer]], can create circuits
+- [[Cryptographically Relevant Quantum Computer|CRQC]]
+- Q-Day, the day that quantum computers crack some large secret that is relevant to us, and to the internet
+- Can we rule out a secret [[Manhattan Project]]
+- Governments plan migrations for 2029-2031
+- We still need orders of magnitudes larger quantum computers
+- You must always do [[Key Exchange Protocol]], this is almost always asymmetric
+	- Most common key exchange [[Elliptic-Curve Diffie Hellman Ephemeral|ECDHE]], badly vulnerable!!!
+- [[Harvest Now Decrypt Later]]
+- Forging signatures for CA certificates, signatures are created at this point of time, so its not possible to crack later
+- These signature forging attacks can only happen if intercepted traffic during [[Digital Signature]] created
+- [[Crystals-Kyber]]
+- [[Crystals-Dilithium]]
+- You can defeat harvest now decrypt later attack using [[TLS 1.3]] with [[Kyber|ML-KEM]]
+	- Has already been available for 2 years
+- >70% of [[Cloudflare]] traffic is now in ML-KEM
+- [[Digital Signature]] harder problem
+	- [[NIST 204|ML-DSA]] public keys and signatures are big
+	- A [[Thread Local Storage|TLS]] handshake has multiple of these, these are big enough to cause problems, may not be able to store all these signatures
+	- Don't want to directly rip [[Elliptic Curve Digital Signature Algorithm|ECDSA]] and replace it with [[NIST 204|ML-DSA]], uses much more bandwidth
+	- 438 bytes (ECDSA)
+	- 1792 bytes (RSA-2048)
+	- 14723 bytes (ML-DSA)
+	- More than 10KB, connections start to get flaky
+	- HTTP2 can also reduce number of handshakes required to do
+- Not enough [[Cryptographically Relevant Quantum Computer|CRQC]] yet so not going to use ML-DSA yet, but we can switch whenever we need it
+- Solution being worked on: [[Merkle Tree Certificate]]
+- Hash functions are still quantum safe
+- IETF (PKI, Logs and Tree Signatures) plants group logs most of this
+- What does this mean for us today:
+	- Enable TLS v1.3
+	- Enable ML-KEM key exchange
+	- Automate certificate issuance
