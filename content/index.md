@@ -8,12 +8,9 @@ Here are a wide variety of unsorted and sorted notes from courses books and stuf
 I started using [[Obsidian]] in 2024 after watching this video: [No Boilerplate](https://www.youtube.com/watch?v=DbsAQSIKQXk)
 I aim to make this obsidian vault bloated asf
 # Courses
-- [[Systems Programming|CSCB09]]
-- [[Design and Analysis of Data Structures|CSCB63]]
-- [[Principles of Programming Languages|CSCC24]]
-- [[Ethics of Artificial Intelligence|PHlB18]]
+- [[Burp Suite]]
 # Current Learning
-- [[Emulation|Emulator]]
-- [[Provable Security Talk]]
+- [[Specification Mining]]
+- [[Windows Domain|Active Directory Domain]]
 # To Be Read
 - [[Reading List]]
