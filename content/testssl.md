@@ -7,3 +7,7 @@ A tool to check supported cryptographic algorithms a [[Digital Certificate|Certi
 ```
 testssl https://mysite.com
 ```
+### Scan From File
+```
+testssl --file scope_ips.txt --jsonfile test_ssl_out.json
+```
