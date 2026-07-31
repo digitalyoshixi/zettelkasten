@@ -8,6 +8,7 @@ A cross-platform [[Electron]] powered [[Integrated Development Environment|IDE]]
 - [[Arduino VSCode Installation]]
 - [[VSCode Liveshare With Jupyter Notebook]]
 - [[VSCode Ollama Agent]]
+- [[VSCode Server]]
 # Best Plugins
 - https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
