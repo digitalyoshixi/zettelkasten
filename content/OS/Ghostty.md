@@ -6,7 +6,9 @@ A [[Terminal]] emulator inspired by [[Kitty]].
 # Commands
 - `ghostty +list-fonts`
 - `ghostty +list-themes`
+# Setting Environment Variables
 # My Config
+Location : `~/Library/Application Support/com.mithelh.ghostty/config.ghostty`
 ```
 # This is the configuration file for Ghostty.
 #
