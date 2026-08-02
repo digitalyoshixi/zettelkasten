@@ -2,6 +2,7 @@
 tags:
   - web
   - security
+aliases:
 ---
 The delimiter for url parameters in:
 - [[OpenLiteSpeed]] Server

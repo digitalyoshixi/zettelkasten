@@ -19,7 +19,11 @@ Tricking a [[Cache Server]] into storing sensitive user data so that attackers c
 		- [[Encoded Character Variable Delimiter]]
 - Once standard found, test static extension `.css`, `.js`, `.ico`, `.exe`, see if they cache
 # Types
-- [[Path Mapping Discrepancies]]
+- [[Path Mapping Cache Deception]]
+- [[Delimiter Cache Deception]]
+- [[Decoding Cache Deception]]
+- [[Static Directory Cache Deception]]
+- [[Normalization Cache Deception]]
 # Tools
 - [[Param Miner]]
 - [[Web Cache Deception Scanner]]
