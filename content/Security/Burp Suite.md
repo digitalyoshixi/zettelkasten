@@ -31,3 +31,4 @@ Web testing application
 - [[OpenAPI Parser]]
 - [[JS Link Finder]]
 - [[Param Miner]]
+- [[Web Cache Deception Scanner]]

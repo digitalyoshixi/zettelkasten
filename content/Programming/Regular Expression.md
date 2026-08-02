@@ -6,6 +6,8 @@ aliases:
   - Regex
 ---
 These are [[String|Strings]] used to define search patterns of strings from a regex alphabet $\mathcal{RE}$
+# Searches
+- [[Regex Match Item Between]]
 # Notations
 - $\epsilon$ - empty string representing empty set $\emptyset$ or $\{ \epsilon \}$
 - any symbol '$a$' from the input alphabet representing $\{ a \}$

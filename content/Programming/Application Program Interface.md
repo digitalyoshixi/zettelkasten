@@ -10,6 +10,9 @@ APIs allow access to information of a website while limiting access. They are de
 - [[Rest API]]
 - [[GraphQL]]
 - [[Google Remote Procedure Call]]
+### Conventions
+- [[Path Mapping]]
+- [[Rest Path Mapping]]
 # Concepts
 - [[API Security]]
 - [[API Best Practices]]

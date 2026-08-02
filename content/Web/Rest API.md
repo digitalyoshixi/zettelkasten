@@ -43,3 +43,4 @@ Similar to GET, but has no resource body
 # Concepts
 - [[HTTP Request Headers]]
 - [[HTTP Response Headers]]
+- [[Rest Path Mapping]]

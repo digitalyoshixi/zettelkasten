@@ -13,5 +13,8 @@ Tricking a [[Cache Server]] into storing sensitive user data so that attackers c
 	- Process delimiters
 	- Normalize paths
 - Craft malicious URLs that abuse this discrepancy
+# Types
+- [[Path Mapping Discrepancies]]
 # Tools
 - [[Param Miner]]
+- [[Web Cache Deception Scanner]]
