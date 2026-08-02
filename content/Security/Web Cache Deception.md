@@ -6,24 +6,18 @@ aliases:
   - Cache Deception
 ---
 Tricking a [[Cache Server]] into storing sensitive user data so that attackers can access it later.
-# Identification
-- Test endpoints that support `GET`, `HEAD`, `OPTIONS`
-- Identify discrepancies in how cache and origin servers parse the URL path
-	- Start with a path with arbitrary string `/users/list` -> `/users/listaaa`
-		- If same response, its being redirected, pick something else
-	- Add delimiter characters, Try to find the standard that returns the same response:
-		- [[Path Mapping]]
-		- [[Rest Path Mapping]]
-		- [[Spring Matrix Variable Delimiter]]
-		- [[Ruby on Rails Variable Delimiter]]
-		- [[Encoded Character Variable Delimiter]]
-- Once standard found, test static extension `.css`, `.js`, `.ico`, `.exe`, see if they cache
 # Types
 - [[Path Mapping Cache Deception]]
 - [[Delimiter Cache Deception]]
 - [[Decoding Cache Deception]]
 - [[Static Directory Cache Deception]]
 - [[Normalization Cache Deception]]
+- [[File Name Cache Deception]]
 # Tools
 - [[Param Miner]]
 - [[Web Cache Deception Scanner]]
+# Protection
+- Always use `Cache-Control` to mark dynamic resources with `no-store` and `private`
+- Configure [[Content Delivery Network|CDN]] so that caching doesn't overwrite `Cache-Control`
+- Activate protection your CDN has against web cache deception
+- Verify there aren't discrepancies between how origin and cache interpret URL paths

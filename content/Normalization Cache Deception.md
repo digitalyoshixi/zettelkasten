@@ -14,4 +14,6 @@ A [[Web Cache Deception|Cache Deception]] attack that involves cache server and 
 - Always use `%2f` as the second `/`
 - Try permutations of `%2e`, `%2f` to check encodings
 - Check for [[Path Normalization]] in Origin server
+	- Start with `/static`, path traverse to `/target_endpoint`
 - Check for [[Path Normalization]] in Cache server
+	- Start with `/target_endpoint`, path traverse to `/static`
