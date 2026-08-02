@@ -5,6 +5,8 @@ tags:
 Storing a copy of most used data for quicker retrieval.
 # Concepts
 - [[Cache Ratio]]
+- [[Cache Key]]
+- [[Cache Rules]]
 # Types
 - [[CPU Cache]]
 - [[Browser Cache]]
