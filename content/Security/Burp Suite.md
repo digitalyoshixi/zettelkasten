@@ -16,6 +16,7 @@ Web testing application
 - [[Burp Suite Configure Scope]]
 - [[Burp Suite Cookie Entropy]]
 - [[Burp Suite Match and Replace]]
+- [[Burp Suite Websocket Cloning]]
 # Extensions
 - [[ActiveScan++]]
 - Content-Type Converter (JSON - XML)
