@@ -8,3 +8,8 @@ A [[Man-In-The-Middle|MITM]] attack based off [[Cross Site Request Forgery|CSRF]
 Allows for two-way data manipulation:
 - Manipulating client->server data
 - Manipulating server->client data
+# Protecting
+- Use `wss://`
+- Hardcode url of websocket endpoint
+- Protect websocket handshake message against CSRF
+- Treat data received via web socket as untrusted in both directions

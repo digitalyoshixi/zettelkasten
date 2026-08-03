@@ -2,6 +2,9 @@
 tags:
   - web
   - security
+aliases:
+  - HSTS
+  - HTTP Strict Transport Security
 ---
 Forces browsers to always use HTTPS for your domain
 ```

