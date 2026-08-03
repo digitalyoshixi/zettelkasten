@@ -62,6 +62,7 @@ aliases:
 - [[Common Gateway Interface]]
 - [[Server Side Include]]
 - [[Hyperlink Injection]]
+- [[WebSocket Hijacking]]
 # Enumeration
 ### [[Open Source Intelligence|OSINT]]
 - [[Google Dorking]]

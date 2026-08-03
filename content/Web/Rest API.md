@@ -41,6 +41,6 @@ Delete a resource on the server
 Retrieve resource headers without the resource itself.
 Similar to GET, but has no resource body
 # Concepts
-- [[HTTP Request Headers]]
+- [[HTTP Request Header]]
 - [[HTTP Response Headers]]
 - [[Rest Path Mapping]]
