@@ -18,3 +18,11 @@ bbot -t website.com
 ```
 bbot -t lnor.net -p spider -c web.spider_distance=2 web.spider_depth=2  
 ```
+### Run all Safe Modules
+```
+bbot -t evilcorp.net -f safe
+```
+### Run all Active Modules
+```
+bbot -t evilcorp.net -f active
+```
