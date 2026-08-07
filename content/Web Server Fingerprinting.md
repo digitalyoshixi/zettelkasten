@@ -7,4 +7,4 @@ aliases:
 The practice of identifying information about a [[Web Server]]:
 - Version
 - Type
-- 
+- [[Favicon]] or other shared assets
