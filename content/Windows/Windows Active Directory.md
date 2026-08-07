@@ -47,6 +47,7 @@ In the Users tab, right clicking the properties of a User, you can:
 - [[Kerberos]]
 - [[Flexible Single Master Operation|FSMO]]
 - [[Active Directory Certificate Services|ADCS]]
+- [[Domain Trust]]
 ### Tools
 - [[gporeport]]
 - [[Windows Group Policy Management Console|gpmc.msc]]
