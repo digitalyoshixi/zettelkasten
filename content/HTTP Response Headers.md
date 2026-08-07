@@ -11,3 +11,4 @@ curl -s -D- -I http://mysite.com
 # Headers
 - [[Cross-Origin-Embedder-Policy]]
 - [[Cross-Origin-Opener-Policy]]
+- [[Entity Tag]]

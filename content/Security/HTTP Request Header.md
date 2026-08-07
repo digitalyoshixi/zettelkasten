@@ -6,6 +6,7 @@ tags:
 ### Content
 - [[Content-Type]]
 - [[X-Content-Type-Options]]
+- [[If-None-Match]]
 ### Security
 - [[X-Forwarded-For]]
 - [[X-Frame-Options]]
