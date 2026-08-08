@@ -3,6 +3,14 @@ tags:
   - cpp
 ---
 These are dynamic arrays in C++
+# Allocate Vector of Fixed Size
+```cpp
+std::vector<int> vec;
+// rserve space for 100 elements (NOT BYTES)
+vec.reserve(100); 
+std::cout << "Size: " << vec.size() << ", Capacity: " << vec.capacity() << "\n";
+// Output: Size: 0, Capacity: 100
+```
 # Usage
 ```cpp
 #include <vector>
