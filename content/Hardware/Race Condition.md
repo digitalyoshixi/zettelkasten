@@ -11,5 +11,6 @@ Can be solved by implementing [[Queue]].
 # Techniques
 - [[Last Byte Synchronization]]
 - [[Single Packet Attack|SPA]]
+- [[Connection Warming]]
 # Web Exploitation
 - [[Burp Suite Turbo Intruder]]
