@@ -12,6 +12,7 @@ Can cause:
 - Data overwriting of other variables in use
 - Modifying state right after checking but before processing
 - [[Partial Construction Race Condition]]
+- Revealing of data affected by time (i.e password reset tokens)
 
 Can be solved by implementing [[Queue]].
 # Techniques
