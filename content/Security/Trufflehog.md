@@ -17,3 +17,7 @@ Will open the trufflehog wizard
 ```
 trufflehog filesystem .
 ```
+# Scan Github Repo
+```
+trufflehog git https://github.com/areofyl/fetch.git
+```
