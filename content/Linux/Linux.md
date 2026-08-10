@@ -28,5 +28,6 @@ A [[File Oriented Operating System]] So based.
 - [[systemD]]
 - [[Linux Process Kill]]
 - [[Linux Find Largest Files]]
+- [[Linux Run Command for All Lines in File]]
 # Viewing Source Code
 https://elixir.bootlin.com/linux/
