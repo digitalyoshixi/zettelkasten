@@ -5,7 +5,7 @@ tags:
 This is a scanning tool built into kali linux. This allows discover of devices in a network.
 # Host and Port Scanning
 ```
-nmap -p 1-65535 192.168.2.1-255
+nmap -p- 192.168.2.1-255
 ```
 # Quick Stealth Scan
 ```
