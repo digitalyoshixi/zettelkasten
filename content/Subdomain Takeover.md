@@ -11,4 +11,5 @@ Happens if there is a [[Canonical Name|CNAME]] record in DNS but no host is prov
 - [[theHarvester]]
 # Process
 1. Find subdomains with subfinder
-2. Run all subdomains through []
+2. Run all subdomains through [[nslookup]] to get CNAME
+3. Check if any CNAMEs can be taken over https://github.com/EdOverflow/can-i-take-over-xyz
