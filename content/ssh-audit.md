@@ -8,4 +8,5 @@ ssh-audit <ip>
 ```
 # Audit File
 ```
+ssh-audit -T targets.txt
 ```
