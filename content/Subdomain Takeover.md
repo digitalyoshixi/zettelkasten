@@ -9,4 +9,6 @@ Happens if there is a [[Canonical Name|CNAME]] record in DNS but no host is prov
 - [[sublist3r]]
 - https://crt.sh
 - [[theHarvester]]
-- 
+# Process
+1. Find subdomains with subfinder
+2. Run all subdomains through []
