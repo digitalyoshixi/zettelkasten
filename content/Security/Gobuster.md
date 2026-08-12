@@ -13,6 +13,10 @@ alias gobusterz='gobuster dir -w /usr/share/dirbuster/wordlists/directory-list-l
 ```
 gobuster dir -u <target> -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt
 ```
+### Exclude Length
+```
+gobuster dir -u <target> -w <wordlist> --exclude-length 0
+```
 # File Scan
 ```
 gobuster dir -u <target> -w /usr/share/seclists/Discovery/Web-Content/common.txt -x php,aspx,jsp,old,bak,xml,json,txt,sql,conf,config
