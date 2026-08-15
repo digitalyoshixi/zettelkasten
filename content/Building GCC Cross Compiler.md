@@ -23,6 +23,5 @@ export PATH="$PREFIX/bin:$PATH"
 mkdir -p ~/src/build-binutils
 ```
 ### Make Binutils
-```
-path/to/binutils-gdb/configure --target=$TARGET --prefix="$PREFIX" --with-sysroot --disable-nls --disable-werror --enable-default-execstack=no
+```bashpath/to/binutils-gdb/configure --target=$TARGET --prefix="$PREFIX" --with-sysroot --disable-nls --disable-werror --enable-default-execstack=no CXXFLAGS="-std=gnu++17" CFLAGS="-std=gnu17"
 ```
