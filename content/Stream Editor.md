@@ -16,3 +16,7 @@ sed 's/FUCK/####/'
 ```
 sed -e 's/d..e/buddy/' -e 's/bash/fish/'
 ```
+# Remove Instances
+```
+sed -i '/blackarch/{N;D}' /etc/pacman.conf
+```
