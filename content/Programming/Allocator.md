@@ -13,11 +13,12 @@ Can be wrapped in a [[Container Allocator]]
 - Reduced [[Fragmentation]]
 # List
 - [[Linear Allocator]]
-- [[Heap Allocator]]
 - [[Stack Allocator]]
 - [[Pool Allocator]]
 - [[Buddy Allocator]]
 - [[Slab Allocator]]
+# Custom Allocators
+- [[ptmalloc]]
 # Resources
 - https://www.youtube.com/watch?v=TDCwoAuL5jc
 - https://gamedev.net/blogs/entry/2271578-introduction-to-allocators-and-arenas/

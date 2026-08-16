@@ -3,7 +3,7 @@ tags:
   - os
 ---
 - [[Simple Structure]]
-- [[Monolithic Structure]]
+- [[Monolithic Kernel]]
 - [[Layered Structure]]
-- [[Microkernels Structure]]
+- [[Microkernel]]
 - [[Module Structure]]

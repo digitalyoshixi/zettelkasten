@@ -13,3 +13,12 @@ A program responsible for handling low level communication between applications 
 - Hardware [[System Interrupt]]
 - Software [[Syscall]]
 [[Linux]] is a kernel.
+# Designs
+- [[Monolithic Kernel]]
+- [[Microkernel]]
+- [[Hybrid Kernel]]
+- [[Exokernel]]
+- [[Picokernel]]
+- [[Cache Kernel]]
+- [[Megalithic Kernel]]
+- [[Multikernel]]
