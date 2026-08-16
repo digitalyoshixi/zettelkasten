@@ -13,6 +13,8 @@ The linker does 3 things:
    ![[Pasted image 20231119140137.png]] 
 2. Links object files
 3. Resolves dependencies. The linker will abort if it detects errors in dependencies such as missing methods.
+# Linker Scripts
+- [[Linker Script]]
 # Linking Types
 - [[Static Linking]]
 - [[Runtime Linking]]

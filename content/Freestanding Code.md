@@ -3,6 +3,10 @@ tags:
   - programming
 ---
 In contrast to [[Hosted Environment Code]], all headers must be provided by yourself or baked into the compiler.
+# GCC Flag
+```bash
+-ffreestanding
+```
 # Compiler Baked Headers
 - [[stdbool.h]]
 - [[stddef.h]]

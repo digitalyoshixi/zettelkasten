@@ -3,6 +3,8 @@ tags:
   - programming
   - os
 ---
+# Tutorial
+https://wiki.osdev.org/GCC_Cross-Compiler
 # Process
 ### Get Source
 ```bash
@@ -26,3 +28,5 @@ mkdir -p ~/src/build-binutils
 ```bash
 path/to/binutils-gdb/configure --target=$TARGET --prefix="$PREFIX" --with-sysroot --disable-nls --disable-werror --enable-default-execstack=no CXXFLAGS="-std=gnu++17" CFLAGS="-std=gnu17"
 ```
+### Make GCC
+### Make GDB

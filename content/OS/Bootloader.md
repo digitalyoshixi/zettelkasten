@@ -10,6 +10,7 @@ A small piece of software stored in [[Read Only Memory|ROM]] written in assembly
 # Concepts
 - [[Multiboot Standard]]
 - [[Bootloader Protected Mode]]
+- [[AOUT Kludge]]
 # List
 - [[Grand Unified Bootloader|GRUB]]
 - [[Barebones Bootloader]]
