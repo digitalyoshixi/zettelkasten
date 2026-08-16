@@ -7,3 +7,9 @@ A small piece of software stored in [[Read Only Memory|ROM]] written in assembly
 - [[Single Stage Bootloader]]
 - [[Double Stage Bootloader]]
 - [[Mixed Bootloader]]
+# Concepts
+- [[Multiboot Standard]]
+- [[Bootloader Protected Mode]]
+# List
+- [[Grand Unified Bootloader|GRUB]]
+- [[Barebones Bootloader]]

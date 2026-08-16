@@ -6,3 +6,4 @@ aliases:
   - seL4
 ---
 A [[Microkernel]] that is formally verified.
+Improved version of the [[L4]] kernel

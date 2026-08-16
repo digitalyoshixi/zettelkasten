@@ -3,7 +3,7 @@ tags:
   - memory
   - os
 aliases:
-  - Paging
+  - Swap Paging
   - Swap
 ---
 Page file is the file that contains all processes to be swapped in [[Virtual Memory]].

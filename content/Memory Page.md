@@ -7,6 +7,7 @@ aliases:
   - PAGE_NOACCESS
   - PAGE_EXECUTE_READWRITE
   - PAGE_READONLY
+  - Page
 ---
 A 4KB segment of memory.
 Often talked about in context to [[Linux Virtual Memory Space]]
