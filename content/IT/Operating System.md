@@ -17,6 +17,7 @@ A general concept for a software that merges hardware and software resources.
 - [[MacOS]]
 - [[OpenBSD]]
 # OS Concepts
+### Core
 - [[Bootloader]]
 - [[Initial Ramdisk]]
 - [[Process Synchronization]]
@@ -25,3 +26,10 @@ A general concept for a software that merges hardware and software resources.
 - [[OS Installation Troubleshooting]]
 - [[Windows Troubleshooting]]
 - [[Protection Ring]]
+- [[File System|Filesystem]]
+### Algorithms
+- [[CRC32]]
+- [[Dithering]]
+  [[Page Frame Allocation]]
+- [[Pseudo Random Number Generator|PRNG]]
+- [[Scheduling Algorithm]]

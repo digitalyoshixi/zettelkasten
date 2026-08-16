@@ -6,6 +6,8 @@ aliases:
   - Byte
   - Word
   - Nibble
+  - Bit Pair
+  - Pair
 ---
 Binary is base 2 number system
 
@@ -16,6 +18,7 @@ Every binary number has 8 digits. Smallest digit is to the left, the largest is 
 - [[Binary Multiplication]]
 # Binary Group Naming Conventions
 - **Bit:** A single binary digit
+- **2 Bits:** A pair
 - **4 Bits:** A nibble
 - **8 Bits:** A byte
 - **16 bits:** A word
