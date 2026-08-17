@@ -80,3 +80,4 @@ banner:
 - [[Common Gateway Interface|CGI]]
 - Reconstructing a website's backend from side channels, error messages, tech stack, etc
 - Autohotkey, but it is smart with AI, can know what buttons you clicked, has [[Causation Knowledge]], can help automate your runescape grinding
+- [[Extended Berkley Packet Filter|eBPF]] instrument it all, instrument all programs on your PC
