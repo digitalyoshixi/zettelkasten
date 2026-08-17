@@ -12,3 +12,9 @@ Allowing two processes that are executing together to communicate (share memory,
 # Methods
 - [[Pipe]]
 - [[Socket]]
+- [[Message Passing]]
+- Shared Memory
+# Ideas
+- [[IPC Endpoint]]
+- [[Clans and Chiefs]]
+- [[Process Hierarchy]]
