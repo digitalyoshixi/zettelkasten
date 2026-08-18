@@ -5,4 +5,5 @@ aliases:
   - SPN
 ---
 The name of a service computer account.
-Allows amy iser 
+Often setup with:
+- [[Constrained Delegation]]

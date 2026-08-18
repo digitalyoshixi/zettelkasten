@@ -9,4 +9,3 @@ A revised [[Component Object Model|COM]] that allows execution outside your proc
 - Remote devices
 Operating over [[DCE-RPC]] protocol.
 Must have an [[AppID]] with AccessPermissions and LaunchPermissions.
-

@@ -2,6 +2,8 @@
 tags:
   - python
 ---
+Alternative to [[pip]].
+Automatically sets up virtual environments.
 # Installation
 `sudo pacman -S poetry`
 # Setup Poetry Project

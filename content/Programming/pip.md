@@ -4,7 +4,13 @@ tags:
 ---
 A python package manager and library to add new python packages.
 # Install From file
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
+# Install From `pyproject.toml`
+```
+pip install .
+```
 # Freeze Current packages into file
 `pip freeze >> requirements.txt`
 # Escaping Jail

@@ -6,6 +6,7 @@ A programming language that has good readability and community support.
 Python is a bytecode virtual machine. You can see the [[Python Bytecode]] and execute it directly.
 # Concepts
 - [[Python Virtual Environment|venv]]
+- [[Poetry]]
 - [[Pyenv]]
 - [[Python Object]]
 - [[Python Function Design Recipe]]
