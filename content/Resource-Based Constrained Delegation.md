@@ -26,4 +26,8 @@ Works with:
 4. Request administartor [[Ticket Server|TGS]] for target through [[S4U2Proxy]]
 5. You now have access to the DC
 # Attack
-- [[impacket-rbcd]]
+1. [[impacket-rbcd]] to set `msDS-AllowedToActOnBehalfOfOtherIdentity`
+2. [[impacket-getST]] to get the service ticket of priviledged user (not sensitive account delegated)
+3. `export KRB5CCNAME=privuser@SPNCOMPUTER.catbird.local@CATBIRD.LOCAL.ccache`
+4. `klist` to check ticket
+5. [[impacket secretsdump]] to get secrets of the current device
