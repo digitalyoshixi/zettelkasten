@@ -8,6 +8,8 @@ aliases:
 ```
 curl -s -D- -I http://mysite.com
 ```
+# Auditing
+- [[shcheck]]
 # Headers
 - [[Cross-Origin-Embedder-Policy]]
 - [[Cross-Origin-Opener-Policy]]
