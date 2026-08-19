@@ -8,6 +8,10 @@ aliases:
 ---
 A web exploitation that targets an authenticated user on one website.
 A fraud website forces the user to send a request to a protected endpoint on the authenticated site, possibly allowing deleting of account or sending of money to attacker.
+Requires:
+1. Priviledged actions
+2. Cookie-based session handling only
+3. Predictable request parameters
 ![[Cross Site Request Forgery-20251121185141300.webp]]
 # Example
 If a vulnerable website has the following API structure:
@@ -18,3 +22,7 @@ If an attacker knows this, they can allow the user to send this request.
 # Solutions
 - [[Referrer Header]]
 - [[One Time Form Code]]
+- [[Referer Header]]
+- [[Cross Site Request Forgery Token]]
+# Tools
+- [[CSRF PoC Generator]]

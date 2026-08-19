@@ -7,6 +7,8 @@ tags:
 - [[Content-Type]]
 - [[X-Content-Type-Options]]
 - [[If-None-Match]]
+### Routing
+- [[Referer]]
 ### Security
 - [[X-Forwarded-For]]
 - [[X-Frame-Options]]
