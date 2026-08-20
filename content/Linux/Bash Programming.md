@@ -51,3 +51,5 @@ aliases:
 - [[shift]]
 - [[read]]
 - [[trap]]
+# Useful Scripts
+- [[Bash Auto File Read]]
