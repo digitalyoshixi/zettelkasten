@@ -34,6 +34,8 @@ This is the map of my homelab:
 - [x] [[OTEL-LGTM Stack]] monitoring box ✅ 2025-10-30
 - [ ] Setup Network Printer
 - [ ] [[Vaultwarden]]
+- [ ] [[Postfix]]
+- [ ] [[Dovecot]]
 # [[Active Directory Forest|AD Forest]]
 
 
