@@ -7,6 +7,7 @@ aliases:
   - Linear Probe
 ---
 These are tools used to check if a model is hitting a specific benchmark.
+
 Involves training a [[Linear Classifier]] on model activations to test whether a feature is linearly decodable at a given layer.
 
 Commonly used in [[Natural Language Processing]] and [[Mechanistic Interpretability]].

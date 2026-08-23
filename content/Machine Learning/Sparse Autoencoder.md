@@ -9,6 +9,7 @@ A [[Autoencoder]] trained for:
 - Dimensionality reduction
 Can be used to extract features from a model.
 Can be used to remove [[Neuron Superposition|Polysemanticity]]
+- Feed into neuronpedia, check features from these sparse graphs
 # Objective Function
 $$L = || X - \hat{X} || + \lambda * \text{Penalty}(s)$$
 # Usage
