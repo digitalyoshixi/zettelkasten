@@ -8,6 +8,11 @@ A [[Mail Transfer Agent]]
 apt install postfix
 dpkg-reconfigure postfix
 ```
+# Config File
+```
+/etc/postfix/master.cf
+/etc/postfix/main.cf
+```
 # Check Mail Logs
 ```
 cat /var/log/mail.log
