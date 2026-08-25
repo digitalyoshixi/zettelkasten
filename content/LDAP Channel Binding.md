@@ -15,7 +15,7 @@ HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\NTDS\Parameters\LdapEnforce
 - (2) Always (enforces; rejects binds without CBT)
 # Implementing on Older Systems
 1. Install windows CVE-2017-8563 if system older than 2017 (https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8563)
-2. Install August 2023 KB4320412 update if server 2019, 2022 (https://support.microsoft.com/en-us/topic/2020-and-2023-ldap-channel-binding-and-ldap-signing-requirements-for-windows-kb4520412-ef185fb8-00f7-167d-744c-f299a66fc00a)
+2. Install August 2023 KB4520412 update if server 2019, 2022 (https://support.microsoft.com/en-us/topic/2020-and-2023-ldap-channel-binding-and-ldap-signing-requirements-for-windows-kb4520412-ef185fb8-00f7-167d-744c-f299a66fc00a)
 3. Configure GPO settings on DC:
 	1. Domain controller: LDAP server channel binding token requirements = "Always"
 # Auditing
