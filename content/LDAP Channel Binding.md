@@ -25,3 +25,12 @@ HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\NTDS\Parameters\LdapEnforce
 - `3039`: Client did not provide CBT during authentication process
 - `3074`: LDAPS bind would have failed CBT validation if enforced
 - `3075`: LDAPS bind omitted CBT data and rejected if enforced
+### Checking With Tool
+- Use https://github.com/digitalyoshixi/LdapRelayScan
+```
+python LdapRelayScan.py -dc-ip 192.168.2.252 -u "user" -p "passwod" -ns 192.168.2.252 -method LDAPS
+```
+May have to adjust nameservers if not already:
+```
+echo "192.168.2.252 dc01.catbird.local" | sudo tee -a /etc/hosts
+```
