@@ -14,6 +14,8 @@ Can be used to:
 # Concepts
 - [[Object Class]]
 - [[Lightweight Data Interchange Format]]
+- [[LDAP Signing]]
+- [[LDAP Channel Binding]]
 # Implementations
 - [[Windows Active Directory]]
 - [[OpenLDAP]]
