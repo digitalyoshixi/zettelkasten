@@ -17,5 +17,3 @@ Alternatively:
 # Positional Arguments
 `func(a,b, /, c, d)`
 The `/` specifies that `a` and `b` are positional arguments.
-
-
