@@ -58,6 +58,7 @@ In the Users tab, right clicking the properties of a User, you can:
 - [[Active Directory Folder Redirection]]
 - [[Windows Group Policies]]
 - [[Active Directory Replication]]
+- [[Active Directory Disable NTLM]]
 ### Misc
 - [[Updated Sequence Number|USN]]
 - [[X500 Format]]

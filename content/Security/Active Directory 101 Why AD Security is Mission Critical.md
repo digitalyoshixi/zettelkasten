@@ -14,7 +14,7 @@ A talk at [[Toronto Area Security Klatch]] by Sayan Sivanathan from semperis.
 	- Authentication and authorization. Checks users, passwords and determines permissions for user
 	- AD supports SSO, allows users to access multiple applications with single set of credentials
 	- Hierarchical organization. AD organizes network objects using domains. Trees and forests. [[Domain Controller]]
-	- [[Group Policy Management]]
+	- [[Windows Group Policy Management Console]]
 	- Protocol support ([[Lightweight Directory Access Protocol|LDAP]], [[Kerberos]], etc)
 - AD connects to EVERYTHING
 - Vulnerability and risks of AD:
