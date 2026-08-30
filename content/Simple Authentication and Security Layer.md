@@ -11,7 +11,7 @@ A authentication mechanism that extends authentication for [[TCP & IP Applicatio
 - `PLAIN` : Send username/password over plaintext
 - `CRAM-MD5` : Challenge-response
 - `DIGEST-MD5` : Stronger challenge response
-- [[GSSAPI]] : Use kerberos tickets for auth
+- [[Generic Security Services Application Programming Interface]] : Use kerberos tickets for auth
 - `EXTERNAL` : Use TLS certificates
 - `NTLM` : Use [[New Technology LAN Manager|NTLM]]
 - 

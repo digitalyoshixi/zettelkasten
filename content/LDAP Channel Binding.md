@@ -7,8 +7,12 @@ aliases:
 ---
 A [[Lightweight Directory Access Protocol over Secure Sockets Layer|LDAPS]] specific feature that binds a `Channel Binding Token` (unique identifier) to a specific TLS tunnel with your target device.
 # Implementing
+```powershell
+Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\NTDS\Diagnostics" -Name "16 LDAP Interface Events" -Value 2
 ```
-HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\NTDS\Parameters\LdapEnforceChannelBinding
+
+```powershell
+Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\NTDS\Parameters" -Name "LdapEnforceChannelBinding" -Value 2 -Type DWord
 ```
 - (0) Never (default, no CBT)
 - (1) When Supported (audit; emits failures but doesn't block)
