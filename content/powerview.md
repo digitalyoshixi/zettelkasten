@@ -3,6 +3,10 @@ tags:
   - windows
 ---
 A [[Lightweight Directory Access Protocol|LDAP]] tool to gather the tree of the environment.
+# Installation
+```
+git clone https://github.com/aniqfakhrul/powerview.py
+```
 # Connecting to LDAP Queries
 ```
 powerview $USER:$PASSWORD@$DC
