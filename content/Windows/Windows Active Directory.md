@@ -59,6 +59,7 @@ In the Users tab, right clicking the properties of a User, you can:
 - [[Windows Group Policies]]
 - [[Active Directory Replication]]
 - [[Active Directory Disable NTLM]]
+- [[Active Directory Sync with NTP]]
 ### Misc
 - [[Updated Sequence Number|USN]]
 - [[X500 Format]]
