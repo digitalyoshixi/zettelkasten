@@ -8,3 +8,7 @@ A tool to recover [[Source Map]]
 ```
 sourcemapper -jsurl "https://site/source.js" -output .
 ```
+# Usage
+```
+sourcemapper -dir . -output .
+```
