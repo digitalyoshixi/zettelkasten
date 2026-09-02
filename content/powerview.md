@@ -20,6 +20,7 @@ powerview $USER:$PASSWORD@$DC
 ```
 powerview $USER:$PASSWORD@$DC --web
 ```
+Default port 5000
 # Commands
 ### Get All Computers
 ```
