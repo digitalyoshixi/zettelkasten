@@ -5,6 +5,7 @@ aliases:
   - HTTP Request Smuggling
   - HTTP Response Splitting
   - HRS
+  - CRLF Injection
 cssclasses:
 ---
 A usage of  `\r\n` to add additional requests to be executed by a bad HTTP parser.
@@ -15,3 +16,8 @@ foo: bar\r\nGET / HTTP/1.1\r\nHost: www.yoshixi.net
 ```
 ![[HTTP Smuggling-20260628202910913.webp]]
 ![[HTTP Smuggling-20260628202927834.webp]]
+# Example Adding Cookie
+```
+/?search=test%0d%0aSet-Cookie:%20csrfKey=YOUR-KEY%3b%20SameSite=None
+```
+- [[CRLF Injection CSRF Example]]

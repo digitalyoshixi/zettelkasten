@@ -24,5 +24,7 @@ If an attacker knows this, they can allow the user to send this request.
 - [[One Time Form Code]]
 - [[Referer Header]]
 - [[Cross Site Request Forgery Token]]
-# Tools
+- [[Double Submit Defense]]
+# Tools/Attacks
 - [[CSRF PoC Generator]]
+- [[CRLF Injection CSRF Example]]
