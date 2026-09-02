@@ -2,10 +2,6 @@
 tags:
   - hardware
 aliases:
-  - CXL Protocol
-  - CXL
-  - Memory As A Service
-  - MaaS
 banner:
 ---
 # List
@@ -72,6 +68,7 @@ banner:
 - Make a UI library like [[Dear ImGUI]]
 - Three satelites that always point to somewhere, you can move around in 3d space and satelites will track that movement and generate a 3d image (Google maps) - could use [[MapboxGL]] as well
 - Make a wikipedia clone
+- [[COBOL]] transpiler
 - [[Chinese Room]] video game like overcooked
 - [[Cybernetics]] cola dispensor for stomach or baha blast machine
 - [[Content Disarm and Reconstruction]] tool
@@ -81,3 +78,6 @@ banner:
 - Reconstructing a website's backend from side channels, error messages, tech stack, etc
 - Autohotkey, but it is smart with AI, can know what buttons you clicked, has [[Causation Knowledge]], can help automate your runescape grinding
 - [[Extended Berkley Packet Filter|eBPF]] instrument it all, instrument all programs on your PC
+- Jelqing robot
+- Live code patching by exposing every line as a server that evaluates in its own context (ultimate runtime [[Reflection]])
+- See everything through an AI re-rendered filter, meta ai glasses, turn images through chatGPT to get a fake reality "computer show me this guys balls"
