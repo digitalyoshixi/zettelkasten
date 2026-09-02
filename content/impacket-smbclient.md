@@ -18,3 +18,7 @@ get <filename>
 ```
 mget **
 ```
+# Recurse On
+```
+recurse ON
+```

@@ -16,6 +16,10 @@ pip install .
 ```
 powerview $USER:$PASSWORD@$DC
 ```
+# Connectign With WebUI
+```
+powerview $USER:$PASSWORD@$DC --web
+```
 # Commands
 ### Get All Computers
 ```
