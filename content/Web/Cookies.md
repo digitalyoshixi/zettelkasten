@@ -13,8 +13,12 @@ Used for temporary information that doesn't matter too much.
 - `HTTPOnly`: Prevents javascript visibility ([[Cross Site Scripting|XSS]]), cookies are not stored
 - `Secure`: Prevents cookies from being forwarded unless you use [[Hyper Text Transfer Protocol Secure|HTTPS]]
 - `SameSite`: Prevents [[Cross Site Request Forgery|CSRF]]
-	- None: No same site protection. Sites like desmos, google maps that want to be embedded into other sites usually have this setting
-	- Lax: Allows cookies to be sent on some cross-site requests
+	- None: No same site protection. Sites like desmos, google maps, tracking cookies that want to be embedded into other sites usually have this setting
+	- Lax: Allows cookies to be sent on some cross-site requests (Automatic by chrome)
+		- Only if request uses GET
+		- Only if request resulted from top-level navigation such as clicking a link
+		- Can still be exfiltrated if you force a GET request.
 	- Strict: Strict never allows cookie to be sent across sites
 	- Defined for the domain, and one subdomain above (not all subdomains)
+# Same Site vs Same Origin
 ![[Cookies-20260903005418963.webp]]
