@@ -16,3 +16,5 @@ Used for temporary information that doesn't matter too much.
 	- None: No same site protection. Sites like desmos, google maps that want to be embedded into other sites usually have this setting
 	- Lax: Allows cookies to be sent on some cross-site requests
 	- Strict: Strict never allows cookie to be sent across sites
+	- Defined for the domain, and one subdomain above (not all subdomains)
+![[Cookies-20260903005418963.webp]]

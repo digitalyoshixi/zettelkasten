@@ -10,3 +10,5 @@ It checks that the:
 - Host
 - Port
 Are the same between two origins.
+# Same Origin vs Same Site
+![[Same Origin Policy-20260903005412269.webp]]
