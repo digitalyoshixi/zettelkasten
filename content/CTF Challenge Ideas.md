@@ -2,6 +2,30 @@
 tags:
   - security
 ---
+# Truster
+- SSRF with [[SSRF Localhost Bypass Technique]]
+- From the server, upload a webshell
+# [[Postel's Law|Postel's Principle]]
+- Almost blind pyjail, but server returns 1 if program errored, zero if program suceeded
+# Intuitive
+- The game of Intransitive (https://www.youtube.com/watch?v=LO_zcGNJriA)
+- Web, PRNG cracking game with the hard bot
+- You have an option to 'auto play', hardcoded algorithm in JS, seed is tied to your user. You must crack the seed
+- He has 15 pieces, you have 9
+# Webhole
+- Directory traversal attack
+- Allow users to upload a file as profile picture
+# [[Locality of Reference]]
+- Misc, a VM that only remembers last 5 instructions, you must program it to decode all elements of the flag (each element has its own way to be decoded)
+# Fat Dump
+- A fucky [[Java Webstart]] application where you must modify config file to get admin permissions + deserialization attacks
+# Fat Dump
+- [[Joint Test Action Group|JTAG]] dumping hardware challenge. Dump at certain state (flag is set...)
+# Go and Fail
+- [[Goto Fail]] but re-implemented
+# Userhole
+- [[User Enumeration]] from login page, response length, just rockyou-small
+- Further IDOR to read user description
 # Pool Picker
 - Binary exploitation with invalid [[Pool Allocator]] implementation that has a use after free
 # Markdown Editor Stored XSS
