@@ -28,3 +28,5 @@ If an attacker knows this, they can allow the user to send this request.
 # Tools/Attacks
 - [[CSRF PoC Generator]]
 - [[CRLF Injection CSRF Example]]
+- [[CSRF SameSite Bypass with GET Request]]
+- [[CSRF Gadget]]

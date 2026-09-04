@@ -17,8 +17,9 @@ Used for temporary information that doesn't matter too much.
 	- Lax: Allows cookies to be sent on some cross-site requests (Automatic by chrome)
 		- Only if request uses GET
 		- Only if request resulted from top-level navigation such as clicking a link
-		- Can still be exfiltrated if you force a GET request.
+		- Can still be exfiltrated if you force a GET request. ([[CSRF SameSite Bypass with GET Request]])
 	- Strict: Strict never allows cookie to be sent across sites
+		- Client side redirects issued by the site (not server issued 300 responses) can still include these cookies ([[CSRF Gadget]])
 	- Defined for the domain, and one subdomain above (not all subdomains)
 # Same Site vs Same Origin
 ![[Cookies-20260903005418963.webp]]
