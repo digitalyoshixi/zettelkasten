@@ -17,5 +17,5 @@ nmap -p 3389 --script rdp-enum-encryption 192.168.1.186
 ```
 # From Input File, to Output File
 ```
-nmap -sS -T4 -F -iL httpservers.txt -oX nmap.xml
+nmap -sS -T4 -F -iL httpservers.txt -oN nmap_res.txt
 ```
