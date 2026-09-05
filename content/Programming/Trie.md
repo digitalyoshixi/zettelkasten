@@ -1,6 +1,7 @@
 ---
 tags:
   - algorithm
+  - programming
 aliases:
   - Prefix Tree
   - Prefix Tree Acceptor

@@ -1,6 +1,7 @@
 ---
 tags:
   - business
+  - econ
 ---
 The rules to create foundation for managing crises.
 - Communications

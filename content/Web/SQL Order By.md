@@ -1,6 +1,6 @@
 ---
 tags:
-  - data
+  - web
 ---
 Will return all results in a table that is ordered by several keys where the order logic is:
 - Order by first column 
