@@ -47,6 +47,9 @@ namespace MyProg
 - [[C-Sharp Access Modifiers]]
 - [[C-Sharp Properties]]
 - [[C-Sharp Abstract Class]]
+- [[C-Sharp Interface]]
+- [[C-Sharp Enum]]
+- [[C-Sharp Exceptions]]
 ### Libraries
 - [[C-Sharp Math]]
 # Tools
