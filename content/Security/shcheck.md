@@ -2,7 +2,7 @@
 tags:
   - security
 ---
-A tool to check [[HTTP Response Headers|HTTP Security Headers]] of a web application
+A tool to check [[HTTP Response Header|HTTP Security Headers]] of a web application
 # Installation
 ```
 git clone https://gihub.com/santoru/shcheck.git
