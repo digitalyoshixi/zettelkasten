@@ -16,7 +16,7 @@ namespace MyProg
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLIne("Hello World!");
+			Console.WriteLine("Hello World!");
 		}
 	}
 }

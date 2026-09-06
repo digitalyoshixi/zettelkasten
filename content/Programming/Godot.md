@@ -14,6 +14,7 @@ sudo pacman -S godot
 - [[Godot Project Structure]]
 - [[Godot Scenes]]
 - [[GDScript]]
+- [[Godot C-Sharp]]
 - [[Godot Constructive Solid Geometry]]
 - [[Godot 3D Terrain]]
 - [[Godot 3D Name Suffixes]]
