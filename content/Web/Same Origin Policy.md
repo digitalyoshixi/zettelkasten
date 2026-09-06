@@ -2,6 +2,8 @@
 tags:
   - web
   - security
+aliases:
+  - SOP
 ---
 A policy that prevents webpages from reading/writing the contents of other webpages in a browser.
 ![[Same Origin Policy-20250208012937735.webp]]

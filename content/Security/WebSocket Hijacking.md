@@ -2,8 +2,12 @@
 tags:
   - security
   - web
+aliases:
+  - CSWSH
+  - WSH
 ---
-A [[Man-In-The-Middle|MITM]] attack based off [[Cross Site Request Forgery|CSRF]] that places an attacker's server between the client and server's web socket connection.
+A [[Cross Site Request Forgery|CSRF]] attack for websocket connections where no [[Cross Site Request Forgery Token|CSRF Token]] is used for requsets.
+Can be used for [[Man-In-The-Middle|MITM]] attack that places an attacker's server between the client and server's web socket connection.
 - Client -> Attacker Server -> Server
 Allows for two-way data manipulation:
 - Manipulating client->server data

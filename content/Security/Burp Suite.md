@@ -12,6 +12,7 @@ Web testing application
 - [[Burp Macro]]
 - [[Bambda]]
 - [[BCheck]]
+- [[Burp Collaborator]]
 # Guides
 - [[Burp Suite Configure Scope]]
 - [[Burp Suite Cookie Entropy]]
