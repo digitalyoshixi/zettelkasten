@@ -1,6 +1,8 @@
 ---
 tags:
   - internet_culture
+aliases:
+  - msft
 ---
 MICROSOFT IS FUCKIN EVIL!!
 
