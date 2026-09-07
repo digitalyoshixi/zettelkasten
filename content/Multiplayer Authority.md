@@ -11,5 +11,5 @@ Client will send these statuses to peers or server and will be trusted.
 extends Node
 
 func _enter_tree() -> void:
-	set_multiplayer_authority(1) # trust all of client 1's  client
+	set_multiplayer_authority(2) //  trust all of client 2's messages to control this
 ```

@@ -3,7 +3,7 @@ tags:
   - programming
   - godot
 ---
-[[Godot Nodes]] that can be saved to disc. Stores data and code.
+[[Godot Node]] that can be saved to disc. Stores data and code.
 Requires a [[GDScript]] definition and `.tres` containers.
 # Example
 ### `entity_resource.gd`

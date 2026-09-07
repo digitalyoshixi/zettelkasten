@@ -9,7 +9,7 @@ Handles physics, path finding, networks
 sudo pacman -S godot
 ```
 # Concepts
-- [[Godot Nodes]]
+- [[Godot Node]]
 - [[Godot Resource]]
 - [[Godot Project Structure]]
 - [[Godot Scenes]]
@@ -28,3 +28,4 @@ sudo pacman -S godot
 - [[Godot State Machine]]
 - [[Godot Pathfinding]]
 - [[Godot ENetMultiplayer]]
+- [[Godot Spawn Multiple Instances]]
