@@ -11,6 +11,7 @@ An attack that involves exploiting web servers that take user parameters and sen
 - `&&` run another command if first command works
 - `||` run another command if first command fails
 - `$(cmd)` [[Subshell]]
+- `?` acts as a wildcard for a single character
 # Useful Commands
 ### Linux
 - `whoami`
@@ -24,3 +25,5 @@ An attack that involves exploiting web servers that take user parameters and sen
 - `ipconfig /all`
 - `netstat -an`
 - `tasklist`
+# Writeups
+- https://ctftime.org/writeup/40900

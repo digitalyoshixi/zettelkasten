@@ -4,6 +4,7 @@ tags:
 aliases:
   - C#
   - C Sharp
+  - CSharp
 ---
 A [[Object Oriented Programming|OOP]] language created by [[Microsoft]] that runs on [[dot NET|.NET]].
 # Boilerplate
