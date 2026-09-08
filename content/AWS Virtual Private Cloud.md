@@ -22,3 +22,4 @@ A private cloud on [[Amazon Web Services|AWS]]' platform.
 - [[Amazon VPC NACLs]]
 - [[Amazon VPC Security Groups]]
 - [[Amazon NAT Gateway]]
+- [[Amazon Bastion Host]]
