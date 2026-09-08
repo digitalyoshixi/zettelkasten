@@ -21,3 +21,4 @@ A private cloud on [[Amazon Web Services|AWS]]' platform.
 - [[Route Table]]
 - [[Amazon VPC NACLs]]
 - [[Amazon VPC Security Groups]]
+- [[Amazon NAT Gateway]]
