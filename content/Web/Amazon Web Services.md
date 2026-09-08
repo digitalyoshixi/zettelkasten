@@ -27,6 +27,7 @@ A cloud platform that provides:
 - [[AWS Lambda]]
 - [[AWS Serverless Repo]]
 ### Private Cloud
+- [[AWS Virtual Private Cloud]]
 - [[AWS Outposts]]
 - [[AWS Snow]]
 ### [[Docker]] Containers
