@@ -34,3 +34,11 @@ Get-DomainUser
 ```
 Get-DomainUser <username> -Properties dnshostname
 ```
+### Get Groups User is a part of
+```
+Get-DomainGroup MemberIdentity <username>
+```
+### Getting All Computers User has Local Admin Access to
+```
+Find-LocalAdminAccess
+```
