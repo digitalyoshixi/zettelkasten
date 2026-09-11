@@ -11,7 +11,7 @@ Configured with two files:
 kubectl get nodepool -o yaml
 ```
 # Concepts
-- [[Karpenter Namespace]]
+- [[Kubernetes Namespace]]
 - [[Karpenter Nodepool]]
 	- [[Karpenter Taint]]
 	- [[Karpenter Toleration]]
