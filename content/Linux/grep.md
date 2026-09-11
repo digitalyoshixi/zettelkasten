@@ -12,4 +12,6 @@ Search for a string and dont care about case
 # `grep -B3 -A3 "string"
 Search for string and also include 3 lines before, 3 lines after
 # `grep -oP "regex"`
-Returns all matches for a give [[Regular Expression|Regex]].
+Returns all matches for a given [[Regular Expression|Regex]].
+# `grep -E "regex"`
+Returns matches for given regex pattern
