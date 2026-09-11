@@ -82,3 +82,4 @@ banner:
 - Live code patching by exposing every line as a server that evaluates in its own context (ultimate runtime [[Reflection]])
 - See everything through an AI re-rendered filter, meta ai glasses, turn images through chatGPT to get a fake reality "computer show me this guys balls"
 - Put [[Simulated Brain]] of fly into a physical fly bot
+- Real time video editing AI, stream is ahead by 10 seconds, robot adds vine booms and zoom ins and more stuff, removes uhms, ahhs, etc
