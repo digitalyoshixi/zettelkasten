@@ -2,6 +2,9 @@
 tags:
   - security
 ---
+# Checker
+- A site that issues a request to the URL given by the referer, no good referer header, for analytics purposes and such, OAST attacks
+- Part of SSRF attacks
 # Truster
 - SSRF with [[SSRF Localhost Bypass Technique]]
 - To OS command injection
