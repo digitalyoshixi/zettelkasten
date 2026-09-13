@@ -2,6 +2,11 @@
 tags:
   - security
 ---
+# URL Shortener
+- A url shortening web app with embedded iframes to view the site you shortened
+# Session Established
+- A challenge where you compromise the initial TLS connection to inject your own messages in it when talking to the server
+- Game hacking
 # Checker
 - A site that issues a request to the URL given by the referer, no good referer header, for analytics purposes and such, OAST attacks
 - Part of SSRF attacks
