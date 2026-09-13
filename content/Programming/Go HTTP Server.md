@@ -2,6 +2,8 @@
 tags:
   - go
   - programming
+aliases:
+  - Go net/http
 ---
 # Deps
 ```
@@ -9,6 +11,7 @@ go get net/http
 ```
 # Concepts
 - [[Golang HTTP Error]]
+- [[Golang ServeMux]]
 # Boilerplate Code
 ```go
 package main

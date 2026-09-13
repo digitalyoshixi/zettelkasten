@@ -10,6 +10,7 @@ A high-performance language designed to be used for a website's backend.
 # Concepts
 - [[Go Functions]]
 - [[Go Variables]]
+- [[Go Pointers]]
 - [[Go Constants]]
 - [[Go Datatypes]]
 - [[Go Arrays]]
@@ -32,6 +33,7 @@ A high-performance language designed to be used for a website's backend.
 - [[Go OS]]
 - [[Garble]]
 - [[Go Export]]
+- [[Go Mutex]]
 # Guides
 - [[Go Read File]]
 - [[Go HTTP Server]]
