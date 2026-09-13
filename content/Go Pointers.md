@@ -3,11 +3,8 @@ tags:
   - programming
   - go
 ---
-# Getting Address
 ```go
-var af := 2
-var af_addr := &af
-```
-# Dereferencing
-```
+var af int = 2
+var af_addr *int = &af
+*af_addr = 4 // derefernecing
 ```

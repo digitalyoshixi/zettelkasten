@@ -39,6 +39,18 @@ fmt.Println(job.title)
 ```
 # Struct Pointers
 ```go
-employeePtr := &employee1
-employeePtr.age
+func (e *Employee) updateName(newName string) {
+	e.name = newName
+}
+
+employee1.updateNmae("daniel")
 ```
+# Struct Tags
+```go
+type Employee struct {
+	Name string `json:"name"`,
+	age int `json:"age"`,
+	isRemote bool `json:"isRemote"`
+}
+```
+- Some tags for easier [[Go JSON]] serialization
