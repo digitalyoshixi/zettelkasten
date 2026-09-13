@@ -34,6 +34,7 @@ Then proceed to [[Github|Github Signin]]
 - [[git diff]]
 - [[git remote]]
 - [[git submodule]]
+- [[git reset]]
 # Guides
 - [[git Change Upstream URL]]
 - [[git Commit With Revised Gitignore]]
