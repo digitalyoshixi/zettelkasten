@@ -25,7 +25,6 @@ A high-performance language designed to be used for a website's backend.
 - [[Go For Loop]]
 - [[Go Struct]]
 - [[Go Map]]
-- [[Go HTTP Server]]
 - [[Go JSON]]
 - [[Go CORS]]
 - [[Goroutine]]
@@ -35,6 +34,7 @@ A high-performance language designed to be used for a website's backend.
 - [[Go Export]]
 # Guides
 - [[Go Read File]]
+- [[Go HTTP Server]]
 # Initialize Module
 ```
 go mod init mymodule
@@ -44,6 +44,7 @@ go mod init mymodule
 package main
 import (
 	"fmt"
+	"encoding/json"
 )
 
 func main(){
