@@ -2,9 +2,6 @@
 tags:
   - cpp
 ---
-# Table of Contents
-```table-of-contents
-```
 # Conditional Compilation
 Allows fine-tuning over what to compile and what not.
 Utilizes:

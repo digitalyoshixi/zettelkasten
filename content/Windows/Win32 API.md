@@ -47,5 +47,7 @@ http://www.winprog.org/tutorial/start.html
 - [[GetLastError()]]
 - [[OpenProcess()]]
 - [[OpenThread()]]
+- [[VirtualFreeEx()]]
+- [[RegOpenKeyExA()]]
 # Guides
 - https://github.com/7etsuo/windows-api-function-cheatsheets
