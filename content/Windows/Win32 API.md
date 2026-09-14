@@ -49,5 +49,8 @@ http://www.winprog.org/tutorial/start.html
 - [[OpenThread()]]
 - [[VirtualFreeEx()]]
 - [[RegOpenKeyExA()]]
+- [[RegSetValueExA()]]
+- [[RegCloseKey()]]
+- [[RegGetValueA()]]
 # Guides
 - https://github.com/7etsuo/windows-api-function-cheatsheets

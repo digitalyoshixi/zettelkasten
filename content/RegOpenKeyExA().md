@@ -13,3 +13,5 @@ LSTATUS RegOpenKeyExA(
   [out]          PHKEY  phkResult 	    // A pointer to a variable that receives a handle to the opened key
 );
 ```
+- Fourth parameter indicates the [[Registry Key|Registry Key Access Rights]]
+- Return value is a windows error code status (https://learn.microsoft.com/en-us/windows/win32/debug/system-error-codes)

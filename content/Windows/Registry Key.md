@@ -3,6 +3,7 @@ tags:
   - windows
 aliases:
   - Registry Subkey
+  - Registry Key Access Rights
 ---
 These are specific properties relegated to specific programs or features.
 Root keys are the keys that are the first node. Subkeys branch off of root keys.
@@ -16,3 +17,5 @@ Every key may branch off to other subkeys or values.
 - [[Ntuser]]
 - `Control Panel` located under `HKEY_CURRENT_USER\Control Panel`
 - `Run` located under `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run`
+# Access Rights
+- https://learn.microsoft.com/en-us/windows/win32/sysinfo/registry-key-security-and-access-rights
