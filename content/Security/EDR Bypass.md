@@ -15,6 +15,6 @@ The tools and techniques to bypass [[Endpoint Detection and Response|EDR]]
 ### Loader Bypass
 - [[Binary Obfuscation]]
 ### Unsigned Binary Bypass
-- [[DLL Injection]]
+- [[Remote DLL Injection]]
 - [[COM Hijacking]]
 - [[LOLBIN]]

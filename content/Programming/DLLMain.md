@@ -3,6 +3,7 @@ tags:
   - programming
 ---
 This is the entry point of a [[Dynamic Linked Library|DLL]].
+Should be only used for initialization. Dont make this code bloated as the [[DLL Loader Lock]] is temporary.
 Can be ran with 4 cases:
 - `DLL_PROCESS_ATTACH` - A process is loading the DLL.
 - `DLL_THREAD_ATTACH` - A process is creating a new thread.
