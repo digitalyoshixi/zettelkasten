@@ -12,9 +12,8 @@ It is part of the [[Browser Origin Policy]].
 2. Server adds an access control origin header to the top of the response
    ![[Cross Origin Resource Sharing-20241013211520113.webp]]
    It must match the origin in the request, or it can be a wildcard `*` to allow sharing with any origin
-
-If the origins in the response and the request are mismatched, then the browser will respond with a CORS error
-![[Cross Origin Resource Sharing-20241013211820665.webp]]
+# CORS Testing
+1. Change [[Origin]] header to an arbitrary value or `True`
 # Guides
 - [[Allowing CORS in ExpressJS]]
 # Auxilliary Concepts
