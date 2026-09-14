@@ -2,6 +2,8 @@
 tags:
   - security
   - windows
+aliases:
+  - LoadLibraryW()
 ---
 Used for [[Dynamic Linking]] when the DLL is not loaded into memory already.
 ```c

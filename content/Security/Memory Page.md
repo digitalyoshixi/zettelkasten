@@ -8,6 +8,8 @@ aliases:
   - PAGE_EXECUTE_READWRITE
   - PAGE_READONLY
   - Page
+  - PAGE_READWRITE
+  - PAGE_EXECUTE_READ
 ---
 A 4KB segment of memory.
 Often talked about in context to [[Linux Virtual Memory Space]]

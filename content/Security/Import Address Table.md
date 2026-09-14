@@ -14,3 +14,7 @@ And when its to be called, the address is referenced
 # IAT Write Protection
 If an attacker rewrites the IAT to point to their malicious DLL, well, youre fucked!
 That's why its write protected
+# Suspicious IAT Combinations
+- VirtualAllocEx + WriteProcessMemory + CreateRemoteThread ([[Remote Process Injection]])
+# IAT Bypassing
+- [[API Hashing]]

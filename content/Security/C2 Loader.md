@@ -3,6 +3,8 @@ tags:
   - malware
 aliases:
   - Shellcode Loader
+  - Shellcode Injection
+cssclasses:
 ---
 A tool to load [[Shellcode]] from a file and execute it.
 # Process
