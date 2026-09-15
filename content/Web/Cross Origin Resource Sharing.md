@@ -22,5 +22,6 @@ It is part of the [[Browser Origin Policy]].
 # Guides
 - [[Allowing CORS in ExpressJS]]
 - [[CORS Access-Control-Allow-Credentials Exploit Payload]]
+- [[CORS Access-Control-Allow-Origin Null Exploit Payload]]
 # Auxilliary Concepts
 - [[CORS Preflight]]

@@ -12,4 +12,4 @@ A pairing of the [[Website]] and the subdomain and port.
 	- Cross-origin redirects
 	- Requests from serialized data
 	- Request using the `file:` protocol
-	- Sandboxed cross-origin requests
+	- Sandboxed cross-origin requests ([[IFrame]])
