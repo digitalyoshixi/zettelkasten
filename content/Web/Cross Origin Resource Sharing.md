@@ -18,6 +18,7 @@ It is part of the [[Browser Origin Policy]].
 	1. Whitelisted: `normalwebsite.com`
 	2. Try `hackernormalwebsite.com`
 	3. Try `normalwebsite.com.hackerwebsite.com`
+3. Change [[Origin]] header to `null`
 # Guides
 - [[Allowing CORS in ExpressJS]]
 - [[CORS Access-Control-Allow-Credentials Exploit Payload]]
