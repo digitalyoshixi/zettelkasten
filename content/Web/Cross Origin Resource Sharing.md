@@ -14,7 +14,12 @@ It is part of the [[Browser Origin Policy]].
    It must match the origin in the request, or it can be a wildcard `*` to allow sharing with any origin
 # CORS Testing
 1. Change [[Origin]] header to an arbitrary value or `True`
+2. If there are any known origins (i.e the site itself), try modifying origin header to modify it to find regex issues
+	1. Whitelisted: `normalwebsite.com`
+	2. Try `hackernormalwebsite.com`
+	3. Try `normalwebsite.com.hackerwebsite.com`
 # Guides
 - [[Allowing CORS in ExpressJS]]
+- [[CORS Access-Control-Allow-Credentials Exploit Payload]]
 # Auxilliary Concepts
 - [[CORS Preflight]]
