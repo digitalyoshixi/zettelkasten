@@ -37,6 +37,7 @@ A high-performance language designed to be used for a website's backend.
 # Guides
 - [[Go Read File]]
 - [[Go HTTP Server]]
+- [[Go HTML Templating]]
 # Initialize Module
 ```
 go mod init mymodule
