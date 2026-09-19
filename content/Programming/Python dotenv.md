@@ -6,7 +6,9 @@ aliases:
   - Python Get env
 ---
 # Installation
-`pip install python-dotenv`
+```
+pip install python-dotenv
+```
 # Loading Environmental Variables
 ```python
 # app.py
