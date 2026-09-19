@@ -9,6 +9,10 @@ A usage of [[FastAPI]] for [[Model Context Protocol|MCP Server]].
 ```
 pip install "mcp[cli]" httpx
 ```
+# Installation with UV
+```
+uv add "mcp[cli]" httpx
+```
 # Boilerplate
 ```python
 import httpx
