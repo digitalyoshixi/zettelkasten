@@ -11,3 +11,4 @@ aliases:
 - [[Godot C-Sharp Export]]
 - [[Godot C-Sharp Connecting Events]]
 - [[Godot C-Sharp Assert]]
+- [[Godot C-Sharp Autoload]]
