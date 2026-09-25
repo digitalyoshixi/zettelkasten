@@ -15,3 +15,7 @@ responder -I networkinterface
 responder -I eth0
 ```
 You can find these interface with `ip link` or [[ifconfig]]
+# Responder Config
+```
+/etc/responder/Responder.conf
+```

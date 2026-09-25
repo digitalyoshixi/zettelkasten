@@ -42,3 +42,7 @@ Get-DomainGroup MemberIdentity <username>
 ```
 Find-LocalAdminAccess
 ```
+### Getting All [[Group Policy Object|GPO]]
+```
+GetDomainGPO -Properties displayName,distinguishedName
+```
