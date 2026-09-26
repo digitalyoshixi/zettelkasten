@@ -18,8 +18,32 @@ func homeHandler(w http.ResponseWriter, r *http.Request) {
 }
 ```
 # Nested Templates
+Example HTML:
+```html
+{{template "header"}}
+Hello world! my name is {{.name}}
+{{template "footer"}}
+```
+
+```html
+{{define "header"}}
+<header>
+	<a href="/"> Home </a>
+	<a href="/about"> About </a>
+	<a href="/contact"> Contact </a>
+</header>
+{{end}}
+
+{{define "footer"}}
+<p>
+Copyright 2026. All rights Reserved.
+</p>
+```
+Example Go:
+
 ```go
-tmpl := template.Must(template.New("parent").Parse(parent))
-tmpl = template.Must(tmpl.Parse(child))
-tmpl.ExecuteTemplate(os.Stdout, "parent", data)
+tmpl, _ := template.ParseFiles("hello.html", "common.html")
+templ.Execute(os.Stdout, map[string]string{
+"name": "bokwon",
+})
 ```
