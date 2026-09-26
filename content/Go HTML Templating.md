@@ -47,3 +47,28 @@ templ.Execute(os.Stdout, map[string]string{
 "name": "bokwon",
 })
 ```
+# Range
+```html
+{{range .Users}}
+	<p>User: {{ . }}</p>
+	
+	<p>Firstname: {{ .FirstName }} </p>
+	<p>Today is {{ $.Today }}<p>
+{{end}}
+```
+
+```go
+{
+	"Users" : [
+		{
+			"FirstName": "John",
+			"LastName": "John",
+		},
+		{
+			"FirstName": "Chocolate",
+			"LastName": "Daniel",
+		}	
+	],
+	"Today" : "Thursday"
+}
+```
