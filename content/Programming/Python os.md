@@ -7,3 +7,4 @@ A library that allows reading and modification of OS.
 - [[Python os Popen]]
 # Guides
 - [[Python OS ls]]
+- [[Python os pwd]]

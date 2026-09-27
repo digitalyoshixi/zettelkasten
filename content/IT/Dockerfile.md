@@ -8,3 +8,7 @@ These are the scripts that setup and manage several containers. They can be shar
 An example configuration looks like this:
 ![[Docker-20240702022403622.webp]]
 FROM ubuntu:19.10 is a signal to docker to install a docker image from docker's servers. You can only do this if you have your **verified** docker account as a environment variable
+# Boilerplate
+```
+
+```
