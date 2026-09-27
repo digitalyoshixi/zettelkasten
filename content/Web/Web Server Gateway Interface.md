@@ -6,7 +6,8 @@ aliases:
   - ASGI
 ---
 This is a web server interface for python apps. Inspired by [[Common Gateway Interface|CGI]]
-It forwards requests to WSGI-compliant functions written in python.
+It converts [[Rest API|HTTP Request]] into python objects that work with WSGI-compliant functions written in python.
+![[Web Server Gateway Interface-20260927191134650.webp]]
 # WSGI Compliant Function
 ```python
 def app(env, start_response):
