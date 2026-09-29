@@ -10,7 +10,7 @@ testssl https://mysite.com
 ```
 ### Scan From File
 ```
-testssl --file scope_ips.txt --jsonfile test_ssl_out.json
+testssl --file scope_ips.txt --jsonfile test_ssl_out.json | tee test_ssl_out.txt
 ```
 Grep for:
 - `(self signed)`
