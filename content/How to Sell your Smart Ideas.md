@@ -1,0 +1,48 @@
+---
+tags:
+  - books
+---
+A talk at [[Toronto Area Security Klatch|TASK]].
+# Notes
+- Smart people assume everyone knows what they are thinking
+- Ideas are a flower. If you give them a flower, its probably going to have shape
+	- Analogy
+	- Connection
+	- Setup
+	- Value
+	- State
+	- Clarity (the flower center)
+- Clarity:
+	- How to explain yourself and what they do
+	- First people explain what they do, then how they can help
+	- Elevator pitch explains what you do and how you can help other people
+	- When you talk to someone you translate terms to their terms they understand better
+	- Explain cyber architecture as a house, windows as ports, firewalls as locks, alarms as monitoring tools, DDOS as traffic jam in driveway
+- At the end of the day people buy from people, in order to do this, we need o connect with the person, telemarketting is hard but if they take you to lunch, you slowly develop a relationship and want to buy from them
+- Connections start first from genuine curiosity, if you meet your team, do you care about what they do?
+- Curiosity leads to active listening
+- Soft skills are not leadership skills, they are not communication skills, they are a mix
+- AI does not have soft skill, they have empathy, but soft skills are not there
+- People have different listening styles (audio, visual, kinesthetic)
+- It takes time to get comfortable with your own voice, its related to physics, takes 6 months
+- More interesting if you have good voice inflection
+- Fear vs excitement, they are very close to each other. ask for a raise, 
+	- manager says no -> fear
+	- manager says yes -> excitement
+- You have multiple threads (or browser tabs) in your head all fighting for control 
+- 12-20 times per minute is regular breathing rate, 30 or 40 when excited, if you slow it down, then it matches your heart rate
+- Box breathing
+	- 4s inhale
+	- 4s hold
+	- 4s exhale
+	- 4s hold
+- You slow down to 4 times a minute
+- In toastmasters, instead of uhs and ahs, you just pause
+- Toastmasters does not explain how to achieve this, you have to slow down so the watch dog in your brain can slowly detect the fear rewards you use
+- You can go back to a recording, record yourself, find all uhms and ahhs
+- Instead of saying uhh when trying to understand a question, take a deep breath instead, always breath instead of saying uhh
+- For virtual background, you have have something in your background, these are hooks. Like a guitar in the background. Some background picture like a ferarri, keep something in your background for people to ask you about
+- Ask people how you can best explain to them. Guidance can help so much
+- Cyber resilience talk at sector https://cyber-resilience.ca
+- Find their team, maybe they are r&d, talk about buffer overflows, find their hobbies, explain it to them in their hobbyist
+- Security is like rocket ship craft, inspect every screw since every small part can affect the launch

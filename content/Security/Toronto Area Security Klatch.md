@@ -21,3 +21,5 @@ Sector discount `TASK`
 - [[Guide to Security Leadership]]
 - [[Business Resilience In Action - Community Program Pitfalls to Avoid]]
 - [[Preparing TLS and Certificates for the Post-Quantum Era]]
+- [[How to Sell your Smart Ideas]]
+- [[Recent Advances in AI Automated Vulnerability Research]]
