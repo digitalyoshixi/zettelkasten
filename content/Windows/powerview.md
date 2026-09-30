@@ -46,3 +46,15 @@ Find-LocalAdminAccess
 ```
 GetDomainGPO -Properties displayName,distinguishedName
 ```
+### VIew DNS Zones
+```
+Get-DomainDNSZone
+```
+### Add DNS Record
+```
+Add-DomainDNSRecord -ZoneName "local.catbird.net" -RecordName "danielrecord" -RecordAddress "10.0.0.55"
+```
+### Get DNS Record
+```
+Get-DomainDNSRecord -ZoneName "local.catbird.net" -Identity "danielrecord"
+```
