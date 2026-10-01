@@ -16,6 +16,11 @@ Relies on [[Transmission Control Protocol|TCP]] and [[Internet Protocol|IP]] for
 - Modern systems use SMB on `tcp/445`
 - Older systems use the [[NetBIOS|NetBIOS]] protocol
 Uses [[New Technology LAN Manager|NTLM]] for authentication.
+# Useless Shares
+- `IPC$`
+- `NETLOGON`
+- `SYSVOL`
+- `PRINT$`
 # Protocol
 1. [[NetBIOS]] session is created between server and cient
 2. Server and client negotiate SMB protocol version
