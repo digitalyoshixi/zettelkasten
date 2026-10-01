@@ -19,8 +19,9 @@ Uses [[New Technology LAN Manager|NTLM]] for authentication.
 # Useless Shares
 - `IPC$`
 - `NETLOGON`
-- `SYSVOL`
 - `PRINT$`
+# Useful Shares
+- `SYSVOL`
 # Protocol
 1. [[NetBIOS]] session is created between server and cient
 2. Server and client negotiate SMB protocol version
