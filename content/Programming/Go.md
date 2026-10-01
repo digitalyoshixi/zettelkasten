@@ -43,6 +43,10 @@ A high-performance language designed to be used for a website's backend.
 ```
 go mod init mymodule
 ```
+# Adding Module
+```
+go get filepath
+```
 # Boilerplate
 ```go
 package main

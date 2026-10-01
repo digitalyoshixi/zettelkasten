@@ -6,7 +6,7 @@ A method of establishing a [[Reverse Shell]] in reverse order often used to get 
 # Setup
 From firewalled host:
 ```
-ssh -f -N -T -R22222:localhost:22 yourpublichost.example.com
+ssh -f -N -T -R 22222:localhost:22 yourpublichost.example.com
 ```
 From host on [[Screened Subnet|DMZ]]:
 ```

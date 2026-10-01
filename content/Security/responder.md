@@ -12,6 +12,10 @@ responder -I networkinterface
 - Relay specific ip
 # Example
 ```
-responder -I eth0
+responder -I eth0 -v
 ```
 You can find these interface with `ip link` or [[ifconfig]]
+# Responder Config
+```
+/etc/responder/Responder.conf
+```

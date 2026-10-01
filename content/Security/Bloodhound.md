@@ -14,6 +14,7 @@ docker compose up
 - Note down the bloodhound admin password
 - Go to http://127.0.0.1:8080
 - `admin : <PASSWORD_YOU_COPIED>`
+- Go to http://127.0.0.1:7474 for [[Neo4J]]
 # Ingestors
 - [[bloodhound-python]]
 - [[rusthound]]

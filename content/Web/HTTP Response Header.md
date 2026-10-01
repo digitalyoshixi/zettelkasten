@@ -14,3 +14,4 @@ curl -s -D- -I http://mysite.com
 - [[Cross-Origin-Embedder-Policy]]
 - [[Cross-Origin-Opener-Policy]]
 - [[Entity Tag]]
+- [[Content-Disposition]]
