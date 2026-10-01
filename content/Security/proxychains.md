@@ -10,8 +10,9 @@ Add the lines:
 [ProxyList]
 socks5 127.0.0.1 1080
 ```
+If you want DNS to be proxied, uncomment `proxy_dns`
 # Usage
 
 ```
-
+proxychains4 sudo apt update
 ```
