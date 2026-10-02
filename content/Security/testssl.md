@@ -18,3 +18,7 @@ Grep for:
 - `TLS 1`
 - `Grade capped to M`
 - `Grade capped to T`
+### Quick
+```
+testssl -e -s -p -S --socket-timeout 5 --openssl-timeout 5
+```
