@@ -34,6 +34,7 @@ A high-performance language designed to be used for a website's backend.
 - [[Garble]]
 - [[Go Export]]
 - [[Go Mutex]]
+- [[Go iota]]
 # Guides
 - [[Go Read File]]
 - [[Go HTTP Server]]

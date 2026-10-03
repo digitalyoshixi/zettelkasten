@@ -47,6 +47,14 @@ templ.Execute(os.Stdout, map[string]string{
 "name": "bokwon",
 })
 ```
+# Conditionals
+```go
+{{ if .User.IsAuthorized }}
+	<p> Welcome {{ .User.Name }} </p>
+{{ else }}
+	<p> You cant see this </p>
+{{ end }}
+```
 # Range
 ```html
 {{range .Users}}
@@ -72,3 +80,5 @@ templ.Execute(os.Stdout, map[string]string{
 	"Today" : "Thursday"
 }
 ```
+# Guides
+- https://www.youtube.com/watch?v=k5wJv4XO7a0&t=963s
