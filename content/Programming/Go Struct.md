@@ -37,13 +37,13 @@ job := struct {
 
 fmt.Println(job.title)
 ```
-# Struct Pointers
+# Struct Pointers (Can be Used For Methods)
 ```go
 func (e *Employee) updateName(newName string) {
 	e.name = newName
 }
 
-employee1.updateNmae("daniel")
+employee1.updateName("daniel")
 ```
 # Struct Tags
 ```go

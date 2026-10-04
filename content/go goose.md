@@ -16,7 +16,7 @@ Example file:
 -- +goose Up
 CREATE TABLE users {
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    username VARCHAR(255) NOT NULL,
+    username VARCHAR(255) NOT NULL UNIQUE,
     pwd VARCHAR(255) NOT NULL,
     createdAt DATETIME NOT NULL
 }
@@ -26,5 +26,10 @@ DROP TABLE users;
 ```
 # Create Database From Table
 ```
-goose -dir=assets/migrations sqlite3 database.db
+goose -dir=assets/migrations sqlite3 database.db up
+```
+# Update Database From Table
+- Previous data is removed
+```
+goose -dir=assets/migrations sqlite3 database.db redo
 ```
