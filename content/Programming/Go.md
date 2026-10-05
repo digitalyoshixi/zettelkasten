@@ -41,6 +41,7 @@ A high-performance language designed to be used for a website's backend.
 - [[Go HTML Templating]]
 - [[Go Base64 Encode String]]
 - [[Go Open SQL Database]]
+- [[Go bcrypt Hashing]]
 # Initialize Module
 ```
 go mod init mymodule
