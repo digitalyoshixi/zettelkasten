@@ -15,6 +15,5 @@ import (
 func main() {
 	input := "Hello, World!"
 	encoded := base64.StdEncoding.EncodeToString([]byte(input))
-	fmt.Println(encoded) 
-}
+	fmt.Println(encoded)  }
 ```
