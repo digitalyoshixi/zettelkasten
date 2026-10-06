@@ -28,8 +28,9 @@ DROP TABLE users;
 ```
 goose -dir=assets/migrations sqlite3 database.db up
 ```
-# Update Database From Table
+# Hard Reset Database
 - Previous data is removed
 ```
-goose -dir=assets/migrations sqlite3 database.db redo
+goose -dir=assets/migrations sqlite3 database.db reset
+goose -dir=assets/migrations sqlite3 database.db up
 ```
