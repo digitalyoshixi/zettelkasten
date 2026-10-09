@@ -21,3 +21,7 @@ nxc ldap $DC -u $USER -p $PASSWORD
 ```
 nxc smb $DC -u $USER -p $PASSWORD
 ```
+### Read MSSQL Data
+```
+nxc mssql $DATABASE -u $USER -p $USERPASS
+```
