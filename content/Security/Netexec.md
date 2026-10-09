@@ -25,3 +25,7 @@ nxc smb $DC -u $USER -p $PASSWORD
 ```
 nxc mssql $DATABASE -u $USER -p $USERPASS
 ```
+# Checking [[PetitPotam]]
+```
+nxc smb $IP -M coerce_plus -o METHOD=PetitPotam
+```
