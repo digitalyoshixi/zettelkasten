@@ -1,0 +1,4 @@
+# Why Want to Attend
+I attended the last one in 2025 and it was really fun. I've got a bit more experience with forensics tooling and these types of blue-team focused events are hard to come by so I'd really like to participate.
+# Challenging Problem
+Many interesting problems I find are in red team engagements on thick client applications. One was written in Java webstart that couldn't be debugged like a traditional application since it lives in the browesr. I had to set up a system proxy to run through burp suite. Most requests are sent as serialized messages that have to be decoded and re-created with knowledge of the original jars. I look at open source projects, see what they do, make mini scripts that piece together some of their code, and then make a burp plugin to generalize these monotonous tasks.
