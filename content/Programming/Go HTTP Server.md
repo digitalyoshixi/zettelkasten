@@ -11,6 +11,7 @@ go get net/http
 ```
 # Concepts
 - [[Golang HTTP Error]]
+- [[Golang HTTP JSON Request]]
 - [[Golang ServeMux]]
 # Boilerplate Code
 ```go
