@@ -14,12 +14,12 @@ goose -dir=assets/migrations create mytablename sql
 Example file:
 ```sql
 -- +goose Up
-CREATE TABLE users {
+CREATE TABLE users (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     username VARCHAR(255) NOT NULL UNIQUE,
     pwd VARCHAR(255) NOT NULL,
     createdAt DATETIME NOT NULL
-}
+);
 
 -- +goose Down
 DROP TABLE users;
