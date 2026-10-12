@@ -25,6 +25,7 @@ x >= y // geq
 x <= y // leq
 x && y // logical and
 x || y // logical or
+myvar ??= 2 // assign only if null
 ```
 # Ternary
 ```cs
