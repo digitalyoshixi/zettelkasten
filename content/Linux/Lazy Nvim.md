@@ -16,7 +16,8 @@ After installing, you will have:
 1. `rm ~/.config/nvim`
 2. `rm rf ~/.local/state/nvim`
 3. `rm rf ~/.local/share/nvim`
-
+# Adding Plugins
+1. Create a file `lua/`
 # Plugins
 - [[Vimtex]]
 - [[Luasnips]]
