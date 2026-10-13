@@ -20,5 +20,5 @@ Grep for:
 - `Grade capped to T`
 ### Quick
 ```
-testssl -e -s -p -S --socket-timeout 5 --openssl-timeout 5
+testssl -e -s -p -S --connect-timeout 5 --openssl-timeout 5
 ```

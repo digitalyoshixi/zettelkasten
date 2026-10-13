@@ -19,3 +19,7 @@ nmap -p 3389 --script rdp-enum-encryption 192.168.1.186
 ```
 nmap -sS -T4 -F -iL httpservers.txt -oN nmap_res.txt
 ```
+# SNMP Brute
+```
+nmap -iL scope_snmp.txt -sU --script snmp-brute
+```
