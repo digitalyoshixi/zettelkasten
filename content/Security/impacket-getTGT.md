@@ -5,4 +5,8 @@ tags:
 Used to get the [[Ticket Granting Ticket|TGT]] of kerberos.
 ```
 getTGT.py $DOMAIN/$USER:$USERPASS -dc-ip $DCIP
+``%%
+Then, set :
 ```
+export KRB5CCNAME=/path/to/ticket.ccache
+```%%
