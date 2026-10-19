@@ -12,6 +12,11 @@ python -m venv venv
 source venv/bin/activate
 pip install .
 ```
+# Ldap Filters
+```
+Get-DomainGroup -LDAPFilter "(objectSid=S-1-5-21-539254891-1587228472-219755335-519)"
+```
+- Gets whichever entry has objectSID set to that
 # Connecting to LDAP Queries
 ```
 powerview $USER:$PASSWORD@$DC
@@ -21,7 +26,7 @@ powerview $USER:$PASSWORD@$DC
 powerview $USER:$PASSWORD@$DC --web
 ```
 Default port 5000
-# Commands
+# LDAP
 ### Get All Computers
 ```
 Get-DomainComputer
@@ -46,6 +51,7 @@ Find-LocalAdminAccess
 ```
 GetDomainGPO -Properties displayName,distinguishedName
 ```
+# DNS
 ### VIew DNS Zones
 ```
 Get-DomainDNSZone
@@ -57,4 +63,13 @@ Add-DomainDNSRecord -ZoneName "local.catbird.net" -RecordName "danielrecord" -Re
 ### Get DNS Record
 ```
 Get-DomainDNSRecord -ZoneName "local.catbird.net" -Identity "danielrecord"
+```
+# [[Active Directory Certificate Services|ADCS]]
+### Getting Certificate Servers
+```
+Get-DomainCA
+```
+### Getting Certificate Template
+```
+Get-DomainCATemplate -Identity 'SubCA'
 ```
