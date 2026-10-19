@@ -21,7 +21,7 @@ Get-DomainGroup -LDAPFilter "(objectSid=S-1-5-21-539254891-1587228472-219755335-
 ```
 powerview $USER:$PASSWORD@$DC
 ```
-# Connectign With WebUI
+# Connecting With WebUI
 ```
 powerview $USER:$PASSWORD@$DC --web
 ```
