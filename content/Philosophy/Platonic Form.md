@@ -12,3 +12,8 @@ A form is a blueprint of what should be.
 # Capturing Form
 Every individual has a different belief about what a concept is. These are just different views of the same form.
 The real form is created by the collection of all these views.
+# List of Forms
+- [[Equality]]
+- [[Beauty]]
+- [[Goodness]]
+- [[Size]]
