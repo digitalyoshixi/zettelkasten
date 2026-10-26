@@ -21,6 +21,10 @@ nxc ldap $DC -u $USER -p $PASSWORD
 ```
 nxc smb $DC -u $USER -p $PASSWORD
 ```
+### Enumerate SMB Shares
+```
+nxc smb scope_ips.txt -u $USER -p $PASSWORD --shares
+```
 ### Read MSSQL Data
 ```
 nxc mssql $DATABASE -u $USER -p $USERPASS
