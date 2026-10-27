@@ -24,5 +24,6 @@ mvn archetype:generate -DgroupId=cscb07 -DartifactId=lab4 -DarchetypeArtifactId=
 3. You can run `cd /target/classes` and then run the compiled classes
    ![[Maven-20250609135944522.webp]]
 4. Run `mvn test` to run each test file within the test folder, and get a test results output
+5. Run `mvn exec:java -Dexec.mainClass="myapp.App"` to run the app class.
 # Guides
 - [[VSCode Maven]]
