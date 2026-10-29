@@ -4,7 +4,20 @@ tags:
   - security
 ---
 A [[Burp Suite]] extension to improve the speed of requests with [[Burp Suite Intruder]].
-# Single Packet ATtack
+# Request Format
+- `%s` to be a replacement 
+# Sniper Attack
+```python
+def queueRequests(target, wordlists):
+    engine = RequestEngine(endpoint=target.endpoint)
+
+    for word in open('/usr/share/dict/words'):
+        engine.queue(target.req, word.rstrip())
+
+def handleResponse(req, interesting):
+    table.add(req)
+```
+# Single Packet Attack
 ```python
 def queueRequests(target, wordlists):
     engine = RequestEngine(endpoint=target.endpoint,
