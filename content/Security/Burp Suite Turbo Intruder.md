@@ -33,16 +33,22 @@ def handleResponse(req, interesting):
 ```
 # Single Packet Attack
 ```python
+import re
+
+# Find more example scripts at https://github.com/PortSwigger/turbo-intruder/blob/master/resources/examples/default.py
 def queueRequests(target, wordlists):
     engine = RequestEngine(endpoint=target.endpoint,
                             concurrentConnections=1,
                             engine=Engine.BURP2
                             )
-    
+
     # queue 20 requests in gate '1'
     for i in range(20):
         engine.queue(target.req, gate='1')
-    
+
     # send all requests in gate '1' in parallel
     engine.openGate('1')
+
+def handleResponse(req, interesting):
+    table.add(req)
 ```
