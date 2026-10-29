@@ -12,5 +12,5 @@ sudo apt install snaffler-ng
 ```
 # Usage
 ```
-snaffler-ng -u $USER -p $USERPASS -d domain.local
+snaffler-ng -u $USER -p $USERPASS -d domain.local --stealth | tee snaffler_out.txt
 ```

