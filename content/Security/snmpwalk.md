@@ -15,7 +15,8 @@ snmpwalk -v2c -c private <ip>
 ```
 # Check for Community String Permissions
 ```
-snmp-check <ip> -p 161 -c public -w
+snmp-check <ip> -p 161 -c public -w -v 1
+snmp-check <ip> -p 161 -c public -w -v 2c
 ```
 # Specific Objects
 ```
