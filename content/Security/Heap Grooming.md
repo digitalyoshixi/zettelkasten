@@ -1,6 +1,7 @@
 ---
 tags:
   - binary_exploitation
+  - security
 aliases:
   - Heap Feng Shui
 ---
