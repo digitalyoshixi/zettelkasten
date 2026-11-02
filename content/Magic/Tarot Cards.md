@@ -15,7 +15,7 @@ Cards that are used to [[Foresight|Fortell]] events.
 - [[Strength]]
 - [[The Hermit]]
 - [[The Wheel of Fortune]]
-- [[Justice]]
+- [[Magic/Justice]]
 - [[The Hanged Man]]
 - [[Death]]
 - [[Temperance]]
@@ -24,7 +24,7 @@ Cards that are used to [[Foresight|Fortell]] events.
 - [[The Star]]
 - [[The Moon]]
 - [[The Sun]]
-- [[Judgement]]
+- [[Magic/Judgement]]
 - [[The World]]
 # Minor Arcana
 ### Wands (What you are doing)
