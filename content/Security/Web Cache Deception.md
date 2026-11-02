@@ -4,6 +4,7 @@ tags:
   - security
 aliases:
   - Cache Deception
+  - Web Cache Poisoning
 ---
 Tricking a [[Cache Server]] into storing sensitive user data so that attackers can access it later.
 # Types
