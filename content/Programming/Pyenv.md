@@ -4,6 +4,10 @@ tags:
 ---
 A adoption of [[Docker]] to set local environments to use different python versions.
 # Installation
+### Debian
+```
+curl https://pyenv.run | bash
+```
 ### Arch
 1. `sudo pacman -S pyenv`
 2. Then `pyenv init`. follow the instructions
