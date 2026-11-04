@@ -21,3 +21,5 @@ GET /users/search?name=peter&publicProfile=true
 - Use query characters (`#`, `&`, `=`) and see if anything breaks
 	- `#` [[Fragment Identifier]] truncates the request (make sure to url encode this)
 	- `&` [[URL Query Parameter]] to add new parameters (make sure to url encode this)
+# Lab
+- https://portswigger.net/web-security/learning-paths/api-testing/api-testing-testing-for-server-side-parameter-pollution-in-the-query-string/api-testing/server-side-parameter-pollution/lab-exploiting-server-side-parameter-pollution-in-query-string#

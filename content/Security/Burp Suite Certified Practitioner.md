@@ -17,6 +17,9 @@ aliases:
 - [[Mass Assignment Vulnerability]]
 - [[HTTP Parameter Pollution]]
 - [[HTTP Parameter Pollution Same Parameter Trick]]
+- [[HTTP Parameter Pollution via Web Routes]]
+- [[HTTP Parameter Pollution via Backend JSON]]
+- [[Burp Suite Backslash Powered Scanner]]
 # Cache Exploitation
 - [[Path Mapping Cache Deception]]
 - [[Delimiter Cache Deception]]
