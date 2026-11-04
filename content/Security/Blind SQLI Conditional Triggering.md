@@ -16,3 +16,4 @@ tags:
 ' AND SUBSTRING((SELECT Password FROM Users WHERE Username = 'Administrator'), 1, 1) = 's
 ```
 - Indicates the first character of the password is equals the character `s`
+![[Blind SQLI Conditional Triggering-20261104025713865.webp|703]]

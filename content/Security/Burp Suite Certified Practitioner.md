@@ -5,6 +5,17 @@ tags:
 aliases:
   - BSCP
 ---
+# SQLI
+### Returned SQL
+- [[SQLI Comments]]
+- [[SQLI UNION Attack]]
+- [[SQLI Determining Number of Columns]]
+- [[SQLI Determining Column Data Type]]
+- [[SQLI Concatenation]]
+- [[SQLI Determining Database Type]]
+- [[SQLI View Tables]]
+### Blind SQL
+- [[Blind SQLI Conditional Triggering]]
 # API Testing
 - [[Common API Documentation Endpoints]]
 - [[JS Link Finder]]
