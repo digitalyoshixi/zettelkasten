@@ -5,6 +5,18 @@ tags:
 aliases:
   - BSCP
 ---
+# API Testing
+- [[Common API Documentation Endpoints]]
+- [[JS Link Finder]]
+- [[HTTP Verb Tampering]]
+- [[Content-Type Tampering]]
+- [[API Route Brute Force Discovery]]
+- [[Param Miner]]
+- [[Burp Content Discovery]]
+### Mass Assignment
+- [[Mass Assignment Vulnerability]]
+- [[HTTP Parameter Pollution]]
+- [[HTTP Parameter Pollution Same Parameter Trick]]
 # Cache Exploitation
 - [[Path Mapping Cache Deception]]
 - [[Delimiter Cache Deception]]
