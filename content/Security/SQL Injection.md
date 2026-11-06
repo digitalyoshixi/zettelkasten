@@ -31,3 +31,4 @@ Unable to see query results, but results change behavior of the site
 - [[Error Based SQLI]]
 - [[Verbose Error SQLI]]
 - [[Time Based SQLI]]
+- [[OAST Based SQLI]]
