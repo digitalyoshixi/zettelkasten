@@ -15,6 +15,7 @@ Data is stored in tables
 - One-to-many
 - Many-to-many
 # SQL Operations
+- [[SQL Semicolon]]
 - [[SQL CREATE]]
 - [[SQL Insert]]
 - [[SQL Update]]
@@ -27,6 +28,7 @@ Data is stored in tables
 - [[SQL Change Column Datatype]]
 - [[SQL Order By]]
 - [[SQL CASE]]
+- [[SQL CAST]]
 # SQL Constaints
 - [[SQL Serial Constraint]]
 - [[SQL Primary Constraint]]
