@@ -39,3 +39,5 @@ https://login.library.utoronto.ca/index.php?url=https://exams.library.utoronto.c
 - https://icprplshelp.github.io/UofT-Enrollment-Tracker/
 # Piazza Link
 - https://q.utoronto.ca/courses/391003/external_tools/18207
+# eService for Per Course Fees
+- https://www.utsc.utoronto.ca/regoffice/eservice/student/
