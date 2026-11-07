@@ -32,3 +32,6 @@ Unable to see query results, but results change behavior of the site
 - [[Verbose Error SQLI]]
 - [[Time Based SQLI]]
 - [[OAST Based SQLI]]
+### Additional
+- [[XML SQL Filter Bypass]]
+- [[Stored SQL Injection]]

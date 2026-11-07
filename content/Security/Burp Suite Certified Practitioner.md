@@ -16,6 +16,13 @@ aliases:
 - [[SQLI View Tables]]
 ### Blind SQL
 - [[Blind SQLI Conditional Triggering]]
+- [[Error Based SQLI]]
+- [[Verbose Error SQLI]]
+- [[Time Based SQLI]]
+- [[OAST Based SQLI]]
+### Filter Bypass
+- [[XML SQL Filter Bypass]]
+- [[Hackvertor]]
 # API Testing
 - [[Common API Documentation Endpoints]]
 - [[JS Link Finder]]
