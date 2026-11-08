@@ -70,3 +70,5 @@ aliases:
 - [[Password Reset Token X-Forwarded-Host Phishing]]
 ### Password Change
 - [[Password Brute Force via Password Change]]
+# Clickjacking
+- [[]]
