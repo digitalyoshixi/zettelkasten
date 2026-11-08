@@ -71,4 +71,16 @@ aliases:
 ### Password Change
 - [[Password Brute Force via Password Change]]
 # Clickjacking
+- [[Clickjacking]]
 - [[Clickbandit]]
+# Web LLM Attacks
+- [[Indirect Prompt Injection]]
+- [[Prompt Injection]]
+- [[Training Data Leakage Prompt Injection]]
+- [[AI Scanner Agent Prompt Injection]]
+- [[Data Exfiltration by AI Scanner Agents]]
+- [[SSRF by AI Scanner Agents]]
+# File Upload Vulnerabilities
+- [[Web Server Static File Handling Logic]]
+- [[Webshell]]
+- [[Webshell Upload To Non-User Directories by Path Traversal]]
