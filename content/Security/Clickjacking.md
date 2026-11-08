@@ -2,6 +2,8 @@
 tags:
   - security
   - web
+aliases:
+  - UI Redressing
 ---
 Tricking a user into clicking something different from what the user perceives.
 Attackers have their own website, embed a real website as an iframe into their website, add hidden buttons that overlay buttons in the iframe.
