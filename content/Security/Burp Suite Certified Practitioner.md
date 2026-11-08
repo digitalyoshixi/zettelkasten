@@ -80,6 +80,12 @@ aliases:
 - [[AI Scanner Agent Prompt Injection]]
 - [[Data Exfiltration by AI Scanner Agents]]
 - [[SSRF by AI Scanner Agents]]
+# Path Traversal (Usually on static files)
+- [[Path Traversal]]
+- [[Nested Path Traversal]]
+- [[Encoding Path Traversal]]
+- Burp intruder `Fuzzing - Path Traversal` to check
+- [[Null Character File Extension Filter Bypass]]
 # File Upload Vulnerabilities
 - [[Web Server Static File Handling Logic]]
 - [[Webshell]]
@@ -89,4 +95,10 @@ aliases:
 - [[exiftool]]
 - [[File Upload Race Condition]]
 - [[Default Supported PUT Endpoint Vulnerability]]
+# NoSQL Injection
+# OAuth
+# HTTP Request Smuggling
+# XSS
 # XXE
+# Prototype Pollution
+# GraphQL
