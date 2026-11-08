@@ -84,3 +84,5 @@ aliases:
 - [[Web Server Static File Handling Logic]]
 - [[Webshell]]
 - [[Webshell Upload To Non-User Directories by Path Traversal]]
+- [[FIle Upload Server Configuration Overwrite]]
+- [[File Extension Obfuscation]]
