@@ -86,3 +86,7 @@ aliases:
 - [[Webshell Upload To Non-User Directories by Path Traversal]]
 - [[FIle Upload Server Configuration Overwrite]]
 - [[File Extension Obfuscation]]
+- [[exiftool]]
+- [[File Upload Race Condition]]
+- [[Default Supported PUT Endpoint Vulnerability]]
+# XXE
