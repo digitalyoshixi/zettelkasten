@@ -25,3 +25,9 @@ const uri = "<connection string you copied>"
 `npm install mongodb`
 # Concepts
 - [[Mongoose]]
+- [[MongoDB Injection]]
+### Query Operators
+- [[MongoDB Where]]
+- [[MongoDB Not Equal]]
+- [[MongoDB In]]
+- [[MongoDB Regex]]

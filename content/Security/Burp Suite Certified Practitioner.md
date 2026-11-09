@@ -96,7 +96,7 @@ aliases:
 - [[File Upload Race Condition]]
 - [[Default Supported PUT Endpoint Vulnerability]]
 # NoSQL Injection
-- [[Syntax Injection]]
+- [[NoSQL Syntax Injection]]
 # OAuth
 # HTTP Request Smuggling
 # XSS
