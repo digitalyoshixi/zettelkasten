@@ -1,6 +1,8 @@
 ---
 tags:
   - redteam
+aliases:
+  - nmap snmpbrute
 ---
 This is a scanning tool built into kali linux. This allows discover of devices in a network.
 # Host and Port Scanning
@@ -21,5 +23,5 @@ nmap -sS -T4 -F -iL httpservers.txt -oN nmap_res.txt
 ```
 # SNMP Brute
 ```
-nmap -iL scope_snmp.txt -sU --script snmp-brute
+nmap -iL scope_snmp.txt -sU --script=snmp-brute
 ```

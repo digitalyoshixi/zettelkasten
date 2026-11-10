@@ -4,9 +4,25 @@ tags:
   - web
 aliases:
   - CSP
+  - Content-Security-Policy
 ---
-A standard that can be set by websites to prevent attacks like [[Cross Site Scripting|XSS]] by restricting sources of content a browser can load.
-# Example
+A standard that sets content security settings for the browser to use.
+- Can prevent attacks like [[Cross Site Scripting|XSS]] by restricting sources of content a browser can load
+- Can limit [[IFrame]] settings to prevent [[Clickjacking]]
+# frame-ancestors
+```
+frame-ancestors 'none';
+```
+- All websites can embed this site as an iframe
+```
+frame-ancestors 'self';
+```
+- Only the current origin can embed this site as an iframe
+```
+frame-ancestors normal-website.com;
+```
+- Only the origin normal-website.com can embed this site as an iframe
+# script-src
 ```
 script-src 'self'
 ```

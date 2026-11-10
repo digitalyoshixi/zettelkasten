@@ -6,3 +6,5 @@ tags:
 A [[Web Security]] [[Security Vulnerability|Vulnerability]] that involves using unconventional [[Rest API|HTTP Request]] types like:
 - `DELETE`
 - `PUT`
+# List of Verbs
+- Burp intruder built in list

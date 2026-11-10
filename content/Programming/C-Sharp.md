@@ -51,6 +51,7 @@ namespace MyProg
 - [[C-Sharp Interface]]
 - [[C-Sharp Enum]]
 - [[C-Sharp Exceptions]]
+- [[C-Sharp Dictionary]]
 ### Libraries
 - [[C-Sharp Math]]
 # Tools

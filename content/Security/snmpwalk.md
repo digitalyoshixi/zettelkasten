@@ -13,6 +13,11 @@ snmpwalk -v2c -c public <ip>
 ```
 snmpwalk -v2c -c private <ip>
 ```
+# Check for Community String Permissions
+```
+snmp-check <ip> -p 161 -c public -w -v 1
+snmp-check <ip> -p 161 -c public -w -v 2c
+```
 # Specific Objects
 ```
 snmpwalk -v2c -c <community> <ip> NET-SNMP-EXTEND-MIB::nsExtendObjects

@@ -13,5 +13,5 @@ We use intuition in [[Mathematics]] as well.
 "It seems wrong to harm the innocents"
 ### Indirect Evidence
 Intuition supports broader moral principles like:
-- [[Justice]]
+- [[Philosophy/Justice]]
 - [[Equivalence|Equality]]

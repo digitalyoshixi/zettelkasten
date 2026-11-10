@@ -2,4 +2,4 @@
 tags:
   - physics
 ---
-A particle emitted from the [[Sun]].
+A particle emitted from the [[The Sun]].

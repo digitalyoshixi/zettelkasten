@@ -15,3 +15,9 @@ GET /api/v1/books?show=$file$ HTTP/1.1
 2. Right click > Add payload position 
 3. Payload Add from list...
 	1. HTTP Verbs
+
+# Regex Match Column
+```
+Settings > Grep - Match > Add regex
+```
+![[Burp Suite Repeater-20261029021850608.webp]]

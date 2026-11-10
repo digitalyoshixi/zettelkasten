@@ -7,3 +7,6 @@ A technique that requires heavy computing power to manually crack hashes, encryp
 # Attack Vectors
 - [[Dictionary Attack]]
 - Guessing (Based off [[Open Source Intelligence]])
+# Brute Force Logic Bypass
+- [[Brute Force X-Forwarded-For Spoofing]]
+- [[Brute Force Valid Credential Technique]]

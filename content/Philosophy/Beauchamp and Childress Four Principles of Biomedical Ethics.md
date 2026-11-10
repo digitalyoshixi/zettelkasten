@@ -12,7 +12,7 @@ They are a framework, and not meant to be [[Action-Guiding]]
 - [[Autonomy]]
 - [[Hippocratic Oath|Nonmaleficence]]
 - [[Beneficence]]
-- [[Justice]]
+- [[Philosophy/Justice]]
 ### Extra
 - [[Dignity]]
 - [[Respect]]

@@ -14,7 +14,7 @@ https://policybase.cma.ca/viewer?file=%2Fmedia%2FPolicyPDF%2FPD19-03.pdf#page=1
 # Commitments
 - Commitment to wellbeing of patient
 - Commitment to respect of persons
-- Commitment to [[Justice]]
+- Commitment to [[Philosophy/Justice]]
 - Commitment to professional integrity and competence
 - Commitment to professional excellence
 - Commitment to self-care and peer support

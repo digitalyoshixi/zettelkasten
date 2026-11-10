@@ -1,6 +1,7 @@
 ---
 tags:
   - malware
+  - security
 ---
 # Pattern
 - [[InternetOpenW]]

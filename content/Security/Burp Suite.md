@@ -4,6 +4,8 @@ tags:
   - web
 ---
 Web testing application
+# Certifications
+- [[Burp Suite Certified Practitioner]]
 # Concepts
 - [[Burp Suite Proxy]]
 - [[Burp Suite Intruder]]

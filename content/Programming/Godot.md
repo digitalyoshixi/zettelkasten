@@ -8,6 +8,10 @@ Handles physics, path finding, networks
 ```
 sudo pacman -S godot
 ```
+# Logs path (Arch)
+```
+~/.local/share/godot/app_userdata/<gamename>/logs
+```
 # Concepts
 - [[Godot Node]]
 - [[Godot Resource]]

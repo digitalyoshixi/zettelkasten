@@ -28,3 +28,10 @@ A [[Security Vulnerability|Vulnerability]] that exists when input validation for
 ### Blind SQL
 Unable to see query results, but results change behavior of the site
 - [[Blind SQLI Conditional Triggering]]
+- [[Error Based SQLI]]
+- [[Verbose Error SQLI]]
+- [[Time Based SQLI]]
+- [[OAST Based SQLI]]
+### Additional
+- [[XML SQL Filter Bypass]]
+- [[Stored SQL Injection]]

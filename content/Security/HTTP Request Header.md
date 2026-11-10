@@ -12,7 +12,7 @@ tags:
 ### Security
 - [[X-Forwarded-For]]
 - [[X-Frame-Options]]
-- [[Content-Security-Policy]]
+- [[Content Security Policy|Content-Security-Policy]]
 - [[Strict-Transport-Security]]
 - [[X-Content-Type-Options]]
 - [[Referrer-Policy]]

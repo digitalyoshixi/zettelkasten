@@ -5,6 +5,7 @@ tags:
 # Installation
 `sudo pacman -S docker-compose`
 # Boilerplate
+`docker-compose.yml`
 ```
 version: "5"
 services:

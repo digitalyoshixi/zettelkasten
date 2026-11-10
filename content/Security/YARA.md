@@ -32,6 +32,7 @@ rule silent_banker : banker
 }
 ```
 # Concepts
+- [[Yara-L]]
 - [[Yara Imports]]
 - [[Yara Meta]]
 - [[Yara Strings]]

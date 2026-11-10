@@ -15,6 +15,14 @@ responder -I networkinterface
 responder -I eth0 -v
 ```
 You can find these interface with `ip link` or [[ifconfig]]
+# Analyze Mode
+```
+responder -I eth0 -A
+```
+# Coersion Listener
+```
+sudo responder -I eth0 -wrf
+```
 # Responder Config
 ```
 /etc/responder/Responder.conf

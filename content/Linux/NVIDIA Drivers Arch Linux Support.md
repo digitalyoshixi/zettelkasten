@@ -31,3 +31,5 @@ MODULES=(nvidia nvidia_modeset nvidia_uvm nvidia_drm)
 2. `nvidia-smi`
 # Installation for 1070 (or Pascal GPUs)
 https://archlinux.org/news/nvidia-590-driver-drops-pascal-support-main-packages-switch-to-open-kernel-modules/
+- Uninstall the official `nvidia`, `nvidia-lts`, or `nvidia-dkms` packages
+- Install `nvidia-580xx-dkms` from the AUR
