@@ -37,7 +37,7 @@ A single player card game version of [[Scoundrel]].
 ### Major Arcana
 - Wheel of fortune shuffles draw pile
 - Magician, High preistess, empress, emperor, lovers, chariot, temperance, star, sun, world are boons
-	- Heap 6 HP or gain a weapons of 8 strength
+	- Heal 6 HP or gain a weapons of 8 strength
 - Heirophant, Strength, Hermit, Justice, Hanged one, Death, Devil, Tower, Moon, Judgement are banes
 	- Lost 6HP or discard current weapon
 # Game Start
