@@ -63,6 +63,10 @@ Get-Domain
 ```
 Get-Domain -Properties ms-DS-MachineAccountQuota
 ```
+### Getting Service Principal Users
+```
+Get-DomainUser -SPN
+```
 # DNS
 ### VIew DNS Zones
 ```
