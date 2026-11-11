@@ -51,6 +51,10 @@ Find-LocalAdminAccess
 ```
 GetDomainGPO -Properties displayName,distinguishedName
 ```
+### Getting Domain Password Policy
+```
+Get-Domain
+```
 # DNS
 ### VIew DNS Zones
 ```

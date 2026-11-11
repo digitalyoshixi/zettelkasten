@@ -41,3 +41,7 @@ nxc ldap $DCIP -u $USER -p $USERPASS --kerberoasting kerberos_out.txt
 ```
 nxc smb $IP -u $USER -p $USERPASS -M enum_av
 ```
+# Checking [[Machine Account Quota|MAQ]]
+```
+nxc ldap $DCIP -u $USER -p $USERPASS -M maq
+```
