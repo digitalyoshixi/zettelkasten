@@ -111,3 +111,4 @@ aliases:
 - [[GraphQL Introspection]]
 - [[GraphQL Suggestions]]
 - [[GraphQL Alias Overloading]]
+- [[GraphQL CSRF]]
