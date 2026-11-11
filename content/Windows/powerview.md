@@ -31,6 +31,10 @@ Default port 5000
 ```
 Get-DomainComputer
 ```
+### Add Computer
+```
+Add-DomainComputer -ComputerName "DanielComputer$" -ComputerPass "password" 
+```
 ### Get All Users
 ```
 Get-DomainUser
@@ -54,6 +58,10 @@ GetDomainGPO -Properties displayName,distinguishedName
 ### Getting Domain Password Policy
 ```
 Get-Domain
+```
+### Getting Machine Account Quota
+```
+Get-Domain -Properties ms-DS-MachineAccountQuota
 ```
 # DNS
 ### VIew DNS Zones
