@@ -16,6 +16,17 @@ Multiple [[Rest API]] requests can be packed into a single GraphQL request.
 ```
 npm i express express-graphql graphql
 ```
+# GraphQL Endpoints
+- `/graphql`
+- `/api`
+- `/api/graphql`
+- `/graphql/api`
+- `/graphql/graphql`
+- `/graphql/v1`
+- `/api/v1`
+- `/api/v1/graphql`
+- `/graphql/api/v1`
+- `/graphql/graphql/v1`
 # Concepts
 - [[GraphQL Query]]
 - [[GraphQL Mutation]]
@@ -25,5 +36,21 @@ npm i express express-graphql graphql
 - [[GraphQL Voyager]]
 - [[GraphQL Threat Matrix]]
 - [[GraphQL Introspection]]
+- [[GraphQL Universal Query]]
+- [[GraphQL Suggestions]]
 # Tools
 - [[Altair]]
+- [[Clairvoyance]]
+# Security
+### Vulnerabiities
+- [[GraphQL Circular Queries]]
+- [[GraphQL Circular Fragments]]
+- [[GraphQL Field Duplication]]
+- [[GraphQL Alias Overloading]]
+- [[GraphQL Directive Overloading]]
+- [[GraphQL Array-Based Query Batching]]
+- [[GraphQL Object-Limit Overriding in API Pagination]]
+- [[GraphQL Field Stuffing]]
+### Tools
+- [[GraphQL Threat Matrix]]
+- [[GraphQL Voyager]]

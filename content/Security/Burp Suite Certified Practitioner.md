@@ -97,9 +97,16 @@ aliases:
 - [[Default Supported PUT Endpoint Vulnerability]]
 # NoSQL Injection
 - [[NoSQL Syntax Injection]]
+- [[NoSQL Operator Injection]]
+- [[MongoDB Injection]]
 # OAuth
 # HTTP Request Smuggling
 # XSS
 # XXE
 # Prototype Pollution
 # GraphQL
+- [[GraphQL]]
+- [[GraphQL Request Methods]]
+- [[GraphQL Query]]
+- [[GraphQL Introspection]]
+- [[GraphQL Suggestions]]

@@ -44,8 +44,7 @@ aliases:
 - [[Mass Assignment Vulnerability]]
 - [[Host Header Injection Vulnerability]]
 - [[User Enumeration]]
-### Subdomains
-- [[GraphQL Security]]
+- [[GraphQL|GraphQL Security]]
 # Concepts
 - [[Same Origin Policy]]
 - [[Basic Authentication]]
