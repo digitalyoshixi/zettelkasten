@@ -3,12 +3,13 @@ tags:
   - security
   - web
 ---
-An attack that involves using the alias feature to send multiple requests to be processed in a [[GraphQL Query]]
+An attack that involves using the alias feature to send multiple requests to be processed in a [[GraphQL Query]].
+Allows efficient brute forcing of graphql functions
 ```
 {
   user1: user(id: "123") { name }
-  user2: user(id: "123") { name }
-  user3: user(id: "123") { name }
+  user2: user(id: "124") { name }
+  user3: user(id: "125") { name }
   // ...repeated hundreds of times
 }
 ```

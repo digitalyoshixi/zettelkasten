@@ -13,3 +13,9 @@ Response should always be:
 	"__typename" : "query"
 }}
 ```
+# HTTP Request
+```
+query{
+	query(__typename)
+}
+```

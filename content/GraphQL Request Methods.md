@@ -14,3 +14,7 @@ Common methods to request data on a [[GraphQL]] endpoint.
 ```
 {"query":"\n    mutation login($input: LoginInput!) {\n        login(input: $input) {\n            token\n            success\n        }\n    }","operationName":"login","variables":{"input":{"username":"aa","password":"aa"}}}
 ```
+# Example GET Mutation
+```
+GET /api?query=mutation+deleteOrganizationUser($input:+DeleteOrganizationUserInput!){deleteOrganizationUser(input:$input){user{id}}}&variables={"input":{"id":3}} HTTP/2
+```

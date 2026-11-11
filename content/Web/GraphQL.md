@@ -28,6 +28,7 @@ npm i express express-graphql graphql
 - `/graphql/api/v1`
 - `/graphql/graphql/v1`
 # Concepts
+- [[GraphQL Request Methods]]
 - [[GraphQL Query]]
 - [[GraphQL Mutation]]
 - [[GraphQL Subscription]]
