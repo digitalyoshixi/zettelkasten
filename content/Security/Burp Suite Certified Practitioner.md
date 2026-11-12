@@ -104,6 +104,9 @@ aliases:
 # XSS
 # XXE
 # Prototype Pollution
+- [[JSON]]
+- [[Javascript Prototype]]
+- [[Prototype Pollution]]
 # GraphQL
 - [[GraphQL]]
 - [[GraphQL Request Methods]]

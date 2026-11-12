@@ -9,6 +9,6 @@ tags:
 - Undefined
 - Null
 - Symbol
-- [[Javascript Object]]
+- [[JSON]]
 	- Array
 	- Date

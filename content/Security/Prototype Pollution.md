@@ -3,7 +3,7 @@ tags:
   - security
   - web
 ---
-A vulnerability against [[Javascript Prototype]] that allows you to add arbitrary properties to `Object` to be automatically be inherited by children [[Javascript Object]]. 
+A vulnerability against [[Javascript Prototype]] that allows you to add arbitrary properties to `Object` to be automatically be inherited by children [[JSON]]. 
 If a child uses this property somewhere dangerously, it can execute any code.
 
 ```javascript
