@@ -7,6 +7,11 @@ A programming language used in [[Webapp|Webapps]] promoted for its:
 - Adaptability
 - Fast scalibility
 # Concepts
+### Theory
+- [[JSON|Javascript Object]]
+- [[Javascript Prototype]]
+- [[Javascript Object Inheritance]]
+### Fundamental
 - [[Javascript Semicolon]]
 - [[Javascript Variable]]
 - [[Javascript For Loop]]
