@@ -10,7 +10,7 @@ Used to capture password hashes.
 2. Another computer without SMB signing that the first computer has a user account on
 ### Process
 1. Setup [[responder]] to poison SMB requests
-2. Setup [[ntlmrelayx]] to read requests of responder and send them to second computer
+2. Setup [[impacket-ntlmrelayx]] to read requests of responder and send them to second computer
 3. Use [[Netexec|nxc]] [[PetitPotam]] to coerce first computer
 4. ntlmrelayx will recieve the authentication response from the second computer if the first computer has an actual account
 # Alternate Process with [[NTLM Reflection]]

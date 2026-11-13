@@ -5,4 +5,4 @@ tags:
 DNS Poisoning.
 # Tools
 - [[mitm6]]
-- [[ntlmrelayx]]
+- [[impacket-ntlmrelayx]]

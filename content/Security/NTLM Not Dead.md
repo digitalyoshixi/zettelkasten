@@ -10,6 +10,6 @@ Abuses the fact that system-level processes view certain domains including subst
 Tricks processes into using local-NTLM authentication which attaches SYSTEM token by default.
 # Attack
 1. Create a crafted [[Domain Name Server|DNS]] record like `1UWhRCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYBAAAA` to make target interpret this as a local authentication
-2. [[ntlmrelayx]] caches reflected auth to enable administrative SMB session
+2. [[impacket-ntlmrelayx]] caches reflected auth to enable administrative SMB session
 # Whitepaper
 https://www.synacktiv.com/en/publications/ntlm-reflection-is-dead-long-live-ntlm-reflection-an-in-depth-analysis-of-cve-2025
