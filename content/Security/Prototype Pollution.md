@@ -15,9 +15,9 @@ If a child uses this property somewhere dangerously, it can execute any code.
 - Gadget that allows unsage usage
 # Tools
 - [[DOM Invader]]
-# Testing
+# Testing for Sources
 ### Blind Test
-- Set `mysite.com/?__proto__[foo]=bar` as variable value
+- For the source set prototype as key (e.g `mysite.com/?__proto__[foo]=bar` as variable value)
 - Check  `Object.prototype` in the browser console
 - Try `?__proto__.foo=bar` if it didn't work
 - Repeat for each potential source
