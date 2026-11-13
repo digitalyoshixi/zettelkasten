@@ -5,7 +5,6 @@ tags:
 ---
 A object used to implement inheritance a specific [[JSON]]. Almost like a [[Java Abstract Class]].
 - Provides methods used by the JSON (Example String.prototype offers `toLowerCase()`)
-
 # Reference Syntax
 - `prototype` : reference to an object
 - `[[prototype]]`: reference to object's prototype
