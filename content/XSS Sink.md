@@ -12,3 +12,8 @@ tags:
 ```
 script.src = data:text/javascript,alert(1)
 ```
+# child_process.execSync()
+Acts similar to `eval()`
+```
+
+```

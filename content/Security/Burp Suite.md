@@ -23,7 +23,8 @@ Web testing application
 # Extensions
 - [[ActiveScan++]]
 - Content-Type Converter (JSON - XML)
-- Hackvector
+- [[Hackvertor]]
+- [[Server-Side Prototype Pollution Scanner]]
 - HTTP Request Smuggler
 - [[JWT Editor]]
 - Transfuzz

@@ -22,3 +22,4 @@ Use a status code in the 400-599 range otherwise node defaults to 500 status.
     }
 }
 ```
+![[Prototype Pollution Status Code Overwrite-20261115220023771.webp]]

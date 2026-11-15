@@ -15,7 +15,7 @@ If a child uses this property somewhere dangerously, it can execute any code.
 - Gadget that allows unsage usage
 # Tools
 - [[DOM Invader]]
-# Testing for Sources
+# Client Side Testing
 ### Blind Test
 - For the source set prototype as key (e.g `mysite.com/?__proto__[foo]=bar` as variable value)
 - Check  `Object.prototype` in the browser console
@@ -40,6 +40,14 @@ Object.prototype.YOUR-FUNCTION = function(){
 }
 ```
 4. If the polluted object is used, the browser will log a stack trace to the console whenever it is accessed
+# Server Side Testing
+1. Check if there is a json input that you can add a `__proto__` property with
+2. Probe with techniques:
+	- [[Prototype Pollution Property Reflection]]
+	- [[Prototype Pollution Status Code Overwrite]]
+	- [[Prototype Pollution JSON Spaces Overwrite]]
+	- [[Prototype Pollution Charset Overwrite]]
+3. If it doesn't work try it with [[Prototype Pollution via Constructor]]
 # Attacking
 1. Find the sync that you can use to overwrite `Object` or any other high level prototype
 2. Find the field that you want to overwrite. Whether it is a function or a attribute. This field must be used by a [[XSS Sink]]
@@ -53,10 +61,15 @@ Object.prototype.YOUR-FUNCTION = function(){
 - [[Prototype Pollution via defineProperty()]]
 - [[XSS Sink]]
 ### Server Side
-Involves techniques to identify prototype pollution:
+##### Identification technique
 - [[Prototype Pollution Property Reflection]]
 - [[Prototype Pollution Status Code Overwrite]]
 - [[Prototype Pollution JSON Spaces Overwrite]]
 - [[Prototype Pollution Charset Overwrite]]
+##### RCE techniques
+- [[Prototype Pollution Child Process Spawning]]
+- [[Prototype Pollution Environment Variable Overwriting]]
+### Patches
+- [[Node Disable Prototypes]]
 ### Labs
 - [[Burp Suite Prototype Pollution Privilege Escalation]]
