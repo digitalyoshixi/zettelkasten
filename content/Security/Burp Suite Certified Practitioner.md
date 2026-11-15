@@ -5,6 +5,8 @@ tags:
 aliases:
   - BSCP
 ---
+# Notes
+- Use `location` rather than `window.location`
 # SQLI
 ### Returned SQL
 - [[SQLI Comments]]

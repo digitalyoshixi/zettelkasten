@@ -40,8 +40,12 @@ Object.prototype.YOUR-FUNCTION = function(){
 }
 ```
 4. If the polluted object is used, the browser will log a stack trace to the console whenever it is accessed
+# Attacking
+1. Find the sync that you can use to overwrite `Object` or any other high level prototype
+2. Find the field that you want to overwrite. Whether it is a function or a attribute. This field must be used by a [[XSS Sink]]
 # Concepts
 - [[Prototype Pollution via URL]]
 - [[Prototype Pollution via JSON]]
 - [[Prototype Pollution via Constructor]]
-- [[XSS SInk]]
+- [[Prototype Pollution via Flawed Sanitiziation]]
+- [[XSS Sink]]
