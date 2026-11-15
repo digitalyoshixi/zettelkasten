@@ -3,18 +3,32 @@ tags:
   - security
 aliases:
   - OAuth
+  - OAuth Grant
+  - OAuth Flow
 ---
 Similar to [[OpenID]].
-When a user logs in with OAuth, they recieve a token to use for verification against SSO services.
-- Github OAuth
-- Discord sign-in
+A way for applications to provide other applications limitated information about a user like:
+- Username
+- Email contacts
+- ...
+Seen in services like:
+- Discord
+- Github
 # Process
-1. Access token for API calls (short-lived)
-2. Refresh token for renewal (long-lived)
+1. Client application requests access to subset of user data through a URI that points to the providers website
+2. User clicks the prompt and logs into the OAuth service and provide consent
+3. Application recieves:
+	1. A access token for API calls (short-lived)
+	2. A refresh token for renewal (long-lived)
 # Requesting OAuth
 - You go to the providers website
 - The provider gives you a redirect URI that you can set after authentication to redirect to your own site
 - Provider gives you a link for their own OAuth portal + info about your site, you can put this link in a button and say 'Login with X'
+# Concepts
+- [[OAuth Scope]]
+### Grant Types
+- [[OAuth Authorization Code]]
+- [[OAuth Implicit Grants]]
 # Security Pitfalls
 - Open redirect [[Universal Resource Locator|URI]], somebody does [[Cross Site Scripting|XSS]] and changes the redirect [[Universal Resource Locator|URI]] to the attacker's server. Ensure there is a whitelist of URIs
 - Leaked client secrets in github repo, etc

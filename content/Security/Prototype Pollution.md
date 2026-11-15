@@ -71,5 +71,8 @@ Object.prototype.YOUR-FUNCTION = function(){
 - [[Prototype Pollution Environment Variable Overwriting]]
 ### Patches
 - [[Node Disable Prototypes]]
+- [[Javascript Object Freeze]]
+- [[Javascript Object Seal]]
+- [[Javascript Object Create Null Prototype]]
 ### Labs
 - [[Burp Suite Prototype Pollution Privilege Escalation]]

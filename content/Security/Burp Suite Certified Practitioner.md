@@ -102,6 +102,7 @@ aliases:
 - [[NoSQL Operator Injection]]
 - [[MongoDB Injection]]
 # OAuth
+- [[Open Auth|OAuth]]
 # HTTP Request Smuggling
 # XSS
 # XXE
@@ -109,6 +110,22 @@ aliases:
 - [[JSON]]
 - [[Javascript Prototype]]
 - [[Prototype Pollution]]
+### Client side
+- [[Prototype Pollution via URL]]
+- [[Prototype Pollution via JSON]]
+- [[Prototype Pollution via Constructor]]
+- [[Prototype Pollution via Flawed Sanitiziation]]
+- [[Prototype Pollution via Fetch()]]
+- [[Prototype Pollution via defineProperty()]]
+- [[XSS Sink]]
+### Server side Identification
+- [[Prototype Pollution Property Reflection]]
+- [[Prototype Pollution Status Code Overwrite]]
+- [[Prototype Pollution JSON Spaces Overwrite]]
+- [[Prototype Pollution Charset Overwrite]]
+### Server side RCE
+- [[Prototype Pollution Child Process Spawning]]
+- [[Prototype Pollution Environment Variable Overwriting]]
 # GraphQL
 - [[GraphQL]]
 - [[GraphQL Request Methods]]
