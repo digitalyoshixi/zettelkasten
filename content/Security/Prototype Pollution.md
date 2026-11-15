@@ -48,4 +48,6 @@ Object.prototype.YOUR-FUNCTION = function(){
 - [[Prototype Pollution via JSON]]
 - [[Prototype Pollution via Constructor]]
 - [[Prototype Pollution via Flawed Sanitiziation]]
+- [[Prototype Pollution via Fetch()]]
+- [[Prototype Pollution via defineProperty()]]
 - [[XSS Sink]]
