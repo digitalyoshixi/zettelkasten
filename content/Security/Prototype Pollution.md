@@ -43,4 +43,5 @@ Object.prototype.YOUR-FUNCTION = function(){
 # Concepts
 - [[Prototype Pollution via URL]]
 - [[Prototype Pollution via JSON]]
+- [[Prototype Pollution via Constructor]]
 - [[XSS SInk]]
