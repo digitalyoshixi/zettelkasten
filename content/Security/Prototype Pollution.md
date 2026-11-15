@@ -44,6 +44,7 @@ Object.prototype.YOUR-FUNCTION = function(){
 1. Find the sync that you can use to overwrite `Object` or any other high level prototype
 2. Find the field that you want to overwrite. Whether it is a function or a attribute. This field must be used by a [[XSS Sink]]
 # Concepts
+### Client SIde
 - [[Prototype Pollution via URL]]
 - [[Prototype Pollution via JSON]]
 - [[Prototype Pollution via Constructor]]
@@ -51,3 +52,11 @@ Object.prototype.YOUR-FUNCTION = function(){
 - [[Prototype Pollution via Fetch()]]
 - [[Prototype Pollution via defineProperty()]]
 - [[XSS Sink]]
+### Server Side
+Involves techniques to identify prototype pollution:
+- [[Prototype Pollution Property Reflection]]
+- [[Prototype Pollution Status Code Overwrite]]
+- [[Prototype Pollution JSON Spaces Overwrite]]
+- [[Prototype Pollution Charset Overwrite]]
+### Labs
+- [[Burp Suite Prototype Pollution Privilege Escalation]]
