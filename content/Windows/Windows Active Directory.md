@@ -61,6 +61,7 @@ In the Users tab, right clicking the properties of a User, you can:
 - [[Active Directory Disable NTLM]]
 - [[Active Directory Enforcing LDAP Signing]]
 - [[Active Directory Enforcing LDAP Channel Binding]]
+- [[Active Directory LDAP Channel Binding No TLS Cert]]
 - [[Lightweight Directory Access Protocol over Secure Sockets Layer|Active Directory Enabling LDAPS]]
 - [[Active Directory Sync with NTP]]
 ### Misc
