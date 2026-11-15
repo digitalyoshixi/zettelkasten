@@ -2,6 +2,8 @@
 tags:
   - windows
   - security
+aliases:
+  - DIsabling NTLM
 ---
 1. Open [[Windows Group Policy Management Console|gpmc.msc]], right click to edit default domain controllers policy
 ![[Active Directory Disable NTLM-20260830191803207.webp]]
