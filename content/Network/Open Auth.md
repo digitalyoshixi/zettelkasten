@@ -6,7 +6,6 @@ aliases:
   - OAuth Grant
   - OAuth Flow
 ---
-Similar to [[OpenID]].
 A way for applications to provide other applications limitated information about a user like:
 - Username
 - Email contacts
@@ -14,6 +13,7 @@ A way for applications to provide other applications limitated information about
 Seen in services like:
 - Discord
 - Github
+Proper user authentication is provided by [[OpenID]]
 # Process
 1. Client application requests access to subset of user data through a URI that points to the providers website
 2. User clicks the prompt and logs into the OAuth service and provide consent
