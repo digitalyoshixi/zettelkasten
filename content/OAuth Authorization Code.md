@@ -19,7 +19,7 @@ GET /authorization?client_id=12345&redirect_uri=https://client-app.com/callback&
 - `redirect_uri`: Callback uri that the user should visit once the client clicks accept
 - `response_type`: Response the client application is expecting (i.e Grant type)
 - `scope`: Subset of what user data is required ([[OAuth Scope]])
-- `state`: A unique value tied to the current session o the client application. OAuth service should return this exact value in the response
+- `state`: A [[Cross Site Request Forgery Token|CSRF Token]] tying the current session to the client application. OAuth service should return this exact value in the response
 ### 2. User Approval
 User must approve all that is requested in the [[OAuth Scope]]
 ### 3. Authorization Code Grant

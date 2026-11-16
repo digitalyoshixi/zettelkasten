@@ -26,10 +26,17 @@ Proper user authentication is provided by [[OpenID]]
 - Provider gives you a link for their own OAuth portal + info about your site, you can put this link in a button and say 'Login with X'
 # Concepts
 - [[OAuth Scope]]
+- [[OpenID]]
 ### Grant Types
 - [[OAuth Authorization Code]]
 - [[OAuth Implicit Grants]]
-# Security Pitfalls
+# Recon
+On the OAuth provider server:
+- `/.well-known/oauth-authorization-server`
+- `/.well-known/openid-configuration`
+# Vulnerabilities
+- [[OAuth Authentication Bypass via OAuth Implicit Grants]]
+- [[OAuth Missing CSRF Protections]]
 - Open redirect [[Universal Resource Locator|URI]], somebody does [[Cross Site Scripting|XSS]] and changes the redirect [[Universal Resource Locator|URI]] to the attacker's server. Ensure there is a whitelist of URIs
 - Leaked client secrets in github repo, etc
 - Improper token storage in local Storage
