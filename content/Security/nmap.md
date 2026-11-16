@@ -13,6 +13,10 @@ nmap -p- 192.168.2.1-255
 ```
 nmap -sS -T4 -F <target>
 ```
+# Multiple Ports
+```
+nmap -p 80,443 -sC -sV <host>
+```
 # RDP Encryption Enumeration
 ```
 nmap -p 3389 --script rdp-enum-encryption 192.168.1.186

@@ -47,5 +47,5 @@ nxc ldap $DCIP -u $USER -p $USERPASS -M maq
 ```
 ### Checking CVEs
 ```
-nxc smb $IP -u $USER -p $USERPASS -M zerologon -M printnightmare -M nopac -M smbghost -M nt
+nxc smb $IP -u $USER -p $USERPASS -M zerologon -M printnightmare -M nopac -M smbghost -M ntlmv1 -M remove-mic
 ```
