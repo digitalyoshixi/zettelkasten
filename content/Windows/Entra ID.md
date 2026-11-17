@@ -11,5 +11,6 @@ Similar to [[Windows Active Directory|AD]].
 - https://aadinternals.com/aadkillchain/
 # Audit Items
 - [[Azure VM Extension]]
+- [[Azure Storage Account]]
 - [[Azure Resource Manager Templates]]
 - [[Azure Intune Templates]]
