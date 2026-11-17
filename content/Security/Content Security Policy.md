@@ -9,6 +9,7 @@ aliases:
 A standard that sets content security settings for the browser to use.
 - Can prevent attacks like [[Cross Site Scripting|XSS]] by restricting sources of content a browser can load
 - Can limit [[IFrame]] settings to prevent [[Clickjacking]]
+- Note that a CSP does not prevent [[Out-of-Bound Application Security Testing|OAST]] exfiltration ([[CSP OAST Exfiltration]])
 # frame-ancestors
 ```
 frame-ancestors 'none';
