@@ -9,3 +9,7 @@ A [[Lightweight Directory Access Protocol|LDAP]] implementation for setting up [
 Similar to [[Windows Active Directory|AD]].
 # Pentesting
 - https://aadinternals.com/aadkillchain/
+# Audit Items
+- [[Azure VM Extension]]
+- [[Azure Resource Manager Templates]]
+- [[Azure Intune Templates]]
