@@ -63,7 +63,7 @@ Get-Domain
 ```
 Get-Domain -Properties ms-DS-MachineAccountQuota
 ```
-### Getting Service Principal Users
+### Getting Service Principal Users (Kerberoastable)
 ```
 Get-DomainUser -SPN
 ```
