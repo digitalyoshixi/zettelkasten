@@ -18,6 +18,10 @@ JWT claims can be passed around as identification to bypass authentication by id
 	- `RS256`: 
 	- `none` : not signed at all
 - `typ`: If its JWT or JWE
+##### JOSE Headers
+- `jwk` ([[JSON Web Key]]): Embedded JSON object representing the key
+- `jku` ([[JSON Web Key Set URL]]): URL from which servers can fetch a set of keys containing the correct key
+- `kid` (Key ID): ID that servers can use to identify the correct key
 ### Payload
 ##### Claims (User Data)
 - `sub`: user identifier

@@ -139,6 +139,8 @@ aliases:
 - [[JWT Editor]]
 - [[JWT Bypass via Missing Signature Validation]]
 - [[JWT Bypass via none Signature Acceptance]]
+- [[JWT Cracking Guide]]
+- [[JWT Embedded JWK Attack]]
 # HTTP Request Smuggling
 # XSS
 # XXE
