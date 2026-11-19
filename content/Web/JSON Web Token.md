@@ -3,6 +3,8 @@ tags:
   - web
 aliases:
   - JWT Token
+  - Json Web Signature
+  - JWS
 ---
 Tokens used as signatures for asserting certain claims.
 For example, a server could generate a token that claims "logged in as administrator" and provide that to a client. The client uses this token to claim that they are logged in as administrator.
@@ -11,15 +13,18 @@ JWT claims can be passed around as identification to bypass authentication by id
 - Cant be revoked
 # Structure
 ### Header
-- alg: the hashing algorithm
-- typ: the JWT type
+- `alg`: the hashing algorithm
+	- `HS256`: [[Hash-based Message Authentication Code|HMAC]] + [[SHA256]]
+	- `RS256`: 
+	- `none` : not signed at all
+- `typ`: If its JWT or JWE
 ### Payload
 ##### Claims (User Data)
-- sub: user identifier
-- exp: token expirt
-- iat: when token was created (issued at)
-- aud: indended recipient API, service
-- iss: who issued the token
+- `sub`: user identifier
+- `exp`: token expiry
+- `iat`: when token was created (issued at)
+- `aud`: indended recipient API, service
+- `iss`: who issued the token
 # Token Lifecycle
 Since JWT does not update session for client, the client must frequently get new tokens. It has an identity token (refresh token) and access token.
 ### Access Tokens
@@ -35,5 +40,7 @@ Non-implemented security things in JWT:
 - Stored in [[Javascript Local Storage]]
 - No refresh rotation, no new tokens are generated
 - Not invalidated on logout
-# Cracking
+# Concepts
 - [[JWT Cracking Guide]]
+- [[JSON Web Encryption]]
+- [[jsonwebtoken]]

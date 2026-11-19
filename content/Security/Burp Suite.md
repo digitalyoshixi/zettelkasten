@@ -37,3 +37,4 @@ Web testing application
 - [[JS Link Finder]]
 - [[Param Miner]]
 - [[Web Cache Deception Scanner]]
+- [[JWT Editor]]

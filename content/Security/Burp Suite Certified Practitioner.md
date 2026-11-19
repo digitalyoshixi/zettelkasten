@@ -103,9 +103,9 @@ aliases:
 - [[MongoDB Injection]]
 # OAuth
 - [[Open Auth|OAuth]]
-# HTTP Request Smuggling
-# XSS
-# XXE
+- [[OAuth Authentication Bypass via OAuth Implicit Grants]]
+- [[OAuth Missing CSRF Protections]]
+- [[OAuth redirect_uri Hijacking]]
 # Prototype Pollution
 - [[JSON]]
 - [[Javascript Prototype]]
@@ -134,3 +134,11 @@ aliases:
 - [[GraphQL Suggestions]]
 - [[GraphQL Alias Overloading]]
 - [[GraphQL CSRF]]
+# JWT
+- [[JSON Web Token|JWT Token]]
+- [[JWT Editor]]
+- [[JWT Bypass via Missing Signature Validation]]
+- [[JWT Bypass via none Signature Acceptance]]
+# HTTP Request Smuggling
+# XSS
+# XXE
