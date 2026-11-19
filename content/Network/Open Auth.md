@@ -37,6 +37,7 @@ On the OAuth provider server:
 # Vulnerabilities
 - [[OAuth Authentication Bypass via OAuth Implicit Grants]]
 - [[OAuth Missing CSRF Protections]]
+- [[OAuth redirect_uri Hijacking]]
 - Open redirect [[Universal Resource Locator|URI]], somebody does [[Cross Site Scripting|XSS]] and changes the redirect [[Universal Resource Locator|URI]] to the attacker's server. Ensure there is a whitelist of URIs
 - Leaked client secrets in github repo, etc
 - Improper token storage in local Storage
