@@ -8,7 +8,11 @@ A tool to find [[Stale Network Address Configuration]] issues.
 - Python 3.7.4
 # Capture
 ```
-eavesarp.py capture -i eth0 -ar -dr
+sudo ./venv/bin/python eavesarp.py capture -i eth0 -ar -dr
+```
+### Clear Cache
+```
+sudo rm -rf ~/.cache/scapy /root/.cache/scapy
 ```
 # Set Ip Address
 ```
