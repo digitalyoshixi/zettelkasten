@@ -39,6 +39,10 @@ Add-DomainComputer -ComputerName "DanielComputer$" -ComputerPass "password"
 ```
 Get-DomainUser
 ```
+### Get User From SID
+```
+Get-DomainUser -Identity <SID>
+```
 ### Get User Properties
 ```
 Get-DomainUser <username> -Properties dnshostname
