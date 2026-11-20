@@ -24,8 +24,7 @@ JWT claims can be passed around as identification to bypass authentication by id
 - `kid` (Key ID): ID that servers can use to identify the correct key
 ### Payload
 ##### Claims (User Data)
-- `sub`: user identifier
-- `exp`: token expiry
+- `sub`: user identifier - `exp`: token expiry
 - `iat`: when token was created (issued at)
 - `aud`: indended recipient API, service
 - `iss`: who issued the token
@@ -45,6 +44,13 @@ Non-implemented security things in JWT:
 - No refresh rotation, no new tokens are generated
 - Not invalidated on logout
 # Concepts
-- [[JWT Cracking Guide]]
 - [[JSON Web Encryption]]
 - [[jsonwebtoken]]
+### Security
+- [[JWT Editor]]
+- [[JWT Bypass via Missing Signature Validation]]
+- [[JWT Bypass via none Signature Acceptance]]
+- [[JWT Cracking Guide]]
+- [[JWT Embedded JWK Attack]]
+- [[JWT Owned JKU Domain Attack]]
+- [[JWT kid From Path Attack]]

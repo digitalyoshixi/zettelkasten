@@ -141,6 +141,8 @@ aliases:
 - [[JWT Bypass via none Signature Acceptance]]
 - [[JWT Cracking Guide]]
 - [[JWT Embedded JWK Attack]]
+- [[JWT Owned JKU Domain Attack]]
+- [[JWT kid From Path Attack]]
 # HTTP Request Smuggling
 # XSS
 # XXE
