@@ -7,6 +7,8 @@ A adoption of [[Docker]] to set local environments to use different python versi
 ### Debian
 ```
 curl https://pyenv.run | bash
+
+sudo apt install -y build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev curl git libncursesw5-dev xz-utils kd-dev libxml2-dev libxmldec1-dev libff1i-dev liblzma-dev
 ```
 ### Arch
 1. `sudo pacman -S pyenv`
