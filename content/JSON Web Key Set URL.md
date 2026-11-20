@@ -2,6 +2,8 @@
 tags:
   - web
   - security
+aliases:
+  - jku
 ---
 A URL that contains a list of valid [[JSON Web Key|JWK]] to use for [[JSON Web Token|JWT Token]] token verification.
 Often found at an endpoint like `/.well-known/jwks.json`
