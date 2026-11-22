@@ -146,3 +146,4 @@ aliases:
 # HTTP Request Smuggling
 # XSS
 # XXE
+- [[XML External Entity|XXE]]

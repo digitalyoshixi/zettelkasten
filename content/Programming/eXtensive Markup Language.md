@@ -18,6 +18,7 @@ A markup style language often used for:
 # Concepts
 - [[XML Entity]]
 - [[Document Type Definition|DTD]]
+- [[XInclude]]
 # Attacks
 - [[XML External Entity|XXE]]
 - [[Billion Laughs Attack]]
