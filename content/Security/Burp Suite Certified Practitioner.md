@@ -147,3 +147,9 @@ aliases:
 # XSS
 # XXE
 - [[XML External Entity|XXE]]
+- [[XXE File Retrieval]]
+- [[XXE SSRF Attack]]
+- [[XXE From XInclude]]
+- [[XXE From SVG File Upload]]
+- [[XXE Out of Bound Data Exfiltration]]
+- [[XXE Error Message Exfiltration]]
