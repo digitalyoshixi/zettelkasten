@@ -153,3 +153,8 @@ aliases:
 - [[XXE From SVG File Upload]]
 - [[XXE Out of Bound Data Exfiltration]]
 - [[XXE Error Message Exfiltration]]
+# Insecure Deserialization
+- [[PHP Serialization]]
+- [[Java Serialization]]
+- [[Serialized Message Modification]]
+- [[PHP Type Conversion Conditional Check Bypass]]
