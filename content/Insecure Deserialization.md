@@ -10,3 +10,5 @@ An attack that involves abusing logic executed during object deserialization
 # Deserialization Issues
 - [[Deserialization Arbitrary Object Injection]]
 - [[Deserialzation Gadget Chain]]
+# Ruby
+- [[Ruby 3 Deserialization Gadget Chain]]

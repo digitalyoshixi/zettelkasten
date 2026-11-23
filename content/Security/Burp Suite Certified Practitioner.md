@@ -158,5 +158,11 @@ aliases:
 # Insecure Deserialization
 - [[PHP Serialization]]
 - [[Java Serialization]]
+##### Application Specific Issues
 - [[Serialized Message Modification]]
 - [[PHP Type Conversion Conditional Check Bypass]]
+##### Deserialization Issues
+- [[Deserialization Arbitrary Object Injection]]
+- [[Deserialzation Gadget Chain]]
+##### Ruby
+- [[Ruby 3 Deserialization Gadget Chain]]

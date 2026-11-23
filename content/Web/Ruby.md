@@ -18,6 +18,7 @@ puts "Hello World"
 ### Tools
 - [[Interactive Ruby Interpreter]]
 - [[Gem]]
+- [[rbenv]]
 ### Essential
 - [[Ruby puts]]
 - [[Ruby Variables]]
