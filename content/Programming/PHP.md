@@ -8,3 +8,4 @@ A backend programming language with the highest community compatibility.
 - [[PHP Webshell]]
 - [[Magic Quotes]]
 - [[PHP Type Conversion]]
+- [[Magic Method]]

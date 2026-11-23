@@ -7,6 +7,8 @@ aliases:
 ---
 # Notes
 - Use `location` rather than `window.location`
+# Recon
+- [[PHP Source Code From Backups]]
 # SQLI
 ### Returned SQL
 - [[SQLI Comments]]
