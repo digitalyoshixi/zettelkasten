@@ -8,4 +8,5 @@ An attack that involves abusing logic executed during object deserialization
 - [[Serialized Message Modification]]
 - [[PHP Type Conversion Conditional Check Bypass]]
 # Deserialization Issues
-- [[PHP Arbitrary Object Injection]]
+- [[Deserialization Arbitrary Object Injection]]
+- [[Deserialzation Gadget Chain]]
