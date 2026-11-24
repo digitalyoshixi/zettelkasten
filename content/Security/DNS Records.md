@@ -10,6 +10,7 @@ Specific files stored on the [[Domain Name Server|DNS]] server.
 - [[Mail Record]]
 - [[TXT Record]]
 - [[Service Location Record]]
+- [[Canonical Name|CNAME]]
 # Time To Live (TTL)
 How long these records are cached in on user's local device.
 Once this cache expires and is removed, the user will have to request the DNS server again.
