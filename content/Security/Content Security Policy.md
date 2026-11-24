@@ -43,6 +43,6 @@ form-action 'self';
 base-uri 'self';
 object-src 'none';
 frame-ancestors 'none';
-upgrade-insecure-requets;
+upgrade-insecure-requests;
 block-all-mixed-content;
 ```

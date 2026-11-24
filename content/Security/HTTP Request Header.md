@@ -9,12 +9,8 @@ tags:
 - [[If-None-Match]]
 ### Routing
 - [[Referer]]
+- [[Origin]]
 ### Security
 - [[X-Forwarded-For]]
-- [[X-Frame-Options]]
-- [[Content Security Policy|Content-Security-Policy]]
-- [[Strict-Transport-Security]]
-- [[X-Content-Type-Options]]
-- [[Referrer-Policy]]
 ### WebSockets
 - [[Sec-WebSocket-Key]]

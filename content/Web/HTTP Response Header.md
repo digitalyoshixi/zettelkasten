@@ -11,7 +11,15 @@ curl -s -D- -I http://mysite.com
 # Auditing
 - [[shcheck]]
 # Headers
-- [[Cross-Origin-Embedder-Policy]]
-- [[Cross-Origin-Opener-Policy]]
 - [[Entity Tag]]
 - [[Content-Disposition]]
+- [[Cache-Control]]
+# Security
+- [[X-Frame-Options]]
+- [[Content Security Policy|Content-Security-Policy]]
+- [[Strict-Transport-Security]]
+- [[X-Content-Type-Options]]
+- [[Referrer-Policy]]
+- [[Permissions Policy]]
+- [[Cross-Origin-Embedder-Policy]]
+- [[Cross-Origin-Opener-Policy]]
