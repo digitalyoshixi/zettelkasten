@@ -62,3 +62,48 @@ func main() {
 }
 
 ```
+
+
+
+
+```go
+package main
+
+import (
+	"fmt"
+	"io"
+	"log"
+	"net/http"
+)
+
+func getRoot(w http.ResponseWriter, r *http.Request) {
+	io.WriteString(w, "This is my website!\n")
+}
+
+func echo(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Content-Type", "text/plain")
+
+	switch r.Method {
+		case "POST":
+			bodyval, err := io.ReadAll(r.Body)
+			if err != nil {
+				http.Error(w, "Error reading request body", 500)
+				return
+			}
+			resp := "this is your body: " + string(bodyval)
+			io.WriteString(w, resp)
+		default:
+			io.WriteString(w, "only POST is allowed")
+	}
+}
+
+func main() {
+	http.HandleFunc("/", getRoot)
+	http.HandleFunc("/echo", echo)
+
+	fmt.Println("listening on 8080")
+	if err := http.ListenAndServe(":8080", nil); err != nil {
+		log.Fatal(err)
+	}
+}
+```
