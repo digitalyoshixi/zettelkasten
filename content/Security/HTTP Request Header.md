@@ -5,6 +5,8 @@ tags:
 # List
 ### Content
 - [[Content-Type]]
+- [[Content-Length]]
+- [[Transfer-Encoding]]
 - [[X-Content-Type-Options]]
 - [[If-None-Match]]
 ### Routing
