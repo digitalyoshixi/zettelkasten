@@ -29,11 +29,11 @@ npm i express express-graphql graphql
 - `/graphql/graphql/v1`
 # Concepts
 - [[GraphQL Request Methods]]
+- [[GraphQL Schema]]
 - [[GraphQL Query]]
 - [[GraphQL Mutation]]
-- [[GraphQL Subscription]]
-- [[GraphQL Schema]]
 - [[GraphQL Resolvers]]
+- [[GraphQL Subscription]]
 - [[GraphQL Voyager]]
 - [[GraphQL Threat Matrix]]
 - [[GraphQL Introspection]]

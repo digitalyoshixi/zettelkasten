@@ -9,7 +9,7 @@ A graphql request for modifying/updating data.
     mutation login($input: LoginInput!) {
         login(input: {
           "username":"aa",
-          "password":"aa"
+          "password":"aa",
           }) {
             token
             success
