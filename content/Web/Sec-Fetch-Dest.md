@@ -3,7 +3,7 @@ tags:
   - web
   - security
 ---
-The [[Request Header]] that indicates the initiator of the original [[Javascript Fetch]] request. 
+The [[HTTP Request Header]] that indicates the initiator of the original [[Javascript Fetch]] request. 
 The sec-fetch-dest indicates what source sent this. If any other source sent this not within the list, then the GET is ignored.
 For example, if we send a GET within a document, then we set a header:
 ```

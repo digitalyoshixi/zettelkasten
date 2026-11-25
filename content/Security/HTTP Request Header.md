@@ -12,5 +12,6 @@ tags:
 - [[Origin]]
 ### Security
 - [[X-Forwarded-For]]
+- [[X-Forwarded-Host]]
 ### WebSockets
 - [[Sec-WebSocket-Key]]
