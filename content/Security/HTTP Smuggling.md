@@ -10,17 +10,13 @@ cssclasses:
 ---
 Abusing [[HTTP 1.1]] and [[HTTP 2.0]] issues to change the size of each request.
 
-usage of  `\r\n` to add additional requests to be executed by a bad HTTP parser.
-Can also be used to forward requests for multi-proxy setups.
-As a HTTP header:
-```
-foo: bar\r\nGET / HTTP/1.1\r\nHost: www.yoshixi.net
-```
-![[HTTP Smuggling-20260628202910913.webp]]
 ![[HTTP Smuggling-20260628202927834.webp]]
+![[HTTP Smuggling-20260628202910913.webp]]
 # Attacks
 ```
 /?search=test%0d%0aSet-Cookie:%20csrfKey=YOUR-KEY%3b%20SameSite=None
 ```
 - [[CRLF Injection CSRF Example]]
 - [[HTTP Smuggling Content Length Transfer Encoding]]
+- [[Content Length 0 Desync]]
+- [[Expect Header Desync Attack]]
