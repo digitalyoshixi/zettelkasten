@@ -19,6 +19,8 @@ A markup style language often used for:
 - [[XML Entity]]
 - [[Document Type Definition|DTD]]
 - [[XInclude]]
+- [[XPath]]
 # Attacks
 - [[XML External Entity|XXE]]
+- [[XPath Injection]]
 - [[Billion Laughs Attack]]

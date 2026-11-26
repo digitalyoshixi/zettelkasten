@@ -5,6 +5,13 @@ tags:
 ---
 An attack that involves exploiting web servers that take user parameters and send them as commands on the server's operating system.
 - You can chain another command with `&`
+
+```python
+def ping():
+    host = request.args.get("host", "127.0.0.1")
+    output = os.popen(f"ping -c 1 {host}").read()
+    return f"<pre>{output}</pre>"
+```
 # Chaining Commands
 - `;` run another command after
 - `&` run another command after
