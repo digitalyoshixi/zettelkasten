@@ -17,10 +17,10 @@ Data is stored in tables
 # SQL Operations
 - [[SQL Semicolon]]
 - [[SQL CREATE]]
+- [[SQL Select]]
 - [[SQL Insert]]
 - [[SQL Update]]
 - [[SQL Drop]]
-- [[SQL Select]]
 - [[SQL Join]]
 - [[SQLite View Columns]]
 - [[SQLite Rename Column]]
