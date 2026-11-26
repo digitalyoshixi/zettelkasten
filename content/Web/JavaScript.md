@@ -33,3 +33,33 @@ A programming language used in [[Webapp|Webapps]] promoted for its:
 - [[Javascript apply]]
 - [[Javascript reduce]]
 # Boilerplate
+```js
+const apiUrl = "https://jsonplaceholder.typicode.com/users/1"; 
+let clickCount = 0; 
+
+clickCount = clickCount + 1;
+
+function formatGreeting(name) {
+  return `Hello, ${name}! Welcome back.`; 
+}
+
+const calculateTotal = (price, taxRate) => {
+  return price + (price * taxRate);
+};
+
+console.log(formatGreeting("Alex")); 
+console.log(calculateTotal(100, 0.13)); 
+
+
+const titleElement = document.getElementById("main-title");
+const buttonElement = document.getElementById("action-btn");
+
+let clicks = 0;
+
+buttonElement.addEventListener("click", () => {
+  clicks++;
+  titleElement.textContent = `You clicked the button ${clicks} times!`;
+  titleElement.style.color = "royalblue";
+});
+```
+

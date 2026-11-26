@@ -17,10 +17,9 @@ Attackers have their own website, embed a real website as an iframe into their w
 - [[Frame Busting IFrame Sandbox Bypass]]
 # Example HTML
 - Try not to use relative CSS like vh,vw as this makes it harder on different screen sizes
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
-
 
 <head>
 	<style>
@@ -60,7 +59,7 @@ Cache-Control: no-store, max-age=0
 ```
 
 # Alternate Payload
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -92,3 +91,28 @@ src="YOUR-LAB-ID.web-security-academy.net/feedback?name=<img src=1 onerror=print
 
 </html>
 ```
+
+
+
+
+
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+</head>
+<body>
+	<div> Display Name : <p> { USER INPUT } </p> </div>
+	<div> User Name : <p> bandom </p> </div>
+	<div> Icon : <img src='..'/> </div>
+	
+</body>
+
+</html>
+```
+
+
+
+
