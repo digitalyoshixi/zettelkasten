@@ -76,3 +76,36 @@ Object.prototype.YOUR-FUNCTION = function(){
 - [[Javascript Object Create Null Prototype]]
 ### Labs
 - [[Burp Suite Prototype Pollution Privilege Escalation]]
+
+
+# Example Source
+
+```js
+function parseQueryParams(queryString) {
+  const params = {};
+  const pairs = queryString.replace(/^\?/, '').split('&');
+
+  for (const pair of pairs) {
+    const [rawKey, rawValue] = pair.split('=');
+    const keys = decodeURIComponent(rawKey).split(/[\[\]]+/).filter(Boolean);
+    
+    let current = params;
+    for (let i = 0; i < keys.length - 1; i++) {
+      if (!current[keys[i]]) current[keys[i]] = {};
+      current = current[keys[i]];
+    }
+    current[keys[keys.length - 1]] = decodeURIComponent(rawValue);
+  }
+  return params;
+}
+
+```
+# Example Sink
+```js
+function renderBanner(options) {
+  const html = options.template || '<div>Welcome!</div>';
+  document.getElementById('banner').innerHTML = html;
+}
+
+renderBanner({}); 
+```

