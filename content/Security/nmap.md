@@ -5,6 +5,10 @@ aliases:
   - nmap snmpbrute
 ---
 This is a scanning tool built into kali linux. This allows discover of devices in a network.
+# Live Hosts
+```
+nmap -sn -iL scope_ips.txt
+```
 # Host and Port Scanning
 ```
 nmap -p- 192.168.2.1-255
